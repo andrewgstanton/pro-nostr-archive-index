@@ -1,5 +1,16 @@
 [
   {
+    "slug": "continuum-pro--sovereign-publishing-permanently-archived-under-continuum-stewardship",
+    "event_id": "63f847716efde1f4fc7d796a5f3c4b0207988cb654f4e68678d6119dc684bb48",
+    "created_at": 1763752815,
+    "npub": "npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8/30023/63f847716efde1f4fc7d796a5f3c4b0207988cb654f4e68678d6119dc684bb48.json",
+    "title": "Continuum Pro — Sovereign Publishing, Permanently Archived Under Continuum Stewardship",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "continuum-magazine-premium-index",
     "event_id": "59e08f19cfb7a1bca42a4f7c1de5a810b62b4aadfc1e34c091cb76dbc0ec7da7",
     "created_at": 1763674721,
@@ -17,8 +28,8 @@
     "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
     "kind": 30023,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/30023/2f8c9c5733a192b53ef7bbad40259b57104ea984992479a51efcdecbce6a2d0e.json",
-    "title": "",
-    "summary": "",
+    "title": "Continuum Magazine Premium Index",
+    "summary": "Premium Index for paid articles updated weekly.",
     "paid": false
   },
   {
