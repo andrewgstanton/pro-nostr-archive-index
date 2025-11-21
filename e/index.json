@@ -1,5 +1,137 @@
 [
   {
+    "slug": "continuum-magazine-premium-index",
+    "event_id": "59e08f19cfb7a1bca42a4f7c1de5a810b62b4aadfc1e34c091cb76dbc0ec7da7",
+    "created_at": 1763674721,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/59e08f19cfb7a1bca42a4f7c1de5a810b62b4aadfc1e34c091cb76dbc0ec7da7.json",
+    "title": "Continuum Magazine Premium Index",
+    "summary": "Premium Index for paid articles updated weekly.",
+    "paid": false
+  },
+  {
+    "slug": "continuum-magazine-premium-index",
+    "event_id": "2f8c9c5733a192b53ef7bbad40259b57104ea984992479a51efcdecbce6a2d0e",
+    "created_at": 1763671786,
+    "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/30023/2f8c9c5733a192b53ef7bbad40259b57104ea984992479a51efcdecbce6a2d0e.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-nov-20-2025-sovereignty-on-tired-days-how-to-stay-free-when-life-is-draining",
+    "event_id": "13eca7ca9028bdf007993baa13ee99170163f374b6b36318b0cbc345f6746175",
+    "created_at": 1763661840,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/13eca7ca9028bdf007993baa13ee99170163f374b6b36318b0cbc345f6746175.json",
+    "title": "Free Article 2 (Nov. 20, 2025): Sovereignty on Tired Days: How to Stay Free When Life Is Draining",
+    "summary": "Sovereignty isn’t built on perfect days—it’s built on the days you feel exhausted, overwhelmed, or discouraged. This piece offers practical strategies for maintaining direction and dignity even when you have very little energy to give.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-1-nov-20-2025-why-small-sovereign-habits-matter-more-than-big-plans",
+    "event_id": "7f3a46343a1d9874da4b76447123a91ad9e1119a9ab7aafb5d654ec0cbee3364",
+    "created_at": 1763661724,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/7f3a46343a1d9874da4b76447123a91ad9e1119a9ab7aafb5d654ec0cbee3364.json",
+    "title": "Free Article 1 (Nov. 20, 2025): Why Small Sovereign Habits Matter More Than Big Plans",
+    "summary": "Most people wait for perfect conditions before pursuing sovereignty. But the real transformation begins through small, steady habits that rewire your mindset, reduce dependency, and slowly shift your life in a different direction.",
+    "paid": false
+  },
+  {
+    "slug": "free-artticle-1-nov-19-2025-the-first-exit-is-internal--breaking-babylons-logic-before-breaking-its-chains",
+    "event_id": "c74971683d1a6d58f92f5724595eb2d2453491342b2c062471c7393de54e385e",
+    "created_at": 1763585974,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/c74971683d1a6d58f92f5724595eb2d2453491342b2c062471c7393de54e385e.json",
+    "title": "Free Article 1 (Nov. 19, 2025): The First Exit Is Internal — Breaking Babylon’s Logic Before Breaking Its Chains",
+    "summary": "Before we can leave any external system, we must leave its internal logic. This piece explores the mindset shifts around money, identity, time, and value that begin freeing us from the debt-based order even before we make lifestyle changes.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-nov-19-2025-micro-sovereignty--why-small-actions-matter-more-than-total-revolution",
+    "event_id": "b4814805863081b1fdf6c56d5c1a97725e44c11a269f48b99a890395bfbbc4d2",
+    "created_at": 1763585731,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/b4814805863081b1fdf6c56d5c1a97725e44c11a269f48b99a890395bfbbc4d2.json",
+    "title": "Free Article 2 (Nov. 19, 2025): Micro-Sovereignty — Why Small Actions Matter More Than “Total Revolution”",
+    "summary": "Sovereignty isn’t achieved through dramatic gestures or complete system abandonment. It grows through small, steady, cumulative actions. This piece explains why “micro-sovereignty” is more powerful than radical breaks and offers practical examples anyone can begin today.",
+    "paid": false
+  },
+  {
+    "slug": "the-babylonian-operating-system",
+    "event_id": "0e68863b924bae95915ae72e6af6309219b489b92c451b9f0b08a1f3f24ff97d",
+    "created_at": 1763579643,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/0e68863b924bae95915ae72e6af6309219b489b92c451b9f0b08a1f3f24ff97d.json",
+    "title": "The Babylonian Operating System",
+    "summary": "A 1500-word exploration of “Mystery Babylon” not as a nation or conspiracy, but as a civilizational operating system built on debt, centralization, and narrative control. This ancient pattern reappears in every empire — including our modern fiat-credit world. And for the first time in centuries, new sovereign tools offer a way out.",
+    "paid": false
+  },
+  {
+    "slug": "-the-iphone-sock--fiat-cultures-final-form",
+    "event_id": "c527dfe52d53e96f74646259312c0605d6c2af18de2af7a8fdb52d1b433aeddc",
+    "created_at": 1763488881,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/c527dfe52d53e96f74646259312c0605d6c2af18de2af7a8fdb52d1b433aeddc.json",
+    "title": "🍏📱 The iPhone Sock — Fiat Culture’s Final Form",
+    "summary": "Apple is now selling a $230 “iPhone pocket,” a luxury cloth pouch that perfectly captures the absurdity of late-fiat consumer psychology. This satirical meme-style piece explores how a branded sock became a symbol of economic decay, corporate incentives, and the theatre of prestige in a world losing touch with value.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-nov-18-2025-walled-gardens-dog-leashes-and-the-price-of-dependency",
+    "event_id": "b5fd1c034b1e3ea9cc18e244a5915bd12df671821a01de68928045ec95de127f",
+    "created_at": 1763487771,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/b5fd1c034b1e3ea9cc18e244a5915bd12df671821a01de68928045ec95de127f.json",
+    "title": "Free Article 2 (Nov. 18, 2025): Walled Gardens, Dog Leashes, and the Price of Dependency",
+    "summary": "A satirical but honest look at how modern platforms control the pace of our lives — from Rover’s 20% skim to Amazon’s non-clickable links — and why true sovereignty feels like trying to walk three dogs that refuse to agree on a speed.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-1-nov-18-2025-the-luxury-of-exhaustion--and-why-we-keep-building-anyway",
+    "event_id": "5eb8f89529869294737428be4c9cb75ad7b8ab2112d3477733cabe0036595b4f",
+    "created_at": 1763487639,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/5eb8f89529869294737428be4c9cb75ad7b8ab2112d3477733cabe0036595b4f.json",
+    "title": "Free Article 1 (Nov. 18, 2025): The Luxury of Exhaustion — And Why We Keep Building Anyway",
+    "summary": "A reflection on physical exhaustion, quiet responsibilities, and the strange form of resilience required to build something sovereign in a world of platforms that want to drain every ounce of energy you have.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-nov-17-2025-what-patronage-really-buys",
+    "event_id": "ae49c4554d14d0f7d3066f4687e1f9d071480cd1f78f451795dc328cc72a2213",
+    "created_at": 1763440464,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/ae49c4554d14d0f7d3066f4687e1f9d071480cd1f78f451795dc328cc72a2213.json",
+    "title": "Free Article 2 (Nov. 17, 2025): What Patronage Really Buys",
+    "summary": "Patronage isn’t just about “supporting a creator.” It buys time, resilience, and infrastructure so that real, sovereign tools can exist outside the VC treadmill. This is what your support actually does in my world.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-1-nov-17-2025-three-hundred-stones-in-the-wall",
+    "event_id": "86690139b8d48d61f3bfbcb4f8063a7366ed56a68994e29eaeadd7441fb075a6",
+    "created_at": 1763438594,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/86690139b8d48d61f3bfbcb4f8063a7366ed56a68994e29eaeadd7441fb075a6.json",
+    "title": "Free Article 1 (Nov. 17, 2025): Three Hundred Stones in the Wall",
+    "summary": "Hitting 300 published essays isn’t an arrival point; it’s the moment you realize you’ve just finished pouring the foundation. This is a reflection on what has actually changed—and what hasn’t—after writing almost every day through one of the hardest years of my life.",
+    "paid": false
+  },
+  {
     "slug": "crossing-300-a-reflection-on-continuity-sovereignty-and-becoming",
     "event_id": "444174c48d522c7b946d2acc6f393d020687d50778c424968471828585cbc848",
     "created_at": 1763356666,
