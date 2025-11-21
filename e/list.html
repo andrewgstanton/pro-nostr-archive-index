@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Continuum Nostr Library</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 1.5rem;
+      background: #f9fafb;
+      color: #111827;
+      line-height: 1.5;
+    }
+    h1 {
+      font-size: 1.6rem;
+      margin-bottom: 0.25rem;
+    }
+    .subtitle {
+      font-size: 0.9rem;
+      color: #6b7280;
+      margin-bottom: 1.25rem;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: #ffffff;
+      border-radius: 0.5rem;
+      overflow: hidden;
+      box-shadow: 0 1px 3px rgba(15,23,42,0.08);
+    }
+    thead {
+      background: #f3f4f6;
+    }
+    th, td {
+      padding: 0.5rem 0.75rem;
+      font-size: 0.9rem;
+      text-align: left;
+      border-bottom: 1px solid #e5e7eb;
+      vertical-align: top;
+    }
+    th {
+      font-weight: 600;
+      color: #374151;
+      white-space: nowrap;
+    }
+    tbody tr:last-child td {
+      border-bottom: none;
+    }
+    a.title-link {
+      color: #2563eb;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    a.title-link:hover {
+      text-decoration: underline;
+    }
+    .npub {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: 0.75rem;
+      color: #4b5563;
+      word-break: break-all;
+    }
+    .badge {
+      display: inline-block;
+      padding: 0.1rem 0.45rem;
+      border-radius: 999px;
+      font-size: 0.7rem;
+      font-weight: 500;
+      background: #e5e7eb;
+      color: #374151;
+      white-space: nowrap;
+    }
+    .badge.paid {
+      background: #fee2e2;
+      color: #b91c1c;
+    }
+    .badge.free {
+      background: #ecfdf3;
+      color: #166534;
+    }
+    .summary {
+      font-size: 0.8rem;
+      color: #6b7280;
+      margin-top: 0.15rem;
+    }
+    #status {
+      font-size: 0.9rem;
+      color: #6b7280;
+      margin-bottom: 0.75rem;
+    }
+    @media (max-width: 720px) {
+      th:nth-child(3),
+      td:nth-child(3) {
+        display: none; /* hide npub on narrow screens */
+      }
+    }
+  </style>
+</head>
+<body>
+  <h1>Continuum Nostr Library</h1>
+  <div class="subtitle">
+    Events mirrored into the Continuum archive (from tracked npubs).
+  </div>
+
+  <div id="status">Loading events…</div>
+
+  <table id="events-table" style="display:none;">
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Date</th>
+        <th>npub</th>
+        <th>Kind</th>
+        <th>Access</th>
+      </tr>
+    </thead>
+    <tbody id="events-body">
+    </tbody>
+  </table>
+
+  <script>
+    function formatDate(ts) {
+      if (!ts) return "";
+      return new Date(ts * 1000).toISOString().slice(0, 10);
+    }
+
+    function shortNpub(npub) {
+      if (!npub) return "";
+      if (npub.length <= 20) return npub;
+      return npub.slice(0, 8) + "…" + npub.slice(-8);
+    }
+
+    async function loadIndex() {
+      const statusEl = document.getElementById("status");
+      const tableEl = document.getElementById("events-table");
+      const tbodyEl = document.getElementById("events-body");
+
+      try {
+        const res = await fetch("index.json", { cache: "no-cache" });
+        if (!res.ok) {
+          throw new Error("Unable to load index.json");
+        }
+        const items = await res.json();
+
+        if (!Array.isArray(items) || items.length === 0) {
+          statusEl.textContent = "No events found in the archive.";
+          return;
+        }
+
+        // Sort newest first
+        items.sort((a, b) => (b.created_at || 0) - (a.created_at || 0));
+
+        tbodyEl.innerHTML = "";
+
+        for (const item of items) {
+          const tr = document.createElement("tr");
+
+          // Title cell
+          const titleTd = document.createElement("td");
+          const titleText = item.title || item.slug || "(Untitled)";
+          const a = document.createElement("a");
+          a.href = `./?event_id=${encodeURIComponent(item.event_id)}`;
+          a.textContent = titleText;
+          a.className = "title-link";
+          titleTd.appendChild(a);
+
+          if (item.summary) {
+            const summaryDiv = document.createElement("div");
+            summaryDiv.className = "summary";
+            summaryDiv.textContent = item.summary;
+            titleTd.appendChild(summaryDiv);
+          }
+
+          // Date cell
+          const dateTd = document.createElement("td");
+          dateTd.textContent = item.created_at ? formatDate(item.created_at) : "";
+
+          // npub cell
+          const npubTd = document.createElement("td");
+          if (item.npub) {
+            const npubDiv = document.createElement("div");
+            npubDiv.className = "npub";
+            npubDiv.textContent = shortNpub(item.npub);
+            npubTd.appendChild(npubDiv);
+          }
+
+          // Kind cell
+          const kindTd = document.createElement("td");
+          kindTd.textContent = item.kind != null ? String(item.kind) : "";
+
+          // Access (paid/free)
+          const accessTd = document.createElement("td");
+          const badge = document.createElement("span");
+          badge.className = "badge " + (item.paid ? "paid" : "free");
+          badge.textContent = item.paid ? "Paid" : "Free";
+          accessTd.appendChild(badge);
+
+          tr.appendChild(titleTd);
+          tr.appendChild(dateTd);
+          tr.appendChild(npubTd);
+          tr.appendChild(kindTd);
+          tr.appendChild(accessTd);
+          tbodyEl.appendChild(tr);
+        }
+
+        statusEl.textContent = `Loaded ${items.length} event(s).`;
+        tableEl.style.display = "table";
+
+      } catch (err) {
+        console.error(err);
+        statusEl.textContent = "Error loading events.";
+      }
+    }
+
+    loadIndex();
+  </script>
+</body>
+</html>
