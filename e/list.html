@@ -24,45 +24,76 @@
       color: #6b7280;
       margin-bottom: 1.25rem;
     }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      background: #ffffff;
-      border-radius: 0.5rem;
-      overflow: hidden;
-      box-shadow: 0 1px 3px rgba(15,23,42,0.08);
-    }
-    thead {
-      background: #f3f4f6;
-    }
-    th, td {
-      padding: 0.5rem 0.75rem;
+    #status {
       font-size: 0.9rem;
-      text-align: left;
-      border-bottom: 1px solid #e5e7eb;
-      vertical-align: top;
+      color: #6b7280;
+      margin-bottom: 1rem;
     }
-    th {
+    .npub-section {
+      margin-bottom: 2rem;
+      padding: 1rem 1.25rem;
+      background: #ffffff;
+      border-radius: 0.75rem;
+      box-shadow: 0 1px 3px rgba(15,23,42,0.08);
+      border: 1px solid #e5e7eb;
+    }
+    .npub-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      margin-bottom: 0.5rem;
+    }
+    .npub-title {
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: #111827;
+    }
+    .npub-key {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: 0.75rem;
+      color: #6b7280;
+      word-break: break-all;
+    }
+    .year-header {
+      font-size: 0.95rem;
       font-weight: 600;
       color: #374151;
-      white-space: nowrap;
+      margin-top: 0.85rem;
+      margin-bottom: 0.35rem;
     }
-    tbody tr:last-child td {
+    .event-list {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+    .event-item {
+      padding: 0.4rem 0;
+      border-bottom: 1px solid #e5e7eb;
+    }
+    .event-item:last-child {
       border-bottom: none;
+    }
+    .event-title-row {
+      display: flex;
+      align-items: baseline;
+      gap: 0.5rem;
+      flex-wrap: wrap;
     }
     a.title-link {
       color: #2563eb;
       text-decoration: none;
       font-weight: 500;
     }
-    a.title-link:hover {
-      text-decoration: underline;
+    a.title-link:hover { text-decoration: underline; }
+    .event-meta {
+      font-size: 0.8rem;
+      color: #6b7280;
+      margin-top: 0.1rem;
     }
-    .npub {
-      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-      font-size: 0.75rem;
+    .summary {
+      font-size: 0.8rem;
       color: #4b5563;
-      word-break: break-all;
+      margin-top: 0.2rem;
     }
     .badge {
       display: inline-block;
@@ -82,50 +113,26 @@
       background: #ecfdf3;
       color: #166534;
     }
-    .summary {
-      font-size: 0.8rem;
-      color: #6b7280;
-      margin-top: 0.15rem;
-    }
-    #status {
-      font-size: 0.9rem;
-      color: #6b7280;
-      margin-bottom: 0.75rem;
-    }
-    @media (max-width: 720px) {
-      th:nth-child(3),
-      td:nth-child(3) {
-        display: none; /* hide npub on narrow screens */
-      }
-    }
   </style>
 </head>
 <body>
   <h1>Continuum Nostr Library</h1>
   <div class="subtitle">
-    Events mirrored into the Continuum archive (from tracked npubs).
+    Events mirrored into the Continuum archive from tracked npubs, grouped by npub and year.
   </div>
 
   <div id="status">Loading events…</div>
-
-  <table id="events-table" style="display:none;">
-    <thead>
-      <tr>
-        <th>Title</th>
-        <th>Date</th>
-        <th>npub</th>
-        <th>Kind</th>
-        <th>Access</th>
-      </tr>
-    </thead>
-    <tbody id="events-body">
-    </tbody>
-  </table>
+  <div id="container"></div>
 
   <script>
     function formatDate(ts) {
       if (!ts) return "";
       return new Date(ts * 1000).toISOString().slice(0, 10);
+    }
+
+    function getYear(ts) {
+      if (!ts) return "Unknown";
+      return new Date(ts * 1000).getFullYear().toString();
     }
 
     function shortNpub(npub) {
@@ -136,8 +143,7 @@
 
     async function loadIndex() {
       const statusEl = document.getElementById("status");
-      const tableEl = document.getElementById("events-table");
-      const tbodyEl = document.getElementById("events-body");
+      const container = document.getElementById("container");
 
       try {
         const res = await fetch("index.json", { cache: "no-cache" });
@@ -145,70 +151,116 @@
           throw new Error("Unable to load index.json");
         }
         const items = await res.json();
-
         if (!Array.isArray(items) || items.length === 0) {
           statusEl.textContent = "No events found in the archive.";
           return;
         }
 
-        // Sort newest first
-        items.sort((a, b) => (b.created_at || 0) - (a.created_at || 0));
-
-        tbodyEl.innerHTML = "";
+        // Group by npub, then by year, with sorting
+        const byNpub = {};
 
         for (const item of items) {
-          const tr = document.createElement("tr");
+          const npub = item.npub || "unknown";
+          const year = getYear(item.created_at);
 
-          // Title cell
-          const titleTd = document.createElement("td");
-          const titleText = item.title || item.slug || "(Untitled)";
-          const a = document.createElement("a");
-          a.href = `./?event_id=${encodeURIComponent(item.event_id)}`;
-          a.textContent = titleText;
-          a.className = "title-link";
-          titleTd.appendChild(a);
-
-          if (item.summary) {
-            const summaryDiv = document.createElement("div");
-            summaryDiv.className = "summary";
-            summaryDiv.textContent = item.summary;
-            titleTd.appendChild(summaryDiv);
+          if (!byNpub[npub]) {
+            byNpub[npub] = { npub, years: {} };
           }
-
-          // Date cell
-          const dateTd = document.createElement("td");
-          dateTd.textContent = item.created_at ? formatDate(item.created_at) : "";
-
-          // npub cell
-          const npubTd = document.createElement("td");
-          if (item.npub) {
-            const npubDiv = document.createElement("div");
-            npubDiv.className = "npub";
-            npubDiv.textContent = shortNpub(item.npub);
-            npubTd.appendChild(npubDiv);
+          if (!byNpub[npub].years[year]) {
+            byNpub[npub].years[year] = [];
           }
-
-          // Kind cell
-          const kindTd = document.createElement("td");
-          kindTd.textContent = item.kind != null ? String(item.kind) : "";
-
-          // Access (paid/free)
-          const accessTd = document.createElement("td");
-          const badge = document.createElement("span");
-          badge.className = "badge " + (item.paid ? "paid" : "free");
-          badge.textContent = item.paid ? "Paid" : "Free";
-          accessTd.appendChild(badge);
-
-          tr.appendChild(titleTd);
-          tr.appendChild(dateTd);
-          tr.appendChild(npubTd);
-          tr.appendChild(kindTd);
-          tr.appendChild(accessTd);
-          tbodyEl.appendChild(tr);
+          byNpub[npub].years[year].push(item);
         }
 
-        statusEl.textContent = `Loaded ${items.length} event(s).`;
-        tableEl.style.display = "table";
+        // Sort npubs (alphabetically by npub)
+        const npubKeys = Object.keys(byNpub).sort();
+
+        container.innerHTML = "";
+
+        for (const npub of npubKeys) {
+          const npubGroup = byNpub[npub];
+          const npubSection = document.createElement("div");
+          npubSection.className = "npub-section";
+
+          // npub header
+          const header = document.createElement("div");
+          header.className = "npub-header";
+
+          const titleSpan = document.createElement("div");
+          titleSpan.className = "npub-title";
+          titleSpan.textContent = npub === "unknown" ? "Unknown npub" : "npub";
+
+          const npubSpan = document.createElement("div");
+          npubSpan.className = "npub-key";
+          npubSpan.textContent = npub === "unknown" ? "(missing npub)" : npub;
+
+          header.appendChild(titleSpan);
+          header.appendChild(npubSpan);
+          npubSection.appendChild(header);
+
+          // Sort years descending (2026, 2025, 2024, etc.)
+          const yearKeys = Object.keys(npubGroup.years).sort((a, b) => Number(b) - Number(a));
+
+          for (const year of yearKeys) {
+            const yearHeader = document.createElement("div");
+            yearHeader.className = "year-header";
+            yearHeader.textContent = year;
+            npubSection.appendChild(yearHeader);
+
+            const list = document.createElement("ul");
+            list.className = "event-list";
+
+            // Sort events within year by created_at descending
+            const events = npubGroup.years[year].slice().sort(
+              (a, b) => (b.created_at || 0) - (a.created_at || 0)
+            );
+
+            for (const item of events) {
+              const li = document.createElement("li");
+              li.className = "event-item";
+
+              const titleRow = document.createElement("div");
+              titleRow.className = "event-title-row";
+
+              const link = document.createElement("a");
+              link.className = "title-link";
+              link.href = `./?event_id=${encodeURIComponent(item.event_id)}`;
+              link.textContent = item.title || item.slug || "(Untitled)";
+
+              const badge = document.createElement("span");
+              badge.className = "badge " + (item.paid ? "paid" : "free");
+              badge.textContent = item.paid ? "Paid" : "Free";
+
+              titleRow.appendChild(link);
+              titleRow.appendChild(badge);
+              li.appendChild(titleRow);
+
+              const meta = document.createElement("div");
+              meta.className = "event-meta";
+              const metaParts = [];
+              if (item.created_at) metaParts.push(formatDate(item.created_at));
+              if (item.kind != null) metaParts.push("kind: " + item.kind);
+              if (item.npub) metaParts.push(shortNpub(item.npub));
+              meta.textContent = metaParts.join(" • ");
+              li.appendChild(meta);
+
+              if (item.summary) {
+                const summary = document.createElement("div");
+                summary.className = "summary";
+                summary.textContent = item.summary;
+                li.appendChild(summary);
+              }
+
+              list.appendChild(li);
+            }
+
+            npubSection.appendChild(list);
+          }
+
+          container.appendChild(npubSection);
+        }
+
+        statusEl.textContent = `Loaded ${items.length} event(s) from ${npubKeys.length} npub(s).`;
 
       } catch (err) {
         console.error(err);
