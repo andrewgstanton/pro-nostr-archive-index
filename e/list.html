@@ -156,10 +156,24 @@
           return;
         }
 
+        // Check for npub filter in query params
+        const urlParams = new URLSearchParams(window.location.search);
+        const filterNpub = urlParams.get("npub");
+        let filteredItems = items;
+
+        if (filterNpub) {
+          filteredItems = items.filter(item => item.npub === filterNpub);
+          if (!filteredItems.length) {
+            statusEl.textContent = "No events found in the archive for this npub.";
+            container.innerHTML = "";
+            return;
+          }
+        }
+
         // Group by npub, then by year, with sorting
         const byNpub = {};
 
-        for (const item of items) {
+        for (const item of filteredItems) {
           const npub = item.npub || "unknown";
           const year = getYear(item.created_at);
 
@@ -260,7 +274,7 @@
           container.appendChild(npubSection);
         }
 
-        statusEl.textContent = `Loaded ${items.length} event(s) from ${npubKeys.length} npub(s).`;
+        statusEl.textContent = `Loaded ${filteredItems.length} event(s) from ${npubKeys.length} npub(s).`;
 
       } catch (err) {
         console.error(err);
