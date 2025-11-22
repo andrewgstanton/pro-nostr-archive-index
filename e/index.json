@@ -1,5 +1,27 @@
 [
   {
+    "slug": "free-article-2-nov-21-2025-the-future-of-publishing-is-local-first-and-cloud-mirrored",
+    "event_id": "88b2fa6cb0486a7eefc6029a292f9aeb88d665b80f40c2ac8b78f4a6a6edf53e",
+    "created_at": 1763769615,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/88b2fa6cb0486a7eefc6029a292f9aeb88d665b80f40c2ac8b78f4a6a6edf53e.json",
+    "title": "Free Article 2 (Nov 21, 2025): The Future of Publishing Is Local-First and Cloud-Mirrored",
+    "summary": "The old model of publishing relied on centralized control. The new model must be local-first, with cloud infrastructure playing a supportive — not authoritative — role. Continuum Pro demonstrates what this future looks like.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-1-nov-21-2025-why-sovereign-tools-need-their-own-milestones",
+    "event_id": "9c43b80b736a376d18f76547c3ecbdf7ce7818ee5e9c78c03a5900b5451a9806",
+    "created_at": 1763769490,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/9c43b80b736a376d18f76547c3ecbdf7ce7818ee5e9c78c03a5900b5451a9806.json",
+    "title": "Free Article 1 (Nov. 21, 2025): Why Sovereign Tools Need Their Own Milestones",
+    "summary": "In a world dominated by centralized platforms, small victories in sovereign tech matter more than most people realize. This article reflects on why milestones like the launch of Continuum Pro are critical for building an alternative future.",
+    "paid": false
+  },
+  {
     "slug": "introducing-continuum-pro-a-sovereign-archive-for-nostrs-builders",
     "event_id": "acab2a52b8aa5de85f4eb4bd5d077587bcf538ed0e6b892de85d3f2c68a5fb1a",
     "created_at": 1763757340,
