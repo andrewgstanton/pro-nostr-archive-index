@@ -1,5 +1,38 @@
 [
   {
+    "slug": "announcing-continuum-pro",
+    "event_id": "0796cf873fc293a8b944670d4dad7e0d3666c09f8a464c8f342db9f1521e5e13",
+    "created_at": 1763783600,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/0796cf873fc293a8b944670d4dad7e0d3666c09f8a464c8f342db9f1521e5e13.json",
+    "title": "Announcing Continuum Pro",
+    "summary": "Akamaister shares a personal announcement about launching Continuum Pro after months of quiet work, framing it as a solution to the problem of preserving long-form Nostr posts with real permanence. The announcement focuses on sovereignty, archiving, and stability, while a separate teaser note (posted afterward) invites feedback from builders like Odell and fiatjaf. The post also highlights the managed archive, static viewer, and the perk that Pro members receive full access to all paid articles.",
+    "paid": false
+  },
+  {
+    "slug": "introducing-continuum-pro-a-sovereign-archive-for-nostrs-builders",
+    "event_id": "a0233a5fa18deab6a920ec8365abe78d1c552c9bd833d71589b215b57f19ca08",
+    "created_at": 1763783171,
+    "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/30023/a0233a5fa18deab6a920ec8365abe78d1c552c9bd833d71589b215b57f19ca08.json",
+    "title": "Introducing Continuum Pro: A Sovereign Archive for Nostr’s Builders",
+    "summary": "This editorial introduces Continuum Pro as a sovereign archive layer for Nostr’s builders and writers. It explains why relays and clients are not true memory, and how Continuum Pro preserves long-form work in open, portable structures with a public viewer, per-npub library pages, and long-term stewardship for creators who want their work to outlive feeds and client churn.",
+    "paid": false
+  },
+  {
+    "slug": "continuum-pro--sovereign-publishing-permanently-archived-under-continuum-stewardship",
+    "event_id": "36ca6f765409dd5fa947e5bd85fb4f09b0fcfb61daafc02b66f4f5f201b897bd",
+    "created_at": 1763782998,
+    "npub": "npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8/30023/36ca6f765409dd5fa947e5bd85fb4f09b0fcfb61daafc02b66f4f5f201b897bd.json",
+    "title": "Continuum Pro — Sovereign Publishing, Permanently Archived Under Continuum Stewardship",
+    "summary": "Continuum Pro is a managed, sovereign archival service for Nostr long-form (kind:30023) events. It creates a permanent, relay-independent archive under nostr.mycontinuum.xyz, with year-based directories per npub, a static HTML viewer, a global index, and full access to all paid articles, plus the local Continuum app for unlimited identity management.",
+    "paid": false
+  },
+  {
     "slug": "free-article-2-nov-21-2025-the-future-of-publishing-is-local-first-and-cloud-mirrored",
     "event_id": "a79672a5d9d8a3d659459a03c286d945aa789e26b88de9d96ffd0e92f5afc5c7",
     "created_at": 1763777842,
