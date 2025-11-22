@@ -1,5 +1,104 @@
 [
   {
+    "slug": "continuum-magazine-premium-index",
+    "event_id": "c4e33432a32c8d92656dc4030d3d89e4a379148460e0d772106bec691275f8cb",
+    "created_at": 1763849212,
+    "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/30023/c4e33432a32c8d92656dc4030d3d89e4a379148460e0d772106bec691275f8cb.json",
+    "title": "Continuum Magazine Premium Index",
+    "summary": "Premium Index for paid articles updated weekly.",
+    "paid": false
+  },
+  {
+    "slug": "continuum-magazine-premium-index",
+    "event_id": "8e90c4b997f3941eba5b32e6663092b8ff4b1cf5570a48fc1215baa4a053917a",
+    "created_at": 1763848980,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/8e90c4b997f3941eba5b32e6663092b8ff4b1cf5570a48fc1215baa4a053917a.json",
+    "title": "Continuum Magazine Premium Index",
+    "summary": "Premium Index for paid articles updated weekly.",
+    "paid": false
+  },
+  {
+    "slug": "sunday-article-nov-23-2025-the-resurrection-of-ownership-how-bitcoin-rebuilds-credit-trust-and-real-wealth",
+    "event_id": "86279d58af5666db5f37377bc15d617c8cb0724f9caa4ff8639db554305eb703",
+    "created_at": 1763848634,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/86279d58af5666db5f37377bc15d617c8cb0724f9caa4ff8639db554305eb703.json",
+    "title": "Sunday Article (Nov. 23, 2025): The Resurrection of Ownership: How Bitcoin Rebuilds Credit, Trust, and Real Wealth",
+    "summary": "A Sunday reflection on renewal — how the pattern of resurrection illuminates the rebirth of ownership in a world shifting from fiat to Bitcoin. This piece explores why ownership has been hollowed out by inflation, debt, and extraction; how hard money restores foundations; how trust re-emerges in communities; and how a Bitcoin economy gives individuals, families, and nations the ability to rise again.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-nov-23-2025-the-end-of-forever-debt-why-50-year-mortgages-cannot-exist-in-a-hard-money-economy",
+    "event_id": "0f4298dc2a41c1fffd450de3e1fb249f15e397823c9217d6e4cff75882654a8f",
+    "created_at": 1763848515,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/0f4298dc2a41c1fffd450de3e1fb249f15e397823c9217d6e4cff75882654a8f.json",
+    "title": "Free Article 2 (Nov. 23, 2025): The End of Forever-Debt: Why 50-Year Mortgages Cannot Exist in a Hard-Money Economy",
+    "summary": "A clear, practical explanation of why ultra-long mortgages (40–50 years) are only possible in a fiat system where money can be endlessly created. This article breaks down how inflation subsidizes lenders, how credit distorts home prices, how risk is hidden in securitization, and why a Bitcoin standard forces mortgages to shrink back into reality — shorter, saner, and actually payable within a working lifetime.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-1-nov-23-2025-credit-without-chains-how-trust-re-forms-on-a-bitcoin-ledger",
+    "event_id": "fca3bd6372e8ec6d4af04528fa004d78a7bd1f7644e369522bcaee0a7ed27c20",
+    "created_at": 1763848420,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/fca3bd6372e8ec6d4af04528fa004d78a7bd1f7644e369522bcaee0a7ed27c20.json",
+    "title": "Free Article 1 (Nov. 23, 2025): Credit Without Chains: How Trust Re-Forms on a Bitcoin Ledger",
+    "summary": "A practical exploration of how credit evolves in a Bitcoin-denominated economy. This article shows how trust becomes measurable, risks become transparent, lenders regain discipline, and communities regain agency. Instead of FICO scores, predatory interest, and unpayable liabilities, Bitcoin enables small, reputation-based, collateral-light credit systems that strengthen people rather than enslaving them.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-1-nov-22-2025-the-extraction-engine-why-rent-seeking-built-the-modern-world",
+    "event_id": "515caf550f109a269fe611dac19e45c656fbf658c91448bf78e64a392705c707",
+    "created_at": 1763848309,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/515caf550f109a269fe611dac19e45c656fbf658c91448bf78e64a392705c707.json",
+    "title": "Free Article 1 (Nov. 22, 2025): The Extraction Engine: Why Rent-Seeking Built the Modern World",
+    "summary": "A clear, near-future reflection on how rent-seeking—not production—became the hidden operating system of modern economies. This article examines property taxes, 50-year mortgages, debt spirals, artificial scarcity, and the illusion of ownership, then contrasts it with the emerging Bitcoin paradigm where extraction breaks down and sovereignty returns to individuals.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-nov-22-2025-imagining-mortgages-in-a-bitcoin-standard",
+    "event_id": "80418cd99201747592f55223207f17d3ae3540070a574a215eecb7ceaeeef70f",
+    "created_at": 1763848183,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/80418cd99201747592f55223207f17d3ae3540070a574a215eecb7ceaeeef70f.json",
+    "title": "Free Article 2 (Nov. 22, 2025): Imagining Mortgages in a Bitcoin Standard",
+    "summary": "A practical, near-future exploration of how mortgages would evolve under a Bitcoin standard. This article explains why ultra-long loans collapse, why price discovery resets, how lenders protect themselves without inflation, how communities reclaim credit, and how home ownership becomes more attainable—not less—in a hard-money world.",
+    "paid": false
+  },
+  {
+    "slug": "sabbath-article-nov-22-2025-sabbath-for-the-sovereign-resting-from-the-worlds-rent-extraction-system",
+    "event_id": "5d6c89e754c000d03fc637fcd86c384b7695ac4f0b1a2309a9df5cca4db446f9",
+    "created_at": 1763848058,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/5d6c89e754c000d03fc637fcd86c384b7695ac4f0b1a2309a9df5cca4db446f9.json",
+    "title": "Sabbath Article (Nov. 22, 2025): Sabbath for the Sovereign: Resting From the World’s Rent-Extraction System",
+    "summary": "A meditation on the Sabbath principle — not as a religious artifact, but as a universal pattern of rest, resistance, and sovereignty. This article explores why modern people have no economic Sabbath, how perpetual extraction has replaced rest, why Bitcoin functions as a Sabbath-technology, and how reclaiming rest becomes an act of freedom in an age built on debt, interest, and rent.",
+    "paid": false
+  },
+  {
+    "slug": "can-we-eliminate-world-debt-on-a-bitcoin-standard",
+    "event_id": "095273686050b776a1c8e085f3e9d15146a65f2eedf2c4df55daa95cfcb9aa50",
+    "created_at": 1763847935,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/095273686050b776a1c8e085f3e9d15146a65f2eedf2c4df55daa95cfcb9aa50.json",
+    "title": "Can We Eliminate World Debt on a Bitcoin Standard?",
+    "summary": "This article explores whether it’s actually possible to eliminate national and global debt using a Bitcoin standard. It explains what “debt” really means, why our current system mathematically requires ever-growing obligations, and how a transition to hard money would force a restructuring of claims. The conclusion: yes, we can end the era of unpayable debt — but only through a combination of restructuring, partial defaults, and a reset onto honest money, not by magically honoring every fiat IOU.",
+    "paid": false
+  },
+  {
     "slug": "sunday-article-nov-23-2025-the-resurrection-of-ownership-how-bitcoin-rebuilds-credit-trust-and-real-wealth",
     "event_id": "806e978774aeb473148ed26d30bb63f237ea4478faa9e918026a3aa3dd44d651",
     "created_at": 1763843762,
