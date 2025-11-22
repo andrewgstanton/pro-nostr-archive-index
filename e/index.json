@@ -3608,6 +3608,17 @@
     "paid": false
   },
   {
+    "slug": "turning-linkedin-data-into-a-nostr-identity--milestone-v14",
+    "event_id": "4af728dccca1cd1011451cd2ccdfc4165bbb488c1e02c8ecf174f457cdc827a1",
+    "created_at": 1752461227,
+    "npub": "npub16475q7egtklnkaneftqqlrt33sc79h47w92wd93me8ay9ytjkm3qj603xl",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub16475q7egtklnkaneftqqlrt33sc79h47w92wd93me8ay9ytjkm3qj603xl/30023/4af728dccca1cd1011451cd2ccdfc4165bbb488c1e02c8ecf174f457cdc827a1.json",
+    "title": "Turning LinkedIn Data into a Nostr Identity — Milestone v1.4",
+    "summary": "In Continuum v1.4, I successfully imported my LinkedIn profile into a sovereign Nostr identity. This article walks through how a LinkedIn export was transformed into a signed kind:0 event — published to relays and viewable inside the Continuum dashboard. It's a major milestone in bridging centralized platforms with decentralized identity.",
+    "paid": false
+  },
+  {
     "slug": "whitepaper-continuum",
     "event_id": "9b62b703c83722ca308e15a1e41e8964d53e2dfb8773a46839299b51d25a4b17",
     "created_at": 1752292070,
@@ -3638,6 +3649,17 @@
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8/30023/20201f5660b8e443c8fe933457c37aa9208353e4e8f74a5b89feee4027c43753.json",
     "title": "📦 CHANGELOG (Pro)— MyContinuum v1.3.0",
     "summary": "changelog for v1.3",
+    "paid": false
+  },
+  {
+    "slug": "-welcome-to-blue-planet-ventures",
+    "event_id": "4a12649db6262dcb76df2dddbbc1b3d5c2dc287349d3ee23d1295af082e14f58",
+    "created_at": 1752020966,
+    "npub": "npub1nxq3v0mr2656ykdw550uq6s0hjpjuufkdhx2ysk0789kjq5xu7ns8aunx4",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1nxq3v0mr2656ykdw550uq6s0hjpjuufkdhx2ysk0789kjq5xu7ns8aunx4/30023/4a12649db6262dcb76df2dddbbc1b3d5c2dc287349d3ee23d1295af082e14f58.json",
+    "title": "🌍 Welcome to Blue Planet Ventures",
+    "summary": "Launching Blue Planet Ventures on Nostr — a new company exploring sovereign trading, capital formation, and sustainability through Bitcoin and open protocols.",
     "paid": false
   },
   {
