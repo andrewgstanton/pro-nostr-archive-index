@@ -47,6 +47,27 @@
       overflow-x:auto;
     }
     .error { color:#b91c1c; font-weight:600; margin-top:1rem; }
+
+    #header-image img {
+      max-width: 100%;
+      border-radius: 0.75rem;
+      margin-bottom: 1rem;
+      display: block;
+    }
+
+    .tags {
+      margin: 0.5rem 0 1rem 0;
+      font-size: 0.9rem;
+      color: #444;
+    }
+    .tags span {
+      background: #eee;
+      padding: 3px 8px;
+      margin-right: 6px;
+      margin-bottom: 6px;
+      border-radius: 6px;
+      display: inline-block;
+    }
   </style>
 
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
@@ -56,7 +77,12 @@
   <h1 id="title">Loading…</h1>
   <div class="meta" id="meta"></div>
   <div class="summary" id="summary" style="display:none;"></div>
+
+  <div id="tags" style="display:none;" class="tags"></div>
+
   <div class="links" id="links" style="display:none;"></div>
+
+  <div id="header-image"></div>
 
   <div id="loading">Fetching event…</div>
   <div id="content"></div>
@@ -85,6 +111,8 @@
       const linksEl = document.getElementById("links");
       const loadingEl = document.getElementById("loading");
       const contentEl = document.getElementById("content");
+      const tagsEl = document.getElementById("tags");
+      const headerImageEl = document.getElementById("header-image");
 
       try {
         const indexRes = await fetch("index.json", { cache: "no-cache" });
@@ -96,10 +124,38 @@
           return;
         }
 
-        // Header
-        titleEl.textContent = entry.title || entry.slug;
+        // Load JSON for event first
+        const jsonUrl = entry.json_url;
+        const evRes = await fetch(jsonUrl, { cache: "no-cache" });
+        const evJson = await evRes.json();
+
+        loadingEl.style.display = "none";
+
+        const tags = Array.isArray(evJson.tags) ? evJson.tags : [];
+        const findTag = (name) => tags.find(t => t[0] === name);
+
+        // display_date and image tags
+        const displayDateTag = findTag("display_date");
+        const imageTag = findTag("image");
+
+        const displayDate = displayDateTag ? displayDateTag[1] : "";
+
+        // Topic tags from "t" tags
+        const topicTags = tags
+          .filter(t => t[0] === "t")
+          .map(t => t[1])
+          .filter(Boolean);
+
+        // Header: title
+        titleEl.textContent = entry.title || entry.slug || "Untitled";
+
+        // Dates: Created (created_at) and Published (display_date or created_at)
+        const createdDate = entry.created_at ? formatDate(entry.created_at) : "";
+        const publishedDate = displayDate || createdDate;
+
         metaEl.textContent = [
-          entry.created_at ? `Published: ${formatDate(entry.created_at)}` : "",
+          createdDate ? `Created: ${createdDate}` : "",
+          publishedDate ? `Published: ${publishedDate}` : "",
           entry.npub ? `npub: ${entry.npub}` : "",
           entry.kind ? `kind: ${entry.kind}` : ""
         ].filter(Boolean).join(" • ");
@@ -110,8 +166,15 @@
           summaryEl.textContent = entry.summary;
         }
 
+        // Tags line
+        if (topicTags.length) {
+          tagsEl.style.display = "block";
+          tagsEl.innerHTML = topicTags
+            .map(tag => `<span>#${tag}</span>`)
+            .join(" ");
+        }
+
         // Links
-        const jsonUrl = entry.json_url;
         const base = jsonUrl.replace(/\.json$/i, "");
         const mdUrl = base + ".md";
         const pdfUrl = base + ".pdf";
@@ -127,11 +190,14 @@
         `;
         linksEl.style.display = "block";
 
-        // Load JSON for event
-        const evRes = await fetch(jsonUrl, { cache: "no-cache" });
-        const evJson = await evRes.json();
-
-        loadingEl.style.display = "none";
+        // Header image from "image" tag, if present
+        if (imageTag && imageTag[1]) {
+          const img = document.createElement("img");
+          img.src = imageTag[1];
+          img.alt = entry.title || entry.slug || "Article image";
+          headerImageEl.innerHTML = "";
+          headerImageEl.appendChild(img);
+        }
 
         // Render Markdown if present
         const raw = evJson.content || "";
@@ -160,3 +226,4 @@
   </script>
 </body>
 </html>
+
