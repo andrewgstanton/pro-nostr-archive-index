@@ -26,65 +26,101 @@
     }
     #status {
       font-size: 0.9rem;
-      color: #6b7280;
+      color: #4b5563;
       margin-bottom: 1rem;
     }
+    .filters {
+      margin-bottom: 1rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      align-items: center;
+    }
+    .filters label {
+      font-size: 0.9rem;
+      color: #4b5563;
+    }
+    .filters input {
+      font-size: 0.9rem;
+      padding: 0.15rem 0.3rem;
+      border-radius: 0.25rem;
+      border: 1px solid #d1d5db;
+    }
+    .filters button {
+      font-size: 0.85rem;
+      padding: 0.2rem 0.6rem;
+      border-radius: 0.25rem;
+      border: none;
+      cursor: pointer;
+      background: #e5e7eb;
+      color: #374151;
+    }
+    .filters button:hover {
+      background: #d1d5db;
+    }
+
     .npub-section {
       margin-bottom: 2rem;
-      padding: 1rem 1.25rem;
-      background: #ffffff;
+      padding: 1.25rem;
       border-radius: 0.75rem;
-      box-shadow: 0 1px 3px rgba(15,23,42,0.08);
-      border: 1px solid #e5e7eb;
+      background: #ffffff;
+      box-shadow: 0 1px 2px rgba(0,0,0,0.05);
     }
     .npub-header {
       display: flex;
       justify-content: space-between;
       align-items: baseline;
+      border-bottom: 1px solid #e5e7eb;
+      padding-bottom: 0.5rem;
       margin-bottom: 0.5rem;
     }
-    .npub-title {
-      font-size: 1.1rem;
+    .npub-header .npub-label {
+      font-size: 1rem;
       font-weight: 600;
       color: #111827;
     }
-    .npub-key {
+    .npub-header .npub-value {
       font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
       font-size: 0.75rem;
       color: #6b7280;
+      text-align: right;
+      max-width: 60%;
       word-break: break-all;
     }
     .year-header {
-      font-size: 0.95rem;
+      margin-top: 0.75rem;
+      margin-bottom: 0.25rem;
+      font-size: 0.9rem;
       font-weight: 600;
-      color: #374151;
-      margin-top: 0.85rem;
-      margin-bottom: 0.35rem;
+      color: #4b5563;
     }
+
     .event-list {
       list-style: none;
-      margin: 0;
       padding: 0;
+      margin: 0;
     }
     .event-item {
       padding: 0.4rem 0;
-      border-bottom: 1px solid #e5e7eb;
+      border-top: 1px solid #e5e7eb;
     }
-    .event-item:last-child {
-      border-bottom: none;
+    .event-item:first-of-type {
+      border-top: none;
     }
     .event-title-row {
       display: flex;
-      align-items: baseline;
+      justify-content: space-between;
+      align-items: center;
       gap: 0.5rem;
-      flex-wrap: wrap;
     }
-    a.title-link {
-      color: #2563eb;
+    .title-link {
+      font-size: 0.95rem;
+      color: #1d4ed8;
       text-decoration: none;
-      font-weight: 500;
     }
-    a.title-link:hover { text-decoration: underline; }
+    .title-link:hover {
+      text-decoration: underline;
+    }
     .event-meta {
       font-size: 0.8rem;
       color: #6b7280;
@@ -95,50 +131,77 @@
       color: #4b5563;
       margin-top: 0.2rem;
     }
+    .event-versions {
+      font-size: 0.78rem;
+      color: #6b7280;
+      margin-top: 0.15rem;
+    }
+
+    .event-versions summary {
+      cursor: pointer;
+      list-style: none;
+    }
+
+    .event-versions summary::-webkit-details-marker {
+      display: none;
+    }
+
+    .event-versions summary::before {
+      content: "▾ ";
+      font-size: 0.7rem;
+    }
+
     .badge {
       display: inline-block;
       padding: 0.1rem 0.45rem;
       border-radius: 999px;
       font-size: 0.7rem;
       font-weight: 500;
-      background: #e5e7eb;
-      color: #374151;
       white-space: nowrap;
+    }
+    .badge.free {
+      background: #dcfce7;
+      color: #166534;
     }
     .badge.paid {
       background: #fee2e2;
       color: #b91c1c;
     }
-    .badge.free {
-      background: #ecfdf3;
-      color: #166534;
-    }
   </style>
 </head>
+
 <body>
   <h1>Continuum Nostr Library</h1>
-  <div class="subtitle">
-    Events mirrored into the Continuum archive from tracked npubs, grouped by npub and year.
+  <div class="subtitle">Articles and long-form events archived by npub and year.</div>
+
+  <div class="filters">
+    <label for="npub-filter">Filter by npub:</label>
+    <input id="npub-filter" type="text" placeholder="Paste npub..." />
+    <button id="apply-filter">Apply</button>
+    <button id="clear-filter">Clear</button>
   </div>
 
-  <div id="status">Loading events…</div>
+  <div id="status">Loading index…</div>
   <div id="container"></div>
 
   <script>
     function formatDate(ts) {
       if (!ts) return "";
-      return new Date(ts * 1000).toISOString().slice(0, 10);
+      const d = new Date(ts * 1000);
+      const year = d.getUTCFullYear();
+      const month = String(d.getUTCMonth() + 1).padStart(2, "0");
+      const day = String(d.getUTCDate()).padStart(2, "0");
+      return `${year}-${month}-${day}`;
     }
 
     function getYear(ts) {
       if (!ts) return "Unknown";
-      return new Date(ts * 1000).getFullYear().toString();
+      return new Date(ts * 1000).getUTCFullYear();
     }
 
     function shortNpub(npub) {
-      if (!npub) return "";
-      if (npub.length <= 20) return npub;
-      return npub.slice(0, 8) + "…" + npub.slice(-8);
+      if (!npub || npub.length <= 18) return npub || "";
+      return npub.slice(0, 12) + "…" + npub.slice(-6);
     }
 
     async function loadIndex() {
@@ -170,10 +233,31 @@
           }
         }
 
+        // Group by (npub, slug) to collapse multiple versions of the same article
+        const slugGroups = {};
+        for (const item of filteredItems) {
+          const slugKey = (item.npub || "unknown") + "::" + (item.slug || item.event_id);
+          if (!slugGroups[slugKey]) slugGroups[slugKey] = [];
+          slugGroups[slugKey].push(item);
+        }
+
+        // For each (npub, slug) group, sort by created_at desc and keep track of all versions
+        const dedupedItems = [];
+        for (const key in slugGroups) {
+          const group = slugGroups[key].sort(
+            (a, b) => (b.created_at || 0) - (a.created_at || 0)
+          );
+          dedupedItems.push({
+            latest: group[0],
+            versions: group
+          });
+        }
+
         // Group by npub, then by year, with sorting
         const byNpub = {};
 
-        for (const item of filteredItems) {
+        for (const entry of dedupedItems) {
+          const item = entry.latest;
           const npub = item.npub || "unknown";
           const year = getYear(item.created_at);
 
@@ -183,10 +267,10 @@
           if (!byNpub[npub].years[year]) {
             byNpub[npub].years[year] = [];
           }
-          byNpub[npub].years[year].push(item);
+          byNpub[npub].years[year].push(entry);
         }
 
-        // Sort npubs (alphabetically by npub)
+        // Sort npubs (alphabetical)
         const npubKeys = Object.keys(byNpub).sort();
 
         container.innerHTML = "";
@@ -201,15 +285,15 @@
           header.className = "npub-header";
 
           const titleSpan = document.createElement("div");
-          titleSpan.className = "npub-title";
-          titleSpan.textContent = npub === "unknown" ? "Unknown npub" : "npub";
+          titleSpan.className = "npub-label";
+          titleSpan.textContent = "npub";
 
-          const npubSpan = document.createElement("div");
-          npubSpan.className = "npub-key";
-          npubSpan.textContent = npub === "unknown" ? "(missing npub)" : npub;
+          const valueSpan = document.createElement("div");
+          valueSpan.className = "npub-value";
+          valueSpan.textContent = npub;
 
           header.appendChild(titleSpan);
-          header.appendChild(npubSpan);
+          header.appendChild(valueSpan);
           npubSection.appendChild(header);
 
           // Sort years descending (2026, 2025, 2024, etc.)
@@ -224,12 +308,14 @@
             const list = document.createElement("ul");
             list.className = "event-list";
 
-            // Sort events within year by created_at descending
+            // Sort events within year by created_at of latest version, descending
             const events = npubGroup.years[year].slice().sort(
-              (a, b) => (b.created_at || 0) - (a.created_at || 0)
+              (a, b) => ((b.latest.created_at || 0) - (a.latest.created_at || 0))
             );
 
-            for (const item of events) {
+            for (const entry of events) {
+              const item = entry.latest;
+
               const li = document.createElement("li");
               li.className = "event-item";
 
@@ -248,6 +334,36 @@
               titleRow.appendChild(link);
               titleRow.appendChild(badge);
               li.appendChild(titleRow);
+
+              // If there are multiple versions for this slug, show a collapsible list
+              if (entry.versions && entry.versions.length > 1) {
+                const details = document.createElement("details");
+                details.className = "event-versions";
+
+                const summary = document.createElement("summary");
+                summary.textContent = `Versions (${entry.versions.length})`;
+                details.appendChild(summary);
+
+                const ul = document.createElement("ul");
+                ul.style.margin = "0.25rem 0 0 0.5rem";
+                ul.style.padding = "0";
+
+                entry.versions.forEach(v => {
+                  const li2 = document.createElement("li");
+                  li2.style.listStyle = "none";
+
+                  const a2 = document.createElement("a");
+                  a2.href = `./?event_id=${encodeURIComponent(v.event_id)}`;
+                  const vDate = v.created_at ? formatDate(v.created_at) : "";
+                  a2.textContent = `${vDate} • kind: ${v.kind} • ${v.event_id.slice(0, 6)}…`;
+
+                  li2.appendChild(a2);
+                  ul.appendChild(li2);
+                });
+
+                details.appendChild(ul);
+                li.appendChild(details);
+              }
 
               const meta = document.createElement("div");
               meta.className = "event-meta";
@@ -274,7 +390,7 @@
           container.appendChild(npubSection);
         }
 
-        statusEl.textContent = `Loaded ${filteredItems.length} event(s) from ${npubKeys.length} npub(s).`;
+        statusEl.textContent = `Loaded ${dedupedItems.length} event(s) from ${npubKeys.length} npub(s).`;
 
       } catch (err) {
         console.error(err);
@@ -283,6 +399,29 @@
     }
 
     loadIndex();
+
+    // simple npub filter controls
+    const filterInput = document.getElementById("npub-filter");
+    const applyBtn = document.getElementById("apply-filter");
+    const clearBtn = document.getElementById("clear-filter");
+
+    applyBtn.addEventListener("click", () => {
+      const npub = filterInput.value.trim();
+      const params = new URLSearchParams(window.location.search);
+      if (npub) {
+        params.set("npub", npub);
+      } else {
+        params.delete("npub");
+      }
+      window.location.search = params.toString();
+    });
+
+    clearBtn.addEventListener("click", () => {
+      filterInput.value = "";
+      const params = new URLSearchParams(window.location.search);
+      params.delete("npub");
+      window.location.search = params.toString();
+    });
   </script>
 </body>
 </html>
