@@ -16,13 +16,21 @@
       color: #111;
     }
     h1 { margin-bottom: 0.2rem; }
-    .meta { font-size: 0.9rem; color:#666; margin-bottom: 1rem; }
+
+    .meta {
+      font-size: 0.9rem;
+      color:#555;
+      margin-bottom: 0.5rem;
+      white-space: pre-line;
+    }
+
     .summary {
       background:#eef2ff;
       padding:0.75rem 1rem;
       border-radius:0.5rem;
       margin-bottom:1rem;
     }
+
     .links {
       background:#f3f4f6;
       padding:0.75rem 1rem;
@@ -38,6 +46,7 @@
       text-decoration:none;
     }
     .links a:hover { text-decoration:underline; }
+
     pre {
       background:#111;
       color:#eee;
@@ -46,7 +55,6 @@
       font-size:0.85rem;
       overflow-x:auto;
     }
-    .error { color:#b91c1c; font-weight:600; margin-top:1rem; }
 
     #header-image img {
       max-width: 100%;
@@ -75,7 +83,9 @@
 
 <body>
   <h1 id="title">Loading…</h1>
+
   <div class="meta" id="meta"></div>
+
   <div class="summary" id="summary" style="display:none;"></div>
 
   <div id="tags" style="display:none;" class="tags"></div>
@@ -87,143 +97,133 @@
   <div id="loading">Fetching event…</div>
   <div id="content"></div>
 
-  <script>
-    function getEventId() {
-      const params = new URLSearchParams(window.location.search);
-      return params.get("event_id");
+<script>
+  function getEventId() {
+    const params = new URLSearchParams(window.location.search);
+    return params.get("event_id");
+  }
+
+  function formatDate(ts) {
+    if (!ts) return "";
+    return new Date(ts * 1000).toISOString().slice(0, 10);
+  }
+
+  async function loadEvent() {
+    const eventId = getEventId();
+    if (!eventId) {
+      window.location.href = "/404.html";
+      return;
     }
 
-    function formatDate(ts) {
-      if (!ts) return "";
-      return new Date(ts * 1000).toISOString().slice(0, 10);
-    }
+    const titleEl = document.getElementById("title");
+    const metaEl = document.getElementById("meta");
+    const summaryEl = document.getElementById("summary");
+    const linksEl = document.getElementById("links");
+    const contentEl = document.getElementById("content");
+    const tagsEl = document.getElementById("tags");
+    const headerImageEl = document.getElementById("header-image");
+    const loadingEl = document.getElementById("loading");
 
-    async function loadEvent() {
-      const eventId = getEventId();
-      if (!eventId) {
+    try {
+      const indexRes = await fetch("index.json", { cache: "no-cache" });
+      const index = await indexRes.json();
+      const entry = index.find(e => e.event_id === eventId);
+
+      if (!entry) {
         window.location.href = "/404.html";
         return;
       }
 
-      const titleEl = document.getElementById("title");
-      const metaEl = document.getElementById("meta");
-      const summaryEl = document.getElementById("summary");
-      const linksEl = document.getElementById("links");
-      const loadingEl = document.getElementById("loading");
-      const contentEl = document.getElementById("content");
-      const tagsEl = document.getElementById("tags");
-      const headerImageEl = document.getElementById("header-image");
+      // Load event JSON
+      const jsonUrl = entry.json_url;
+      const evRes = await fetch(jsonUrl, { cache: "no-cache" });
+      const evJson = await evRes.json();
 
-      try {
-        const indexRes = await fetch("index.json", { cache: "no-cache" });
-        const index = await indexRes.json();
-        const entry = index.find(e => e.event_id === eventId);
+      loadingEl.style.display = "none";
 
-        if (!entry) {
-          window.location.href = "/404.html";
-          return;
-        }
+      const tags = Array.isArray(evJson.tags) ? evJson.tags : [];
+      const findTag = (name) => tags.find(t => t[0] === name);
 
-        // Load JSON for event first
-        const jsonUrl = entry.json_url;
-        const evRes = await fetch(jsonUrl, { cache: "no-cache" });
-        const evJson = await evRes.json();
+      const displayDateTag = findTag("display_date");
+      const imageTag = findTag("image");
+      const displayDate = displayDateTag ? displayDateTag[1] : "";
 
-        loadingEl.style.display = "none";
+      // Extract topic tags (no "#")
+      const topicTags = tags
+        .filter(t => t[0] === "t")
+        .map(t => t[1])
+        .filter(Boolean);
 
-        const tags = Array.isArray(evJson.tags) ? evJson.tags : [];
-        const findTag = (name) => tags.find(t => t[0] === name);
+      // Title
+      titleEl.textContent = entry.title || entry.slug || "Untitled";
 
-        // display_date and image tags
-        const displayDateTag = findTag("display_date");
-        const imageTag = findTag("image");
+      // Created & Published
+      const createdDate = entry.created_at ? formatDate(entry.created_at) : "";
+      const publishedDate = displayDate || createdDate;
 
-        const displayDate = displayDateTag ? displayDateTag[1] : "";
+      // Meta: first line + second line
+      metaEl.textContent =
+        `Created: ${createdDate} • Published: ${publishedDate}\n` +
+        (entry.npub ? `npub: ${entry.npub}` : "");
 
-        // Topic tags from "t" tags
-        const topicTags = tags
-          .filter(t => t[0] === "t")
-          .map(t => t[1])
-          .filter(Boolean);
-
-        // Header: title
-        titleEl.textContent = entry.title || entry.slug || "Untitled";
-
-        // Dates: Created (created_at) and Published (display_date or created_at)
-        const createdDate = entry.created_at ? formatDate(entry.created_at) : "";
-        const publishedDate = displayDate || createdDate;
-
-        metaEl.textContent = [
-          createdDate ? `Created: ${createdDate}` : "",
-          publishedDate ? `Published: ${publishedDate}` : "",
-          entry.npub ? `npub: ${entry.npub}` : "",
-          entry.kind ? `kind: ${entry.kind}` : ""
-        ].filter(Boolean).join(" • ");
-
-        // Summary
-        if (entry.summary) {
-          summaryEl.style.display = "block";
-          summaryEl.textContent = entry.summary;
-        }
-
-        // Tags line
-        if (topicTags.length) {
-          tagsEl.style.display = "block";
-          tagsEl.innerHTML = topicTags
-            .map(tag => `<span>#${tag}</span>`)
-            .join(" ");
-        }
-
-        // Links
-        const base = jsonUrl.replace(/\.json$/i, "");
-        const mdUrl = base + ".md";
-        const pdfUrl = base + ".pdf";
-
-        linksEl.innerHTML = `
-          <a href="${jsonUrl}" target="_blank">Raw JSON</a>
-          <a href="${mdUrl}" target="_blank">Markdown (if exists)</a>
-          <a href="${pdfUrl}" target="_blank">PDF (if exists)</a>
-          <a href="https://primal.net/e/${eventId}" target="_blank">Primal</a>
-          <a href="https://coracle.social/notes/${eventId}" target="_blank">Coracle</a>
-          <a href="https://phoenix.social/e/${eventId}" target="_blank">Phoenix</a>
-          <a href="https://njump.me/${eventId}" target="_blank">njump</a>
-        `;
-        linksEl.style.display = "block";
-
-        // Header image from "image" tag, if present
-        if (imageTag && imageTag[1]) {
-          const img = document.createElement("img");
-          img.src = imageTag[1];
-          img.alt = entry.title || entry.slug || "Article image";
-          headerImageEl.innerHTML = "";
-          headerImageEl.appendChild(img);
-        }
-
-        // Render Markdown if present
-        const raw = evJson.content || "";
-        let html = "";
-        try {
-          html = marked.parse(raw);
-        } catch {
-          html = "";
-        }
-
-        if (html.trim()) {
-          contentEl.innerHTML = html;
-        } else {
-          const pre = document.createElement("pre");
-          pre.textContent = JSON.stringify(evJson, null, 2);
-          contentEl.appendChild(pre);
-        }
-
-      } catch (err) {
-        console.error(err);
-        window.location.href = "/404.html";
+      // Summary
+      if (entry.summary) {
+        summaryEl.style.display = "block";
+        summaryEl.textContent = entry.summary;
       }
-    }
 
-    loadEvent();
-  </script>
+      // Tag pills
+      if (topicTags.length) {
+        tagsEl.style.display = "block";
+        tagsEl.innerHTML = topicTags
+          .map(tag => `<span>${tag}</span>`)
+          .join(" ");
+      }
+
+      // Links
+      const base = jsonUrl.replace(/\.json$/i, "");
+      const mdUrl = base + ".md";
+      const pdfUrl = base + ".pdf";
+
+      linksEl.innerHTML = `
+        <a href="${jsonUrl}" target="_blank">Raw JSON</a>
+        <a href="${mdUrl}" target="_blank">Markdown (if exists)</a>
+        <a href="${pdfUrl}" target="_blank">PDF (if exists)</a>
+        <a href="https://primal.net/e/${eventId}" target="_blank">Primal</a>
+        <a href="https://coracle.social/notes/${eventId}" target="_blank">Coracle</a>
+        <a href="https://phoenix.social/e/${eventId}" target="_blank">Phoenix</a>
+        <a href="https://njump.me/${eventId}" target="_blank">njump</a>
+      `;
+      linksEl.style.display = "block";
+
+      // Header image
+      if (imageTag && imageTag[1]) {
+        const img = document.createElement("img");
+        img.src = imageTag[1];
+        img.alt = entry.title || entry.slug;
+        headerImageEl.innerHTML = "";
+        headerImageEl.appendChild(img);
+      }
+
+      // Markdown → HTML
+      const raw = evJson.content || "";
+      let html = "";
+      try {
+        html = marked.parse(raw);
+      } catch { html = ""; }
+
+      contentEl.innerHTML = html.trim()
+        ? html
+        : `<pre>${JSON.stringify(evJson, null, 2)}</pre>`;
+
+    } catch (err) {
+      console.error(err);
+      window.location.href = "/404.html";
+    }
+  }
+
+  loadEvent();
+</script>
+
 </body>
 </html>
-
