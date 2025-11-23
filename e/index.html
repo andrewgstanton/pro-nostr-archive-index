@@ -15,12 +15,20 @@
 
       /* Continuum watermark background */
       background-color: #f9fafb;
-      background-image: url("/images/A_minimalist_digital_image_displays_an_infinity_sy.png");
+      background-image: url("A_minimalist_digital_image_displays_an_infinity_sy.png");
       background-repeat: repeat;
-      background-size: 180px 180px;  /* adjust tile density */
+      background-size: 180px 180px;  /* adjust tile density if needed */
       background-attachment: fixed;
 
       color: #111;
+    }
+
+    .content-container {
+      background: #ffffff;
+      padding: 2rem;
+      margin: 1.5rem auto;
+      border-radius: 0.75rem;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
     }
 
     h1 { margin-bottom: 0.2rem; }
@@ -29,7 +37,7 @@
       font-size: 0.9rem;
       color:#555;
       margin-bottom: 0.5rem;
-      white-space: pre-line;
+      white-space: pre-line; /* lets the \n show as a second line */
     }
 
     .summary {
@@ -90,20 +98,22 @@
 </head>
 
 <body>
-  <h1 id="title">Loading…</h1>
+  <div class="content-container">
+    <h1 id="title">Loading…</h1>
 
-  <div class="meta" id="meta"></div>
+    <div class="meta" id="meta"></div>
 
-  <div class="summary" id="summary" style="display:none;"></div>
+    <div class="summary" id="summary" style="display:none;"></div>
 
-  <div id="tags" style="display:none;" class="tags"></div>
+    <div id="tags" style="display:none;" class="tags"></div>
 
-  <div class="links" id="links" style="display:none;"></div>
+    <div class="links" id="links" style="display:none;"></div>
 
-  <div id="header-image"></div>
+    <div id="header-image"></div>
 
-  <div id="loading">Fetching event…</div>
-  <div id="content"></div>
+    <div id="loading">Fetching event…</div>
+    <div id="content"></div>
+  </div>
 
 <script>
   function getEventId() {
@@ -169,7 +179,7 @@
       const createdDate = entry.created_at ? formatDate(entry.created_at) : "";
       const publishedDate = displayDate || createdDate;
 
-      // Meta: first line + second line
+      // Meta: line 1 (created/published) + line 2 (npub)
       metaEl.textContent =
         `Created: ${createdDate} • Published: ${publishedDate}\n` +
         (entry.npub ? `npub: ${entry.npub}` : "");
@@ -220,9 +230,13 @@
         html = marked.parse(raw);
       } catch { html = ""; }
 
-      contentEl.innerHTML = html.trim()
-        ? html
-        : `<pre>${JSON.stringify(evJson, null, 2)}</pre>`;
+      if (html.trim()) {
+        contentEl.innerHTML = html;
+      } else {
+        const pre = document.createElement("pre");
+        pre.textContent = JSON.stringify(evJson, null, 2);
+        contentEl.appendChild(pre);
+      }
 
     } catch (err) {
       console.error(err);
