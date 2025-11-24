@@ -1,13 +1,46 @@
 [
   {
+    "slug": "continuum-magazine--index",
+    "event_id": "a88d8fdd4d6207b15f717e61e6605c6c1a373c57b9a4cdbc698253e612810e77",
+    "created_at": 1764021848,
+    "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/30023/a88d8fdd4d6207b15f717e61e6605c6c1a373c57b9a4cdbc698253e612810e77.json",
+    "title": "Continuum Magazine — Index",
+    "summary": "Index of all Continuum Magazine Issues",
+    "paid": false
+  },
+  {
+    "slug": "cotninuum-magazine---issue-7-oct13-19-2025",
+    "event_id": "6468497bde412e713f5695ea672b723d276734ca97d7c9d807d6603d3a9a235d",
+    "created_at": 1764020743,
+    "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/30023/6468497bde412e713f5695ea672b723d276734ca97d7c9d807d6603d3a9a235d.json",
+    "title": "Continuum Magazine - Issue #7 (Oct.13-19, 2025)",
+    "summary": "# 7.  This issue of Continuum Magazine brings together the Oct.13-19, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction.",
+    "paid": false
+  },
+  {
+    "slug": "continuum-magazine---issue-11-nov10-16-2025",
+    "event_id": "b6680c02ec1d5d67e205dc23bd8e3898100350ee723243cf9f5d1f61abb7d183",
+    "created_at": 1764018206,
+    "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/30023/b6680c02ec1d5d67e205dc23bd8e3898100350ee723243cf9f5d1f61abb7d183.json",
+    "title": "Continuum Magazine - Issue #11 (Nov.10-16, 2025)",
+    "summary": "# 11.  This issue of Continuum Magazine brings together the Nov.10-Nov.16, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction.",
+    "paid": false
+  },
+  {
     "slug": "continuum-magazine---issue-11-nov10-16-2025",
     "event_id": "25a6b3ad691006fe71ef620279ac6b3a5ee51cd2aa5cec576a6f7812ac0c04e7",
     "created_at": 1764015003,
     "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
     "kind": 30023,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/30023/25a6b3ad691006fe71ef620279ac6b3a5ee51cd2aa5cec576a6f7812ac0c04e7.json",
-    "title": "",
-    "summary": "",
+    "title": "Continuum Magazine - Issue #11 (Nov.10-16, 2025)",
+    "summary": "# 11.  This issue of Continuum Magazine brings together the Nov.10-Nov.16, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction.",
     "paid": false
   },
   {
@@ -17,8 +50,8 @@
     "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
     "kind": 30023,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/30023/01b5bb3a904b07cb8a6bc574e7653dac9c7442a7a6e27d03ed85f47f69fcc60f.json",
-    "title": "",
-    "summary": "",
+    "title": "Continuum Magazine - Issue #12 (Nov.17-23, 2025)",
+    "summary": "# 12.  This issue of Continuum Magazine brings together the Nov.17-Nov.23, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction.",
     "paid": false
   },
   {
@@ -28,8 +61,8 @@
     "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
     "kind": 30023,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/30023/0bdc08d27b1435b669f56f18e5627b1fdf0007dc86c0e962ccd16f73345cef46.json",
-    "title": "",
-    "summary": "",
+    "title": "Continuum Magazine - Issue #11 (Nov.10-16, 2025)",
+    "summary": "# 11.  This issue of Continuum Magazine brings together the Nov.10-Nov.16, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction.",
     "paid": false
   },
   {
@@ -39,8 +72,8 @@
     "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
     "kind": 30023,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/30023/18e4b5bfe8682e236fca0b131a87a9b6af1cdd5267198547e4f9264c62b4c9db.json",
-    "title": "",
-    "summary": "",
+    "title": "Continuum Magazine - Issue #10 (Nov.3-Nov. 9, 2025)",
+    "summary": "# 10.  This issue of Continuum Magazine brings together the Nov.3-Nov.9, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction.",
     "paid": false
   },
   {
@@ -50,8 +83,8 @@
     "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
     "kind": 30023,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/30023/ae7ef10e63225e6022d6c88739d14cfdc3f39a21a7841df1cc5d5891a51278dd.json",
-    "title": "",
-    "summary": "",
+    "title": "Continuum Magazine - Issue #9 (Oct. 27-Nov. 2, 2025)",
+    "summary": "# 9.  This issue of Continuum Magazine brings together the Oct.27-Nov.2, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction.",
     "paid": false
   },
   {
@@ -61,8 +94,8 @@
     "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
     "kind": 30023,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/30023/f9ad744f6c4c2819a0264ca114d4ecbf85b96e5c1a0b72cde059063479d52f7c.json",
-    "title": "",
-    "summary": "",
+    "title": "Continuum Magazine - Issue #8 (Oct. 20-26, 2025)",
+    "summary": "# 8.  This issue of Continuum Magazine brings together the Oct.20-26, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction.",
     "paid": false
   },
   {
@@ -72,8 +105,8 @@
     "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
     "kind": 30023,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/30023/eba6551d8d39ce651f827275c1c8b785f636470b4e395b82026a4b483d6e5c30.json",
-    "title": "",
-    "summary": "",
+    "title": "Cotninuum Magazine - Issue #7 (Oct.13-19, 2025)",
+    "summary": "# 7.  This issue of Continuum Magazine brings together the Oct.13-19, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction.",
     "paid": false
   },
   {
@@ -83,8 +116,8 @@
     "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
     "kind": 30023,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/30023/e880bdb9b9b590af2a8a480e0f9a81396c22eb4f77ad2ecf9323580ca8edf2e8.json",
-    "title": "",
-    "summary": "",
+    "title": "Continuum Magazine - Issue #6 (Oct.6-12, 2025)",
+    "summary": "# 6.  This issue of Continuum Magazine brings together the Oct.6-12, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction. Reflections on mortality, reflecting on the week before my father's passing (on Sept. 29, 2025)",
     "paid": false
   },
   {
@@ -94,8 +127,8 @@
     "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
     "kind": 30023,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/30023/1338afb7509493cc8098d7f3d3e7a28c8c6a43b3ea277c5a66ed852c1187c920.json",
-    "title": "",
-    "summary": "",
+    "title": "Continuum Magazine - Issue #5 (Sept. 29-Oct. 5, 2025)",
+    "summary": "# 5.  This issue of Continuum Magazine brings together the Sept. 29-Oct. 5, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction. Reflections on mortality, reflecting on the week before my father's passing (on Sept. 29, 2025)",
     "paid": false
   },
   {
@@ -105,8 +138,8 @@
     "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
     "kind": 30023,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/30023/e59fa90bb67d7153724d3f1b426d1e8b2d9c181e83fe306072bfc330edf848f2.json",
-    "title": "",
-    "summary": "",
+    "title": "Continuum Magazine - Issue #6 (Oct.6-12, 2025)",
+    "summary": "# 5.  This issue of Continuum Magazine brings together the Oct.6-12, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction. Reflections on mortality, reflecting on the week before my father's passing (on Sept. 29, 2025)",
     "paid": false
   },
   {
@@ -116,7 +149,7 @@
     "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
     "kind": 30023,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/30023/b0b1153f9883d03750c37a0ff5e7cda34fd869aade48f193b9a34a9ebe6d447a.json",
-    "title": "",
+    "title": "Continuum Magazine - Issue #5 (Sept. 29-Oct. 5, 2025)",
     "summary": "",
     "paid": false
   },
