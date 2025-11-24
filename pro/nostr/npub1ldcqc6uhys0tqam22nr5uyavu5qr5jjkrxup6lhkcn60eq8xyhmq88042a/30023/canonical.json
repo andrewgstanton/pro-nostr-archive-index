@@ -1,6 +1,6 @@
 {
   "continuum-magazine---issue-1-sept-1-7-2025": {
-    "latest_event_id": "ae6f9345bac99d177bd5841df85f2a4a6223c416816ca13db026dab25153a17a",
+    "latest_event_id": "8dbb5bea8e6ed0cdd7218f0daa37d77d684d520fd792c7291baec7478f7efd6d",
     "latest_year": 2025
   },
   "continuum-magazine-premium-index": {
@@ -9,6 +9,10 @@
   },
   "introducing-continuum-pro-a-sovereign-archive-for-nostrs-builders": {
     "latest_event_id": "a0233a5fa18deab6a920ec8365abe78d1c552c9bd833d71589b215b57f19ca08",
+    "latest_year": 2025
+  },
+  "continuum-magazine---issue-2-sept-8-14-2025": {
+    "latest_event_id": "0f9851feb7f6c0f24f38b21aea137613a116f935959a66a2fafa8572ec66d2f6",
     "latest_year": 2025
   }
 }
