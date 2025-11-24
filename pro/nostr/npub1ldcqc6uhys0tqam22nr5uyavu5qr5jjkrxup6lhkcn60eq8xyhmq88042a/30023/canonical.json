@@ -32,7 +32,7 @@
     "latest_year": 2025
   },
   "cotninuum-magazine---issue-7-oct13-19-2025": {
-    "latest_event_id": "eba6551d8d39ce651f827275c1c8b785f636470b4e395b82026a4b483d6e5c30",
+    "latest_event_id": "6468497bde412e713f5695ea672b723d276734ca97d7c9d807d6603d3a9a235d",
     "latest_year": 2025
   },
   "continuum-magazine---issue-8-oct-20-26-2025": {
@@ -48,11 +48,15 @@
     "latest_year": 2025
   },
   "continuum-magazine---issue-11-nov10-16-2025": {
-    "latest_event_id": "25a6b3ad691006fe71ef620279ac6b3a5ee51cd2aa5cec576a6f7812ac0c04e7",
+    "latest_event_id": "b6680c02ec1d5d67e205dc23bd8e3898100350ee723243cf9f5d1f61abb7d183",
     "latest_year": 2025
   },
   "continuum-magazine---issue-12-nov17-23-2025": {
     "latest_event_id": "01b5bb3a904b07cb8a6bc574e7653dac9c7442a7a6e27d03ed85f47f69fcc60f",
+    "latest_year": 2025
+  },
+  "continuum-magazine--index": {
+    "latest_event_id": "a88d8fdd4d6207b15f717e61e6605c6c1a373c57b9a4cdbc698253e612810e77",
     "latest_year": 2025
   }
 }
