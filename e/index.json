@@ -1,5 +1,49 @@
 [
   {
+    "slug": "continuum-magazine---issue-2-sept-8-14-2025",
+    "event_id": "0f9851feb7f6c0f24f38b21aea137613a116f935959a66a2fafa8572ec66d2f6",
+    "created_at": 1763955185,
+    "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/30023/0f9851feb7f6c0f24f38b21aea137613a116f935959a66a2fafa8572ec66d2f6.json",
+    "title": "Continuum Magazine - Issue #2 (Sept. 8-14, 2025)",
+    "summary": "The second issue of Continuum Magazine brings together the Sept 8–14, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction. This week we noted the tragic assasination of Charlie Kirk and the observance of Sept. 11.  But, we also launched Continuum Magazine (first issue was published this week)",
+    "paid": false
+  },
+  {
+    "slug": "continuum-magazine---issue-1-sept-1-7-2025",
+    "event_id": "8dbb5bea8e6ed0cdd7218f0daa37d77d684d520fd792c7291baec7478f7efd6d",
+    "created_at": 1763954961,
+    "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/30023/8dbb5bea8e6ed0cdd7218f0daa37d77d684d520fd792c7291baec7478f7efd6d.json",
+    "title": "Continuum Magazine - Issue #1 (Sept 1-7, 2025)",
+    "summary": "The first issue of Continuum Magazine brings together the Sept 1–7, 2025 writings: one paid article and two free reflections each day. Anchored in themes of sovereignty, faith, and conviction, this issue opens with a heavy remembrance of Sept 11 and the loss of Charlie Kirk, and moves through questions of labor, covenant, community, and renewal.",
+    "paid": false
+  },
+  {
+    "slug": "continuum-magazine---issue-2-sept-8-14-2025",
+    "event_id": "64b2d53eb9b8460a92d1ed0b0b4177c929d998e707ad1470797c1091931297df",
+    "created_at": 1763954799,
+    "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/30023/64b2d53eb9b8460a92d1ed0b0b4177c929d998e707ad1470797c1091931297df.json",
+    "title": "Continuum Magazine - Issue #2 (Sept. 8-14, 2025)",
+    "summary": "The second issue of Continuum Magazine brings together the Sept 8–14, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction. This week we noted the tragic assasination of Charlie Kirk and the observance of Sept. 11.  But, we also launched Continuum Magazine (first issue was published this week)",
+    "paid": false
+  },
+  {
+    "slug": "free-article-1-sept-12-2025-mlm-and-web3-two-sides-of-the-same-pyramid",
+    "event_id": "9b07435833c27a1da6e927b24018d4aeededbbe295375a12355280b037c5b70b",
+    "created_at": 1763952367,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/9b07435833c27a1da6e927b24018d4aeededbbe295375a12355280b037c5b70b.json",
+    "title": "Free Article 1 (Sept. 12, 2025): MLM and Web3: A comparison",
+    "summary": "Both multi-level marketing (MLM) and Web3 projects sell the same dream: financial freedom, lifestyle independence, and passive income. My short stint inside World Financial Group in 2023–2024 helped me recognize the same structural flaws now playing out across Web3. The names and technology change. The math doesn’t.",
+    "paid": false
+  },
+  {
     "slug": "continuum-magazine-premium-index",
     "event_id": "c4e33432a32c8d92656dc4030d3d89e4a379148460e0d772106bec691275f8cb",
     "created_at": 1763849212,
