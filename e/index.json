@@ -1,5 +1,27 @@
 [
   {
+    "slug": "free-article-1-nov-25-2025-the-quiet-cost-of-carrying-everyone-elses-weight",
+    "event_id": "5aeab5f2b3b6a38208a4d7f3e281e4c971aee251d4bd00a7607be7882cae27ca",
+    "created_at": 1764116577,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/5aeab5f2b3b6a38208a4d7f3e281e4c971aee251d4bd00a7607be7882cae27ca.json",
+    "title": "Free Article 1 (Nov. 25, 2025): The Quiet Cost of Carrying Everyone Else’s Weight",
+    "summary": "A reflection on the invisible labor we carry in relationships, how it distorts our sense of worth, and why sovereignty begins with refusing to be emotionally conscripted.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-nov-25-2025-when-digital-sovereignty-feels-like-shouting-into-the-wind",
+    "event_id": "24fcb1d471a561956fc45fe64cea5c7f18eb87baf4de81a37a95e6f638fa800e",
+    "created_at": 1764116448,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/24fcb1d471a561956fc45fe64cea5c7f18eb87baf4de81a37a95e6f638fa800e.json",
+    "title": "Free Article 2 (Nov. 25, 2025): When Digital Sovereignty Feels Like Shouting Into the Wind",
+    "summary": "A meditation on the discouragement that comes from building faithfully with little recognition—and why perseverance produces a harvest even when the field looks empty.",
+    "paid": false
+  },
+  {
     "slug": "free-article-2-nov-24-2025-the-lighthouse-at-mare-cimmerium",
     "event_id": "b667a3e748e65e4f0f06f625a8b0af0de31145e29577e2f2365997464e12f1a5",
     "created_at": 1764027947,
