@@ -58,5 +58,9 @@
   "continuum-magazine--index": {
     "latest_event_id": "a88d8fdd4d6207b15f717e61e6605c6c1a373c57b9a4cdbc698253e612810e77",
     "latest_year": 2025
+  },
+  "the-sovereign-archive-the-canonical-bitcoin-chronicles-index": {
+    "latest_event_id": "5d353dc23e3b1af0c635f8589947d33874037c8d4886fc9cdd09e4d173fa3942",
+    "latest_year": 2025
   }
 }
