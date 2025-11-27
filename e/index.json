@@ -1,5 +1,16 @@
 [
   {
+    "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
+    "event_id": "5d353dc23e3b1af0c635f8589947d33874037c8d4886fc9cdd09e4d173fa3942",
+    "created_at": 1764278619,
+    "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/30023/5d353dc23e3b1af0c635f8589947d33874037c8d4886fc9cdd09e4d173fa3942.json",
+    "title": "The Sovereign Archive: The Canonical Bitcoin Chronicles Index",
+    "summary": "This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.",
+    "paid": false
+  },
+  {
     "slug": "free-article-1-nov-25-2025-the-quiet-cost-of-carrying-everyone-elses-weight",
     "event_id": "5aeab5f2b3b6a38208a4d7f3e281e4c971aee251d4bd00a7607be7882cae27ca",
     "created_at": 1764116577,
