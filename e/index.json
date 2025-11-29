@@ -1,5 +1,49 @@
 [
   {
+    "slug": "free-article-2-nov-27-2025-the-bitcoin-chronicles-the-entanglement-pilgrims",
+    "event_id": "5bfeabfba24f495263748e2fe49ff7f897e4822f7332902bed01032c552803f7",
+    "created_at": 1764392736,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/5bfeabfba24f495263748e2fe49ff7f897e4822f7332902bed01032c552803f7.json",
+    "title": "Free Article 2 (Nov. 27, 2025): The Bitcoin Chronicles: The Entanglement Pilgrims",
+    "summary": "A team of frontier scientists and spiritual exiles test the first matter-transfer via entanglement bridge—an echo of the Mayflower crossing reimagined for interstellar space.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-1-nov-27-2025-the-bitcoin-chronicles-the-quiet-return-of-thanksgiving",
+    "event_id": "66a8ae3b81a4cfd329debd9a2cc51282819b191cc7f082e0c08076ae79880d61",
+    "created_at": 1764392571,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/66a8ae3b81a4cfd329debd9a2cc51282819b191cc7f082e0c08076ae79880d61.json",
+    "title": "Free Article 1 (Nov. 27, 2025): The Bitcoin Chronicles: The Quiet Return of Thanksgiving",
+    "summary": "A reflection from the edge of Luna Freeport, where a small gathering of settlers rediscover an ancient Earth ritual—gratitude—across light-years and fractured histories.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-1-nov-26-2025-the-bitcoin-chronicles-thanksgiving-on-mars-the-sovereign-networks-first-unified-celebration",
+    "event_id": "13f597e2d91a837705cf94a0c00e7e5db2f7ec962e13b5c2e01a21ef58c0b2b1",
+    "created_at": 1764292015,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/13f597e2d91a837705cf94a0c00e7e5db2f7ec962e13b5c2e01a21ef58c0b2b1.json",
+    "title": "Free Article 1 (Nov. 26, 2025): The Bitcoin Chronicles: Thanksgiving on Mars: The Sovereign Network’s First Unified Celebration",
+    "summary": "A reflection on how New Lakota, New Bern, Luna Freeport, and the Belt Stations come together for the 500th anniversary of the Mayflower, marking the first unified Thanksgiving after the UEB Incident.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-nov-26-2025-the-bitcoin-chronicles-the-500th-crossing-how-the-mayflower-memory-lives-in-martian-sovereignties",
+    "event_id": "302a4cb1c059f88beccf0dfcc9493933255079b91db20c3b358b861b1631c3b6",
+    "created_at": 1764291879,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/302a4cb1c059f88beccf0dfcc9493933255079b91db20c3b358b861b1631c3b6.json",
+    "title": "Free Article 2 (Nov. 26, 2025): The Bitcoin Chronicles: The 500th Crossing: How the Mayflower Memory Lives in Martian Sovereignties",
+    "summary": "A meditation on why the 500th anniversary of the Mayflower resonates so deeply with New Lakota, New Bern, and the Belt enclaves, especially after the Martian referendum and UEB interference",
+    "paid": false
+  },
+  {
     "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
     "event_id": "5d353dc23e3b1af0c635f8589947d33874037c8d4886fc9cdd09e4d173fa3942",
     "created_at": 1764278619,
