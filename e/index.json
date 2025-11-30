@@ -1,6 +1,17 @@
 [
   {
     "slug": "continuum-magazine--index",
+    "event_id": "7238ca9ae9eea14c6ff05b32f6015f5f69abd815ccb3f1e6821a641cee05f614",
+    "created_at": 1764535591,
+    "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/30023/7238ca9ae9eea14c6ff05b32f6015f5f69abd815ccb3f1e6821a641cee05f614.json",
+    "title": "Continuum Magazine — Index",
+    "summary": "Index of all Continuum Magazine Issues",
+    "paid": false
+  },
+  {
+    "slug": "continuum-magazine--index",
     "event_id": "83c80416fb7792183d581edc519f23961e6df392ffeeb3fd7231fde8d31fcbe0",
     "created_at": 1764534184,
     "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
