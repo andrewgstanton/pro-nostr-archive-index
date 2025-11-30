@@ -1,5 +1,27 @@
 [
   {
+    "slug": "continuum-magazine--index",
+    "event_id": "83c80416fb7792183d581edc519f23961e6df392ffeeb3fd7231fde8d31fcbe0",
+    "created_at": 1764534184,
+    "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/30023/83c80416fb7792183d581edc519f23961e6df392ffeeb3fd7231fde8d31fcbe0.json",
+    "title": "Continuum Magazine — Index",
+    "summary": "Index of all Continuum Magazine Issues",
+    "paid": false
+  },
+  {
+    "slug": "continuum-magazine---issue-13-nov24-30-2025",
+    "event_id": "d414a2ae5de45084dff410ee731fccb907e8614de078757037673c6a7a5753a0",
+    "created_at": 1764533266,
+    "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/30023/d414a2ae5de45084dff410ee731fccb907e8614de078757037673c6a7a5753a0.json",
+    "title": "Continuum Magazine - Issue #13 (Nov.24-30, 2025)",
+    "summary": "# 13.  This issue of Continuum Magazine brings together the Nov.17-Nov.23, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction.",
+    "paid": false
+  },
+  {
     "slug": "free-article-1-nov-26-2025-the-bitcoin-chronicles-thanksgiving-on-mars-the-sovereign-networks-first-unified-celebration",
     "event_id": "d4f4607905d94202c3cf5d8cd3dde4e51ebc3bd7e2b67a589a6b8fa1a737afbe",
     "created_at": 1764530883,
