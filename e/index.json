@@ -1,5 +1,82 @@
 [
   {
+    "slug": "free-article-1-nov-26-2025-the-bitcoin-chronicles-thanksgiving-on-mars-the-sovereign-networks-first-unified-celebration",
+    "event_id": "d4f4607905d94202c3cf5d8cd3dde4e51ebc3bd7e2b67a589a6b8fa1a737afbe",
+    "created_at": 1764530883,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/d4f4607905d94202c3cf5d8cd3dde4e51ebc3bd7e2b67a589a6b8fa1a737afbe.json",
+    "title": "Free Article 1 (Nov. 26, 2025): The Bitcoin Chronicles: Thanksgiving on Mars: The Sovereign Network’s First Unified Celebration",
+    "summary": "A reflection on how New Lakota, New Bern, Luna Freeport, and the Belt Stations come together for the 500th anniversary of the Mayflower, marking the first unified Thanksgiving after the UEB Incident.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-nov-26-2025-the-bitcoin-chronicles-the-500th-crossing-how-the-mayflower-memory-lives-in-martian-sovereignties",
+    "event_id": "e05148e03abd02318b90a3dab7d9074807482f5f3961eadeb636a318e14b92df",
+    "created_at": 1764530734,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/e05148e03abd02318b90a3dab7d9074807482f5f3961eadeb636a318e14b92df.json",
+    "title": "Free Article 2 (Nov. 26, 2025): The Bitcoin Chronicles: The 500th Crossing: How the Mayflower Memory Lives in Martian Sovereignties",
+    "summary": "A meditation on why the 500th anniversary of the Mayflower resonates so deeply with New Lakota, New Bern, and the Belt enclaves, especially after the Martian referendum and UEB interference",
+    "paid": false
+  },
+  {
+    "slug": "free-article-1-nov-27-2025-the-bitcoin-chronicles-the-quiet-return-of-thanksgiving",
+    "event_id": "49d3bb05dd35b3fc3b8500850b5ec23b59a4180f8f53f5bd1b37f08be98fcbe9",
+    "created_at": 1764530634,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/49d3bb05dd35b3fc3b8500850b5ec23b59a4180f8f53f5bd1b37f08be98fcbe9.json",
+    "title": "Free Article 1 (Nov. 27, 2025): The Bitcoin Chronicles: The Quiet Return of Thanksgiving",
+    "summary": "A reflection from the edge of Luna Freeport, where a small gathering of settlers rediscover an ancient Earth ritual—gratitude—across light-years and fractured histories.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-nov-27-2025-the-bitcoin-chronicles-the-entanglement-pilgrims",
+    "event_id": "628bfedaa6ece4e759af1d9e4f4cdd383b207661626f99f1b8dbd9ec44377a89",
+    "created_at": 1764530532,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/628bfedaa6ece4e759af1d9e4f4cdd383b207661626f99f1b8dbd9ec44377a89.json",
+    "title": "Free Article 2 (Nov. 27, 2025): The Bitcoin Chronicles: The Entanglement Pilgrims",
+    "summary": "A team of frontier scientists and spiritual exiles test the first matter-transfer via entanglement bridge—an echo of the Mayflower crossing reimagined for interstellar space.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-nov-29-2025-the-bitcoin-chronicles---book-0--epigraph",
+    "event_id": "9ffa04de6515f428de8cc28c8b67b4d6b44daea67ee3703fe7820e16c06798b9",
+    "created_at": 1764530320,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/9ffa04de6515f428de8cc28c8b67b4d6b44daea67ee3703fe7820e16c06798b9.json",
+    "title": "Free Article 2 (Nov. 29, 2025): The Bitcoin Chronicles - Book 0 — Epigraph",
+    "summary": "A single-line epigraph that defines the entire metaphysical frame of *The Bitcoin Chronicles*: a universe saturated with glory, meaning, purpose, and sovereignty—hidden only because human perception is not yet large enough to grasp it.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-nov-29-2025-the-bitcoin-chronicles---book-0--epigraph",
+    "event_id": "7f47025760b67e679260631a7174dff4435d0e160dc7533dd62d0d17ac7ef1d2",
+    "created_at": 1764530064,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/7f47025760b67e679260631a7174dff4435d0e160dc7533dd62d0d17ac7ef1d2.json",
+    "title": "Free Article 2 (Nov. 29, 2025): The Bitcoin Chronicles - Book 0 — Epigraph",
+    "summary": "A single-line epigraph that defines the entire metaphysical frame of *The Bitcoin Chronicles*: a universe saturated with glory, meaning, purpose, and sovereignty—hidden only because human perception is not yet large enough to grasp it.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-nov-30-2025-the-bitcoin-chronicles---book-0--part-iii---the-physics-of-creation",
+    "event_id": "f38bdebb352aa6aacb8496c8264931633ac468e8a50121e27def5b13199dfdf4",
+    "created_at": 1764528258,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/f38bdebb352aa6aacb8496c8264931633ac468e8a50121e27def5b13199dfdf4.json",
+    "title": "Free Article 2 (Nov. 30, 2025): The Bitcoin Chronicles - Book 0 — Part III - The Physics of Creation",
+    "summary": "A hard-science exposition showing how GR, quantum field theory, entropy, and cosmic expansion are not random mechanics but the structural reflections of an intentional universe. This integrates physics with sovereignty without reducing either.",
+    "paid": false
+  },
+  {
     "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
     "event_id": "f38dca9c2e27b00e5f5a96c94fce17b8189d6849b0c53c7ede8d5741a857c710",
     "created_at": 1764527442,
