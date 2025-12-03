@@ -1148,7 +1148,7 @@
     "latest_year": 2025
   },
   "the-bitcoin-chronicles--part-2-lunar-nodes": {
-    "latest_event_id": "2a52ff562a33b422d7dcea8ad9ce41f21f4a9af48288394a7e3893e18c7c77d6",
+    "latest_event_id": "f1640ec8158d7d9fc5020ade7b607f54a9613d636b7f7c55d0278c14a7e4d7c5",
     "latest_year": 2025
   },
   "the-bitcoin-chronicles--part-3-martian-bitcoin": {
@@ -1320,11 +1320,11 @@
     "latest_year": 2025
   },
   "free-article-1-nov-28-2025-the-bitcoin-chronicles-1a1---the-last-launch-from-earth": {
-    "latest_event_id": "28274229446b8d4f76eaed1e55f2f8a5c4366be89c53961366c70ce630734389",
+    "latest_event_id": "6fdf45df72db421b01d426fbc0ead59dcc1b34b1e80f611dcaed8a2d6537e420",
     "latest_year": 2025
   },
   "free-article-2-nov-28-2025-the-bitcoin-chronicles-1b1---the-shackleton-accords": {
-    "latest_event_id": "4293469e1f13dabf2b20942b28d5a9688874e38cb7114288928efc8772f1d76f",
+    "latest_event_id": "fc53cfc832928d1aa44b0f471bf2152c2c93a19ab52fc7cfac2237ea299504e7",
     "latest_year": 2025
   },
   "free-article-1-nov-29-2025-the-bitcoin-chronicles---book-0---preface": {
@@ -1361,6 +1361,18 @@
   },
   "free-article-1-dec-2-the-bitcoin-chronicles---book-05---the-babylonian-os": {
     "latest_event_id": "fba158da264c6680db9ed51ecac9f143cb9cb67c1bbed30794cba4e3ff4c224d",
+    "latest_year": 2025
+  },
+  "free-article-2-dec-2-2025-the-bitcoin-chronicles---1a01---the-age-of-compliance": {
+    "latest_event_id": "242a492232149185bc0555322e1f31220eb9d0394120b098201d55ef8b6572d2",
+    "latest_year": 2025
+  },
+  "free-article-1-dec-3-2025-the-bitcoin-chronicles---1a03---the-launch-that-shouldnt-have-happened": {
+    "latest_event_id": "721221c63912e73422d802c95ac43189301c462765872be5a91ef3f901034e56",
+    "latest_year": 2025
+  },
+  "free-article-2-dec-3-2025-the-bitcoin-chronicles---1a2---the-atlas-uprising": {
+    "latest_event_id": "05ecf1dc28d95b27d622052914b90fec39718b25477470b530708d6e9aba795b",
     "latest_year": 2025
   }
 }
