@@ -1,5 +1,93 @@
 [
   {
+    "slug": "free-article-2-dec-3-2025-the-bitcoin-chronicles---1a2---the-atlas-uprising",
+    "event_id": "05ecf1dc28d95b27d622052914b90fec39718b25477470b530708d6e9aba795b",
+    "created_at": 1764792331,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/05ecf1dc28d95b27d622052914b90fec39718b25477470b530708d6e9aba795b.json",
+    "title": "Free Article 2 (Dec. 3, 2025): The Bitcoin Chronicles - 1.A.2 - The Atlas Uprising",
+    "summary": "Before the Exodus Waves and long before the first Lunar Nodes, a small underground collective quietly shaped the trajectory of humanity. Not through violence or protest, but through conviction, foresight, and a refusal to accept the narrowing limits of Earth’s compliance regime. They called themselves **The Atlas Group**, and their quiet resistance became the philosophical backbone of humanity’s first great breakaway.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-1-dec-3-2025-the-bitcoin-chronicles---1a03---the-launch-that-shouldnt-have-happened",
+    "event_id": "721221c63912e73422d802c95ac43189301c462765872be5a91ef3f901034e56",
+    "created_at": 1764792173,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/721221c63912e73422d802c95ac43189301c462765872be5a91ef3f901034e56.json",
+    "title": "Free Article 1 (Dec. 3, 2025): The Bitcoin Chronicles - 1.A.0.3 - The Launch That Shouldn’t Have Happened",
+    "summary": "Years before the Last Free Launch and decades before the Exodus Waves, a single unauthorized rocket slipped through the cracks of an increasingly permissioned world. Small, improvised, almost forgotten—it became the mythic spark of a fracture Earth could never contain.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-nov-28-2025-the-bitcoin-chronicles-1b1---the-shackleton-accords",
+    "event_id": "fc53cfc832928d1aa44b0f471bf2152c2c93a19ab52fc7cfac2237ea299504e7",
+    "created_at": 1764722694,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/fc53cfc832928d1aa44b0f471bf2152c2c93a19ab52fc7cfac2237ea299504e7.json",
+    "title": "Free Article 2 (Nov. 28, 2025): The Bitcoin Chronicles: 1.B.1 - The Shackleton Accords",
+    "summary": "Lunar enclaves quickly discover that survival requires cooperation. Limited energy, ice, and habitable terrain force the creation of humanity’s first off-world political framework: the Shackleton Accords, a non-hierarchical governance model based on contribution, consensus, and transparent resource exchange.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-nov-28-2025-the-bitcoin-chronicles-1b1---the-shackleton-accords",
+    "event_id": "11492da5151765654dd9599515b4e723fad62d2496e518e5ae622a6ca34a827a",
+    "created_at": 1764722168,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/11492da5151765654dd9599515b4e723fad62d2496e518e5ae622a6ca34a827a.json",
+    "title": "Free Article 2 (Nov. 28, 2025): The Bitcoin Chronicles: 1.B.1 - The Shackleton Accords",
+    "summary": "Lunar enclaves quickly discover that survival requires cooperation. Limited energy, ice, and habitable terrain force the creation of humanity’s first off-world political framework: the Shackleton Accords, a non-hierarchical governance model based on contribution, consensus, and transparent resource exchange.",
+    "paid": false
+  },
+  {
+    "slug": "the-bitcoin-chronicles--part-2-lunar-nodes",
+    "event_id": "f1640ec8158d7d9fc5020ade7b607f54a9613d636b7f7c55d0278c14a7e4d7c5",
+    "created_at": 1764721579,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/f1640ec8158d7d9fc5020ade7b607f54a9613d636b7f7c55d0278c14a7e4d7c5.json",
+    "title": "The Bitcoin Chronicles: Toward The Stars — Part 2 (1.B.0) : Lunar Nodes",
+    "summary": "Part 2 of the Bitcoin Chronicles explores the Moon as the first off-world Bitcoin frontier, where low latency enables near-seamless participation in Earth’s network and the first taste of truly interplanetary sovereignty.",
+    "paid": false
+  },
+  {
+    "slug": "the-bitcoin-chronicles--part-2-lunar-nodes",
+    "event_id": "8d59b5fc4d743d18a188f0cdbaaf8a70243a84be2ce4f87cd00a3da21d326953",
+    "created_at": 1764710097,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/8d59b5fc4d743d18a188f0cdbaaf8a70243a84be2ce4f87cd00a3da21d326953.json",
+    "title": "The Bitcoin Chronicles: Toward The Stars — Part 2: Lunar Nodes (1.B.0)",
+    "summary": "Part 2 of the Bitcoin Chronicles explores the Moon as the first off-world Bitcoin frontier, where low latency enables near-seamless participation in Earth’s network and the first taste of truly interplanetary sovereignty.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-1-nov-28-2025-the-bitcoin-chronicles-1a1---the-last-launch-from-earth",
+    "event_id": "6fdf45df72db421b01d426fbc0ead59dcc1b34b1e80f611dcaed8a2d6537e420",
+    "created_at": 1764705970,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/6fdf45df72db421b01d426fbc0ead59dcc1b34b1e80f611dcaed8a2d6537e420.json",
+    "title": "Free Article 1 (Nov. 28, 2025): The Bitcoin Chronicles: 1.A.1 - The Last Free Launch from Earth",
+    "summary": "The final sovereign launch leaves Earth without permission, without ceremony, and without return. Pilgrim-9 becomes the first vessel of the diaspora, breaking Earth’s political gravity and marking the beginning of humanity’s irreversible expansion.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-dec-2-2025-the-bitcoin-chronicles---1a01---the-age-of-compliance",
+    "event_id": "242a492232149185bc0555322e1f31220eb9d0394120b098201d55ef8b6572d2",
+    "created_at": 1764703425,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/242a492232149185bc0555322e1f31220eb9d0394120b098201d55ef8b6572d2.json",
+    "title": "Free Article 2 (Dec. 2, 2025): The Bitcoin Chronicles - 1.A.0.1 - The Age of Compliance",
+    "summary": "Before the first sovereign launches, before the Atlas Uprising, and long before the Exodus Waves, Earth enters the Age of Compliance — a subtle but totalizing transformation. What begins as convenience becomes mandate. What begins as digital identity becomes destiny. This is the proto-era of the United Earth Bureau.",
+    "paid": false
+  },
+  {
     "slug": "free-article-1-dec-2-the-bitcoin-chronicles---book-05---the-babylonian-os",
     "event_id": "fba158da264c6680db9ed51ecac9f143cb9cb67c1bbed30794cba4e3ff4c224d",
     "created_at": 1764699824,
