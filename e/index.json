@@ -1,5 +1,60 @@
 [
   {
+    "slug": "free-article-1-dec-4-2025-the-bitcoin-chronicles---1b3---luna-freeport",
+    "event_id": "317d6fe2f455f704ad28db129267bdfc7375edfae87ec7ca7868de589da1de37",
+    "created_at": 1764913677,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/317d6fe2f455f704ad28db129267bdfc7375edfae87ec7ca7868de589da1de37.json",
+    "title": "Free Article 1 (Dec. 4, 2025): The Bitcoin Chronicles - 1.B.3 - Luna Freeport",
+    "summary": "A forgotten lunar tunnel becomes humanity’s first neutral off-world commons, the birthplace of the Archivists, and the cultural and economic heart of the sovereign lunar diaspora.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-dec4-2025-the-bitcoin-chronicles---1c1---terraformers-of-the-ledger",
+    "event_id": "be195bb6452918493bdb4c3e6ac56627fa31c650dc134b9f10705812a94bd8ad",
+    "created_at": 1764912829,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/be195bb6452918493bdb4c3e6ac56627fa31c650dc134b9f10705812a94bd8ad.json",
+    "title": "Free Article 2 (Dec.4, 2025): The Bitcoin Chronicles -  1.C.1 - Terraformers Of The Ledger",
+    "summary": "While engineers and botanists shaped the soil of early Mars, a parallel group shaped something equally important — the economic soil. This is the story of the first Martian “ledger architects,” who learned that sovereignty wasn’t only physical, but cryptographic.",
+    "paid": false
+  },
+  {
+    "slug": "paid-article-dec-4-2025-the-bitcoin-chronicles---1c2---the-martian-reckoners",
+    "event_id": "2ddb9d05af62098e1458473a1578cea328c61d492f14fde7999ba9149766f9c3",
+    "created_at": 1764912611,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/2ddb9d05af62098e1458473a1578cea328c61d492f14fde7999ba9149766f9c3.json",
+    "title": "The Bitcoin Chronicles - 1.C.2 - The Martian Reckoners",
+    "summary": "On Mars, truth is not a virtue — it is survival. The Martian Reckoners arose from the harsh realities of Pilgrim-9 Colony, becoming the most trusted and feared guild in the Red World. Part auditors, part historians, part cryptographic monks, the Reckoners built a culture where settlement, memory, and governance all hinge on uncompromising truth. Their calculations, rituals, and signatures shaped the future of Martian sovereignty.",
+    "paid": false
+  },
+  {
+    "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
+    "event_id": "aec279c67323f640965575edb83d10b6bb4a3633a3226f1c74ff069383f6b6e2",
+    "created_at": 1764911902,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/aec279c67323f640965575edb83d10b6bb4a3633a3226f1c74ff069383f6b6e2.json",
+    "title": "The Sovereign Archive: The Canonical Bitcoin Chronicles Index",
+    "summary": "This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.",
+    "paid": false
+  },
+  {
+    "slug": "paid-article-dec-4-2025-the-bitcoin-chronicles---1c2---the-martian-reckoners",
+    "event_id": "89f762142e82515a5fde54c199fe18adb9985c4650a9bef23c3eba8e4d3d3d0d",
+    "created_at": 1764910832,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/89f762142e82515a5fde54c199fe18adb9985c4650a9bef23c3eba8e4d3d3d0d.json",
+    "title": "The Bitcoin Chronicles - 1.C.2 - The Martian Reckoners",
+    "summary": "On Mars, truth is not a virtue — it is survival. The Martian Reckoners arose from the harsh realities of Pilgrim-9 Colony, becoming the most trusted and feared guild in the Red World. Part auditors, part historians, part cryptographic monks, the Reckoners built a culture where settlement, memory, and governance all hinge on uncompromising truth. Their calculations, rituals, and signatures shaped the future of Martian sovereignty.",
+    "paid": false
+  },
+  {
     "slug": "paid-article-dec-4-2025-the-bitcoin-chronicles---1c2---the-martian-reckoners",
     "event_id": "c13b38d8f87c65ec5c18653c5acb1b557fcad6c53c5c7d0ffee1c1cfa2b6d87a",
     "created_at": 1764893512,
