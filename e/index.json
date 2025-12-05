@@ -1,5 +1,82 @@
 [
   {
+    "slug": "paid-article-dec-4-2025-the-bitcoin-chronicles---1c2---the-martian-reckoners",
+    "event_id": "c13b38d8f87c65ec5c18653c5acb1b557fcad6c53c5c7d0ffee1c1cfa2b6d87a",
+    "created_at": 1764893512,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/c13b38d8f87c65ec5c18653c5acb1b557fcad6c53c5c7d0ffee1c1cfa2b6d87a.json",
+    "title": "Paid Article (Dec. 4, 2025): The Bitcoin Chronicles - 1.C.2 - The Martian Reckoners",
+    "summary": "On Mars, truth is not a virtue — it is survival. The Martian Reckoners arose from the harsh realities of Pilgrim-9 Colony, becoming the most trusted and feared guild in the Red World. Part auditors, part historians, part cryptographic monks, the Reckoners built a culture where settlement, memory, and governance all hinge on uncompromising truth. Their calculations, rituals, and signatures shaped the future of Martian sovereignty.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-dec4-2025-the-bitcoin-chronicles---1c1---terraformers-of-the-ledger",
+    "event_id": "4097b25059285d8ea3556fd75f109629d9bbd1016396bea5ea5dea8f1f88fb3f",
+    "created_at": 1764890157,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/4097b25059285d8ea3556fd75f109629d9bbd1016396bea5ea5dea8f1f88fb3f.json",
+    "title": "Free Article 2 (Dec.4, 2025): The Bitcoin Chronicles -  1.C.1 - Terraformers Of The Ledger",
+    "summary": "While engineers and botanists shaped the soil of early Mars, a parallel group shaped something equally important — the economic soil. This is the story of the first Martian “ledger architects,” who learned that sovereignty wasn’t only physical, but cryptographic.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-1-dec-4-2025-the-bitcoin-chronicles---1b3---luna-freeport",
+    "event_id": "3765cdc17df0a14f02788638721e3fa4785da074af634b7eb15377ac87800ce9",
+    "created_at": 1764879703,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/3765cdc17df0a14f02788638721e3fa4785da074af634b7eb15377ac87800ce9.json",
+    "title": "Free Article 1 (Dec. 4, 2025): The Bitcoin Chronicles - 1.B.3 - Luna Freeport",
+    "summary": "A forgotten lunar tunnel becomes humanity’s first neutral off-world commons, the birthplace of the Archivists, and the cultural and economic heart of the sovereign lunar diaspora.",
+    "paid": false
+  },
+  {
+    "slug": "patron-support-continuum",
+    "event_id": "c655a38b36597b32656a0f93a5a03a2c88e291234d92778af420a0652d5dc724",
+    "created_at": 1764829691,
+    "npub": "npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8/30023/c655a38b36597b32656a0f93a5a03a2c88e291234d92778af420a0652d5dc724.json",
+    "title": "Patron Support Continuum",
+    "summary": "A personal invitation to support the ongoing development of Continuum — a sovereign publishing platform, multi-identity Nostr client, and creative engine behind the Bitcoin Chronicles. Patron support helps keep the work independent, aligned with first principles, and free from corporate or institutional control.",
+    "paid": false
+  },
+  {
+    "slug": "patron-support-continuum",
+    "event_id": "627a82bb1d7b11dfc93078f829fbc7c03dbc28b28c97fc3a3669c02bfedf3af3",
+    "created_at": 1764829521,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/627a82bb1d7b11dfc93078f829fbc7c03dbc28b28c97fc3a3669c02bfedf3af3.json",
+    "title": "Patron Support Continuum",
+    "summary": "A personal invitation to support the ongoing development of Continuum — a sovereign publishing platform, multi-identity Nostr client, and creative engine behind the Bitcoin Chronicles. Patron support helps keep the work independent, aligned with first principles, and free from corporate or institutional control.",
+    "paid": false
+  },
+  {
+    "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
+    "event_id": "85a98b601be0e2f31e437dfe632c64bc88c1a841622b3d8035c23ebd7f0b945d",
+    "created_at": 1764825320,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/85a98b601be0e2f31e437dfe632c64bc88c1a841622b3d8035c23ebd7f0b945d.json",
+    "title": "The Sovereign Archive: The Canonical Bitcoin Chronicles Index",
+    "summary": "This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.",
+    "paid": false
+  },
+  {
+    "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
+    "event_id": "c905112fb97d06ca731a459cd06caf3fc7716be1016f92ede68cf9b907fd8b1e",
+    "created_at": 1764825108,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/c905112fb97d06ca731a459cd06caf3fc7716be1016f92ede68cf9b907fd8b1e.json",
+    "title": "The Sovereign Archive: The Canonical Bitcoin Chronicles Index",
+    "summary": "This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.",
+    "paid": false
+  },
+  {
     "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
     "event_id": "f732df96321fd7cf0d3c5feaed541b0cf52962ab1c685f37c7b572f364ebabe8",
     "created_at": 1764814116,
