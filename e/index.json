@@ -1,5 +1,60 @@
 [
   {
+    "slug": "paid-article-sample-2025-12-05",
+    "event_id": "70603b2b09b879940fc299311bf52dfa73addc133a0649e6624b318cc7452e2b",
+    "created_at": 1765005180,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/70603b2b09b879940fc299311bf52dfa73addc133a0649e6624b318cc7452e2b.json",
+    "title": "Paid Article Sample",
+    "summary": "This is what a paid article would look like unecrypted",
+    "paid": false
+  },
+  {
+    "slug": "free-article-1-nov-28-2025-the-bitcoin-chronicles-1a1---the-last-launch-from-earth",
+    "event_id": "2a91d4f1dcb274dfb6b236f66caf45cf00a927f27768ac857aeee16901de613c",
+    "created_at": 1764979489,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/2a91d4f1dcb274dfb6b236f66caf45cf00a927f27768ac857aeee16901de613c.json",
+    "title": "Free Article 1 (Nov. 28, 2025): The Bitcoin Chronicles: 1.A.1 - The Last Free Launch from Earth",
+    "summary": "The final sovereign launch leaves Earth without permission, without ceremony, and without return. Pilgrim-1 becomes the first vessel of the diaspora, breaking Earth’s political gravity and marking the beginning of humanity’s irreversible expansion.",
+    "paid": false
+  },
+  {
+    "slug": "free-artlce-2-dec-5-2025-the-bitcoin-chronicles---1b5---the-free-launch-era-how-luna-became-the-first-sovereign-world",
+    "event_id": "7bccf994c32f9ee2eabdc43080652006a99fb1bdc49587567c0ba02b3e005b8c",
+    "created_at": 1764977295,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/7bccf994c32f9ee2eabdc43080652006a99fb1bdc49587567c0ba02b3e005b8c.json",
+    "title": "Free Artlce 2 (Dec. 5, 2025): the Bitcoin Chronicles - 1.B.5 - The Free Launch Era: How Luna Became the First Sovereign World",
+    "summary": "Before Luna Freeport declared its autonomy, a cultural revolution unfolded quietly across the Shackleton Corridor. Known later as the Free Launch Era, this period saw a new kind of civilization take shape—ungoverned, unlicensed, unclaimed by Earth. It was a social and technological metamorphosis born from the Pilgrim missions, and it gave Luna an identity completely different from every lunar settlement that came before.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-1-dec-5-2025-the-bitcoin-chronicles---1b4---the-pilgrim-program-nine-launches-that-built-two-worlds",
+    "event_id": "f977b507788df99114680eacf064208950177df12c09f48b6efbdbf95bd6c32f",
+    "created_at": 1764977140,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/f977b507788df99114680eacf064208950177df12c09f48b6efbdbf95bd6c32f.json",
+    "title": "Free Article 1 (Dec. 5, 2025): The Bitcoin Chronicles - 1.B.4 - The Pilgrim Program: Nine Launches That Built Two Worlds",
+    "summary": "Long before Luna Freeport emerged as a sovereign lunar city-state, a sequence of open-access launches known as the Pilgrim Program quietly reshaped the destiny of humanity. Pilgrim-1 through Pilgrim-8 seeded the lunar frontier and formed the cultural roots of Luna Freeport. Pilgrim-9, the final mission, carried the sovereignty movement outward—toward Mars—and became the genesis of Pilgrim-9 Colony and Martian Bitcoin culture.",
+    "paid": false
+  },
+  {
+    "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
+    "event_id": "85ff22a4eef0b393019ad2d453e3a191dff3fb7956d444f7cc037785d0a465fa",
+    "created_at": 1764976426,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/85ff22a4eef0b393019ad2d453e3a191dff3fb7956d444f7cc037785d0a465fa.json",
+    "title": "The Sovereign Archive: The Canonical Bitcoin Chronicles Index",
+    "summary": "This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.",
+    "paid": false
+  },
+  {
     "slug": "free-article-1-dec-4-2025-the-bitcoin-chronicles---1b3---luna-freeport",
     "event_id": "317d6fe2f455f704ad28db129267bdfc7375edfae87ec7ca7868de589da1de37",
     "created_at": 1764913677,
