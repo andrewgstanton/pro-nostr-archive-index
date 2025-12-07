@@ -105,6 +105,8 @@
 
     <div class="summary" id="summary" style="display:none;"></div>
 
+    <div id="paid-status" style="display:none; font-size:0.9rem; margin:0.5rem 0;"></div>
+    
     <div id="tags" style="display:none;" class="tags"></div>
 
     <div class="links" id="links" style="display:none;"></div>
@@ -115,137 +117,266 @@
     <div id="content"></div>
   </div>
 
-<script>
-  function getEventId() {
-    const params = new URLSearchParams(window.location.search);
-    return params.get("event_id");
-  }
-
-  function formatDate(ts) {
-    if (!ts) return "";
-    return new Date(ts * 1000).toISOString().slice(0, 10);
-  }
-
-  async function loadEvent() {
-    const eventId = getEventId();
-    if (!eventId) {
-      window.location.href = "/404.html";
-      return;
+  <script>
+    function getEventId() {
+      const params = new URLSearchParams(window.location.search);
+      return params.get("event_id");
     }
-
-    const titleEl = document.getElementById("title");
-    const metaEl = document.getElementById("meta");
-    const summaryEl = document.getElementById("summary");
-    const linksEl = document.getElementById("links");
-    const contentEl = document.getElementById("content");
-    const tagsEl = document.getElementById("tags");
-    const headerImageEl = document.getElementById("header-image");
-    const loadingEl = document.getElementById("loading");
-
-    try {
-      const indexRes = await fetch("index.json", { cache: "no-cache" });
-      const index = await indexRes.json();
-      const entry = index.find(e => e.event_id === eventId);
-
-      if (!entry) {
+  
+    function formatDate(ts) {
+      if (!ts) return "";
+      return new Date(ts * 1000).toISOString().slice(0, 10);
+    }
+  
+    // --------- NEW HELPERS FOR PAID DECRYPTION ----------
+  
+    // base64url → Uint8Array
+    function base64UrlToBytes(b64url) {
+      let b64 = b64url.replace(/-/g, '+').replace(/_/g, '/');
+      const pad = b64.length % 4;
+      if (pad === 2) b64 += '==';
+      else if (pad === 3) b64 += '=';
+      else if (pad !== 0) throw new Error('Invalid base64url length');
+  
+      const binary = atob(b64);
+      const bytes = new Uint8Array(binary.length);
+      for (let i = 0; i < binary.length; i++) {
+        bytes[i] = binary.charCodeAt(i);
+      }
+      return bytes;
+    }
+  
+    // Derive AES key from code + articleId (must match Python: SHA256(code + "|" + article_id))
+    async function deriveArticleKey(code, articleId) {
+      const enc = new TextEncoder();
+      const data = enc.encode(`${code}|${articleId}`);
+      const hash = await crypto.subtle.digest('SHA-256', data);
+      return crypto.subtle.importKey(
+        'raw',
+        hash,
+        { name: 'AES-GCM' },
+        false,
+        ['decrypt']
+      );
+    }
+  
+    // Optional UI message
+    function showPaidStatusMessage(success) {
+      const el = document.getElementById('paid-status');
+      if (!el) return;
+      el.style.display = 'block';
+      if (success) {
+        el.textContent = '🔓 Paid content unlocked for this article.';
+      } else {
+        el.textContent = '🔒 Could not decrypt paid article. The unlock code may be missing or invalid.';
+      }
+    }
+  
+    // Try to decrypt paid content if event has enc=aesgcm-v1 and ?code= present
+    async function tryDecryptPaidContent(event, content, code) {
+      if (!code) {
+        return content;
+      }
+  
+      const tags = Array.isArray(event.tags) ? event.tags : [];
+  
+      // Must be encrypted
+      const encTag = tags.find(t => t[0] === 'enc' && t[1] === 'aesgcm-v1');
+      if (!encTag) {
+        return content;
+      }
+  
+      const dTag = tags.find(t => t[0] === 'd');
+      if (!dTag || !dTag[1]) {
+        console.warn('No d tag found on paid article');
+        return content;
+      }
+      const articleId = dTag[1];
+  
+      const startMarker = '<!-- ENC_BLOB_START -->';
+      const endMarker = '<!-- ENC_BLOB_END -->';
+  
+      const startIdx = content.indexOf(startMarker);
+      const endIdx = content.indexOf(endMarker);
+  
+      if (startIdx === -1 || endIdx === -1) {
+        console.warn('No ENC_BLOB markers found in paid article content');
+        return content;
+      }
+  
+      const blobSection = content.slice(startIdx, endIdx);
+      const match = blobSection.match(/ENCv1:([A-Za-z0-9_-]+)/);
+      if (!match) {
+        console.warn('ENCv1 blob not found between markers');
+        return content;
+      }
+  
+      const blobB64url = match[1];
+  
+      try {
+        const blobBytes = base64UrlToBytes(blobB64url);
+        if (blobBytes.length < 13) {
+          console.warn('Encrypted blob too short');
+          return content;
+        }
+  
+        const iv = blobBytes.slice(0, 12);
+        const ct = blobBytes.slice(12);
+  
+        const key = await deriveArticleKey(code, articleId);
+  
+        const plaintextBuf = await crypto.subtle.decrypt(
+          { name: 'AES-GCM', iv },
+          key,
+          ct
+        );
+        const dec = new TextDecoder();
+        const plaintext = dec.decode(plaintextBuf); // full decrypted body
+        
+        console.log('Paid article decrypted successfully');
+        showPaidStatusMessage(true);
+        
+        // ✅ Replace original content entirely with the decrypted body
+        return plaintext;
+      } catch (err) {
+        console.warn('Failed to decrypt paid article:', err);
+        showPaidStatusMessage(false);
+        return content; // keep teaser + encrypted blob
+      }
+    }
+  
+    // ----------------------------------------------------
+  
+    async function loadEvent() {
+      const eventId = getEventId();
+      if (!eventId) {
         window.location.href = "/404.html";
         return;
       }
-
-      // Load event JSON
-      const jsonUrl = entry.json_url;
-      const evRes = await fetch(jsonUrl, { cache: "no-cache" });
-      const evJson = await evRes.json();
-
-      loadingEl.style.display = "none";
-
-      const tags = Array.isArray(evJson.tags) ? evJson.tags : [];
-      const findTag = (name) => tags.find(t => t[0] === name);
-
-      const displayDateTag = findTag("display_date");
-      const imageTag = findTag("image");
-      const displayDate = displayDateTag ? displayDateTag[1] : "";
-
-      // Extract topic tags (no "#")
-      const topicTags = tags
-        .filter(t => t[0] === "t")
-        .map(t => t[1])
-        .filter(Boolean);
-
-      // Title
-      titleEl.textContent = entry.title || entry.slug || "Untitled";
-
-      // Created & Published
-      const createdDate = entry.created_at ? formatDate(entry.created_at) : "";
-      const publishedDate = displayDate || createdDate;
-
-      // Meta: line 1 (created/published) + line 2 (npub)
-      metaEl.textContent =
-        `Created: ${createdDate} • Published: ${publishedDate}\n` +
-        (entry.npub ? `npub: ${entry.npub}` : "");
-
-      // Summary
-      if (entry.summary) {
-        summaryEl.style.display = "block";
-        summaryEl.textContent = entry.summary;
-      }
-
-      // Tag pills
-      if (topicTags.length) {
-        tagsEl.style.display = "block";
-        tagsEl.innerHTML = topicTags
-          .map(tag => `<span>${tag}</span>`)
-          .join(" ");
-      }
-
-      // Links
-      const base = jsonUrl.replace(/\.json$/i, "");
-      const mdUrl = base + ".md";
-      const pdfUrl = base + ".pdf";
-
-      linksEl.innerHTML = `
-        <a href="${jsonUrl}" target="_blank">Raw JSON</a>
-        <a href="${mdUrl}" target="_blank">Markdown (if exists)</a>
-        <a href="${pdfUrl}" target="_blank">PDF (if exists)</a>
-        <a href="https://primal.net/e/${eventId}" target="_blank">Primal</a>
-        <a href="https://coracle.social/notes/${eventId}" target="_blank">Coracle</a>
-        <a href="https://phoenix.social/e/${eventId}" target="_blank">Phoenix</a>
-        <a href="https://njump.me/${eventId}" target="_blank">njump</a>
-      `;
-      linksEl.style.display = "block";
-
-      // Header image
-      if (imageTag && imageTag[1]) {
-        const img = document.createElement("img");
-        img.src = imageTag[1];
-        img.alt = entry.title || entry.slug;
-        headerImageEl.innerHTML = "";
-        headerImageEl.appendChild(img);
-      }
-
-      // Markdown → HTML
-      const raw = evJson.content || "";
-      let html = "";
+  
+      const params = new URLSearchParams(window.location.search);
+      const code = params.get("code"); // may be null
+  
+      const titleEl = document.getElementById("title");
+      const metaEl = document.getElementById("meta");
+      const summaryEl = document.getElementById("summary");
+      const linksEl = document.getElementById("links");
+      const contentEl = document.getElementById("content");
+      const tagsEl = document.getElementById("tags");
+      const headerImageEl = document.getElementById("header-image");
+      const loadingEl = document.getElementById("loading");
+  
       try {
-        html = marked.parse(raw);
-      } catch { html = ""; }
-
-      if (html.trim()) {
-        contentEl.innerHTML = html;
-      } else {
-        const pre = document.createElement("pre");
-        pre.textContent = JSON.stringify(evJson, null, 2);
-        contentEl.appendChild(pre);
+        const indexRes = await fetch("index.json", { cache: "no-cache" });
+        const index = await indexRes.json();
+        const entry = index.find(e => e.event_id === eventId);
+  
+        if (!entry) {
+          window.location.href = "/404.html";
+          return;
+        }
+  
+        // Load event JSON
+        const jsonUrl = entry.json_url;
+        const evRes = await fetch(jsonUrl, { cache: "no-cache" });
+        const evJson = await evRes.json();
+  
+        loadingEl.style.display = "none";
+  
+        const tags = Array.isArray(evJson.tags) ? evJson.tags : [];
+        const findTag = (name) => tags.find(t => t[0] === name);
+  
+        const displayDateTag = findTag("display_date");
+        const imageTag = findTag("image");
+        const displayDate = displayDateTag ? displayDateTag[1] : "";
+  
+        // Extract topic tags (no "#")
+        const topicTags = tags
+          .filter(t => t[0] === "t")
+          .map(t => t[1])
+          .filter(Boolean);
+  
+        // Title
+        titleEl.textContent = entry.title || entry.slug || "Untitled";
+  
+        // Created & Published
+        const createdDate = entry.created_at ? formatDate(entry.created_at) : "";
+        const publishedDate = displayDate || createdDate;
+  
+        // Meta: line 1 (created/published) + line 2 (npub)
+        metaEl.textContent =
+          `Created: ${createdDate} • Published: ${publishedDate}\n` +
+          (entry.npub ? `npub: ${entry.npub}` : "");
+  
+        // Summary
+        if (entry.summary) {
+          summaryEl.style.display = "block";
+          summaryEl.textContent = entry.summary;
+        }
+  
+        // Tag pills
+        if (topicTags.length) {
+          tagsEl.style.display = "block";
+          tagsEl.innerHTML = topicTags
+            .map(tag => `<span>${tag}</span>`)
+            .join(" ");
+        }
+  
+        // Links
+        const base = jsonUrl.replace(/\.json$/i, "");
+        const mdUrl = base + ".md";
+        const pdfUrl = base + ".pdf";
+  
+        linksEl.innerHTML = `
+          <a href="${jsonUrl}" target="_blank">Raw JSON</a>
+          <a href="${mdUrl}" target="_blank">Markdown (if exists)</a>
+          <a href="${pdfUrl}" target="_blank">PDF (if exists)</a>
+          <a href="https://primal.net/e/${eventId}" target="_blank">Primal</a>
+          <a href="https://coracle.social/notes/${eventId}" target="_blank">Coracle</a>
+          <a href="https://phoenix.social/e/${eventId}" target="_blank">Phoenix</a>
+          <a href="https://njump.me/${eventId}" target="_blank">njump</a>
+        `;
+        linksEl.style.display = "block";
+  
+        // Header image
+        if (imageTag && imageTag[1]) {
+          const img = document.createElement("img");
+          img.src = imageTag[1];
+          img.alt = entry.title || entry.slug;
+          headerImageEl.innerHTML = "";
+          headerImageEl.appendChild(img);
+        }
+  
+        // Markdown → HTML with optional decryption
+        const raw = evJson.content || "";
+        let effectiveContent = raw;
+  
+        // 🔐 NEW: attempt decryption if ?code=... and enc=aesgcm-v1
+        effectiveContent = await tryDecryptPaidContent(evJson, effectiveContent, code);
+  
+        let html = "";
+        try {
+          html = marked.parse(effectiveContent);
+        } catch {
+          html = "";
+        }
+  
+        if (html.trim()) {
+          contentEl.innerHTML = html;
+        } else {
+          const pre = document.createElement("pre");
+          pre.textContent = JSON.stringify(evJson, null, 2);
+          contentEl.appendChild(pre);
+        }
+  
+      } catch (err) {
+        console.error(err);
+        window.location.href = "/404.html";
       }
-
-    } catch (err) {
-      console.error(err);
-      window.location.href = "/404.html";
     }
-  }
-
-  loadEvent();
-</script>
+  
+    loadEvent();
+  </script>
 
 </body>
 </html>
