@@ -231,16 +231,13 @@
           ct
         );
         const dec = new TextDecoder();
-        const plaintext = dec.decode(plaintextBuf); // full decrypted body (markdown or HTML)
-  
-        const before = content.slice(0, startIdx);
-        const after = content.slice(endIdx + endMarker.length);
-  
-        const unlocked = `${before}\n${plaintext}\n${after}`;
-  
+        const plaintext = dec.decode(plaintextBuf); // full decrypted body
+        
         console.log('Paid article decrypted successfully');
         showPaidStatusMessage(true);
-        return unlocked;
+        
+        // ✅ Replace original content entirely with the decrypted body
+        return plaintext;
       } catch (err) {
         console.warn('Failed to decrypt paid article:', err);
         showPaidStatusMessage(false);
