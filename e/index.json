@@ -1,5 +1,137 @@
 [
   {
+    "slug": "paid-article-nov-18-2025-choosing-the-harder-road--the-discipline-of-sovereign-building-2025-11-18",
+    "event_id": "d09e43ab74c952e9be9ae746374ec082c6889ad4ad91e6885a5bb5d6929abaaa",
+    "created_at": 1765075400,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/d09e43ab74c952e9be9ae746374ec082c6889ad4ad91e6885a5bb5d6929abaaa.json",
+    "title": "Paid Article (Nov. 18, 2025): Choosing the Harder Road — The Discipline of Sovereign Building",
+    "summary": "A deeper, more intimate look at what it actually costs — emotionally, physically, spiritually — to build something sovereign in a world that rewards dependency. This piece explores the tension between exhaustion and purpose, and why choosing the harder road is sometimes the only path that leads anywhere meaningful.",
+    "paid": false
+  },
+  {
+    "slug": "paid-article-nov-19-2025-small-exits--practical-steps-to-wean-ourselves-off-the-debt-based-system-2025-11-19",
+    "event_id": "9a3d7f5af729bdea764d4995a8b8c505338e2b1cfa91919e68dca8d018f4969f",
+    "created_at": 1765075207,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/9a3d7f5af729bdea764d4995a8b8c505338e2b1cfa91919e68dca8d018f4969f.json",
+    "title": "Paid Article (Nov. 19, 2025): Small Exits — Practical Steps to Wean Ourselves Off the Debt-Based System",
+    "summary": "Freedom from the Babylonian financial order doesn’t come from dramatic breaks or radical withdrawal. It begins with small, realistic, sustainable steps that gradually shift our lives away from debt-dependence and toward sovereignty. This piece outlines practical, concrete actions anyone can begin today.",
+    "paid": false
+  },
+  {
+    "slug": "paid-article-nov-20-2025-the-small-exit-that-changes-everything-reclaiming-sovereignty-one-decision-at-a-time-2025-11-20",
+    "event_id": "a5390f16f860cd868c927f4463c09f27a8ed0e56eb6c2016fa51932b72f00601",
+    "created_at": 1765074937,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/a5390f16f860cd868c927f4463c09f27a8ed0e56eb6c2016fa51932b72f00601.json",
+    "title": "Paid Article (Nov. 20, 2025): The Small Exit That Changes Everything: Reclaiming Sovereignty One Decision at a Time",
+    "summary": "Sovereignty is not achieved through dramatic, life-altering moves—it emerges from small, faithful choices made under pressure. This piece explores how micro-exits from debt, distraction, and dependence gradually shift a person into a position of freedom, even before circumstances change.",
+    "paid": false
+  },
+  {
+    "slug": "paid-article-nov-21-2025-continuum-pro-a-milestone-in-sovereign-publishing-1765074768",
+    "event_id": "64f78e7740a7f7df9bf3c22d011ed986ef852c352930c9bfd6e3d9e26d8dd5ac",
+    "created_at": 1765074768,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/64f78e7740a7f7df9bf3c22d011ed986ef852c352930c9bfd6e3d9e26d8dd5ac.json",
+    "title": "Paid Article (Nov. 21, 2025): Continuum Pro: A Milestone in Sovereign Publishing",
+    "summary": "Today marks a turning point: the formal announcement of Continuum Pro. After two years of work, iteration, setbacks, and refinement, the platform finally reaches the stage where individuals and builders can maintain a personal, sovereign, cloud-mirrored dashboard — powered entirely by their own identity keys. This piece reflects on the journey, the philosophy behind Pro, and why this milestone matters for the future of digital sovereignty.",
+    "paid": false
+  },
+  {
+    "slug": "paid-article-nov-24-2025-the-bitcoin-chronicles-the-entanglement-bridge--a-chronicle-of-exiles-2205-11-24",
+    "event_id": "d4bb1964700154aca3f00157270fba8d365cf56e1c759f74623a28694d504cf6",
+    "created_at": 1765074511,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/d4bb1964700154aca3f00157270fba8d365cf56e1c759f74623a28694d504cf6.json",
+    "title": "Paid Article (Nov. 24, 2025): The Bitcoin Chronicles: The Entanglement Bridge — A Chronicle of Exiles",
+    "summary": "Across the solar system, scattered communities use the Entanglement Bridge — a quantum-linked, high-latency channel — to pass encrypted Bitcoin headers and sovereign identity proofs. But three worlds begin to diverge in their political philosophies, and a schism forms that threatens the shared future of interplanetary civilization.",
+    "paid": false
+  },
+  {
+    "slug": "paid-article-nov-25-2025-breaking-the-spell-of-emotional-capture-how-sovereignty-begins-in-the-soul-2025-11-25",
+    "event_id": "da7b798f2560d4aa7679058622e8a738555b10222ee7f7ea8b032b299eb9c05e",
+    "created_at": 1765072722,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/da7b798f2560d4aa7679058622e8a738555b10222ee7f7ea8b032b299eb9c05e.json",
+    "title": "Paid Article (Nov. 25, 2025): Breaking the Spell of Emotional Capture: How Sovereignty Begins in the Soul",
+    "summary": "A deep dive into emotional capture, subtle control, spiritual clarity, and the inner shift required to reclaim sovereignty from draining relationships and cultural captivity.",
+    "paid": false
+  },
+  {
+    "slug": "paid-article-nov-26-2025-the-bitcoin-chronicles-the-mayflower-of-mars-thanksgiving-and-the-birth-of-a-sovereign-civilization-2025-11-26",
+    "event_id": "fd1097d2ef7923a8f72de9e271e107b046de4a35fda8bb8dfde63226bbc0a65f",
+    "created_at": 1765072616,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/fd1097d2ef7923a8f72de9e271e107b046de4a35fda8bb8dfde63226bbc0a65f.json",
+    "title": "Paid Article (Nov. 26, 2025): The Bitcoin Chronicles: The Mayflower of Mars: Thanksgiving and the Birth of a Sovereign Civilization",
+    "summary": "A deep narrative exploration of the 500th Thanksgiving, how the UEB Incident created the Sovereign Network, and why New Lakota, New Bern, Luna Freeport, and the Belt see the Mayflower not as history but as archetype.",
+    "paid": false
+  },
+  {
+    "slug": "paid-article-nov-27-2025-the-bitcoin-chronicles-the-mayflower-of-the-stars-2025-11-27",
+    "event_id": "01711d4466880a96b90ebce0bc8bc19e3e512d1eb4795a12e9196ecd25ac62fd",
+    "created_at": 1765072474,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/01711d4466880a96b90ebce0bc8bc19e3e512d1eb4795a12e9196ecd25ac62fd.json",
+    "title": "Paid Article (Nov. 27, 2025): The Bitcoin Chronicles: The Mayflower of the Stars",
+    "summary": "A deep narrative reflection tying together ancestry, the Mayflower crossing, New Lakota sovereignty, and the first entanglement ship—an origin story for a new civilization that refuses to repeat Earth’s failures.",
+    "paid": false
+  },
+  {
+    "slug": "paid-article-nov-28-2025-the-bitcoin-chronicles-1b2---the-first-lunar-bitcoin-halving-2025-11-28",
+    "event_id": "170c3a6fc52d48f6d1268404257838d5362209ca2fabda8ba504e8149c2030b4",
+    "created_at": 1765072330,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/170c3a6fc52d48f6d1268404257838d5362209ca2fabda8ba504e8149c2030b4.json",
+    "title": "Paid Article (Nov. 28, 2025): The Bitcoin Chronicles: 1.B.2 - The First Lunar Bitcoin Halving",
+    "summary": "The first Bitcoin halving to occur with humanity living off Earth becomes a cultural moment for the early lunar diaspora. Still dependent on Earth’s network and with no Martian or Belt colonies yet established, the halving becomes Luna’s first ritual of unity, endurance, and the shared rhythm of a civilization just beginning to scatter into the stars.",
+    "paid": false
+  },
+  {
+    "slug": "paid-article-dec-1-2025-the-bitcoin-chronicles---book-0---part-vii---the-long-restoration-2025-12-01",
+    "event_id": "9d46e9ee5e60ee9432053c84bfdfe80492077be653be6e1cfcaad5a625a8d58c",
+    "created_at": 1765072062,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/9d46e9ee5e60ee9432053c84bfdfe80492077be653be6e1cfcaad5a625a8d58c.json",
+    "title": "Paid Article (Dec. 1, 2025): The Bitcoin Chronicles - Book 0 - Part VII - The Long Restoration",
+    "summary": "If Christ redeemed humanity two thousand years ago, why do sovereign systems only begin emerging now? Part VII explains the difference between redemption (instant) and restoration (progressive), and shows why the Sovereign Age begins in the 21st century — at the exact historical moment when humanity finally possesses the tools to rebuild systems aligned with the Creator’s design.",
+    "paid": false
+  },
+  {
+    "slug": "paid-article-dec-2-2025-the-bitcoin-chronicles---1a02---the-quiet-defectors-2025-12-02",
+    "event_id": "70a2562e3b10684a0ba1337575280fcd608288152035556bc6d0028b809b2020",
+    "created_at": 1765071768,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/70a2562e3b10684a0ba1337575280fcd608288152035556bc6d0028b809b2020.json",
+    "title": "Paid Article (Dec. 2, 2025): The Bitcoin Chronicles - 1.A.0.2 - The Quiet Defectors",
+    "summary": "Before the Atlas Uprising, before the Exodus Waves, before the first sovereign habitats, a quieter movement formed—individuals from every discipline who simply stopped believing in Earth’s centralized trajectory. They withdrew not with violence or manifestos, but with silence, conviction, and a growing hunger for truth.",
+    "paid": false
+  },
+  {
+    "slug": "paid-article-dec-3-2025-the-bitcoin-chronicles---1a3---the-exodus-protocol-2025-12-03",
+    "event_id": "49d29876a8cadff5f879c75d302afe3deeddbf7dcf2d21d09ea945ee4221074d",
+    "created_at": 1765071562,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/49d29876a8cadff5f879c75d302afe3deeddbf7dcf2d21d09ea945ee4221074d.json",
+    "title": "Paid Article (Dec. 3, 2025): The Bitcoin Chronicles - 1.A.3 - The Exodus Protocol",
+    "summary": "In the quiet shadow of the Atlas Uprising, twelve thinkers became architects of humanity’s first deliberate breakaway. The Exodus Protocol was not a document or a plan—it was a living, encrypted choreography of people, resources, code, and conviction. It marked the moment when the sovereign diaspora stopped merely resisting Earth’s trajectory and began preparing to leave it.",
+    "paid": false
+  },
+  {
     "slug": "paid-article-sample-2025-12-05",
     "event_id": "70603b2b09b879940fc299311bf52dfa73addc133a0649e6624b318cc7452e2b",
     "created_at": 1765005180,
