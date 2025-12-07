@@ -1,5 +1,60 @@
 [
   {
+    "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
+    "event_id": "acef9e471947012a096e587cdff41cad1e7bde00b6827f30e1fd05446b5ddffd",
+    "created_at": 1765083237,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/acef9e471947012a096e587cdff41cad1e7bde00b6827f30e1fd05446b5ddffd.json",
+    "title": "The Sovereign Archive: The Canonical Bitcoin Chronicles Index",
+    "summary": "This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.",
+    "paid": false
+  },
+  {
+    "slug": "free-artlcle-1-dec-6-2025-the-bitcoin-chronicles---1b6---the-shackleton-circle-birth-of-lunar-guild-law",
+    "event_id": "94385f4608ae465db091c2fef5e19154d7f55af62ad39f9d1dfc81cbd2200772",
+    "created_at": 1765082111,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/94385f4608ae465db091c2fef5e19154d7f55af62ad39f9d1dfc81cbd2200772.json",
+    "title": "Free Artlcle 1 (Dec. 6, 2025): The Bitcoin Chronicles - 1.B.6 - The Shackleton Circle: Birth of Lunar Guild Law",
+    "summary": "Before Luna Freeport had Archivists, before the Pelagia Compact established political autonomy, the settlers of the Shackleton Corridor invented a lightweight legal system rooted in guild consensus. Known as the Shackleton Circle, it became the backbone of all sovereign lunar governance.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-dec-6-2025-the-bitcoin-chronicles---1b7---the-lakota-influence-sovereignty-in-the-lunar-soul",
+    "event_id": "23a68fd956015d1301996f3e47f1ef3c67c3705bd2b575ccc2e424b8bc597c23",
+    "created_at": 1765082022,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/23a68fd956015d1301996f3e47f1ef3c67c3705bd2b575ccc2e424b8bc597c23.json",
+    "title": "Free Article 2 (Dec. 6, 2025): The Bitcoin Chronicles - 1.B.7 - The Lakota Influence: Sovereignty in the Lunar Soul",
+    "summary": "Among the diverse groups who shaped the lunar frontier, none influenced the philosophy of sovereignty more deeply than the Lakota Sovereign Collective. Their theology, ethics, and worldview formed the spiritual backbone of the Free Launch Era and later guided Luna’s peaceful break from Earth.",
+    "paid": false
+  },
+  {
+    "slug": "sabbath-article-dec-6-2025-the-bitcoin-chronicles---1b10---the-sovereign-canon",
+    "event_id": "7df51b4e24661f9fa334fb6253d5a1ece21dc5354b4e610047f92ac964f8176c",
+    "created_at": 1765081879,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/7df51b4e24661f9fa334fb6253d5a1ece21dc5354b4e610047f92ac964f8176c.json",
+    "title": "Sabbath Article (Dec. 6, 2025): The Bitcoin Chronicles - 1.B.10 - The Sovereign Canon",
+    "summary": "As Luna matured into a sovereign world, its guilds, Archivists, elders, and settlers began gathering the philosophies, laws, histories, and spiritual insights that defined their civilization. The result became known as the Sovereign Canon — a collection of teachings, oaths, principles, and stories that preserved the soul of the lunar diaspora and guided humanity’s expansion to the stars.",
+    "paid": false
+  },
+  {
+    "slug": "paid-article-nov-17-2025-building-a-cathedral-on-shifting-ground-2025-11-17",
+    "event_id": "344b7370ada902b790a63aac5b3bde53ce51a9518227f3f8851f62f080f8171e",
+    "created_at": 1765077214,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/344b7370ada902b790a63aac5b3bde53ce51a9518227f3f8851f62f080f8171e.json",
+    "title": "Paid Article (Nov. 17, 2025): Building a Cathedral on Shifting Ground",
+    "summary": "Behind the public essays and screenshots, there’s a much messier set of tradeoffs: between trading and writing, between properties and Bitcoin, between local software and hosted dashboards, between family expectations and long-term vision. This is a candid look at how I actually plan to navigate 2026.",
+    "paid": false
+  },
+  {
     "slug": "paid-article-nov-18-2025-choosing-the-harder-road--the-discipline-of-sovereign-building-2025-11-18",
     "event_id": "d09e43ab74c952e9be9ae746374ec082c6889ad4ad91e6885a5bb5d6929abaaa",
     "created_at": 1765075400,
