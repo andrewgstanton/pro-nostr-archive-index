@@ -1,5 +1,16 @@
 [
   {
+    "slug": "sovereign--decentralized-full-article-2025-08-24",
+    "event_id": "f6cc18f987ce617d6e69cc7bb674485f380e4b4c30d55c30b20a0c03434fe0f3",
+    "created_at": 1765237695,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/f6cc18f987ce617d6e69cc7bb674485f380e4b4c30d55c30b20a0c03434fe0f3.json",
+    "title": "Sovereign ≠ Decentralized (Full Article)",
+    "summary": "A short essay highlighting the difference between sovereign vs decentralized technologies",
+    "paid": false
+  },
+  {
     "slug": "the-two-faces-of-babylon-amoral-power-immoral-consequences",
     "event_id": "65298e0f3e7b1076aa73692ede13e66534c406ff1ed0289308215728b4df484a",
     "created_at": 1765214561,
