@@ -1396,7 +1396,7 @@
     "latest_year": 2025
   },
   "free-article-2-dec4-2025-the-bitcoin-chronicles---1c1---terraformers-of-the-ledger": {
-    "latest_event_id": "be195bb6452918493bdb4c3e6ac56627fa31c650dc134b9f10705812a94bd8ad",
+    "latest_event_id": "0ce9aafd475feba03f485c3bba331f34588003d3f8c5ced9296a871d299cd0ce",
     "latest_year": 2025
   },
   "paid-article-dec-4-2025-the-bitcoin-chronicles---1c2---the-martian-reckoners": {
@@ -1484,11 +1484,11 @@
     "latest_year": 2025
   },
   "free-article-1-dec-7-2025-the-bitcoin-chronicles---1b8---the-pelagia-compact-luna-declares-itself": {
-    "latest_event_id": "1a7acb386aacdac952ec7512fbbc5aaed4e0d61b684bfa01f07d6a103c10c193",
+    "latest_event_id": "da12ca80e281bb436c7d40abcaee25f07b0fd5b4789d0364544b10436aceea4c",
     "latest_year": 2025
   },
   "free-article-2-dec7-2025-the-bitcoin-chronicles---1b9---the-great-archive-migration": {
-    "latest_event_id": "f51b8d83b8b9cac200b2d73243f0c9100113751d7df67701d05c7b9b666084a4",
+    "latest_event_id": "c5489b0fb248b486c852bb668656a3f4b6ba1108197b648f0439b57cd721ba3c",
     "latest_year": 2025
   },
   "paid-article-nov-14-2025-the-season-of-invisible-work-2025-11-14": {
@@ -1505,6 +1505,42 @@
   },
   "paid-article-nov-11-2025-the-covenant-of-creation-2025-11-11": {
     "latest_event_id": "7f19bb6d4fb9d3b81668362b26a2b9dde404a38974a3455036a36a3e025b8896",
+    "latest_year": 2025
+  },
+  "sunday-article-dec-7-2025-the-bitcoin-chronicles---1c3---the-red-charter": {
+    "latest_event_id": "c4aa5b6ac2d88897a9399014dbbc61f933171bfd1b4e9eb446f964476d2f553e",
+    "latest_year": 2025
+  },
+  "paid-article-dec-4-2025-the-bitcoin-chronicles---1c4---the-covenant-of-twelve-mars-declares-its-center-2025-12-04": {
+    "latest_event_id": "582af051cddb44d3a45775a810cd827473d8267208e44b26206220fe2ee0b220",
+    "latest_year": 2025
+  },
+  "paid-article-dec-5-2025-the-bitcoin-chronicles---1b10---the-lattice-protocol-how-luna-rewove-the-human-archive-2025-12-05": {
+    "latest_event_id": "3270ac27a69b5f75d310a3bb358f5df446820d1cf8ccd62fd8c476eeeb0ae58d",
+    "latest_year": 2025
+  },
+  "paid-article-nov-10-2025-the-bitcoin-chronicles--big-brother-calling-the-united-earth-bureau-1765174582": {
+    "latest_event_id": "20cf9fa4e764e536a96cf804c3dcff8548adc0c5e19d4e832c9dbf64aaf25ffa",
+    "latest_year": 2025
+  },
+  "paid-article-nov-7-2025-the-long-arc-of-open-systems-2025-11-07": {
+    "latest_event_id": "08c8c1c8c495553bd273391bb73a8a4b1a49b9a82d69343688dcf08d3fa4d9f8",
+    "latest_year": 2025
+  },
+  "paid-article-nov-6-2025-the-hidden-audience-2025-11-06": {
+    "latest_event_id": "781c507070331aa4e55b52566ba452ff11f23e7a5b8dd94fcb8eeab481774a63",
+    "latest_year": 2025
+  },
+  "paid-article-nov-5-2025-beyond-the-walls-building-in-open-spaces-2025-11-05": {
+    "latest_event_id": "1cc4921b898dc0bc5f24ed817211e56ebf648b1ce566e03ee7075f1b54239da7",
+    "latest_year": 2025
+  },
+  "paid-article-nov-4-2025-under-the-hood-of-election-day-2025-redistricting-state-power-and-the-shifting-map-of-american-politics-2025-11-04": {
+    "latest_event_id": "eb2e86d2c62332822d712c347641355ff70e4058be2e9387fc403c93dc71f6d6",
+    "latest_year": 2025
+  },
+  "the-two-faces-of-babylon-amoral-power-immoral-consequences": {
+    "latest_event_id": "65298e0f3e7b1076aa73692ede13e66534c406ff1ed0289308215728b4df484a",
     "latest_year": 2025
   }
 }
