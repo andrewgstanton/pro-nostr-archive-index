@@ -1,5 +1,104 @@
 [
   {
+    "slug": "paid-article-nov-11-2025-the-covenant-of-creation-2025-11-11",
+    "event_id": "7f19bb6d4fb9d3b81668362b26a2b9dde404a38974a3455036a36a3e025b8896",
+    "created_at": 1765166988,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/7f19bb6d4fb9d3b81668362b26a2b9dde404a38974a3455036a36a3e025b8896.json",
+    "title": "Paid Article (Nov. 11, 2025): The Covenant of Creation",
+    "summary": "Written on our 25th wedding anniversary — a reflection on love, creation, and covenant as the living pattern that sustains both marriage and meaning.",
+    "paid": false
+  },
+  {
+    "slug": "paid-article-nov-12-2025-the-forge-of-freedom-2025-11-12",
+    "event_id": "2a6afd3d04d5f0fcf7c9acc0d01c5296fa11392266b314c481a7243f5727ae8f",
+    "created_at": 1765166448,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/2a6afd3d04d5f0fcf7c9acc0d01c5296fa11392266b314c481a7243f5727ae8f.json",
+    "title": "Paid Article (Nov. 12, 2025): The Forge of Freedom",
+    "summary": "True freedom is not the absence of limits but the refinement that comes through covenant — through keeping faith when it would be easier to walk away.",
+    "paid": false
+  },
+  {
+    "slug": "paid-article-nov-13-2025-when-youre-bone-tired-but-still-called-to-build-field-notes-from-the-edge-of-burnout-2025-11-13",
+    "event_id": "2e2225f3ba3f04ea6dffe92b530fda8fb8a561b4b5a9e8cbc511034acf42d059",
+    "created_at": 1765166303,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/2e2225f3ba3f04ea6dffe92b530fda8fb8a561b4b5a9e8cbc511034acf42d059.json",
+    "title": "Paid Article (Nov. 13, 2025): When You’re Bone-Tired but Still Called to Build (Field Notes from the Edge of Burnout)",
+    "summary": "A raw, honest meditation on staying on the field as a sovereign builder when you’re exhausted, undercapitalized, misunderstood, and still convinced you’re supposed to keep going.",
+    "paid": false
+  },
+  {
+    "slug": "paid-article-nov-14-2025-the-season-of-invisible-work-2025-11-14",
+    "event_id": "0ccf53bd4b5ea175383dc84860fd59b790eecda75924e657d4ff10f2fef4da42",
+    "created_at": 1765165357,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/0ccf53bd4b5ea175383dc84860fd59b790eecda75924e657d4ff10f2fef4da42.json",
+    "title": "Paid Article (Nov. 14, 2025): The Season of Invisible Work",
+    "summary": "A long-form reflection on the hidden, unglamorous stretch that comes right before a breakthrough — the season where your work feels fragile, your efforts feel unseen, and every system seems to resist you. Friday’s discouraging discoveries become the framing for a deeper exploration of sovereignty, endurance, and the quiet discipline required to keep building.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-dec7-2025-the-bitcoin-chronicles---1b9---the-great-archive-migration",
+    "event_id": "f51b8d83b8b9cac200b2d73243f0c9100113751d7df67701d05c7b9b666084a4",
+    "created_at": 1765157355,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/f51b8d83b8b9cac200b2d73243f0c9100113751d7df67701d05c7b9b666084a4.json",
+    "title": "Free Article 2 (Dec.7, 2025): the Bitcoin Chronicles - 1.B.9 - The Great Archive Migration",
+    "summary": "When Earth began rewriting history after the Exodus Protocol leak, Luna Freeport responded with one of the most ambitious cultural projects in human history: relocating, preserving, and expanding the entire Sovereign Archive into a vast, subterranean knowledge sanctuary beneath the Shackleton region.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-1-dec-7-2025-the-bitcoin-chronicles---1b8---the-pelagia-compact-luna-declares-itself",
+    "event_id": "1a7acb386aacdac952ec7512fbbc5aaed4e0d61b684bfa01f07d6a103c10c193",
+    "created_at": 1765157142,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/1a7acb386aacdac952ec7512fbbc5aaed4e0d61b684bfa01f07d6a103c10c193.json",
+    "title": "Free Article 1 (Dec. 7, 2025): The Bitcoin Chronicles - 1.B.8 -  The Pelagia Compact: Luna Declares Itself",
+    "summary": "The Pelagia Compact was not a rebellion, nor a revolution, nor a declaration of independence in the Earthly sense. It was a quiet agreement among guilds, enclaves, and Freeport elders—affirming that Luna had already outgrown Earth’s authority. The Compact merely put into words what had become true.",
+    "paid": false
+  },
+  {
+    "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
+    "event_id": "55c6436ef1a895e55df2e9e5e0fa378f1ab32004786fafb79211834cb1ac31ac",
+    "created_at": 1765148422,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/55c6436ef1a895e55df2e9e5e0fa378f1ab32004786fafb79211834cb1ac31ac.json",
+    "title": "The Sovereign Archive: The Canonical Bitcoin Chronicles Index",
+    "summary": "This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.",
+    "paid": false
+  },
+  {
+    "slug": "a-systems-hypothesis-of-sovereignty-stability-information-and-human-agency",
+    "event_id": "f50d488e4ae15600c68f3c9de068756cdcf702154f238d07fc0c8127747d3e18",
+    "created_at": 1765138208,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/f50d488e4ae15600c68f3c9de068756cdcf702154f238d07fc0c8127747d3e18.json",
+    "title": "A Systems Hypothesis of Sovereignty:   Stability, Information, and Human Agency",
+    "summary": "This article explores a recurring pattern across complex systems: decentralized, sovereign structures tend to be more stable than centralized ones. It proposes sovereignty as a systems-level insight—not a physical law—and distinguishes this real-world hypothesis from the fictional treatment in The Bitcoin Chronicles. The piece argues that technologies like Bitcoin and Nostr align with this pattern, reinforcing human agency and long-term resilience.",
+    "paid": false
+  },
+  {
+    "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
+    "event_id": "f1fd2d18fa518d5855866527641334879d76b56d601d68d5cfad1c88475611ee",
+    "created_at": 1765085047,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/f1fd2d18fa518d5855866527641334879d76b56d601d68d5cfad1c88475611ee.json",
+    "title": "The Sovereign Archive: The Canonical Bitcoin Chronicles Index",
+    "summary": "This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.",
+    "paid": false
+  },
+  {
     "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
     "event_id": "acef9e471947012a096e587cdff41cad1e7bde00b6827f30e1fd05446b5ddffd",
     "created_at": 1765083237,
