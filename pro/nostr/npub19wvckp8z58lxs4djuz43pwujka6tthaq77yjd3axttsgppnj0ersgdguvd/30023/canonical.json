@@ -1204,7 +1204,7 @@
     "latest_year": 2025
   },
   "continuum-magazine-premium-index": {
-    "latest_event_id": "ad4254e31580ad35243578f9c3955198fc4fa256dcb37d13df43142293f8077a",
+    "latest_event_id": "dc7c5050c0b5b45ddc03df4f6056254879db42c23f84ca4e6b7aef8f76876642",
     "latest_year": 2025
   },
   "free-article-2-nov-20-2025-sovereignty-on-tired-days-how-to-stay-free-when-life-is-draining": {
@@ -1384,7 +1384,7 @@
     "latest_year": 2025
   },
   "the-sovereign-archive-the-canonical-bitcoin-chronicles-index": {
-    "latest_event_id": "55c6436ef1a895e55df2e9e5e0fa378f1ab32004786fafb79211834cb1ac31ac",
+    "latest_event_id": "c55382babe0e2d33a220a55531b5227d919455940adfe64d4d53a24a33751294",
     "latest_year": 2025
   },
   "patron-support-continuum": {
@@ -1400,7 +1400,7 @@
     "latest_year": 2025
   },
   "paid-article-dec-4-2025-the-bitcoin-chronicles---1c2---the-martian-reckoners": {
-    "latest_event_id": "2ddb9d05af62098e1458473a1578cea328c61d492f14fde7999ba9149766f9c3",
+    "latest_event_id": "70d14492a77a9594109c0010471b75dd00653031707a15a04bea533cdb3f35b7",
     "latest_year": 2025
   },
   "free-artlce-2-dec-5-2025-the-bitcoin-chronicles---1b5---the-free-launch-era-how-luna-became-the-first-sovereign-world": {
@@ -1545,6 +1545,22 @@
   },
   "sovereign--decentralized-full-article-2025-08-24": {
     "latest_event_id": "f6cc18f987ce617d6e69cc7bb674485f380e4b4c30d55c30b20a0c03434fe0f3",
+    "latest_year": 2025
+  },
+  "-bitcoin-as-treasury-not-trade-2025-08-25": {
+    "latest_event_id": "ced6220635074611b4bd4ae8d45f1ffcf2af63bfb05c9dcbcc7076398fc9257b",
+    "latest_year": 2025
+  },
+  "-paid-article-day-3--aug-26-2025-identity-why-npubs-beat-usernames-2025-08-26": {
+    "latest_event_id": "5d1c243f5a5789a495b0ad633fda2b78cc7fa93977cae9f456240f69f6e7d60d",
+    "latest_year": 2025
+  },
+  "-paid-article-day-4---aug-27-2025--the-bitcoin-chronicles--the-first-lunar-economy-life-on-sats-in-a-moon-colony-2025-08-27": {
+    "latest_event_id": "7d13b0455e573dceab7098b3638bb21ad0ce71bbc02299d85293310059637fe5",
+    "latest_year": 2025
+  },
+  "-paid-article-day-5---aug-28-2025--the-bitcoin-chronicles-life-on-mars-building-a-bitcoin-settlement-on-the-red-frontier-2025-08-28": {
+    "latest_event_id": "0d80bee682c3a7cc45b8bc67aa565765f81902a658e174e08e0f6ccb359d5e69",
     "latest_year": 2025
   }
 }
