@@ -1384,7 +1384,7 @@
     "latest_year": 2025
   },
   "the-sovereign-archive-the-canonical-bitcoin-chronicles-index": {
-    "latest_event_id": "c55382babe0e2d33a220a55531b5227d919455940adfe64d4d53a24a33751294",
+    "latest_event_id": "1cb0323e3b2098eeeaffa65fe9e8c3cfab17e39aef8240d6b395ea6a9c5ed115",
     "latest_year": 2025
   },
   "patron-support-continuum": {
@@ -1561,6 +1561,38 @@
   },
   "-paid-article-day-5---aug-28-2025--the-bitcoin-chronicles-life-on-mars-building-a-bitcoin-settlement-on-the-red-frontier-2025-08-28": {
     "latest_event_id": "0d80bee682c3a7cc45b8bc67aa565765f81902a658e174e08e0f6ccb359d5e69",
+    "latest_year": 2025
+  },
+  "-paid-article-day-6---aug-29-2025--the-archive-beneath-the-ash-2025-08-29": {
+    "latest_event_id": "4f7a532b051ada95b711dcf28f0f4de6d74cbd94b3bc634e812c0e258343e35b",
+    "latest_year": 2025
+  },
+  "-paid-article-day-7---aug-30-2025--the-bitcoin-chronicles--the-first-interplanetary-trade-routes-2025-08-30": {
+    "latest_event_id": "b493428c87a234cd338852c227676646b49b6e17f80c5ed6edfd36521ab0f5bb",
+    "latest_year": 2025
+  },
+  "paid-article-sept-1-2025-the-bitcoin-chronicles-master-timeline-of-the-bitcoin-chronicles-universe-20253100s-a-timeline-of-sovereign-labor-from-fiat-chains-to-the-chain-among-the-stars-2025-09-01": {
+    "latest_event_id": "9ad8f9b28923ce94d5bb9ec5601c29e691c3cf8b7503c12d675e88470b742f00",
+    "latest_year": 2025
+  },
+  "paid-article-sept-2-2025-cathedrals-or-casinos--bitcoin-and-the-end-of-disposable-tech-2025-09-02": {
+    "latest_event_id": "72026583aaba233f21a1944498c0483895d28893987c6a8fa4818f393bf5d76d",
+    "latest_year": 2025
+  },
+  "paid-article-sept-3-2025--the-garden-without-walls-how-bitcoin-opens-the-way-to-human-flourishing-2025-09-03": {
+    "latest_event_id": "284a20d9ad1ed9a7760640b4e583a1a6a8aced43e22463befcb58666bd4c2777",
+    "latest_year": 2025
+  },
+  "-paid-article-sept-5-2025--time-scarcity-and-human-dignity-bitcoin-as-the-architecture-of-hope-2025-09-05": {
+    "latest_event_id": "1b88b50e74fd7d12675f05997570dfbc9a8bcce13fa27b93e02e40973ece5af3",
+    "latest_year": 2025
+  },
+  "paid-article-sept-4-2024-the-currency-of-trust-how-bitcoin-restores-what-fiat-has-stolen-2025-09-04": {
+    "latest_event_id": "3b92b49c5097277e85af3aad8b9148d4e1fe080787807d9c69c40c85c03c7e8a",
+    "latest_year": 2025
+  },
+  "paid-article-sept-8-2025-the-unifier-the-turning-and-the-threshold-bitcoin-and-the-long-arc-of-prophecy-2025-09-08": {
+    "latest_event_id": "5a89f3054076f650a2fe1a3c8c156b6af5390a306bd7bf647b94eaff2ab2ac89",
     "latest_year": 2025
   }
 }
