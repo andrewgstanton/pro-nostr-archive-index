@@ -347,6 +347,8 @@
               link.href = `./?event_id=${encodeURIComponent(item.event_id)}`;
               link.textContent = item.title || item.slug || "(Untitled)";
 
+              item.paid = isPaid(item);
+              
               const badge = document.createElement("span");
               badge.className = "badge " + (item.paid ? "paid" : "free");
               badge.textContent = item.paid ? "Paid" : "Free";
