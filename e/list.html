@@ -193,6 +193,18 @@
   <div id="container"></div>
 
   <script>
+
+    function isPaid(item) {
+      // trust explicit paid flag if present:
+      if (item.paid === true) return true;
+
+      // fallback detection based on title/slug conventions
+      if (item.title && item.title.includes("Paid Article")) return true;
+      if (item.slug && item.slug.includes("paid")) return true;
+
+      return false;
+    }
+
     function formatDate(ts) {
       if (!ts) return "";
       const d = new Date(ts * 1000);
