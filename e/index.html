@@ -70,7 +70,32 @@
       border-radius:0.5rem;
       font-size:0.85rem;
       overflow-x:auto;
+
+      /* allow wrapping for long encrypted lines */
+      white-space: pre-wrap;
+      word-break: break-all;
+      overflow-wrap: break-word;
+            
     }
+
+    /* Special treatment for encrypted blocks so they wrap nicely */
+    pre.encblock,
+    pre.encblock code {
+      font-size: 0.75rem;
+      white-space: normal;
+      word-break: break-all;
+      overflow-wrap: anywhere;
+    }
+
+    /* Encrypted blocks that are plain paragraphs (ENCv1:...) */
+    p.encblock {
+      font-family: "Courier New", Courier, monospace;
+      font-size: 0.75rem;
+      line-height: 1.2;
+      white-space: normal;
+      word-break: break-all;
+      overflow-wrap: anywhere;
+    }    
 
     #header-image img {
       max-width: 100%;
@@ -244,7 +269,24 @@
         return content; // keep teaser + encrypted blob
       }
     }
-  
+ 
+    // Tag encrypted blocks (ENCv1 / ENCv2) so CSS can apply wrapping
+    const ENC_PREFIXES = ["ENCv1:", "ENCv2:"];
+
+    function looksEncrypted(text) {
+      const t = (text || "").trim();
+      return ENC_PREFIXES.some(prefix => t.startsWith(prefix));
+    }
+
+    function tagEncryptedBlocks(container) {
+      if (!container) return;
+      container.querySelectorAll("p, pre, code").forEach(el => {
+        if (looksEncrypted(el.textContent)) {
+          el.classList.add("encblock");
+        }
+      });
+    }
+    
     // ----------------------------------------------------
   
     async function loadEvent() {
@@ -363,6 +405,9 @@
   
         if (html.trim()) {
           contentEl.innerHTML = html;
+          // 🔐 Tag encrypted blocks so they wrap nicely
+          tagEncryptedBlocks(contentEl);
+                    
         } else {
           const pre = document.createElement("pre");
           pre.textContent = JSON.stringify(evJson, null, 2);
