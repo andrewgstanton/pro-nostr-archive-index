@@ -1,5 +1,49 @@
 [
   {
+    "slug": "free-article-2-dec-11-2025-the-bitcoin-chronicles---the-first-pilgrim-charter",
+    "event_id": "6206ff47c810d547636b41f2fb21dd7139276e26a20e3a42a65e311bce5bd9a9",
+    "created_at": 1765485713,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/6206ff47c810d547636b41f2fb21dd7139276e26a20e3a42a65e311bce5bd9a9.json",
+    "title": "Free Article 2 (Dec. 11, 2025): The Bitcoin Chronicles - The First Pilgrim Charter",
+    "summary": "A lore fragment from the early expansion era of *The Bitcoin Chronicles* — the foundational charter that launched humanity’s first sovereign mission beyond Earth.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-1-dec-11-2025-sovereignty-is-learned-in-small-steps",
+    "event_id": "9322cc359cf203720a6172064e91dad886b527999e8d61755ffbd38f21a01bc1",
+    "created_at": 1765485231,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/9322cc359cf203720a6172064e91dad886b527999e8d61755ffbd38f21a01bc1.json",
+    "title": "Free Article 1 (Dec. 11, 2025): Sovereignty Is Learned in Small Steps",
+    "summary": "Sovereignty isn't a dramatic breakthrough — it is a practiced rhythm of small decisions made daily. We become sovereign by training sovereignty.",
+    "paid": false
+  },
+  {
+    "slug": "-paid-article-sept-10-2025-debasement-and-decline-romes-warning-for-today-2025-09-10",
+    "event_id": "e193f0992b810c984745d09a7ccfb5e9467a37b9f19b9bcddc7f0dd6aac46cf0",
+    "created_at": 1765343919,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/e193f0992b810c984745d09a7ccfb5e9467a37b9f19b9bcddc7f0dd6aac46cf0.json",
+    "title": "🔒 Paid Article (Sept. 10, 2025): Debasement and Decline: Rome’s Warning for Today",
+    "summary": "This article explores how Rome’s monetary collapse led to moral and institutional decline, and why Bitcoin offers a way out of repeating history.",
+    "paid": false
+  },
+  {
+    "slug": "-paid-article-sept-9-2025--the-nostr-manifesto-2025-09-09",
+    "event_id": "44c28f4c4943c4c0e19a45bd5c100e79875e5ecfa512a07912067deb0776217b",
+    "created_at": 1765332567,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/44c28f4c4943c4c0e19a45bd5c100e79875e5ecfa512a07912067deb0776217b.json",
+    "title": "🔒 Paid Article (Sept. 9, 2025) : The Nostr Manifesto",
+    "summary": "This article lays out the case for Nostr as a manifesto: why it matters, what it protects, and how it redefines digital identity and communication.",
+    "paid": false
+  },
+  {
     "slug": "paid-article-sept-8-2025-the-unifier-the-turning-and-the-threshold-bitcoin-and-the-long-arc-of-prophecy-2025-09-08",
     "event_id": "5a89f3054076f650a2fe1a3c8c156b6af5390a306bd7bf647b94eaff2ab2ac89",
     "created_at": 1765330976,
