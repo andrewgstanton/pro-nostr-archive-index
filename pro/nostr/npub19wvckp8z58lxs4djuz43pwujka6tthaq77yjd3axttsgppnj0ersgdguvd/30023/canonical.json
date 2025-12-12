@@ -1412,7 +1412,7 @@
     "latest_year": 2025
   },
   "paid-article-sample-2025-12-05": {
-    "latest_event_id": "70603b2b09b879940fc299311bf52dfa73addc133a0649e6624b318cc7452e2b",
+    "latest_event_id": "2f53d9636c272a6ded7c11d48cca5c403a7caf8b1e959736246793f1b6026608",
     "latest_year": 2025
   },
   "paid-article-dec-3-2025-the-bitcoin-chronicles---1a3---the-exodus-protocol-2025-12-03": {
@@ -1669,6 +1669,62 @@
   },
   "-paid-article-sept-11-2025-sovereign-land-titles-covenant-jurisdiction-and-the-end-of-reservations-2025-09-11": {
     "latest_event_id": "4ac79df92d9959c5af8b7ffe3d73f6eedfc17c91e3b701888be13c664a352642",
+    "latest_year": 2025
+  },
+  "-paid-article-oct-13-2025-when-the-well-runs-dry-faithfulness-in-the-absence-of-fire-2025-10-13": {
+    "latest_event_id": "cd83b0284f690bc47c72c5f65df47ff93a9e30923be625663b61010fd488c422",
+    "latest_year": 2025
+  },
+  "-paid-article-oct-10-2025-the-gospel-of-sovereign-peace-2025-10-10": {
+    "latest_event_id": "318597f9404ad111540bcd590ded06cec775b357e959068a9b7a54d8ad20ce15",
+    "latest_year": 2025
+  },
+  "-paid-article-oct-9-2025-the-power-that-cannot-be-bought-2025-12-12": {
+    "latest_event_id": "5c5320125a1557317874ac8dbc301c323812257e981b3ba53a49e849ea28b8a6",
+    "latest_year": 2025
+  },
+  "-paid-article-oct-8-2025-the-kingdom-ledger-exiting-fiat-entering-freedom-2025-12-12": {
+    "latest_event_id": "18893e0ab4c03c8d9f193ade4514354b21ac8c243f62fe733751b0ca43162730",
+    "latest_year": 2025
+  },
+  "-paid-article-oct-7-2025-the-new-jerusalem-of-speech-2025-12-12": {
+    "latest_event_id": "8b9dac1b40908c8296b7130dcc185f7a14cb1b8762b0bfcfb4314f8cb0407d1d",
+    "latest_year": 2025
+  },
+  "-paid-article-oct-6-2025-the-first-exodus-leaving-the-minds-egypt-2025-12-12": {
+    "latest_event_id": "45040eb89be24491ba5aad30e97995c3753703cda665dc9dd4f2e1294ce40a48",
+    "latest_year": 2025
+  },
+  "-paid-article-oct-3-2025-blueprints-of-trust-rebuilding-after-collapse-2025-10-03": {
+    "latest_event_id": "180a30f1d8db3a15b1361a04a1b7be7e9afd364cab98984c071630fe411a4fbf",
+    "latest_year": 2025
+  },
+  "free-article-2-dec-12-2025-the-bitcoin-chronicles-1a001---the-engineer-who-refused-the-switchboard": {
+    "latest_event_id": "a43c50ad9cdb16fcefe9dad5eb5a8f4e82f142f01a3fc8751cfcd547a47078f5",
+    "latest_year": 2025
+  },
+  "paid-article-dec-12-2025-the-bitcoin-chronicles---1a002---the-library-of-silent-equations-2025-12-12": {
+    "latest_event_id": "ee8d13c0521ce1b4b32d4bc0c9415b94ba5615f177f903cca124c5f42630c183",
+    "latest_year": 2025
+  },
+  "the-bitcoin-chronicles---1a003---archivist-note-on-the-earthboound-records": {
+    "latest_event_id": "7748ba6a06afce74502838469be3a770c80a9e8d64c06559c5a27e07983973e0",
+    "latest_year": 2025
+  },
+  "free-article-1-dec-12-2025-the-bitcoin-chronicles---1a000---the-letter-that-never-reached-bretton-woods": {
+    "latest_event_id": "1305129771cb244e4817dc8e128de060d3c706b6cb03ba8c0862b09dd5c12930",
+    "latest_year": 2025
+  },
+  "the-bitcoin-chronicles---7a1---archivist-note-on-divergent-timekeeping-systems": {
+    "latest_event_id": "93999f3290cfe1cc742f79ae5e87411012e3716ae850554b0f98117d76e6bec4",
+    "latest_year": 2025
+  },
+  "-paid-article-oct-2-2025-the-next-chapter-renewal-sovereignty-and-the-future-we-build-2025-10-02": {
+    "latest_event_id": "eb037b920c91fc3b0763a6877199291774b938f06feadf3c45d389f1c834e0b8",
+    "latest_year": 2025
+  },
+  "-paid-article-oct-1-2025-the-ledger-beyond-death-bitcoin-legacy-and-the-final-goodbye-2025-10-01": {
+    "latest_event_id": "b2beae3c8b70ff8a82fa79ca33c3eb8227b447d2551d77afc693d5b1c3d2a1f2",
     "latest_year": 2025
   }
 }
