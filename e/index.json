@@ -1,5 +1,148 @@
 [
   {
+    "slug": "the-bitcoin-chronicles---7a1---archivist-note-on-divergent-timekeeping-systems",
+    "event_id": "7b115894c880cfbe3ed1374fecc1daf12dab16899d16f637904129ba3813db20",
+    "created_at": 1765583308,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/7b115894c880cfbe3ed1374fecc1daf12dab16899d16f637904129ba3813db20.json",
+    "title": "The Bitcoin Chronicles - 7.A.1 - Archivist Note: On Divergent Timekeeping Systems",
+    "summary": "An archival clarification describing the continued use of Gregorian dates by centralized authorities alongside the adoption of ledger-based and epochal time by sovereign colonies after the Pilgrim era.",
+    "paid": false
+  },
+  {
+    "slug": "paid-article-sept-1-2025-the-bitcoin-chronicles-master-timeline-of-the-bitcoin-chronicles-universe-20253100s-a-timeline-of-sovereign-labor-from-fiat-chains-to-the-chain-among-the-stars-2025-09-01",
+    "event_id": "910273729e9705b09897a210561f4705594f7db23cd4e545dd5677f09a649626",
+    "created_at": 1765582821,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/910273729e9705b09897a210561f4705594f7db23cd4e545dd5677f09a649626.json",
+    "title": "🔒 Paid Article (Sept. 1, 2025): The Bitcoin Chronicles: Master Timeline of the Bitcoin Chronicles Universe (2025–3100s): A Timeline of Sovereign Labor: From Fiat Chains to the Chain Among the Stars",
+    "summary": "On this Labor Day, I trace the arc of sovereign labor across centuries: from Earth’s fiat chains to Bitcoin-native colonies, from the Cathedral of New Lakota to the Chain Among the Stars. A master timeline of the Bitcoin Chronicles universe, spanning 2025–3100s.",
+    "paid": false
+  },
+  {
+    "slug": "paid-article-sept-2-2025-cathedrals-or-casinos--bitcoin-and-the-end-of-disposable-tech-2025-09-02",
+    "event_id": "a0b1f998b758e67ce8b9d0f545db000b58fab3b992dcc22ca86b7cb3a113203b",
+    "created_at": 1765582704,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/a0b1f998b758e67ce8b9d0f545db000b58fab3b992dcc22ca86b7cb3a113203b.json",
+    "title": "🔒 Paid Article (Sept. 2, 2025): Cathedrals or Casinos — Bitcoin and the End of Disposable Tech",
+    "summary": "From MySpace to Terra/LUNA, most platforms and tokens are disposable. They promise ownership but vanish with the hype, leaving creators and workers with nothing. Bitcoin is different. It is cathedral-building: slow, covenantal, sovereign, built to last for centuries. This article contrasts disposability with endurance, calling readers to build cathedrals, not art deco houses.",
+    "paid": false
+  },
+  {
+    "slug": "paid-article-sept-3-2025--the-garden-without-walls-how-bitcoin-opens-the-way-to-human-flourishing-2025-09-03",
+    "event_id": "6659f44f55f26e4655715dd0c2d08b6388490eb07e58294b40dcb6d802d8112c",
+    "created_at": 1765582479,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/6659f44f55f26e4655715dd0c2d08b6388490eb07e58294b40dcb6d802d8112c.json",
+    "title": "🔒 Paid Article (Sept. 3, 2025) : The Garden Without Walls: How Bitcoin Opens the Way to Human Flourishing",
+    "summary": "A hopeful essay contrasting today’s closed digital “walled gardens” with Bitcoin as an open, flourishing ecosystem. Argues that Bitcoin’s scarcity enables abundance, and that sovereignty is not isolation but a path to human flourishing.",
+    "paid": false
+  },
+  {
+    "slug": "paid-article-sept-4-2024-the-currency-of-trust-how-bitcoin-restores-what-fiat-has-stolen-2025-09-04",
+    "event_id": "78f0fc4883d89ee6e1a7842032d60cf02c7495e4543c2a7a8418194eb9a2ea91",
+    "created_at": 1765580591,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/78f0fc4883d89ee6e1a7842032d60cf02c7495e4543c2a7a8418194eb9a2ea91.json",
+    "title": "🔒 Paid Article (Sept. 4, 2024): The Currency of Trust: How Bitcoin Restores What Fiat Has Stolen",
+    "summary": "A Bitcoin Magazine–worthy essay arguing that fiat systems erode trust through inflation, bailouts, and opacity, while Bitcoin restores trust by anchoring it in transparency and mathematics. It shows how Bitcoin redeems human relationships and responsibility, offering hope for honest cooperation.",
+    "paid": false
+  },
+  {
+    "slug": "paid-article-sept-8-2025-the-unifier-the-turning-and-the-threshold-bitcoin-and-the-long-arc-of-prophecy-2025-09-08",
+    "event_id": "0f29a545b7fe17f0951514944371d12c8c5ef7f3574e7e2238d13259011cdfc9",
+    "created_at": 1765580477,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/0f29a545b7fe17f0951514944371d12c8c5ef7f3574e7e2238d13259011cdfc9.json",
+    "title": "🔒 Paid Article (Sept. 8, 2025): The Unifier, The Turning, and The Threshold: Bitcoin and the Long Arc of Prophecy",
+    "summary": "Most visions of the future cut history short. Left Behind puts prophecy in decades, Terminator makes AI the end of everything. This essay sketches a longer arc: the Unifier, the Turning, and the Threshold — the great transitions of the next 2000 years, with Bitcoin as the incorruptible pillar carrying sovereignty until eternity.",
+    "paid": false
+  },
+  {
+    "slug": "paid-article-dec-12-2025-the-bitcoin-chronicles---1a002---the-library-of-silent-equations-2025-12-12",
+    "event_id": "b622bf8082b0424c133bbf93716447dee2a0334f7996d66dc51c7820b34ff552",
+    "created_at": 1765580339,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/b622bf8082b0424c133bbf93716447dee2a0334f7996d66dc51c7820b34ff552.json",
+    "title": "🔒 Paid Article (Dec. 12, 2025): The Bitcoin Chronicles - 1.A.0.0.2 - The Library of Silent Equations",
+    "summary": "In 1963, beneath the limestone hills of western Pennsylvania, a classified government archive quietly destroys research deemed incompatible with administrative stability. One archivist’s decision to preserve forbidden equations ensures that sovereign mathematics survives long enough to inspire the Pilgrim generation.",
+    "paid": false
+  },
+  {
+    "slug": "paid-article-dec-11-2025-why-sovereign-tools-must-outlast-their-creators-2025-12-11",
+    "event_id": "2c764b4a3aa40ff503217440c26defafb87875fa46af7f45d589f73696324b29",
+    "created_at": 1765580191,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/2c764b4a3aa40ff503217440c26defafb87875fa46af7f45d589f73696324b29.json",
+    "title": "🔒 Paid Article (Dec. 11, 2025): Why Sovereign Tools Must Outlast Their Creators",
+    "summary": "A deep exploration of why Continuum — and all sovereign systems — must be built to endure beyond their founders. Sovereign tools are cathedrals, not startups.",
+    "paid": false
+  },
+  {
+    "slug": "-paid-article-oct-7-2025-the-new-jerusalem-of-speech-2025-12-12",
+    "event_id": "7f8833297899a3e9dc1773ad74c1e211f3f969f1d433c24e59cb728b4dd80cbb",
+    "created_at": 1765580024,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/7f8833297899a3e9dc1773ad74c1e211f3f969f1d433c24e59cb728b4dd80cbb.json",
+    "title": "🔒 Paid Article (Oct. 7, 2025): The New Jerusalem of Speech",
+    "summary": "Every revolution of the word is also a revolution of spirit.  This essay envisions a new age of free expression built on open protocols, where truth is not hosted but inhabited.  T",
+    "paid": false
+  },
+  {
+    "slug": "-paid-article-oct-8-2025-the-kingdom-ledger-exiting-fiat-entering-freedom-2025-12-12",
+    "event_id": "043955382f05eaaa26bf3997b6929d5bebb9682bfd08a577d601e37a59c9f37b",
+    "created_at": 1765579932,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/043955382f05eaaa26bf3997b6929d5bebb9682bfd08a577d601e37a59c9f37b.json",
+    "title": "🔒 Paid Article (Oct. 8, 2025): The Kingdom Ledger: Exiting Fiat, Entering Freedom",
+    "summary": "Bitcoin is not an investment class; it is a moral reformation.  To exit fiat is to renounce false weights and measures, to step back into a covenantal economy rooted in truth.",
+    "paid": false
+  },
+  {
+    "slug": "paid-article-sample-2025-12-05",
+    "event_id": "82f2ec14b43eeeb3931ca09a0415e59f58fd5ac6862e4365df9ee4c944711e3a",
+    "created_at": 1765579796,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/82f2ec14b43eeeb3931ca09a0415e59f58fd5ac6862e4365df9ee4c944711e3a.json",
+    "title": "🔒 Paid Article Sample",
+    "summary": "This is what a paid article would look like unencrypted.",
+    "paid": false
+  },
+  {
+    "slug": "-paid-article-oct-14-2025-sovereignty-vs-speculation-2025-10-14",
+    "event_id": "bc7a7d3a3151383c88b079aae77047dd2d3b4644383e56cd512852f876592bdf",
+    "created_at": 1765579599,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/bc7a7d3a3151383c88b079aae77047dd2d3b4644383e56cd512852f876592bdf.json",
+    "title": "🔒 Paid Article (Oct. 14, 2025): Sovereignty vs Speculation",
+    "summary": "The mechanics of profit can dull the meaning of purpose. This essay wrestles with what it means to trade faithfully—to keep agency when success feels automatic and wins taste like dust.",
+    "paid": false
+  },
+  {
+    "slug": "-paid-article-oct-9-2025-the-power-that-cannot-be-bought-2025-12-12",
+    "event_id": "a2635e04712eb32987f313ea5dfc645fa54c16e010c89ee56ce8d204a89798b3",
+    "created_at": 1765579308,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/a2635e04712eb32987f313ea5dfc645fa54c16e010c89ee56ce8d204a89798b3.json",
+    "title": "🔒 Paid Article (Oct. 9, 2025): The Power That Cannot Be Bought",
+    "summary": "A meditation on the difference between spiritual authority, fiat power, and proof-of-work. In a world obsessed with leverage — financial, social, or political — true power remains something money can’t purchase and status can’t secure.",
+    "paid": false
+  },
+  {
     "slug": "paid-article-sample-2025-12-05",
     "event_id": "2f53d9636c272a6ded7c11d48cca5c403a7caf8b1e959736246793f1b6026608",
     "created_at": 1765575491,
