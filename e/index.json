@@ -1,5 +1,93 @@
 [
   {
+    "slug": "free-article-1-oct-18-2025-the-bitcoin-chronicles--sabbath-on-new-lakota",
+    "event_id": "e8eeb8f0b8aca1f2ae7f7e067e5c22ff331397d7053847888174c3190c38259d",
+    "created_at": 1765594248,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/e8eeb8f0b8aca1f2ae7f7e067e5c22ff331397d7053847888174c3190c38259d.json",
+    "title": "Free Article 1 (Oct. 18, 2025): The Bitcoin Chronicles: 🌕 Sabbath on New Lakota",
+    "summary": "In the Martian settlement of New Lakota, descendants of Earth’s tribes and believers keep a Sabbath that honors both Creator and creation.  They rest their machines and remember that technology, too, must serve the circle of life.  Faith, sovereignty, and code become one act of witness — the seventh day reborn among the stars.",
+    "paid": false
+  },
+  {
+    "slug": "-paid-article-oct-16-2025-the-kingdom-and-the-code-2025-10-61",
+    "event_id": "9bf11d8a4fd8c55d2bd6a0fe8b2eeeb6f60652769d6f3c04ef30854fc0a99480",
+    "created_at": 1765594087,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/9bf11d8a4fd8c55d2bd6a0fe8b2eeeb6f60652769d6f3c04ef30854fc0a99480.json",
+    "title": "🔒 Paid Article (Oct .16 2025): The Kingdom and the Code",
+    "summary": "A long-form reflection linking the spiritual order of the Kingdom with the technical order of Bitcoin and Nostr. It argues that open protocols mirror divine principles — immutable, transparent, and self-governing — and that Continuum embodies this synthesis.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-oct-14-2025-keys-not-candles",
+    "event_id": "2238ccad053c9c1b3264af58733f1d888e4e5c0d2dc7cb8bf7b784d3b5ee4567",
+    "created_at": 1765593968,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/2238ccad053c9c1b3264af58733f1d888e4e5c0d2dc7cb8bf7b784d3b5ee4567.json",
+    "title": "Free Article 2 (Oct. 14, 2025): Keys, Not Candles",
+    "summary": "Trading demands risk rules; sovereignty demands self-rule. This reflection looks at the tension between technical discipline and inner discipline—why I respect stop-losses but still box my charts, and why real security comes from keys, not indicators.",
+    "paid": false
+  },
+  {
+    "slug": "-paid-article-oct-13-2025-when-the-well-runs-dry-faithfulness-in-the-absence-of-fire-2025-10-13",
+    "event_id": "a7235e967a755e7084339f43df845325b13178cf4eb4a868d6d401444e73fe7a",
+    "created_at": 1765593822,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/a7235e967a755e7084339f43df845325b13178cf4eb4a868d6d401444e73fe7a.json",
+    "title": "🔒 Paid Article (Oct. 13, 2025): When the Well Runs Dry: Faithfulness in the Absence of Fire",
+    "summary": "Inspiration fades, seasons shift, and the well sometimes runs dry. This piece explores what faithfulness looks like when the flame of creativity goes out—how to keep creating without pretending the fire is still there.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-1-oct-11-2025-grief-in-public-writing-while-the-heart-is-rearranging",
+    "event_id": "930ee5a0a09fe48ecfa50e8fee08432b71c8c5df751d5a1b319e6db3473ba985",
+    "created_at": 1765593415,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/930ee5a0a09fe48ecfa50e8fee08432b71c8c5df751d5a1b319e6db3473ba985.json",
+    "title": "Free Article 1 (Oct. 11, 2025): Grief in Public: Writing While the Heart Is Rearranging",
+    "summary": "When loss and language collide, truth becomes heavy but necessary. This reflection explores how to write honestly through disorientation—when sentences are the scaffolding that keeps the soul upright.",
+    "paid": false
+  },
+  {
+    "slug": "-paid-article-oct-6-2025-the-first-exodus-leaving-the-minds-egypt-2025-12-12",
+    "event_id": "58a4afd18c6562574c226386053bcdc7adee2b959e1070bbd9d1c95f8902ea20",
+    "created_at": 1765593281,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/58a4afd18c6562574c226386053bcdc7adee2b959e1070bbd9d1c95f8902ea20.json",
+    "title": "🔒 Paid Article (Oct. 6, 2025): The First Exodus: Leaving the Mind’s Egypt",
+    "summary": "Before any monetary or technological liberation, there must be a mental one.  This 1 500-word manifesto traces the architecture of captivity and the inner disciplines that make freedom real.",
+    "paid": false
+  },
+  {
+    "slug": "continuum-magazine---issue-5-sept-29-oct-5-2025",
+    "event_id": "763efb398f01ce01efd64d120ece0c7d1b28d9e463ee1b51ccc6923458f12865",
+    "created_at": 1765593032,
+    "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/30023/763efb398f01ce01efd64d120ece0c7d1b28d9e463ee1b51ccc6923458f12865.json",
+    "title": "Continuum Magazine - Issue #5 (Sept. 29-Oct. 5, 2025)",
+    "summary": "# 5.  This issue of Continuum Magazine brings together the Sept. 29-Oct. 5, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction. Reflections on mortality, reflecting on the week before my father's passing (on Sept. 29, 2025)",
+    "paid": false
+  },
+  {
+    "slug": "continuum-magazine---issue-4-sept-22-28-2025",
+    "event_id": "6d27872b99346e19c6bcb191ddf520e53984782ec3327fa5066a34b0ba870d74",
+    "created_at": 1765592848,
+    "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/30023/6d27872b99346e19c6bcb191ddf520e53984782ec3327fa5066a34b0ba870d74.json",
+    "title": "Continuum Magazine - Issue #4 (Sept. 22-28, 2025)",
+    "summary": "The fourth issue of Continuum Magazine brings together the Sept 22–28 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction. Reflections on mortality, reflecting on the week before my father's passing (on Sept. 29, 2025)",
+    "paid": false
+  },
+  {
     "slug": "free-article-1-sept-27-2025-the-quiet-before-the-departure",
     "event_id": "f7071e58d1ee03b01a6e172f64863ba5694ac5960be5566b7b39da24078338c0",
     "created_at": 1765592188,
