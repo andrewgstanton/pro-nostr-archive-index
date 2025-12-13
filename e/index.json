@@ -1,5 +1,27 @@
 [
   {
+    "slug": "free-article-1-sept-15-2025-the-seeds-we-plant-today",
+    "event_id": "bead078f6ef9129e811f47727e038edcf49800e0383750522012e06b26870fad",
+    "created_at": 1765591187,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/bead078f6ef9129e811f47727e038edcf49800e0383750522012e06b26870fad.json",
+    "title": "Free Article 1 (Sept. 15, 2025): The Seeds We Plant Today",
+    "summary": "This reflection considers how small, daily acts — where we store our wealth, what platforms we use, how we raise our families — become seeds of future sovereignty or dependence. It calls for intentional planting.",
+    "paid": false
+  },
+  {
+    "slug": "continuum-magazine---issue-2-sept-8-14-2025",
+    "event_id": "eceaa27f366a1900b2fdd43b0a01c4027d30b1b4b3869aedfdb98bc5bb19f125",
+    "created_at": 1765590877,
+    "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/30023/eceaa27f366a1900b2fdd43b0a01c4027d30b1b4b3869aedfdb98bc5bb19f125.json",
+    "title": "Continuum Magazine - Issue #2 (Sept. 8-14, 2025)",
+    "summary": "The second issue of Continuum Magazine brings together the Sept 8–14, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction. This week we noted the tragic assasination of Charlie Kirk and the observance of Sept. 11.  But, we also launched Continuum Magazine (first issue was published this week)",
+    "paid": false
+  },
+  {
     "slug": "sunday-article-sept-14-2025-starting-a-new-way-of-thinking-with-bitcoin",
     "event_id": "26328ba2602b9cd445bccc1e8044b13a7db90657216762b171c466ca9a025aa2",
     "created_at": 1765590088,
@@ -30,6 +52,17 @@
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/cb8042fdc3331d5c11e0cc862ae305d84188fa0949f7cf61076cbc8948326e1a.json",
     "title": "Free Article 2 (Sept.. 13, 2025): Why Bitcoin Encourages Rest, Not Just Leisure",
     "summary": "Bitcoin’s design encourages deep rest, not just surface-level leisure. Its low time-preference mindset invites people to rethink how they use time and energy, making space for restoration instead of endless striving.",
+    "paid": false
+  },
+  {
+    "slug": "continuum-magazine---issue-1-sept-1-7-2025",
+    "event_id": "36593b714c520f9a7cc45c3ed3755c7700cd22c9c0bf94eccfba55a994996dc3",
+    "created_at": 1765589426,
+    "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/30023/36593b714c520f9a7cc45c3ed3755c7700cd22c9c0bf94eccfba55a994996dc3.json",
+    "title": "Continuum Magazine - Issue #1 (Sept 1-7, 2025)",
+    "summary": "The first issue of Continuum Magazine brings together the Sept 1–7, 2025 writings: one paid article and two free reflections each day. Anchored in themes of sovereignty, faith, and conviction, this issue opens with a heavy remembrance of Sept 11 and the loss of Charlie Kirk, and moves through questions of labor, covenant, community, and renewal.",
     "paid": false
   },
   {
