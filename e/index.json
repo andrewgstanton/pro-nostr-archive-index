@@ -1,5 +1,104 @@
 [
   {
+    "slug": "paid-article-teaser-day-4---aug-27-2025--life-on-the-moon-paid-in-sats-",
+    "event_id": "45731441b6a29da7e27521f9a63d9e9aec2fbf430f49c5e63b5f48506fae7abf",
+    "created_at": 1765601089,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/45731441b6a29da7e27521f9a63d9e9aec2fbf430f49c5e63b5f48506fae7abf.json",
+    "title": "🔒 Paid Article Teaser (Day 4 - Aug. 27, 2025): 🌕 Life on the Moon, Paid in Sats 🚀",
+    "summary": "A glimpse into a future where moon colonists earn and trade in Bitcoin, free from Earth-bound banks. This teaser sets the stage for how sats become the lifeblood of survival and commerce on a lunar settlement.",
+    "paid": false
+  },
+  {
+    "slug": "paid-article-nov-7-2025-the-long-arc-of-open-systems-2025-11-07",
+    "event_id": "f229bb61de0edc9fea6522922dfeeccc399e319cdd6b81066593fccc38798536",
+    "created_at": 1765600844,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/f229bb61de0edc9fea6522922dfeeccc399e319cdd6b81066593fccc38798536.json",
+    "title": "🔒 Paid Article (Nov. 7, 2025): The Long Arc of Open Systems",
+    "summary": "Hope isn’t naive. It’s architectural. Open systems endure because they embed hope into their very structure — trust distributed across time.",
+    "paid": false
+  },
+  {
+    "slug": "paid-article-nov-6-2025-the-hidden-audience-2025-11-06",
+    "event_id": "06129ba2a6265f868e39b874a19e19dcbdd90c8150d941c5ccf7c99219fb1995",
+    "created_at": 1765600707,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/06129ba2a6265f868e39b874a19e19dcbdd90c8150d941c5ccf7c99219fb1995.json",
+    "title": "🔒 Paid Article (Nov. 6, 2025): The Hidden Audience",
+    "summary": "You think no one’s watching. But they are — just not the way you imagine. The hidden audience is real, and it’s why quiet builders change the world.",
+    "paid": false
+  },
+  {
+    "slug": "-paid-article-nov-3-2025-the-path-forward-2025-11-03",
+    "event_id": "8a65b3e8097f64beb7507f998b9e3552264975989a7dfc51f7732b6ee12f9a4e",
+    "created_at": 1765600350,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/8a65b3e8097f64beb7507f998b9e3552264975989a7dfc51f7732b6ee12f9a4e.json",
+    "title": "🔒 Paid Article (Nov. 3, 2025): The Path Forward",
+    "summary": "Reform isn’t about burning the old world down; it’s about building the new one right beside it — patiently, transparently, and without compromise. Bitcoin, open systems, and integrity in daily work all point toward the same horizon: freedom earned through truth.",
+    "paid": false
+  },
+  {
+    "slug": "-paid-article-oct-31-2025-if-the-banks-had-kept-their-promises-2025-10-31",
+    "event_id": "30348c2b6010c496649d80cada24f4aa0d23db6ca8714e60b02bca156df35c72",
+    "created_at": 1765599824,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/30348c2b6010c496649d80cada24f4aa0d23db6ca8714e60b02bca156df35c72.json",
+    "title": "🔒 Paid Article (Oct. 31, 2025):  If the Banks Had Kept Their Promises",
+    "summary": "Bitcoin exists because honesty failed. Had banks and governments preserved a system of sound, fully-backed money, there would have been no reason for Satoshi Nakamoto to write a single line of code. What the world abandoned in gold and full reserves, Bitcoin rebuilt in math.",
+    "paid": false
+  },
+  {
+    "slug": "-paid-article-oct-30-2025-the-bitcoin-chronicles---the-price-of-transmission--phase-two-2025-10-30",
+    "event_id": "7a330c462fcaf80ebfb2b6e9cfdfaa0ba2ebe93f0159cd46682d85dfbf532d10",
+    "created_at": 1765599627,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/7a330c462fcaf80ebfb2b6e9cfdfaa0ba2ebe93f0159cd46682d85dfbf532d10.json",
+    "title": "🔒 Paid Article (Oct. 30, 2025): The Bitcoin Chronicles - The Price of Transmission — Phase Two",
+    "summary": "Moving matter through the Entanglement Bridge doesn’t defeat physics; it pays physics—up front, on-chain, and in full. This essay follows real cases (a life-saving medical part, a desal membrane, and a denied rare-earth pallet) to show how Phase Two sets the “price of transmission” in energy, momentum, provenance, and ethics. It’s a hopeful blueprint for sovereign logistics that refuses empire and embraces responsibility.",
+    "paid": false
+  },
+  {
+    "slug": "-paid-article-oct-29-2025-the-bitcoin-chronicles--the-price-of-transmission-2025-10-29",
+    "event_id": "2f0f437813639ee16a2100f6a40a9fa9e01a54541c9e25a9130d04b488089892",
+    "created_at": 1765599233,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/2f0f437813639ee16a2100f6a40a9fa9e01a54541c9e25a9130d04b488089892.json",
+    "title": "🔒 Paid Article (Oct. 29, 2025): The Bitcoin Chronicles — The Price of Transmission",
+    "summary": "After the first entangled message slips past the Bureau’s global grid, the world trembles.   Kaia and Yun face the consequences of defying a planetary order, while leaders across the Free Network weigh whether truth is worth the risk of annihilation.   Hope, they learn, is never free—it must be paid for in courage, secrecy, and faith.",
+    "paid": false
+  },
+  {
+    "slug": "-paid-article-oct-28-2025-authorship-in-the-age-of-silence-2025-10-28",
+    "event_id": "13dc9a2b14494fee06f15367e39309923706378141fa2f397d85f31dd91db507",
+    "created_at": 1765598954,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/13dc9a2b14494fee06f15367e39309923706378141fa2f397d85f31dd91db507.json",
+    "title": "🔒 Paid Article (Oct. 28, 2025): Authorship in the Age of Silence",
+    "summary": "What does it mean to own your words in an era when platforms, editors, and AI models absorb everything? This essay redefines authorship as a sovereign act of witness — one that transcends recognition and survives through integrity, memory, and proof of work.",
+    "paid": false
+  },
+  {
+    "slug": "-paid-article-oct-27-the-hope-protocol-why-what-we-build-matters-2025-10-27",
+    "event_id": "bfdf444f1e4d5ecf600a6f02f824b3a2b8e360ad5c5af89099848e859dec4aed",
+    "created_at": 1765598730,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/bfdf444f1e4d5ecf600a6f02f824b3a2b8e360ad5c5af89099848e859dec4aed.json",
+    "title": "🔒 Paid Article (Oct. 27): The Hope Protocol: Why What We Build Matters",
+    "summary": "Hope isn’t a feeling—it’s an architecture. Every block, every relay, every act of honest creation reinforces the possibility that civilization can still choose truth over convenience. The things we build in light become the proof that meaning endures.",
+    "paid": false
+  },
+  {
     "slug": "-paid-article-oct-24-2025-the-economics-of-mercy-2025-10-24",
     "event_id": "5917f5bffa495b9778faa2f25f8c77eb6fe31eb4a651e47ad7d38bdda27fe419",
     "created_at": 1765596543,
