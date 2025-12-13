@@ -2533,5 +2533,35 @@
     "slug": "the-bitcoin-chronicles---7a1---archivist-note-on-divergent-timekeeping-systems",
     "event_id": "7b115894c880cfbe3ed1374fecc1daf12dab16899d16f637904129ba3813db20",
     "created_at": 1765583308
+  },
+  {
+    "slug": "sovereign--decentralized-full-article-2025-08-24",
+    "event_id": "2380fdb63cd0b02c4d2fd7f937b62cf27bd5eb56ff85e618aa91fa4d81ac2c30",
+    "created_at": 1765583949
+  },
+  {
+    "slug": "paid-article-nov-4-2025-under-the-hood-of-election-day-2025-redistricting-state-power-and-the-shifting-map-of-american-politics-2025-11-04",
+    "event_id": "10b05742b4054b4d2570866fdc080e2b50b3bca816d259298ca9a3a5400788cc",
+    "created_at": 1765584145
+  },
+  {
+    "slug": "paid-article-nov-5-2025-beyond-the-walls-building-in-open-spaces-2025-11-05",
+    "event_id": "6726e6e741bd14eca9f7ffa84f463d390434552eec74c55546d889dc04049e63",
+    "created_at": 1765584286
+  },
+  {
+    "slug": "-paid-article-oct-15-2025-cathedrals-of-freedom--building-what-endures-2025-10-15",
+    "event_id": "9d98aa3ba4f4d8327496384772f82418687600bdabf1c61d14938acaaeb1b293",
+    "created_at": 1765584561
+  },
+  {
+    "slug": "-paid-article-oct-16-2025-the-kingdom-and-the-code-2025-10-61",
+    "event_id": "99cfdf232c1c312451527b40faa304d96a3aa5732dfd8d0f05e144e5627b72bd",
+    "created_at": 1765584730
+  },
+  {
+    "slug": "-paid-article-oct-17-2025-the-bitcoin-chronicles-the-first-voyage-to-alpha-centauri-2025-10-17",
+    "event_id": "175ccbc638f411e625e63f41c242d8c0eeebd2b461c0094f2fb4cf96ac868c99",
+    "created_at": 1765584927
   }
 ]
