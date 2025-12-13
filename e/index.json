@@ -1,5 +1,49 @@
 [
   {
+    "slug": "free-article-1-dec-7-2025-the-bitcoin-chronicles---1b8---the-pelagia-compact-luna-declares-itself",
+    "event_id": "6e4f574478232c75e6fe0e2016f8eccb03c37583d6f3faf870d10ef4bcb57482",
+    "created_at": 1765657808,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/6e4f574478232c75e6fe0e2016f8eccb03c37583d6f3faf870d10ef4bcb57482.json",
+    "title": "Free Article 1 (Dec. 7, 2025): The Bitcoin Chronicles - 1.B.8 -  The Pelagia Compact: Luna Declares Itself",
+    "summary": "The Pelagia Compact was not a rebellion, nor a revolution, nor a declaration of independence in the Earthly sense. It was a quiet agreement among guilds, enclaves, and Freeport elders—affirming that Luna had already outgrown Earth’s authority. The Compact merely put into words what had become true.",
+    "paid": false
+  },
+  {
+    "slug": "paid-article-sample-2025-12-05",
+    "event_id": "83118cefdce895f337dd585ad99376eddda279d4c91915c0c52b52a879cc93d6",
+    "created_at": 1765657688,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/83118cefdce895f337dd585ad99376eddda279d4c91915c0c52b52a879cc93d6.json",
+    "title": "🔒 Paid Article Sample",
+    "summary": "This is what a paid article would look like unencrypted.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-dec-1-2025-the-bitcoin-chronicles---book-0-part-vi---the-mystery-revealed",
+    "event_id": "650eba5f193988aecbb6cac537d68e3b07e1dc38411fe00b97aceb28be346fb2",
+    "created_at": 1765657594,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/650eba5f193988aecbb6cac537d68e3b07e1dc38411fe00b97aceb28be346fb2.json",
+    "title": "Free Article 2 (Dec. 1, 2025): The Bitcoin Chronicles - Book 0, Part VI - The Mystery Revealed",
+    "summary": "Part VI unveils the deep truth beneath the entire Bitcoin Chronicles canon: the victorious Gospel is not metaphor but the hidden structure of reality. Christ is the architect, sustainer, and destiny of the universe, and sovereignty exists because He is sovereign.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-dec-12-2025-the-bitcoin-chronicles-1a001---the-engineer-who-refused-the-switchboard",
+    "event_id": "45a1873255afd86943364e3d0b63ec8b30f69282ae5d0fc16936c64a8b6ad1f9",
+    "created_at": 1765657477,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/45a1873255afd86943364e3d0b63ec8b30f69282ae5d0fc16936c64a8b6ad1f9.json",
+    "title": "Free Article 2 (Dec. 12, 2025): The Bitcoin Chronicles 1.A.0.0.1 - the Engineer Who Refused the Switchboard",
+    "summary": "In 1957 Los Angeles, a young aerospace engineer discovers a federal plan to centralize all national communications through a single monitoring switchboard. Her refusal to participate becomes one of the earliest technological seeds of future decentralized systems—and a quiet precursor to the sovereign ethos that fuels the Pilgrim missions.",
+    "paid": false
+  },
+  {
     "slug": "continuum-magazine---issue-13-nov24-30-2025",
     "event_id": "5dbd0c4d56f2b8ee9d7c6d28331527521342ebb75cce01621fba11c73dbbd58e",
     "created_at": 1765656732,
