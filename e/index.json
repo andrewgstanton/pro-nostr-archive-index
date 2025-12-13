@@ -1,5 +1,60 @@
 [
   {
+    "slug": "continuum-magazine---issue-13-nov24-30-2025",
+    "event_id": "5dbd0c4d56f2b8ee9d7c6d28331527521342ebb75cce01621fba11c73dbbd58e",
+    "created_at": 1765656732,
+    "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/30023/5dbd0c4d56f2b8ee9d7c6d28331527521342ebb75cce01621fba11c73dbbd58e.json",
+    "title": "Continuum Magazine - Issue #13 (Nov.24-30, 2025)",
+    "summary": "# 13.  This issue of Continuum Magazine brings together the Nov.17-Nov.23, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction.",
+    "paid": false
+  },
+  {
+    "slug": "continuum-magazine---issue-12-nov17-23-2025",
+    "event_id": "ead8d8dfe7c922a228633c938a3a3355b5e2e171d5072f577e30ba8071eab205",
+    "created_at": 1765656469,
+    "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/30023/ead8d8dfe7c922a228633c938a3a3355b5e2e171d5072f577e30ba8071eab205.json",
+    "title": "Continuum Magazine - Issue #12 (Nov.17-23, 2025)",
+    "summary": "# 12.  This issue of Continuum Magazine brings together the Nov.17-Nov.23, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction.",
+    "paid": false
+  },
+  {
+    "slug": "continuum-magazine---issue-11-nov10-16-2025",
+    "event_id": "cd869cb8117277e4616abf1bc593906851bc30cc82f4665e6e64d3e93e1acc5f",
+    "created_at": 1765656303,
+    "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/30023/cd869cb8117277e4616abf1bc593906851bc30cc82f4665e6e64d3e93e1acc5f.json",
+    "title": "Continuum Magazine - Issue #11 (Nov.10-16, 2025)",
+    "summary": "# 11.  This issue of Continuum Magazine brings together the Nov.10-Nov.16, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction.",
+    "paid": false
+  },
+  {
+    "slug": "continuum-magazine---issue-10-nov3-nov-9-2025",
+    "event_id": "fed155762d92e0f47eb32416a0d1cbbfee8d66a0cd9400a83850e9f09d46db63",
+    "created_at": 1765654495,
+    "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/30023/fed155762d92e0f47eb32416a0d1cbbfee8d66a0cd9400a83850e9f09d46db63.json",
+    "title": "Continuum Magazine - Issue #10 (Nov.3-Nov. 9, 2025)",
+    "summary": "# 10.  This issue of Continuum Magazine brings together the Nov.3-Nov.9, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-dec-12-2025-the-bitcoin-chronicles-1a001---the-engineer-who-refused-the-switchboard",
+    "event_id": "71f4536b2ca1b5fcfb51d07530c335f469251b730d551f6ab99c2e3b2bd3402a",
+    "created_at": 1765654191,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/71f4536b2ca1b5fcfb51d07530c335f469251b730d551f6ab99c2e3b2bd3402a.json",
+    "title": "Free Article 2 (Dec. 12, 2025): The Bitcoin Chronicles 1.A.0.0.1 - the Engineer Who Refused the Switchboard",
+    "summary": "In 1957 Los Angeles, a young aerospace engineer discovers a federal plan to centralize all national communications through a single monitoring switchboard. Her refusal to participate becomes one of the earliest technological seeds of future decentralized systems—and a quiet precursor to the sovereign ethos that fuels the Pilgrim missions.",
+    "paid": false
+  },
+  {
     "slug": "paid-article-dec-5-2025-the-bitcoin-chronicles---1b10---the-lattice-protocol-how-luna-rewove-the-human-archive-2025-12-05",
     "event_id": "f5ded1a81236b38bdacdba3ea6763b44f8ded63412829626cb5cd2809cf6300d",
     "created_at": 1765653545,
