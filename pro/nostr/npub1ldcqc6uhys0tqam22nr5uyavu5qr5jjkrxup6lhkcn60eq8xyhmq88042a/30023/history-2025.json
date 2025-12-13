@@ -288,5 +288,25 @@
     "slug": "continuum-magazine---issue-9-oct-27-nov-2-2025",
     "event_id": "26b86b7c3d78c39435ac3fa159006947c956ea8f5a580b6d90f7082bcda75a41",
     "created_at": 1765602878
+  },
+  {
+    "slug": "continuum-magazine---issue-10-nov3-nov-9-2025",
+    "event_id": "fed155762d92e0f47eb32416a0d1cbbfee8d66a0cd9400a83850e9f09d46db63",
+    "created_at": 1765654495
+  },
+  {
+    "slug": "continuum-magazine---issue-11-nov10-16-2025",
+    "event_id": "cd869cb8117277e4616abf1bc593906851bc30cc82f4665e6e64d3e93e1acc5f",
+    "created_at": 1765656303
+  },
+  {
+    "slug": "continuum-magazine---issue-12-nov17-23-2025",
+    "event_id": "ead8d8dfe7c922a228633c938a3a3355b5e2e171d5072f577e30ba8071eab205",
+    "created_at": 1765656469
+  },
+  {
+    "slug": "continuum-magazine---issue-13-nov24-30-2025",
+    "event_id": "5dbd0c4d56f2b8ee9d7c6d28331527521342ebb75cce01621fba11c73dbbd58e",
+    "created_at": 1765656732
   }
 ]
