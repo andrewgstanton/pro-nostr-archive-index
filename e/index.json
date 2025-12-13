@@ -1,5 +1,27 @@
 [
   {
+    "slug": "free-article-1-sept-27-2025-the-quiet-before-the-departure",
+    "event_id": "f7071e58d1ee03b01a6e172f64863ba5694ac5960be5566b7b39da24078338c0",
+    "created_at": 1765592188,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/f7071e58d1ee03b01a6e172f64863ba5694ac5960be5566b7b39da24078338c0.json",
+    "title": "Free Article 1 (Sept. 27, 2025): The Quiet Before the Departure",
+    "summary": "A meditative reflection on the Sabbath as holy stillness — a vigil of love and surrender in the final hours before loss.",
+    "paid": false
+  },
+  {
+    "slug": "continuum-magazine---issue-3-sept-15-21-2025",
+    "event_id": "19111ff76d499528b73be8492dba08a58ecec669d8b3a4b12678f2fbd054cd48",
+    "created_at": 1765591885,
+    "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/30023/19111ff76d499528b73be8492dba08a58ecec669d8b3a4b12678f2fbd054cd48.json",
+    "title": "Continuum Magazine - Issue #3 (Sept. 15-21, 2025)",
+    "summary": "The third issue of Continuum Magazine brings together the Sept 15–21 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction.",
+    "paid": false
+  },
+  {
     "slug": "free-article-1-sept-15-2025-the-seeds-we-plant-today",
     "event_id": "bead078f6ef9129e811f47727e038edcf49800e0383750522012e06b26870fad",
     "created_at": 1765591187,
