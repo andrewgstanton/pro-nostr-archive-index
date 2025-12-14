@@ -4,7 +4,7 @@
     "latest_year": 2025
   },
   "continuum-magazine-premium-index": {
-    "latest_event_id": "515cc22a5591ba8baee0e73b4103acad9b7f39d249ddae5a31c1a6c5121cd45e",
+    "latest_event_id": "507afd3003a87d6f598ba2242bf0578bdac7952122c16bd1f9b0771270f8a02a",
     "latest_year": 2025
   },
   "introducing-continuum-pro-a-sovereign-archive-for-nostrs-builders": {
@@ -64,7 +64,11 @@
     "latest_year": 2025
   },
   "continuum-magazine---issue-13-nov24-30-2025": {
-    "latest_event_id": "5dbd0c4d56f2b8ee9d7c6d28331527521342ebb75cce01621fba11c73dbbd58e",
+    "latest_event_id": "0c361864a2680b2680020e88088fc8ebe32c66fe803785dfa58e0eac80cb6c41",
+    "latest_year": 2025
+  },
+  "continuum-magazine---issue-14-dec-1-7-2025": {
+    "latest_event_id": "c334ecc27acd30ddf2f59ebb17a4ef1494677f6c0a731fbec022de1ece58ba63",
     "latest_year": 2025
   }
 }

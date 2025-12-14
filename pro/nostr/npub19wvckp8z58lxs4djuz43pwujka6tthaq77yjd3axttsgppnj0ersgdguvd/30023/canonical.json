@@ -1384,7 +1384,7 @@
     "latest_year": 2025
   },
   "the-sovereign-archive-the-canonical-bitcoin-chronicles-index": {
-    "latest_event_id": "1cb0323e3b2098eeeaffa65fe9e8c3cfab17e39aef8240d6b395ea6a9c5ed115",
+    "latest_event_id": "9a3aa185640b256a6312e3a2b202ec3e4e9fb2c0a1d4111c569b22287546730a",
     "latest_year": 2025
   },
   "patron-support-continuum": {
@@ -1785,6 +1785,34 @@
   },
   "-paid-article-nov-3-2025-the-path-forward-2025-11-03": {
     "latest_event_id": "8a65b3e8097f64beb7507f998b9e3552264975989a7dfc51f7732b6ee12f9a4e",
+    "latest_year": 2025
+  },
+  "free-article-1-dec-13-2025-the-bitcoin-chronicles--1a0041---sabbath-cycle--the-stillness-before-the-launch": {
+    "latest_event_id": "9b548d59df26b750b4ad15f22d9082a8045436a5048ce9941783fa942caa45df",
+    "latest_year": 2025
+  },
+  "free-article-2-dec-13-2025-the-bitcoin-chronicles---1a0042--earthbound-origins-the-engineers-who-learned-to-say-no": {
+    "latest_event_id": "042315bebb36899c5ae6c0358f3040e7e349b3dd7008e123bc3c210b2fc7bbba",
+    "latest_year": 2025
+  },
+  "sabbath-article-dec-13-2025-the-bitcoin-chronicles-1a0043--sabbath-cycle-the-day-the-systems-went-quiet": {
+    "latest_event_id": "f333e4c199a064d56be6e7e109fd69169b15a174f0cb1dda8532ee18d6f088de",
+    "latest_year": 2025
+  },
+  "the-bitcoin-chronicles--1a004--archivist-note-on-the-late-earthbound-reorientation-20652075": {
+    "latest_event_id": "697567162c5c54e0ff6777728f4433c6bdae0fc97e2df24dd5addcc64165554e",
+    "latest_year": 2025
+  },
+  "free-article-1-dec-14-2025-the-bitcoin-chronicles-1a0044--earthbound-origins-when-the-maps-no-longer-matched-the-territory": {
+    "latest_event_id": "275705e36511f3e31754bae86d48f11122a318ace6980a58a85fd550a7559e06",
+    "latest_year": 2025
+  },
+  "free-article-2-dec-14-2025-the-bitcoin-chronicles-1a0045--earthbound-origins-the-last-generation-raised-on-permission": {
+    "latest_event_id": "633dc1f757482b8db096db970d990cef67c6e0a9338b18f27b462fd04c122ff2",
+    "latest_year": 2025
+  },
+  "sunday-article-dec-14-2025-the-bitcoin-chronicles-1a0046--sunday-cycle-the-morning-after-the-long-night": {
+    "latest_event_id": "d9208deeb3d3e66221e0f6859c02694284ca9c475a04268707b41f6fdcf351b5",
     "latest_year": 2025
   }
 }
