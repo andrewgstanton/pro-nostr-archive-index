@@ -1384,7 +1384,7 @@
     "latest_year": 2025
   },
   "the-sovereign-archive-the-canonical-bitcoin-chronicles-index": {
-    "latest_event_id": "83bcd7049e82b83fa3ce587dfa32793f6a96a8baac600f01264dacadb85369d0",
+    "latest_event_id": "fbaec55977af330b8c05b8a818192487e547074bfb07515ac26a0dae14d1a6d0",
     "latest_year": 2025
   },
   "patron-support-continuum": {
@@ -1813,6 +1813,22 @@
   },
   "sunday-article-dec-14-2025-the-bitcoin-chronicles-1a0046--sunday-cycle-the-morning-after-the-long-night": {
     "latest_event_id": "d9208deeb3d3e66221e0f6859c02694284ca9c475a04268707b41f6fdcf351b5",
+    "latest_year": 2025
+  },
+  "-paid-article-dec-8-2025-the-bitcoin-chronicles--1a6--the-weight-of-the-irreversible-2025-12-08": {
+    "latest_event_id": "91ffdfb4aeeec0c6405846f0f116a94e7494b77f06d4e3fb0f9a078503f19f79",
+    "latest_year": 2025
+  },
+  "free-article-2-dec-8-2025-the-bitcoin-chronicles--1a5--the-first-unraveling": {
+    "latest_event_id": "5f60a6a988dd435bc7467cef979695a475b0bb68a6f2580c3505277b75a5aca2",
+    "latest_year": 2025
+  },
+  "free-article-1-dec-8-2025-the-bitcoin-chronicles--1a4--after-the-exodus": {
+    "latest_event_id": "02ab2ba5ea40c3e876a7c4dc75b24c1464cce06badec05a7546c83f0cacd227d",
+    "latest_year": 2025
+  },
+  "the-bitcoin-chronicles--archivist-specification": {
+    "latest_event_id": "ba65de24c73a23ef2f9de334f10904f93262fc9ae43de4c138651802a28a10e8",
     "latest_year": 2025
   }
 }
