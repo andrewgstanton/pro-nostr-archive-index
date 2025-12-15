@@ -1,5 +1,60 @@
 [
   {
+    "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
+    "event_id": "fbaec55977af330b8c05b8a818192487e547074bfb07515ac26a0dae14d1a6d0",
+    "created_at": 1765760282,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/fbaec55977af330b8c05b8a818192487e547074bfb07515ac26a0dae14d1a6d0.json",
+    "title": "The Sovereign Archive: The Canonical Bitcoin Chronicles Index",
+    "summary": "This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.",
+    "paid": false
+  },
+  {
+    "slug": "-paid-article-dec-8-2025-the-bitcoin-chronicles--1a6--the-weight-of-the-irreversible-2025-12-08",
+    "event_id": "91ffdfb4aeeec0c6405846f0f116a94e7494b77f06d4e3fb0f9a078503f19f79",
+    "created_at": 1765759843,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/91ffdfb4aeeec0c6405846f0f116a94e7494b77f06d4e3fb0f9a078503f19f79.json",
+    "title": "🔒 Paid Article (Dec. 8, 2025): The Bitcoin Chronicles — 1.A.6 — The Weight of the Irreversible",
+    "summary": "Not all turning points are dramatic. Some are irreversible precisely because they are quiet. This chapter explores the moment humanity crossed from reform to replacement — when systems lost the ability to reclaim loyalty, and sovereignty became a matter of gravity rather than choice.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-dec-8-2025-the-bitcoin-chronicles--1a5--the-first-unraveling",
+    "event_id": "5f60a6a988dd435bc7467cef979695a475b0bb68a6f2580c3505277b75a5aca2",
+    "created_at": 1765759677,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/5f60a6a988dd435bc7467cef979695a475b0bb68a6f2580c3505277b75a5aca2.json",
+    "title": "Free Article 2 (Dec. 8, 2025): The Bitcoin Chronicles — 1.A.5 — The First Unraveling",
+    "summary": "After the Exodus, Earth did not collapse — it frayed. This chapter traces the early signs of institutional unraveling as legacy systems strained to contain a world that had already learned how to leave, revealing that decline begins not with chaos, but with quiet loss of coherence.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-1-dec-8-2025-the-bitcoin-chronicles--1a4--after-the-exodus",
+    "event_id": "02ab2ba5ea40c3e876a7c4dc75b24c1464cce06badec05a7546c83f0cacd227d",
+    "created_at": 1765759380,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/02ab2ba5ea40c3e876a7c4dc75b24c1464cce06badec05a7546c83f0cacd227d.json",
+    "title": "Free Article 1 (Dec. 8, 2025): The Bitcoin Chronicles — 1.A.4 — After the Exodus",
+    "summary": "The Exodus Protocol was not an escape plan — it was a threshold. This chapter explores what followed: the quiet, irreversible shift after humanity learned it could leave permission behind, and the unsettling realization that freedom, once proven, cannot be forgotten.",
+    "paid": false
+  },
+  {
+    "slug": "the-bitcoin-chronicles--archivist-specification",
+    "event_id": "ba65de24c73a23ef2f9de334f10904f93262fc9ae43de4c138651802a28a10e8",
+    "created_at": 1765746950,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/ba65de24c73a23ef2f9de334f10904f93262fc9ae43de4c138651802a28a10e8.json",
+    "title": "The Bitcoin Chronicles — Archivist Specification",
+    "summary": "This document defines the **canonical rules** governing numbering, ordering, and extensibility within *The Bitcoin Chronicles*. Its purpose is to preserve narrative integrity while allowing the canon to grow organically over time without renumbering, contradiction, or archival drift.",
+    "paid": false
+  },
+  {
     "slug": "the-bitcoin-chronicles---1a003---archivist-note-on-the-earthboound-records",
     "event_id": "585fd3cac8482939251b06675b3d4efc86cb568a76911da6ec38f255aa485792",
     "created_at": 1765686856,
