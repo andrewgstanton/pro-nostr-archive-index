@@ -1,6 +1,50 @@
 [
   {
     "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
+    "event_id": "5e8dd9829480686d5ac3ce59137f675bc8bf80526fae3c374d4167d152bbbc86",
+    "created_at": 1765845773,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/5e8dd9829480686d5ac3ce59137f675bc8bf80526fae3c374d4167d152bbbc86.json",
+    "title": "The Sovereign Archive: The Canonical Bitcoin Chronicles Index",
+    "summary": "This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.",
+    "paid": false
+  },
+  {
+    "slug": "-paid-article-dec-15-2025-the-bitcoin-chronicles---1a013---the-covenant-of-cold-steel-2025-12-15",
+    "event_id": "6a99913dffda57c79b2a4e63ce500c9fe16eaa6274eb18b471be6c3644dcccbb",
+    "created_at": 1765845139,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/6a99913dffda57c79b2a4e63ce500c9fe16eaa6274eb18b471be6c3644dcccbb.json",
+    "title": "🔒 Paid Article (Dec. 15, 2025): The Bitcoin Chronicles - 1.A.0.1.3 -  The Covenant of Cold Steel",
+    "summary": "Pilgrim-1’s launch was not merely a technical act but a binding covenant. In a hidden briefing beneath the launch complex, the crew confronts the one question no regulator can answer: what are you willing to lose to remain sovereign?",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-dec-15-2025-the-bitcoin-chronicles---1a012---the-score-that-measured-obedience",
+    "event_id": "03a07903615df48e1db868ba016060a45c5f5fc93d0ec939e0df3c8f294919d0",
+    "created_at": 1765845000,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/03a07903615df48e1db868ba016060a45c5f5fc93d0ec939e0df3c8f294919d0.json",
+    "title": "Free Article 2 (Dec. 15, 2025): The Bitcoin Chronicles - 1.A.0.1.2 - The Score That Measured Obedience",
+    "summary": "What begins as a neutral metric becomes a moral instrument. This chronicle traces the rise of the Social Reliability Score—and how quantification quietly replaced conscience.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-1dec-15-2025-the-bitcoin-chronicles---1a011---children-of-the-compliance-age",
+    "event_id": "9df6ad1eab74306baba39d49628e22951f221976cd80441f809694dbe12a12ba",
+    "created_at": 1765844786,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/9df6ad1eab74306baba39d49628e22951f221976cd80441f809694dbe12a12ba.json",
+    "title": "Free Article 1(Dec. 15, 2025): The Bitcoin Chronicles - 1.A.0.1.1 - Children of the Compliance Age",
+    "summary": "The first generation raised entirely inside compliance does not experience it as oppression—but as atmosphere. This chronicle follows the quiet normalization of permission, showing how control becomes invisible when it is inherited rather than imposed.",
+    "paid": false
+  },
+  {
+    "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
     "event_id": "fbaec55977af330b8c05b8a818192487e547074bfb07515ac26a0dae14d1a6d0",
     "created_at": 1765760282,
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
