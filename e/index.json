@@ -1,6 +1,61 @@
 [
   {
     "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
+    "event_id": "79a9619ddbd1e06ec5e2edb272390e48144f0e2988573251a98cdf24c3252f8f",
+    "created_at": 1765925695,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/79a9619ddbd1e06ec5e2edb272390e48144f0e2988573251a98cdf24c3252f8f.json",
+    "title": "The Sovereign Archive: The Canonical Bitcoin Chronicles Index",
+    "summary": "This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.",
+    "paid": false
+  },
+  {
+    "slug": "sovereign-income-architectures-decentralizing-your-livelihood",
+    "event_id": "0ed961509d8f1f662c91108a83d00c552fe0358a045002b7f77e2752d1cca6dd",
+    "created_at": 1765920753,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/0ed961509d8f1f662c91108a83d00c552fe0358a045002b7f77e2752d1cca6dd.json",
+    "title": "Sovereign Income Architectures: Decentralizing Your Livelihood",
+    "summary": "This article argues that relying on a single paycheck or employer is as fragile as trusting a centralized custodian. Drawing lessons from Bitcoin’s decentralized resilience, it introduces the concept of “sovereign income architectures” — intentionally designed, diversified income streams anchored in Bitcoin and self-sovereignty.",
+    "paid": false
+  },
+  {
+    "slug": "paid-article-dec-16-2025-the-bitcoin-chronicles---1b14---the-covenant-councils-why-free-societies-still-need-structure-2025-12-16",
+    "event_id": "0bc2b5ab93693b3c2fce60ab285a3849072886191325673439bd18589e66bc1f",
+    "created_at": 1765919839,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/0bc2b5ab93693b3c2fce60ab285a3849072886191325673439bd18589e66bc1f.json",
+    "title": "🔒 Paid Article (Dec. 16, 2025): The Bitcoin Chronicles - 1.B.14 - The Covenant Councils: Why Free Societies Still Need Structure",
+    "summary": "Pure decentralization carried Luna only so far. When human consensus fractured and exit hollowed shared spaces, the settlers faced a paradox they had hoped to avoid: freedom without coordination decays into fragmentation. This chapter explores the birth of the Covenant Councils — not as governments, but as voluntary coordination layers — and why even sovereign societies must eventually choose structure without surrendering liberty.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-dec16-2025-the-bitcoin-chronicles---1b13---when-consensus-broke-before-the-machines-did",
+    "event_id": "3b6a7d029474462aeb294ec9145a3c67baf1deb00bdf4778e1570f128a4e10bc",
+    "created_at": 1765917966,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/3b6a7d029474462aeb294ec9145a3c67baf1deb00bdf4778e1570f128a4e10bc.json",
+    "title": "Free Article 2 (Dec.16, 2025): The Bitcoin Chronicles - 1.B.13 - When Consensus Broke Before the Machines Did",
+    "summary": "Lunar infrastructure did not fail. Life support held. Energy grids stabilized. Archives remained intact. What fractured first was human consensus. This chapter examines how decentralized systems solved technical coordination faster than they could solve moral and social coordination — revealing that the true scarcity of sovereign societies was not energy, bandwidth, or computation, but shared meaning.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-1-dec-16-2025-the-bitcoin-chronicles---1b12---the-first-charter-was-not-a-constitution",
+    "event_id": "50d7bf504bd5c757f9806509ca8478f835887645bdb9733bd1140861f45f5b90",
+    "created_at": 1765917804,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/50d7bf504bd5c757f9806509ca8478f835887645bdb9733bd1140861f45f5b90.json",
+    "title": "Free Article 1 (Dec. 16, 2025): The Bitcoin Chronicles - 1.B.12 - The First Charter Was Not a Constitution",
+    "summary": "When the first permanent settlements formed on the Moon, the settlers made a deliberate choice: they refused to write a constitution. What emerged instead was something older, more fragile, and ultimately more powerful — a charter rooted in shared values rather than enforceable law. This chapter explores why freedom failed wherever law arrived too early, and why covenant had to come before governance in humanity’s first sovereign off-world society.",
+    "paid": false
+  },
+  {
+    "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
     "event_id": "e4c6f33525a16ca90de621eaf0461246a78abd1a2a79ba182e20daba3a76153a",
     "created_at": 1765852730,
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
