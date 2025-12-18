@@ -1,5 +1,93 @@
 [
   {
+    "slug": "free-article-1-dec-18-2025-the-bitcoin-chronicles---1b91---the-man-who-controlled-dock-seven-calder-voss",
+    "event_id": "ab1a506c05643145d1b128d69d7bc55c8c178134461f355aa45ba2528f08d7c3",
+    "created_at": 1766097657,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/ab1a506c05643145d1b128d69d7bc55c8c178134461f355aa45ba2528f08d7c3.json",
+    "title": "Free Article 1 (Dec. 18, 2025): The Bitcoin Chronicles - 1.B.9.1 - The Man Who Controlled Dock Seven (Calder Voss)",
+    "summary": "On the Moon, power didn’t belong to governments or ideals — it belonged to those who controlled chokepoints. Dock Seven made one man indispensable, and therefore hated.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-dec-18-2025-the-bitcoin-chronicles---1bx---she-spoke-into-the-vacuum",
+    "event_id": "f07a6cb1478c2049841ec4b7ab5fc9ee185068725692e299f02828db4b5f3116",
+    "created_at": 1766097318,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/f07a6cb1478c2049841ec4b7ab5fc9ee185068725692e299f02828db4b5f3116.json",
+    "title": "Free Article 2 (Dec. 18, 2025): The Bitcoin Chronicles - 1.B.9.2 - She Spoke Into the Vacuum (Anika Rao)",
+    "summary": "When most Lunar residents stayed cautious, one woman broadcast openly. Her voice carried across nodes — and forced the Moon to choose whether silence was still an option.",
+    "paid": false
+  },
+  {
+    "slug": "paid-article-dec-18-2025-the-bitcoin-chronicles---bx---the-builder-who-wouldnt-obscure-his-name-2025-12-18",
+    "event_id": "484032957c764e51d0072be093c6267b8d2d2452819ae45ff94670eaa4b45a24",
+    "created_at": 1766097035,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/484032957c764e51d0072be093c6267b8d2d2452819ae45ff94670eaa4b45a24.json",
+    "title": "🔒 Paid Article (Dec. 18, 2025): The Bitcoin Chronicles - 1.B.9.3 - The Builder Who Wouldn’t Obscure His Name(Jalen Marr)",
+    "summary": "In Lunar Nodes, anonymity had been a shield. Then one builder refused it — and forced the movement to confront what visibility really costs.",
+    "paid": false
+  },
+  {
+    "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
+    "event_id": "9a8c33ed9f255c279720ec20613067d43425aebad48e1e1d5abd94fb926cbe74",
+    "created_at": 1766096758,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/9a8c33ed9f255c279720ec20613067d43425aebad48e1e1d5abd94fb926cbe74.json",
+    "title": "The Sovereign Archive: The Canonical Bitcoin Chronicles Index",
+    "summary": "This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.",
+    "paid": false
+  },
+  {
+    "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
+    "event_id": "912c23c04abf7d91360113d26e3553a4a69e22258cd87fc87eca38430ac7857c",
+    "created_at": 1766096090,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/912c23c04abf7d91360113d26e3553a4a69e22258cd87fc87eca38430ac7857c.json",
+    "title": "The Sovereign Archive: The Canonical Bitcoin Chronicles Index",
+    "summary": "This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.",
+    "paid": false
+  },
+  {
+    "slug": "paid-article-dec-18-2025-the-bitcoin-chronicles---bx---the-builder-who-wouldnt-obscure-his-name-2025-12-18",
+    "event_id": "be6aef345fb6848156b24eb41a03aa36299e1267441802ed335698f71328ab42",
+    "created_at": 1766095341,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/be6aef345fb6848156b24eb41a03aa36299e1267441802ed335698f71328ab42.json",
+    "title": "Paid Article (Dec. 18, 2025): The Bitcoin Chronicles - !.B.X - The Builder Who Wouldn’t Obscure His Name",
+    "summary": "In Lunar Nodes, anonymity had been a shield. Then one builder refused it — and forced the movement to confront what visibility really costs.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-1-dec-18-2025-the-bitcoin-chronicles---1bx---the-man-who-controlled-dock-seven-2025-12-18",
+    "event_id": "784b5addac115c99345d53bad0d2d4a5ee902bd560b00dd6fc9d333f033f6a5c",
+    "created_at": 1766095013,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/784b5addac115c99345d53bad0d2d4a5ee902bd560b00dd6fc9d333f033f6a5c.json",
+    "title": "Free Article 1 (Dec. 18, 2025): The Bitcoin Chronicles - 1.B.X - The Man Who Controlled Dock Seven",
+    "summary": "On the Moon, power didn’t belong to governments or ideals — it belonged to those who controlled chokepoints. Dock Seven made one man indispensable, and therefore hated.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-dec-18-2025-the-bitcoin-chronicles---1bx---she-spoke-into-the-vacuum",
+    "event_id": "4555cada8c860d6c3d8d5f012a406f75da364b68565cec24fb54077387b17f03",
+    "created_at": 1766094823,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/4555cada8c860d6c3d8d5f012a406f75da364b68565cec24fb54077387b17f03.json",
+    "title": "Free Article 2 (Dec. 18, 2025): The Bitcoin Chronicles - 1.B.X - She Spoke Into the Vacuum",
+    "summary": "When most Lunar residents stayed cautious, one woman broadcast openly. Her voice carried across nodes — and forced the Moon to choose whether silence was still an option.",
+    "paid": false
+  },
+  {
     "slug": "what-i-mean-by-sovereign-technology",
     "event_id": "b0b3a2afc9c4dd0943963ba33d8dfe61d169843a95c48ff911112b5471daf0c0",
     "created_at": 1766009733,
