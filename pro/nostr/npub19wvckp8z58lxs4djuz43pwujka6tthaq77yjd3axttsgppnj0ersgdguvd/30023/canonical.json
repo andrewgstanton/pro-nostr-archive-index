@@ -1384,7 +1384,7 @@
     "latest_year": 2025
   },
   "the-sovereign-archive-the-canonical-bitcoin-chronicles-index": {
-    "latest_event_id": "79a9619ddbd1e06ec5e2edb272390e48144f0e2988573251a98cdf24c3252f8f",
+    "latest_event_id": "9a8c33ed9f255c279720ec20613067d43425aebad48e1e1d5abd94fb926cbe74",
     "latest_year": 2025
   },
   "patron-support-continuum": {
@@ -1865,6 +1865,22 @@
   },
   "free-article-1-dec-17-2025-the-bitcoin-chronicles--1a11---the-man-who-signed-the-last-launch-manifest": {
     "latest_event_id": "abf5aeb26d7b7295db19d770a6d6db171f3ea2ff13f406c9dc1937465f4382d5",
+    "latest_year": 2025
+  },
+  "paid-article-dec-18-2025-the-bitcoin-chronicles---bx---the-builder-who-wouldnt-obscure-his-name-2025-12-18": {
+    "latest_event_id": "484032957c764e51d0072be093c6267b8d2d2452819ae45ff94670eaa4b45a24",
+    "latest_year": 2025
+  },
+  "free-article-1-dec-18-2025-the-bitcoin-chronicles---1bx---the-man-who-controlled-dock-seven-2025-12-18": {
+    "latest_event_id": "784b5addac115c99345d53bad0d2d4a5ee902bd560b00dd6fc9d333f033f6a5c",
+    "latest_year": 2025
+  },
+  "free-article-2-dec-18-2025-the-bitcoin-chronicles---1bx---she-spoke-into-the-vacuum": {
+    "latest_event_id": "f07a6cb1478c2049841ec4b7ab5fc9ee185068725692e299f02828db4b5f3116",
+    "latest_year": 2025
+  },
+  "free-article-1-dec-18-2025-the-bitcoin-chronicles---1b91---the-man-who-controlled-dock-seven-calder-voss": {
+    "latest_event_id": "ab1a506c05643145d1b128d69d7bc55c8c178134461f355aa45ba2528f08d7c3",
     "latest_year": 2025
   }
 }
