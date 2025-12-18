@@ -1,5 +1,82 @@
 [
   {
+    "slug": "what-i-mean-by-sovereign-technology",
+    "event_id": "b0b3a2afc9c4dd0943963ba33d8dfe61d169843a95c48ff911112b5471daf0c0",
+    "created_at": 1766009733,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/b0b3a2afc9c4dd0943963ba33d8dfe61d169843a95c48ff911112b5471daf0c0.json",
+    "title": "What I Mean by Sovereign Technology",
+    "summary": "Sovereign technology isn’t about military doctrine, corporate IT, SaaS migrations, or certifications into proprietary ecosystems. It’s about digital freedom — open protocols like Bitcoin and Nostr that give people direct ownership of their identity, communication, and value. In a world increasingly tracked, surveilled, and monetized, sovereign tech restores resilience and trust, not as a branding exercise but as a foundation for living freely.",
+    "paid": false
+  },
+  {
+    "slug": "what-i-mean-by-sovereign-technology",
+    "event_id": "d4a71d4989a702ec2050db97b377e35d7aa9ffedb781ccb53615d2eed38d1edd",
+    "created_at": 1766009487,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/d4a71d4989a702ec2050db97b377e35d7aa9ffedb781ccb53615d2eed38d1edd.json",
+    "title": "What I Mean by Sovereign Technology",
+    "summary": "Sovereign technology isn’t about military doctrine, corporate IT, SaaS migrations, or certifications into proprietary ecosystems. It’s about digital freedom — open protocols like Bitcoin and Nostr that give people direct ownership of their identity, communication, and value. In a world increasingly tracked, surveilled, and monetized, sovereign tech restores resilience and trust, not as a branding exercise but as a foundation for living freely.",
+    "paid": false
+  },
+  {
+    "slug": "what-i-mean-by-sovereign-technology",
+    "event_id": "d19f42fd8940fcc0170c4465cc2855563fc73bec2d57272d09bd6d1ca9d0e023",
+    "created_at": 1766008348,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/d19f42fd8940fcc0170c4465cc2855563fc73bec2d57272d09bd6d1ca9d0e023.json",
+    "title": "What I Mean by Sovereign Technology",
+    "summary": "Sovereign technology isn’t about military doctrine, corporate IT, SaaS migrations, or certifications into proprietary ecosystems. It’s about digital freedom — open protocols like Bitcoin and Nostr that give people direct ownership of their identity, communication, and value. In a world increasingly tracked, surveilled, and monetized, sovereign tech restores resilience and trust, not as a branding exercise but as a foundation for living freely.",
+    "paid": false
+  },
+  {
+    "slug": "-paid-article-dec-17-2025-the-bitcoin-chronicles---1a13---the-archivist-of-the-interstice-2025-12-17",
+    "event_id": "51cc75ca040cb1253353a103c81465b56024b4e1b6c6064e733be2cdf532befa",
+    "created_at": 1766006911,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/51cc75ca040cb1253353a103c81465b56024b4e1b6c6064e733be2cdf532befa.json",
+    "title": "🔒 Paid Article (Dec. 17, 2025): The Bitcoin Chronicles - 1.A.1.3 - The Archivist of the Interstice",
+    "summary": "Between the last free launch from Earth and the first open defiance of the Atlas Uprising lies a narrow, forgotten span of years. This article explores that interstice through the life of Elias Kade—the man who preserved the proof that freedom once existed, and therefore could exist again.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-dec-17-2025-the-bitcoin-chronicles---1a12---quiet-men-do-not-lead-uprisings",
+    "event_id": "e4e9c3901eddb32650e7502cb8d7017bb0e38b645483dcaede2bcefbe4fd953e",
+    "created_at": 1766006690,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/e4e9c3901eddb32650e7502cb8d7017bb0e38b645483dcaede2bcefbe4fd953e.json",
+    "title": "Free Article 2 (Dec. 17, 2025): The Bitcoin Chronicles - 1.A.1.2 - Quiet Men Do Not Lead Uprisings",
+    "summary": "Revolutions are remembered by their loudest voices, but they are carried forward by those who refuse to forget. Elias Kade was not an activist, a politician, or a rebel. He was something far more dangerous to centralized power: a witness.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-1-dec-17-2025-the-bitcoin-chronicles--1a11---the-man-who-signed-the-last-launch-manifest",
+    "event_id": "abf5aeb26d7b7295db19d770a6d6db171f3ea2ff13f406c9dc1937465f4382d5",
+    "created_at": 1766006474,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/abf5aeb26d7b7295db19d770a6d6db171f3ea2ff13f406c9dc1937465f4382d5.json",
+    "title": "Free Article 1 (Dec. 17, 2025): The Bitcoin Chronicles -1.A.1.1 -  The Man Who Signed the Last Launch Manifest",
+    "summary": "In the final days before Earth’s outbound launches fell under permanent licensing control, a systems engineer named Elias Kade was tasked with a routine compliance sign-off. What he witnessed instead was the quiet closing of a door humanity would never reopen. This is the story of the last launch that left Earth without permission.",
+    "paid": false
+  },
+  {
+    "slug": "sovereign-income-architectures-decentralizing-your-livelihood",
+    "event_id": "6960a7c2080011681b7aa8ce2dc6bd9e86d9053ee3ff644f51582f3aef75e327",
+    "created_at": 1765931937,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/6960a7c2080011681b7aa8ce2dc6bd9e86d9053ee3ff644f51582f3aef75e327.json",
+    "title": "Sovereign Income Architectures: Decentralizing Your Livelihood",
+    "summary": "This article argues that relying on a single paycheck or employer is as fragile as trusting a centralized custodian. Drawing lessons from Bitcoin’s decentralized resilience, it introduces the concept of “sovereign income architectures” — intentionally designed, diversified income streams anchored in Bitcoin and self-sovereignty.",
+    "paid": false
+  },
+  {
     "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
     "event_id": "79a9619ddbd1e06ec5e2edb272390e48144f0e2988573251a98cdf24c3252f8f",
     "created_at": 1765925695,
