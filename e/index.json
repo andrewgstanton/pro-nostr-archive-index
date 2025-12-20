@@ -1,5 +1,82 @@
 [
   {
+    "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
+    "event_id": "d411df34c9a34717862d11224cd1010acf99702672ceadedd8ef012f63f1f97b",
+    "created_at": 1766198049,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/d411df34c9a34717862d11224cd1010acf99702672ceadedd8ef012f63f1f97b.json",
+    "title": "The Sovereign Archive: The Canonical Bitcoin Chronicles Index",
+    "summary": "This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.",
+    "paid": false
+  },
+  {
+    "slug": "-the-illusion-of-safety-2025-12-19",
+    "event_id": "7d82d49fdb9811136968e31d5099e90e847e46df50bbe93a34195a3dfb0611fc",
+    "created_at": 1766195282,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/7d82d49fdb9811136968e31d5099e90e847e46df50bbe93a34195a3dfb0611fc.json",
+    "title": "🔒  The Illusion of Safety",
+    "summary": "Modern institutions increasingly justify friction, surveillance, and control in the name of safety. This essay argues that much of what is labeled “security” today is actually liability management — systems designed to protect institutions from blame rather than people from harm. True safety does not emerge from endless verification or procedural opacity, but from accountability, legibility, and agency. A world optimized for legal defensibility may feel secure, yet leave individuals more exposed than before.",
+    "paid": false
+  },
+  {
+    "slug": "the-lie-that-convenience-is-freedom-2025-12-19",
+    "event_id": "f28bb97cbc7ca5e3119da1bc900a14377e977f5340daca9765f4f0332ae218a2",
+    "created_at": 1766195036,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/f28bb97cbc7ca5e3119da1bc900a14377e977f5340daca9765f4f0332ae218a2.json",
+    "title": "🔒 The Lie That Convenience Is Freedom",
+    "summary": "Modern platforms do not promise a frictionless world. They promise convenience — ease of use, reduced effort, and relief from responsibility — in exchange for agency. This essay argues that convenience is routinely mistaken for freedom, even as it narrows choice, concentrates power, and relocates friction outside the user’s control. Sovereignty does not remove friction; it makes friction visible, legible, and owned.",
+    "paid": false
+  },
+  {
+    "slug": "the-lie-that-convenience-is-freedom-2025-12-19",
+    "event_id": "b8ddb5f762d6e435612f2c86965d6d65770e6e6f809d681223c056780aff0fc2",
+    "created_at": 1766194807,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/b8ddb5f762d6e435612f2c86965d6d65770e6e6f809d681223c056780aff0fc2.json",
+    "title": "The Lie That Convenience Is Freedom",
+    "summary": "Modern platforms do not promise a frictionless world. They promise convenience — ease of use, reduced effort, and relief from responsibility — in exchange for agency. This essay argues that convenience is routinely mistaken for freedom, even as it narrows choice, concentrates power, and relocates friction outside the user’s control. Sovereignty does not remove friction; it makes friction visible, legible, and owned.",
+    "paid": false
+  },
+  {
+    "slug": "-paid-article-dec-19-2025-the-bitcoin-chronicles---1a016---the-conscience-of-babylon-2025-12-19",
+    "event_id": "dece533cdbd6f9a0271cdbf63c4ddab915a2f5177f9c4ecd3b0f92400a36f2d3",
+    "created_at": 1766188770,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/dece533cdbd6f9a0271cdbf63c4ddab915a2f5177f9c4ecd3b0f92400a36f2d3.json",
+    "title": "🔒 Paid Article (Dec. 19, 2025): The Bitcoin Chronicles - 1.A.0.1.6 - The Conscience of Babylon",
+    "summary": "Miriam Hale became the moral voice of institutions already losing legitimacy. This paid essay traces her final role during the exhaustion of the Compliance Age — as systems strained by financial crises, pandemic shocks, and exit dynamics sought ethical justification faster than trust could be restored. She did not save Babylon. She tried to help it fail without abandoning the vulnerable.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-1-dec-19-2025-the-bitcoin-chronicles---1a014---the-care-argument",
+    "event_id": "919e26e2f96dfd50c754dc87bd1a2429bb8f616b3568129674de7ac82ba86dab",
+    "created_at": 1766188524,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/919e26e2f96dfd50c754dc87bd1a2429bb8f616b3568129674de7ac82ba86dab.json",
+    "title": "Free Article 1 (Dec. 19, 2025): The Bitcoin Chronicles - 1.A.0.1.4 - The Care Argument",
+    "summary": "As institutions strained under pandemic shocks, border closures, and public mistrust, Miriam Hale emerged as a moral voice arguing that restraint was not control but care. This essay anchors her reasoning in real-world crises where coordination failed imperfectly — yet fragmentation failed catastrophically.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-dec-19-2025-the-bitcoin-chornicles---1a015---the-ethics-of-staying",
+    "event_id": "c9e9f9e7c51a4ac9e4ecce2068ae648cea70b0f4235e9fefdb4b5614d330e2c4",
+    "created_at": 1766188159,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/c9e9f9e7c51a4ac9e4ecce2068ae648cea70b0f4235e9fefdb4b5614d330e2c4.json",
+    "title": "Free Article 2 (Dec. 19, 2025): The Bitcoin Chornicles - 1.A.0.1.5 - The Ethics of Staying",
+    "summary": "As exit technologies gained moral legitimacy and institutional trust eroded, Miriam Hale articulated a minority ethical position: that remaining within failing systems could itself be a form of responsibility. Anchored in post-crisis hollowing, pandemic-era attrition, and the rise of parallel infrastructures, this essay examines the moral cost of departure.",
+    "paid": false
+  },
+  {
     "slug": "sovereignty-does-not-eliminate-power--it-reveals-it-2025-12-18",
     "event_id": "5d4065f31d721c9fd73cb8d0609a047e57717fdfe90ee3e2c100f893e4b6c2fc",
     "created_at": 1766102521,
