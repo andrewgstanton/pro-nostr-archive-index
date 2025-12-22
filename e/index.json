@@ -1,5 +1,71 @@
 [
   {
+    "slug": "free-article-1-dec-22-2025-the-bitcoin-chronicles---1a111---the-signature-line",
+    "event_id": "3c4a061e504487ff158a3e2b469edbbe883934133e69642d6fa177cedce47eec",
+    "created_at": 1766445200,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/3c4a061e504487ff158a3e2b469edbbe883934133e69642d6fa177cedce47eec.json",
+    "title": "Free Article 1 (Dec. 22, 2025): The Bitcoin Chronicles - 1.A.1.1.1 - The Signature Line",
+    "summary": "Commander Isaac Bell is a Senior Launch Authorization Officer operating during the final years of Earth’s managed departure era. His role is not to design policy or debate ideology, but to execute denials that prevent uncontrolled exit cascades. Each decision is technically justified, morally heavy, and personally isolating.  The Signature Line explores the quiet machinery of enforcement at the moment when legitimacy begins to fracture. Bell is neither villain nor hero — only the one willing to say no, and to be remembered for it.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-dec-22-2025-the-bitcoin-chronicles---1a112---exit-velocity",
+    "event_id": "a380946e2455660f7b124c2dffec869a12cce48df3e79de114b7c2c60fe0857d",
+    "created_at": 1766445086,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/a380946e2455660f7b124c2dffec869a12cce48df3e79de114b7c2c60fe0857d.json",
+    "title": "Free Article 2 (Dec. 22, 2025): The Bitcoin Chronicles - 1.A.1.1.2 - Exit Velocity",
+    "summary": "As Earth’s launch controls tighten, Commander Isaac Bell encounters a departure request that is flawless in every technical sense. The problem is not safety, risk, or compliance — it is timing. Approval would signal that coordinated exit is still possible.  *Exit Velocity* explores the moment Bell realizes that enforcement is no longer preserving order, but postponing its reckoning. What he denies is not a launch, but a future he can no longer imagine surviving intact.",
+    "paid": false
+  },
+  {
+    "slug": "-paid-article-dec-22-2025-the-bitcoin-chronicles---1a113---the-last-free-window-2025-12-22",
+    "event_id": "f773925e401637551c30e0cf609d7739dbe119a0ebb62a6023c5d214695f69aa",
+    "created_at": 1766444938,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/f773925e401637551c30e0cf609d7739dbe119a0ebb62a6023c5d214695f69aa.json",
+    "title": "🔒 Paid Article (Dec. 22, 2025): The Bitcoin Chronicles - 1.A.1.1.3 - The Last Free Window",
+    "summary": "Years after his most consequential denials, Isaac Bell reviews the data meant to justify his decisions. The numbers confirm what history already suspects: he was rarely wrong in his assessments. What fails is not his judgment, but the assumption that legitimacy can survive enforcement without consent.  *The Last Free Window* places Bell at the hinge between managed departure and irreversible exit — a man who delayed collapse long enough for something else to form, even as he misunderstood what that something would require.",
+    "paid": false
+  },
+  {
+    "slug": "-christmas-is-not-an-escape-2025-12-22",
+    "event_id": "26a058e5944d80e28842c4c022015e65a66d2750064119e9e379b9b227c87c61",
+    "created_at": 1766444718,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/26a058e5944d80e28842c4c022015e65a66d2750064119e9e379b9b227c87c61.json",
+    "title": "🔒 Christmas is Not An Escape",
+    "summary": "Christmas is often framed as relief — a pause, a comfort, a sentimental shelter from the weight of the world. But the original claim of Christmas is far more severe. God does not remove humanity from history; He enters it. This essay reflects on Christmas as commitment rather than escape, and on why incarnation makes neutrality impossible.",
+    "paid": false
+  },
+  {
+    "slug": "distraction-is-not-freedom-2025-12-22",
+    "event_id": "6a6b3d299b592a49dd131dcdbf89465e1cc89c0b59e7887b6ecd8ff5706f5f1a",
+    "created_at": 1766444493,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/6a6b3d299b592a49dd131dcdbf89465e1cc89c0b59e7887b6ecd8ff5706f5f1a.json",
+    "title": "🔒 Distraction Is Not Freedom",
+    "summary": "Modern captivity rarely relies on chains or walls. It relies on distraction — the steady redirection of attention away from truth, cost, and agency. This essay examines how distraction functions as a form of managed enslavement, and why Christmas stands in quiet opposition to it by insisting on presence, embodiment, and attention that cannot be outsourced.",
+    "paid": false
+  },
+  {
+    "slug": "distraction-is-not-freedom-2025-12-22",
+    "event_id": "24cfaf7325a2b093e895d4799a7a86571827fc348ea6411874cdc7670b16617c",
+    "created_at": 1766444348,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/24cfaf7325a2b093e895d4799a7a86571827fc348ea6411874cdc7670b16617c.json",
+    "title": "Distraction Is Not Freedom",
+    "summary": "Modern captivity rarely relies on chains or walls. It relies on distraction — the steady redirection of attention away from truth, cost, and agency. This essay examines how distraction functions as a form of managed enslavement, and why Christmas stands in quiet opposition to it by insisting on presence, embodiment, and attention that cannot be outsourced.",
+    "paid": false
+  },
+  {
     "slug": "freedom-comes-in-waves",
     "event_id": "7d80bb06940a4243a3a0d5705af8921b40678a985e6711d3946d359f4b51ff0c",
     "created_at": 1766358409,
