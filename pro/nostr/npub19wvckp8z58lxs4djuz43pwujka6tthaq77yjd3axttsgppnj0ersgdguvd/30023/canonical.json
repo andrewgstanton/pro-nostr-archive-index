@@ -1384,7 +1384,7 @@
     "latest_year": 2025
   },
   "the-sovereign-archive-the-canonical-bitcoin-chronicles-index": {
-    "latest_event_id": "3b641e28a091f2f677c47b12fadfa7423c8a8ca140890d90408f740da5e8646a",
+    "latest_event_id": "cdd7ef9f7fd7a3c76554720179af1827ebd3e0c1db6b6999c4113d5e37edc8c7",
     "latest_year": 2025
   },
   "patron-support-continuum": {
@@ -1984,7 +1984,7 @@
     "latest_year": 2025
   },
   "-the-bitcoin-chronicles---1f24---visiting-an-early-entanglement-facility-on-luna-2025-12-23": {
-    "latest_event_id": "19daba56591974c7797708af04f8b3e16a7c80df8043c48ea1945b2881de6990",
+    "latest_event_id": "d058a82016049d249fa38592af794d667c66d7b62674e972ef883dfd518e9815",
     "latest_year": 2025
   },
   "-the-bitcoin-chronicles---1f23---onto-europa-1766536338": {
@@ -2009,6 +2009,22 @@
   },
   "free-article-1-dec-23-2025-the-bitcoin-chronicles---1f11---elias-walker-of-the-the-long-break": {
     "latest_event_id": "00202693ab92fa7fe90ef9b60cf3b7c5c3a104e9468ec589cb394ebcad41816d",
+    "latest_year": 2025
+  },
+  "-the-bitcoin-chronicles---1f02--the-epoch-ledgers-2025-12-24": {
+    "latest_event_id": "89e0be08212a76856eca3b6fd6fa6894b5aef52348f05a67ac4fb440835a132e",
+    "latest_year": 2025
+  },
+  "-the-bitcoin-chronicles---1f01---the-last-synchronous-age-2025-12-24": {
+    "latest_event_id": "7a4be9cb427d255c7bbaba8de931c5c8757a11ac7a34e84169e8f24e980a87b4",
+    "latest_year": 2025
+  },
+  "-the-bitcoin-chronicles---christmas-on-europa-2025-12-24": {
+    "latest_event_id": "3c5c1456eac7e077016afe206cb3401808bb237d1d189f11bbd870f6842709c9",
+    "latest_year": 2025
+  },
+  "-the-bitcoin-chronicles---christmas-on-mars-2025-12-24": {
+    "latest_event_id": "6b2550500a4768617f67362e30893ae2b00c67dde21b3165d9ff7c54dc1aa6f1",
     "latest_year": 2025
   }
 }
