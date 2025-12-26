@@ -1,5 +1,60 @@
 [
   {
+    "slug": "-the-bitcoin-chronicles---christmas-on-mars-2025-12-24",
+    "event_id": "3b7ca169c33d36e81f2f1d6de5b147ebaaea8f871a752d52461b891e910a9c0b",
+    "created_at": 1766721601,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/3b7ca169c33d36e81f2f1d6de5b147ebaaea8f871a752d52461b891e910a9c0b.json",
+    "title": "🔒 The Bitcoin Chronicles - Christmas on Mars",
+    "summary": "Long after Mars became livable but before distance disappeared, settlers learned to keep Christmas under thinner skies—without abundance, without immediacy, and without forgetting why they came.",
+    "paid": false
+  },
+  {
+    "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
+    "event_id": "7a00e998fc8d55ce7dde2f4dfd5c59537a988f86f5e9a69f1de2eb96b1d6a2b1",
+    "created_at": 1766624155,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/7a00e998fc8d55ce7dde2f4dfd5c59537a988f86f5e9a69f1de2eb96b1d6a2b1.json",
+    "title": "The Sovereign Archive: The Canonical Bitcoin Chronicles Index",
+    "summary": "This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.",
+    "paid": false
+  },
+  {
+    "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
+    "event_id": "23223d0a818973401fea9fab66c6e472270b7b0e3187032ef2563e85bb023949",
+    "created_at": 1766623286,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/23223d0a818973401fea9fab66c6e472270b7b0e3187032ef2563e85bb023949.json",
+    "title": "The Sovereign Archive: The Canonical Bitcoin Chronicles Index",
+    "summary": "This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.",
+    "paid": false
+  },
+  {
+    "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
+    "event_id": "65315e1434363b677f9fa4fc196c85b8df58fa440e3e478714a9c08d689a3de2",
+    "created_at": 1766623066,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/65315e1434363b677f9fa4fc196c85b8df58fa440e3e478714a9c08d689a3de2.json",
+    "title": "The Sovereign Archive: The Canonical Bitcoin Chronicles Index",
+    "summary": "This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.",
+    "paid": false
+  },
+  {
+    "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
+    "event_id": "bf62fe9c647f589c66e494eb69916c7373235a395add0f6108464bb5782b6919",
+    "created_at": 1766622825,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/bf62fe9c647f589c66e494eb69916c7373235a395add0f6108464bb5782b6919.json",
+    "title": "The Sovereign Archive: The Canonical Bitcoin Chronicles Index",
+    "summary": "This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.",
+    "paid": false
+  },
+  {
     "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
     "event_id": "cdd7ef9f7fd7a3c76554720179af1827ebd3e0c1db6b6999c4113d5e37edc8c7",
     "created_at": 1766621891,
