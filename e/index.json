@@ -1,5 +1,38 @@
 [
   {
+    "slug": "sabbath-article-dec-27-2025-when-you-are-tired-you-are-still-being-carried",
+    "event_id": "99a7f323d9bd6d6b800ec55cd9f5f555fd0787239d1bc25a59c5e4f8999d3a4c",
+    "created_at": 1766866042,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/99a7f323d9bd6d6b800ec55cd9f5f555fd0787239d1bc25a59c5e4f8999d3a4c.json",
+    "title": "Sabbath Article (Dec. 27, 2025): When You Are Tired, You Are Still Being Carried",
+    "summary": "A reflection on fatigue, grief, and the assurance that faithfulness does not depend on constant strength.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-dec-27-2025-sabbath-is-not-a-pause-button",
+    "event_id": "6fc7a188dcfac66b6b06a144d8369efa72589fcc2dce0df10f0065fa3b16997e",
+    "created_at": 1766865995,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/6fc7a188dcfac66b6b06a144d8369efa72589fcc2dce0df10f0065fa3b16997e.json",
+    "title": "Free Article 2 (Dec. 27, 2025): Sabbath Is Not a Pause Button",
+    "summary": "A reframing of Sabbath as active alignment rather than interruption, and why rest preserves meaningful work instead of delaying it.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-1-dec-27-2025-you-are-not-late",
+    "event_id": "e5170b2cf5231d1726f4bf289ddd2123f03b4e9a704d4a7ac6fa8d8f07735db1",
+    "created_at": 1766865450,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/e5170b2cf5231d1726f4bf289ddd2123f03b4e9a704d4a7ac6fa8d8f07735db1.json",
+    "title": "Free Article 1 (Dec. 27, 2025): You Are Not Late",
+    "summary": "A Sabbath reflection on time, calling, and the quiet truth that meaningful work unfolds in seasons. You have not missed your moment.",
+    "paid": false
+  },
+  {
     "slug": "-the-bitcoin-chronicles---christmas-on-mars-2025-12-24",
     "event_id": "3b7ca169c33d36e81f2f1d6de5b147ebaaea8f871a752d52461b891e910a9c0b",
     "created_at": 1766721601,
@@ -8,6 +41,105 @@
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/3b7ca169c33d36e81f2f1d6de5b147ebaaea8f871a752d52461b891e910a9c0b.json",
     "title": "🔒 The Bitcoin Chronicles - Christmas on Mars",
     "summary": "Long after Mars became livable but before distance disappeared, settlers learned to keep Christmas under thinner skies—without abundance, without immediacy, and without forgetting why they came.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "3b9a9a640bdf491d2524cdf0cdc18ecbf21989edc00cb3109fb7125263d1780b",
+    "created_at": 1766719999,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/3b9a9a640bdf491d2524cdf0cdc18ecbf21989edc00cb3109fb7125263d1780b.json",
+    "title": "Christmas Eve (Dec. 24, 2025) - Reflection V — Toward the Stars, Not Away From Earth",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "976589a624bf07ae73ab3ee7a122b9b0885b89f936f1471484deb457201876e0",
+    "created_at": 1766696203,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/976589a624bf07ae73ab3ee7a122b9b0885b89f936f1471484deb457201876e0.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "b65576465377c1467472599e57081b2ab7e3f2152985b37c188612705cf16dc0",
+    "created_at": 1766688256,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/b65576465377c1467472599e57081b2ab7e3f2152985b37c188612705cf16dc0.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "28d44d15216c6e27df941f96e3c56c78874a39ec25a3eefff401d3ac23aa2abe",
+    "created_at": 1766685327,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/28d44d15216c6e27df941f96e3c56c78874a39ec25a3eefff401d3ac23aa2abe.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "a625a768af9689bfa8de1793bf139f8570a177c976064354fb4b7a33deb1f600",
+    "created_at": 1766631718,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/a625a768af9689bfa8de1793bf139f8570a177c976064354fb4b7a33deb1f600.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "c5374e503a6ca59613d2b5e73dd312119d05c5915b2f0822ff70247b8a1d6249",
+    "created_at": 1766629263,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/c5374e503a6ca59613d2b5e73dd312119d05c5915b2f0822ff70247b8a1d6249.json",
+    "title": "Christmas Eve (Dec. 24, 2025) - Reflection IV — Faith, Technology, and Restraint",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "c5a8a83e3041fc75012baf27f9412fba82720aa0b5af6ae70e55718554ee65f0",
+    "created_at": 1766629083,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/c5a8a83e3041fc75012baf27f9412fba82720aa0b5af6ae70e55718554ee65f0.json",
+    "title": "Christmas Eve (Dec. 24, 2025) Reflection III — Why I’m Writing This",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "834a9ab6048c9c00452c5ea4c08681a22f267aecc2ee1798b5b4a2f9cbd1b4dc",
+    "created_at": 1766628853,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/834a9ab6048c9c00452c5ea4c08681a22f267aecc2ee1798b5b4a2f9cbd1b4dc.json",
+    "title": "Christmas Eve (Dec. 24, 2025) - Reflection II — Why the Future Needs Patience",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "991d804fc42b487505d4d84be69a55bc78a3a578ed06b9868e378f1c9c530f0d",
+    "created_at": 1766628623,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/991d804fc42b487505d4d84be69a55bc78a3a578ed06b9868e378f1c9c530f0d.json",
+    "title": "Christmas Eve (Dec. 24, 2025) - Reflection I — Waiting Is Not Failure",
+    "summary": "",
     "paid": false
   },
   {
@@ -363,6 +495,61 @@
     "paid": false
   },
   {
+    "slug": null,
+    "event_id": "150da81e4b7fd4e2ed8defc4704f597e6ae7b8db5accc50d5a1fbbdbbafe8161",
+    "created_at": 1766539446,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/150da81e4b7fd4e2ed8defc4704f597e6ae7b8db5accc50d5a1fbbdbbafe8161.json",
+    "title": "Growth",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "b0842973b902f49790177e5052dbc0a54614f4bd6e6fafa43876e334bd466a42",
+    "created_at": 1766539340,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/b0842973b902f49790177e5052dbc0a54614f4bd6e6fafa43876e334bd466a42.json",
+    "title": "The Long View",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "951fc01104fab6d9b3e082f6e0e3f310c42657cfffdce30360892798b6ac71f7",
+    "created_at": 1766539195,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/951fc01104fab6d9b3e082f6e0e3f310c42657cfffdce30360892798b6ac71f7.json",
+    "title": "Sovereign Systems",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "8cb691fd1c2b3fc523f6132edcd36f41942c4284b5345d2a5b06e05cb98a6ebc",
+    "created_at": 1766539057,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/8cb691fd1c2b3fc523f6132edcd36f41942c4284b5345d2a5b06e05cb98a6ebc.json",
+    "title": "Stewardship",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "969aa2bd8d5996df209a8b169fce3931a505948178e435dfff96abf118f74adb",
+    "created_at": 1766538912,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/969aa2bd8d5996df209a8b169fce3931a505948178e435dfff96abf118f74adb.json",
+    "title": "Abundance",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "-the-bitcoin-chrionicles---1f2---the-settled-system-2025-12-23",
     "event_id": "418a6d33bc6f4b236f9a73a562c707b57d7c244520cfe44a45ee17670f840259",
     "created_at": 1766537826,
@@ -539,6 +726,127 @@
     "paid": false
   },
   {
+    "slug": null,
+    "event_id": "784e78e962c27f9e377559e73a161f36fce4cb995d855dab01fc083d9e6d6a06",
+    "created_at": 1766440957,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/784e78e962c27f9e377559e73a161f36fce4cb995d855dab01fc083d9e6d6a06.json",
+    "title": "Enforcement vs Control",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "2c90c216dd88eba6bd46b784e796fbb625447202519faa73201dd8b73abde1e2",
+    "created_at": 1766440824,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/2c90c216dd88eba6bd46b784e796fbb625447202519faa73201dd8b73abde1e2.json",
+    "title": "Exit as Signal",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "cabfc3a64053005294f1c050bc4607d34a3d8d72f445669b070e18239ec68696",
+    "created_at": 1766440712,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/cabfc3a64053005294f1c050bc4607d34a3d8d72f445669b070e18239ec68696.json",
+    "title": "Delay and Consent",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "5d92d8880aa80495c7b608c797dee7fa1aba92b1cc158fe8b672fa694d33fad2",
+    "created_at": 1766440554,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/5d92d8880aa80495c7b608c797dee7fa1aba92b1cc158fe8b672fa694d33fad2.json",
+    "title": "Moralization of Power",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "3105275bc38277228d3e331c1a1de307f6fed87e64caeadaeb7666d4864348f1",
+    "created_at": 1766433061,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/3105275bc38277228d3e331c1a1de307f6fed87e64caeadaeb7666d4864348f1.json",
+    "title": "2025 Year in Review",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "706c8a04102745528cb9256d11891b3c46889dc80ffe46058d62ae327767f9b3",
+    "created_at": 1766366030,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/706c8a04102745528cb9256d11891b3c46889dc80ffe46058d62ae327767f9b3.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "5549abe2d8871dab45b50b88719d387204a5716ecc4ce8973aab7cd6eb39f442",
+    "created_at": 1766365964,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/5549abe2d8871dab45b50b88719d387204a5716ecc4ce8973aab7cd6eb39f442.json",
+    "title": "Grief Comes in Sets",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "95481ef0c637971c4e548f20232def1edef5d72cb7191040421a9006e2117cce",
+    "created_at": 1766365866,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/95481ef0c637971c4e548f20232def1edef5d72cb7191040421a9006e2117cce.json",
+    "title": "Different Practices, Same Instinct",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "c17a0077d2339eaf06d9f7d06b07061c80c3129c4d2317d6840cf5855fabbfbe",
+    "created_at": 1766365699,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/c17a0077d2339eaf06d9f7d06b07061c80c3129c4d2317d6840cf5855fabbfbe.json",
+    "title": "Hope for the New Year",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "1066c9304f18ff9c5e15d865233fdb43e02e91bc4b3a33da43fdfa84dfcd38d5",
+    "created_at": 1766362332,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/1066c9304f18ff9c5e15d865233fdb43e02e91bc4b3a33da43fdfa84dfcd38d5.json",
+    "title": "Staying in the Water",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "8539594eda6f4e6e20ad5ae43e078ddff3dbd9be4773b4dc1e0aa24870949253",
+    "created_at": 1766362151,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/8539594eda6f4e6e20ad5ae43e078ddff3dbd9be4773b4dc1e0aa24870949253.json",
+    "title": "What Freedom Really Is",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "freedom-comes-in-waves",
     "event_id": "7d80bb06940a4243a3a0d5705af8921b40678a985e6711d3946d359f4b51ff0c",
     "created_at": 1766358409,
@@ -558,6 +866,28 @@
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/a8b54fd2849b8866e7bf3bafd800121e965fc3cfa2a79d4a8f64ec4695c28e2f.json",
     "title": "Freedom Comes in Waves",
     "summary": "This essay reflects on freedom and sovereignty through the lens of surfing, written from the perspective of someone who does not surf but has watched a brother use the ocean as a way to cope with grief. In a year marked by shared trauma and loss, writing and surfing become parallel practices — different responses to the same weight — each honoring agency, patience, and the choice to remain present in a world that does not bend to us.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "65f6c6eedc7406f9aa3905ecf781c7c7625737de9b029889473086b1259d8277",
+    "created_at": 1766343745,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/65f6c6eedc7406f9aa3905ecf781c7c7625737de9b029889473086b1259d8277.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "c716834e0569374acce9873c3780fdb7a3815b2dea4fda2939fe0770d758deaa",
+    "created_at": 1766342536,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/c716834e0569374acce9873c3780fdb7a3815b2dea4fda2939fe0770d758deaa.json",
+    "title": "",
+    "summary": "",
     "paid": false
   },
   {
@@ -602,6 +932,28 @@
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/76c5cecd6713d37af26b225986d4f98ee27a06a04ea24fbeeb8dff1a29905cbb.json",
     "title": "Freedom Is Not the Right to Be Unaffected",
     "summary": "Modern notions of freedom increasingly assume insulation from consequence — emotional, social, or moral. This essay argues that freedom does not mean being untouched by others, but being answerable within reality.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "718db7dc93d1a263cd2ec6e60ee3a917c413dd4b423c38975fb89df2c4a75ef1",
+    "created_at": 1766265196,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/718db7dc93d1a263cd2ec6e60ee3a917c413dd4b423c38975fb89df2c4a75ef1.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "5df1585786658ff298907bdb382595ee796212cd8dbf1c8bef1d2ead273acff0",
+    "created_at": 1766265058,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/5df1585786658ff298907bdb382595ee796212cd8dbf1c8bef1d2ead273acff0.json",
+    "title": "",
+    "summary": "",
     "paid": false
   },
   {
@@ -693,6 +1045,72 @@
     "paid": false
   },
   {
+    "slug": null,
+    "event_id": "08f05b6bab31977b312ceb2755d03436cb5aa44a1aca0dac321d7ba325b005f9",
+    "created_at": 1766260972,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/08f05b6bab31977b312ceb2755d03436cb5aa44a1aca0dac321d7ba325b005f9.json",
+    "title": "Why I’m writing the Bitcoin Chronicles",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "db8918148f49c0789589745f3269ba021107a8b29734f07ef2319977b2081e3a",
+    "created_at": 1766259895,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/db8918148f49c0789589745f3269ba021107a8b29734f07ef2319977b2081e3a.json",
+    "title": "On Freedom",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "db922f4df519434762bc3f71205ee2414ebb702cc338184de81252626cfbb755",
+    "created_at": 1766259758,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/db922f4df519434762bc3f71205ee2414ebb702cc338184de81252626cfbb755.json",
+    "title": "On Sovereignty",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "7744ff34c30f9dac5f27b9312d7a7d935213163fdd94cb4e805721cfa4713b40",
+    "created_at": 1766259583,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/7744ff34c30f9dac5f27b9312d7a7d935213163fdd94cb4e805721cfa4713b40.json",
+    "title": "Why I’m experimenting with monetization on Nostr (without vendor lock-in)",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "176d45ea909d1252fc8000a67e0752e5800bcdf7c9b6cbd01392d305232c2648",
+    "created_at": 1766259175,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/176d45ea909d1252fc8000a67e0752e5800bcdf7c9b6cbd01392d305232c2648.json",
+    "title": "Why do I write articles instead of posting notes?",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "d0814a2e39b8e675645c646b0d490742f5714758afe86502bf15701799a2b39e",
+    "created_at": 1766257825,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/d0814a2e39b8e675645c646b0d490742f5714758afe86502bf15701799a2b39e.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
     "event_id": "7929ac9cab55f20ad19091fc58de9ea8ef456c5d0256add8df2f3dacb7b052f4",
     "created_at": 1766198889,
@@ -778,6 +1196,17 @@
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/c9e9f9e7c51a4ac9e4ecce2068ae648cea70b0f4235e9fefdb4b5614d330e2c4.json",
     "title": "Free Article 2 (Dec. 19, 2025): The Bitcoin Chornicles - 1.A.0.1.5 - The Ethics of Staying",
     "summary": "As exit technologies gained moral legitimacy and institutional trust eroded, Miriam Hale articulated a minority ethical position: that remaining within failing systems could itself be a form of responsibility. Anchored in post-crisis hollowing, pandemic-era attrition, and the rise of parallel infrastructures, this essay examines the moral cost of departure.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "9b8001d5307e36b03011fd233bb2140beaffe7bdb4697f2377a59346e57888b9",
+    "created_at": 1766119225,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/9b8001d5307e36b03011fd233bb2140beaffe7bdb4697f2377a59346e57888b9.json",
+    "title": "",
+    "summary": "",
     "paid": false
   },
   {
@@ -965,6 +1394,39 @@
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/4555cada8c860d6c3d8d5f012a406f75da364b68565cec24fb54077387b17f03.json",
     "title": "Free Article 2 (Dec. 18, 2025): The Bitcoin Chronicles - 1.B.X - She Spoke Into the Vacuum",
     "summary": "When most Lunar residents stayed cautious, one woman broadcast openly. Her voice carried across nodes — and forced the Moon to choose whether silence was still an option.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "c8f4c6b886e69a4b390510d595caeafedfd642fe41612786e5c1a3910187d124",
+    "created_at": 1766076407,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/c8f4c6b886e69a4b390510d595caeafedfd642fe41612786e5c1a3910187d124.json",
+    "title": "Stewardship notice for the Bitcoin Chronicles on Continuum.",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "2c1f1257abfdbd4325fc81f5e4f7dafb8b29ee10b7d6175b70b16336356e2283",
+    "created_at": 1766075627,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/2c1f1257abfdbd4325fc81f5e4f7dafb8b29ee10b7d6175b70b16336356e2283.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "8e2e0b34df9bf00be33b376213fb8f4831b727a48b51f970859cdf03a00b6805",
+    "created_at": 1766038009,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/8e2e0b34df9bf00be33b376213fb8f4831b727a48b51f970859cdf03a00b6805.json",
+    "title": "",
+    "summary": "",
     "paid": false
   },
   {
@@ -1647,6 +2109,17 @@
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/6812d945b20781aeee9bd185f624fa0df86307ff67700e71603e8c240ffefa91.json",
     "title": "The Sovereign Archive: The Canonical Bitcoin Chronicles Index",
     "summary": "This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "e3c0d0ddd7477819d34cd38d5883bb570bc63ff6ee9e9eb418003ebeec40190e",
+    "created_at": 1765662738,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/e3c0d0ddd7477819d34cd38d5883bb570bc63ff6ee9e9eb418003ebeec40190e.json",
+    "title": "Latest update to Continuum Premium Index",
+    "summary": "",
     "paid": false
   },
   {
@@ -3113,6 +3586,17 @@
     "paid": false
   },
   {
+    "slug": null,
+    "event_id": "f2b56032065d0c0b25618aff91ecd520b57d9bbf304a3b1122b0fb9c6257233c",
+    "created_at": 1765489708,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/f2b56032065d0c0b25618aff91ecd520b57d9bbf304a3b1122b0fb9c6257233c.json",
+    "title": "New paid essay:  “Why Sovereign Tools Must Outlast Their Creators”",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "paid-article-dec-11-2025-why-sovereign-tools-must-outlast-their-creators-2025-12-11",
     "event_id": "a15d968a065daf69cb61086a281c4942a9710f041dc1aeb2361fdab9e8bf357b",
     "created_at": 1765488319,
@@ -3121,6 +3605,28 @@
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/a15d968a065daf69cb61086a281c4942a9710f041dc1aeb2361fdab9e8bf357b.json",
     "title": "Paid Article (Dec. 11, 2025): Why Sovereign Tools Must Outlast Their Creators",
     "summary": "A deep exploration of why Continuum — and all sovereign systems — must be built to endure beyond their founders. Sovereign tools are cathedrals, not startups.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "0bbcb837b2f804a7a8847b0c1306ff89c38426a7b137c30ac261fa113ddb150f",
+    "created_at": 1765487224,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/0bbcb837b2f804a7a8847b0c1306ff89c38426a7b137c30ac261fa113ddb150f.json",
+    "title": "Bitcoin Chronicles lore drop:  “The First Pilgrim Charter”",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "576746c1df7ec6a251c37261c58311ef00c0ab9024d2c1d65a466d4b79296bc8",
+    "created_at": 1765487086,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/576746c1df7ec6a251c37261c58311ef00c0ab9024d2c1d65a466d4b79296bc8.json",
+    "title": "New piece today:  “Sovereignty Is Learned in Small Steps”",
+    "summary": "",
     "paid": false
   },
   {
@@ -3165,6 +3671,17 @@
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/44c28f4c4943c4c0e19a45bd5c100e79875e5ecfa512a07912067deb0776217b.json",
     "title": "🔒 Paid Article (Sept. 9, 2025) : The Nostr Manifesto",
     "summary": "This article lays out the case for Nostr as a manifesto: why it matters, what it protects, and how it redefines digital identity and communication.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "8596955c1811c65881a4673b2475d67043845caa69ab22ef787003acdba72fa3",
+    "created_at": 1765331419,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/8596955c1811c65881a4673b2475d67043845caa69ab22ef787003acdba72fa3.json",
+    "title": "🚀 400 Articles. A Sovereign Threshold.",
+    "summary": "",
     "paid": false
   },
   {
@@ -3729,6 +4246,17 @@
     "paid": false
   },
   {
+    "slug": null,
+    "event_id": "9f88777de910593c85f3ef3436304a80e59610ad80e4b84281e9531d0e3df65e",
+    "created_at": 1765132061,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/9f88777de910593c85f3ef3436304a80e59610ad80e4b84281e9531d0e3df65e.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
     "event_id": "f1fd2d18fa518d5855866527641334879d76b56d601d68d5cfad1c88475611ee",
     "created_at": 1765085047,
@@ -3927,6 +4455,17 @@
     "paid": false
   },
   {
+    "slug": null,
+    "event_id": "4955cf86a18baaed50b847f88c0db06270ae3119ab0d2858e47826828698db57",
+    "created_at": 1765070245,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/4955cf86a18baaed50b847f88c0db06270ae3119ab0d2858e47826828698db57.json",
+    "title": "Paid Article Sample Teaser Example",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "paid-article-sample-2025-12-05",
     "event_id": "70603b2b09b879940fc299311bf52dfa73addc133a0649e6624b318cc7452e2b",
     "created_at": 1765005180,
@@ -4067,6 +4606,17 @@
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/3765cdc17df0a14f02788638721e3fa4785da074af634b7eb15377ac87800ce9.json",
     "title": "Free Article 1 (Dec. 4, 2025): The Bitcoin Chronicles - 1.B.3 - Luna Freeport",
     "summary": "A forgotten lunar tunnel becomes humanity’s first neutral off-world commons, the birthplace of the Archivists, and the cultural and economic heart of the sovereign lunar diaspora.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "2c3517714ad84ccd5dcc2803840fdc0e01993ae3bc8cfb3f43d04a4c2225d8e2",
+    "created_at": 1764830351,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/2c3517714ad84ccd5dcc2803840fdc0e01993ae3bc8cfb3f43d04a4c2225d8e2.json",
+    "title": "Patron Support Continuum",
+    "summary": "",
     "paid": false
   },
   {
@@ -4642,6 +5192,17 @@
     "paid": false
   },
   {
+    "slug": null,
+    "event_id": "bbe76eef6fb26ed11892f26cec90928b3020bcb5fcfb2ea5c9f367fb5d730f6d",
+    "created_at": 1764478612,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/bbe76eef6fb26ed11892f26cec90928b3020bcb5fcfb2ea5c9f367fb5d730f6d.json",
+    "title": "Book 0 Intro",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
     "event_id": "ecb040b0a953bb81529bb9d3462b0fcc031b847617208f167b4494a5cd8ac402",
     "created_at": 1764463879,
@@ -4771,6 +5332,17 @@
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/302a4cb1c059f88beccf0dfcc9493933255079b91db20c3b358b861b1631c3b6.json",
     "title": "Free Article 2 (Nov. 26, 2025): The Bitcoin Chronicles: The 500th Crossing: How the Mayflower Memory Lives in Martian Sovereignties",
     "summary": "A meditation on why the 500th anniversary of the Mayflower resonates so deeply with New Lakota, New Bern, and the Belt enclaves, especially after the Martian referendum and UEB interference",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "695cd15d31e198237c414951786e807646410e672f9ae3500b1a5f5b879f4244",
+    "created_at": 1764280618,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/695cd15d31e198237c414951786e807646410e672f9ae3500b1a5f5b879f4244.json",
+    "title": "Teaser - The Sovereign Archive: The Canonical Bitcoin Chronicles Index",
+    "summary": "",
     "paid": false
   },
   {
@@ -5299,6 +5871,17 @@
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/9c43b80b736a376d18f76547c3ecbdf7ce7818ee5e9c78c03a5900b5451a9806.json",
     "title": "Free Article 1 (Nov. 21, 2025): Why Sovereign Tools Need Their Own Milestones",
     "summary": "In a world dominated by centralized platforms, small victories in sovereign tech matter more than most people realize. This article reflects on why milestones like the launch of Continuum Pro are critical for building an alternative future.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "134bf49b6708c1820cfb735e00888367cdba366c4712ad3ffd1f26d5103064b1",
+    "created_at": 1763758563,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/134bf49b6708c1820cfb735e00888367cdba366c4712ad3ffd1f26d5103064b1.json",
+    "title": "Continuum Pro Teaser",
+    "summary": "",
     "paid": false
   },
   {
@@ -8995,6 +9578,17 @@
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8/30023/040ba5d13e5b7f0ee6b7d933e7d67ffae5b003ffb87f74d8607e0d3df83c30c1.json",
     "title": "A Declaration of Digital Independence",
     "summary": "Published on July 4 as a declaration of digital independence, this inaugural post from the Continuum identity was written, signed, and published using a fully self-hosted system. It introduces Continuum not just as a tool, but as a sovereign philosophy — rejecting platforms, reclaiming identity, and proving that we can publish from our own machines, without permission.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "8c35ff21bfb8ca76a33849ddba6bdc7cdf94c78251bd0bd0a41ad8c9330b0d24",
+    "created_at": 1748558109,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/8c35ff21bfb8ca76a33849ddba6bdc7cdf94c78251bd0bd0a41ad8c9330b0d24.json",
+    "title": "",
+    "summary": "",
     "paid": false
   }
 ]
