@@ -1,5 +1,16 @@
 [
   {
+    "slug": null,
+    "event_id": "1ae6e03a101ad54a85cb9c3726bbf83c9962d4b6d4eece39f5cf7b631678af55",
+    "created_at": 1766880368,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/1ae6e03a101ad54a85cb9c3726bbf83c9962d4b6d4eece39f5cf7b631678af55.json",
+    "title": "Last Weekend of 2025",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "free-article-1-dec-27-2025-you-are-not-late",
     "event_id": "71e4afa7896e49ae8296c0f1091c890139f9c4d2c3a6d76b4879f6e4a57e360c",
     "created_at": 1766870356,
