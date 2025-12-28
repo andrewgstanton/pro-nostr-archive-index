@@ -184,7 +184,8 @@
 
   <div class="filters">
     <label for="npub-filter">npub:</label>
-    <input id="npub-filter" type="text" placeholder="Paste npub..." />
+    <input id="npub-filter" type="text" placeholder="Paste npub..." list="npub-options" />
+    <datalist id="npub-options"></datalist>
 
     <label for="year-filter">Year:</label>
     <select id="year-filter">
@@ -266,6 +267,21 @@
         yearSelect.appendChild(opt);
       }
     }
+
+    function populateNpubDatalist(items) {
+      const dl = document.getElementById("npub-options");
+      if (!dl) return;
+
+      const npubs = Array.from(new Set(items.map(i => i.npub).filter(Boolean))).sort();
+
+      dl.innerHTML = "";
+      for (const n of npubs) {
+        const opt = document.createElement("option");
+        opt.value = n; // keep full npub as the value
+        dl.appendChild(opt);
+      }
+    }
+
     
 
     async function loadIndex() {
@@ -278,6 +294,9 @@
           throw new Error("Unable to load index.json");
         }
         const items = await res.json();
+
+        populateNpubDatalist(items);
+
         if (!Array.isArray(items) || items.length === 0) {
           statusEl.textContent = "No events found in the archive.";
           return;
