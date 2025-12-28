@@ -312,7 +312,10 @@
           .map(Number)
           .filter(Boolean);
         const filterPaid = (urlParams.get("paid") || "")
-          .split(",");
+          .split(",")
+          .map(s => s.trim())
+          .filter(Boolean);
+
 
         let filteredItems = items.filter(item => {
           // npub
