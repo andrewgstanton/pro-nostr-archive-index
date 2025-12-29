@@ -1,5 +1,60 @@
 [
   {
+    "slug": "paid-article-sample-2025-12-05",
+    "event_id": "8be7ae6a425785e122405b658ab74e8a25f3af180c5f273991e05d3ca62b8faa",
+    "created_at": 1766986567,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/8be7ae6a425785e122405b658ab74e8a25f3af180c5f273991e05d3ca62b8faa.json",
+    "title": "🔒 Paid Article Sample",
+    "summary": "This is what a paid article would look like unencrypted.",
+    "paid": false
+  },
+  {
+    "slug": "wenn-systeme-komponenten-gegenber-handelnden-menschen-bevorzugen-deutsche-fassung-von-when-systems-prefer-components-over-agents",
+    "event_id": "8bc0ed2ef5a769826a65da58f37790966b514e035c9319d9f5e66e8096cc540f",
+    "created_at": 1766910229,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/8bc0ed2ef5a769826a65da58f37790966b514e035c9319d9f5e66e8096cc540f.json",
+    "title": "Wenn Systeme Komponenten gegenüber handelnden Menschen bevorzugen (Deutsche Fassung von „When Systems Prefer Components Over Agents“)",
+    "summary": "Moderne Systeme optimieren zunehmend auf Effizienz, Vorhersagbarkeit und Skalierung. Dabei verwandeln sie Menschen stillschweigend in austauschbare Komponenten statt in autonome handelnde Subjekte. Dieses Muster zeigt sich gleichermaßen im Bildungssystem, auf digitalen Plattformen und in der Creator-Ökonomie. Hat man es einmal klar erkannt, lässt es sich kaum noch ignorieren — und noch weniger als neutral akzeptieren.  #",
+    "paid": false
+  },
+  {
+    "slug": "when-systems-prefer-components-over-agents",
+    "event_id": "25045a17a61157910bfc7ec59c7e9eb8af8d88822487df99a76f65e7f89b0d47",
+    "created_at": 1766905890,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/25045a17a61157910bfc7ec59c7e9eb8af8d88822487df99a76f65e7f89b0d47.json",
+    "title": "When Systems Prefer Components Over Agents",
+    "summary": "Modern systems increasingly optimize for efficiency, predictability, and scale — and in doing so, they quietly reshape humans into interchangeable components rather than autonomous agents. This pattern appears in education, platforms, and creator economies alike. Once seen clearly, it becomes difficult to ignore — and impossible to accept as neutral.",
+    "paid": false
+  },
+  {
+    "slug": "growth-is-not-the-enemy--control-is",
+    "event_id": "2a05965f9a63c2a716740d1da850c7486b3d2a1b379e7eb81984827b4a3a1b52",
+    "created_at": 1766904780,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/2a05965f9a63c2a716740d1da850c7486b3d2a1b379e7eb81984827b4a3a1b52.json",
+    "title": "Growth Is Not the Enemy — Control Is",
+    "summary": "Virality, reach, and growth are not inherently bad. They are powerful forces that can amplify truth, creativity, and human connection. The problem with modern platforms is not growth itself, but the way growth has been inverted into a mechanism of control — where creators become the product and platforms decide how amplification happens. This piece clarifies that distinction, and why it matters.",
+    "paid": false
+  },
+  {
+    "slug": "what-im-building-with-continuum--and-why",
+    "event_id": "32c54fa0d53535cd4477bc44cad9eb3a7490d47f03a9fe6e8754fd4cb00ee72b",
+    "created_at": 1766903723,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/32c54fa0d53535cd4477bc44cad9eb3a7490d47f03a9fe6e8754fd4cb00ee72b.json",
+    "title": "What I’m Building with Continuum — and Why",
+    "summary": "Continuum is a local-first publishing system built around ownership, durability, and cryptographic authorship. It exists because most modern publishing platforms are optimized for reach and rent-seeking, not truth, resilience, or long time horizons. This piece explains what I’m building, how it works at a high level, and why I believe this approach matters — especially now.",
+    "paid": false
+  },
+  {
     "slug": null,
     "event_id": "1ae6e03a101ad54a85cb9c3726bbf83c9962d4b6d4eece39f5cf7b631678af55",
     "created_at": 1766880368,
