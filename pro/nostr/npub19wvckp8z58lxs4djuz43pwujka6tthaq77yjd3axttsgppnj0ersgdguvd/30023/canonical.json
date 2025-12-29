@@ -1412,7 +1412,7 @@
     "latest_year": 2025
   },
   "paid-article-sample-2025-12-05": {
-    "latest_event_id": "83118cefdce895f337dd585ad99376eddda279d4c91915c0c52b52a879cc93d6",
+    "latest_event_id": "8be7ae6a425785e122405b658ab74e8a25f3af180c5f273991e05d3ca62b8faa",
     "latest_year": 2025
   },
   "paid-article-dec-3-2025-the-bitcoin-chronicles---1a3---the-exodus-protocol-2025-12-03": {
@@ -2049,6 +2049,22 @@
   },
   "free-article-1-dec-28-2025-the-year-ahead-is-already-prepared": {
     "latest_event_id": "d9ccd9124210787ff8055a9e588267b92ade9a28513c51c76c92fe1017921ddd",
+    "latest_year": 2025
+  },
+  "wenn-systeme-komponenten-gegenber-handelnden-menschen-bevorzugen-deutsche-fassung-von-when-systems-prefer-components-over-agents": {
+    "latest_event_id": "8bc0ed2ef5a769826a65da58f37790966b514e035c9319d9f5e66e8096cc540f",
+    "latest_year": 2025
+  },
+  "when-systems-prefer-components-over-agents": {
+    "latest_event_id": "25045a17a61157910bfc7ec59c7e9eb8af8d88822487df99a76f65e7f89b0d47",
+    "latest_year": 2025
+  },
+  "growth-is-not-the-enemy--control-is": {
+    "latest_event_id": "2a05965f9a63c2a716740d1da850c7486b3d2a1b379e7eb81984827b4a3a1b52",
+    "latest_year": 2025
+  },
+  "what-im-building-with-continuum--and-why": {
+    "latest_event_id": "32c54fa0d53535cd4477bc44cad9eb3a7490d47f03a9fe6e8754fd4cb00ee72b",
     "latest_year": 2025
   }
 }
