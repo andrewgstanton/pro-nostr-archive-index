@@ -1,13 +1,24 @@
 [
   {
     "slug": "test-article-archiving",
+    "event_id": "8bdcc394fa7024c1dd7d89a6418ed0d212feb51250627f7366275f58a91f796d",
+    "created_at": 1767127430,
+    "npub": "npub1af6xvq6ynl8r3737ye6yzqygr2xdf6hw5hnteha20n85vvagzgvqdh3mrt",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1af6xvq6ynl8r3737ye6yzqygr2xdf6hw5hnteha20n85vvagzgvqdh3mrt/30023/8bdcc394fa7024c1dd7d89a6418ed0d212feb51250627f7366275f58a91f796d.json",
+    "title": "Test Article archiving",
+    "summary": "test",
+    "paid": false
+  },
+  {
+    "slug": "test-article-archiving",
     "event_id": "9853c867a813f9c8364963dae94b6d0f73044a239a01f6bab178abf64f569252",
     "created_at": 1767056952,
     "npub": "npub1af6xvq6ynl8r3737ye6yzqygr2xdf6hw5hnteha20n85vvagzgvqdh3mrt",
     "kind": 30023,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1af6xvq6ynl8r3737ye6yzqygr2xdf6hw5hnteha20n85vvagzgvqdh3mrt/30023/9853c867a813f9c8364963dae94b6d0f73044a239a01f6bab178abf64f569252.json",
-    "title": "",
-    "summary": "",
+    "title": "Test Article archiving",
+    "summary": "test",
     "paid": false
   },
   {
