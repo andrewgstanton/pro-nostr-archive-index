@@ -6,7 +6,7 @@
     "npub": "npub1af6xvq6ynl8r3737ye6yzqygr2xdf6hw5hnteha20n85vvagzgvqdh3mrt",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1af6xvq6ynl8r3737ye6yzqygr2xdf6hw5hnteha20n85vvagzgvqdh3mrt/1/92e78e5944aea258840514185a944f64517e4f249b48f0d24e9116467772e44b.json",
-    "title": "",
+    "title": "Test Note",
     "summary": "",
     "paid": false
   },
@@ -41,6 +41,17 @@
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1af6xvq6ynl8r3737ye6yzqygr2xdf6hw5hnteha20n85vvagzgvqdh3mrt/30023/8bdcc394fa7024c1dd7d89a6418ed0d212feb51250627f7366275f58a91f796d.json",
     "title": "Test Article archiving",
     "summary": "test",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "c0debf4b36c938be6d4d9fcb71b5c8a9ececf47204c768c459bf948fbfb7f835",
+    "created_at": 1767085269,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/c0debf4b36c938be6d4d9fcb71b5c8a9ececf47204c768c459bf948fbfb7f835.json",
+    "title": "",
+    "summary": "",
     "paid": false
   },
   {
@@ -85,6 +96,17 @@
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/8bc0ed2ef5a769826a65da58f37790966b514e035c9319d9f5e66e8096cc540f.json",
     "title": "Wenn Systeme Komponenten gegenüber handelnden Menschen bevorzugen (Deutsche Fassung von „When Systems Prefer Components Over Agents“)",
     "summary": "Moderne Systeme optimieren zunehmend auf Effizienz, Vorhersagbarkeit und Skalierung. Dabei verwandeln sie Menschen stillschweigend in austauschbare Komponenten statt in autonome handelnde Subjekte. Dieses Muster zeigt sich gleichermaßen im Bildungssystem, auf digitalen Plattformen und in der Creator-Ökonomie. Hat man es einmal klar erkannt, lässt es sich kaum noch ignorieren — und noch weniger als neutral akzeptieren.  #",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "117470165df8f871e62f158eaf94363170ccd0f3c8ce3be4f36c2e727c711578",
+    "created_at": 1766908772,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/117470165df8f871e62f158eaf94363170ccd0f3c8ce3be4f36c2e727c711578.json",
+    "title": "",
+    "summary": "",
     "paid": false
   },
   {
