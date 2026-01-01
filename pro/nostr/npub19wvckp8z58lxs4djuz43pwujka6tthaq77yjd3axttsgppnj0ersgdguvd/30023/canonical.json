@@ -2068,7 +2068,7 @@
     "latest_year": 2025
   },
   "new-beginnings-are-not-clean-slates-2025-12-31": {
-    "latest_event_id": "e2aa5848300c1a49729348ed7f3774b29b341e6da592ec7261e6d8b8408025fc",
+    "latest_event_id": "48afa936c9349b84e73b97bbe84a3126b0b17661fef934b8fa90e3ef9006a3f9",
     "latest_year": 2026
   },
   "carrying-the-fire-forward": {
@@ -2077,6 +2077,18 @@
   },
   "standing-at-the-threshold": {
     "latest_event_id": "66419223551a17924fd08c27d86199884b346064528affb4383e403821f00367",
+    "latest_year": 2026
+  },
+  "the-threshold-is-not-a-cliff": {
+    "latest_event_id": "c28fea6c279f0ffdb2d3c2e74ff43af6f4548ef9eb6557a32b5eb9efa20decec",
+    "latest_year": 2026
+  },
+  "carrying-the-fire-toward-its-season": {
+    "latest_event_id": "535a8ec54437a9c24196ad8043c2326ba5132930a1f1080775ef62f00fb2e6cd",
+    "latest_year": 2026
+  },
+  "stepping-forward-toward-fruit-2026-01-01": {
+    "latest_event_id": "4ee1efeb39bb75ff39a52e2f208a2fb399b8e295ba47b8f05790760ac5228885",
     "latest_year": 2026
   }
 }
