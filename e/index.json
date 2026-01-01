@@ -1,5 +1,148 @@
 [
   {
+    "slug": "stepping-forward-toward-fruit-2026-01-01",
+    "event_id": "4ee1efeb39bb75ff39a52e2f208a2fb399b8e295ba47b8f05790760ac5228885",
+    "created_at": 1767299573,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/4ee1efeb39bb75ff39a52e2f208a2fb399b8e295ba47b8f05790760ac5228885.json",
+    "title": "🔒 Stepping Forward Toward Fruit",
+    "summary": "Moving forward without applause does not mean moving forward without expectation. This piece reframes courage not as silent endurance, but as alignment with fruit — visible, shared, and sustaining.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "05a255b74652fbba0c91cdd490ee5db676577e437a879d3bb59ace2abdb70cde",
+    "created_at": 1767299462,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/05a255b74652fbba0c91cdd490ee5db676577e437a879d3bb59ace2abdb70cde.json",
+    "title": "On Writers",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "034d61f9c2d7330d006a35283eeaab34f4c28e9035a9528a667ad5508e784972",
+    "created_at": 1767299403,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/034d61f9c2d7330d006a35283eeaab34f4c28e9035a9528a667ad5508e784972.json",
+    "title": "On Builders",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "aa25c6d9d1cd4e36a0b3918f8f80e501da403f8417e12a2f287e63bcb47c02d3",
+    "created_at": 1767299343,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/aa25c6d9d1cd4e36a0b3918f8f80e501da403f8417e12a2f287e63bcb47c02d3.json",
+    "title": "On Discouragement",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "9ff9b1673c26919a3fd7bad3c8a351f811c61d89db375cdbff40824935057bd3",
+    "created_at": 1767299293,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/9ff9b1673c26919a3fd7bad3c8a351f811c61d89db375cdbff40824935057bd3.json",
+    "title": "On Perseverance",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "ed7ddabef4ea18aeaa649665b5bbbbb5f72e88f66200ec8aa2155574675d8bff",
+    "created_at": 1767299229,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/ed7ddabef4ea18aeaa649665b5bbbbb5f72e88f66200ec8aa2155574675d8bff.json",
+    "title": "On Quiet Work",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "the-threshold-is-not-a-cliff",
+    "event_id": "c28fea6c279f0ffdb2d3c2e74ff43af6f4548ef9eb6557a32b5eb9efa20decec",
+    "created_at": 1767298860,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/c28fea6c279f0ffdb2d3c2e74ff43af6f4548ef9eb6557a32b5eb9efa20decec.json",
+    "title": "The Threshold Is Not a Cliff",
+    "summary": "The new year does not demand a leap into the unknown. It invites a crossing — deliberate, grounded, and human. This piece reframes 2026 not as pressure, but as passage.",
+    "paid": false
+  },
+  {
+    "slug": "carrying-the-fire-toward-its-season",
+    "event_id": "535a8ec54437a9c24196ad8043c2326ba5132930a1f1080775ef62f00fb2e6cd",
+    "created_at": 1767298784,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/535a8ec54437a9c24196ad8043c2326ba5132930a1f1080775ef62f00fb2e6cd.json",
+    "title": "Carrying the Fire Toward Its Season",
+    "summary": "Some seasons are not about visibility, but they are not endless either. This piece reframes preservation not as resignation, but as preparation — the quiet interval before growth and fruit arrive.",
+    "paid": false
+  },
+  {
+    "slug": "stepping-forward-toward-fruit-2026-01-01",
+    "event_id": "665826493eb8e75edd1559305cbb4d24d8361c4a5c57785a98ff0bdb4d48d9d5",
+    "created_at": 1767298653,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/665826493eb8e75edd1559305cbb4d24d8361c4a5c57785a98ff0bdb4d48d9d5.json",
+    "title": "Stepping Forward Toward Fruit",
+    "summary": "Moving forward without applause does not mean moving forward without expectation. This piece reframes courage not as silent endurance, but as alignment with fruit — visible, shared, and sustaining.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "d8bcaac590097ff50f0695e6e980e2596a5f082380a4ac5833af197da25b8913",
+    "created_at": 1767295325,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/d8bcaac590097ff50f0695e6e980e2596a5f082380a4ac5833af197da25b8913.json",
+    "title": "Happy New Year 2026!!!",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "60f1ddc34c6400e94083d896334e87666c572a6932db7f2e7af19b058b9770f5",
+    "created_at": 1767288812,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/60f1ddc34c6400e94083d896334e87666c572a6932db7f2e7af19b058b9770f5.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "88377b0e37e065f715a47568463bd6c1f8914a67202b39dfd7dfd7b18c8e2d65",
+    "created_at": 1767288746,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/88377b0e37e065f715a47568463bd6c1f8914a67202b39dfd7dfd7b18c8e2d65.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "new-beginnings-are-not-clean-slates-2025-12-31",
+    "event_id": "48afa936c9349b84e73b97bbe84a3126b0b17661fef934b8fa90e3ef9006a3f9",
+    "created_at": 1767247618,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/48afa936c9349b84e73b97bbe84a3126b0b17661fef934b8fa90e3ef9006a3f9.json",
+    "title": "🔒 New Beginnings Are Not Clean Slates",
+    "summary": "The myth of the clean slate is comforting — and false. Real beginnings carry memory, scars, and continuity. This piece reflects on how true renewal grows not from erasure, but from integrity and forward faithfulness.",
+    "paid": false
+  },
+  {
     "slug": "new-beginnings-are-not-clean-slates-2025-12-31",
     "event_id": "e2aa5848300c1a49729348ed7f3774b29b341e6da592ec7261e6d8b8408025fc",
     "created_at": 1767238971,
@@ -8910,6 +9053,28 @@
     "paid": false
   },
   {
+    "slug": null,
+    "event_id": "6bceab8e077eecaca106bdaa5d382cea1a813628d5cd9005852fbe881277bf12",
+    "created_at": 1757711110,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/6bceab8e077eecaca106bdaa5d382cea1a813628d5cd9005852fbe881277bf12.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "310ea15be959a3ea1054fad5c5c03cba5877451b976bf230439580a5b791c80e",
+    "created_at": 1757648219,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/310ea15be959a3ea1054fad5c5c03cba5877451b976bf230439580a5b791c80e.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "paid-article-teaser-sept-8-2025-the-unifier-the-turning-and-the-threshold-bitcoin-and-the-long-arc-of-prophecy",
     "event_id": "880eb887bb5d5b48285bd2e2ed49af5374f464c7971f899ba9a2cdb34d197b8a",
     "created_at": 1757360479,
@@ -9237,6 +9402,17 @@
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/1ec695316d73316f73becc878e29ff7272143c0098b10620d2b9178c45ee9a93.json",
     "title": "Paid Article Teaser (Day 7 - Aug. 30, 2025): The Bitcoin Chronicles: The First Interplanetary Trade Routes",
     "summary": "A teaser glimpse into Day 7 — the rise of Bitcoin-powered trade across the solar system.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "a76374c1b9ce6779921347365997e34be5a512116009d1297a71acd5e1caa193",
+    "created_at": 1756525016,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/a76374c1b9ce6779921347365997e34be5a512116009d1297a71acd5e1caa193.json",
+    "title": "",
+    "summary": "",
     "paid": false
   },
   {
@@ -9691,6 +9867,17 @@
     "paid": false
   },
   {
+    "slug": null,
+    "event_id": "4ecb06e5a23bccf1a7e6ba2a8dd5c12a9b26fa99ab389f24f42dc69d900e587a",
+    "created_at": 1755540062,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/4ecb06e5a23bccf1a7e6ba2a8dd5c12a9b26fa99ab389f24f42dc69d900e587a.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "the-victorious-gospel-and-the-urgency-of-faith",
     "event_id": "8bf1449885f44a057a91d92be8c19f687ca2ce609a32d3851a1ae35c335b934a",
     "created_at": 1755493206,
@@ -9713,6 +9900,17 @@
     "paid": false
   },
   {
+    "slug": null,
+    "event_id": "03f8551bc7c55f0529c59c9fd6eda93b18acfaf7130e3b12d5a887b76d471a98",
+    "created_at": 1755320617,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/03f8551bc7c55f0529c59c9fd6eda93b18acfaf7130e3b12d5a887b76d471a98.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "nostr-the-neutral-protocol-with-a-bitcoin-gravity-well",
     "event_id": "1fd5a29bc14092fdb418c7a7d05f6463cf5044450e53a2eeb30453fc259e2a9b",
     "created_at": 1754851414,
@@ -9721,6 +9919,17 @@
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8/30023/1fd5a29bc14092fdb418c7a7d05f6463cf5044450e53a2eeb30453fc259e2a9b.json",
     "title": "Nostr: The Neutral Protocol With a Bitcoin Gravity Well",
     "summary": "Nostr ia a truly decentralized open protocol for publishing signed events.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "0f274618adeffa64336f66012ca25a95ef97008ac70f43cf2a5320b3559f4992",
+    "created_at": 1753504738,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/0f274618adeffa64336f66012ca25a95ef97008ac70f43cf2a5320b3559f4992.json",
+    "title": "",
+    "summary": "",
     "paid": false
   },
   {
@@ -9776,6 +9985,17 @@
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub16475q7egtklnkaneftqqlrt33sc79h47w92wd93me8ay9ytjkm3qj603xl/30023/4af728dccca1cd1011451cd2ccdfc4165bbb488c1e02c8ecf174f457cdc827a1.json",
     "title": "Turning LinkedIn Data into a Nostr Identity — Milestone v1.4",
     "summary": "In Continuum v1.4, I successfully imported my LinkedIn profile into a sovereign Nostr identity. This article walks through how a LinkedIn export was transformed into a signed kind:0 event — published to relays and viewable inside the Continuum dashboard. It's a major milestone in bridging centralized platforms with decentralized identity.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "a9630bb81d86c1072909a390c12ef822c17c4846f392471bd523b1db05d8d15d",
+    "created_at": 1752349364,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/a9630bb81d86c1072909a390c12ef822c17c4846f392471bd523b1db05d8d15d.json",
+    "title": "",
+    "summary": "",
     "paid": false
   },
   {
@@ -9884,6 +10104,28 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/8c35ff21bfb8ca76a33849ddba6bdc7cdf94c78251bd0bd0a41ad8c9330b0d24.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "b5e7daf0664a13f01689a53cefa417f08e05b25a74801fe83c8525cbedf966b1",
+    "created_at": 1747609136,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/b5e7daf0664a13f01689a53cefa417f08e05b25a74801fe83c8525cbedf966b1.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "e3ecddc258e2ad3067fadfc59caf64a22787512bef0669b1b183ce3f584af4e5",
+    "created_at": 1747511072,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/e3ecddc258e2ad3067fadfc59caf64a22787512bef0669b1b183ce3f584af4e5.json",
     "title": "",
     "summary": "",
     "paid": false
