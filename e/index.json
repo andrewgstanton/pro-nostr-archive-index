@@ -1,5 +1,49 @@
 [
   {
+    "slug": "new-beginnings-are-not-clean-slates-2025-12-31",
+    "event_id": "e2aa5848300c1a49729348ed7f3774b29b341e6da592ec7261e6d8b8408025fc",
+    "created_at": 1767238971,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/e2aa5848300c1a49729348ed7f3774b29b341e6da592ec7261e6d8b8408025fc.json",
+    "title": "New Beginnings Are Not Clean Slates",
+    "summary": "The myth of the clean slate is comforting — and false. Real beginnings carry memory, scars, and continuity. This piece reflects on how true renewal grows not from erasure, but from integrity and forward faithfulness.",
+    "paid": false
+  },
+  {
+    "slug": "carrying-the-fire-forward",
+    "event_id": "200d3af34adefea09841fb18bad155458eeaa1e4bf2bc0ae136a3a0b1696209d",
+    "created_at": 1767238842,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/200d3af34adefea09841fb18bad155458eeaa1e4bf2bc0ae136a3a0b1696209d.json",
+    "title": "Carrying the Fire Forward",
+    "summary": "Not everything must be rebuilt. Some things only need to be protected. This piece closes the year with quiet resolve and blessing.",
+    "paid": false
+  },
+  {
+    "slug": "standing-at-the-threshold",
+    "event_id": "66419223551a17924fd08c27d86199884b346064528affb4383e403821f00367",
+    "created_at": 1767238738,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/66419223551a17924fd08c27d86199884b346064528affb4383e403821f00367.json",
+    "title": "Standing at the Threshold",
+    "summary": "New Year’s Eve is not a launchpad but a doorway. This reflection invites stillness, honesty, and a gentler way of entering what comes next.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "4e60633d7eb22e990c61d783baa578778339e66992d93fd73e4e4858e1a58c1c",
+    "created_at": 1767222546,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/4e60633d7eb22e990c61d783baa578778339e66992d93fd73e4e4858e1a58c1c.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": null,
     "event_id": "92e78e5944aea258840514185a944f64517e4f249b48f0d24e9116467772e44b",
     "created_at": 1767135929,
@@ -7469,6 +7513,17 @@
     "paid": false
   },
   {
+    "slug": null,
+    "event_id": "9061816866328c4111f649d224a7d7dace78ba0a3799c53adf72ebffe7dcde9e",
+    "created_at": 1761765115,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/9061816866328c4111f649d224a7d7dace78ba0a3799c53adf72ebffe7dcde9e.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "free-article-2-oct-29-2025-the-bitcoin-chronicles-the-entanglement-bridge",
     "event_id": "69c432ae864e0650e59617fb8a1a7e310681bb8fd8120968e99e9987856d566b",
     "created_at": 1761760881,
@@ -7510,6 +7565,28 @@
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/e10116d160edf516eea06d672d769c74e7c19a59d4d8dcb264d3b46d05d716bf.json",
     "title": "Free Article 1 (Oct. 28, 2025): The Quiet Proof of Work",
     "summary": "Authorship isn’t proved by applause, credentials, or publication — it’s proved by the persistence of a voice that refuses to disappear. True proof of work is the quiet act of continuing, day after day, when nobody is watching.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "0d96d1b74acf5a7564511b498e654c9c093c2df99bed76ff3e5b351762638c98",
+    "created_at": 1761688966,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/0d96d1b74acf5a7564511b498e654c9c093c2df99bed76ff3e5b351762638c98.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "901b1a532e18d68543b7783ad82af48ab7b4baf1afa33c97cbce24bf866bde80",
+    "created_at": 1761688546,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/901b1a532e18d68543b7783ad82af48ab7b4baf1afa33c97cbce24bf866bde80.json",
+    "title": "",
+    "summary": "",
     "paid": false
   },
   {
