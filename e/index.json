@@ -1,5 +1,49 @@
 [
   {
+    "slug": "-the-bitcoin-chronicles---a0---book-08---the-incorruptible-witness-2025-12-25",
+    "event_id": "d6de8cd68748e8521ddaaac3d80df15104d19e3ccb6c68e50e9bbe51c8376bf4",
+    "created_at": 1767318629,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/d6de8cd68748e8521ddaaac3d80df15104d19e3ccb6c68e50e9bbe51c8376bf4.json",
+    "title": "🔒 The Bitcoin Chronicles - A.0 - Book 0.8 - The Incorruptible Witness",
+    "summary": "Bitcoin does not judge, redeem, or forgive. It witnesses. For the first time in history, humanity lives under a record that cannot be persuaded, revised, or made to forget.",
+    "paid": false
+  },
+  {
+    "slug": "-the-bitcoin-chronicles---a0---book-07---when-scarcity-became-moral-2025-12-25",
+    "event_id": "65307b6c606ed0fae2d046ede5a2f0c9f0fa6c922b23fc7c19206a7cf2db3014",
+    "created_at": 1767318584,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/65307b6c606ed0fae2d046ede5a2f0c9f0fa6c922b23fc7c19206a7cf2db3014.json",
+    "title": "🔒 The Bitcoin Chronicles - A.0 - Book 0.7 - When Scarcity Became Moral",
+    "summary": "Scarcity was never merely economic. It has always been the boundary that turns choice into responsibility. Bitcoin reintroduces scarcity not as punishment, but as moral structure.",
+    "paid": false
+  },
+  {
+    "slug": "-the-btcoin-chronicles---a0---book-06---the-first-ledger-2025-12-25",
+    "event_id": "a40fa4b9bfa257e859bd85c9e760533db9adfd7a9185e818f4b89471b5a611f2",
+    "created_at": 1767318543,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/a40fa4b9bfa257e859bd85c9e760533db9adfd7a9185e818f4b89471b5a611f2.json",
+    "title": "🔒 The Btcoin Chronicles - A.0 -  Book 0.6 - The First Ledger",
+    "summary": "Before money, before markets, before empires — humanity learned to record truth. The Bitcoin Genesis Block marks the moment the ledger itself became sovereign.",
+    "paid": false
+  },
+  {
+    "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
+    "event_id": "8ec1f2456a5f2d761d37b357d5538884211a8aedaa9dbde189be0bd303e4f530",
+    "created_at": 1767318374,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/8ec1f2456a5f2d761d37b357d5538884211a8aedaa9dbde189be0bd303e4f530.json",
+    "title": "The Sovereign Archive: The Canonical Bitcoin Chronicles Index",
+    "summary": "This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.",
+    "paid": false
+  },
+  {
     "slug": "stepping-forward-toward-fruit-2026-01-01",
     "event_id": "4ee1efeb39bb75ff39a52e2f208a2fb399b8e295ba47b8f05790760ac5228885",
     "created_at": 1767299573,
@@ -9059,7 +9103,7 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/6bceab8e077eecaca106bdaa5d382cea1a813628d5cd9005852fbe881277bf12.json",
-    "title": "",
+    "title": "Continuum Magazine — Issue #1 (Sept 1–7, 2025)",
     "summary": "",
     "paid": false
   },
@@ -9070,7 +9114,7 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/310ea15be959a3ea1054fad5c5c03cba5877451b976bf230439580a5b791c80e.json",
-    "title": "",
+    "title": "Remembering Charlie Kirk",
     "summary": "",
     "paid": false
   },
@@ -9873,7 +9917,7 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/4ecb06e5a23bccf1a7e6ba2a8dd5c12a9b26fa99ab389f24f42dc69d900e587a.json",
-    "title": "",
+    "title": "Patron Support",
     "summary": "",
     "paid": false
   },
@@ -9994,7 +10038,7 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/a9630bb81d86c1072909a390c12ef822c17c4846f392471bd523b1db05d8d15d.json",
-    "title": "",
+    "title": "Built Continuum because I needed it — now I want to keep it independent.",
     "summary": "",
     "paid": false
   },
