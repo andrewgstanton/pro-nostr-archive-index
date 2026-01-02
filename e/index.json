@@ -1,5 +1,82 @@
 [
   {
+    "slug": "the-bitcoin-chronicles---a0---book-085---the-day-after-genesis-2025-12-26",
+    "event_id": "2cbb1ff1afbf37055c8f93e75723b57cefe218124030e70d752fc5e84a224fdd",
+    "created_at": 1767327078,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/2cbb1ff1afbf37055c8f93e75723b57cefe218124030e70d752fc5e84a224fdd.json",
+    "title": "🔒The Bitcoin Chronicles - A.0 - Book 0.85 - The Day After Genesis",
+    "summary": "Nothing visibly changed the day after the Bitcoin Genesis Block. And yet, everything had already become different.",
+    "paid": false
+  },
+  {
+    "slug": "-the-bitcoin-chronicles---a0---book-090---why-the-old-world-could-not-follow-2025-12-26",
+    "event_id": "b21192176072b50ef21ff56c72e8ee81fd726d577a3c02d499aeccc2b92c1449",
+    "created_at": 1767327023,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/b21192176072b50ef21ff56c72e8ee81fd726d577a3c02d499aeccc2b92c1449.json",
+    "title": "🔒 The Bitcoin Chronicles - A.0 - Book 0.90 - Why The Old World Could Not Follow",
+    "summary": "The world did not reject the Genesis Block out of ignorance or malice. It could not follow because it was built on assumptions the new ledger quietly invalidated.",
+    "paid": false
+  },
+  {
+    "slug": "-the-bitcoin-chronicles---a0---book-095---the-long-delayquiet-continuity-2025-12-26",
+    "event_id": "8381f881e2e23e1aff8a572c0b448057da95a8737d79bec53e7a8a6963b930be",
+    "created_at": 1767326963,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/8381f881e2e23e1aff8a572c0b448057da95a8737d79bec53e7a8a6963b930be.json",
+    "title": "🔒 The Bitcoin Chronicles - A.0 - Book 0.95 - The Long Delay/Quiet Continuity",
+    "summary": "Between truth and transformation lies delay. The ledger ran. The world continued. And history waited.",
+    "paid": false
+  },
+  {
+    "slug": "-the-bitcoin-chronicles---a0---book-08---the-incorruptible-witness-2025-12-25",
+    "event_id": "cdd23390c74ea2c12319346295e436133f2a95b97ef233d7291a7e566a63bc71",
+    "created_at": 1767326884,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/cdd23390c74ea2c12319346295e436133f2a95b97ef233d7291a7e566a63bc71.json",
+    "title": "🔒 The Bitcoin Chronicles - A.0 - Book 0.8 - The Incorruptible Witness",
+    "summary": "Bitcoin does not judge, redeem, or forgive. It witnesses. For the first time in history, humanity lives under a record that cannot be persuaded, revised, or made to forget.",
+    "paid": false
+  },
+  {
+    "slug": "-the-bitcoin-chronicles---a0---book-07---when-scarcity-became-moral-2025-12-25",
+    "event_id": "5a90381bfbb1227257b0ceedc40663d4b7438eb6638fc61c21195c5d18322472",
+    "created_at": 1767326840,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/5a90381bfbb1227257b0ceedc40663d4b7438eb6638fc61c21195c5d18322472.json",
+    "title": "🔒 The Bitcoin Chronicles - A.0 - Book 0.7 - When Scarcity Became Moral",
+    "summary": "Scarcity was never merely economic. It has always been the boundary that turns choice into responsibility. Bitcoin reintroduces scarcity not as punishment, but as moral structure.",
+    "paid": false
+  },
+  {
+    "slug": "-the-btcoin-chronicles---a0---book-06---the-first-ledger-2025-12-25",
+    "event_id": "d2fdb9883b879a92ea1ccbc9eb983081e82fa0233de3965a996cf35f845774a5",
+    "created_at": 1767326754,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/d2fdb9883b879a92ea1ccbc9eb983081e82fa0233de3965a996cf35f845774a5.json",
+    "title": "🔒 The Btcoin Chronicles - A.0 -  Book 0.6 - The First Ledger",
+    "summary": "Before money, before markets, before empires — humanity learned to record truth. The Bitcoin Genesis Block marks the moment the ledger itself became sovereign.",
+    "paid": false
+  },
+  {
+    "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
+    "event_id": "a256a6cbed5741d94bdae3a394977543ade7b0cdaea5328c3a27647c8b1d0f58",
+    "created_at": 1767323784,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/a256a6cbed5741d94bdae3a394977543ade7b0cdaea5328c3a27647c8b1d0f58.json",
+    "title": "The Sovereign Archive: The Canonical Bitcoin Chronicles Index",
+    "summary": "This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.",
+    "paid": false
+  },
+  {
     "slug": "-the-bitcoin-chronicles---a0---book-08---the-incorruptible-witness-2025-12-25",
     "event_id": "d6de8cd68748e8521ddaaac3d80df15104d19e3ccb6c68e50e9bbe51c8376bf4",
     "created_at": 1767318629,
