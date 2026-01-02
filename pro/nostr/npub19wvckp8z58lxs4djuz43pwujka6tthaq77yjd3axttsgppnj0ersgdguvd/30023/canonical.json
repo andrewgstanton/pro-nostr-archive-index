@@ -1384,7 +1384,7 @@
     "latest_year": 2025
   },
   "the-sovereign-archive-the-canonical-bitcoin-chronicles-index": {
-    "latest_event_id": "8ec1f2456a5f2d761d37b357d5538884211a8aedaa9dbde189be0bd303e4f530",
+    "latest_event_id": "a256a6cbed5741d94bdae3a394977543ade7b0cdaea5328c3a27647c8b1d0f58",
     "latest_year": 2026
   },
   "patron-support-continuum": {
@@ -2092,15 +2092,27 @@
     "latest_year": 2026
   },
   "-the-bitcoin-chronicles---a0---book-08---the-incorruptible-witness-2025-12-25": {
-    "latest_event_id": "d6de8cd68748e8521ddaaac3d80df15104d19e3ccb6c68e50e9bbe51c8376bf4",
+    "latest_event_id": "cdd23390c74ea2c12319346295e436133f2a95b97ef233d7291a7e566a63bc71",
     "latest_year": 2026
   },
   "-the-bitcoin-chronicles---a0---book-07---when-scarcity-became-moral-2025-12-25": {
-    "latest_event_id": "65307b6c606ed0fae2d046ede5a2f0c9f0fa6c922b23fc7c19206a7cf2db3014",
+    "latest_event_id": "5a90381bfbb1227257b0ceedc40663d4b7438eb6638fc61c21195c5d18322472",
     "latest_year": 2026
   },
   "-the-btcoin-chronicles---a0---book-06---the-first-ledger-2025-12-25": {
-    "latest_event_id": "a40fa4b9bfa257e859bd85c9e760533db9adfd7a9185e818f4b89471b5a611f2",
+    "latest_event_id": "d2fdb9883b879a92ea1ccbc9eb983081e82fa0233de3965a996cf35f845774a5",
+    "latest_year": 2026
+  },
+  "the-bitcoin-chronicles---a0---book-085---the-day-after-genesis-2025-12-26": {
+    "latest_event_id": "2cbb1ff1afbf37055c8f93e75723b57cefe218124030e70d752fc5e84a224fdd",
+    "latest_year": 2026
+  },
+  "-the-bitcoin-chronicles---a0---book-090---why-the-old-world-could-not-follow-2025-12-26": {
+    "latest_event_id": "b21192176072b50ef21ff56c72e8ee81fd726d577a3c02d499aeccc2b92c1449",
+    "latest_year": 2026
+  },
+  "-the-bitcoin-chronicles---a0---book-095---the-long-delayquiet-continuity-2025-12-26": {
+    "latest_event_id": "8381f881e2e23e1aff8a572c0b448057da95a8737d79bec53e7a8a6963b930be",
     "latest_year": 2026
   }
 }
