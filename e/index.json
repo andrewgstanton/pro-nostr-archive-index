@@ -1,5 +1,115 @@
 [
   {
+    "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
+    "event_id": "92d18e1a979faa74a5871043232f12b28a32bf0d9956d8e798193a0871c29f46",
+    "created_at": 1767472578,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/92d18e1a979faa74a5871043232f12b28a32bf0d9956d8e798193a0871c29f46.json",
+    "title": "The Sovereign Archive: The Canonical Bitcoin Chronicles Index",
+    "summary": "This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.",
+    "paid": false
+  },
+  {
+    "slug": "the-bitcoin-chronicles---1d9---the-cost-of-saying-no-2025-12-30",
+    "event_id": "e70b87d15e7ea34602afc69f2e17cba25bcbd8cd694894f4a2d9a5c069d346ac",
+    "created_at": 1767472299,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/e70b87d15e7ea34602afc69f2e17cba25bcbd8cd694894f4a2d9a5c069d346ac.json",
+    "title": "🔒 The Bitcoin Chronicles - 1.D.8 - The Cost of Saying No",
+    "summary": "Refusing jurisdiction is simple. Living without its protection is not.",
+    "paid": false
+  },
+  {
+    "slug": "the-bitcoin-chronicles---1d8---forum-shopping-2025-12-30",
+    "event_id": "87ab5adc45fcd339f43ad5fd20cf4fc52e39e6074f6507dfc7c0de64e4e6dd2f",
+    "created_at": 1767472229,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/87ab5adc45fcd339f43ad5fd20cf4fc52e39e6074f6507dfc7c0de64e4e6dd2f.json",
+    "title": "🔒 The Bitcoin Chronicles - 1.D.7 - Forum Shopping",
+    "summary": "When law moves, participants learn how to chase outcomes.",
+    "paid": false
+  },
+  {
+    "slug": "the-bitcoin-chronicles---1d7---too-late-to-matter-2025-12-30",
+    "event_id": "99c8957b4402aa2689911b1b87b18de0121c1bd23bee04de35c1620c19f80afd",
+    "created_at": 1767472167,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/99c8957b4402aa2689911b1b87b18de0121c1bd23bee04de35c1620c19f80afd.json",
+    "title": "🔒 The Bitcoin Chronicles - 1.D.6 - Too Late to Matter",
+    "summary": "In the Belt, justice that arrives late is not justice. It is documentation.",
+    "paid": false
+  },
+  {
+    "slug": "the-bitcoin-chronicles---1d6---the-price-of-stability-2025-12-29",
+    "event_id": "3f4deb01b65e635274f61d0974aa6d231726592a30f4e23562785e12683fa3c9",
+    "created_at": 1767472101,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/3f4deb01b65e635274f61d0974aa6d231726592a30f4e23562785e12683fa3c9.json",
+    "title": "🔒 The Bitcoin Chronicles - 1.D.5 - The Price of Stability",
+    "summary": "Insurance did not return to the Belt as control. It returned as comfort.",
+    "paid": false
+  },
+  {
+    "slug": "the-bitcoin-chronicles---1d5---the-black-channels-2025-12-29",
+    "event_id": "c965ab581a0bfedb35dd447017cb39f0cc61f6d12db911eb00083d03aeac7780",
+    "created_at": 1767472044,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/c965ab581a0bfedb35dd447017cb39f0cc61f6d12db911eb00083d03aeac7780.json",
+    "title": "🔒 The Bitcoin Chronicles - 1.D.4 - The Black Channels",
+    "summary": "When arbitration arrives too late, settlement does not disappear. It goes underground.",
+    "paid": false
+  },
+  {
+    "slug": "the-bitcoin-chronicles---1d4---fuel-is-law-2025-12-29",
+    "event_id": "2b3b32a057d17f574253260082bfe141ed3c6b769c4641683a256206b2327622",
+    "created_at": 1767471973,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/2b3b32a057d17f574253260082bfe141ed3c6b769c4641683a256206b2327622.json",
+    "title": "🔒 The Bitcoin Chronicles - 1.D.3 - Fuel is Law",
+    "summary": "In the Belt, truth without logistics is still a lie. Arbitration learned this the hard way.",
+    "paid": false
+  },
+  {
+    "slug": "the-bitcoin-chronicles---1e1---the-distance-that-broke-agreement-2026-01-02",
+    "event_id": "8ab54074fc2c4e8947beca06f12b553f69834caf727d015b8d7e7444114f2c4d",
+    "created_at": 1767471020,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/8ab54074fc2c4e8947beca06f12b553f69834caf727d015b8d7e7444114f2c4d.json",
+    "title": "🔒 The Bitcoin Chronicles - 1.E.1 - The Distance That Broke Agreement",
+    "summary": "When arbitration could no longer arrive in time, legitimacy had to survive without reply.",
+    "paid": false
+  },
+  {
+    "slug": "the-bitcoin-chronicles---1e2---the-long-commit-2026-01-02",
+    "event_id": "93e233f7429406f147cc20f8a14247f13bef1fb936abe68d8951e5c87dd74ae4",
+    "created_at": 1767470957,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/93e233f7429406f147cc20f8a14247f13bef1fb936abe68d8951e5c87dd74ae4.json",
+    "title": "🔒 The Bitcoin Chronicles - 1.E.2 - The Long Commit",
+    "summary": "Interplanetary legitimacy was not chosen. It was committed, time-locked, and later reconciled—if reconciliation arrived at all.",
+    "paid": false
+  },
+  {
+    "slug": "the-bitcoin-chronicles---1e3---authority-without-applause-2026-01-02",
+    "event_id": "63393a1d8dc9e8e51a4a268dc0cdd1ee8f14e683a858448a085e0891b9a307d5",
+    "created_at": 1767470888,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/63393a1d8dc9e8e51a4a268dc0cdd1ee8f14e683a858448a085e0891b9a307d5.json",
+    "title": "🔒 The Bitcoin Chronicles - 1.E.3 - Authority Without Applause",
+    "summary": "Legitimacy no longer waited to be recognized. It acted, endured silence, and expired.",
+    "paid": false
+  },
+  {
     "slug": "the-bitcoin-chronicles---a0---book-085---the-day-after-genesis-2025-12-26",
     "event_id": "2cbb1ff1afbf37055c8f93e75723b57cefe218124030e70d752fc5e84a224fdd",
     "created_at": 1767327078,
