@@ -1384,7 +1384,7 @@
     "latest_year": 2025
   },
   "the-sovereign-archive-the-canonical-bitcoin-chronicles-index": {
-    "latest_event_id": "92d18e1a979faa74a5871043232f12b28a32bf0d9956d8e798193a0871c29f46",
+    "latest_event_id": "69d8c581dadccce48697f49b086e46c3e91a4c7a741f63dabca826baffe76cbe",
     "latest_year": 2026
   },
   "patron-support-continuum": {
@@ -2149,6 +2149,22 @@
   },
   "the-bitcoin-chronicles---1e3---authority-without-applause-2026-01-02": {
     "latest_event_id": "63393a1d8dc9e8e51a4a268dc0cdd1ee8f14e683a858448a085e0891b9a307d5",
+    "latest_year": 2026
+  },
+  "how-i-publish-long-form-sovereign-work--and-why-i-also-use-substack": {
+    "latest_event_id": "c6fcc3e17961bb9028ab217e60d47d54add675338783b395819153eae8683186",
+    "latest_year": 2026
+  },
+  "sabbath-article-jan-3-2026-the-first-sabbath-of-2026-is-a-line-in-time": {
+    "latest_event_id": "cf416a074ea386507d4d32e94d646d7f3be50cca9006620f778e854a6c87c998",
+    "latest_year": 2026
+  },
+  "free-article-2-jan-3-2026-fast-food-capitalism-and-the-hunger-it-cannot-satisfy": {
+    "latest_event_id": "637dcf194af3197974b49aa4fa60f726b3219b0823db6bc48cadd42c76ddee2a",
+    "latest_year": 2026
+  },
+  "free-article-1-jan-3-2026-bitcoin-nostr-and-the-structure-of-sovereignty": {
+    "latest_event_id": "a8395b6f8cb386567e148cb8613444d1e8035c5c996fb1f9ba6415be11e3253b",
     "latest_year": 2026
   }
 }
