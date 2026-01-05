@@ -55,6 +55,39 @@
     "paid": false
   },
   {
+    "slug": "-the-bitcoin-chronicles---1f5---rumors-of-simultaneity-2026-01-05",
+    "event_id": "1c7a6261ac580fb93091f4a30985d60b3831b9d999ed7ae5ed8d1c8c709cf014",
+    "created_at": 1767642769,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/1c7a6261ac580fb93091f4a30985d60b3831b9d999ed7ae5ed8d1c8c709cf014.json",
+    "title": "🔒 The Bitcoin Chronicles - 1.F.5 - Rumors of Simultaneity",
+    "summary": "Long before simultaneity became operational, it existed as rumor—circulating through sealed labs, cautious grants, and private unease. This essay traces how the possibility of shared time unsettled a civilization shaped by delay.",
+    "paid": false
+  },
+  {
+    "slug": "the-bitcoin-chronicles---1f3---the-point-of-no-return-2026-01-05",
+    "event_id": "623c4865bd80caea11d74714fd597457e541f1f77d19cf9faa82ab992af3a22c",
+    "created_at": 1767642604,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/623c4865bd80caea11d74714fd597457e541f1f77d19cf9faa82ab992af3a22c.json",
+    "title": "🔒 The Bitcoin Chronicles - 1.F.3 - The Point of No Return",
+    "summary": "Before entanglement narrowed the Solar System again, distance forced humanity to become many civilizations in practice. This essay explores how that divergence formed, and why later simultaneity could reconnect infrastructure without erasing what delay had already written into culture.",
+    "paid": false
+  },
+  {
+    "slug": "the-bitcoin-chronicles---1f4---the-long-silence-2026-01-05",
+    "event_id": "5ea14f191a19c75abde76c54fd8a838dd2ba3801892359a5851b97d6bb2c101d",
+    "created_at": 1767642539,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/5ea14f191a19c75abde76c54fd8a838dd2ba3801892359a5851b97d6bb2c101d.json",
+    "title": "🔒 The Bitcoin Chronicles - 1.F.4 - The Long Silence",
+    "summary": "For more than a century, humanity lived without reply. This essay examines the generation shaped by delay—not as deprivation, but as discipline—and how silence formed the moral substrate that later made entanglement feel destabilizing rather than liberating.",
+    "paid": false
+  },
+  {
     "slug": null,
     "event_id": "07732968c9aef521acd7492b6614c0e11da2bbb1cba908643e621ab98abf25f0",
     "created_at": 1767600547,
@@ -63,6 +96,39 @@
     "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/07732968c9aef521acd7492b6614c0e11da2bbb1cba908643e621ab98abf25f0.json",
     "title": "",
     "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "free-article-1-jan-4-2026-renewal-begins-with-rest",
+    "event_id": "d8b22c9d14642e9262092a6f0ba48cfbf5ee85093b6e8efb2859d9105d5c3191",
+    "created_at": 1767587822,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/d8b22c9d14642e9262092a6f0ba48cfbf5ee85093b6e8efb2859d9105d5c3191.json",
+    "title": "Free Article 1 (Jan. 4, 2026): Renewal Begins With Rest",
+    "summary": "True renewal does not begin with ambition, planning, or self-improvement. It begins with rest. The first Sunday of the New Year invites us to stop striving and remember who we are before we try to become anything else.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-jan-4-2026-you-do-not-have-to-become-someone-new",
+    "event_id": "35b6f1c6da00b65942f32640e53bb69636048ddf364d145bee3f4775a2b9748c",
+    "created_at": 1767587768,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/35b6f1c6da00b65942f32640e53bb69636048ddf364d145bee3f4775a2b9748c.json",
+    "title": "Free Article 2 (Jan. 4, 2026): You Do Not Have to Become Someone New",
+    "summary": "The New Year often pressures us to reinvent ourselves. But renewal is not reinvention—it is remembering who we already are, and shedding what no longer belongs.",
+    "paid": false
+  },
+  {
+    "slug": "sunday-article-jan-4-2026-renewal-is-not-urgency",
+    "event_id": "d6bd7993f7731368bc77ccbb248c6c6bc0b6aa58836aff3e9e69fe087232917f",
+    "created_at": 1767587703,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/d6bd7993f7731368bc77ccbb248c6c6bc0b6aa58836aff3e9e69fe087232917f.json",
+    "title": "Sunday Article (Jan. 4, 2026): Renewal Is Not Urgency",
+    "summary": "Urgency is often mistaken for purpose. But true renewal unfolds slowly, faithfully, and without panic. The first Sunday of the year invites us into a different rhythm—one rooted in trust rather than pressure.",
     "paid": false
   },
   {
@@ -118,6 +184,17 @@
     "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/8347a6983080b06285f6d644bcbc27b0c70296d69cbf49ad79269d4b0aec39b7.json",
     "title": "Renewal - 1/4/2026",
     "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "small-steps-still-count",
+    "event_id": "90368a64b2e0c120d2498cbbb3fc32ad468477d4514f3c2a2b22890415db5eab",
+    "created_at": 1767512843,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/90368a64b2e0c120d2498cbbb3fc32ad468477d4514f3c2a2b22890415db5eab.json",
+    "title": "Small Steps Still Count",
+    "summary": "Freedom grows quietly — one sustainable choice at a time.",
     "paid": false
   },
   {
@@ -8454,7 +8531,7 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/1fb26871ecfdf6c8b012e9dfaa0ea59df967f963ac782ce105c8a5b81ca3f08f.json",
-    "title": "",
+    "title": "Patron Support Update",
     "summary": "",
     "paid": false
   },
@@ -8465,7 +8542,7 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/b5eba8bf59ea3b2b16765360fdefa36244c011233dd30e04b8049d9164f330bd.json",
-    "title": "",
+    "title": "Patron Support",
     "summary": "",
     "paid": false
   },
@@ -8476,7 +8553,7 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/44df50756f3e0b3bbeff36cf66b4b1a249016f358d81662208f9558851a8004d.json",
-    "title": "",
+    "title": "The Fiat Trash Culture Teaser (Oct. 22, 2025)",
     "summary": "",
     "paid": false
   },
@@ -9081,7 +9158,7 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/fc0da0507750efec6960e5167717423d95495a9d2a59a7723b5c2fc4d3ef1323.json",
-    "title": "",
+    "title": "200 Articles of Freedom",
     "summary": "",
     "paid": false
   },
@@ -9620,7 +9697,7 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/0cafdf4e5ac2ed22a881d9872d2824762cea8754b735cc0282e5f64fb8f422f4.json",
-    "title": "",
+    "title": "# demoing nostr to  a family member on continuum!",
     "summary": "",
     "paid": false
   },
@@ -9823,13 +9900,24 @@
     "paid": false
   },
   {
+    "slug": "free-article-1-sept-12-2025-mlm-and-web3-two-sides-of-the-same-pyramid",
+    "event_id": "2da9e64a1d2c8efe34dec5759044cba264012471229b87225b48070cccdc40a3",
+    "created_at": 1757793495,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/2da9e64a1d2c8efe34dec5759044cba264012471229b87225b48070cccdc40a3.json",
+    "title": "Free Article 1 (Sept. 12, 2025): MLM and Web3: Two Sides of the Same Pyramid",
+    "summary": "Both multi-level marketing (MLM) and Web3 projects sell the same dream: financial freedom, lifestyle independence, and passive income. My short stint inside World Financial Group in 2023–2024 helped me recognize the same structural flaws now playing out across Web3. The names and technology change. The math doesn’t.",
+    "paid": false
+  },
+  {
     "slug": null,
     "event_id": "556f365160619a506452723c651967a1a58dae3f8810eb31887fdae57aa641f9",
     "created_at": 1757792919,
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/556f365160619a506452723c651967a1a58dae3f8810eb31887fdae57aa641f9.json",
-    "title": "",
+    "title": "MLM and Web3: Two Sides of the Same Pyramid",
     "summary": "",
     "paid": false
   },
@@ -9939,7 +10027,7 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/c9245928510ddb7ee69916b7efb5fec7e43977034a15c7b8eab037d6eccc466d.json",
-    "title": "",
+    "title": "Sept. 9, 2025",
     "summary": "",
     "paid": false
   },
@@ -9950,7 +10038,7 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/b74a1613e05819d4edac83a0d468c96bcf6a9377158f8afdb8c394cd637d26dc.json",
-    "title": "",
+    "title": "Sept. 10, 2025 - Charlie Kirk",
     "summary": "",
     "paid": false
   },
@@ -9985,6 +10073,28 @@
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/880eb887bb5d5b48285bd2e2ed49af5374f464c7971f899ba9a2cdb34d197b8a.json",
     "title": "Paid Article Teaser (Sept. 8, 2025): The Unifier, The Turning, and The Threshold: Bitcoin and the Long Arc of Prophecy",
     "summary": "This essay explores three great transitions — the Unifier, the Turning, and the Threshold — as markers in humanity’s far future. It argues that Bitcoin is not only the money of our time, but the civilizational pillar that could sustain sovereignty across the next 2000 years.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-sept-7-2025-why-hope-rises-with-the-dawn",
+    "event_id": "2d8f9116fdc886424c3b47beed13cf91dd93aa9bd234c93f42099313adccb3c6",
+    "created_at": 1757265303,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/2d8f9116fdc886424c3b47beed13cf91dd93aa9bd234c93f42099313adccb3c6.json",
+    "title": "Free Article 2 (Sept. 7, 2025): Why Hope Rises With the Dawn",
+    "summary": "A hopeful meditation on dawn as a symbol of renewal. Connects Bitcoin and sovereignty to the daily rhythm of light overcoming darkness, reminding readers that hope is always possible.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-1-sept-7-2025-the-first-day-a-new-beginning-for-a-sovereign-age",
+    "event_id": "e7a2afe719ad9056c5cf72e3bc9d34cd5e0a6563cf67a7d47a57e51a3d5dff20",
+    "created_at": 1757265257,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/e7a2afe719ad9056c5cf72e3bc9d34cd5e0a6563cf67a7d47a57e51a3d5dff20.json",
+    "title": "Free Article 1 (Sept. 7, 2025): The First Day: A New Beginning for a Sovereign Age",
+    "summary": "Reflects on the symbolism of Sunday as the first day of the week, connecting it to sovereignty and Bitcoin as opportunities for renewal and new beginnings.",
     "paid": false
   },
   {
@@ -10161,6 +10271,39 @@
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/b554209e69db76c65f1ddbd223a80cec2ca3e86fea13a1f642a6f20a9399080c.json",
     "title": "The Cathedral and the Bazaar Revisited: Bitcoin, Sovereignty, and the End of Disposable Tech",
     "summary": "Eric Raymond’s The Cathedral and the Bazaar framed open source as a choice between permanence and openness. But Bitcoin and Nostr reveal a new model: cathedrals and bazaars together. Bitcoin is incorruptible property; Nostr is open experimentation. Together they fuse sovereignty with creativity — enduring cathedrals alive with bazaar energy.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-2-web3s-mirage--tokens-ownership-and-the-return-of-disposability",
+    "event_id": "efbb340f135e23896fa79fe227ac127884afaebc5d05b99976924dd41cf53e19",
+    "created_at": 1756832275,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/efbb340f135e23896fa79fe227ac127884afaebc5d05b99976924dd41cf53e19.json",
+    "title": "Free Article 2 (Sept. 2, 2025): Web3’s Mirage — Tokens, Ownership, and the Return of Disposability",
+    "summary": "Web3 promised permanence but delivered disposability. From EOS to Terra/LUNA, FTX to OpenSea, its projects collapsed when the hype faded. The ownership it offered was a mirage. Bitcoin alone provides incorruptible property that endures.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-1-sept-2-2025-lessons-from-web2--the-rise-and-fall-of-disposable-platforms",
+    "event_id": "21f51627189b50d71cb9a59696977b1a668e8f6ec306ba5cd4e2d3062b0c62b5",
+    "created_at": 1756831315,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/21f51627189b50d71cb9a59696977b1a668e8f6ec306ba5cd4e2d3062b0c62b5.json",
+    "title": "Free Article 1 (Sept. 2, 2025): Lessons from Web2 — The Rise and Fall of Disposable Platforms",
+    "summary": "From MySpace to Skype, Web2 promised permanence but delivered disposability. Users invested their labor into platforms they did not own, only to lose everything when hype or competition overtook them. The lesson: platforms are fragile, but Bitcoin offers property that endures.",
+    "paid": false
+  },
+  {
+    "slug": "paid-article-teaser-sept-2-2025--disposable-or-enduring",
+    "event_id": "643d8166067657ac1c454db7723ef85e867a799e7aab15f77afc3ee8e077c6aa",
+    "created_at": 1756827311,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/643d8166067657ac1c454db7723ef85e867a799e7aab15f77afc3ee8e077c6aa.json",
+    "title": "Paid Article Teaser (Sept. 2, 2025) :  Disposable or Enduring?",
+    "summary": "When hype fades, disposable tech leaves us with nothing. Bitcoin leaves us with property that endures.",
     "paid": false
   },
   {
@@ -10368,7 +10511,7 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/9121d6c4ca7b1104c9f6214fc9c3ff424c9a6ceb8e6c0891f207c81919889e34.json",
-    "title": "",
+    "title": "🚀 Milestone Reached",
     "summary": "",
     "paid": false
   },
@@ -10458,6 +10601,17 @@
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/45e47f1bff5b6a5a3557cb7069237c7a7a3134b5839664a1a991ef66cd66db28.json",
     "title": "Paid Article Teaser (Day 4 - Aug. 27, 2025): 🌕 Life on the Moon, Paid in Sats 🚀",
     "summary": "A glimpse into a future where moon colonists earn and trade in Bitcoin, free from Earth-bound banks. This teaser sets the stage for how sats become the lifeblood of survival and commerce on a lunar settlement.",
+    "paid": false
+  },
+  {
+    "slug": "free-article-1-day-4---aug-27-2025--latency-living-beyond-the-delay",
+    "event_id": "786f380399d6353221186ba10491fee5135ea853ae6dfb19c4d884a1656d1479",
+    "created_at": 1756410172,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/786f380399d6353221186ba10491fee5135ea853ae6dfb19c4d884a1656d1479.json",
+    "title": "Free Article 1 (Day 4 - Aug. 27, 2025) : Latency: Living Beyond the Delay",
+    "summary": "Latency isn’t just a technical hiccup — for Moon settlers it will reshape conversation, commerce, and trust. Learning to thrive with delay is as important for Earth’s fractured internet as it is for life off-world.",
     "paid": false
   },
   {
@@ -10560,6 +10714,28 @@
     "paid": false
   },
   {
+    "slug": "npubs--signed-messages-replacing-logins",
+    "event_id": "3590d06ec25a8c723b66bd073af8f82363c75eb25430e1de9c5b5b2c5504144a",
+    "created_at": 1756172630,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/3590d06ec25a8c723b66bd073af8f82363c75eb25430e1de9c5b5b2c5504144a.json",
+    "title": "Npubs + Signed Messages: Replacing Logins",
+    "summary": "How npubs and cryptographic signatures can replace email/password logins.",
+    "paid": false
+  },
+  {
+    "slug": "white-paper-sovereign-credit",
+    "event_id": "2aca30f0c8109390aa7b81bc337999a374c2d5df1c20ce5a93b959a0cdee0740",
+    "created_at": 1756171785,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/2aca30f0c8109390aa7b81bc337999a374c2d5df1c20ce5a93b959a0cdee0740.json",
+    "title": "White Paper: Sovereign Credit",
+    "summary": "How Nostr can form the foundation of a sovereign credit score built on proofs, not surveillance.",
+    "paid": false
+  },
+  {
     "slug": "sovereign--decentralized",
     "event_id": "121daf06c6c80764a12958a0c23899a30cf5cf749d18c242d77b32e196c9ceb5",
     "created_at": 1756166130,
@@ -10568,6 +10744,17 @@
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/121daf06c6c80764a12958a0c23899a30cf5cf749d18c242d77b32e196c9ceb5.json",
     "title": "🔒 Paid Article Teaser (Day 1 – Aug. 24, 2025) : Sovereign ≠ Decentralized",
     "summary": "Why sovereignty goes deeper than decentralization — and why confusing the two leaves us exposed.",
+    "paid": false
+  },
+  {
+    "slug": "-bitcoin-as-treasury-not-trade",
+    "event_id": "cdf8be61be9cfca95fb2b14c6b4e326842cadce8c42c9284f65b29d825e411d3",
+    "created_at": 1756166043,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/cdf8be61be9cfca95fb2b14c6b4e326842cadce8c42c9284f65b29d825e411d3.json",
+    "title": "🔒 Paid Article Teaser (Day 2 - Aug. 25, 2025) : Bitcoin as Treasury, Not Trade",
+    "summary": "Why I denominate wealth in Bitcoin instead of chasing endless fiat gains.",
     "paid": false
   },
   {
@@ -10604,6 +10791,17 @@
     "paid": false
   },
   {
+    "slug": "-article-2-three-questions-to-test-sovereignty",
+    "event_id": "5bbef28dba37f6674780a3ff3eb511bc7492ae1d128685ddeb454ad915bae897",
+    "created_at": 1756159176,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/5bbef28dba37f6674780a3ff3eb511bc7492ae1d128685ddeb454ad915bae897.json",
+    "title": "📝 Free Article 2 (Day 1 - Aug. 24, 2025): Three Questions to Test Sovereignty",
+    "summary": "A simple test you can apply to any platform, network, or income stream.",
+    "paid": false
+  },
+  {
     "slug": "entangled-science-scripture-and-sovereign-technology",
     "event_id": "cdbe5bea347bf5335d5b3ccc2494519ee22ef67d0cc42c504093328fcb218000",
     "created_at": 1756090277,
@@ -10621,7 +10819,7 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/b38074822112a37d5c77438f239c3be43300bc8d4ea640fceca6117fe4974261.json",
-    "title": "",
+    "title": "Sovereign Publishing",
     "summary": "",
     "paid": false
   },
@@ -10632,7 +10830,7 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/a1977d483f3e132a0a18f9c6a0436a88b0dc5b5a062bb5a99dbd59618a82bc74.json",
-    "title": "",
+    "title": "Just shipped my first sovereign gated article through Continuum → Primal.",
     "summary": "",
     "paid": false
   },
@@ -10643,8 +10841,19 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/0c08a1fcf94c6caea8d418796697f78ef83594e10c31d7eaa7038c55afe8cdde.json",
-    "title": "",
+    "title": "Today's Milestones - Akamaister/Continuum Aug 22, 2025",
     "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "part-4-judgment-as-purification-not-final-defeat",
+    "event_id": "732cee2d55ae9fa76403d4f8434f49a0a63c24aeb309529e8fd4080078c8584a",
+    "created_at": 1755997674,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/732cee2d55ae9fa76403d4f8434f49a0a63c24aeb309529e8fd4080078c8584a.json",
+    "title": "Part 4: Judgment as Purification, Not Final Defeat",
+    "summary": "This is part 4 and the final part of our series.  Judgment in Scripture is real and severe, but never final defeat. Its purpose is purification, not endless torment. The fire burns away what cannot last, so that reconciliation and restoration may come.",
     "paid": false
   },
   {
@@ -10687,8 +10896,19 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/cf58ab3a227a5c080301d510b305e3dd6bb19a5d1485250b8fe9b79b7e8e1e41.json",
-    "title": "",
+    "title": "Today's Milestones - Akamaister/Continuum Aug 22, 2025",
     "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "the-bitcoin-chronicles-toward-the-stars---full-series",
+    "event_id": "bf1b00539626d122d89ac0fbe48609bb7c47bbecdb7419440cc83ba666857d18",
+    "created_at": 1755902682,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/bf1b00539626d122d89ac0fbe48609bb7c47bbecdb7419440cc83ba666857d18.json",
+    "title": "The Bitcoin Chronicles: Toward the Stars - Full Series",
+    "summary": "The Bitcoin Chronicles: Toward the Stars is a six-part exploration of how Bitcoin could evolve as humanity expands beyond Earth — to the Moon, Mars, the asteroid belt, and the far edges of the solar system. Each part imagines the challenges of latency, energy, and trust in interplanetary life, and shows how Bitcoin’s unique design makes it more than money: a civilizational memory system that binds scattered colonies across ages and worlds, not by empire or fiat, but by physics and time.",
     "paid": false
   },
   {
@@ -10786,7 +11006,7 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/539007bd21d7f55bebe036abb47e4731fd2d52def946c12bc7d07207eed782b3.json",
-    "title": "",
+    "title": "Today's Milestones - Akamaister/Continuum Aug 21, 2025",
     "summary": "",
     "paid": false
   },
@@ -10830,8 +11050,19 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/cdb8df075eebdbfdffe371cf693cc3da7dfbc708e470c24c882c4d770ce3f5d3.json",
-    "title": "",
+    "title": "Today's Milestones - Akamaister/Continuum",
     "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "odd-and-at-home-in-the-open-field",
+    "event_id": "9d6af3ec44b8fa6c6763db733a5b25d012b63b336d47a31498460d6b500e4d93",
+    "created_at": 1755739855,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/9d6af3ec44b8fa6c6763db733a5b25d012b63b336d47a31498460d6b500e4d93.json",
+    "title": "Odd, and at Home in the Open Field",
+    "summary": "This article highlights how Nostr opened new ways of thinking for me.",
     "paid": false
   },
   {
@@ -10967,6 +11198,61 @@
     "paid": false
   },
   {
+    "slug": "truth-reveals-itself-in-paradoxes",
+    "event_id": "0c3dd95eda8333eed56e7eee3d31a6e2b8f477db7d1436ac7ce4e0bf60514d7c",
+    "created_at": 1755482043,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/0c3dd95eda8333eed56e7eee3d31a6e2b8f477db7d1436ac7ce4e0bf60514d7c.json",
+    "title": "Truth Reveals Itself in Paradoxes",
+    "summary": "This article explores how truth often reveals itself in paradox — from the paradoxes of creation and physics, to theology, history, and human innovation. From light being both particle and wave, to the Internet’s origins as a Cold War project of centralization that birthed global decentralization, paradoxes point us to a higher logic beyond human categories. Ultimately, the Cross remains the greatest paradox of all: death that gives life, defeat that is victory.",
+    "paid": false
+  },
+  {
+    "slug": "the-parable-of-bitcoin",
+    "event_id": "e5c85b0192d65d0fb01cd6e742414a643cf35a279e3f9a9ddc18cb9549bf44f3",
+    "created_at": 1755479905,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/e5c85b0192d65d0fb01cd6e742414a643cf35a279e3f9a9ddc18cb9549bf44f3.json",
+    "title": "The Parable of Bitcoin",
+    "summary": "The Parable of Bitcoin explores how Bitcoin functions not just as technology, but as a modern parable of truth, value, sacrifice, and incorruptibility. Like treasure hidden in a field or a mustard seed that grows into shelter, Bitcoin reveals deeper realities: freedom requires cost, truth cannot be counterfeited, and enduring conviction matters more than early fortune. It is not the Kingdom, but it points toward the Kingdom — a signpost of incorruptible truth in a world of lies.",
+    "paid": false
+  },
+  {
+    "slug": "the-case-for-a-bitcoin-sovereignty-zone-in-san-francisco",
+    "event_id": "ce976ef44fcb8c79967877267bee51f2df9f5539ea778300583bb349d3f8ec14",
+    "created_at": 1755411118,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/ce976ef44fcb8c79967877267bee51f2df9f5539ea778300583bb349d3f8ec14.json",
+    "title": "The Case for a Bitcoin Sovereignty Zone in San Francisco",
+    "summary": "San Francisco sits on the ancestral lands of the Ohlone people, yet both Native sovereignty and true property ownership have long been denied. This article proposes a **Bitcoin Sovereignty Zone** — even a single city block — where property taxes are suspended or returned locally, residents keep real ownership, and the economy runs on Bitcoin.    Anchored in Ohlone leadership, such a zone would not be reparations or dependency, but **sovereignty in practice**: wealth retained locally, energy turned into freedom, and ownership protected from endless extraction.    Bitcoin makes it possible. The Ohlone make it legitimate. San Francisco makes it visible. (*Written with the help of Dr. C, my AI collaborator and sounding board.*)",
+    "paid": false
+  },
+  {
+    "slug": "from-anger-to-proof-a-journey-with-sovereignty-hawaii-and-bitcoin",
+    "event_id": "1f47bf8f9bc60ef894a2789bac09103d4868c1f59792dcbd7e0580195f2e6bef",
+    "created_at": 1755410210,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/1f47bf8f9bc60ef894a2789bac09103d4868c1f59792dcbd7e0580195f2e6bef.json",
+    "title": "From Anger to Proof: A Journey with Sovereignty, Hawai‘i, and Bitcoin",
+    "summary": "In the late 1980s and early 1990s, while finishing my Physics/Math degree and beginning graduate studies in Electrical Engineering at the University of Hawai‘i, I encountered the Hawaiian sovereignty movement firsthand. I listened to Haunani-Kay Trask’s fiery speeches, read Thurston Twigg-Smith’s *Sovereignty: Do the Facts Matter?*, and felt caught between anger without blueprint and caution without vision.    At the same time, the cypherpunks were beginning to write about cryptography and freedom on obscure mailing lists. Their words were abstract then — but decades later, Bitcoin transformed them into proof.    This essay traces my journey from those days at U.H. to the present, showing how Bitcoin unites Trask’s cry, Twigg-Smith’s caution, and the cypherpunks’ math — turning anger into proof and sovereignty into something we can finally live.",
+    "paid": false
+  },
+  {
+    "slug": "bitcoin-sovereignty-manifesto-for-native-nations",
+    "event_id": "dd16e1b498abc906bade4676e8f85574ebc394ebfff0abf4a73ef270eea4e53a",
+    "created_at": 1755405295,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/dd16e1b498abc906bade4676e8f85574ebc394ebfff0abf4a73ef270eea4e53a.json",
+    "title": "Bitcoin Sovereignty Manifesto for Native Nations",
+    "summary": "This manifesto is written in solidarity, not appropriation. As a descendant of Mayflower settlers who grew up in the Pacific, I have long resonated with displaced peoples — Jews, Hawaiians, Native Nations — whose sovereignty was denied but never erased.  The message is simple: sovereignty matters for all of us. What was once taken openly from Native Nations is now being eroded quietly from everyone through fiat money, surveillance, and dependency.",
+    "paid": false
+  },
+  {
     "slug": null,
     "event_id": "03f8551bc7c55f0529c59c9fd6eda93b18acfaf7130e3b12d5a887b76d471a98",
     "created_at": 1755320617,
@@ -10989,6 +11275,28 @@
     "paid": false
   },
   {
+    "slug": "first-fruits-how-the-victorious-gospel-and-bitcoin-share-the-same-story",
+    "event_id": "ee8226349ed9e43a1275c721d1dde9fcb2b65379b2d3a1f8a698f5da9979b61e",
+    "created_at": 1754858243,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/ee8226349ed9e43a1275c721d1dde9fcb2b65379b2d3a1f8a698f5da9979b61e.json",
+    "title": "First Fruits: How the Victorious Gospel and Bitcoin Share the Same Story",
+    "summary": "This article draws a parallel between the Victorious Gospel’s teaching of “first fruits” and the emergence of Bitcoin, showing how both follow a pattern of unshakable foundation, early adopters, and inevitable full reach. It explores the role of the “elect” as living witnesses, warns against modern forms of idolatry — from image management to AI worship — and grounds the whole message in humility, giving all glory to Christ.",
+    "paid": false
+  },
+  {
+    "slug": "nostr-the-neutral-protocol-with-a-bitcoin-gravity-well",
+    "event_id": "4d07660b4ae817711c767922a588a933231ba8ee13cd67950e8846cadc3ac8ad",
+    "created_at": 1754851534,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/4d07660b4ae817711c767922a588a933231ba8ee13cd67950e8846cadc3ac8ad.json",
+    "title": "Nostr: The Neutral Protocol With a Bitcoin Gravity Well",
+    "summary": "Nostr ia a truly decentralized open protocol for publishing signed events.",
+    "paid": false
+  },
+  {
     "slug": "nostr-the-neutral-protocol-with-a-bitcoin-gravity-well",
     "event_id": "1fd5a29bc14092fdb418c7a7d05f6463cf5044450e53a2eeb30453fc259e2a9b",
     "created_at": 1754851414,
@@ -10997,6 +11305,61 @@
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8/30023/1fd5a29bc14092fdb418c7a7d05f6463cf5044450e53a2eeb30453fc259e2a9b.json",
     "title": "Nostr: The Neutral Protocol With a Bitcoin Gravity Well",
     "summary": "Nostr ia a truly decentralized open protocol for publishing signed events.",
+    "paid": false
+  },
+  {
+    "slug": "bitcoin-property-not-a-security--why-the-distinction-matters-full-version",
+    "event_id": "7791f2e5bddec94405cb5605fb7257e62265f2dd17ff99e255e85cfb116d9f5d",
+    "created_at": 1754769742,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/7791f2e5bddec94405cb5605fb7257e62265f2dd17ff99e255e85cfb116d9f5d.json",
+    "title": "Bitcoin: Property, Not a Security — Why the Distinction Matters (full version)",
+    "summary": "Understanding the differerence between a property and a security is crucial to understanding why bitcoin should not be considered just another \"crypto\" asset.",
+    "paid": false
+  },
+  {
+    "slug": "bitcoin-property-not-a-security--why-it-matters-condensed",
+    "event_id": "4d420a88491b29478243fe270ed6a298a64227de445afb8409181203bc99c51a",
+    "created_at": 1754769646,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/4d420a88491b29478243fe270ed6a298a64227de445afb8409181203bc99c51a.json",
+    "title": "Bitcoin: Property, Not a Security — Why It Matters (condensed)",
+    "summary": "Most altcoins, tokens, and NFTs are **securities** under the Howey Test. The crypto industry blurs this line to ride Bitcoin’s credibility without earning it.",
+    "paid": false
+  },
+  {
+    "slug": "-continuum-the-first-60-days",
+    "event_id": "ee3973494e7b8c2f9bd46202090c2e35f5a7d61829f45e8b68ff990e2d85e0c7",
+    "created_at": 1753558248,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/ee3973494e7b8c2f9bd46202090c2e35f5a7d61829f45e8b68ff990e2d85e0c7.json",
+    "title": "🛠️ Continuum: The First 60 Days",
+    "summary": "From a simple README to a fully sovereign publishing stack — this is the story of how Continuum was born. In just 60 days, we’ve built a local-first Nostr app with multi-identity support, publishing tools, and hosted dashboards — all without relying on logins, tokens, or platform permissions.  This was built with the help of AI — not to impress, but to liberate. Continuum is a sovereign publishing stack that puts control, identity, and freedom back where it belongs: with you.",
+    "paid": false
+  },
+  {
+    "slug": "-bitcoin-native-business-model-a-new-path-to-real-wealth",
+    "event_id": "2c710e2f4e177c689e025e1bfa92301a26073f3e90f8bd07c509ac6831c8896e",
+    "created_at": 1753557118,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/2c710e2f4e177c689e025e1bfa92301a26073f3e90f8bd07c509ac6831c8896e.json",
+    "title": "🟠 Bitcoin-Native Business Model: A New Path to Real Wealth",
+    "summary": "A new path to real wealth: Instead of chasing unicorns, I’m acquiring overlooked, profitable businesses — and transforming them into Bitcoin-native operations. This model anchors cashflow to sovereignty, replacing fiat rails and rented identity with Bitcoin, Lightning, and Nostr. It’s not about hype. It’s about freedom — one business at a time.",
+    "paid": false
+  },
+  {
+    "slug": "bitcoin-doesnt-need-proprietary-quantum-protection",
+    "event_id": "adeee9b86f4179820ab0fb0624816fe45068b8a145e7c0ad42c3f79efff5ecd9",
+    "created_at": 1753551720,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/adeee9b86f4179820ab0fb0624816fe45068b8a145e7c0ad42c3f79efff5ecd9.json",
+    "title": "Bitcoin Doesn’t Need Proprietary “Quantum Protection”",
+    "summary": "This article examines recent claims about proprietary “quantum-resistant” custody solutions for Bitcoin, highlighting why such approaches contradict Bitcoin’s open-source ethos and overstate current quantum threats. It argues that real security comes from protocol-level upgrades, not closed, patent-protected tools — and calls for builders to focus on open, auditable, and sovereign solutions that align with Bitcoin’s core principles.",
     "paid": false
   },
   {
@@ -11022,14 +11385,47 @@
     "paid": false
   },
   {
+    "slug": "bitcoin-the-scientific-method-and-the-gospel",
+    "event_id": "e5541bfba588f245ec84fd9a0cf8da146347c8e75dfdd04435fd6e5ecf459c42",
+    "created_at": 1753056782,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/e5541bfba588f245ec84fd9a0cf8da146347c8e75dfdd04435fd6e5ecf459c42.json",
+    "title": "Bitcoin, the Scientific Method, and the Gospel",
+    "summary": "This article explores how Bitcoin, the scientific method, and the Gospel all point to the same foundational principle:  Truth has structure.  Each resists manipulation by design, invites scrutiny, and rewards integrity over influence. Bitcoin encodes it. Science tests it. The Gospel reveals it. Together, they expose the difference between systems built to enlighten — and those built to control.  This isn’t about ideology or tribalism. It’s about the pursuit of what’s real, no matter the cost.",
+    "paid": false
+  },
+  {
+    "slug": "the-cost-of-fiat-a-system-built-to-steal",
+    "event_id": "c6b901c87e26548996b272584e1fa99d653a3bfa2148d13674ebedbf1ac1410f",
+    "created_at": 1753049876,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/c6b901c87e26548996b272584e1fa99d653a3bfa2148d13674ebedbf1ac1410f.json",
+    "title": "The Cost of Fiat: A System Built to Steal",
+    "summary": "This article exposes the hidden cost of the fiat system — a $28 trillion loss over the past five years through inflation, censorship, and structural theft. These aren't accidents. They're baked into the design.",
+    "paid": false
+  },
+  {
     "slug": null,
     "event_id": "220b22cc13f4a48001ab8e1a8896fe378750a8c5933c34501c43900b68136ae2",
     "created_at": 1753049058,
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/220b22cc13f4a48001ab8e1a8896fe378750a8c5933c34501c43900b68136ae2.json",
-    "title": "",
+    "title": "The Cost of Compromise",
     "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "the-cost-of-compromise-bitcoin-vs-web3",
+    "event_id": "200a48e175e03af65b0363ee76ac18600f0e72225e03f21223992c2c1c86611e",
+    "created_at": 1753048045,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/200a48e175e03af65b0363ee76ac18600f0e72225e03f21223992c2c1c86611e.json",
+    "title": "The Cost of Compromise: Bitcoin Vs. Web3",
+    "summary": "This is more than a critique — it’s a ledger. A personal and global accounting of what happens when you build on protocols designed for hype, not truth. The losses aren’t accidental — they’re inevitable. Bitcoin offers a different foundation.",
     "paid": false
   },
   {
@@ -11072,7 +11468,7 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/8c2f3bc0948350f7498eb1fea7ca78c11ffeefb165295e7d27065eb3aa2cb380.json",
-    "title": "",
+    "title": "Old Twitter handle hacked",
     "summary": "",
     "paid": false
   },
@@ -11094,8 +11490,19 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/024bf63306e3b2b9297e515e4f0133d0fd922fffc1b90f47297d6b7d27c66474.json",
-    "title": "",
+    "title": "🚀 Continuum v1.4 milestone",
     "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "turning-linkedin-data-into-a-nostr-identity--milestone-v14",
+    "event_id": "7b9b0018070a9fc666c6dac6dda7dd6ccb0632808e0a4cba9651a6ee6bd842b0",
+    "created_at": 1752461365,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/7b9b0018070a9fc666c6dac6dda7dd6ccb0632808e0a4cba9651a6ee6bd842b0.json",
+    "title": "Turning LinkedIn Data into a Nostr Identity — Milestone v1.4",
+    "summary": "In Continuum v1.4, I successfully imported my LinkedIn profile into a sovereign Nostr identity. This article walks through how a LinkedIn export was transformed into a signed kind:0 event — published to relays and viewable inside the Continuum dashboard. It's a major milestone in bridging centralized platforms with decentralized identity.",
     "paid": false
   },
   {
@@ -11132,14 +11539,36 @@
     "paid": false
   },
   {
+    "slug": "whitepaper-continuum",
+    "event_id": "046c339e75c0f29cc67c187363601f43fcf4b093ca597e10253b46ed0c4edfa6",
+    "created_at": 1752291579,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/046c339e75c0f29cc67c187363601f43fcf4b093ca597e10253b46ed0c4edfa6.json",
+    "title": "Whitepaper: Continuum",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": null,
     "event_id": "816fec5dfc729f5fab3a3814693873e6f4abbe9792ee750d87efd63eb71ed31a",
     "created_at": 1752034069,
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/816fec5dfc729f5fab3a3814693873e6f4abbe9792ee750d87efd63eb71ed31a.json",
-    "title": "",
+    "title": "published continuum's pricing + roadmap breakdown",
     "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "-continuum-pricing--free-vs-pro",
+    "event_id": "8867aa53d0cd134062b470b8f2cad688406425279a23143185ce8d0dcc1a485a",
+    "created_at": 1752033724,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/8867aa53d0cd134062b470b8f2cad688406425279a23143185ce8d0dcc1a485a.json",
+    "title": "🎯 Continuum Pricing — Free vs. Pro",
+    "summary": "Compare what’s included in the free self-hosted version vs. the hosted Pro plan. Includes roadmap, open source pledge, and Lightning discount.",
     "paid": false
   },
   {
@@ -11182,7 +11611,7 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/e3f5ef673d4f68e51a09d5bdf0b43f3ca709efc3a229621986777b2dd415f22d.json",
-    "title": "",
+    "title": "test w no short url",
     "summary": "",
     "paid": false
   },
@@ -11193,7 +11622,7 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/598e5ff275acd36434730e943fbdad4c114eb45f458e0c35c4165964b99f441f.json",
-    "title": "",
+    "title": "test",
     "summary": "",
     "paid": false
   },
@@ -11206,6 +11635,17 @@
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/1511d01b4ce919749e86b889fbf8d8f6029430a21ccb885d2d9845baf87b9b51.json",
     "title": "",
     "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "cognitive-sovereignty",
+    "event_id": "c592b3db230ecf4bfacab17b273d1d730e7c7ecf4a25dbfd8338f7a62701264b",
+    "created_at": 1751829910,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/c592b3db230ecf4bfacab17b273d1d730e7c7ecf4a25dbfd8338f7a62701264b.json",
+    "title": "Cognitive Sovereignty",
+    "summary": "This piece is about how I’ve come to understand my mind — not as broken, but as wired differently on purpose. It’s an exploration of neurodivergence, creativity, and conviction through the lens of the Victorious Gospel. I share how I’ve stopped trying to conform to man-made systems — whether in tech, church, or culture — and started building from a place of truth and sovereignty.  If you've ever felt like your wiring doesn't fit the mold, I hope this encourages you: You are not a mistake. You were made for something wild — and good.  Written in collaboration with “Dr. C” (ChatGPT-4o), who helped me shape and structure the piece with the same care and conviction I try to bring to everything I build.",
     "paid": false
   },
   {
@@ -11264,14 +11704,58 @@
     "paid": false
   },
   {
+    "slug": "why-im-publishing-my-articles-on-mycontinuum-",
+    "event_id": "e7d8bbe895df260dbdfd7cb50a36b746b102b840eb141a9f0d2151feeab6ab06",
+    "created_at": 1751579487,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/e7d8bbe895df260dbdfd7cb50a36b746b102b840eb141a9f0d2151feeab6ab06.json",
+    "title": "Why I’m Publishing My Articles on MyContinuum  ",
+    "summary": "No HTML + Markdown UGh!",
+    "paid": false
+  },
+  {
+    "slug": "testing-images-stored-on-mycontinuumxyz",
+    "event_id": "28e28771a2d0c38ee20ed1fdb621428b9f5e83d252269296c815ec38d067cd71",
+    "created_at": 1751577695,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/28e28771a2d0c38ee20ed1fdb621428b9f5e83d252269296c815ec38d067cd71.json",
+    "title": "Testing Images Stored on mycontinuum.xyz",
+    "summary": "Test displaying images saved on mycontinuum.xyz",
+    "paid": false
+  },
+  {
+    "slug": "discord-wasnt-the-problem--platform-dependence-was",
+    "event_id": "ecd0dd40c030a537a65feafc205a3f4f59fd6e95ab18b0cc4f98a1fe255e0fd2",
+    "created_at": 1751567636,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/ecd0dd40c030a537a65feafc205a3f4f59fd6e95ab18b0cc4f98a1fe255e0fd2.json",
+    "title": "Discord Wasn’t the Problem — Platform Dependence Was",
+    "summary": "After Microsoft shut down Skype in May 2025, I realized how fragile our workflows really are. Moving to Discord wasn’t the issue — it was the wakeup call. This post traces how that moment led me to build MyContinuum: a sovereign stack for publishing, coding, and communicating without renting my own signal.",
+    "paid": false
+  },
+  {
     "slug": null,
     "event_id": "1f2a2c801bb9ed278ca3806499c46af55f2dcc65e1be852a966f8fb29bec4068",
     "created_at": 1751490878,
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/1f2a2c801bb9ed278ca3806499c46af55f2dcc65e1be852a966f8fb29bec4068.json",
-    "title": "",
+    "title": "test",
     "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "-introducing-continuum-v100--your-self-hosted-signal-dashboard",
+    "event_id": "9fe3500b923960ebc3b2a29ef57655456e483e83a441fbd6252ea130a0cdadee",
+    "created_at": 1751417023,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/9fe3500b923960ebc3b2a29ef57655456e483e83a441fbd6252ea130a0cdadee.json",
+    "title": "🚀 Introducing Continuum v1.0.0 — Your Self-Hosted Signal Dashboard",
+    "summary": "After just a few weeks of focused building, I'm releasing v1.0.0 of Continuum — a fully self-hosted, Bitcoin-aligned publishing dashboard for Nostr. This milestone marks a shift away from reliance on centralized clients like Primal, giving users full local control over their notes and articles with Markdown editing, SQLite storage, and timezone-aware publishing. Built with Docker, tested across browsers and platforms, and designed with sovereignty in mind, Continuum is now live and free to clone. Hosted and paid-tier features will follow. This is what it looks like to build protocol-first.",
     "paid": false
   },
   {
@@ -11281,8 +11765,19 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/56e713d5aa0108ef808992aa7ec270482528368d4084d22706f7231f01ef632d.json",
-    "title": "",
+    "title": "🚀 Continuum v1.0.0 is live",
     "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "-from-walled-gardens-to-sovereign-stacks",
+    "event_id": "f5699874e4ba4f55186dfc1ebc28fafc06b232dcddd99b8a5cb0a02fa72540da",
+    "created_at": 1751056627,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/f5699874e4ba4f55186dfc1ebc28fafc06b232dcddd99b8a5cb0a02fa72540da.json",
+    "title": "🏗️ From Walled Gardens to Sovereign Stacks",
+    "summary": "A personal manifesto for breaking out of SaaS walled gardens — and building protocol-native, sovereign tools using Nostr and Bitcoin. From property registries to publishing, this is a blueprint for opting out and building free.",
     "paid": false
   },
   {
@@ -11305,6 +11800,28 @@
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/c6a80543782c8d3565e4ba7a5ec32db574f5c5fff22cc455432538816bea977d.json",
     "title": "",
     "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "github-is-still-free--but-youre-the-product",
+    "event_id": "842b5b53fa93b1ab0ab56913d4d4b7fda52e86eb29970e4533628f9815b4a7e1",
+    "created_at": 1750369370,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/842b5b53fa93b1ab0ab56913d4d4b7fda52e86eb29970e4533628f9815b4a7e1.json",
+    "title": "GitHub Is Still Free — But You're the Product",
+    "summary": "GitHub remains free and widely used, but its acquisition by Microsoft has shifted its role from open-source steward to data-harvesting platform. As GitHub integrates more tightly with tools like Copilot and Azure, developers face growing risks of lock-in, surveillance, and platform dependency. This article explores the tradeoffs of “free” tools, the importance of digital sovereignty, and emerging alternatives like Cloudflare Pages, Nostr, and self-hosted Git platforms. It’s not just about cost—it’s about control.",
+    "paid": false
+  },
+  {
+    "slug": "dont-trade-one-false-narrative-for-another",
+    "event_id": "2ed5ec534c475a5f38b91bfee233780f74408cc945a8660246222f9d9cc1be23",
+    "created_at": 1750368323,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/2ed5ec534c475a5f38b91bfee233780f74408cc945a8660246222f9d9cc1be23.json",
+    "title": "Don’t Trade One False Narrative for Another",
+    "summary": "This is a reflection for seekers, skeptics, and sovereign thinkers on Nostr.\n\nIn a world flooded with lies, it’s tempting to believe that everything is a lie. But real sovereignty isn’t just rejecting the mainstream — it’s learning to discern, verify, and walk in truth.\n\nThis piece is a call to Bitcoiners, Christians, and freedom-seekers to resist the drift toward conspiratorial thinking that masquerades as enlightenment. It affirms that questioning is good — but truth is better.\n\nFrom faith to science, climate to population, war to liberty — this is a principled stand against false binaries and a plea for humble, truth-rooted conviction in an age of loud confusion.\n",
     "paid": false
   },
   {
@@ -11440,6 +11957,17 @@
     "paid": false
   },
   {
+    "slug": "ka-imi-i-ka-pono-seeking-whats-right",
+    "event_id": "55efc9be76a615ca8eaad08afea52cd7f05a705e6dd7400a89634a550b8643d7",
+    "created_at": 1749670600,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/55efc9be76a615ca8eaad08afea52cd7f05a705e6dd7400a89634a550b8643d7.json",
+    "title": "Ka ʻImi i ka Pono: Seeking What’s Right",
+    "summary": "Hawai‘i understands sovereignty. It always has.\nBut it was taken — first with pen and politics, then with force and fiat.\nBitcoin offers something different ...\nA 7-Day Series on Sovereignty, Bitcoin, and the Soul of the Islands",
+    "paid": false
+  },
+  {
     "slug": null,
     "event_id": "20ef3168496797a7eb06b829d3b933515a7a1bc5d5f6785f0df24f54643469fb",
     "created_at": 1749667857,
@@ -11448,6 +11976,138 @@
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/20ef3168496797a7eb06b829d3b933515a7a1bc5d5f6785f0df24f54643469fb.json",
     "title": "",
     "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "-the-hidden-cost-of-centralization--and-the-deeper-promise-of-decentralization---japanese-version",
+    "event_id": "a17a96e768e7bee60801fea12721dbbc204ee7145ebe9dadde4d753854aa2a32",
+    "created_at": 1749664309,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/a17a96e768e7bee60801fea12721dbbc204ee7145ebe9dadde4d753854aa2a32.json",
+    "title": "中央集権の見えない代償——そして分散化がもたらす、より深い約束\n(The Hidden Cost of Centralization — and the Deeper Promise of Decentralization - Japanese Version)",
+    "summary": "多くの人は、テクノロジーがコストをゼロに近づけるものだと考えています。\nしかし、それは物語の半分にすぎません。\n中央集権型プラットフォームの「隠れた代償」は、金銭的なものだけでなく、コントロール（支配）にも及びます。\n本記事では、NostrやBitcoinのような分散型技術がこの構図をどう覆し、コストだけでなく「コントロール・コスト」も削減するのか、そしてその変化がなぜ重要なのかを掘り下げます。",
+    "paid": false
+  },
+  {
+    "slug": "the-hidden-cost-of-centralization--and-the-deeper-promise-of-decentralization-",
+    "event_id": "2a0c46250504f31e0ebd8eafd8f81e6b39e3d14f5a8047086130b93dc85347bc",
+    "created_at": 1749616016,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/2a0c46250504f31e0ebd8eafd8f81e6b39e3d14f5a8047086130b93dc85347bc.json",
+    "title": "The Hidden Cost of Centralization — and the Deeper Promise of Decentralization ",
+    "summary": "Most people think technology drives costs to zero. But that only tells half the story. The hidden toll of centralized platforms isn't just financial — it's about control. This article explores how decentralization, especially through Nostr and Bitcoin, flips the equation by reducing not just price but control cost — and why that shift matters.",
+    "paid": false
+  },
+  {
+    "slug": "why-bitcoin-and-proof-of-work-align-with-christianity-—-and-the-victorious-gospel",
+    "event_id": "63422ac2ab85401cae519ebd20168fbf3cf4c9e5fd47bb2056e7f27790383d1b",
+    "created_at": 1749615159,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/63422ac2ab85401cae519ebd20168fbf3cf4c9e5fd47bb2056e7f27790383d1b.json",
+    "title": "Why Bitcoin and Proof of Work Align with Christianity — and the Victorious Gospel",
+    "summary": "Bitcoin is not just “internet money.” It’s a response to a broken system.\nProof of Work means truth is earned, not claimed.\nFiat money is manipulable and inflationary; Bitcoin is fixed and fair.\nBitcoin is the hardest money in history — with a supply cap of 21 million.\nIt appreciates over time, acting as a new form of digital property.\nChristianity calls us to honest scales, faithful stewardship, and dignified work.\nAnd the Victorious Gospel declares that Jesus is restoring all things — including how we steward value, time, and trust.",
+    "paid": false
+  },
+  {
+    "slug": "turning-60",
+    "event_id": "52e4aa4265c0db785abc9f86380cec7d604d56234cc80861233dbb358a2e353b",
+    "created_at": 1749528054,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/52e4aa4265c0db785abc9f86380cec7d604d56234cc80861233dbb358a2e353b.json",
+    "title": "Turning 60",
+    "summary": "A personal reflection on turning 60—looking back at a decade of transformation from dismissing Bitcoin as “tech for tech’s sake” to embracing it as a framework for truth, alignment, and intentional living. The post traces a journey of pruning, repentance, and recommitment to building a life rooted in faith, purpose, and conviction. It speaks to those in transition, encouraging them that the second half of life can be the truest chapter yet.",
+    "paid": false
+  },
+  {
+    "slug": "what-does-work-look-like-in-a-deflationary-economy?",
+    "event_id": "d5506ff6e7acc3f38e5fbc40265072f1fae10f730d2d75a303061e5ca960829b",
+    "created_at": 1749527065,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/d5506ff6e7acc3f38e5fbc40265072f1fae10f730d2d75a303061e5ca960829b.json",
+    "title": "What Does Work Look Like in a Deflationary Economy?",
+    "summary": "This post explores how work transforms in a deflationary economy inspired by Bitcoin. Instead of chasing endless hustle, workers are freed to choose meaningful, purpose-driven labor that endures. It contrasts today’s inflationary “race to keep up” with a slower, more deliberate future—one that values savings, truth, and craft over speed and monetization. Includes a personal invitation to connect with others walking this path.",
+    "paid": false
+  },
+  {
+    "slug": "how-i-built-a-decentralized-cms-with-nostr--github-actions--part-2",
+    "event_id": "fd36624fc6df4430fbeebb551dc1a735b10adb05ccdd95b29a5cf43b546c915f",
+    "created_at": 1749514431,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/fd36624fc6df4430fbeebb551dc1a735b10adb05ccdd95b29a5cf43b546c915f.json",
+    "title": "How I Built a Decentralized CMS with Nostr + GitHub Actions — Part 2",
+    "summary": "Refinements, resilience, and real-world usage. In this follow-up to Part 1, I document how I styled and streamlined my Nostr-based CMS — including relay deduplication, HTML fixes, GitHub Actions automation, and thoughtful publishing defaults — all running on free infrastructure I control.\n\n",
+    "paid": false
+  },
+  {
+    "slug": "solzhenitsyn-would-have-loved-bitcoin",
+    "event_id": "1e3c548846f13b057f235ab44ad02eaeed3abe4e4133dda2eb315114b0f6ef82",
+    "created_at": 1749512365,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/1e3c548846f13b057f235ab44ad02eaeed3abe4e4133dda2eb315114b0f6ef82.json",
+    "title": "Solzhenitsyn Would Have Loved Bitcoin",
+    "summary": "Inspired by a comment from @HODL, this article explores why Aleksandr Solzhenitsyn — Soviet dissident, truth-teller, and moral philosopher — would have seen Bitcoin not as a mere technology, but as a stand against coercion, deception, and spiritual decay. Bitcoin reflects the same principles he lived and wrote by: personal responsibility, incorruptible memory, and resistance through truth. This is not about price — it's about proof of alignment.",
+    "paid": false
+  },
+  {
+    "slug": "bitcoin-offsets-depreciation:-a-long-term-thesis-for-business-owners-and-builders\n\n",
+    "event_id": "148b8349e84d275ef3aa748fda2aef7ec0f1a457cc5fc8fa915fcafb94dc2a43",
+    "created_at": 1749512335,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/148b8349e84d275ef3aa748fda2aef7ec0f1a457cc5fc8fa915fcafb94dc2a43.json",
+    "title": "Bitcoin Offsets Depreciation: A Long-Term Thesis for Business Owners and Builders\n\n",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "how-i-built-a-decentralized-cms-with-nostr--github-actions",
+    "event_id": "a7dc54f6bab6f615505b39a2aaae66619b69a8d531841edc69186c47e4d5e960",
+    "created_at": 1749440957,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/a7dc54f6bab6f615505b39a2aaae66619b69a8d531841edc69186c47e4d5e960.json",
+    "title": "How I Built a Decentralized CMS with Nostr + GitHub Actions",
+    "summary": "This article walks through how I built a fully decentralized blog using Nostr as the backend CMS, GitHub Actions for automation, and GitHub Pages for free global hosting. No servers, no logins — just sovereign publishing on open protocols.",
+    "paid": false
+  },
+  {
+    "slug": "something-is-alive-here-@-bitcoin-2025",
+    "event_id": "603e2809ae0babc66063f3070ef297186c23a71f05cb1316c1a2a556a418e01e",
+    "created_at": 1749407944,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/603e2809ae0babc66063f3070ef297186c23a71f05cb1316c1a2a556a418e01e.json",
+    "title": "Something Is Alive Here @ Bitcoin 2025",
+    "summary": "At Bitcoin 2025 and on Nostr, I’ve rediscovered what decentralization really means — not just as a technical design, but as a lived experience of freedom. This article reflects on how alive and tangible that freedom feels: owning your identity, zapping freely, publishing without permission, and building outside institutional control. It’s not about hype — it’s about sovereignty, trust, and conviction. For the first time in a long time, freedom doesn’t feel like a slogan. It feels real. It feels alive.",
+    "paid": false
+  },
+  {
+    "slug": "freedom-means-honoring-people-—-even-when-we-disagree",
+    "event_id": "61ab1b7a16eb408044e3b282e96f4525e6f69e94fcd6316715ab8e20f30431c3",
+    "created_at": 1749407746,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/61ab1b7a16eb408044e3b282e96f4525e6f69e94fcd6316715ab8e20f30431c3.json",
+    "title": "Freedom Means Honoring People — Even When We Disagree",
+    "summary": "In an age of polarization, this reflection explores what true freedom looks like: not agreement at all costs, but the capacity to honor people — even when we profoundly disagree. From Chelsea Manning and Edward Snowden to Ross Ulbricht and Donald Trump, the piece wrestles with moral complexity, hypocrisy, and the double-edged sword of modern power. It closes with a hopeful look at Bitcoin — a system built on neutrality and permissionlessness — as a model for principled freedom that transcends party lines and culture wars.",
+    "paid": false
+  },
+  {
+    "slug": "first-test-article",
+    "event_id": "0e3f74f3958bcd69d0c0e20ffd4c3d16faf3b0ebac9da5e1937aca8a8f389673",
+    "created_at": 1749353844,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/0e3f74f3958bcd69d0c0e20ffd4c3d16faf3b0ebac9da5e1937aca8a8f389673.json",
+    "title": "First Test Article",
+    "summary": "First Test Article",
     "paid": false
   },
   {
@@ -11913,6 +12573,28 @@
     "paid": false
   },
   {
+    "slug": "memorial-day-reflections-→-walking-into-bitcoin-2025",
+    "event_id": "ae42ba3d15113b14a6ccae3744de348b934a5d416090e3df1d7300e8c90efc58",
+    "created_at": 1748293547,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/ae42ba3d15113b14a6ccae3744de348b934a5d416090e3df1d7300e8c90efc58.json",
+    "title": "Memorial Day Reflections → Walking into Bitcoin 2025",
+    "summary": "As Memorial Day invites sober reflection on freedom and sacrifice, I pause to honor what was given — and consider what I’m building toward. This week I head to Bitcoin 2025 not just as a Bitcoiner, but as someone seeking to live with conviction. This is a call to remember the cost of liberty and to build systems rooted in truth, transparency, and work that lasts.\n",
+    "paid": false
+  },
+  {
+    "slug": "why-trading-still-matters-—-and-what-most-people-get-wrong",
+    "event_id": "a13f26153a0be09346391b01a5e36d4235883f5dd3323137c87158704683725d",
+    "created_at": 1748293002,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/a13f26153a0be09346391b01a5e36d4235883f5dd3323137c87158704683725d.json",
+    "title": "Why Trading Still Matters — And What Most People Get Wrong",
+    "summary": "Short-term trading is often dismissed as a zero-sum game, driven by hype and luck. But for those who approach it with discipline and conviction, trading can be a meaningful craft — a way to fund deeper work, align with values, and sharpen focus. In this piece, I share why I only trade equities (not crypto or forex), how I avoid signal-following hype, and why consistent, small gains often matter more than chasing spikes. This isn’t gambling — it’s Proof of Work.",
+    "paid": false
+  },
+  {
     "slug": null,
     "event_id": "f8197ef9ceb880427bf963f82a92a425b274d4d09a0a2b8522e008a53d2c6c1c",
     "created_at": 1748241162,
@@ -12111,6 +12793,17 @@
     "paid": false
   },
   {
+    "slug": "will-ai-and-automation-create-more-bullshit-jobs-—-or-eliminate-them?",
+    "event_id": "e6773f7889c8606459dafcd169f7fe0cfe271ff371d98f14d0b036d7d8c9eba1",
+    "created_at": 1747965383,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/e6773f7889c8606459dafcd169f7fe0cfe271ff371d98f14d0b036d7d8c9eba1.json",
+    "title": "Will AI and Automation Create More Bullshit Jobs — or Eliminate Them?",
+    "summary": "This article explores whether AI and automation will eliminate or multiply “bullshit jobs” — roles that even workers consider meaningless, as described by David Graeber. Drawing on Jeff Booth’s The Price of Tomorrow, it argues that technology is naturally deflationary and could free us from pointless labor. However, our inflation-driven economic system incentivizes the creation of unnecessary jobs to sustain growth. The piece concludes by advocating for a shift toward truth, value creation, and permissionless work — including a personal example of building a cross-posting tool using AI, not for a paycheck, but for real leverage and impact.",
+    "paid": false
+  },
+  {
     "slug": null,
     "event_id": "edcd744e8b64bb744bc09285367fe75e6fd64ca7e93e5b1a26fb9eb0c8bde702",
     "created_at": 1747895615,
@@ -12155,6 +12848,17 @@
     "paid": false
   },
   {
+    "slug": "how-i-built-a-tool-to-cross-post-nostr-notes-to-linkedin,-facebook,-and-x-—-in-under-3-hours",
+    "event_id": "9f4a78c6026c1c5e858eee0115fa82dc79b9153ffaabb2a8892d0edec2a65f70",
+    "created_at": 1747881934,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/9f4a78c6026c1c5e858eee0115fa82dc79b9153ffaabb2a8892d0edec2a65f70.json",
+    "title": "How I Built a Tool to Cross-Post Nostr Notes to LinkedIn, Facebook, and X — in Under 3 Hours",
+    "summary": "I built a small open-source tool that fetches my latest Nostr post or article, cleans up links, and formats it for cross-posting to LinkedIn, Facebook, and Twitter — all in under 3 hours. Now anyone can publish once and share intentionally. Zaps appreciated if it helps you too.",
+    "paid": false
+  },
+  {
     "slug": null,
     "event_id": "13cf2cda6814c9fbd57c687ee02a085cd527a9a746a35e01756d68e823729a3e",
     "created_at": 1747779857,
@@ -12163,6 +12867,17 @@
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/13cf2cda6814c9fbd57c687ee02a085cd527a9a746a35e01756d68e823729a3e.json",
     "title": "",
     "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "🛠️-ai-isn’t-magic.-it’s-engineering.",
+    "event_id": "5bc0eced4d1da02fd2a0e463021b44ec2852a182e60c47908c31cf026de0cb82",
+    "created_at": 1747779345,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/5bc0eced4d1da02fd2a0e463021b44ec2852a182e60c47908c31cf026de0cb82.json",
+    "title": "🛠️ AI Isn’t Magic. It’s Engineering.",
+    "summary": "Most people treat AI like magic. I treat it like engineering.\nThis post breaks down how I use ChatGPT in an iterative, system-oriented way — just like writing and testing code. It’s not about hype or hacks. It’s about building with intention, clarity, and conviction.",
     "paid": false
   },
   {
@@ -12228,6 +12943,17 @@
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/eef9ed10712fcc8764d4c2249d7224cab462bdf604a2e65670e8f9372060d1b6.json",
     "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "why-i-left-web3-for-proof-of-work-–-part-5:-building-again",
+    "event_id": "abf7a742fed23064a66741bca1f6f0523a8084ea601e83cc550106d1a2fccaf3",
+    "created_at": 1747689526,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/abf7a742fed23064a66741bca1f6f0523a8084ea601e83cc550106d1a2fccaf3.json",
+    "title": "Why I Left Web3 for Proof of Work – Part 5: Building Again",
     "summary": "",
     "paid": false
   },
