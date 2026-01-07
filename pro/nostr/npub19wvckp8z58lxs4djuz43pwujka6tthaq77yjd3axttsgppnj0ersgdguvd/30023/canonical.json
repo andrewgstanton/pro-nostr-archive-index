@@ -1384,7 +1384,7 @@
     "latest_year": 2025
   },
   "the-sovereign-archive-the-canonical-bitcoin-chronicles-index": {
-    "latest_event_id": "69d8c581dadccce48697f49b086e46c3e91a4c7a741f63dabca826baffe76cbe",
+    "latest_event_id": "0eac8b35fa56ae1774b205f8aa2cf9c5743f152deec71d8304ba333d70a6d7f0",
     "latest_year": 2026
   },
   "patron-support-continuum": {
@@ -2225,6 +2225,26 @@
   },
   "bitcoin-is-honest-not-moral--and-why-that-matters-2026-01-05": {
     "latest_event_id": "1bc3de473b6b5e66fe596ab05239205423eaa07e5847ab6aeebb3e675d08554e",
+    "latest_year": 2026
+  },
+  "what-real-protest-actually-means-excerpt": {
+    "latest_event_id": "8c04624ed0316348339e00672c743176244a8f22ea755b6fc25d530200eb6c2a",
+    "latest_year": 2026
+  },
+  "what-real-protest-actually-means-2026-01-06": {
+    "latest_event_id": "b9e644b593c120f8942a594763afaad1854c58aa0baae5991ea9195860acc868",
+    "latest_year": 2026
+  },
+  "the-bitcoin-chronicles---1f7---the-discipline-of-waiting-2026-01-06": {
+    "latest_event_id": "6825fc5623f45ab6863cec7d95b50f9f790a3775c10a971901c5b45399d9c9ba",
+    "latest_year": 2026
+  },
+  "the-bitcoin-chronicles---1f8---a-civilization-at-rest-2026-01-06": {
+    "latest_event_id": "fe55e827be0ec9b83129aa71e48c5a3a1f32a866e5224a0610e5f3a3e6bb5a84",
+    "latest_year": 2026
+  },
+  "the-bitcoin-chronicles---1f6---the-gift-of-distance-2026-01-06": {
+    "latest_event_id": "e23e96d40fbdceb0addea1eb43a2a1be28dd84bbb532b170d668c5fca094fa85",
     "latest_year": 2026
   }
 }
