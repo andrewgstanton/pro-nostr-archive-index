@@ -1,5 +1,82 @@
 [
   {
+    "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
+    "event_id": "0eac8b35fa56ae1774b205f8aa2cf9c5743f152deec71d8304ba333d70a6d7f0",
+    "created_at": 1767744600,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/0eac8b35fa56ae1774b205f8aa2cf9c5743f152deec71d8304ba333d70a6d7f0.json",
+    "title": "The Sovereign Archive: The Canonical Bitcoin Chronicles Index",
+    "summary": "This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.",
+    "paid": false
+  },
+  {
+    "slug": "the-bitcoin-chronicles---1f7---the-discipline-of-waiting-2026-01-06",
+    "event_id": "6825fc5623f45ab6863cec7d95b50f9f790a3775c10a971901c5b45399d9c9ba",
+    "created_at": 1767744350,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/6825fc5623f45ab6863cec7d95b50f9f790a3775c10a971901c5b45399d9c9ba.json",
+    "title": "🔒 The Bitcoin Chronicles - 1.F.7 - The Discipline of Waiting",
+    "summary": "Waiting was once treated as inefficiency. At the outer edges, it became a moral practice. This essay examines how civilizations learned to live responsibly when answers would arrive too late to matter.",
+    "paid": false
+  },
+  {
+    "slug": "the-bitcoin-chronicles---1f8---a-civilization-at-rest-2026-01-06",
+    "event_id": "fe55e827be0ec9b83129aa71e48c5a3a1f32a866e5224a0610e5f3a3e6bb5a84",
+    "created_at": 1767744291,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/fe55e827be0ec9b83129aa71e48c5a3a1f32a866e5224a0610e5f3a3e6bb5a84.json",
+    "title": "🔒 The Bitcoin Chronicles - 1.F.8 - A Civilization at Rest",
+    "summary": "At the farthest edges of light-bound expansion, humanity reached equilibrium. Not utopia, not collapse—but rest. This essay closes Arc 1 by portraying a civilization that had learned how to live within separation without seeking to overcome it.",
+    "paid": false
+  },
+  {
+    "slug": "the-bitcoin-chronicles---1f6---the-gift-of-distance-2026-01-06",
+    "event_id": "e23e96d40fbdceb0addea1eb43a2a1be28dd84bbb532b170d668c5fca094fa85",
+    "created_at": 1767744226,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/e23e96d40fbdceb0addea1eb43a2a1be28dd84bbb532b170d668c5fca094fa85.json",
+    "title": "🔒 The Bitcoin Chronicles - 1.F.6 - The Gift of Distance",
+    "summary": "At the outer edges of light-bound expansion, humanity discovered that distance was not merely a constraint but a civilizational gift. This essay explores how separation preserved sovereignty, restrained empire, and taught humanity how to govern itself without reach.",
+    "paid": false
+  },
+  {
+    "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
+    "event_id": "7be9f613598f558bb34100ed0d07404a1178b659bdf517bd1f6eec84ebd61471",
+    "created_at": 1767739135,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/7be9f613598f558bb34100ed0d07404a1178b659bdf517bd1f6eec84ebd61471.json",
+    "title": "The Sovereign Archive: The Canonical Bitcoin Chronicles Index",
+    "summary": "This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.",
+    "paid": false
+  },
+  {
+    "slug": "what-real-protest-actually-means-excerpt",
+    "event_id": "8c04624ed0316348339e00672c743176244a8f22ea755b6fc25d530200eb6c2a",
+    "created_at": 1767738652,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/8c04624ed0316348339e00672c743176244a8f22ea755b6fc25d530200eb6c2a.json",
+    "title": "What Real Protest Actually Means (Excerpt)",
+    "summary": "Most modern “protest” is loud, visible, and ultimately harmless. It vents frustration without withdrawing consent. Real protest is quieter and far more demanding: it is the long-term reduction of dependency, the refusal to become an instrument of harm, and the disciplined choice to build alternatives rather than perform outrage. This excerpt introduces a different definition of protest—one rooted in trajectory, not spectacle.",
+    "paid": false
+  },
+  {
+    "slug": "what-real-protest-actually-means-2026-01-06",
+    "event_id": "b9e644b593c120f8942a594763afaad1854c58aa0baae5991ea9195860acc868",
+    "created_at": 1767738536,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/b9e644b593c120f8942a594763afaad1854c58aa0baae5991ea9195860acc868.json",
+    "title": "🔒 What Real Protest Actually Means",
+    "summary": "Most modern “protest” is theater. It signals dissent while leaving the underlying systems intact—and often strengthens them. Real protest is quieter, slower, and far more uncomfortable: it is the long-term withdrawal of dependency, the refusal to become an instrument of harm, and the disciplined construction of parallel capacity. This essay defines protest not as spectacle, but as trajectory—and offers concrete, livable examples.",
+    "paid": false
+  },
+  {
     "slug": "-why-bitcoin-strengthens-tribal-sovereignty-rather-than-replacing-it-2026-01-05",
     "event_id": "29dd6fc7a149cb350421703e2ed15db7c35319cd8d71364a474289ceb34d6c5a",
     "created_at": 1767663635,
