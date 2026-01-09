@@ -1384,7 +1384,7 @@
     "latest_year": 2025
   },
   "the-sovereign-archive-the-canonical-bitcoin-chronicles-index": {
-    "latest_event_id": "0eac8b35fa56ae1774b205f8aa2cf9c5743f152deec71d8304ba333d70a6d7f0",
+    "latest_event_id": "49d9eaa0504b789753b7009d3324135cf0877e5719991fe2d2e9ebc6b7c71f03",
     "latest_year": 2026
   },
   "patron-support-continuum": {
@@ -2245,6 +2245,30 @@
   },
   "the-bitcoin-chronicles---1f6---the-gift-of-distance-2026-01-06": {
     "latest_event_id": "e23e96d40fbdceb0addea1eb43a2a1be28dd84bbb532b170d668c5fca094fa85",
+    "latest_year": 2026
+  },
+  "-the-bitcoin-chronicles---1e6--when-earth-spoke-last-2026-01-07": {
+    "latest_event_id": "7a1365310f48986db2bc6c3d4e97d2d26d3d1951cd15b936bda00cadec64a179",
+    "latest_year": 2026
+  },
+  "-the-bitcoin-chronicles---1e4--the-vote-that-never-closed-2026-01-07": {
+    "latest_event_id": "d64dbfce8556cd91b151ea278515e3eb3e5fad2b2d5a36c3096bd46e7b7ebdc4",
+    "latest_year": 2026
+  },
+  "-the-bitcoin-chronicles---1e5--the-ledger-of-delayed-obedience-2026-01-07": {
+    "latest_event_id": "ef67d4ed868c2e883318c9d62940023a40c38949a6f4d5c98cb48c85f08eca46",
+    "latest_year": 2026
+  },
+  "-the-bitcoin-chronicles---1c9--children-of-the-cold-ledger-2026-01-08": {
+    "latest_event_id": "aa45236e3844bdd8505efe540dd1d9c9afa8939e77daece61f7e7dacb12972e2",
+    "latest_year": 2026
+  },
+  "-the-bitcoin-chronicles---1c8--the-last-earth-loan-2026-01-08": {
+    "latest_event_id": "ec6b40e2726b66c48b6d58b3d48c9ee62edbc425b2204fb9acd4d4bc8eedb8a6",
+    "latest_year": 2026
+  },
+  "-the-bitcoin-chronicles---1c7--dust-and-finality-2026-01-08": {
+    "latest_event_id": "97189598cd54c84d75dca3aca862b8d899828053fb0011909666137f7b5de9f3",
     "latest_year": 2026
   }
 }
