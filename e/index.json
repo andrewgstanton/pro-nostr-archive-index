@@ -1,5 +1,27 @@
 [
   {
+    "slug": "dropbox--long-term-archive-zip--checksum-howto",
+    "event_id": "62aa54b5cbe98a98611ed2ea041504513df49483da3c90ad72b699862e724c8d",
+    "created_at": 1768420967,
+    "npub": "npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8/30023/62aa54b5cbe98a98611ed2ea041504513df49483da3c90ad72b699862e724c8d.json",
+    "title": "Dropbox → Long-Term Archive (ZIP + Checksum) HOWTO",
+    "summary": "Safely migrate data out of Dropbox into a verifiable, long-term archive stored on Google Drive (or another external location)",
+    "paid": false
+  },
+  {
+    "slug": "continuum-protocols",
+    "event_id": "53bbc1c803cdf5e39fd1129516f539a60c84453e2a2b2b0c7b7d429dfe96bc06",
+    "created_at": 1768201026,
+    "npub": "npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8/30023/53bbc1c803cdf5e39fd1129516f539a60c84453e2a2b2b0c7b7d429dfe96bc06.json",
+    "title": "Continuum Protocols",
+    "summary": "This document defines the core protocols behind Continuum’s archive-backed approach to Nostr identity, publishing, and messaging.  It formalizes a simple but non-standard assumption: relays are caches, not memory.  By treating archives as the source of truth and manifests as authoritative intent, Continuum enables deterministic reconstruction of profiles, notes, encrypted DMs, and long-form articles—even if relays forget, backups reappear, or local databases are wiped.  The protocols described here prioritize durability, deletion intent, encrypted message continuity, and long-horizon identity over feeds, engagement, or client features.",
+    "paid": false
+  },
+  {
     "slug": null,
     "event_id": "a4f9f6b8eedb101975697d21421ec91c5a81e1c33f74b0eb90c9c44d52729333",
     "created_at": 1768195846,
@@ -6182,6 +6204,17 @@
     "paid": false
   },
   {
+    "slug": null,
+    "event_id": "43ebabcf63f1512d87fcdf64e0230613aaefe3498b629abd5afcd1190e704583",
+    "created_at": 1764830143,
+    "npub": "npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8/1/43ebabcf63f1512d87fcdf64e0230613aaefe3498b629abd5afcd1190e704583.json",
+    "title": "Patron Support Continuum",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "patron-support-continuum",
     "event_id": "c655a38b36597b32656a0f93a5a03a2c88e291234d92778af420a0652d5dc724",
     "created_at": 1764829691,
@@ -11606,6 +11639,17 @@
   },
   {
     "slug": null,
+    "event_id": "b802a9cd7ed3e3dfa34a34d4027abe6b0c4022e33cbf31406dd5607193649820",
+    "created_at": 1755800226,
+    "npub": "npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8/1/b802a9cd7ed3e3dfa34a34d4027abe6b0c4022e33cbf31406dd5607193649820.json",
+    "title": "** Verified NIP-05 service !!! **",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
     "event_id": "cdb8df075eebdbfdffe371cf693cc3da7dfbc708e470c24c882c4d770ce3f5d3",
     "created_at": 1755787448,
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
@@ -11723,6 +11767,17 @@
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/26259d86808866721d5d79642651077cf11bb779b7a2c1a6c212aadd29dca1da.json",
     "title": "Dead Buildings, Living People",
     "summary": "An example of a shuttered Safeway wonderfully illustrating rent-seeking at its finest",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "5343e0244478e151bd029fed12fc918b68e1d33c0b73781d4aef7ce294bb801f",
+    "created_at": 1755540217,
+    "npub": "npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8/1/5343e0244478e151bd029fed12fc918b68e1d33c0b73781d4aef7ce294bb801f.json",
+    "title": "Patron Support",
+    "summary": "",
     "paid": false
   },
   {
@@ -12046,6 +12101,17 @@
   },
   {
     "slug": null,
+    "event_id": "265175e6bf1c318904caf7cbfc6f9bb8f7f5c0ed7f0bf6f7320fd6d53830479b",
+    "created_at": 1752461634,
+    "npub": "npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8/1/265175e6bf1c318904caf7cbfc6f9bb8f7f5c0ed7f0bf6f7320fd6d53830479b.json",
+    "title": "🚀 Continuum v1.4 milestone",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
     "event_id": "024bf63306e3b2b9297e515e4f0133d0fd922fffc1b90f47297d6b7d27c66474",
     "created_at": 1752461488,
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
@@ -12079,6 +12145,17 @@
   },
   {
     "slug": null,
+    "event_id": "acb8172d70709e5ea7275bcdd25d0ade2fef425bccdb2f59073da09e132ec651",
+    "created_at": 1752349535,
+    "npub": "npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8/1/acb8172d70709e5ea7275bcdd25d0ade2fef425bccdb2f59073da09e132ec651.json",
+    "title": "Built Continuum because I needed it — now I want to keep it independent.",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
     "event_id": "a9630bb81d86c1072909a390c12ef822c17c4846f392471bd523b1db05d8d15d",
     "created_at": 1752349364,
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
@@ -12107,6 +12184,28 @@
     "kind": 30023,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/046c339e75c0f29cc67c187363601f43fcf4b093ca597e10253b46ed0c4edfa6.json",
     "title": "Whitepaper: Continuum",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "5a72f886ba79c9f301b9d91e74ba281f05c60117d907f15348b97b7dd2240953",
+    "created_at": 1752199573,
+    "npub": "npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8/1/5a72f886ba79c9f301b9d91e74ba281f05c60117d907f15348b97b7dd2240953.json",
+    "title": "test",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "da2581884d9795824f06558a824b5fd737553cc7cc7d7ad807f6644b8ccf9497",
+    "created_at": 1752034371,
+    "npub": "npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8/1/da2581884d9795824f06558a824b5fd737553cc7cc7d7ad807f6644b8ccf9497.json",
+    "title": "Just published Continuum’s pricing + roadmap breakdown.",
     "summary": "",
     "paid": false
   },
@@ -12232,6 +12331,39 @@
     "paid": false
   },
   {
+    "slug": null,
+    "event_id": "1ee49b636b0e968bd51670f64edc85cc4611213b5ae5a9e49984ebc9e5ec69b9",
+    "created_at": 1751693211,
+    "npub": "npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8/1/1ee49b636b0e968bd51670f64edc85cc4611213b5ae5a9e49984ebc9e5ec69b9.json",
+    "title": "test w/ multipub (a different npub",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "6caf8d54a00720f541b9acb280960fbdd8ec9a6db3cd1a49228cc01d65a1b51f",
+    "created_at": 1751692920,
+    "npub": "npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8/1/6caf8d54a00720f541b9acb280960fbdd8ec9a6db3cd1a49228cc01d65a1b51f.json",
+    "title": "test",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "8c752d17d66b303ee0579ded8bc0dcea97401b3ac8e0a56e1341b3439de8b8e5",
+    "created_at": 1751692853,
+    "npub": "npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8/1/8c752d17d66b303ee0579ded8bc0dcea97401b3ac8e0a56e1341b3439de8b8e5.json",
+    "title": "test",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "mycontinuum-changelog---v101--post-publish-refresh-patch-2025-07-02",
     "event_id": "b9914aa1274d6ebda65153d3e03a5d53a0080f1757eb42900205fb1489f6016f",
     "created_at": 1751653674,
@@ -12262,6 +12394,17 @@
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8/30023/040ba5d13e5b7f0ee6b7d933e7d67ffae5b003ffb87f74d8607e0d3df83c30c1.json",
     "title": "A Declaration of Digital Independence",
     "summary": "Published on July 4 as a declaration of digital independence, this inaugural post from the Continuum identity was written, signed, and published using a fully self-hosted system. It introduces Continuum not just as a tool, but as a sovereign philosophy — rejecting platforms, reclaiming identity, and proving that we can publish from our own machines, without permission.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "79fed267ab048ed5b8ae7a473b4a474eac922b59e48b77d2627cef6a2822b338",
+    "created_at": 1751647265,
+    "npub": "npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8/1/79fed267ab048ed5b8ae7a473b4a474eac922b59e48b77d2627cef6a2822b338.json",
+    "title": "July 4,  2025  -  A Declaration of Digital Independence",
+    "summary": "",
     "paid": false
   },
   {
