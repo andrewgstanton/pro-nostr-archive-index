@@ -393,15 +393,22 @@
         const base = jsonUrl.replace(/\.json$/i, "");
         const mdUrl = base + ".md";
         const pdfUrl = base + ".pdf";
-  
+
+        // for handling profile urls
+        const isProfile = (evJson.kind === 0);
+        // Prefer npub (best UX); fall back to pubkey hex if needed
+        const profileId = entry.npub || evJson.pubkey || eventId;
+        // What external clients should open
+        const externalId = isProfile ? profileId : eventId;
+
         linksEl.innerHTML = `
           <a href="${jsonUrl}" target="_blank">Raw JSON</a>
           <a href="${mdUrl}" target="_blank">Markdown (if exists)</a>
           <a href="${pdfUrl}" target="_blank">PDF (if exists)</a>
-          <a href="https://primal.net/e/${eventId}" target="_blank">Primal</a>
-          <a href="https://coracle.social/notes/${eventId}" target="_blank">Coracle</a>
-          <a href="https://phoenix.social/e/${eventId}" target="_blank">Phoenix</a>
-          <a href="https://njump.me/${eventId}" target="_blank">njump</a>
+          <a href="https://primal.net/e/${externalId}" target="_blank">Primal</a>
+          <a href="https://coracle.social/notes/${externalId}" target="_blank">Coracle</a>
+          <a href="https://phoenix.social/e/${externalId}" target="_blank">Phoenix</a>
+          <a href="https://njump.me/${externalId}" target="_blank">njump</a>
         `;
         linksEl.style.display = "block";
   
