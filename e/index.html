@@ -396,20 +396,36 @@
 
         // for handling profile urls
         const isProfile = (evJson.kind === 0);
-        // Prefer npub (best UX); fall back to pubkey hex if needed
-        const profileId = entry.npub || evJson.pubkey || eventId;
-        // What external clients should open
-        const externalId = isProfile ? profileId : eventId;
 
-        linksEl.innerHTML = `
-          <a href="${jsonUrl}" target="_blank">Raw JSON</a>
-          <a href="${mdUrl}" target="_blank">Markdown (if exists)</a>
-          <a href="${pdfUrl}" target="_blank">PDF (if exists)</a>
-          <a href="https://primal.net/e/${externalId}" target="_blank">Primal</a>
-          <a href="https://coracle.social/notes/${externalId}" target="_blank">Coracle</a>
-          <a href="https://phoenix.social/e/${externalId}" target="_blank">Phoenix</a>
-          <a href="https://njump.me/${externalId}" target="_blank">njump</a>
-        `;
+        // For profiles we always want npub
+        const npub = entry.npub;
+
+        // For events we want the event id
+        const eid = eventId;
+
+        if (isProfile) {
+          linksEl.innerHTML = `
+            <a href="${jsonUrl}" target="_blank">Raw JSON</a>
+            <a href="${mdUrl}" target="_blank">Markdown (if exists)</a>
+            <a href="${pdfUrl}" target="_blank">PDF (if exists)</a>
+            <a href="https://primal.net/p/${npub}" target="_blank">Primal</a>
+            <a href="https://coracle.social/${npub}" target="_blank">Coracle</a>
+            <a href="https://phoenix.social/${npub}" target="_blank">Snort</a>
+            <a href="https://iris.to/${npub}" target="_blank">Iris</a>
+            <a href="https://njump.me/${npub}" target="_blank">njump</a>
+          `;
+        } else {
+          linksEl.innerHTML = `
+            <a href="${jsonUrl}" target="_blank">Raw JSON</a>
+            <a href="${mdUrl}" target="_blank">Markdown (if exists)</a>
+            <a href="${pdfUrl}" target="_blank">PDF (if exists)</a>
+            <a href="https://primal.net/e/${eid}" target="_blank">Primal</a>
+            <a href="https://coracle.social/notes/${eid}" target="_blank">Coracle</a>
+            <a href="https://phoenix.social/e/${eid}" target="_blank">Phoenix</a>
+            <a href="https://njump.me/${eid}" target="_blank">njump</a>
+          `;
+        }
+                
         linksEl.style.display = "block";
   
         // Header image
