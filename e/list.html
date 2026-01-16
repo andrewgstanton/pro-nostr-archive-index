@@ -193,6 +193,11 @@
     </select>
 
     <label>
+      <input type="checkbox" id="kind-0" checked />
+      Profiles
+    </label>
+
+    <label>
       <input type="checkbox" id="kind-1" checked />
       Notes
     </label>
@@ -435,16 +440,32 @@
               const link = document.createElement("a");
               link.className = "title-link";
               link.href = `./?event_id=${encodeURIComponent(item.event_id)}`;
-              link.textContent = item.title || item.slug || "(Untitled)";
+
+              const isProfile = (item.kind === 0);
+              const profileName =
+                item.display_name ||
+                item.name ||
+                item.profile_name ||   // in case your index builder used a different key
+                null;
+
+              link.textContent = isProfile
+                ? (profileName ? `Profile: ${profileName}` : "Profile")
+                : (item.title || item.slug || "(Untitled)");
+
+              // link.textContent = item.title || item.slug || "(Untitled)";
 
               item.paid = isPaid(item);
-              
-              const badge = document.createElement("span");
-              badge.className = "badge " + (item.paid ? "paid" : "free");
-              badge.textContent = item.paid ? "Paid" : "Free";
+
 
               titleRow.appendChild(link);
-              titleRow.appendChild(badge);
+              
+              if (item.kind !== 0) {
+                const badge = document.createElement("span");
+                badge.className = "badge " + (item.paid ? "paid" : "free");
+                badge.textContent = item.paid ? "Paid" : "Free";
+                titleRow.appendChild(badge);
+              }
+              
               li.appendChild(titleRow);
 
               // If there are multiple versions for this slug, show a collapsible list
@@ -529,8 +550,10 @@
       if (year) params.set("year", year);
 
       const kinds = [];
+      if (document.getElementById("kind-0").checked) kinds.push(0);
       if (document.getElementById("kind-1").checked) kinds.push(1);
       if (document.getElementById("kind-30023").checked) kinds.push(30023);
+
       if (kinds.length) params.set("kind", kinds.join(","));
 
       const paid = [];
