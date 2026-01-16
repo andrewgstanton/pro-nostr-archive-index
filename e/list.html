@@ -355,12 +355,27 @@
         }
 
         // Group by (npub, slug) to collapse multiple versions of the same article
+        //const slugGroups = {};
+        //for (const item of filteredItems) {
+        //  const slugKey = (item.npub || "unknown") + "::" + (item.slug || item.event_id);
+        //  if (!slugGroups[slugKey]) slugGroups[slugKey] = [];
+        //  slugGroups[slugKey].push(item);
+        //}
         const slugGroups = {};
         for (const item of filteredItems) {
-          const slugKey = (item.npub || "unknown") + "::" + (item.slug || item.event_id);
-          if (!slugGroups[slugKey]) slugGroups[slugKey] = [];
-          slugGroups[slugKey].push(item);
+          let groupKey;
+
+          if (item.kind === 0) {
+            // ✅ Profiles: one group per npub
+            groupKey = `profile::${item.npub}`;
+          } else {
+            // ✅ Articles / notes: existing behavior
+            groupKey = (item.npub || "unknown") + "::" + (item.slug || item.event_id);
+          }
+          if (!slugGroups[groupKey]) slugGroups[groupKey] = [];
+          slugGroups[groupKey].push(item);
         }
+
 
         // For each (npub, slug) group, sort by created_at desc and keep track of all versions
         const dedupedItems = [];
