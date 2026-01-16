@@ -1,6 +1,17 @@
 [
   {
     "slug": null,
+    "event_id": "c02a6ccdcbfcd0f8c0c5e2a5ce8168855afa9fc334e072525e9a1e46159af5af",
+    "created_at": 1768585996,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/c02a6ccdcbfcd0f8c0c5e2a5ce8168855afa9fc334e072525e9a1e46159af5af.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
     "event_id": "a7c724649b27ccd4890a526baea3100f49f817c5d38b68d72493fc53b53eb3ed",
     "created_at": 1768534300,
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
