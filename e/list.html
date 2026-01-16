@@ -312,10 +312,14 @@
 
         const filterNpub = urlParams.get("npub");
         const filterYear = urlParams.get("year");
+
         const filterKinds = (urlParams.get("kind") || "")
           .split(",")
+          .map(s => s.trim())
+          .filter(s => s.length > 0)
           .map(Number)
-          .filter(Boolean);
+          .filter(n => Number.isFinite(n));   // keeps 0, removes NaN
+
         const filterPaid = (urlParams.get("paid") || "")
           .split(",")
           .map(s => s.trim())
