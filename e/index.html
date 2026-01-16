@@ -152,7 +152,27 @@
       if (!ts) return "";
       return new Date(ts * 1000).toISOString().slice(0, 10);
     }
-  
+
+    // ----- HELPERS for parsing profile content
+    function parseProfileContent(content) {
+      try {
+        const obj = JSON.parse(content || "{}");
+        return (obj && typeof obj === "object") ? obj : {};
+      } catch {
+        return {};
+      }
+    }
+
+    function escapeHtml(s) {
+      return String(s || "")
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#39;");
+    }
+
+    
     // --------- NEW HELPERS FOR PAID DECRYPTION ----------
   
     // base64url → Uint8Array
@@ -339,8 +359,13 @@
           .filter(Boolean);
   
         // Title
-        titleEl.textContent = entry.title || entry.slug || "Untitled";
-  
+        if (evJson.kind === 0) {
+          const profile = parseProfileContent(evJson.content);
+          titleEl.textContent = profile.display_name || profile.name || entry.npub || "Profile";
+        } else {
+          titleEl.textContent = entry.title || entry.slug || "Untitled";
+        }
+        
         // Created & Published
         const createdDate = entry.created_at ? formatDate(entry.created_at) : "";
         const publishedDate = displayDate || createdDate;
@@ -384,10 +409,59 @@
         if (imageTag && imageTag[1]) {
           const img = document.createElement("img");
           img.src = imageTag[1];
-          img.alt = entry.title || entry.slug;
+          img.alt = titleEl.textContent || entry.title || entry.slug || "Header image";
           headerImageEl.innerHTML = "";
           headerImageEl.appendChild(img);
         }
+
+        // ✅ Special rendering for kind:0 profiles
+        if (evJson.kind === 0) {
+          const profile = parseProfileContent(evJson.content);
+
+          // Meta line stays the same; but you can optionally add nip05/lud16
+          const extra = [];
+          if (profile.nip05) extra.push(`nip05: ${profile.nip05}`);
+          if (profile.lud16) extra.push(`lud16: ${profile.lud16}`);
+          if (profile.website) extra.push(`website: ${profile.website}`);
+          if (extra.length) metaEl.textContent += "\n" + extra.join(" • ");
+
+          // Render banner + avatar + about
+          const parts = [];
+
+          if (profile.banner) {
+            parts.push(`<div><img src="${profile.banner}" style="max-width:100%; border-radius:0.75rem; margin-bottom:1rem; display:block;" /></div>`);
+          }
+
+          if (profile.picture) {
+            parts.push(`
+              <div style="display:flex; gap:1rem; align-items:flex-start; margin-bottom:1rem;">
+                <img src="${profile.picture}" style="width:96px; height:96px; border-radius:999px; object-fit:cover;" />
+                <div style="font-size:0.95rem; color:#333;">
+                  ${profile.name ? `<div><b>${profile.name}</b></div>` : ""}
+                  ${profile.display_name ? `<div>${profile.display_name}</div>` : ""}
+                </div>
+              </div>
+            `);
+          }
+
+          if (profile.about) {
+            // Use <pre> to preserve newlines like profile "about" typically has
+            parts.push(`<pre style="background:#f3f4f6; color:#111; border-radius:0.5rem; padding:1rem; white-space:pre-wrap; word-break:break-word;">${escapeHtml(profile.about)}</pre>`);
+          }
+
+          // Render links (optional)
+          const linkBits = [];
+          if (profile.website) linkBits.push(`<a href="${profile.website}" target="_blank">Website</a>`);
+          if (profile.nip05) linkBits.push(`<span>nip05: ${escapeHtml(profile.nip05)}</span>`);
+          if (profile.lud16) linkBits.push(`<span>lud16: ${escapeHtml(profile.lud16)}</span>`);
+          if (linkBits.length) {
+            parts.push(`<div class="links" style="display:block;">${linkBits.join(" • ")}</div>`);
+          }
+
+          contentEl.innerHTML = parts.join("\n");
+          return; // ✅ don’t run markdown/decrypt logic
+        }
+
   
         // Markdown → HTML with optional decryption
         const raw = evJson.content || "";
