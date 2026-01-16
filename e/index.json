@@ -1,5 +1,16 @@
 [
   {
+    "slug": null,
+    "event_id": "a7c724649b27ccd4890a526baea3100f49f817c5d38b68d72493fc53b53eb3ed",
+    "created_at": 1768534300,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 0,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/0/a7c724649b27ccd4890a526baea3100f49f817c5d38b68d72493fc53b53eb3ed.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "sovereign-publishing-why-ownership-matters-more-than-reach-2026-01-15",
     "event_id": "60f76d015471167c6e19e3b7ffe49939a9850966c7dbe0e32eeb407efc133e00",
     "created_at": 1768514290,
