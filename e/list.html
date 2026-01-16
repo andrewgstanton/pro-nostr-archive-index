@@ -228,6 +228,8 @@
     <script>
 
     function isPaid(item) {
+      // profiles are never paid
+      if (item.kind === 0) return false;
       // trust explicit paid flag if present:
       if (item.paid === true) return true;
 
