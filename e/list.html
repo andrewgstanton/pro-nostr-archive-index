@@ -355,12 +355,6 @@
         }
 
         // Group by (npub, slug) to collapse multiple versions of the same article
-        //const slugGroups = {};
-        //for (const item of filteredItems) {
-        //  const slugKey = (item.npub || "unknown") + "::" + (item.slug || item.event_id);
-        //  if (!slugGroups[slugKey]) slugGroups[slugKey] = [];
-        //  slugGroups[slugKey].push(item);
-        //}
         const slugGroups = {};
         for (const item of filteredItems) {
           let groupKey;
@@ -495,7 +489,12 @@
                 details.className = "event-versions";
 
                 const summary = document.createElement("summary");
-                summary.textContent = `Versions (${entry.versions.length})`;
+
+                summary.textContent =
+                    (item.kind === 0)
+                    ? `Profile history (${entry.versions.length})`
+                    : `Versions (${entry.versions.length})`;
+
                 details.appendChild(summary);
 
                 const ul = document.createElement("ul");
