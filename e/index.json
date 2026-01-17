@@ -1,6 +1,17 @@
 [
   {
     "slug": "honey-kissed-soy-chicken-with-vegetables",
+    "event_id": "be828ce0054155853b12a2e7861c8561c538b81e56e97e34e69b03e680bdaa0e",
+    "created_at": 1768677325,
+    "npub": "npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg/30023/be828ce0054155853b12a2e7861c8561c538b81e56e97e34e69b03e680bdaa0e.json",
+    "title": "Honey-Kissed Soy Chicken with Vegetables",
+    "summary": "Honey, soy, and garlic come together in a simple sweet-savory chicken dish — the kind of comforting meal that’s perfect for a quiet dinner at the kitchen table.",
+    "paid": false
+  },
+  {
+    "slug": "honey-kissed-soy-chicken-with-vegetables",
     "event_id": "a28b484db449316ed8532445a69f22cc7e33b46758ad23c0e913d9cfcb8110f8",
     "created_at": 1768676445,
     "npub": "npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg",
