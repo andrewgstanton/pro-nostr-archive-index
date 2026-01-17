@@ -5325,6 +5325,17 @@
   },
   {
     "slug": null,
+    "event_id": "4074a8fb42c42c98175e7448ed4f3b7802d5a5cb259afeb95fa1e1a0f0f6a030",
+    "created_at": 1765490009,
+    "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/1/4074a8fb42c42c98175e7448ed4f3b7802d5a5cb259afeb95fa1e1a0f0f6a030.json",
+    "title": "New paid essay:  “Why Sovereign Tools Must Outlast Their Creators”",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
     "event_id": "f2b56032065d0c0b25618aff91ecd520b57d9bbf304a3b1122b0fb9c6257233c",
     "created_at": 1765489708,
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
@@ -5343,6 +5354,28 @@
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/a15d968a065daf69cb61086a281c4942a9710f041dc1aeb2361fdab9e8bf357b.json",
     "title": "Paid Article (Dec. 11, 2025): Why Sovereign Tools Must Outlast Their Creators",
     "summary": "A deep exploration of why Continuum — and all sovereign systems — must be built to endure beyond their founders. Sovereign tools are cathedrals, not startups.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "305523ef66783ce0f72ab577d37720c704350c39222b4e6d5353200fd9b5daac",
+    "created_at": 1765487606,
+    "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/1/305523ef66783ce0f72ab577d37720c704350c39222b4e6d5353200fd9b5daac.json",
+    "title": "New piece today:  “Sovereignty Is Learned in Small Steps”",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "aa4718af337e9dd730d9fd8ba122b60989c5e33cabcb361ad374f0625eedff69",
+    "created_at": 1765487498,
+    "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/1/aa4718af337e9dd730d9fd8ba122b60989c5e33cabcb361ad374f0625eedff69.json",
+    "title": "Bitcoin Chronicles lore drop:  “The First Pilgrim Charter”",
+    "summary": "",
     "paid": false
   },
   {
@@ -10765,6 +10798,28 @@
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/6bceab8e077eecaca106bdaa5d382cea1a813628d5cd9005852fbe881277bf12.json",
     "title": "Continuum Magazine — Issue #1 (Sept 1–7, 2025)",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "8c59f2c0e3926e26ac53e29d21f92d903d9b83c6a58b789c8e7213bd6ded1b0b",
+    "created_at": 1757711017,
+    "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/1/8c59f2c0e3926e26ac53e29d21f92d903d9b83c6a58b789c8e7213bd6ded1b0b.json",
+    "title": "Continuum Magazine — Issue #1 (Sept 1–7, 2025)",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "b4c74153b3984021213742f37a37d910abb747f9c083c191fb22c64c463c6445",
+    "created_at": 1757653001,
+    "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a",
+    "kind": 0,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/0/b4c74153b3984021213742f37a37d910abb747f9c083c191fb22c64c463c6445.json",
+    "title": "",
     "summary": "",
     "paid": false
   },
