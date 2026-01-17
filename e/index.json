@@ -1,5 +1,93 @@
 [
   {
+    "slug": "why-i-dont-optimize-for-reach-anymore-2026-01-16",
+    "event_id": "90ece95231ce658a733768c0f640598481ae1b869d9ba55b96d62782ea4db155",
+    "created_at": 1768618154,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/90ece95231ce658a733768c0f640598481ae1b869d9ba55b96d62782ea4db155.json",
+    "title": "Why I Don’t Optimize for Reach Anymore",
+    "summary": "Reach is treated as the ultimate success metric for writers and creators—but it is a fiat metric, not a sovereign one. This essay explains why optimizing for reach leads to fragility, burnout, and dependence, and why serious builders are better served by optimizing for continuity, recoverability, and daily output instead.",
+    "paid": false
+  },
+  {
+    "slug": "you-can-rebuild-everything-from-public-memory--that-changes-the-game-2026-01-16",
+    "event_id": "bca86daf243547bc439e4f85daa7bf17a9bdd08cb96d5566fc95b44e1069d1c0",
+    "created_at": 1768618086,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/bca86daf243547bc439e4f85daa7bf17a9bdd08cb96d5566fc95b44e1069d1c0.json",
+    "title": "You Can Rebuild Everything From Public Memory — That Changes the Game",
+    "summary": "What happens when your entire publishing system can be erased—and rebuilt—from public memory alone? This essay explores why true durability is not about backups, platforms, or promises of permanence, but about regenerability. Rehydration changes the power dynamics of publishing, identity, and creative ownership in a way most people still don’t see.",
+    "paid": false
+  },
+  {
+    "slug": "owning-the-timeline-why-my-archive-matters-more-than-my-audience-2026-01-16",
+    "event_id": "09189f49c87092daa41ffe5e2c7a8753599090f59316d68513c505cd2c475240",
+    "created_at": 1768618031,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/09189f49c87092daa41ffe5e2c7a8753599090f59316d68513c505cd2c475240.json",
+    "title": "Owning the Timeline: Why My Archive Matters More Than My Audience",
+    "summary": "Audiences fluctuate. Platforms decay. Timelines endure. This essay explains why a complete, verifiable personal archive is more valuable than any follower count—and why future-you is the most important reader you will ever have.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "60d3bef76f3c8798c7b00b43f779e13a0e226b48134f0cc796187c6dfdd5190d",
+    "created_at": 1768617888,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/60d3bef76f3c8798c7b00b43f779e13a0e226b48134f0cc796187c6dfdd5190d.json",
+    "title": "📝 Note 5 - 1/16/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "713a37b67afaad6681d4789e22e0e8498008158db68dc6dd695217e9ecaec298",
+    "created_at": 1768617816,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/713a37b67afaad6681d4789e22e0e8498008158db68dc6dd695217e9ecaec298.json",
+    "title": "📝 Note 4 - 1/16/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "974797b39b88cfad623a074285044d541a8a724af794808f2a21d6adebd47aff",
+    "created_at": 1768617746,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/974797b39b88cfad623a074285044d541a8a724af794808f2a21d6adebd47aff.json",
+    "title": "📝 Note 3 - 1/16/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "7f9395f8678595d84fc32294d07f67e8761a4d2b24c881703e016382476a78f6",
+    "created_at": 1768617675,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/7f9395f8678595d84fc32294d07f67e8761a4d2b24c881703e016382476a78f6.json",
+    "title": "📝 Note 2 - 1/16/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "00a0b18339f298501408fbea79506cf925fe59046ec58948bfa2cf6ceb9b8048",
+    "created_at": 1768617589,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/00a0b18339f298501408fbea79506cf925fe59046ec58948bfa2cf6ceb9b8048.json",
+    "title": "📝 Note 1 - 1/16/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": null,
     "event_id": "aee68c09366d874de0d9dcd6f1f29a77a8303a83350a9ffecaf3679929996a30",
     "created_at": 1768603806,
