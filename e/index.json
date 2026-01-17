@@ -11055,6 +11055,17 @@
     "paid": false
   },
   {
+    "slug": null,
+    "event_id": "59ba970488e768faa15f880c0ae777e79080be9450c5f3bc4b2c39faa1685ada",
+    "created_at": 1757185121,
+    "npub": "npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg",
+    "kind": 0,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg/0/59ba970488e768faa15f880c0ae777e79080be9450c5f3bc4b2c39faa1685ada.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "free-article-2-sept-6-2025-why-rest-is-resistance",
     "event_id": "93da97a6ff20a889156e6b7e6cce2d0d8e435f57dac71a562ce5b3b2e593aac7",
     "created_at": 1757176795,
@@ -12233,12 +12244,78 @@
   },
   {
     "slug": null,
+    "event_id": "312faddc8090a5096858a8c5a4c83223d418dcd5b7e0e3b5c83d7595eaf96fec",
+    "created_at": 1755403683,
+    "npub": "npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg/1/312faddc8090a5096858a8c5a4c83223d418dcd5b7e0e3b5c83d7595eaf96fec.json",
+    "title": "New Short - What I ate this year so far - 7/25/2025",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "f2590954405d42f9a3efb2a8f67293d3c297a706ea3b2842e6e5d03b52448a51",
+    "created_at": 1755403259,
+    "npub": "npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg/1/f2590954405d42f9a3efb2a8f67293d3c297a706ea3b2842e6e5d03b52448a51.json",
+    "title": "New Short - chariots of fire! - 8/15/2025",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
     "event_id": "03f8551bc7c55f0529c59c9fd6eda93b18acfaf7130e3b12d5a887b76d471a98",
     "created_at": 1755320617,
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/03f8551bc7c55f0529c59c9fd6eda93b18acfaf7130e3b12d5a887b76d471a98.json",
     "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "dfe3f2005bdfa068d8cb772836ab18c7243a1756e77284ae6abb659f90df7473",
+    "created_at": 1755317825,
+    "npub": "npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg/1/dfe3f2005bdfa068d8cb772836ab18c7243a1756e77284ae6abb659f90df7473.json",
+    "title": "New Short - arugula salad with anchovy fillets - 8/8/2025",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "cb560ff209a961d21a569c78f2896b9c6729b5a842b5be483d53a55c88a89c21",
+    "created_at": 1755317647,
+    "npub": "npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg/1/cb560ff209a961d21a569c78f2896b9c6729b5a842b5be483d53a55c88a89c21.json",
+    "title": "New Short - Weekend sandwiches  8/11/2025",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "2fa1b17e0caf54111fd8e1d3adac2bcd88143fba3a515021d9da1e3f6d71d714",
+    "created_at": 1755317458,
+    "npub": "npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg/1/2fa1b17e0caf54111fd8e1d3adac2bcd88143fba3a515021d9da1e3f6d71d714.json",
+    "title": "New Short - Simple Romaine lettuce salad - 8/13/2025",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "23bb6b5b946db848a92ca59cc8b8f2c96fd8967b4d32b3ee9e4bf50c3508a99a",
+    "created_at": 1755317271,
+    "npub": "npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg/1/23bb6b5b946db848a92ca59cc8b8f2c96fd8967b4d32b3ee9e4bf50c3508a99a.json",
+    "title": "New Short - Salmon with Yuzu Pepper Paste - 8/14/2025",
     "summary": "",
     "paid": false
   },
@@ -12574,6 +12651,17 @@
   },
   {
     "slug": null,
+    "event_id": "1603cae2889d32527883c1d03deb330ea06c1fe84d7aaeb1b35ab5d09de23c3d",
+    "created_at": 1752034925,
+    "npub": "npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg/1/1603cae2889d32527883c1d03deb330ea06c1fe84d7aaeb1b35ab5d09de23c3d.json",
+    "title": "NEW Short!!",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
     "event_id": "da2581884d9795824f06558a824b5fd737553cc7cc7d7ad807f6644b8ccf9497",
     "created_at": 1752034371,
     "npub": "npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8",
@@ -12713,6 +12801,17 @@
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8/30023/322fb7d96133b9cb57da28fa9a827aec0a305fac67d8137fe4fb99beb5aefa0d.json",
     "title": "MyContinuum (PRO) Changelog - v1.1.0 — Relay Coverage & UI Enhancements (2025-07-02)",
     "summary": "Relay Coverage infrasture",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "c776f02240724f531ba0d8d7ea2bb44302174ee909cde27b8cc3292929702f2a",
+    "created_at": 1751744434,
+    "npub": "npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg/1/c776f02240724f531ba0d8d7ea2bb44302174ee909cde27b8cc3292929702f2a.json",
+    "title": "Posting on continuum",
+    "summary": "",
     "paid": false
   },
   {
@@ -13426,6 +13525,17 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/7f1e891f20996ac3e1e7616f3188cc9c94965d0395008e6c7597187cb87c90a1.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "a2c5233909129bb0c462338491dc5019f4c78d5e2b659581a5922ed7e2e9cfc7",
+    "created_at": 1748724262,
+    "npub": "npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg/1/a2c5233909129bb0c462338491dc5019f4c78d5e2b659581a5922ed7e2e9cfc7.json",
     "title": "",
     "summary": "",
     "paid": false
