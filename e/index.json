@@ -11979,6 +11979,17 @@
     "paid": false
   },
   {
+    "slug": null,
+    "event_id": "978bb6d89bf715cb0cd5f75c03bed90dd763988116afbccfa5fd0045e35f375c",
+    "created_at": 1755573596,
+    "npub": "npub1nxq3v0mr2656ykdw550uq6s0hjpjuufkdhx2ysk0789kjq5xu7ns8aunx4",
+    "kind": 0,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1nxq3v0mr2656ykdw550uq6s0hjpjuufkdhx2ysk0789kjq5xu7ns8aunx4/0/978bb6d89bf715cb0cd5f75c03bed90dd763988116afbccfa5fd0045e35f375c.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "what-i-mean-by-sovereign-technology",
     "event_id": "833c8b99ff8b5694524a36d9cb4d15c94a4cff74486aaf193a1a3d9c75db95af",
     "created_at": 1755562033,
@@ -12238,7 +12249,7 @@
     "npub": "npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5/1/b0d6dc6e331808a69a3d9cdb0ae9e07d1c27b982a01f78861a7e1940ad7a7714.json",
-    "title": "",
+    "title": "Scaling Smarter: Our Vision for Remote Talent + AI-Driven Startups",
     "summary": "",
     "paid": false
   },
@@ -12504,6 +12515,17 @@
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1nxq3v0mr2656ykdw550uq6s0hjpjuufkdhx2ysk0789kjq5xu7ns8aunx4/30023/4a12649db6262dcb76df2dddbbc1b3d5c2dc287349d3ee23d1295af082e14f58.json",
     "title": "🌍 Welcome to Blue Planet Ventures",
     "summary": "Launching Blue Planet Ventures on Nostr — a new company exploring sovereign trading, capital formation, and sustainability through Bitcoin and open protocols.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "5c94a148910dd55c3ca8b8d1831b48509381ff6761a53ca8a4b0b02166a0156a",
+    "created_at": 1752020530,
+    "npub": "npub1nxq3v0mr2656ykdw550uq6s0hjpjuufkdhx2ysk0789kjq5xu7ns8aunx4",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1nxq3v0mr2656ykdw550uq6s0hjpjuufkdhx2ysk0789kjq5xu7ns8aunx4/1/5c94a148910dd55c3ca8b8d1831b48509381ff6761a53ca8a4b0b02166a0156a.json",
+    "title": "",
+    "summary": "",
     "paid": false
   },
   {
