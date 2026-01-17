@@ -138,8 +138,8 @@
     "npub": "npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8",
     "kind": 30023,
     "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8/30023/bad9f6aba928d1ded029d23e9b5de6de55fff9ce9070ed2cf57ac5f4d1263848.json",
-    "title": "",
-    "summary": "",
+    "title": "Dropbox → Long-Term Archive (ZIP + Checksum) HOWTO",
+    "summary": "Safely migrate data out of Dropbox into a verifiable, long-term archive stored on Google Drive (or another external location)",
     "paid": false
   },
   {
@@ -12002,6 +12002,17 @@
   },
   {
     "slug": null,
+    "event_id": "f6f370f407c74cc36fe51c234d150c00775f502ac51ca610c50423dad32bb673",
+    "created_at": 1755573684,
+    "npub": "npub1vldyjwvsn84whhgxe5c35n05c7f9km8uf84v2pz2mn44vzm5qkwqt8gmjy",
+    "kind": 0,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1vldyjwvsn84whhgxe5c35n05c7f9km8uf84v2pz2mn44vzm5qkwqt8gmjy/0/f6f370f407c74cc36fe51c234d150c00775f502ac51ca610c50423dad32bb673.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
     "event_id": "978bb6d89bf715cb0cd5f75c03bed90dd763988116afbccfa5fd0045e35f375c",
     "created_at": 1755573596,
     "npub": "npub1nxq3v0mr2656ykdw550uq6s0hjpjuufkdhx2ysk0789kjq5xu7ns8aunx4",
@@ -14130,6 +14141,17 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/9de96bb71c9086f9c4e50de7eda0056c75b90cf7989624a2596a3a42ed5ecbc5.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "c34dedd44f8d0fb1b0d7365ad8fa16d0d780fd39e036bbd815e55e28facb7a7b",
+    "created_at": 1747110019,
+    "npub": "npub1vldyjwvsn84whhgxe5c35n05c7f9km8uf84v2pz2mn44vzm5qkwqt8gmjy",
+    "kind": 1,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1vldyjwvsn84whhgxe5c35n05c7f9km8uf84v2pz2mn44vzm5qkwqt8gmjy/1/c34dedd44f8d0fb1b0d7365ad8fa16d0d780fd39e036bbd815e55e28facb7a7b.json",
     "title": "",
     "summary": "",
     "paid": false
