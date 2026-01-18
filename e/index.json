@@ -1,6 +1,17 @@
 [
   {
     "slug": null,
+    "event_id": "ca2588752a7719b60473fd9c28be0e196e6bea5b79d161758c9daad14ae089f2",
+    "created_at": 1768698101,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/ca2588752a7719b60473fd9c28be0e196e6bea5b79d161758c9daad14ae089f2.json",
+    "title": "Continuum Services",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
     "event_id": "a7d256a04c9c4cddcb6452859f6d80bdca26a0f6b5b0f335fe4c0c719d546908",
     "created_at": 1768694745,
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
