@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 20 Jan 2026 18:19:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 19:45:51 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 a920c849ba</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a920c849ba4ec99d3ef7788d34047bee107e8cb0695fb9063498cf6ec0cdd557</link>
+      <guid isPermaLink="false">a920c849ba4ec99d3ef7788d34047bee107e8cb0695fb9063498cf6ec0cdd557</guid>
+      <pubDate>Tue, 20 Jan 2026 19:40:29 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:0 a151432b25</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=a151432b25e41d28a8466ba795765c68c01514ce70725045f589afba456d325b</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">b28700d16c561f574c16200d3ce7dea142844be5af26e754c3cff8b70a5de0b7</guid>
       <pubDate>Mon, 17 Nov 2025 03:30:43 GMT</pubDate>
       <description><![CDATA[he quiet panic of discovering that my earliest Nostr events — only months old — had vanished from every relay except Primal’s backup. A reflection on fragility, fatigue, and why Friday set the stage for Saturday’s breakthrough.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>CW3 (Christians in Web3) Through Four Ethical Lenses — A Vision for Alignment</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f05be55b0ae6a57de2de45f876c355ab0b89dbde4f9bdb436be0057bf2f1e1c3</link>
-      <guid isPermaLink="false">f05be55b0ae6a57de2de45f876c355ab0b89dbde4f9bdb436be0057bf2f1e1c3</guid>
-      <pubDate>Sun, 16 Nov 2025 17:30:35 GMT</pubDate>
-      <description><![CDATA[This article evaluates Christians in Web3 (CW3) through four ethical frameworks — utilitarian, rights-based, justice/fairness, and virtue ethics. It contrasts how CW3 currently operates with how it could function if transparency, stewardship, and Kingdom values were prioritized. The vision is constructive: guardrails that reduce harm, uphold rights, ensure fairness, and elevate honesty over hype. Such alignment would make participation more trustworthy and genuinely Kingdom-focused.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
