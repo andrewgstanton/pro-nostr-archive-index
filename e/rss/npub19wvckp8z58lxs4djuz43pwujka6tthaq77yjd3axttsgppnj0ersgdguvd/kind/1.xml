@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Continuum Index — npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (Notes)</title>
+    <title>Continuum Archive Index — npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (Notes)</title>
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 20 Jan 2026 02:29:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 04:21:43 GMT</lastBuildDate>
     <item>
       <title>5️⃣ -1/19/2026</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=55bb6bcb3a6d6fdc2d23e0b15fed8e6065492765e76b8f69ff53b6ffa4c03a20</link>
