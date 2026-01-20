@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Continuum Index — Global</title>
+    <title>Continuum Index — npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</title>
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
-    <description>Canonical chronological index of published works (newest 500).</description>
-    <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
+    <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
+    <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
     <lastBuildDate>Tue, 20 Jan 2026 01:24:21 GMT</lastBuildDate>
     <item>
       <title>🔒 The Bitcoin Chronicles - 1.A.6.2 - The Ones Who Never Left</title>
@@ -227,26 +227,6 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>Shipping applications without funding: an async, open-source- inspired model using equity (HSD)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a8ddd721b9602301d6d241cac2b75eef1acc1e542e67bc2b59ddca50f2b798dc</link>
-      <guid isPermaLink="false">a8ddd721b9602301d6d241cac2b75eef1acc1e542e67bc2b59ddca50f2b798dc</guid>
-      <pubDate>Sat, 17 Jan 2026 22:27:10 GMT</pubDate>
-      <description><![CDATA[Indie Hacker original post on 1/12/2026]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Honey-Kissed Soy Chicken with Vegetables</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5df716406cb3030d42c5bf74503c9cf8eedc9cd681489b771d63a4b09dc40d63</link>
-      <guid isPermaLink="false">5df716406cb3030d42c5bf74503c9cf8eedc9cd681489b771d63a4b09dc40d63</guid>
-      <pubDate>Sat, 17 Jan 2026 21:54:33 GMT</pubDate>
-      <description><![CDATA[Honey, soy, and garlic come together in a simple sweet-savory chicken dish — the kind of comforting meal that’s perfect for a quiet dinner at the kitchen table.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg</category>
-      <category>paid:false</category>
-    </item>
-    <item>
       <title>Note 5 - 1/17/2026</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=319ad64dc058ba7e0d505b4a9eeb4e702443596f6df54cb4af84c91999056029</link>
       <guid isPermaLink="false">319ad64dc058ba7e0d505b4a9eeb4e702443596f6df54cb4af84c91999056029</guid>
@@ -324,26 +304,6 @@
       <description><![CDATA[Not everything needs to be measured, improved, or shipped. Some of the most important work happens when we stop adjusting the dials and allow ideas — and ourselves — to rest. This is a reflection on choosing slowness, limits, and unfinishedness, especially when the world keeps nudging us to do more.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Honey-Kissed Soy Chicken with Vegetables</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=be828ce0054155853b12a2e7861c8561c538b81e56e97e34e69b03e680bdaa0e</link>
-      <guid isPermaLink="false">be828ce0054155853b12a2e7861c8561c538b81e56e97e34e69b03e680bdaa0e</guid>
-      <pubDate>Sat, 17 Jan 2026 19:15:25 GMT</pubDate>
-      <description><![CDATA[Honey, soy, and garlic come together in a simple sweet-savory chicken dish — the kind of comforting meal that’s perfect for a quiet dinner at the kitchen table.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Honey-Kissed Soy Chicken with Vegetables</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a28b484db449316ed8532445a69f22cc7e33b46758ad23c0e913d9cfcb8110f8</link>
-      <guid isPermaLink="false">a28b484db449316ed8532445a69f22cc7e33b46758ad23c0e913d9cfcb8110f8</guid>
-      <pubDate>Sat, 17 Jan 2026 19:00:45 GMT</pubDate>
-      <description><![CDATA[Honey, soy, and garlic come together in a simple sweet-savory chicken dish — the kind of comforting meal that’s perfect for a quiet dinner at the kitchen table.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg</category>
       <category>paid:false</category>
     </item>
     <item>
@@ -577,26 +537,6 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>Dropbox → Long-Term Archive (ZIP + Checksum) HOWTO</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=bad9f6aba928d1ded029d23e9b5de6de55fff9ce9070ed2cf57ac5f4d1263848</link>
-      <guid isPermaLink="false">bad9f6aba928d1ded029d23e9b5de6de55fff9ce9070ed2cf57ac5f4d1263848</guid>
-      <pubDate>Thu, 15 Jan 2026 00:10:40 GMT</pubDate>
-      <description><![CDATA[Safely migrate data out of Dropbox into a verifiable, long-term archive stored on Google Drive (or another external location)]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Dropbox → Long-Term Archive (ZIP + Checksum) HOWTO</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=62aa54b5cbe98a98611ed2ea041504513df49483da3c90ad72b699862e724c8d</link>
-      <guid isPermaLink="false">62aa54b5cbe98a98611ed2ea041504513df49483da3c90ad72b699862e724c8d</guid>
-      <pubDate>Wed, 14 Jan 2026 20:02:47 GMT</pubDate>
-      <description><![CDATA[Safely migrate data out of Dropbox into a verifiable, long-term archive stored on Google Drive (or another external location)]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
-      <category>paid:false</category>
-    </item>
-    <item>
       <title>kind:1 40085d8d36</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=40085d8d3661aa41b2ba3e2ebc16b5832c234ea34beff782d55ec71ad6887f2e</link>
       <guid isPermaLink="false">40085d8d3661aa41b2ba3e2ebc16b5832c234ea34beff782d55ec71ad6887f2e</guid>
@@ -614,16 +554,6 @@
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Protocols</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=53bbc1c803cdf5e39fd1129516f539a60c84453e2a2b2b0c7b7d429dfe96bc06</link>
-      <guid isPermaLink="false">53bbc1c803cdf5e39fd1129516f539a60c84453e2a2b2b0c7b7d429dfe96bc06</guid>
-      <pubDate>Mon, 12 Jan 2026 06:57:06 GMT</pubDate>
-      <description><![CDATA[This document defines the core protocols behind Continuum’s archive-backed approach to Nostr identity, publishing, and messaging.  It formalizes a simple but non-standard assumption: relays are caches, not memory.  By treating archives as the source of truth and manifests as authoritative intent, Continuum enables deterministic reconstruction of profiles, notes, encrypted DMs, and long-form articles—even if relays forget, backups reappear, or local databases are wiped.  The protocols described here prioritize durability, deletion intent, encrypted message continuity, and long-horizon identity over feeds, engagement, or client features.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
       <category>paid:false</category>
     </item>
     <item>
@@ -1847,46 +1777,6 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>Test Note</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=92e78e5944aea258840514185a944f64517e4f249b48f0d24e9116467772e44b</link>
-      <guid isPermaLink="false">92e78e5944aea258840514185a944f64517e4f249b48f0d24e9116467772e44b</guid>
-      <pubDate>Tue, 30 Dec 2025 23:05:29 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub1af6xvq6ynl8r3737ye6yzqygr2xdf6hw5hnteha20n85vvagzgvqdh3mrt</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Test Article archiving</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5e47b5fe77e4892fd91aee11924ab1318d53dabd7ace429aae0b0e84ff556c93</link>
-      <guid isPermaLink="false">5e47b5fe77e4892fd91aee11924ab1318d53dabd7ace429aae0b0e84ff556c93</guid>
-      <pubDate>Tue, 30 Dec 2025 22:14:08 GMT</pubDate>
-      <description><![CDATA[test]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1af6xvq6ynl8r3737ye6yzqygr2xdf6hw5hnteha20n85vvagzgvqdh3mrt</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Test Article archiving</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ff25339c503df5f12102282d50a52a4ae2491521be6f4abd978159e92ab0d4be</link>
-      <guid isPermaLink="false">ff25339c503df5f12102282d50a52a4ae2491521be6f4abd978159e92ab0d4be</guid>
-      <pubDate>Tue, 30 Dec 2025 21:03:39 GMT</pubDate>
-      <description><![CDATA[test]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1af6xvq6ynl8r3737ye6yzqygr2xdf6hw5hnteha20n85vvagzgvqdh3mrt</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Test Article archiving</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=8bdcc394fa7024c1dd7d89a6418ed0d212feb51250627f7366275f58a91f796d</link>
-      <guid isPermaLink="false">8bdcc394fa7024c1dd7d89a6418ed0d212feb51250627f7366275f58a91f796d</guid>
-      <pubDate>Tue, 30 Dec 2025 20:43:50 GMT</pubDate>
-      <description><![CDATA[test]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1af6xvq6ynl8r3737ye6yzqygr2xdf6hw5hnteha20n85vvagzgvqdh3mrt</category>
-      <category>paid:false</category>
-    </item>
-    <item>
       <title>kind:1 c0debf4b36</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=c0debf4b36c938be6d4d9fcb71b5c8a9ececf47204c768c459bf948fbfb7f835</link>
       <guid isPermaLink="false">c0debf4b36c938be6d4d9fcb71b5c8a9ececf47204c768c459bf948fbfb7f835</guid>
@@ -1894,16 +1784,6 @@
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Test Article archiving</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9853c867a813f9c8364963dae94b6d0f73044a239a01f6bab178abf64f569252</link>
-      <guid isPermaLink="false">9853c867a813f9c8364963dae94b6d0f73044a239a01f6bab178abf64f569252</guid>
-      <pubDate>Tue, 30 Dec 2025 01:09:12 GMT</pubDate>
-      <description><![CDATA[test]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1af6xvq6ynl8r3737ye6yzqygr2xdf6hw5hnteha20n85vvagzgvqdh3mrt</category>
       <category>paid:false</category>
     </item>
     <item>
@@ -3977,46 +3857,6 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>Continuum Magazine Premium Index</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=507afd3003a87d6f598ba2242bf0578bdac7952122c16bd1f9b0771270f8a02a</link>
-      <guid isPermaLink="false">507afd3003a87d6f598ba2242bf0578bdac7952122c16bd1f9b0771270f8a02a</guid>
-      <pubDate>Sat, 13 Dec 2025 21:40:51 GMT</pubDate>
-      <description><![CDATA[Premium Index for paid articles updated weekly.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Magazine Premium Index</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5ad5e63ff7927c2147e23d1de22e79cdc25cf4d0cb23f2d25c5d9b40c1ac7648</link>
-      <guid isPermaLink="false">5ad5e63ff7927c2147e23d1de22e79cdc25cf4d0cb23f2d25c5d9b40c1ac7648</guid>
-      <pubDate>Sat, 13 Dec 2025 21:32:37 GMT</pubDate>
-      <description><![CDATA[Premium Index for paid articles updated weekly.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Magazine - Issue #13 (Nov.24-30, 2025)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0c361864a2680b2680020e88088fc8ebe32c66fe803785dfa58e0eac80cb6c41</link>
-      <guid isPermaLink="false">0c361864a2680b2680020e88088fc8ebe32c66fe803785dfa58e0eac80cb6c41</guid>
-      <pubDate>Sat, 13 Dec 2025 21:12:19 GMT</pubDate>
-      <description><![CDATA[# 13.  This issue of Continuum Magazine brings together the Nov.24-Nov.30, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Magazine - Issue #14 (Dec. 1-7, 2025)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c334ecc27acd30ddf2f59ebb17a4ef1494677f6c0a731fbec022de1ece58ba63</link>
-      <guid isPermaLink="false">c334ecc27acd30ddf2f59ebb17a4ef1494677f6c0a731fbec022de1ece58ba63</guid>
-      <pubDate>Sat, 13 Dec 2025 21:06:07 GMT</pubDate>
-      <description><![CDATA[# 14.  This issue of Continuum Magazine brings together the Dec.1-7, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
-      <category>paid:false</category>
-    </item>
-    <item>
       <title>Free Article 1 (Dec. 7, 2025): The Bitcoin Chronicles - 1.B.8 -  The Pelagia Compact: Luna Declares Itself</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=6e4f574478232c75e6fe0e2016f8eccb03c37583d6f3faf870d10ef4bcb57482</link>
       <guid isPermaLink="false">6e4f574478232c75e6fe0e2016f8eccb03c37583d6f3faf870d10ef4bcb57482</guid>
@@ -4054,46 +3894,6 @@
       <description><![CDATA[In 1957 Los Angeles, a young aerospace engineer discovers a federal plan to centralize all national communications through a single monitoring switchboard. Her refusal to participate becomes one of the earliest technological seeds of future decentralized systems—and a quiet precursor to the sovereign ethos that fuels the Pilgrim missions.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Magazine - Issue #13 (Nov.24-30, 2025)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5dbd0c4d56f2b8ee9d7c6d28331527521342ebb75cce01621fba11c73dbbd58e</link>
-      <guid isPermaLink="false">5dbd0c4d56f2b8ee9d7c6d28331527521342ebb75cce01621fba11c73dbbd58e</guid>
-      <pubDate>Sat, 13 Dec 2025 20:12:12 GMT</pubDate>
-      <description><![CDATA[# 13.  This issue of Continuum Magazine brings together the Nov.17-Nov.23, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Magazine - Issue #12 (Nov.17-23, 2025)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ead8d8dfe7c922a228633c938a3a3355b5e2e171d5072f577e30ba8071eab205</link>
-      <guid isPermaLink="false">ead8d8dfe7c922a228633c938a3a3355b5e2e171d5072f577e30ba8071eab205</guid>
-      <pubDate>Sat, 13 Dec 2025 20:07:49 GMT</pubDate>
-      <description><![CDATA[# 12.  This issue of Continuum Magazine brings together the Nov.17-Nov.23, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Magazine - Issue #11 (Nov.10-16, 2025)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=cd869cb8117277e4616abf1bc593906851bc30cc82f4665e6e64d3e93e1acc5f</link>
-      <guid isPermaLink="false">cd869cb8117277e4616abf1bc593906851bc30cc82f4665e6e64d3e93e1acc5f</guid>
-      <pubDate>Sat, 13 Dec 2025 20:05:03 GMT</pubDate>
-      <description><![CDATA[# 11.  This issue of Continuum Magazine brings together the Nov.10-Nov.16, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Magazine - Issue #10 (Nov.3-Nov. 9, 2025)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=fed155762d92e0f47eb32416a0d1cbbfee8d66a0cd9400a83850e9f09d46db63</link>
-      <guid isPermaLink="false">fed155762d92e0f47eb32416a0d1cbbfee8d66a0cd9400a83850e9f09d46db63</guid>
-      <pubDate>Sat, 13 Dec 2025 19:34:55 GMT</pubDate>
-      <description><![CDATA[# 10.  This issue of Continuum Magazine brings together the Nov.3-Nov.9, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
       <category>paid:false</category>
     </item>
     <item>
@@ -4357,16 +4157,6 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>Continuum Magazine - Issue #9 (Oct. 27-Nov. 2, 2025)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=26b86b7c3d78c39435ac3fa159006947c956ea8f5a580b6d90f7082bcda75a41</link>
-      <guid isPermaLink="false">26b86b7c3d78c39435ac3fa159006947c956ea8f5a580b6d90f7082bcda75a41</guid>
-      <pubDate>Sat, 13 Dec 2025 05:14:38 GMT</pubDate>
-      <description><![CDATA[# 9.  This issue of Continuum Magazine brings together the Oct.27-Nov.2, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
-      <category>paid:false</category>
-    </item>
-    <item>
       <title>🔒 Paid Article Teaser (Day 4 - Aug. 27, 2025): 🌕 Life on the Moon, Paid in Sats 🚀</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=45731441b6a29da7e27521f9a63d9e9aec2fbf430f49c5e63b5f48506fae7abf</link>
       <guid isPermaLink="false">45731441b6a29da7e27521f9a63d9e9aec2fbf430f49c5e63b5f48506fae7abf</guid>
@@ -4457,16 +4247,6 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>Continuum Magazine - Issue #8 (Oct. 20-26, 2025)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=bff1b2d458b4361d72220241ac53a046aa43bd054e696fb6df81eade2659c4be</link>
-      <guid isPermaLink="false">bff1b2d458b4361d72220241ac53a046aa43bd054e696fb6df81eade2659c4be</guid>
-      <pubDate>Sat, 13 Dec 2025 03:58:04 GMT</pubDate>
-      <description><![CDATA[# 8.  This issue of Continuum Magazine brings together the Oct.20-26, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
-      <category>paid:false</category>
-    </item>
-    <item>
       <title>🔒 Paid Article (Oct. 24, 2025): The Economics of Mercy</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=5917f5bffa495b9778faa2f25f8c77eb6fe31eb4a651e47ad7d38bdda27fe419</link>
       <guid isPermaLink="false">5917f5bffa495b9778faa2f25f8c77eb6fe31eb4a651e47ad7d38bdda27fe419</guid>
@@ -4514,26 +4294,6 @@
       <description><![CDATA[An essay on the philosophy of incorruptible memory — why civilizations collapse when truth depends on power, and why Bitcoin’s refusal to bend becomes the blueprint for lasting freedom.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Magazine - Issue #7 (Oct.13-19, 2025)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=62d3ae78177f2b2f3f85440bfb4c10983941192a899e7b746e56950de502cc20</link>
-      <guid isPermaLink="false">62d3ae78177f2b2f3f85440bfb4c10983941192a899e7b746e56950de502cc20</guid>
-      <pubDate>Sat, 13 Dec 2025 03:04:34 GMT</pubDate>
-      <description><![CDATA[# 7.  This issue of Continuum Magazine brings together the Oct.13-19, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Magazine - Issue #6 (Oct.6-12, 2025)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ab060ab9e82f9ae2ee7e05b8568479bb80cb6ff2d26549c06895ddda8f66b4b7</link>
-      <guid isPermaLink="false">ab060ab9e82f9ae2ee7e05b8568479bb80cb6ff2d26549c06895ddda8f66b4b7</guid>
-      <pubDate>Sat, 13 Dec 2025 03:01:46 GMT</pubDate>
-      <description><![CDATA[# 6.  This issue of Continuum Magazine brings together the Oct.6-12, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction. Reflections on mortality, reflecting on the week before my father's passing (on Sept. 29, 2025)]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
       <category>paid:false</category>
     </item>
     <item>
@@ -4597,26 +4357,6 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>Continuum Magazine - Issue #5 (Sept. 29-Oct. 5, 2025)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=763efb398f01ce01efd64d120ece0c7d1b28d9e463ee1b51ccc6923458f12865</link>
-      <guid isPermaLink="false">763efb398f01ce01efd64d120ece0c7d1b28d9e463ee1b51ccc6923458f12865</guid>
-      <pubDate>Sat, 13 Dec 2025 02:30:32 GMT</pubDate>
-      <description><![CDATA[# 5.  This issue of Continuum Magazine brings together the Sept. 29-Oct. 5, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction. Reflections on mortality, reflecting on the week before my father's passing (on Sept. 29, 2025)]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Magazine - Issue #4 (Sept. 22-28, 2025)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6d27872b99346e19c6bcb191ddf520e53984782ec3327fa5066a34b0ba870d74</link>
-      <guid isPermaLink="false">6d27872b99346e19c6bcb191ddf520e53984782ec3327fa5066a34b0ba870d74</guid>
-      <pubDate>Sat, 13 Dec 2025 02:27:28 GMT</pubDate>
-      <description><![CDATA[The fourth issue of Continuum Magazine brings together the Sept 22–28 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction. Reflections on mortality, reflecting on the week before my father's passing (on Sept. 29, 2025)]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
-      <category>paid:false</category>
-    </item>
-    <item>
       <title>Free Article 1 (Sept. 27, 2025): The Quiet Before the Departure</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=f7071e58d1ee03b01a6e172f64863ba5694ac5960be5566b7b39da24078338c0</link>
       <guid isPermaLink="false">f7071e58d1ee03b01a6e172f64863ba5694ac5960be5566b7b39da24078338c0</guid>
@@ -4627,16 +4367,6 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>Continuum Magazine - Issue #3 (Sept. 15-21, 2025)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=19111ff76d499528b73be8492dba08a58ecec669d8b3a4b12678f2fbd054cd48</link>
-      <guid isPermaLink="false">19111ff76d499528b73be8492dba08a58ecec669d8b3a4b12678f2fbd054cd48</guid>
-      <pubDate>Sat, 13 Dec 2025 02:11:25 GMT</pubDate>
-      <description><![CDATA[The third issue of Continuum Magazine brings together the Sept 15–21 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
-      <category>paid:false</category>
-    </item>
-    <item>
       <title>Free Article 1 (Sept. 15, 2025): The Seeds We Plant Today</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=bead078f6ef9129e811f47727e038edcf49800e0383750522012e06b26870fad</link>
       <guid isPermaLink="false">bead078f6ef9129e811f47727e038edcf49800e0383750522012e06b26870fad</guid>
@@ -4644,16 +4374,6 @@
       <description><![CDATA[This reflection considers how small, daily acts — where we store our wealth, what platforms we use, how we raise our families — become seeds of future sovereignty or dependence. It calls for intentional planting.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Magazine - Issue #2 (Sept. 8-14, 2025)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=eceaa27f366a1900b2fdd43b0a01c4027d30b1b4b3869aedfdb98bc5bb19f125</link>
-      <guid isPermaLink="false">eceaa27f366a1900b2fdd43b0a01c4027d30b1b4b3869aedfdb98bc5bb19f125</guid>
-      <pubDate>Sat, 13 Dec 2025 01:54:37 GMT</pubDate>
-      <description><![CDATA[The second issue of Continuum Magazine brings together the Sept 8–14, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction. This week we noted the tragic assasination of Charlie Kirk and the observance of Sept. 11.  But, we also launched Continuum Magazine (first issue was published this week)]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
       <category>paid:false</category>
     </item>
     <item>
@@ -4684,16 +4404,6 @@
       <description><![CDATA[Bitcoin’s design encourages deep rest, not just surface-level leisure. Its low time-preference mindset invites people to rethink how they use time and energy, making space for restoration instead of endless striving.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Magazine - Issue #1 (Sept 1-7, 2025)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=36593b714c520f9a7cc45c3ed3755c7700cd22c9c0bf94eccfba55a994996dc3</link>
-      <guid isPermaLink="false">36593b714c520f9a7cc45c3ed3755c7700cd22c9c0bf94eccfba55a994996dc3</guid>
-      <pubDate>Sat, 13 Dec 2025 01:30:26 GMT</pubDate>
-      <description><![CDATA[The first issue of Continuum Magazine brings together the Sept 1–7, 2025 writings: one paid article and two free reflections each day. Anchored in themes of sovereignty, faith, and conviction, this issue opens with a heavy remembrance of Sept 11 and the loss of Charlie Kirk, and moves through questions of labor, covenant, community, and renewal.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
       <category>paid:false</category>
     </item>
     <item>
@@ -5002,6 +4712,296 @@
       <guid isPermaLink="false">bc7a7d3a3151383c88b079aae77047dd2d3b4644383e56cd512852f876592bdf</guid>
       <pubDate>Fri, 12 Dec 2025 22:46:39 GMT</pubDate>
       <description><![CDATA[The mechanics of profit can dull the meaning of purpose. This essay wrestles with what it means to trade faithfully—to keep agency when success feels automatic and wins taste like dust.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Paid Article (Oct. 9, 2025): The Power That Cannot Be Bought</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a2635e04712eb32987f313ea5dfc645fa54c16e010c89ee56ce8d204a89798b3</link>
+      <guid isPermaLink="false">a2635e04712eb32987f313ea5dfc645fa54c16e010c89ee56ce8d204a89798b3</guid>
+      <pubDate>Fri, 12 Dec 2025 22:41:48 GMT</pubDate>
+      <description><![CDATA[A meditation on the difference between spiritual authority, fiat power, and proof-of-work. In a world obsessed with leverage — financial, social, or political — true power remains something money can’t purchase and status can’t secure.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Paid Article Sample</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2f53d9636c272a6ded7c11d48cca5c403a7caf8b1e959736246793f1b6026608</link>
+      <guid isPermaLink="false">2f53d9636c272a6ded7c11d48cca5c403a7caf8b1e959736246793f1b6026608</guid>
+      <pubDate>Fri, 12 Dec 2025 21:38:11 GMT</pubDate>
+      <description><![CDATA[This is what a paid article would look like unecrypted]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Paid Article (Oct. 13, 2025): When the Well Runs Dry: Faithfulness in the Absence of Fire</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=cd83b0284f690bc47c72c5f65df47ff93a9e30923be625663b61010fd488c422</link>
+      <guid isPermaLink="false">cd83b0284f690bc47c72c5f65df47ff93a9e30923be625663b61010fd488c422</guid>
+      <pubDate>Fri, 12 Dec 2025 21:33:50 GMT</pubDate>
+      <description><![CDATA[Inspiration fades, seasons shift, and the well sometimes runs dry. This piece explores what faithfulness looks like when the flame of creativity goes out—how to keep creating without pretending the fire is still there.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Paid Article (Oct. 10, 2025): The Gospel of Sovereign Peace</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=318597f9404ad111540bcd590ded06cec775b357e959068a9b7a54d8ad20ce15</link>
+      <guid isPermaLink="false">318597f9404ad111540bcd590ded06cec775b357e959068a9b7a54d8ad20ce15</guid>
+      <pubDate>Fri, 12 Dec 2025 21:29:30 GMT</pubDate>
+      <description><![CDATA[Peace isn’t a feeling. It’s a state of alignment — the soul resting in truth rather than illusion. Sovereign peace begins when control ends, when faith becomes trust, and when the heart learns that surrender is the truest form of strength.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Paid Article (Oct. 9, 2025): The Power That Cannot Be Bought</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5c5320125a1557317874ac8dbc301c323812257e981b3ba53a49e849ea28b8a6</link>
+      <guid isPermaLink="false">5c5320125a1557317874ac8dbc301c323812257e981b3ba53a49e849ea28b8a6</guid>
+      <pubDate>Fri, 12 Dec 2025 21:26:30 GMT</pubDate>
+      <description><![CDATA[A meditation on the difference between spiritual authority, fiat power, and proof-of-work. In a world obsessed with leverage — financial, social, or political — true power remains something money can’t purchase and status can’t secure.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Paid Article (Oct. 8, 2025): The Kingdom Ledger: Exiting Fiat, Entering Freedom</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=18893e0ab4c03c8d9f193ade4514354b21ac8c243f62fe733751b0ca43162730</link>
+      <guid isPermaLink="false">18893e0ab4c03c8d9f193ade4514354b21ac8c243f62fe733751b0ca43162730</guid>
+      <pubDate>Fri, 12 Dec 2025 21:23:24 GMT</pubDate>
+      <description><![CDATA[Bitcoin is not an investment class; it is a moral reformation.  To exit fiat is to renounce false weights and measures, to step back into a covenantal economy rooted in truth.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Paid Article (Oct. 7, 2025): The New Jerusalem of Speech</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=8b9dac1b40908c8296b7130dcc185f7a14cb1b8762b0bfcfb4314f8cb0407d1d</link>
+      <guid isPermaLink="false">8b9dac1b40908c8296b7130dcc185f7a14cb1b8762b0bfcfb4314f8cb0407d1d</guid>
+      <pubDate>Fri, 12 Dec 2025 21:19:09 GMT</pubDate>
+      <description><![CDATA[Every revolution of the word is also a revolution of spirit.  This essay envisions a new age of free expression built on open protocols, where truth is not hosted but inhabited.  T]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Paid Article (Oct. 6, 2025): The First Exodus: Leaving the Mind’s Egypt</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=45040eb89be24491ba5aad30e97995c3753703cda665dc9dd4f2e1294ce40a48</link>
+      <guid isPermaLink="false">45040eb89be24491ba5aad30e97995c3753703cda665dc9dd4f2e1294ce40a48</guid>
+      <pubDate>Fri, 12 Dec 2025 21:10:47 GMT</pubDate>
+      <description><![CDATA[Before any monetary or technological liberation, there must be a mental one.  This 1 500-word manifesto traces the architecture of captivity and the inner disciplines that make freedom real.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Paid Article (Oct. 3, 2025): Blueprints of Trust: Rebuilding After Collapse</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=180a30f1d8db3a15b1361a04a1b7be7e9afd364cab98984c071630fe411a4fbf</link>
+      <guid isPermaLink="false">180a30f1d8db3a15b1361a04a1b7be7e9afd364cab98984c071630fe411a4fbf</guid>
+      <pubDate>Fri, 12 Dec 2025 21:02:16 GMT</pubDate>
+      <description><![CDATA[This long essay explores how families, teams, and communities rebuild after endings—death, betrayal, disaster, inflation. It argues that trust is not sentiment but structure, describing practices and architectures that embed trust into daily life. It also shows how Bitcoin and Nostr offer trustworthy blueprints for money and speech in the rebuild, enabling collaboration without gatekeepers.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Free Article 2 (Dec. 12, 2025): The Bitcoin Chronicles 1.A.0.0.1 - the Engineer Who Refused the Switchboard</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a43c50ad9cdb16fcefe9dad5eb5a8f4e82f142f01a3fc8751cfcd547a47078f5</link>
+      <guid isPermaLink="false">a43c50ad9cdb16fcefe9dad5eb5a8f4e82f142f01a3fc8751cfcd547a47078f5</guid>
+      <pubDate>Fri, 12 Dec 2025 20:34:40 GMT</pubDate>
+      <description><![CDATA[In 1957 Los Angeles, a young aerospace engineer discovers a federal plan to centralize all national communications through a single monitoring switchboard. Her refusal to participate becomes one of the earliest technological seeds of future decentralized systems—and a quiet precursor to the sovereign ethos that fuels the Pilgrim missions.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Paid Article (Dec. 12, 2025): The Bitcoin Chronicles - 1.A.0.0.2 - The Library of Silent Equations</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ee8d13c0521ce1b4b32d4bc0c9415b94ba5615f177f903cca124c5f42630c183</link>
+      <guid isPermaLink="false">ee8d13c0521ce1b4b32d4bc0c9415b94ba5615f177f903cca124c5f42630c183</guid>
+      <pubDate>Fri, 12 Dec 2025 20:30:32 GMT</pubDate>
+      <description><![CDATA[In 1963, beneath the limestone hills of western Pennsylvania, a classified government archive quietly destroys research deemed incompatible with administrative stability. One archivist’s decision to preserve forbidden equations ensures that sovereign mathematics survives long enough to inspire the Pilgrim generation.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Bitcoin Chronicles - 1.A.0.0.3 - Archivist Note: On the Earthboound Records</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7748ba6a06afce74502838469be3a770c80a9e8d64c06559c5a27e07983973e0</link>
+      <guid isPermaLink="false">7748ba6a06afce74502838469be3a770c80a9e8d64c06559c5a27e07983973e0</guid>
+      <pubDate>Fri, 12 Dec 2025 20:26:48 GMT</pubDate>
+      <description><![CDATA[A Luna Freeport archival annotation explaining why early Earthbound Chronicles contain precise dates and historical anchoring, while later sovereign eras abandon centralized calendaring altogether.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Free Article 1 (Dec. 12, 2025): The Bitcoin Chronicles - 1.A.0.0.0 - The Letter That Never Reached Bretton Woods</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1305129771cb244e4817dc8e128de060d3c706b6cb03ba8c0862b09dd5c12930</link>
+      <guid isPermaLink="false">1305129771cb244e4817dc8e128de060d3c706b6cb03ba8c0862b09dd5c12930</guid>
+      <pubDate>Fri, 12 Dec 2025 20:20:32 GMT</pubDate>
+      <description><![CDATA[In 1944, as world leaders gathered to design the postwar economic order, one unsanctioned economist carried a warning no one would hear. His discarded letter becomes one of the earliest seeds of the sovereign awakening that will one day culminate in the Pilgrim missions.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Bitcoin Chronicles - 7.A.1 - Archivist Note: On Divergent Timekeeping Systems</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=93999f3290cfe1cc742f79ae5e87411012e3716ae850554b0f98117d76e6bec4</link>
+      <guid isPermaLink="false">93999f3290cfe1cc742f79ae5e87411012e3716ae850554b0f98117d76e6bec4</guid>
+      <pubDate>Fri, 12 Dec 2025 20:17:53 GMT</pubDate>
+      <description><![CDATA[An archival clarification describing the continued use of Gregorian dates by centralized authorities alongside the adoption of ledger-based and epochal time by sovereign colonies after the Pilgrim era.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Paid Article (Oct. 2, 2025): The Next Chapter: Renewal, Sovereignty, and the Future We Build</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=eb037b920c91fc3b0763a6877199291774b938f06feadf3c45d389f1c834e0b8</link>
+      <guid isPermaLink="false">eb037b920c91fc3b0763a6877199291774b938f06feadf3c45d389f1c834e0b8</guid>
+      <pubDate>Fri, 12 Dec 2025 19:34:04 GMT</pubDate>
+      <description><![CDATA[This essay explores renewal after endings—whether personal loss, social upheaval, or economic collapse. It considers how sovereignty is exercised not only in saying goodbye but in saying *yes* to what comes next. Drawing from metaphors of seasons, Scripture, and open protocols like Bitcoin and Nostr, it shows how continuity and innovation can coexist, and how beginnings are authored with courage rather than drift.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Paid Article (Oct. 1, 2025): The Ledger Beyond Death: Bitcoin, Legacy, and the Final Goodbye</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b2beae3c8b70ff8a82fa79ca33c3eb8227b447d2551d77afc693d5b1c3d2a1f2</link>
+      <guid isPermaLink="false">b2beae3c8b70ff8a82fa79ca33c3eb8227b447d2551d77afc693d5b1c3d2a1f2</guid>
+      <pubDate>Fri, 12 Dec 2025 19:30:21 GMT</pubDate>
+      <description><![CDATA[This essay explores the meaning of legacy in the face of mortality, weaving together personal grief, the sovereignty of saying goodbye, and the incorruptible permanence of Bitcoin. It considers both the practical dimensions of inheritance and the philosophical parallels to the “Book of Life,” contrasting man‑made ledgers with incorruptible ones. Through reflections on family, property, and faith, it reframes farewell as one of the most sovereign acts of all.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Paid Article (Sept. 30, 2025): Resurrection in Real Time</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5082e2c4066a6506eea1997e144ad6f9a5071b6daca451764e66d77b9ae9d6d5</link>
+      <guid isPermaLink="false">5082e2c4066a6506eea1997e144ad6f9a5071b6daca451764e66d77b9ae9d6d5</guid>
+      <pubDate>Fri, 12 Dec 2025 07:18:13 GMT</pubDate>
+      <description><![CDATA[Grief does not suspend belief; it tests it. This essay explores how resurrection begins not in theology but in the moment you decide to keep creating after loss—linking the permanence of love to the incorruptibility of truth itself.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Paid Article (Sept. 29, 2025): The Day He Crossed Over</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=53cc3b7913d139d1470536ef843c67ba9af3fcb2b3c3d9151fb5307b8c164564</link>
+      <guid isPermaLink="false">53cc3b7913d139d1470536ef843c67ba9af3fcb2b3c3d9151fb5307b8c164564</guid>
+      <pubDate>Fri, 12 Dec 2025 07:12:47 GMT</pubDate>
+      <description><![CDATA[A minute-by-minute account of Monday, Sept 29 — from the 4 a.m. departure in Honolulu to the 8:30 p.m. text confirming your father’s passing — a day suspended between motion and stillness, farewell and peace.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Paid Article (Sept. 26, 2025): The Resurrection of Civilization: Bitcoin and the Kingdom That Cannot Fall</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b977dc55c0a52b2fc18b090795046990a3f8f1451164645625246a9e6adbddfe</link>
+      <guid isPermaLink="false">b977dc55c0a52b2fc18b090795046990a3f8f1451164645625246a9e6adbddfe</guid>
+      <pubDate>Fri, 12 Dec 2025 07:07:56 GMT</pubDate>
+      <description><![CDATA[This essay draws a parallel between the rise of Bitcoin and the resurrection power of the Kingdom of God, framing both as enduring responses to the collapse of corrupt civilizations. It portrays Bitcoin as resurrection economics — restoring honesty, redeeming time, and grounding trust in truth rather than human institutions. Through this lens, the piece calls readers to see both Bitcoin and the Gospel as acts of faith rather than fear, revealing that real civilization is not built through domination but through incorruptible truth. The Kingdom, once buried under empire and deceit, is rising again — and this time, it will not fall.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Paid Article (Sept. 25, 2025): The Economics of Letting Go: Sovereignty Beyond Possession</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d7e866616909980e75c2a940e0b266cf508cfeca287c49f19cc1826cd812abeb</link>
+      <guid isPermaLink="false">d7e866616909980e75c2a940e0b266cf508cfeca287c49f19cc1826cd812abeb</guid>
+      <pubDate>Fri, 12 Dec 2025 07:04:41 GMT</pubDate>
+      <description><![CDATA[Andrew connects the personal act of release to the spiritual and economic truth of sovereignty. In both grief and Bitcoin, we learn to hold loosely — to trust what endures rather than what inflates. Letting go becomes the ultimate form of faith: stewardship without fear.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Paid Article (Sept. 24, 2025): Dying with Christ, Rising with Truth</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=0de787d082ec7c5637be7520108012aa924d309a4f071095b02f9c285324c53e</link>
+      <guid isPermaLink="false">0de787d082ec7c5637be7520108012aa924d309a4f071095b02f9c285324c53e</guid>
+      <pubDate>Fri, 12 Dec 2025 07:01:37 GMT</pubDate>
+      <description><![CDATA[A meditation on the spiritual heart of loss. Through the lens of his father’s final days, Andrew reflects on how grief becomes participation in the gospel itself — the dying of the false self, the surrender of control, and the quiet rising of truth that cannot die.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Paid Article (Sept. 23, 2025): Chief of War: Sovereignty at the Edge of Empire</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ac0508b019009d0ab9ce88c241d03cdd986b0e658b94c0193a63b0df0b491c2e</link>
+      <guid isPermaLink="false">ac0508b019009d0ab9ce88c241d03cdd986b0e658b94c0193a63b0df0b491c2e</guid>
+      <pubDate>Fri, 12 Dec 2025 06:57:46 GMT</pubDate>
+      <description><![CDATA[Drawing inspiration from the drama and history surrounding island kingdoms and foreign encroachment, this essay examines what sovereignty looks like at the very edge of empire. It considers how chiefs balanced honor and survival, how betrayal hollowed alliances, and why the price of freedom is almost always paid by those who refuse to be assimilated. Finally, it connects these lessons to modern forms of sovereignty—especially monetary and identity sovereignty—in a world of soft coercion.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Paid Article (Sept. 22, 2025): The Last Investment: End of Life and Sovereignty</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=fb7604cea9902f1386de52f9fe84d90d937a0b9e79ca9d0d1928802caa52b5cd</link>
+      <guid isPermaLink="false">fb7604cea9902f1386de52f9fe84d90d937a0b9e79ca9d0d1928802caa52b5cd</guid>
+      <pubDate>Fri, 12 Dec 2025 06:53:56 GMT</pubDate>
+      <description><![CDATA[End-of-life choices are the most important “investment decisions” we make. Sovereignty means facing mortality with clarity, refusing to outsource dignity to profit-driven systems, and leaving a legacy that outlasts us. This article explores how sovereignty reframes death as the last, and greatest, investment.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Paid Article (Sept. 19, 2025): The Hidden Cost of Walled Gardens</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=52e23093e5b589c74ec2dd1848865caab533cb7848639a035408c31de9896c39</link>
+      <guid isPermaLink="false">52e23093e5b589c74ec2dd1848865caab533cb7848639a035408c31de9896c39</guid>
+      <pubDate>Fri, 12 Dec 2025 06:49:44 GMT</pubDate>
+      <description><![CDATA[Explores how companies like Rover, TaskRabbit, and Nextdoor monetize content and relationships while creators and workers do the actual value-creation. Argues that sovereignty requires cutting out such middlemen.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Paid Article (Sept. 18, 2025): The Last Gatekeepers: Why Sovereignty Demands an End to Intermediaries</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5763fd3947a192da2deb82bacd6706cba7af5f2399bb7f9517408c260612483b</link>
+      <guid isPermaLink="false">5763fd3947a192da2deb82bacd6706cba7af5f2399bb7f9517408c260612483b</guid>
+      <pubDate>Fri, 12 Dec 2025 06:45:23 GMT</pubDate>
+      <description><![CDATA[This essay dissects how financial, legal, and digital intermediaries maintain hidden control even in a world full of “decentralized” promises. It argues that sovereignty requires cutting them out entirely—not just building around them.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Paid Article (Sept. 17, 2025): Sovereignty is Not a Straight Path</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5940ba2c5663ed383c9455279c58fce34616e8ccd87ed2368ca133c9ccac639f</link>
+      <guid isPermaLink="false">5940ba2c5663ed383c9455279c58fce34616e8ccd87ed2368ca133c9ccac639f</guid>
+      <pubDate>Fri, 12 Dec 2025 06:42:09 GMT</pubDate>
+      <description><![CDATA[A parable about promises, silence, and persistence, drawing from real experiences of unanswered commitments in business, framed in a way that speaks to the broader fight for sovereignty.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Paid Article (Sept. 16, 2025): Debt Relief Programs</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=efe253cf69a3b0634b231fbe4f79a8e0b1780bfb02a6c1c73655cfaf04dfd786</link>
+      <guid isPermaLink="false">efe253cf69a3b0634b231fbe4f79a8e0b1780bfb02a6c1c73655cfaf04dfd786</guid>
+      <pubDate>Fri, 12 Dec 2025 06:38:29 GMT</pubDate>
+      <description><![CDATA[A deep dive into the allure and danger of modern debt relief schemes, showing how sovereignty requires discipline, not shortcuts.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Paid Article (Sept. 15, 2025): The Hidden Costs of Convenience: Why Sovereignty Demands Sacrifice</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=50b131c73a81d0fe6bb01fed88d55aae627b423197256ca878c24150d49edc1e</link>
+      <guid isPermaLink="false">50b131c73a81d0fe6bb01fed88d55aae627b423197256ca878c24150d49edc1e</guid>
+      <pubDate>Fri, 12 Dec 2025 06:34:32 GMT</pubDate>
+      <description><![CDATA[This essay explores the paradox of convenience: the more we outsource to platforms, governments, or corporations, the less sovereignty we retain. Drawing from history, Scripture, and personal experience, it argues that true freedom cannot be cheap or easy — it always comes with cost.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Paid Article (Sept. 12, 2025): MLM and Web3: Two Sides of the Same Pyramid</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=93d836cf869f93daf619dcca808df50278baea7a370b568eca174f9b006e77a7</link>
+      <guid isPermaLink="false">93d836cf869f93daf619dcca808df50278baea7a370b568eca174f9b006e77a7</guid>
+      <pubDate>Fri, 12 Dec 2025 06:27:27 GMT</pubDate>
+      <description><![CDATA[Both multi-level marketing (MLM) and Web3 projects sell the same dream: financial freedom, lifestyle independence, and passive income. I experienced the hype firsthand in 2023–2024 when I briefly joined World Financial Group (WFG). What I saw there helped me recognize the same structural flaws playing out across Web3. The names and technology change. The math doesn’t.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
