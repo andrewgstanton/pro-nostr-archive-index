@@ -5,7 +5,27 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 20 Jan 2026 04:29:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 18:19:45 GMT</lastBuildDate>
+    <item>
+      <title>kind:0 a151432b25</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a151432b25e41d28a8466ba795765c68c01514ce70725045f589afba456d325b</link>
+      <guid isPermaLink="false">a151432b25e41d28a8466ba795765c68c01514ce70725045f589afba456d325b</guid>
+      <pubDate>Tue, 20 Jan 2026 18:14:02 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:0</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>RSS Feed in my archive - 1/19/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=06f739df26af0aaa816b6176404b96ca13334a6fb5b2c30688ba0ff0c7efce50</link>
+      <guid isPermaLink="false">06f739df26af0aaa816b6176404b96ca13334a6fb5b2c30688ba0ff0c7efce50</guid>
+      <pubDate>Tue, 20 Jan 2026 05:08:27 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 The Bitcoin Chronicles - 1.A.6.1 - The Day the Metrics Were Kind</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=585db450898c52cad5fba1712f8bc5bb994aa2350368a53512d5e0841fd20d48</link>
@@ -383,16 +403,6 @@
       <pubDate>Sat, 17 Jan 2026 02:39:49 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:0 aee68c0936</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=aee68c09366d874de0d9dcd6f1f29a77a8303a83350a9ffecaf3679929996a30</link>
-      <guid isPermaLink="false">aee68c09366d874de0d9dcd6f1f29a77a8303a83350a9ffecaf3679929996a30</guid>
-      <pubDate>Fri, 16 Jan 2026 22:50:06 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:0</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">796467e5e05931f916e2ae4201d3641f8067595d1f1e0bbe4ecc4c6b7517c5a2</guid>
       <pubDate>Sat, 15 Nov 2025 07:12:53 GMT</pubDate>
       <description><![CDATA[Why I denominate wealth in Bitcoin instead of chasing endless fiat gains.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>中央集権の見えない代償——そして分散化がもたらす、より深い約束(The Hidden Cost of Centralization — and the Deeper Promise of Decentralization - Japanese Version)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=1a009040d2ac6121d9f2c41f19df7848b7f0ad09d52631a9ba49293c0446bd1c</link>
-      <guid isPermaLink="false">1a009040d2ac6121d9f2c41f19df7848b7f0ad09d52631a9ba49293c0446bd1c</guid>
-      <pubDate>Sat, 15 Nov 2025 07:11:41 GMT</pubDate>
-      <description><![CDATA[多くの人は、テクノロジーがコストをゼロに近づけるものだと考えています。しかし、それは物語の半分にすぎません。中央集権型プラットフォームの「隠れた代償」は、金銭的なものだけでなく、コントロール（支配）にも及びます。本記事では、NostrやBitcoinのような分散型技術がこの構図をどう覆し、コストだけでなく「コントロール・コスト」も削減するのか、そしてその変化がなぜ重要なのかを掘り下げます。]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 20 Jan 2026 04:29:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 18:19:45 GMT</lastBuildDate>
+    <item>
+      <title>RSS Feed in my archive - 1/19/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=06f739df26af0aaa816b6176404b96ca13334a6fb5b2c30688ba0ff0c7efce50</link>
+      <guid isPermaLink="false">06f739df26af0aaa816b6176404b96ca13334a6fb5b2c30688ba0ff0c7efce50</guid>
+      <pubDate>Tue, 20 Jan 2026 05:08:27 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>5️⃣ -1/19/2026</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=55bb6bcb3a6d6fdc2d23e0b15fed8e6065492765e76b8f69ff53b6ffa4c03a20</link>
