@@ -1,5 +1,38 @@
 [
   {
+    "slug": "-the-bitcoin-chronicles---1a61---the-day-the-metrics-were-kind-2026-01-19",
+    "event_id": "585db450898c52cad5fba1712f8bc5bb994aa2350368a53512d5e0841fd20d48",
+    "created_at": 1768861720,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/585db450898c52cad5fba1712f8bc5bb994aa2350368a53512d5e0841fd20d48.json",
+    "title": "🔒 The Bitcoin Chronicles - 1.A.6.1 - The Day the Metrics Were Kind",
+    "summary": "Earth has not fallen. The trains run. The dashboards are green. Compliance feels reasonable. In this Chronicle, a mid-level systems analyst experiences an ordinary day inside a world that still functions — and begins to sense what has quietly departed it.",
+    "paid": false
+  },
+  {
+    "slug": "the-bitcoin-chronicles---1a62---the-ones-who-never-left-2026-01-19",
+    "event_id": "3f86de184ba1bdaf3e77a7bc8c793731f7907a77264f0441ac8ab7687953a77d",
+    "created_at": 1768861675,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/3f86de184ba1bdaf3e77a7bc8c793731f7907a77264f0441ac8ab7687953a77d.json",
+    "title": "🔒 The Bitcoin Chronicles - 1.A.6.2 - The Ones Who Never Left",
+    "summary": "Not everyone leaves when sovereignty moves outward. Some stay — not because they believe, but because leaving is never an option. This Chronicle follows an Earthbound archivist tasked with preserving memory in a world that still functions but no longer leads.",
+    "paid": false
+  },
+  {
+    "slug": "the-bitcoin-chronicles---1f41---the-men-who-learned-to-wait-2026-01-19",
+    "event_id": "e4e3ad9bfa6303212b6eb2d9222d0b181f8739de0bf38c1e01f46cdd0915e8d2",
+    "created_at": 1768861604,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/e4e3ad9bfa6303212b6eb2d9222d0b181f8739de0bf38c1e01f46cdd0915e8d2.json",
+    "title": "🔒 The Bitcoin Chronicles - 1.F.4.1 - The Men Who Learned to Wait",
+    "summary": "After the long silence settles across the outer settlements, a small group of engineers, archivists, and navigators confront a truth no charter prepared them for: sovereignty does not feel triumphant. It feels quiet. This Chronicle explores the inner lives of those who crossed the point of no return and discovered that freedom often arrives without witnesses.",
+    "paid": false
+  },
+  {
     "slug": "the-bitcoin-chronicles---1a62---the-ones-who-never-left-2026-01-19",
     "event_id": "150d1b91fadbbd03697742a9d96e7130131c94a89cd11bed6732b8246da5c933",
     "created_at": 1768854397,
