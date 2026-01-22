@@ -1,5 +1,71 @@
 [
   {
+    "slug": "freedom-is-not-a-feature--its-a-consequence-2026-01-20",
+    "event_id": "e3dcbb9fa29aa7f2fe31016819f4873ba9e129b6fed330d5715da38a32bdfe2b",
+    "created_at": 1769046249,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/e3dcbb9fa29aa7f2fe31016819f4873ba9e129b6fed330d5715da38a32bdfe2b.json",
+    "title": "🔒 Freedom Is Not a Feature — It’s a Consequence",
+    "summary": "Many people speak about “freedom” as if it were a toggle you enable or a benefit you receive. But real freedom is never granted — it emerges as a consequence of responsibility, cost-bearing, and opting out of systems that reward dependence. This essay explores why freedom cannot be offered by platforms, institutions, or movements, and why those who truly pursue it often appear stubborn, inefficient, or uncooperative to the world around them.",
+    "paid": false
+  },
+  {
+    "slug": "opting-out-is-not-escapism-2026-01-20",
+    "event_id": "40aed6cc0b0ee41eddcc5bcdbf927351625c7b689b6a47b04cf235d037fa7a60",
+    "created_at": 1769046189,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/40aed6cc0b0ee41eddcc5bcdbf927351625c7b689b6a47b04cf235d037fa7a60.json",
+    "title": "🔒 Opting Out Is Not Escapism",
+    "summary": "Opting out is often framed as withdrawal or retreat — a refusal to engage. In reality, opting out is one of the most engaged acts a person can take. It requires discernment, discipline, and a willingness to stand without applause. This essay challenges the idea that participation equals virtue and explores why opting out is often the first step toward building something honest.",
+    "paid": false
+  },
+  {
+    "slug": "freedom-without-applause-2026-01-20",
+    "event_id": "c97b3cecf2c7f2ebe03a11a45eee02c9730a727938404001d791864132f1242f",
+    "created_at": 1769046132,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/c97b3cecf2c7f2ebe03a11a45eee02c9730a727938404001d791864132f1242f.json",
+    "title": "🔒 Freedom Without Applause",
+    "summary": "Freedom pursued for recognition collapses into performance. This essay explores why the most meaningful forms of freedom are invisible, misunderstood, or actively discouraged — and why learning to build without applause is a prerequisite for lasting sovereignty.",
+    "paid": false
+  },
+  {
+    "slug": "why-sovereign-platforms-are-hard-to-build-2026-01-21",
+    "event_id": "0244f971e2d4d30352928c26b24b7d06764b768227d5c82eaa41efb79d9532a5",
+    "created_at": 1769046075,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/0244f971e2d4d30352928c26b24b7d06764b768227d5c82eaa41efb79d9532a5.json",
+    "title": "🔒 Why Sovereign Platforms Are \"Hard\" to Build",
+    "summary": "Decentralized, sovereign platforms are often dismissed as clunky, slow, or inferior to traditional SaaS. This essay argues that these perceived flaws are not technical failures — they are symptoms of deeper non-technical resistance: cultural, economic, and psychological. Building sovereign systems is hard because they challenge power, incentives, and expectations.",
+    "paid": false
+  },
+  {
+    "slug": "the-non-technical-cost-of-decentralization-2026-01-21",
+    "event_id": "1e3414a0d0c2ae3ef4c29823d376d52f9ce21fd3e425f460d7be469ea995216b",
+    "created_at": 1769046018,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/1e3414a0d0c2ae3ef4c29823d376d52f9ce21fd3e425f460d7be469ea995216b.json",
+    "title": "🔒 The Non-Technical Cost of Decentralization",
+    "summary": "Decentralization introduces social, economic, and psychological costs that most builders are unwilling to bear. This essay explores the hidden burdens of building sovereign systems — from user education to incentive misalignment — and why these costs are often misattributed to “bad UX” or “early tech.”",
+    "paid": false
+  },
+  {
+    "slug": "why-most-platforms-will-never-choose-sovereignty-2026-01-21",
+    "event_id": "a6b6936b7d5e6c905b36a54180023128a38dce5613f0f4f3cab9a46dcdc6654a",
+    "created_at": 1769045824,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/a6b6936b7d5e6c905b36a54180023128a38dce5613f0f4f3cab9a46dcdc6654a.json",
+    "title": "🔒 Why Most Platforms Will Never Choose Sovereignty",
+    "summary": "Sovereignty is incompatible with many modern business models. This essay explains why most platforms will never truly embrace decentralized, user-sovereign design — not because they can’t, but because doing so would undermine their power, profits, and narrative control.",
+    "paid": false
+  },
+  {
     "slug": "why-most-platforms-will-never-choose-sovereignty-2026-01-21",
     "event_id": "388fdb83ac7b86b2424e8a5f1b76e5021b0e421ead4c1439645c3ebf05018777",
     "created_at": 1769045081,

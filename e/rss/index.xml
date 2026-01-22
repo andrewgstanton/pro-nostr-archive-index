@@ -5,63 +5,63 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 22 Jan 2026 01:33:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 01:51:14 GMT</lastBuildDate>
     <item>
-      <title>Why Most Platforms Will Never Choose Sovereignty</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=388fdb83ac7b86b2424e8a5f1b76e5021b0e421ead4c1439645c3ebf05018777</link>
-      <guid isPermaLink="false">388fdb83ac7b86b2424e8a5f1b76e5021b0e421ead4c1439645c3ebf05018777</guid>
-      <pubDate>Thu, 22 Jan 2026 01:24:41 GMT</pubDate>
-      <description><![CDATA[Sovereignty is incompatible with many modern business models. This essay explains why most platforms will never truly embrace decentralized, user-sovereign design — not because they can’t, but because doing so would undermine their power, profits, and narrative control.]]></description>
+      <title>🔒 Freedom Is Not a Feature — It’s a Consequence</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e3dcbb9fa29aa7f2fe31016819f4873ba9e129b6fed330d5715da38a32bdfe2b</link>
+      <guid isPermaLink="false">e3dcbb9fa29aa7f2fe31016819f4873ba9e129b6fed330d5715da38a32bdfe2b</guid>
+      <pubDate>Thu, 22 Jan 2026 01:44:09 GMT</pubDate>
+      <description><![CDATA[Many people speak about “freedom” as if it were a toggle you enable or a benefit you receive. But real freedom is never granted — it emerges as a consequence of responsibility, cost-bearing, and opting out of systems that reward dependence. This essay explores why freedom cannot be offered by platforms, institutions, or movements, and why those who truly pursue it often appear stubborn, inefficient, or uncooperative to the world around them.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
     <item>
-      <title>The Non-Technical Cost of Decentralization</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=21c19682d25611dcc7bf311e85c65c45369f509bd47bfd2275bc2e8e3180965e</link>
-      <guid isPermaLink="false">21c19682d25611dcc7bf311e85c65c45369f509bd47bfd2275bc2e8e3180965e</guid>
-      <pubDate>Thu, 22 Jan 2026 01:22:01 GMT</pubDate>
-      <description><![CDATA[Decentralization introduces social, economic, and psychological costs that most builders are unwilling to bear. This essay explores the hidden burdens of building sovereign systems — from user education to incentive misalignment — and why these costs are often misattributed to “bad UX” or “early tech.”]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Why Sovereign Platforms Are "Hard" to Build</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=4794c374ebb8c415ba682d3020b8d5a7f9054910ef01a269c649bb4ecfd743bc</link>
-      <guid isPermaLink="false">4794c374ebb8c415ba682d3020b8d5a7f9054910ef01a269c649bb4ecfd743bc</guid>
-      <pubDate>Thu, 22 Jan 2026 01:19:22 GMT</pubDate>
-      <description><![CDATA[Decentralized, sovereign platforms are often dismissed as clunky, slow, or inferior to traditional SaaS. This essay argues that these perceived flaws are not technical failures — they are symptoms of deeper non-technical resistance: cultural, economic, and psychological. Building sovereign systems is hard because they challenge power, incentives, and expectations.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Freedom Without Applause</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d96e5f6119c3cbf899cd808a7650f9ed3f2f186803ef1cab3dd9596131cf6314</link>
-      <guid isPermaLink="false">d96e5f6119c3cbf899cd808a7650f9ed3f2f186803ef1cab3dd9596131cf6314</guid>
-      <pubDate>Thu, 22 Jan 2026 01:15:43 GMT</pubDate>
-      <description><![CDATA[Freedom pursued for recognition collapses into performance. This essay explores why the most meaningful forms of freedom are invisible, misunderstood, or actively discouraged — and why learning to build without applause is a prerequisite for lasting sovereignty.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Opting Out Is Not Escapism</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=568b088274d7d3565fc09e10629dfe4fb6a70cda2e685e3ec52ba40626ee0daf</link>
-      <guid isPermaLink="false">568b088274d7d3565fc09e10629dfe4fb6a70cda2e685e3ec52ba40626ee0daf</guid>
-      <pubDate>Thu, 22 Jan 2026 01:12:59 GMT</pubDate>
+      <title>🔒 Opting Out Is Not Escapism</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=40aed6cc0b0ee41eddcc5bcdbf927351625c7b689b6a47b04cf235d037fa7a60</link>
+      <guid isPermaLink="false">40aed6cc0b0ee41eddcc5bcdbf927351625c7b689b6a47b04cf235d037fa7a60</guid>
+      <pubDate>Thu, 22 Jan 2026 01:43:09 GMT</pubDate>
       <description><![CDATA[Opting out is often framed as withdrawal or retreat — a refusal to engage. In reality, opting out is one of the most engaged acts a person can take. It requires discernment, discipline, and a willingness to stand without applause. This essay challenges the idea that participation equals virtue and explores why opting out is often the first step toward building something honest.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
     <item>
-      <title>Freedom Is Not a Feature — It’s a Consequence</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=98172dca2bdbe7bfd09cb1918c342704f5da6f8db958d65ba034800f60eead35</link>
-      <guid isPermaLink="false">98172dca2bdbe7bfd09cb1918c342704f5da6f8db958d65ba034800f60eead35</guid>
-      <pubDate>Thu, 22 Jan 2026 01:10:41 GMT</pubDate>
-      <description><![CDATA[Many people speak about “freedom” as if it were a toggle you enable or a benefit you receive. But real freedom is never granted — it emerges as a consequence of responsibility, cost-bearing, and opting out of systems that reward dependence. This essay explores why freedom cannot be offered by platforms, institutions, or movements, and why those who truly pursue it often appear stubborn, inefficient, or uncooperative to the world around them.]]></description>
+      <title>🔒 Freedom Without Applause</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c97b3cecf2c7f2ebe03a11a45eee02c9730a727938404001d791864132f1242f</link>
+      <guid isPermaLink="false">c97b3cecf2c7f2ebe03a11a45eee02c9730a727938404001d791864132f1242f</guid>
+      <pubDate>Thu, 22 Jan 2026 01:42:12 GMT</pubDate>
+      <description><![CDATA[Freedom pursued for recognition collapses into performance. This essay explores why the most meaningful forms of freedom are invisible, misunderstood, or actively discouraged — and why learning to build without applause is a prerequisite for lasting sovereignty.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Why Sovereign Platforms Are "Hard" to Build</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=0244f971e2d4d30352928c26b24b7d06764b768227d5c82eaa41efb79d9532a5</link>
+      <guid isPermaLink="false">0244f971e2d4d30352928c26b24b7d06764b768227d5c82eaa41efb79d9532a5</guid>
+      <pubDate>Thu, 22 Jan 2026 01:41:15 GMT</pubDate>
+      <description><![CDATA[Decentralized, sovereign platforms are often dismissed as clunky, slow, or inferior to traditional SaaS. This essay argues that these perceived flaws are not technical failures — they are symptoms of deeper non-technical resistance: cultural, economic, and psychological. Building sovereign systems is hard because they challenge power, incentives, and expectations.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 The Non-Technical Cost of Decentralization</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1e3414a0d0c2ae3ef4c29823d376d52f9ce21fd3e425f460d7be469ea995216b</link>
+      <guid isPermaLink="false">1e3414a0d0c2ae3ef4c29823d376d52f9ce21fd3e425f460d7be469ea995216b</guid>
+      <pubDate>Thu, 22 Jan 2026 01:40:18 GMT</pubDate>
+      <description><![CDATA[Decentralization introduces social, economic, and psychological costs that most builders are unwilling to bear. This essay explores the hidden burdens of building sovereign systems — from user education to incentive misalignment — and why these costs are often misattributed to “bad UX” or “early tech.”]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Why Most Platforms Will Never Choose Sovereignty</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a6b6936b7d5e6c905b36a54180023128a38dce5613f0f4f3cab9a46dcdc6654a</link>
+      <guid isPermaLink="false">a6b6936b7d5e6c905b36a54180023128a38dce5613f0f4f3cab9a46dcdc6654a</guid>
+      <pubDate>Thu, 22 Jan 2026 01:37:04 GMT</pubDate>
+      <description><![CDATA[Sovereignty is incompatible with many modern business models. This essay explains why most platforms will never truly embrace decentralized, user-sovereign design — not because they can’t, but because doing so would undermine their power, profits, and narrative control.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
