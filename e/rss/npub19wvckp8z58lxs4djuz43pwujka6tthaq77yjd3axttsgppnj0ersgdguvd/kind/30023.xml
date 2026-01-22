@@ -5,7 +5,67 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 20 Jan 2026 19:45:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 01:33:39 GMT</lastBuildDate>
+    <item>
+      <title>Why Most Platforms Will Never Choose Sovereignty</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=388fdb83ac7b86b2424e8a5f1b76e5021b0e421ead4c1439645c3ebf05018777</link>
+      <guid isPermaLink="false">388fdb83ac7b86b2424e8a5f1b76e5021b0e421ead4c1439645c3ebf05018777</guid>
+      <pubDate>Thu, 22 Jan 2026 01:24:41 GMT</pubDate>
+      <description><![CDATA[Sovereignty is incompatible with many modern business models. This essay explains why most platforms will never truly embrace decentralized, user-sovereign design — not because they can’t, but because doing so would undermine their power, profits, and narrative control.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Non-Technical Cost of Decentralization</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=21c19682d25611dcc7bf311e85c65c45369f509bd47bfd2275bc2e8e3180965e</link>
+      <guid isPermaLink="false">21c19682d25611dcc7bf311e85c65c45369f509bd47bfd2275bc2e8e3180965e</guid>
+      <pubDate>Thu, 22 Jan 2026 01:22:01 GMT</pubDate>
+      <description><![CDATA[Decentralization introduces social, economic, and psychological costs that most builders are unwilling to bear. This essay explores the hidden burdens of building sovereign systems — from user education to incentive misalignment — and why these costs are often misattributed to “bad UX” or “early tech.”]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Why Sovereign Platforms Are "Hard" to Build</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4794c374ebb8c415ba682d3020b8d5a7f9054910ef01a269c649bb4ecfd743bc</link>
+      <guid isPermaLink="false">4794c374ebb8c415ba682d3020b8d5a7f9054910ef01a269c649bb4ecfd743bc</guid>
+      <pubDate>Thu, 22 Jan 2026 01:19:22 GMT</pubDate>
+      <description><![CDATA[Decentralized, sovereign platforms are often dismissed as clunky, slow, or inferior to traditional SaaS. This essay argues that these perceived flaws are not technical failures — they are symptoms of deeper non-technical resistance: cultural, economic, and psychological. Building sovereign systems is hard because they challenge power, incentives, and expectations.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Freedom Without Applause</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d96e5f6119c3cbf899cd808a7650f9ed3f2f186803ef1cab3dd9596131cf6314</link>
+      <guid isPermaLink="false">d96e5f6119c3cbf899cd808a7650f9ed3f2f186803ef1cab3dd9596131cf6314</guid>
+      <pubDate>Thu, 22 Jan 2026 01:15:43 GMT</pubDate>
+      <description><![CDATA[Freedom pursued for recognition collapses into performance. This essay explores why the most meaningful forms of freedom are invisible, misunderstood, or actively discouraged — and why learning to build without applause is a prerequisite for lasting sovereignty.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Opting Out Is Not Escapism</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=568b088274d7d3565fc09e10629dfe4fb6a70cda2e685e3ec52ba40626ee0daf</link>
+      <guid isPermaLink="false">568b088274d7d3565fc09e10629dfe4fb6a70cda2e685e3ec52ba40626ee0daf</guid>
+      <pubDate>Thu, 22 Jan 2026 01:12:59 GMT</pubDate>
+      <description><![CDATA[Opting out is often framed as withdrawal or retreat — a refusal to engage. In reality, opting out is one of the most engaged acts a person can take. It requires discernment, discipline, and a willingness to stand without applause. This essay challenges the idea that participation equals virtue and explores why opting out is often the first step toward building something honest.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Freedom Is Not a Feature — It’s a Consequence</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=98172dca2bdbe7bfd09cb1918c342704f5da6f8db958d65ba034800f60eead35</link>
+      <guid isPermaLink="false">98172dca2bdbe7bfd09cb1918c342704f5da6f8db958d65ba034800f60eead35</guid>
+      <pubDate>Thu, 22 Jan 2026 01:10:41 GMT</pubDate>
+      <description><![CDATA[Many people speak about “freedom” as if it were a toggle you enable or a benefit you receive. But real freedom is never granted — it emerges as a consequence of responsibility, cost-bearing, and opting out of systems that reward dependence. This essay explores why freedom cannot be offered by platforms, institutions, or movements, and why those who truly pursue it often appear stubborn, inefficient, or uncooperative to the world around them.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 The Bitcoin Chronicles - 1.A.6.1 - The Day the Metrics Were Kind</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=585db450898c52cad5fba1712f8bc5bb994aa2350368a53512d5e0841fd20d48</link>
@@ -4952,66 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">c52ca93e9209d9c6a6572fd9f4e368312f1f168413e7a7fdc204ae2538be64d6</guid>
       <pubDate>Fri, 03 Oct 2025 19:14:01 GMT</pubDate>
       <description><![CDATA[Low time preference means building cathedrals, code, and communities we will never personally use. This article explores the humility and hope of creating legacies beyond our lifetime.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Sept. 23, 2025):  The Sovereign Path: Lessons From Chiefs and Kingdoms</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5732679f243c98210dbc3515c6d311c4c52fe98d96685138e220381cda27023d</link>
-      <guid isPermaLink="false">5732679f243c98210dbc3515c6d311c4c52fe98d96685138e220381cda27023d</guid>
-      <pubDate>Fri, 03 Oct 2025 18:33:57 GMT</pubDate>
-      <description><![CDATA[This essay distills five lessons from leaders who protected their people in seasons of cultural collision: clarity, patience, alliance, archives, and blessing. It translates each lesson into practices for modern sovereign individuals—especially around money, identity, and speech—so that sovereignty becomes more than a slogan.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Sept. 23, 2025): Freedom in the Fire: When Cultures Collide</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=418133cfd8c3c2f3ac3b419ca8d9e3e6561f0dda4cbddf027bc4b382a3640c9f</link>
-      <guid isPermaLink="false">418133cfd8c3c2f3ac3b419ca8d9e3e6561f0dda4cbddf027bc4b382a3640c9f</guid>
-      <pubDate>Fri, 03 Oct 2025 18:23:01 GMT</pubDate>
-      <description><![CDATA[This reflection explores how freedom is revealed and refined in cultural collisions. It argues that true freedom is responsibility carried under pressure, not license enjoyed in calm. Drawing lessons from island sovereignties facing imperial power, it invites readers to steward freedom with courage in their own homes, wallets, and communities.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Oct. 3, 2025): Vision Carried Forward: Seeing Beyond the Rubble</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=32762e3ad759437c6f9fd767c0dd4d72e55f5baea3a122fbc4c90aca33f1fd66</link>
-      <guid isPermaLink="false">32762e3ad759437c6f9fd767c0dd4d72e55f5baea3a122fbc4c90aca33f1fd66</guid>
-      <pubDate>Fri, 03 Oct 2025 18:05:37 GMT</pubDate>
-      <description><![CDATA[This essay shows how vision functions in the aftermath of loss. Drawing on scriptural and historical rebuilds, it argues that vision is not escapism but disciplined sight—naming a possible future and walking toward it with rituals, budgets, and friends until it becomes visible to others.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Oct. 3, 2025): Stones for Tomorrow: The Work of Rebuilding</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=fccd6bf41e3343459d5d2f9e2ab8db2d213c059a40a94cf981147c3de917f545</link>
-      <guid isPermaLink="false">fccd6bf41e3343459d5d2f9e2ab8db2d213c059a40a94cf981147c3de917f545</guid>
-      <pubDate>Fri, 03 Oct 2025 18:01:17 GMT</pubDate>
-      <description><![CDATA[This meditation honors the slow labor of reconstruction after endings. Using images of cathedrals and storm‑damaged homes, it encourages readers to value ordinary, patient work—budgeting, cleaning, phoning a friend—as the true foundation of a hopeful tomorrow.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Oct. 2, 2025): Continuity and Change: Carrying the Past Into the Future</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0403fe160638359fa2595dc81ff7190dd5173c30138693d5260648f50cbc6500</link>
-      <guid isPermaLink="false">0403fe160638359fa2595dc81ff7190dd5173c30138693d5260648f50cbc6500</guid>
-      <pubDate>Fri, 03 Oct 2025 17:32:39 GMT</pubDate>
-      <description><![CDATA[This essay explores how to hold continuity and embrace change at the same time. Drawing from personal reflection, Scripture, and open protocols, it shows how legacy and innovation can coexist. It offers a way forward for individuals and communities seeking to honor what has been without being trapped by it.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Oct. 2, 2025): Seeds After Winter: How Renewal Takes Root</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=51404790c2dbbfe0739fedc38b62f751d4fe86e636c735164f6377fe30fa45da</link>
-      <guid isPermaLink="false">51404790c2dbbfe0739fedc38b62f751d4fe86e636c735164f6377fe30fa45da</guid>
-      <pubDate>Fri, 03 Oct 2025 17:27:53 GMT</pubDate>
-      <description><![CDATA[This meditation considers how renewal emerges from endings. Using the metaphor of seasons, it shows how grief and disruption prepare the ground for new life. It invites readers to see renewal not as denial but as patient cultivation, trusting that even in exhaustion, seeds are germinating beneath the surface.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

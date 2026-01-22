@@ -5,9 +5,109 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 20 Jan 2026 19:45:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 01:33:39 GMT</lastBuildDate>
     <item>
-      <title>kind:1 a920c849ba</title>
+      <title>Note 5 - 1/21/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c7f89d928347eec38b3b3014f8f65e0978198768142d528229be2b875c77724d</link>
+      <guid isPermaLink="false">c7f89d928347eec38b3b3014f8f65e0978198768142d528229be2b875c77724d</guid>
+      <pubDate>Thu, 22 Jan 2026 00:58:43 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 4 - 1/21/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=05e89547167ab6717ff833683d152ffef16a38c548c4ee81a50b6e592fbc362b</link>
+      <guid isPermaLink="false">05e89547167ab6717ff833683d152ffef16a38c548c4ee81a50b6e592fbc362b</guid>
+      <pubDate>Thu, 22 Jan 2026 00:57:33 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 3 - 1/21/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=94cfab2a60919aa845d18aa0f9fe57526567789b1b45a616de723a5732619fb0</link>
+      <guid isPermaLink="false">94cfab2a60919aa845d18aa0f9fe57526567789b1b45a616de723a5732619fb0</guid>
+      <pubDate>Thu, 22 Jan 2026 00:56:28 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 2 - 1/21/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=70f3d948a44464e7aa35167f30c7b1edf7714045db9fbc8ad94f72f745f32e2a</link>
+      <guid isPermaLink="false">70f3d948a44464e7aa35167f30c7b1edf7714045db9fbc8ad94f72f745f32e2a</guid>
+      <pubDate>Thu, 22 Jan 2026 00:55:08 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 1 - 1/21/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=653d88077c02406a466b4bb79632e854ab5fe35d0da56bce26b751d310f28fc0</link>
+      <guid isPermaLink="false">653d88077c02406a466b4bb79632e854ab5fe35d0da56bce26b751d310f28fc0</guid>
+      <pubDate>Thu, 22 Jan 2026 00:54:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 5 - 1/20/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7dba5faafc6136bf1064726423849b6b81129923b9b09b8b988a3b5c864f92fc</link>
+      <guid isPermaLink="false">7dba5faafc6136bf1064726423849b6b81129923b9b09b8b988a3b5c864f92fc</guid>
+      <pubDate>Thu, 22 Jan 2026 00:48:33 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 4 - 1/20/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=10c73d38b619e70eafd49f871d37ca999c4704b05c46432b854e5a231c3a4ca5</link>
+      <guid isPermaLink="false">10c73d38b619e70eafd49f871d37ca999c4704b05c46432b854e5a231c3a4ca5</guid>
+      <pubDate>Thu, 22 Jan 2026 00:47:16 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 3 - 1/20/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=506660683b214bb7e267597d489df2c052ad760229bd3218ece3396707c16a95</link>
+      <guid isPermaLink="false">506660683b214bb7e267597d489df2c052ad760229bd3218ece3396707c16a95</guid>
+      <pubDate>Thu, 22 Jan 2026 00:45:27 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 2 - 1/20/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=204bd405f497e27d7913366c0b01234caf93536106be58f994c6bf56ccd24867</link>
+      <guid isPermaLink="false">204bd405f497e27d7913366c0b01234caf93536106be58f994c6bf56ccd24867</guid>
+      <pubDate>Thu, 22 Jan 2026 00:42:45 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 1 - 1/20/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=167a1ab50b3837f7acb41b246d97d0ae17ade5d9963ea48b55ed77e6e16b8e79</link>
+      <guid isPermaLink="false">167a1ab50b3837f7acb41b246d97d0ae17ade5d9963ea48b55ed77e6e16b8e79</guid>
+      <pubDate>Thu, 22 Jan 2026 00:40:14 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>RSS-Feed in meinem Archiv – 19.01.2026</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=a920c849ba4ec99d3ef7788d34047bee107e8cb0695fb9063498cf6ec0cdd557</link>
       <guid isPermaLink="false">a920c849ba4ec99d3ef7788d34047bee107e8cb0695fb9063498cf6ec0cdd557</guid>
       <pubDate>Tue, 20 Jan 2026 19:40:29 GMT</pubDate>

@@ -5,9 +5,169 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 20 Jan 2026 19:45:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 01:33:39 GMT</lastBuildDate>
     <item>
-      <title>kind:1 a920c849ba</title>
+      <title>Why Most Platforms Will Never Choose Sovereignty</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=388fdb83ac7b86b2424e8a5f1b76e5021b0e421ead4c1439645c3ebf05018777</link>
+      <guid isPermaLink="false">388fdb83ac7b86b2424e8a5f1b76e5021b0e421ead4c1439645c3ebf05018777</guid>
+      <pubDate>Thu, 22 Jan 2026 01:24:41 GMT</pubDate>
+      <description><![CDATA[Sovereignty is incompatible with many modern business models. This essay explains why most platforms will never truly embrace decentralized, user-sovereign design — not because they can’t, but because doing so would undermine their power, profits, and narrative control.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Non-Technical Cost of Decentralization</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=21c19682d25611dcc7bf311e85c65c45369f509bd47bfd2275bc2e8e3180965e</link>
+      <guid isPermaLink="false">21c19682d25611dcc7bf311e85c65c45369f509bd47bfd2275bc2e8e3180965e</guid>
+      <pubDate>Thu, 22 Jan 2026 01:22:01 GMT</pubDate>
+      <description><![CDATA[Decentralization introduces social, economic, and psychological costs that most builders are unwilling to bear. This essay explores the hidden burdens of building sovereign systems — from user education to incentive misalignment — and why these costs are often misattributed to “bad UX” or “early tech.”]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Why Sovereign Platforms Are "Hard" to Build</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4794c374ebb8c415ba682d3020b8d5a7f9054910ef01a269c649bb4ecfd743bc</link>
+      <guid isPermaLink="false">4794c374ebb8c415ba682d3020b8d5a7f9054910ef01a269c649bb4ecfd743bc</guid>
+      <pubDate>Thu, 22 Jan 2026 01:19:22 GMT</pubDate>
+      <description><![CDATA[Decentralized, sovereign platforms are often dismissed as clunky, slow, or inferior to traditional SaaS. This essay argues that these perceived flaws are not technical failures — they are symptoms of deeper non-technical resistance: cultural, economic, and psychological. Building sovereign systems is hard because they challenge power, incentives, and expectations.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Freedom Without Applause</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d96e5f6119c3cbf899cd808a7650f9ed3f2f186803ef1cab3dd9596131cf6314</link>
+      <guid isPermaLink="false">d96e5f6119c3cbf899cd808a7650f9ed3f2f186803ef1cab3dd9596131cf6314</guid>
+      <pubDate>Thu, 22 Jan 2026 01:15:43 GMT</pubDate>
+      <description><![CDATA[Freedom pursued for recognition collapses into performance. This essay explores why the most meaningful forms of freedom are invisible, misunderstood, or actively discouraged — and why learning to build without applause is a prerequisite for lasting sovereignty.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Opting Out Is Not Escapism</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=568b088274d7d3565fc09e10629dfe4fb6a70cda2e685e3ec52ba40626ee0daf</link>
+      <guid isPermaLink="false">568b088274d7d3565fc09e10629dfe4fb6a70cda2e685e3ec52ba40626ee0daf</guid>
+      <pubDate>Thu, 22 Jan 2026 01:12:59 GMT</pubDate>
+      <description><![CDATA[Opting out is often framed as withdrawal or retreat — a refusal to engage. In reality, opting out is one of the most engaged acts a person can take. It requires discernment, discipline, and a willingness to stand without applause. This essay challenges the idea that participation equals virtue and explores why opting out is often the first step toward building something honest.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Freedom Is Not a Feature — It’s a Consequence</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=98172dca2bdbe7bfd09cb1918c342704f5da6f8db958d65ba034800f60eead35</link>
+      <guid isPermaLink="false">98172dca2bdbe7bfd09cb1918c342704f5da6f8db958d65ba034800f60eead35</guid>
+      <pubDate>Thu, 22 Jan 2026 01:10:41 GMT</pubDate>
+      <description><![CDATA[Many people speak about “freedom” as if it were a toggle you enable or a benefit you receive. But real freedom is never granted — it emerges as a consequence of responsibility, cost-bearing, and opting out of systems that reward dependence. This essay explores why freedom cannot be offered by platforms, institutions, or movements, and why those who truly pursue it often appear stubborn, inefficient, or uncooperative to the world around them.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 5 - 1/21/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c7f89d928347eec38b3b3014f8f65e0978198768142d528229be2b875c77724d</link>
+      <guid isPermaLink="false">c7f89d928347eec38b3b3014f8f65e0978198768142d528229be2b875c77724d</guid>
+      <pubDate>Thu, 22 Jan 2026 00:58:43 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 4 - 1/21/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=05e89547167ab6717ff833683d152ffef16a38c548c4ee81a50b6e592fbc362b</link>
+      <guid isPermaLink="false">05e89547167ab6717ff833683d152ffef16a38c548c4ee81a50b6e592fbc362b</guid>
+      <pubDate>Thu, 22 Jan 2026 00:57:33 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 3 - 1/21/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=94cfab2a60919aa845d18aa0f9fe57526567789b1b45a616de723a5732619fb0</link>
+      <guid isPermaLink="false">94cfab2a60919aa845d18aa0f9fe57526567789b1b45a616de723a5732619fb0</guid>
+      <pubDate>Thu, 22 Jan 2026 00:56:28 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 2 - 1/21/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=70f3d948a44464e7aa35167f30c7b1edf7714045db9fbc8ad94f72f745f32e2a</link>
+      <guid isPermaLink="false">70f3d948a44464e7aa35167f30c7b1edf7714045db9fbc8ad94f72f745f32e2a</guid>
+      <pubDate>Thu, 22 Jan 2026 00:55:08 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 1 - 1/21/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=653d88077c02406a466b4bb79632e854ab5fe35d0da56bce26b751d310f28fc0</link>
+      <guid isPermaLink="false">653d88077c02406a466b4bb79632e854ab5fe35d0da56bce26b751d310f28fc0</guid>
+      <pubDate>Thu, 22 Jan 2026 00:54:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 5 - 1/20/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7dba5faafc6136bf1064726423849b6b81129923b9b09b8b988a3b5c864f92fc</link>
+      <guid isPermaLink="false">7dba5faafc6136bf1064726423849b6b81129923b9b09b8b988a3b5c864f92fc</guid>
+      <pubDate>Thu, 22 Jan 2026 00:48:33 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 4 - 1/20/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=10c73d38b619e70eafd49f871d37ca999c4704b05c46432b854e5a231c3a4ca5</link>
+      <guid isPermaLink="false">10c73d38b619e70eafd49f871d37ca999c4704b05c46432b854e5a231c3a4ca5</guid>
+      <pubDate>Thu, 22 Jan 2026 00:47:16 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 3 - 1/20/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=506660683b214bb7e267597d489df2c052ad760229bd3218ece3396707c16a95</link>
+      <guid isPermaLink="false">506660683b214bb7e267597d489df2c052ad760229bd3218ece3396707c16a95</guid>
+      <pubDate>Thu, 22 Jan 2026 00:45:27 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 2 - 1/20/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=204bd405f497e27d7913366c0b01234caf93536106be58f994c6bf56ccd24867</link>
+      <guid isPermaLink="false">204bd405f497e27d7913366c0b01234caf93536106be58f994c6bf56ccd24867</guid>
+      <pubDate>Thu, 22 Jan 2026 00:42:45 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 1 - 1/20/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=167a1ab50b3837f7acb41b246d97d0ae17ade5d9963ea48b55ed77e6e16b8e79</link>
+      <guid isPermaLink="false">167a1ab50b3837f7acb41b246d97d0ae17ade5d9963ea48b55ed77e6e16b8e79</guid>
+      <pubDate>Thu, 22 Jan 2026 00:40:14 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>RSS-Feed in meinem Archiv – 19.01.2026</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=a920c849ba4ec99d3ef7788d34047bee107e8cb0695fb9063498cf6ec0cdd557</link>
       <guid isPermaLink="false">a920c849ba4ec99d3ef7788d34047bee107e8cb0695fb9063498cf6ec0cdd557</guid>
       <pubDate>Tue, 20 Jan 2026 19:40:29 GMT</pubDate>
@@ -4842,166 +5002,6 @@
       <guid isPermaLink="false">13eca7ca9028bdf007993baa13ee99170163f374b6b36318b0cbc345f6746175</guid>
       <pubDate>Thu, 20 Nov 2025 18:04:00 GMT</pubDate>
       <description><![CDATA[Sovereignty isn’t built on perfect days—it’s built on the days you feel exhausted, overwhelmed, or discouraged. This piece offers practical strategies for maintaining direction and dignity even when you have very little energy to give.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 20, 2025): Why Small Sovereign Habits Matter More Than Big Plans</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7f3a46343a1d9874da4b76447123a91ad9e1119a9ab7aafb5d654ec0cbee3364</link>
-      <guid isPermaLink="false">7f3a46343a1d9874da4b76447123a91ad9e1119a9ab7aafb5d654ec0cbee3364</guid>
-      <pubDate>Thu, 20 Nov 2025 18:02:04 GMT</pubDate>
-      <description><![CDATA[Most people wait for perfect conditions before pursuing sovereignty. But the real transformation begins through small, steady habits that rewire your mindset, reduce dependency, and slowly shift your life in a different direction.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 19, 2025): The First Exit Is Internal — Breaking Babylon’s Logic Before Breaking Its Chains</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c74971683d1a6d58f92f5724595eb2d2453491342b2c062471c7393de54e385e</link>
-      <guid isPermaLink="false">c74971683d1a6d58f92f5724595eb2d2453491342b2c062471c7393de54e385e</guid>
-      <pubDate>Wed, 19 Nov 2025 20:59:34 GMT</pubDate>
-      <description><![CDATA[Before we can leave any external system, we must leave its internal logic. This piece explores the mindset shifts around money, identity, time, and value that begin freeing us from the debt-based order even before we make lifestyle changes.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 19, 2025): Micro-Sovereignty — Why Small Actions Matter More Than “Total Revolution”</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b4814805863081b1fdf6c56d5c1a97725e44c11a269f48b99a890395bfbbc4d2</link>
-      <guid isPermaLink="false">b4814805863081b1fdf6c56d5c1a97725e44c11a269f48b99a890395bfbbc4d2</guid>
-      <pubDate>Wed, 19 Nov 2025 20:55:31 GMT</pubDate>
-      <description><![CDATA[Sovereignty isn’t achieved through dramatic gestures or complete system abandonment. It grows through small, steady, cumulative actions. This piece explains why “micro-sovereignty” is more powerful than radical breaks and offers practical examples anyone can begin today.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Babylonian Operating System</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0e68863b924bae95915ae72e6af6309219b489b92c451b9f0b08a1f3f24ff97d</link>
-      <guid isPermaLink="false">0e68863b924bae95915ae72e6af6309219b489b92c451b9f0b08a1f3f24ff97d</guid>
-      <pubDate>Wed, 19 Nov 2025 19:14:03 GMT</pubDate>
-      <description><![CDATA[A 1500-word exploration of “Mystery Babylon” not as a nation or conspiracy, but as a civilizational operating system built on debt, centralization, and narrative control. This ancient pattern reappears in every empire — including our modern fiat-credit world. And for the first time in centuries, new sovereign tools offer a way out.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🍏📱 The iPhone Sock — Fiat Culture’s Final Form</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c527dfe52d53e96f74646259312c0605d6c2af18de2af7a8fdb52d1b433aeddc</link>
-      <guid isPermaLink="false">c527dfe52d53e96f74646259312c0605d6c2af18de2af7a8fdb52d1b433aeddc</guid>
-      <pubDate>Tue, 18 Nov 2025 18:01:21 GMT</pubDate>
-      <description><![CDATA[Apple is now selling a $230 “iPhone pocket,” a luxury cloth pouch that perfectly captures the absurdity of late-fiat consumer psychology. This satirical meme-style piece explores how a branded sock became a symbol of economic decay, corporate incentives, and the theatre of prestige in a world losing touch with value.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 18, 2025): Walled Gardens, Dog Leashes, and the Price of Dependency</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b5fd1c034b1e3ea9cc18e244a5915bd12df671821a01de68928045ec95de127f</link>
-      <guid isPermaLink="false">b5fd1c034b1e3ea9cc18e244a5915bd12df671821a01de68928045ec95de127f</guid>
-      <pubDate>Tue, 18 Nov 2025 17:42:51 GMT</pubDate>
-      <description><![CDATA[A satirical but honest look at how modern platforms control the pace of our lives — from Rover’s 20% skim to Amazon’s non-clickable links — and why true sovereignty feels like trying to walk three dogs that refuse to agree on a speed.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 18, 2025): The Luxury of Exhaustion — And Why We Keep Building Anyway</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5eb8f89529869294737428be4c9cb75ad7b8ab2112d3477733cabe0036595b4f</link>
-      <guid isPermaLink="false">5eb8f89529869294737428be4c9cb75ad7b8ab2112d3477733cabe0036595b4f</guid>
-      <pubDate>Tue, 18 Nov 2025 17:40:39 GMT</pubDate>
-      <description><![CDATA[A reflection on physical exhaustion, quiet responsibilities, and the strange form of resilience required to build something sovereign in a world of platforms that want to drain every ounce of energy you have.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 17, 2025): What Patronage Really Buys</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ae49c4554d14d0f7d3066f4687e1f9d071480cd1f78f451795dc328cc72a2213</link>
-      <guid isPermaLink="false">ae49c4554d14d0f7d3066f4687e1f9d071480cd1f78f451795dc328cc72a2213</guid>
-      <pubDate>Tue, 18 Nov 2025 04:34:24 GMT</pubDate>
-      <description><![CDATA[Patronage isn’t just about “supporting a creator.” It buys time, resilience, and infrastructure so that real, sovereign tools can exist outside the VC treadmill. This is what your support actually does in my world.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 17, 2025): Three Hundred Stones in the Wall</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=86690139b8d48d61f3bfbcb4f8063a7366ed56a68994e29eaeadd7441fb075a6</link>
-      <guid isPermaLink="false">86690139b8d48d61f3bfbcb4f8063a7366ed56a68994e29eaeadd7441fb075a6</guid>
-      <pubDate>Tue, 18 Nov 2025 04:03:14 GMT</pubDate>
-      <description><![CDATA[Hitting 300 published essays isn’t an arrival point; it’s the moment you realize you’ve just finished pouring the foundation. This is a reflection on what has actually changed—and what hasn’t—after writing almost every day through one of the hardest years of my life.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Crossing 300: A Reflection on Continuity, Sovereignty, and Becoming</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=444174c48d522c7b946d2acc6f393d020687d50778c424968471828585cbc848</link>
-      <guid isPermaLink="false">444174c48d522c7b946d2acc6f393d020687d50778c424968471828585cbc848</guid>
-      <pubDate>Mon, 17 Nov 2025 05:17:46 GMT</pubDate>
-      <description><![CDATA[On November 16, after finishing the weekend set, I quietly crossed 300 published articles. This reflection explores what those first 300 meant — how they were written through fragility, how Continuum and the archive grew alongside me, and why this milestone marks the true beginning of a sovereign body of work.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sabbath Article (Nov. 15, 2025): The Day Continuum Became Permanent</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ed3f7d7bd3445f502150068a29c48fb3c18f98c643ad2d402a08151e44608348</link>
-      <guid isPermaLink="false">ed3f7d7bd3445f502150068a29c48fb3c18f98c643ad2d402a08151e44608348</guid>
-      <pubDate>Mon, 17 Nov 2025 04:44:26 GMT</pubDate>
-      <description><![CDATA[A deep, long-form reflection on the moment Continuum’s archive truly came alive — transforming the platform from a tool into a sovereign memory system. Saturday’s breakthrough becomes a lens for examining permanence, responsibility, and the emotional meaning of building something designed to outlast platforms and relays.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 15, 2025): When Sovereign Tools Suddenly Make Sense</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6dcccf0b4620bce5f2344f1861a7a21a8d65b41456f3daeda1fae56f20e71c6f</link>
-      <guid isPermaLink="false">6dcccf0b4620bce5f2344f1861a7a21a8d65b41456f3daeda1fae56f20e71c6f</guid>
-      <pubDate>Mon, 17 Nov 2025 04:41:46 GMT</pubDate>
-      <description><![CDATA[Sovereign systems always feel difficult, scattered, and uphill — until one breakthrough suddenly makes everything click. Today was that day for Continuum: the moment the archive started working and the friction finally aligned into clarity.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 15, 2025): The Day the Archive Came Alive</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e9abfbe9707eecc250fcf9497ecec02b47800862c49a71d64c1c0dd473414f99</link>
-      <guid isPermaLink="false">e9abfbe9707eecc250fcf9497ecec02b47800862c49a71d64c1c0dd473414f99</guid>
-      <pubDate>Mon, 17 Nov 2025 04:37:19 GMT</pubDate>
-      <description><![CDATA[After a night of discouragement and a failed rebroadcast attempt, Saturday brought the breakthrough: Continuum’s archive structure finally worked. Not perfectly, not fully polished — but real, sovereign, permanent.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sunday Article (Nov. 16, 2025): After Permanence: How Systems Change Their Makers</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=59fa73b68f74aec6aa668d320f4498c02845e0e59a1b33953f4c9af0fe2bc3b1</link>
-      <guid isPermaLink="false">59fa73b68f74aec6aa668d320f4498c02845e0e59a1b33953f4c9af0fe2bc3b1</guid>
-      <pubDate>Mon, 17 Nov 2025 04:29:11 GMT</pubDate>
-      <description><![CDATA[The moment a system becomes permanent, the creator changes too. This article reflects on what happens to a builder once the architecture finally holds — how permanence reshapes identity, decisions, and the future itself.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 14, 2025): When Every System Feels Like Friction</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a91c2acc7a6933cbebc669c23a070219105a885a37b5d71a3e9f1adf876854bb</link>
-      <guid isPermaLink="false">a91c2acc7a6933cbebc669c23a070219105a885a37b5d71a3e9f1adf876854bb</guid>
-      <pubDate>Mon, 17 Nov 2025 03:39:00 GMT</pubDate>
-      <description><![CDATA[On a day when nothing seemed to work — from vanished Nostr events to dead-end posts on Nextdoor — I found myself confronting the truth about walled gardens and why sovereign tools feel so hard in the beginning]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 14, 2025): When Your Oldest Words Start Disappearing</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b28700d16c561f574c16200d3ce7dea142844be5af26e754c3cff8b70a5de0b7</link>
-      <guid isPermaLink="false">b28700d16c561f574c16200d3ce7dea142844be5af26e754c3cff8b70a5de0b7</guid>
-      <pubDate>Mon, 17 Nov 2025 03:30:43 GMT</pubDate>
-      <description><![CDATA[he quiet panic of discovering that my earliest Nostr events — only months old — had vanished from every relay except Primal’s backup. A reflection on fragility, fatigue, and why Friday set the stage for Saturday’s breakthrough.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

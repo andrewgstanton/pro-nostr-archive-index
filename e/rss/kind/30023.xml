@@ -5,7 +5,67 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 20 Jan 2026 19:45:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 01:33:39 GMT</lastBuildDate>
+    <item>
+      <title>Why Most Platforms Will Never Choose Sovereignty</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=388fdb83ac7b86b2424e8a5f1b76e5021b0e421ead4c1439645c3ebf05018777</link>
+      <guid isPermaLink="false">388fdb83ac7b86b2424e8a5f1b76e5021b0e421ead4c1439645c3ebf05018777</guid>
+      <pubDate>Thu, 22 Jan 2026 01:24:41 GMT</pubDate>
+      <description><![CDATA[Sovereignty is incompatible with many modern business models. This essay explains why most platforms will never truly embrace decentralized, user-sovereign design — not because they can’t, but because doing so would undermine their power, profits, and narrative control.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Non-Technical Cost of Decentralization</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=21c19682d25611dcc7bf311e85c65c45369f509bd47bfd2275bc2e8e3180965e</link>
+      <guid isPermaLink="false">21c19682d25611dcc7bf311e85c65c45369f509bd47bfd2275bc2e8e3180965e</guid>
+      <pubDate>Thu, 22 Jan 2026 01:22:01 GMT</pubDate>
+      <description><![CDATA[Decentralization introduces social, economic, and psychological costs that most builders are unwilling to bear. This essay explores the hidden burdens of building sovereign systems — from user education to incentive misalignment — and why these costs are often misattributed to “bad UX” or “early tech.”]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Why Sovereign Platforms Are "Hard" to Build</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4794c374ebb8c415ba682d3020b8d5a7f9054910ef01a269c649bb4ecfd743bc</link>
+      <guid isPermaLink="false">4794c374ebb8c415ba682d3020b8d5a7f9054910ef01a269c649bb4ecfd743bc</guid>
+      <pubDate>Thu, 22 Jan 2026 01:19:22 GMT</pubDate>
+      <description><![CDATA[Decentralized, sovereign platforms are often dismissed as clunky, slow, or inferior to traditional SaaS. This essay argues that these perceived flaws are not technical failures — they are symptoms of deeper non-technical resistance: cultural, economic, and psychological. Building sovereign systems is hard because they challenge power, incentives, and expectations.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Freedom Without Applause</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d96e5f6119c3cbf899cd808a7650f9ed3f2f186803ef1cab3dd9596131cf6314</link>
+      <guid isPermaLink="false">d96e5f6119c3cbf899cd808a7650f9ed3f2f186803ef1cab3dd9596131cf6314</guid>
+      <pubDate>Thu, 22 Jan 2026 01:15:43 GMT</pubDate>
+      <description><![CDATA[Freedom pursued for recognition collapses into performance. This essay explores why the most meaningful forms of freedom are invisible, misunderstood, or actively discouraged — and why learning to build without applause is a prerequisite for lasting sovereignty.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Opting Out Is Not Escapism</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=568b088274d7d3565fc09e10629dfe4fb6a70cda2e685e3ec52ba40626ee0daf</link>
+      <guid isPermaLink="false">568b088274d7d3565fc09e10629dfe4fb6a70cda2e685e3ec52ba40626ee0daf</guid>
+      <pubDate>Thu, 22 Jan 2026 01:12:59 GMT</pubDate>
+      <description><![CDATA[Opting out is often framed as withdrawal or retreat — a refusal to engage. In reality, opting out is one of the most engaged acts a person can take. It requires discernment, discipline, and a willingness to stand without applause. This essay challenges the idea that participation equals virtue and explores why opting out is often the first step toward building something honest.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Freedom Is Not a Feature — It’s a Consequence</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=98172dca2bdbe7bfd09cb1918c342704f5da6f8db958d65ba034800f60eead35</link>
+      <guid isPermaLink="false">98172dca2bdbe7bfd09cb1918c342704f5da6f8db958d65ba034800f60eead35</guid>
+      <pubDate>Thu, 22 Jan 2026 01:10:41 GMT</pubDate>
+      <description><![CDATA[Many people speak about “freedom” as if it were a toggle you enable or a benefit you receive. But real freedom is never granted — it emerges as a consequence of responsibility, cost-bearing, and opting out of systems that reward dependence. This essay explores why freedom cannot be offered by platforms, institutions, or movements, and why those who truly pursue it often appear stubborn, inefficient, or uncooperative to the world around them.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 The Bitcoin Chronicles - 1.A.6.1 - The Day the Metrics Were Kind</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=585db450898c52cad5fba1712f8bc5bb994aa2350368a53512d5e0841fd20d48</link>
@@ -4952,66 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">b42f0534703c9bdbdb7fb04c8c795a6190f9098497bc39bdc7b111a53c303a81</guid>
       <pubDate>Fri, 10 Oct 2025 22:03:20 GMT</pubDate>
       <description><![CDATA[Endurance isn’t glamorous. It doesn’t trend, and it doesn’t shout. Yet it’s one of the most revolutionary virtues in a world obsessed with instant results. To endure is to refuse collapse — to hold faith quietly, while the world demands performance.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Oct. 10, 2025): Bitcoin, Loss, and Legacy</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=92cfd6e826f03993f2705eadab0a45f902b4cbfa74486711896ba2eaa09ba357</link>
-      <guid isPermaLink="false">92cfd6e826f03993f2705eadab0a45f902b4cbfa74486711896ba2eaa09ba357</guid>
-      <pubDate>Fri, 10 Oct 2025 22:01:39 GMT</pubDate>
-      <description><![CDATA[Loss has a strange way of teaching us permanence. Bitcoin becomes a mirror for that truth — a network that outlives its participants, just as love and conviction outlive the people who carry them. Legacy is proof-of-work written across generations.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Sept. 26): The Rebuilders: What Comes After Collapse</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6a3c6932115b5aa0c62155df19ac41c16055154a56c7bd8dadea8e1b056b90b9</link>
-      <guid isPermaLink="false">6a3c6932115b5aa0c62155df19ac41c16055154a56c7bd8dadea8e1b056b90b9</guid>
-      <pubDate>Fri, 10 Oct 2025 20:46:01 GMT</pubDate>
-      <description><![CDATA[After every collapse, there come rebuilders — ordinary people who restore what matters by living honestly and simply. This piece honors those who rebuild not with slogans or wealth but with integrity. The new world, Andrew reminds us, begins wherever one life turns toward light.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Sept. 26, 2025): Hope After the Ashes</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=359af1dcfc0b5ccf4e0803f286588d985cb17a0769c171af3182bec1937c3d6d</link>
-      <guid isPermaLink="false">359af1dcfc0b5ccf4e0803f286588d985cb17a0769c171af3182bec1937c3d6d</guid>
-      <pubDate>Fri, 10 Oct 2025 20:43:36 GMT</pubDate>
-      <description><![CDATA[Hope is not optimism but defiance — the stubborn belief that even after the worst loss, life will rise again. Standing amid the ashes of grief, Andrew reflects on the kind of hope that outlasts death, systems, and despair — the quiet trust that nothing true is ever gone.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Sept. 25, 2025): When We Stop Resisting the Fall</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c7b3b33ab179e2844ce12393ad951f6d66b0732e6d10f828a9c75dcf5854813e</link>
-      <guid isPermaLink="false">c7b3b33ab179e2844ce12393ad951f6d66b0732e6d10f828a9c75dcf5854813e</guid>
-      <pubDate>Fri, 10 Oct 2025 20:40:34 GMT</pubDate>
-      <description><![CDATA[Just as autumn glorifies its own decline, we too are called to fall with grace. This essay likens the fading of a life — and of civilizations themselves — to nature’s own rhythm of death and renewal. The fall, when received instead of resisted, becomes the beginning of rebirth.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Sept. 25, 2025): The Discipline of Release</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=66ecb574636717bd25dd3bbfea1e18cb284e5ceb4fd5ebd7e2f13067ff2fd200</link>
-      <guid isPermaLink="false">66ecb574636717bd25dd3bbfea1e18cb284e5ceb4fd5ebd7e2f13067ff2fd200</guid>
-      <pubDate>Fri, 10 Oct 2025 20:37:19 GMT</pubDate>
-      <description><![CDATA[Letting go isn’t an emotion — it’s a discipline of trust. In this reflection, Andrew writes from the threshold between clinging and release, realizing that the heart must open its hands for grace to flow. Every attachment that’s surrendered becomes a seed of new freedom.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Sept. 24, 2025): When the Light Fades from Familiar Places</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c2d8ac8fdc9d51adee838a8d2aecdc5fe8581154d2edfe40036a51c9d3213a63</link>
-      <guid isPermaLink="false">c2d8ac8fdc9d51adee838a8d2aecdc5fe8581154d2edfe40036a51c9d3213a63</guid>
-      <pubDate>Fri, 10 Oct 2025 20:34:14 GMT</pubDate>
-      <description><![CDATA[From sterile corridors to shifting light on the floor, Andrew captures the tender stillness of decline — when everything noisy fades and only love remains. In the fading of strength and certainty, he finds a subtler, eternal brightness that asks nothing but presence.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
