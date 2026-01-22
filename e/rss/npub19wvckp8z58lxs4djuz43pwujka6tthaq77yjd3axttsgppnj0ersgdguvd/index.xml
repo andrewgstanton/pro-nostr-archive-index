@@ -5,7 +5,87 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 22 Jan 2026 01:51:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 19:20:25 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Validation Without Applause: Practical Tests for Builders Working Outside Platforms</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ec2ba792cb2d3508e2fa9c24d59d539676be77404eb990047e1e96f55b3cdb28</link>
+      <guid isPermaLink="false">ec2ba792cb2d3508e2fa9c24d59d539676be77404eb990047e1e96f55b3cdb28</guid>
+      <pubDate>Thu, 22 Jan 2026 19:07:24 GMT</pubDate>
+      <description><![CDATA[When you opt out of platforms, you also opt out of their feedback loops. This article lays out concrete, falsifiable tests you can use to determine whether your work is real, useful, and worth continuing—even when no one is clapping.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 When No One Is Responding: How to Validate Your Work Without External Feedback</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f50d0ea0b7af41188b05076b37413e863e98dc41eddcef1c289ce78dfad2c78c</link>
+      <guid isPermaLink="false">f50d0ea0b7af41188b05076b37413e863e98dc41eddcef1c289ce78dfad2c78c</guid>
+      <pubDate>Thu, 22 Jan 2026 19:06:26 GMT</pubDate>
+      <description><![CDATA[What do you do when you are building something real, useful, and principled—and no one seems to be responding? This article reframes validation away from applause and toward structural signals that actually matter, especially for sovereign builders operating outside platforms.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Using Yourself as the First Market: A Builder’s Guide to Self-Validation</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=def95e97755f43e44fd53b6158ea78d85476b2b4cdeb9a763cdd4b30473ecbc6</link>
+      <guid isPermaLink="false">def95e97755f43e44fd53b6158ea78d85476b2b4cdeb9a763cdd4b30473ecbc6</guid>
+      <pubDate>Thu, 22 Jan 2026 19:05:25 GMT</pubDate>
+      <description><![CDATA[When there is no audience, no traction, and no feedback loop, the only honest validator left is you. This article explains how to use yourself—not your emotions, but your behavior—as a reliable signal of whether your work is worth continuing.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 5 - 1/22/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=836f7ea63f7aea57c80914d75a4de3da8dfda03543f2004079baa0c13abc621d</link>
+      <guid isPermaLink="false">836f7ea63f7aea57c80914d75a4de3da8dfda03543f2004079baa0c13abc621d</guid>
+      <pubDate>Thu, 22 Jan 2026 18:21:34 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 4 - 1/2/22/206</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3f7fe3797bdfa3586172379ce7bdfc4d3a7a05b535928358d98bf5bb7c04f3bf</link>
+      <guid isPermaLink="false">3f7fe3797bdfa3586172379ce7bdfc4d3a7a05b535928358d98bf5bb7c04f3bf</guid>
+      <pubDate>Thu, 22 Jan 2026 18:20:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 3 - 1/22/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1730d59726190c09ecd800f7ef2246ac9c9b5ffb050bc0f45960648b11ab3754</link>
+      <guid isPermaLink="false">1730d59726190c09ecd800f7ef2246ac9c9b5ffb050bc0f45960648b11ab3754</guid>
+      <pubDate>Thu, 22 Jan 2026 18:18:54 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 2 - 1/22/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=96918b9dd7969051a64431c00a655a2a4262a3809f6823f100cc369a497df49c</link>
+      <guid isPermaLink="false">96918b9dd7969051a64431c00a655a2a4262a3809f6823f100cc369a497df49c</guid>
+      <pubDate>Thu, 22 Jan 2026 18:16:36 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 1 - 1/22/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e1f0eb5c23bcb6338a3fcb0ca4439fafc6b9fdff8f34e87b62a9fbaa7a10c18a</link>
+      <guid isPermaLink="false">e1f0eb5c23bcb6338a3fcb0ca4439fafc6b9fdff8f34e87b62a9fbaa7a10c18a</guid>
+      <pubDate>Thu, 22 Jan 2026 18:15:17 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Freedom Is Not a Feature — It’s a Consequence</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=e3dcbb9fa29aa7f2fe31016819f4873ba9e129b6fed330d5715da38a32bdfe2b</link>
@@ -4922,86 +5002,6 @@
       <guid isPermaLink="false">f8ba848c10d338e26a83946bf97a7722fa0c4ffa4e844aecf389f4236363ec88</guid>
       <pubDate>Sun, 16 Nov 2025 00:43:12 GMT</pubDate>
       <description><![CDATA[This manifesto is written in solidarity, not appropriation. As a descendant of Mayflower settlers who grew up in the Pacific, I have long resonated with displaced peoples — Jews, Hawaiians, Native Nations — whose sovereignty was denied but never erased.  The message is simple: sovereignty matters for all of us. What was once taken openly from Native Nations is now being eroded quietly from everyone through fiat money, surveillance, and dependency.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>First Fruits: How the Victorious Gospel and Bitcoin Share the Same Story</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=99468f1b191ac2f83cd9994c4c31351b4a46909324d557b18b7a7f1cfa843c97</link>
-      <guid isPermaLink="false">99468f1b191ac2f83cd9994c4c31351b4a46909324d557b18b7a7f1cfa843c97</guid>
-      <pubDate>Sat, 15 Nov 2025 22:10:55 GMT</pubDate>
-      <description><![CDATA[This article draws a parallel between the Victorious Gospel’s teaching of “first fruits” and the emergence of Bitcoin, showing how both follow a pattern of unshakable foundation, early adopters, and inevitable full reach. It explores the role of the “elect” as living witnesses, warns against modern forms of idolatry — from image management to AI worship — and grounds the whole message in humility, giving all glory to Christ.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Nostr: The Neutral Protocol With a Bitcoin Gravity Well</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=bc27e0751b6f4954ea00eb27b50a513959b4ba2ca20d0bd028ac96885027e18b</link>
-      <guid isPermaLink="false">bc27e0751b6f4954ea00eb27b50a513959b4ba2ca20d0bd028ac96885027e18b</guid>
-      <pubDate>Sat, 15 Nov 2025 21:59:14 GMT</pubDate>
-      <description><![CDATA[Nostr ia a truly decentralized open protocol for publishing signed events.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Bitcoin: Property, Not a Security — Why the Distinction Matters (full version)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d4a33c8df2710b51cb0cb343baf270fcef6ca92034b46890513963d60ac08906</link>
-      <guid isPermaLink="false">d4a33c8df2710b51cb0cb343baf270fcef6ca92034b46890513963d60ac08906</guid>
-      <pubDate>Sat, 15 Nov 2025 21:51:43 GMT</pubDate>
-      <description><![CDATA[Understanding the differerence between a property and a security is crucial to understanding why bitcoin should not be considered just another "crypto" asset.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Bitcoin: Property, Not a Security — Why It Matters (condensed)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0562c45908407f98fe487be3051454fdcdbd5ce6a5521f43c39f9fc344405ed3</link>
-      <guid isPermaLink="false">0562c45908407f98fe487be3051454fdcdbd5ce6a5521f43c39f9fc344405ed3</guid>
-      <pubDate>Sat, 15 Nov 2025 21:50:26 GMT</pubDate>
-      <description><![CDATA[Most altcoins, tokens, and NFTs are **securities** under the Howey Test. The crypto industry blurs this line to ride Bitcoin’s credibility without earning it.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🛠️ Continuum: The First 60 Days</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=12733d2fc50ebc4341fa1ec938a26579c2237420a77fa6496fe9d5259d347be4</link>
-      <guid isPermaLink="false">12733d2fc50ebc4341fa1ec938a26579c2237420a77fa6496fe9d5259d347be4</guid>
-      <pubDate>Sat, 15 Nov 2025 21:47:42 GMT</pubDate>
-      <description><![CDATA[From a simple README to a fully sovereign publishing stack — this is the story of how Continuum was born. In just 60 days, we’ve built a local-first Nostr app with multi-identity support, publishing tools, and hosted dashboards — all without relying on logins, tokens, or platform permissions.  This was built with the help of AI — not to impress, but to liberate. Continuum is a sovereign publishing stack that puts control, identity, and freedom back where it belongs: with you.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🟠 Bitcoin-Native Business Model: A New Path to Real Wealth</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ed5e9cde5ab46aabbb565e5b6b86505bf8d3034c774ee591a34dd19e64826f21</link>
-      <guid isPermaLink="false">ed5e9cde5ab46aabbb565e5b6b86505bf8d3034c774ee591a34dd19e64826f21</guid>
-      <pubDate>Sat, 15 Nov 2025 21:46:31 GMT</pubDate>
-      <description><![CDATA[A new path to real wealth: Instead of chasing unicorns, I’m acquiring overlooked, profitable businesses — and transforming them into Bitcoin-native operations. This model anchors cashflow to sovereignty, replacing fiat rails and rented identity with Bitcoin, Lightning, and Nostr. It’s not about hype. It’s about freedom — one business at a time.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Bitcoin, the Scientific Method, and the Gospel</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=8ccfd7b918112801631f97066e398b7744e858d6e2215089d0218543412e15f2</link>
-      <guid isPermaLink="false">8ccfd7b918112801631f97066e398b7744e858d6e2215089d0218543412e15f2</guid>
-      <pubDate>Sat, 15 Nov 2025 21:43:53 GMT</pubDate>
-      <description><![CDATA[This article explores how Bitcoin, the scientific method, and the Gospel all point to the same foundational principle:  Truth has structure.  Each resists manipulation by design, invites scrutiny, and rewards integrity over influence. Bitcoin encodes it. Science tests it. The Gospel reveals it. Together, they expose the difference between systems built to enlighten — and those built to control.  This isn’t about ideology or tribalism. It’s about the pursuit of what’s real, no matter the cost.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Bitcoin Doesn’t Need Proprietary “Quantum Protection”</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a8f30f6d777152e95e298eff9235f52c60f41802962e0e0e106e5063120bec63</link>
-      <guid isPermaLink="false">a8f30f6d777152e95e298eff9235f52c60f41802962e0e0e106e5063120bec63</guid>
-      <pubDate>Sat, 15 Nov 2025 21:36:02 GMT</pubDate>
-      <description><![CDATA[This article examines recent claims about proprietary “quantum-resistant” custody solutions for Bitcoin, highlighting why such approaches contradict Bitcoin’s open-source ethos and overstate current quantum threats. It argues that real security comes from protocol-level upgrades, not closed, patent-protected tools — and calls for builders to focus on open, auditable, and sovereign solutions that align with Bitcoin’s core principles.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

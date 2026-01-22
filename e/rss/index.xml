@@ -5,7 +5,87 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 22 Jan 2026 01:51:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 19:20:25 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Validation Without Applause: Practical Tests for Builders Working Outside Platforms</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ec2ba792cb2d3508e2fa9c24d59d539676be77404eb990047e1e96f55b3cdb28</link>
+      <guid isPermaLink="false">ec2ba792cb2d3508e2fa9c24d59d539676be77404eb990047e1e96f55b3cdb28</guid>
+      <pubDate>Thu, 22 Jan 2026 19:07:24 GMT</pubDate>
+      <description><![CDATA[When you opt out of platforms, you also opt out of their feedback loops. This article lays out concrete, falsifiable tests you can use to determine whether your work is real, useful, and worth continuing—even when no one is clapping.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 When No One Is Responding: How to Validate Your Work Without External Feedback</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f50d0ea0b7af41188b05076b37413e863e98dc41eddcef1c289ce78dfad2c78c</link>
+      <guid isPermaLink="false">f50d0ea0b7af41188b05076b37413e863e98dc41eddcef1c289ce78dfad2c78c</guid>
+      <pubDate>Thu, 22 Jan 2026 19:06:26 GMT</pubDate>
+      <description><![CDATA[What do you do when you are building something real, useful, and principled—and no one seems to be responding? This article reframes validation away from applause and toward structural signals that actually matter, especially for sovereign builders operating outside platforms.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Using Yourself as the First Market: A Builder’s Guide to Self-Validation</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=def95e97755f43e44fd53b6158ea78d85476b2b4cdeb9a763cdd4b30473ecbc6</link>
+      <guid isPermaLink="false">def95e97755f43e44fd53b6158ea78d85476b2b4cdeb9a763cdd4b30473ecbc6</guid>
+      <pubDate>Thu, 22 Jan 2026 19:05:25 GMT</pubDate>
+      <description><![CDATA[When there is no audience, no traction, and no feedback loop, the only honest validator left is you. This article explains how to use yourself—not your emotions, but your behavior—as a reliable signal of whether your work is worth continuing.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 5 - 1/22/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=836f7ea63f7aea57c80914d75a4de3da8dfda03543f2004079baa0c13abc621d</link>
+      <guid isPermaLink="false">836f7ea63f7aea57c80914d75a4de3da8dfda03543f2004079baa0c13abc621d</guid>
+      <pubDate>Thu, 22 Jan 2026 18:21:34 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 4 - 1/2/22/206</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3f7fe3797bdfa3586172379ce7bdfc4d3a7a05b535928358d98bf5bb7c04f3bf</link>
+      <guid isPermaLink="false">3f7fe3797bdfa3586172379ce7bdfc4d3a7a05b535928358d98bf5bb7c04f3bf</guid>
+      <pubDate>Thu, 22 Jan 2026 18:20:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 3 - 1/22/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1730d59726190c09ecd800f7ef2246ac9c9b5ffb050bc0f45960648b11ab3754</link>
+      <guid isPermaLink="false">1730d59726190c09ecd800f7ef2246ac9c9b5ffb050bc0f45960648b11ab3754</guid>
+      <pubDate>Thu, 22 Jan 2026 18:18:54 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 2 - 1/22/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=96918b9dd7969051a64431c00a655a2a4262a3809f6823f100cc369a497df49c</link>
+      <guid isPermaLink="false">96918b9dd7969051a64431c00a655a2a4262a3809f6823f100cc369a497df49c</guid>
+      <pubDate>Thu, 22 Jan 2026 18:16:36 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 1 - 1/22/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e1f0eb5c23bcb6338a3fcb0ca4439fafc6b9fdff8f34e87b62a9fbaa7a10c18a</link>
+      <guid isPermaLink="false">e1f0eb5c23bcb6338a3fcb0ca4439fafc6b9fdff8f34e87b62a9fbaa7a10c18a</guid>
+      <pubDate>Thu, 22 Jan 2026 18:15:17 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Freedom Is Not a Feature — It’s a Consequence</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=e3dcbb9fa29aa7f2fe31016819f4873ba9e129b6fed330d5715da38a32bdfe2b</link>
@@ -4922,86 +5002,6 @@
       <guid isPermaLink="false">095273686050b776a1c8e085f3e9d15146a65f2eedf2c4df55daa95cfcb9aa50</guid>
       <pubDate>Sat, 22 Nov 2025 21:45:35 GMT</pubDate>
       <description><![CDATA[This article explores whether it’s actually possible to eliminate national and global debt using a Bitcoin standard. It explains what “debt” really means, why our current system mathematically requires ever-growing obligations, and how a transition to hard money would force a restructuring of claims. The conclusion: yes, we can end the era of unpayable debt — but only through a combination of restructuring, partial defaults, and a reset onto honest money, not by magically honoring every fiat IOU.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Announcing Continuum Pro</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0796cf873fc293a8b944670d4dad7e0d3666c09f8a464c8f342db9f1521e5e13</link>
-      <guid isPermaLink="false">0796cf873fc293a8b944670d4dad7e0d3666c09f8a464c8f342db9f1521e5e13</guid>
-      <pubDate>Sat, 22 Nov 2025 03:53:20 GMT</pubDate>
-      <description><![CDATA[Akamaister shares a personal announcement about launching Continuum Pro after months of quiet work, framing it as a solution to the problem of preserving long-form Nostr posts with real permanence. The announcement focuses on sovereignty, archiving, and stability, while a separate teaser note (posted afterward) invites feedback from builders like Odell and fiatjaf. The post also highlights the managed archive, static viewer, and the perk that Pro members receive full access to all paid articles.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Introducing Continuum Pro: A Sovereign Archive for Nostr’s Builders</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a0233a5fa18deab6a920ec8365abe78d1c552c9bd833d71589b215b57f19ca08</link>
-      <guid isPermaLink="false">a0233a5fa18deab6a920ec8365abe78d1c552c9bd833d71589b215b57f19ca08</guid>
-      <pubDate>Sat, 22 Nov 2025 03:46:11 GMT</pubDate>
-      <description><![CDATA[This editorial introduces Continuum Pro as a sovereign archive layer for Nostr’s builders and writers. It explains why relays and clients are not true memory, and how Continuum Pro preserves long-form work in open, portable structures with a public viewer, per-npub library pages, and long-term stewardship for creators who want their work to outlive feeds and client churn.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Pro — Sovereign Publishing, Permanently Archived Under Continuum Stewardship</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=36ca6f765409dd5fa947e5bd85fb4f09b0fcfb61daafc02b66f4f5f201b897bd</link>
-      <guid isPermaLink="false">36ca6f765409dd5fa947e5bd85fb4f09b0fcfb61daafc02b66f4f5f201b897bd</guid>
-      <pubDate>Sat, 22 Nov 2025 03:43:18 GMT</pubDate>
-      <description><![CDATA[Continuum Pro is a managed, sovereign archival service for Nostr long-form (kind:30023) events. It creates a permanent, relay-independent archive under nostr.mycontinuum.xyz, with year-based directories per npub, a static HTML viewer, a global index, and full access to all paid articles, plus the local Continuum app for unlimited identity management.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov 21, 2025): The Future of Publishing Is Local-First and Cloud-Mirrored</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a79672a5d9d8a3d659459a03c286d945aa789e26b88de9d96ffd0e92f5afc5c7</link>
-      <guid isPermaLink="false">a79672a5d9d8a3d659459a03c286d945aa789e26b88de9d96ffd0e92f5afc5c7</guid>
-      <pubDate>Sat, 22 Nov 2025 02:17:22 GMT</pubDate>
-      <description><![CDATA[The old model of publishing relied on centralized control. The new model must be local-first, with cloud infrastructure playing a supportive — not authoritative — role. Continuum Pro demonstrates what this future looks like.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 21, 2025): Why Sovereign Tools Need Their Own Milestones</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9c890f1feea919f2e3bfa26c7433b834db62a703e8394cc4e15e1b9481a86ac1</link>
-      <guid isPermaLink="false">9c890f1feea919f2e3bfa26c7433b834db62a703e8394cc4e15e1b9481a86ac1</guid>
-      <pubDate>Sat, 22 Nov 2025 02:13:59 GMT</pubDate>
-      <description><![CDATA[In a world dominated by centralized platforms, small victories in sovereign tech matter more than most people realize. This article reflects on why milestones like the launch of Continuum Pro are critical for building an alternative future.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Pro Teaser</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=134bf49b6708c1820cfb735e00888367cdba366c4712ad3ffd1f26d5103064b1</link>
-      <guid isPermaLink="false">134bf49b6708c1820cfb735e00888367cdba366c4712ad3ffd1f26d5103064b1</guid>
-      <pubDate>Fri, 21 Nov 2025 20:56:03 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:0 1b86063575</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=1b860635752c95d04dcd05f9735d273304b72e60cf180c702c0858d8197ee802</link>
-      <guid isPermaLink="false">1b860635752c95d04dcd05f9735d273304b72e60cf180c702c0858d8197ee802</guid>
-      <pubDate>Fri, 21 Nov 2025 18:09:23 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:0</category>
-      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 20, 2025): Sovereignty on Tired Days: How to Stay Free When Life Is Draining</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=13eca7ca9028bdf007993baa13ee99170163f374b6b36318b0cbc345f6746175</link>
-      <guid isPermaLink="false">13eca7ca9028bdf007993baa13ee99170163f374b6b36318b0cbc345f6746175</guid>
-      <pubDate>Thu, 20 Nov 2025 18:04:00 GMT</pubDate>
-      <description><![CDATA[Sovereignty isn’t built on perfect days—it’s built on the days you feel exhausted, overwhelmed, or discouraged. This piece offers practical strategies for maintaining direction and dignity even when you have very little energy to give.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

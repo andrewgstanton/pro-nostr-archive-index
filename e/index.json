@@ -1,5 +1,93 @@
 [
   {
+    "slug": "validation-without-applause-practical-tests-for-builders-working-outside-platforms-2026-01-22",
+    "event_id": "ec2ba792cb2d3508e2fa9c24d59d539676be77404eb990047e1e96f55b3cdb28",
+    "created_at": 1769108844,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/ec2ba792cb2d3508e2fa9c24d59d539676be77404eb990047e1e96f55b3cdb28.json",
+    "title": "🔒 Validation Without Applause: Practical Tests for Builders Working Outside Platforms",
+    "summary": "When you opt out of platforms, you also opt out of their feedback loops. This article lays out concrete, falsifiable tests you can use to determine whether your work is real, useful, and worth continuing—even when no one is clapping.",
+    "paid": false
+  },
+  {
+    "slug": "when-no-one-is-responding-how-to-validate-your-work-without-external-feedback-2026-01-22",
+    "event_id": "f50d0ea0b7af41188b05076b37413e863e98dc41eddcef1c289ce78dfad2c78c",
+    "created_at": 1769108786,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/f50d0ea0b7af41188b05076b37413e863e98dc41eddcef1c289ce78dfad2c78c.json",
+    "title": "🔒 When No One Is Responding: How to Validate Your Work Without External Feedback",
+    "summary": "What do you do when you are building something real, useful, and principled—and no one seems to be responding? This article reframes validation away from applause and toward structural signals that actually matter, especially for sovereign builders operating outside platforms.",
+    "paid": false
+  },
+  {
+    "slug": "using-yourself-as-the-first-market-a-builders-guide-to-self-validation-2026-01-22",
+    "event_id": "def95e97755f43e44fd53b6158ea78d85476b2b4cdeb9a763cdd4b30473ecbc6",
+    "created_at": 1769108725,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/def95e97755f43e44fd53b6158ea78d85476b2b4cdeb9a763cdd4b30473ecbc6.json",
+    "title": "🔒 Using Yourself as the First Market: A Builder’s Guide to Self-Validation",
+    "summary": "When there is no audience, no traction, and no feedback loop, the only honest validator left is you. This article explains how to use yourself—not your emotions, but your behavior—as a reliable signal of whether your work is worth continuing.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "836f7ea63f7aea57c80914d75a4de3da8dfda03543f2004079baa0c13abc621d",
+    "created_at": 1769106094,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/836f7ea63f7aea57c80914d75a4de3da8dfda03543f2004079baa0c13abc621d.json",
+    "title": "Note 5 - 1/22/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "3f7fe3797bdfa3586172379ce7bdfc4d3a7a05b535928358d98bf5bb7c04f3bf",
+    "created_at": 1769106000,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/3f7fe3797bdfa3586172379ce7bdfc4d3a7a05b535928358d98bf5bb7c04f3bf.json",
+    "title": "Note 4 - 1/2/22/206",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "1730d59726190c09ecd800f7ef2246ac9c9b5ffb050bc0f45960648b11ab3754",
+    "created_at": 1769105934,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/1730d59726190c09ecd800f7ef2246ac9c9b5ffb050bc0f45960648b11ab3754.json",
+    "title": "Note 3 - 1/22/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "96918b9dd7969051a64431c00a655a2a4262a3809f6823f100cc369a497df49c",
+    "created_at": 1769105796,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/96918b9dd7969051a64431c00a655a2a4262a3809f6823f100cc369a497df49c.json",
+    "title": "Note 2 - 1/22/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "e1f0eb5c23bcb6338a3fcb0ca4439fafc6b9fdff8f34e87b62a9fbaa7a10c18a",
+    "created_at": 1769105717,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/e1f0eb5c23bcb6338a3fcb0ca4439fafc6b9fdff8f34e87b62a9fbaa7a10c18a.json",
+    "title": "Note 1 - 1/22/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "freedom-is-not-a-feature--its-a-consequence-2026-01-20",
     "event_id": "e3dcbb9fa29aa7f2fe31016819f4873ba9e129b6fed330d5715da38a32bdfe2b",
     "created_at": 1769046249,

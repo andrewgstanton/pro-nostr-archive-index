@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 22 Jan 2026 01:51:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 19:20:25 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Validation Without Applause: Practical Tests for Builders Working Outside Platforms</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ec2ba792cb2d3508e2fa9c24d59d539676be77404eb990047e1e96f55b3cdb28</link>
+      <guid isPermaLink="false">ec2ba792cb2d3508e2fa9c24d59d539676be77404eb990047e1e96f55b3cdb28</guid>
+      <pubDate>Thu, 22 Jan 2026 19:07:24 GMT</pubDate>
+      <description><![CDATA[When you opt out of platforms, you also opt out of their feedback loops. This article lays out concrete, falsifiable tests you can use to determine whether your work is real, useful, and worth continuing—even when no one is clapping.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 When No One Is Responding: How to Validate Your Work Without External Feedback</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f50d0ea0b7af41188b05076b37413e863e98dc41eddcef1c289ce78dfad2c78c</link>
+      <guid isPermaLink="false">f50d0ea0b7af41188b05076b37413e863e98dc41eddcef1c289ce78dfad2c78c</guid>
+      <pubDate>Thu, 22 Jan 2026 19:06:26 GMT</pubDate>
+      <description><![CDATA[What do you do when you are building something real, useful, and principled—and no one seems to be responding? This article reframes validation away from applause and toward structural signals that actually matter, especially for sovereign builders operating outside platforms.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Using Yourself as the First Market: A Builder’s Guide to Self-Validation</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=def95e97755f43e44fd53b6158ea78d85476b2b4cdeb9a763cdd4b30473ecbc6</link>
+      <guid isPermaLink="false">def95e97755f43e44fd53b6158ea78d85476b2b4cdeb9a763cdd4b30473ecbc6</guid>
+      <pubDate>Thu, 22 Jan 2026 19:05:25 GMT</pubDate>
+      <description><![CDATA[When there is no audience, no traction, and no feedback loop, the only honest validator left is you. This article explains how to use yourself—not your emotions, but your behavior—as a reliable signal of whether your work is worth continuing.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Freedom Is Not a Feature — It’s a Consequence</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=e3dcbb9fa29aa7f2fe31016819f4873ba9e129b6fed330d5715da38a32bdfe2b</link>
@@ -4982,36 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">9880b45e75d0744d16ff3dd8dac66e3a97aaaecb7e3f0cc247e005f410850a18</guid>
       <pubDate>Sat, 11 Oct 2025 18:51:54 GMT</pubDate>
       <description><![CDATA[This article reflects on how small habits (like using cash, cooking at home, or controlling our keys) train us for larger acts of sovereignty. It argues that freedom is first practiced in the details of daily life.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Part 3: The Meaning of “Eternal” (Aionios)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6ecbd0d51f2ba1a5b733d5cceeab1c07e57b59f6cbc42b845f36a5ac9063d94f</link>
-      <guid isPermaLink="false">6ecbd0d51f2ba1a5b733d5cceeab1c07e57b59f6cbc42b845f36a5ac9063d94f</guid>
-      <pubDate>Sat, 11 Oct 2025 18:49:31 GMT</pubDate>
-      <description><![CDATA[Part 3 of the Victorious Gospel series examines the Greek word aionios, usually translated “eternal.” While sometimes pointing to God’s endless life, it often means “age-long.” This opens the way to see judgment as real but temporary, serving God’s larger purpose of universal reconciliation.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Sept. 27, 2025): The Vigil of Faith</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3c9353e603442772b8419e0f77dc52313b9fc1b3754074764092f93b8393341a</link>
-      <guid isPermaLink="false">3c9353e603442772b8419e0f77dc52313b9fc1b3754074764092f93b8393341a</guid>
-      <pubDate>Sat, 11 Oct 2025 18:44:39 GMT</pubDate>
-      <description><![CDATA[A companion meditation on what faith looks like when words and strength run out — the sacred endurance of staying present.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Oct. 10, 2025): The Quiet Strength of Endurance</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b42f0534703c9bdbdb7fb04c8c795a6190f9098497bc39bdc7b111a53c303a81</link>
-      <guid isPermaLink="false">b42f0534703c9bdbdb7fb04c8c795a6190f9098497bc39bdc7b111a53c303a81</guid>
-      <pubDate>Fri, 10 Oct 2025 22:03:20 GMT</pubDate>
-      <description><![CDATA[Endurance isn’t glamorous. It doesn’t trend, and it doesn’t shout. Yet it’s one of the most revolutionary virtues in a world obsessed with instant results. To endure is to refuse collapse — to hold faith quietly, while the world demands performance.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

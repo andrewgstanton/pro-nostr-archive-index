@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 22 Jan 2026 01:51:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 19:20:25 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Validation Without Applause: Practical Tests for Builders Working Outside Platforms</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ec2ba792cb2d3508e2fa9c24d59d539676be77404eb990047e1e96f55b3cdb28</link>
+      <guid isPermaLink="false">ec2ba792cb2d3508e2fa9c24d59d539676be77404eb990047e1e96f55b3cdb28</guid>
+      <pubDate>Thu, 22 Jan 2026 19:07:24 GMT</pubDate>
+      <description><![CDATA[When you opt out of platforms, you also opt out of their feedback loops. This article lays out concrete, falsifiable tests you can use to determine whether your work is real, useful, and worth continuing—even when no one is clapping.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 When No One Is Responding: How to Validate Your Work Without External Feedback</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f50d0ea0b7af41188b05076b37413e863e98dc41eddcef1c289ce78dfad2c78c</link>
+      <guid isPermaLink="false">f50d0ea0b7af41188b05076b37413e863e98dc41eddcef1c289ce78dfad2c78c</guid>
+      <pubDate>Thu, 22 Jan 2026 19:06:26 GMT</pubDate>
+      <description><![CDATA[What do you do when you are building something real, useful, and principled—and no one seems to be responding? This article reframes validation away from applause and toward structural signals that actually matter, especially for sovereign builders operating outside platforms.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Using Yourself as the First Market: A Builder’s Guide to Self-Validation</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=def95e97755f43e44fd53b6158ea78d85476b2b4cdeb9a763cdd4b30473ecbc6</link>
+      <guid isPermaLink="false">def95e97755f43e44fd53b6158ea78d85476b2b4cdeb9a763cdd4b30473ecbc6</guid>
+      <pubDate>Thu, 22 Jan 2026 19:05:25 GMT</pubDate>
+      <description><![CDATA[When there is no audience, no traction, and no feedback loop, the only honest validator left is you. This article explains how to use yourself—not your emotions, but your behavior—as a reliable signal of whether your work is worth continuing.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Freedom Is Not a Feature — It’s a Consequence</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=e3dcbb9fa29aa7f2fe31016819f4873ba9e129b6fed330d5715da38a32bdfe2b</link>
@@ -4982,36 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">93284aab4ec0773baef1ab419e9d7868a8614387bfa4c0252a83c70a1274a88c</guid>
       <pubDate>Tue, 07 Oct 2025 04:14:42 GMT</pubDate>
       <description><![CDATA[eflects on the cultural and spiritual resonance of medieval cathedrals, connecting their ethic of permanence and devotion with our longing for meaning in an impermanent age.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Oct. 4, 2025): The Illusion of Busyness in the Fiat Age</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=8abf9a13e546a8059d348ebc16e352c34f740b93d8eb5ef000d8bac3f21f1fcc</link>
-      <guid isPermaLink="false">8abf9a13e546a8059d348ebc16e352c34f740b93d8eb5ef000d8bac3f21f1fcc</guid>
-      <pubDate>Tue, 07 Oct 2025 04:12:41 GMT</pubDate>
-      <description><![CDATA[Critiques how fiat culture equates busyness with value, and contrasts it with sovereignty’s focus on meaning, presence, and low time preference.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Sept. 22, 2025): Bitcoin as Inheritance</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=4fd3630892a3641c02f43fe33afd3ad271f9e7fca7ef58f4dd7c51e1dbcea60d</link>
-      <guid isPermaLink="false">4fd3630892a3641c02f43fe33afd3ad271f9e7fca7ef58f4dd7c51e1dbcea60d</guid>
-      <pubDate>Fri, 03 Oct 2025 19:24:22 GMT</pubDate>
-      <description><![CDATA[Fiat inheritance is consumed, inflated, or taxed away. Bitcoin is incorruptible money, a legacy beyond death. This article explores how Bitcoin reframes inheritance as sovereignty and hope.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Sept. 22, 2025): Building What You Won’t See</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c52ca93e9209d9c6a6572fd9f4e368312f1f168413e7a7fdc204ae2538be64d6</link>
-      <guid isPermaLink="false">c52ca93e9209d9c6a6572fd9f4e368312f1f168413e7a7fdc204ae2538be64d6</guid>
-      <pubDate>Fri, 03 Oct 2025 19:14:01 GMT</pubDate>
-      <description><![CDATA[Low time preference means building cathedrals, code, and communities we will never personally use. This article explores the humility and hope of creating legacies beyond our lifetime.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
