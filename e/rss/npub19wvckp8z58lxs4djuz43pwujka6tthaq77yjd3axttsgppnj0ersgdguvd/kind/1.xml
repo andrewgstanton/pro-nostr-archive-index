@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 22 Jan 2026 19:20:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 20:20:56 GMT</lastBuildDate>
+    <item>
+      <title>Strong Signal - 1/22/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d1c5be313ad5ebc0a29ffd0ec3b4e2f4d0d2f8ce6bc3c8ea6a4115deaef051a9</link>
+      <guid isPermaLink="false">d1c5be313ad5ebc0a29ffd0ec3b4e2f4d0d2f8ce6bc3c8ea6a4115deaef051a9</guid>
+      <pubDate>Thu, 22 Jan 2026 19:24:50 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Note 5 - 1/22/2026</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=836f7ea63f7aea57c80914d75a4de3da8dfda03543f2004079baa0c13abc621d</link>

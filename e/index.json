@@ -1,5 +1,27 @@
 [
   {
+    "slug": null,
+    "event_id": "93e44cdcd7b7f3cbbd1f67af8a08f530771f28de15864f62b3627c149f146db6",
+    "created_at": 1769112842,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 0,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/0/93e44cdcd7b7f3cbbd1f67af8a08f530771f28de15864f62b3627c149f146db6.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "d1c5be313ad5ebc0a29ffd0ec3b4e2f4d0d2f8ce6bc3c8ea6a4115deaef051a9",
+    "created_at": 1769109890,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/d1c5be313ad5ebc0a29ffd0ec3b4e2f4d0d2f8ce6bc3c8ea6a4115deaef051a9.json",
+    "title": "Strong Signal - 1/22/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "validation-without-applause-practical-tests-for-builders-working-outside-platforms-2026-01-22",
     "event_id": "ec2ba792cb2d3508e2fa9c24d59d539676be77404eb990047e1e96f55b3cdb28",
     "created_at": 1769108844,

@@ -5,7 +5,27 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 22 Jan 2026 19:20:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 20:20:56 GMT</lastBuildDate>
+    <item>
+      <title>kind:0 93e44cdcd7</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=93e44cdcd7b7f3cbbd1f67af8a08f530771f28de15864f62b3627c149f146db6</link>
+      <guid isPermaLink="false">93e44cdcd7b7f3cbbd1f67af8a08f530771f28de15864f62b3627c149f146db6</guid>
+      <pubDate>Thu, 22 Jan 2026 20:14:02 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:0</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Strong Signal - 1/22/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d1c5be313ad5ebc0a29ffd0ec3b4e2f4d0d2f8ce6bc3c8ea6a4115deaef051a9</link>
+      <guid isPermaLink="false">d1c5be313ad5ebc0a29ffd0ec3b4e2f4d0d2f8ce6bc3c8ea6a4115deaef051a9</guid>
+      <pubDate>Thu, 22 Jan 2026 19:24:50 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Validation Without Applause: Practical Tests for Builders Working Outside Platforms</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=ec2ba792cb2d3508e2fa9c24d59d539676be77404eb990047e1e96f55b3cdb28</link>
@@ -253,16 +273,6 @@
       <pubDate>Tue, 20 Jan 2026 19:40:29 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:0 a151432b25</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a151432b25e41d28a8466ba795765c68c01514ce70725045f589afba456d325b</link>
-      <guid isPermaLink="false">a151432b25e41d28a8466ba795765c68c01514ce70725045f589afba456d325b</guid>
-      <pubDate>Tue, 20 Jan 2026 18:14:02 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:0</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">0e35cb1d517f27cf70481c6b33435cc79c63c579b7c504a8350a3c76fd1a7d0e</guid>
       <pubDate>Sun, 16 Nov 2025 00:45:07 GMT</pubDate>
       <description><![CDATA[In the late 1980s and early 1990s, while finishing my Physics/Math degree and beginning graduate studies in Electrical Engineering at the University of Hawai‘i, I encountered the Hawaiian sovereignty movement firsthand. I listened to Haunani-Kay Trask’s fiery speeches, read Thurston Twigg-Smith’s *Sovereignty: Do the Facts Matter?*, and felt caught between anger without blueprint and caution without vision.    At the same time, the cypherpunks were beginning to write about cryptography and freedom on obscure mailing lists. Their words were abstract then — but decades later, Bitcoin transformed them into proof.    This essay traces my journey from those days at U.H. to the present, showing how Bitcoin unites Trask’s cry, Twigg-Smith’s caution, and the cypherpunks’ math — turning anger into proof and sovereignty into something we can finally live.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Bitcoin Sovereignty Manifesto for Native Nations</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f8ba848c10d338e26a83946bf97a7722fa0c4ffa4e844aecf389f4236363ec88</link>
-      <guid isPermaLink="false">f8ba848c10d338e26a83946bf97a7722fa0c4ffa4e844aecf389f4236363ec88</guid>
-      <pubDate>Sun, 16 Nov 2025 00:43:12 GMT</pubDate>
-      <description><![CDATA[This manifesto is written in solidarity, not appropriation. As a descendant of Mayflower settlers who grew up in the Pacific, I have long resonated with displaced peoples — Jews, Hawaiians, Native Nations — whose sovereignty was denied but never erased.  The message is simple: sovereignty matters for all of us. What was once taken openly from Native Nations is now being eroded quietly from everyone through fiat money, surveillance, and dependency.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

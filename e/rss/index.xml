@@ -5,7 +5,27 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 22 Jan 2026 19:20:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 20:20:56 GMT</lastBuildDate>
+    <item>
+      <title>kind:0 93e44cdcd7</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=93e44cdcd7b7f3cbbd1f67af8a08f530771f28de15864f62b3627c149f146db6</link>
+      <guid isPermaLink="false">93e44cdcd7b7f3cbbd1f67af8a08f530771f28de15864f62b3627c149f146db6</guid>
+      <pubDate>Thu, 22 Jan 2026 20:14:02 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:0</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Strong Signal - 1/22/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d1c5be313ad5ebc0a29ffd0ec3b4e2f4d0d2f8ce6bc3c8ea6a4115deaef051a9</link>
+      <guid isPermaLink="false">d1c5be313ad5ebc0a29ffd0ec3b4e2f4d0d2f8ce6bc3c8ea6a4115deaef051a9</guid>
+      <pubDate>Thu, 22 Jan 2026 19:24:50 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Validation Without Applause: Practical Tests for Builders Working Outside Platforms</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=ec2ba792cb2d3508e2fa9c24d59d539676be77404eb990047e1e96f55b3cdb28</link>
@@ -253,16 +273,6 @@
       <pubDate>Tue, 20 Jan 2026 19:40:29 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:0 a151432b25</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a151432b25e41d28a8466ba795765c68c01514ce70725045f589afba456d325b</link>
-      <guid isPermaLink="false">a151432b25e41d28a8466ba795765c68c01514ce70725045f589afba456d325b</guid>
-      <pubDate>Tue, 20 Jan 2026 18:14:02 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:0</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">5d6c89e754c000d03fc637fcd86c384b7695ac4f0b1a2309a9df5cca4db446f9</guid>
       <pubDate>Sat, 22 Nov 2025 21:47:38 GMT</pubDate>
       <description><![CDATA[A meditation on the Sabbath principle — not as a religious artifact, but as a universal pattern of rest, resistance, and sovereignty. This article explores why modern people have no economic Sabbath, how perpetual extraction has replaced rest, why Bitcoin functions as a Sabbath-technology, and how reclaiming rest becomes an act of freedom in an age built on debt, interest, and rent.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Can We Eliminate World Debt on a Bitcoin Standard?</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=095273686050b776a1c8e085f3e9d15146a65f2eedf2c4df55daa95cfcb9aa50</link>
-      <guid isPermaLink="false">095273686050b776a1c8e085f3e9d15146a65f2eedf2c4df55daa95cfcb9aa50</guid>
-      <pubDate>Sat, 22 Nov 2025 21:45:35 GMT</pubDate>
-      <description><![CDATA[This article explores whether it’s actually possible to eliminate national and global debt using a Bitcoin standard. It explains what “debt” really means, why our current system mathematically requires ever-growing obligations, and how a transition to hard money would force a restructuring of claims. The conclusion: yes, we can end the era of unpayable debt — but only through a combination of restructuring, partial defaults, and a reset onto honest money, not by magically honoring every fiat IOU.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
