@@ -5,7 +5,127 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 22 Jan 2026 20:20:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 21:28:23 GMT</lastBuildDate>
+    <item>
+      <title>Crossed 600 articles today</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=756670c2f77ae28775b34944a0645abd2ea4cb1fcafaf26b84b7b2a413e4bca7</link>
+      <guid isPermaLink="false">756670c2f77ae28775b34944a0645abd2ea4cb1fcafaf26b84b7b2a413e4bca7</guid>
+      <pubDate>Fri, 23 Jan 2026 21:18:58 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Why Bitcoin Forces You to Grow Up</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d1a771075a4906d390b38a3f9a9715b85aa1190f4febe31d80ad51d9027685f9</link>
+      <guid isPermaLink="false">d1a771075a4906d390b38a3f9a9715b85aa1190f4febe31d80ad51d9027685f9</guid>
+      <pubDate>Fri, 23 Jan 2026 21:02:03 GMT</pubDate>
+      <description><![CDATA[Bitcoin is often described as freedom technology. Less discussed is the maturity it demands. This essay explores why Bitcoin feels uncomfortable, demanding, and uncompromising — and why that is precisely its value.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Bitcoin Didn’t Win Because It Was Fast</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=37c37b5c0b3418c63cc0bfd2e6e316155a5699fa829de9cde1a3e569f08be686</link>
+      <guid isPermaLink="false">37c37b5c0b3418c63cc0bfd2e6e316155a5699fa829de9cde1a3e569f08be686</guid>
+      <pubDate>Fri, 23 Jan 2026 21:00:38 GMT</pubDate>
+      <description><![CDATA[Bitcoin is often framed as a technological breakthrough or a financial asset. In reality, its success came from refusing speed, shortcuts, and compromise. This essay explains why Bitcoin’s slowness was not a flaw — but the reason it survived.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Why Sovereign Systems Look Like Failure Right Before They Win</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=dc0cb5dfe1e8e8cb81d14fe75aaecda56ac20c5110d4840a3e2d0474b732d802</link>
+      <guid isPermaLink="false">dc0cb5dfe1e8e8cb81d14fe75aaecda56ac20c5110d4840a3e2d0474b732d802</guid>
+      <pubDate>Fri, 23 Jan 2026 20:39:14 GMT</pubDate>
+      <description><![CDATA[Sovereign systems often appear stagnant, abandoned, or irrelevant precisely when they are approaching real compounding. This essay explains why centralized metrics misread sovereign progress — and why many builders quit at the worst possible moment.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 The Cost Curve Nobody Wants to Talk About</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b8f2644d31d573dd7e8e1d7034152e820b569ae90be4fd79c5f3f6aa0f536ce8</link>
+      <guid isPermaLink="false">b8f2644d31d573dd7e8e1d7034152e820b569ae90be4fd79c5f3f6aa0f536ce8</guid>
+      <pubDate>Fri, 23 Jan 2026 20:35:25 GMT</pubDate>
+      <description><![CDATA[Sovereignty does not remove cost — it redistributes it. This essay explains why sovereign systems front-load pain, responsibility, and discipline instead of hiding them behind convenience, and why most people rationally opt out.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Growth Without Extraction</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6fb792641e3a73c9b2921b5e9765b0b94e5406334411dd4ec76189f5b0c83b7d</link>
+      <guid isPermaLink="false">6fb792641e3a73c9b2921b5e9765b0b94e5406334411dd4ec76189f5b0c83b7d</guid>
+      <pubDate>Fri, 23 Jan 2026 20:34:28 GMT</pubDate>
+      <description><![CDATA[Not all revenue is extraction. Not all growth is rent-seeking. This essay defines what non-extractive growth actually looks like in sovereign systems — and why it feels unfamiliar in a world trained to monetize attention.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Growth Without Scale: What Growth Means in Sovereign Systems</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5d12c0ce6b4eed035f5e5e36c25847546aa9ea7498610d72315a0f6a7b803161</link>
+      <guid isPermaLink="false">5d12c0ce6b4eed035f5e5e36c25847546aa9ea7498610d72315a0f6a7b803161</guid>
+      <pubDate>Fri, 23 Jan 2026 20:31:08 GMT</pubDate>
+      <description><![CDATA[In centralized systems, growth means scale, reach, and extraction. In sovereign systems, growth means resilience, integrity, and depth. This article reframes growth as something slower, quieter, and far more durable — and explains why most people misunderstand it.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 5 - 1/23/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=121f71852cc25d15170ae775c61c3c54ff8bca84cd49041406e3ddc13ddebb90</link>
+      <guid isPermaLink="false">121f71852cc25d15170ae775c61c3c54ff8bca84cd49041406e3ddc13ddebb90</guid>
+      <pubDate>Fri, 23 Jan 2026 20:22:28 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 4 - 1/23/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4c0e2d50a74d23993a228ebec9a94bd3e20774f1feec9b9a0f3ae0028b6592dd</link>
+      <guid isPermaLink="false">4c0e2d50a74d23993a228ebec9a94bd3e20774f1feec9b9a0f3ae0028b6592dd</guid>
+      <pubDate>Fri, 23 Jan 2026 20:21:34 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 3 - 1/23/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ef89b802bf9ffa890898bab2db2f8ac8e540d5f95d21912c813514878acd82d4</link>
+      <guid isPermaLink="false">ef89b802bf9ffa890898bab2db2f8ac8e540d5f95d21912c813514878acd82d4</guid>
+      <pubDate>Fri, 23 Jan 2026 20:20:46 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 2 - 1/23/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1cde871cf8909f05fa55d1758f871054b1b52a303e9bd1c176d973cabfcc177f</link>
+      <guid isPermaLink="false">1cde871cf8909f05fa55d1758f871054b1b52a303e9bd1c176d973cabfcc177f</guid>
+      <pubDate>Fri, 23 Jan 2026 20:19:55 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 1 - 1/23/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=56a235dd16aaccf559a85ae11c4608eea0623017b414528fc488b0d70de7ac01</link>
+      <guid isPermaLink="false">56a235dd16aaccf559a85ae11c4608eea0623017b414528fc488b0d70de7ac01</guid>
+      <pubDate>Fri, 23 Jan 2026 20:19:10 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:0 93e44cdcd7</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=93e44cdcd7b7f3cbbd1f67af8a08f530771f28de15864f62b3627c149f146db6</link>
@@ -4882,126 +5002,6 @@
       <guid isPermaLink="false">86690139b8d48d61f3bfbcb4f8063a7366ed56a68994e29eaeadd7441fb075a6</guid>
       <pubDate>Tue, 18 Nov 2025 04:03:14 GMT</pubDate>
       <description><![CDATA[Hitting 300 published essays isn’t an arrival point; it’s the moment you realize you’ve just finished pouring the foundation. This is a reflection on what has actually changed—and what hasn’t—after writing almost every day through one of the hardest years of my life.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Crossing 300: A Reflection on Continuity, Sovereignty, and Becoming</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=444174c48d522c7b946d2acc6f393d020687d50778c424968471828585cbc848</link>
-      <guid isPermaLink="false">444174c48d522c7b946d2acc6f393d020687d50778c424968471828585cbc848</guid>
-      <pubDate>Mon, 17 Nov 2025 05:17:46 GMT</pubDate>
-      <description><![CDATA[On November 16, after finishing the weekend set, I quietly crossed 300 published articles. This reflection explores what those first 300 meant — how they were written through fragility, how Continuum and the archive grew alongside me, and why this milestone marks the true beginning of a sovereign body of work.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sabbath Article (Nov. 15, 2025): The Day Continuum Became Permanent</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ed3f7d7bd3445f502150068a29c48fb3c18f98c643ad2d402a08151e44608348</link>
-      <guid isPermaLink="false">ed3f7d7bd3445f502150068a29c48fb3c18f98c643ad2d402a08151e44608348</guid>
-      <pubDate>Mon, 17 Nov 2025 04:44:26 GMT</pubDate>
-      <description><![CDATA[A deep, long-form reflection on the moment Continuum’s archive truly came alive — transforming the platform from a tool into a sovereign memory system. Saturday’s breakthrough becomes a lens for examining permanence, responsibility, and the emotional meaning of building something designed to outlast platforms and relays.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 15, 2025): When Sovereign Tools Suddenly Make Sense</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6dcccf0b4620bce5f2344f1861a7a21a8d65b41456f3daeda1fae56f20e71c6f</link>
-      <guid isPermaLink="false">6dcccf0b4620bce5f2344f1861a7a21a8d65b41456f3daeda1fae56f20e71c6f</guid>
-      <pubDate>Mon, 17 Nov 2025 04:41:46 GMT</pubDate>
-      <description><![CDATA[Sovereign systems always feel difficult, scattered, and uphill — until one breakthrough suddenly makes everything click. Today was that day for Continuum: the moment the archive started working and the friction finally aligned into clarity.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 15, 2025): The Day the Archive Came Alive</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e9abfbe9707eecc250fcf9497ecec02b47800862c49a71d64c1c0dd473414f99</link>
-      <guid isPermaLink="false">e9abfbe9707eecc250fcf9497ecec02b47800862c49a71d64c1c0dd473414f99</guid>
-      <pubDate>Mon, 17 Nov 2025 04:37:19 GMT</pubDate>
-      <description><![CDATA[After a night of discouragement and a failed rebroadcast attempt, Saturday brought the breakthrough: Continuum’s archive structure finally worked. Not perfectly, not fully polished — but real, sovereign, permanent.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sunday Article (Nov. 16, 2025): After Permanence: How Systems Change Their Makers</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=59fa73b68f74aec6aa668d320f4498c02845e0e59a1b33953f4c9af0fe2bc3b1</link>
-      <guid isPermaLink="false">59fa73b68f74aec6aa668d320f4498c02845e0e59a1b33953f4c9af0fe2bc3b1</guid>
-      <pubDate>Mon, 17 Nov 2025 04:29:11 GMT</pubDate>
-      <description><![CDATA[The moment a system becomes permanent, the creator changes too. This article reflects on what happens to a builder once the architecture finally holds — how permanence reshapes identity, decisions, and the future itself.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 14, 2025): When Every System Feels Like Friction</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a91c2acc7a6933cbebc669c23a070219105a885a37b5d71a3e9f1adf876854bb</link>
-      <guid isPermaLink="false">a91c2acc7a6933cbebc669c23a070219105a885a37b5d71a3e9f1adf876854bb</guid>
-      <pubDate>Mon, 17 Nov 2025 03:39:00 GMT</pubDate>
-      <description><![CDATA[On a day when nothing seemed to work — from vanished Nostr events to dead-end posts on Nextdoor — I found myself confronting the truth about walled gardens and why sovereign tools feel so hard in the beginning]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 14, 2025): When Your Oldest Words Start Disappearing</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b28700d16c561f574c16200d3ce7dea142844be5af26e754c3cff8b70a5de0b7</link>
-      <guid isPermaLink="false">b28700d16c561f574c16200d3ce7dea142844be5af26e754c3cff8b70a5de0b7</guid>
-      <pubDate>Mon, 17 Nov 2025 03:30:43 GMT</pubDate>
-      <description><![CDATA[he quiet panic of discovering that my earliest Nostr events — only months old — had vanished from every relay except Primal’s backup. A reflection on fragility, fatigue, and why Friday set the stage for Saturday’s breakthrough.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>CW3 (Christians in Web3) Through Four Ethical Lenses — A Vision for Alignment</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f05be55b0ae6a57de2de45f876c355ab0b89dbde4f9bdb436be0057bf2f1e1c3</link>
-      <guid isPermaLink="false">f05be55b0ae6a57de2de45f876c355ab0b89dbde4f9bdb436be0057bf2f1e1c3</guid>
-      <pubDate>Sun, 16 Nov 2025 17:30:35 GMT</pubDate>
-      <description><![CDATA[This article evaluates Christians in Web3 (CW3) through four ethical frameworks — utilitarian, rights-based, justice/fairness, and virtue ethics. It contrasts how CW3 currently operates with how it could function if transparency, stewardship, and Kingdom values were prioritized. The vision is constructive: guardrails that reduce harm, uphold rights, ensure fairness, and elevate honesty over hype. Such alignment would make participation more trustworthy and genuinely Kingdom-focused.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Sept. 7, 2025): Why Hope Rises With the Dawn</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=92d64333be438d7c490e444b51b22feeb8a2f82ca579281810cf027f319338f8</link>
-      <guid isPermaLink="false">92d64333be438d7c490e444b51b22feeb8a2f82ca579281810cf027f319338f8</guid>
-      <pubDate>Sun, 16 Nov 2025 00:57:38 GMT</pubDate>
-      <description><![CDATA[A hopeful meditation on dawn as a symbol of renewal. Connects Bitcoin and sovereignty to the daily rhythm of light overcoming darkness, reminding readers that hope is always possible.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Truth Reveals Itself in Paradoxes</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=68239647fa98468de67c35ba5969c876bcfb7ce8ed0eeb2de282bb549adcc870</link>
-      <guid isPermaLink="false">68239647fa98468de67c35ba5969c876bcfb7ce8ed0eeb2de282bb549adcc870</guid>
-      <pubDate>Sun, 16 Nov 2025 00:49:01 GMT</pubDate>
-      <description><![CDATA[This article explores how truth often reveals itself in paradox — from the paradoxes of creation and physics, to theology, history, and human innovation. From light being both particle and wave, to the Internet’s origins as a Cold War project of centralization that birthed global decentralization, paradoxes point us to a higher logic beyond human categories. Ultimately, the Cross remains the greatest paradox of all: death that gives life, defeat that is victory.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Case for a Bitcoin Sovereignty Zone in San Francisco</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=8a29a43afdb88c1877d1e5acf6826b00553b6376c43be0ecb406797f1f397072</link>
-      <guid isPermaLink="false">8a29a43afdb88c1877d1e5acf6826b00553b6376c43be0ecb406797f1f397072</guid>
-      <pubDate>Sun, 16 Nov 2025 00:46:25 GMT</pubDate>
-      <description><![CDATA[San Francisco sits on the ancestral lands of the Ohlone people, yet both Native sovereignty and true property ownership have long been denied. This article proposes a **Bitcoin Sovereignty Zone** — even a single city block — where property taxes are suspended or returned locally, residents keep real ownership, and the economy runs on Bitcoin.    Anchored in Ohlone leadership, such a zone would not be reparations or dependency, but **sovereignty in practice**: wealth retained locally, energy turned into freedom, and ownership protected from endless extraction.    Bitcoin makes it possible. The Ohlone make it legitimate. San Francisco makes it visible. (*Written with the help of Dr. C, my AI collaborator and sounding board.*)]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>From Anger to Proof: A Journey with Sovereignty, Hawai‘i, and Bitcoin</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0e35cb1d517f27cf70481c6b33435cc79c63c579b7c504a8350a3c76fd1a7d0e</link>
-      <guid isPermaLink="false">0e35cb1d517f27cf70481c6b33435cc79c63c579b7c504a8350a3c76fd1a7d0e</guid>
-      <pubDate>Sun, 16 Nov 2025 00:45:07 GMT</pubDate>
-      <description><![CDATA[In the late 1980s and early 1990s, while finishing my Physics/Math degree and beginning graduate studies in Electrical Engineering at the University of Hawai‘i, I encountered the Hawaiian sovereignty movement firsthand. I listened to Haunani-Kay Trask’s fiery speeches, read Thurston Twigg-Smith’s *Sovereignty: Do the Facts Matter?*, and felt caught between anger without blueprint and caution without vision.    At the same time, the cypherpunks were beginning to write about cryptography and freedom on obscure mailing lists. Their words were abstract then — but decades later, Bitcoin transformed them into proof.    This essay traces my journey from those days at U.H. to the present, showing how Bitcoin unites Trask’s cry, Twigg-Smith’s caution, and the cypherpunks’ math — turning anger into proof and sovereignty into something we can finally live.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

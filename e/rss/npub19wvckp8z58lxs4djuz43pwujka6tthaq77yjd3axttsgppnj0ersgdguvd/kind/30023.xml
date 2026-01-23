@@ -5,7 +5,67 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 22 Jan 2026 20:20:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 21:28:23 GMT</lastBuildDate>
+    <item>
+      <title>Why Bitcoin Forces You to Grow Up</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d1a771075a4906d390b38a3f9a9715b85aa1190f4febe31d80ad51d9027685f9</link>
+      <guid isPermaLink="false">d1a771075a4906d390b38a3f9a9715b85aa1190f4febe31d80ad51d9027685f9</guid>
+      <pubDate>Fri, 23 Jan 2026 21:02:03 GMT</pubDate>
+      <description><![CDATA[Bitcoin is often described as freedom technology. Less discussed is the maturity it demands. This essay explores why Bitcoin feels uncomfortable, demanding, and uncompromising — and why that is precisely its value.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Bitcoin Didn’t Win Because It Was Fast</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=37c37b5c0b3418c63cc0bfd2e6e316155a5699fa829de9cde1a3e569f08be686</link>
+      <guid isPermaLink="false">37c37b5c0b3418c63cc0bfd2e6e316155a5699fa829de9cde1a3e569f08be686</guid>
+      <pubDate>Fri, 23 Jan 2026 21:00:38 GMT</pubDate>
+      <description><![CDATA[Bitcoin is often framed as a technological breakthrough or a financial asset. In reality, its success came from refusing speed, shortcuts, and compromise. This essay explains why Bitcoin’s slowness was not a flaw — but the reason it survived.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Why Sovereign Systems Look Like Failure Right Before They Win</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=dc0cb5dfe1e8e8cb81d14fe75aaecda56ac20c5110d4840a3e2d0474b732d802</link>
+      <guid isPermaLink="false">dc0cb5dfe1e8e8cb81d14fe75aaecda56ac20c5110d4840a3e2d0474b732d802</guid>
+      <pubDate>Fri, 23 Jan 2026 20:39:14 GMT</pubDate>
+      <description><![CDATA[Sovereign systems often appear stagnant, abandoned, or irrelevant precisely when they are approaching real compounding. This essay explains why centralized metrics misread sovereign progress — and why many builders quit at the worst possible moment.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 The Cost Curve Nobody Wants to Talk About</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b8f2644d31d573dd7e8e1d7034152e820b569ae90be4fd79c5f3f6aa0f536ce8</link>
+      <guid isPermaLink="false">b8f2644d31d573dd7e8e1d7034152e820b569ae90be4fd79c5f3f6aa0f536ce8</guid>
+      <pubDate>Fri, 23 Jan 2026 20:35:25 GMT</pubDate>
+      <description><![CDATA[Sovereignty does not remove cost — it redistributes it. This essay explains why sovereign systems front-load pain, responsibility, and discipline instead of hiding them behind convenience, and why most people rationally opt out.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Growth Without Extraction</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6fb792641e3a73c9b2921b5e9765b0b94e5406334411dd4ec76189f5b0c83b7d</link>
+      <guid isPermaLink="false">6fb792641e3a73c9b2921b5e9765b0b94e5406334411dd4ec76189f5b0c83b7d</guid>
+      <pubDate>Fri, 23 Jan 2026 20:34:28 GMT</pubDate>
+      <description><![CDATA[Not all revenue is extraction. Not all growth is rent-seeking. This essay defines what non-extractive growth actually looks like in sovereign systems — and why it feels unfamiliar in a world trained to monetize attention.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Growth Without Scale: What Growth Means in Sovereign Systems</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5d12c0ce6b4eed035f5e5e36c25847546aa9ea7498610d72315a0f6a7b803161</link>
+      <guid isPermaLink="false">5d12c0ce6b4eed035f5e5e36c25847546aa9ea7498610d72315a0f6a7b803161</guid>
+      <pubDate>Fri, 23 Jan 2026 20:31:08 GMT</pubDate>
+      <description><![CDATA[In centralized systems, growth means scale, reach, and extraction. In sovereign systems, growth means resilience, integrity, and depth. This article reframes growth as something slower, quieter, and far more durable — and explains why most people misunderstand it.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Validation Without Applause: Practical Tests for Builders Working Outside Platforms</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=ec2ba792cb2d3508e2fa9c24d59d539676be77404eb990047e1e96f55b3cdb28</link>
@@ -4952,66 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">3084613483ac40fc6247882ef35ac89c4c3df4db5ccacc133dd71222e7de83bb</guid>
       <pubDate>Fri, 10 Oct 2025 01:36:01 GMT</pubDate>
       <description><![CDATA[In an age of endless notifications and performative outrage, silence itself has become an act of rebellion.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>When the Gospel Becomes a Threat</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7624287b0e9409693e217ed7499581f88d56244bc3d65371855b9468a8a18563</link>
-      <guid isPermaLink="false">7624287b0e9409693e217ed7499581f88d56244bc3d65371855b9468a8a18563</guid>
-      <pubDate>Fri, 10 Oct 2025 00:53:22 GMT</pubDate>
-      <description><![CDATA[Many modern Christians have inherited a version of the gospel that sounds more like a warning label than good news. The doctrine package of *penal substitution* and *eternal conscious torment* portrays a God who must punish in order to love and who demands blood before forgiveness. Yet Scripture itself tells a different story—a ransom, a rescue, and a reconciliation. The time has come to recover that older, wider, and more beautiful truth.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Oct. 5, 2025): The Property Question: Why Fiat Title Systems Can Never Deliver True Ownership</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=95e30c56c14086f6f93015d2be8e8a3e757fdd56050791751c7e885bf27779cb</link>
-      <guid isPermaLink="false">95e30c56c14086f6f93015d2be8e8a3e757fdd56050791751c7e885bf27779cb</guid>
-      <pubDate>Tue, 07 Oct 2025 04:23:30 GMT</pubDate>
-      <description><![CDATA[Explores how centralized land and registry systems undermine true ownership and how sovereignty begins by reclaiming stewardship beyond bureaucratic permission.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Oct. 5, 2025): Sovereignty in the Garden: Cultivating Local Wealth and Food Security</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b5ef6d5e3712db60ed356bcab7119b3d3f17780fddec31716161199773f4aaf5</link>
-      <guid isPermaLink="false">b5ef6d5e3712db60ed356bcab7119b3d3f17780fddec31716161199773f4aaf5</guid>
-      <pubDate>Tue, 07 Oct 2025 04:22:36 GMT</pubDate>
-      <description><![CDATA[Explores gardening and food sovereignty as living metaphors for economic and spiritual freedom—local, resilient, and resistant to fiat dependency.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sunday Article (Oct. 5, 2025): Hope Beyond Collapse</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6df6a247f3f963b0ea244181b56089a1876814c7b5fb828732429132bc43b712</link>
-      <guid isPermaLink="false">6df6a247f3f963b0ea244181b56089a1876814c7b5fb828732429132bc43b712</guid>
-      <pubDate>Tue, 07 Oct 2025 04:21:39 GMT</pubDate>
-      <description><![CDATA[Reflects on resilience amid the disintegration of modern systems, showing how collapse can become the soil of renewal for those who live by truth, faith, and sovereign principles. tags: hope, collapse, sovereignty, faith, renewal.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sabbath Article (Oct. 4, 2025): Sabbath Economics: Rest as the Foundation of Sovereignty</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3172a2037a54e1dbc13aceb2799a7f1a38859a65a47254bfeff357f6655deb4a</link>
-      <guid isPermaLink="false">3172a2037a54e1dbc13aceb2799a7f1a38859a65a47254bfeff357f6655deb4a</guid>
-      <pubDate>Tue, 07 Oct 2025 04:15:29 GMT</pubDate>
-      <description><![CDATA[Explores how true sovereignty requires the discipline of rest, contrasting fiat’s endless productivity with a sabbath ethic of patience, dignity, and permanence.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Oct. 4, 2025): Why Cathedrals Still Speak to Us</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=93284aab4ec0773baef1ab419e9d7868a8614387bfa4c0252a83c70a1274a88c</link>
-      <guid isPermaLink="false">93284aab4ec0773baef1ab419e9d7868a8614387bfa4c0252a83c70a1274a88c</guid>
-      <pubDate>Tue, 07 Oct 2025 04:14:42 GMT</pubDate>
-      <description><![CDATA[eflects on the cultural and spiritual resonance of medieval cathedrals, connecting their ethic of permanence and devotion with our longing for meaning in an impermanent age.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

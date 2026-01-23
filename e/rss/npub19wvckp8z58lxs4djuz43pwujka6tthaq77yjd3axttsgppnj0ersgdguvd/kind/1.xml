@@ -5,7 +5,67 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 22 Jan 2026 20:20:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 21:28:23 GMT</lastBuildDate>
+    <item>
+      <title>Crossed 600 articles today</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=756670c2f77ae28775b34944a0645abd2ea4cb1fcafaf26b84b7b2a413e4bca7</link>
+      <guid isPermaLink="false">756670c2f77ae28775b34944a0645abd2ea4cb1fcafaf26b84b7b2a413e4bca7</guid>
+      <pubDate>Fri, 23 Jan 2026 21:18:58 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 5 - 1/23/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=121f71852cc25d15170ae775c61c3c54ff8bca84cd49041406e3ddc13ddebb90</link>
+      <guid isPermaLink="false">121f71852cc25d15170ae775c61c3c54ff8bca84cd49041406e3ddc13ddebb90</guid>
+      <pubDate>Fri, 23 Jan 2026 20:22:28 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 4 - 1/23/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4c0e2d50a74d23993a228ebec9a94bd3e20774f1feec9b9a0f3ae0028b6592dd</link>
+      <guid isPermaLink="false">4c0e2d50a74d23993a228ebec9a94bd3e20774f1feec9b9a0f3ae0028b6592dd</guid>
+      <pubDate>Fri, 23 Jan 2026 20:21:34 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 3 - 1/23/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ef89b802bf9ffa890898bab2db2f8ac8e540d5f95d21912c813514878acd82d4</link>
+      <guid isPermaLink="false">ef89b802bf9ffa890898bab2db2f8ac8e540d5f95d21912c813514878acd82d4</guid>
+      <pubDate>Fri, 23 Jan 2026 20:20:46 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 2 - 1/23/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1cde871cf8909f05fa55d1758f871054b1b52a303e9bd1c176d973cabfcc177f</link>
+      <guid isPermaLink="false">1cde871cf8909f05fa55d1758f871054b1b52a303e9bd1c176d973cabfcc177f</guid>
+      <pubDate>Fri, 23 Jan 2026 20:19:55 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 1 - 1/23/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=56a235dd16aaccf559a85ae11c4608eea0623017b414528fc488b0d70de7ac01</link>
+      <guid isPermaLink="false">56a235dd16aaccf559a85ae11c4608eea0623017b414528fc488b0d70de7ac01</guid>
+      <pubDate>Fri, 23 Jan 2026 20:19:10 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Strong Signal - 1/22/2026</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=d1c5be313ad5ebc0a29ffd0ec3b4e2f4d0d2f8ce6bc3c8ea6a4115deaef051a9</link>

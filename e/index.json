@@ -1,6 +1,138 @@
 [
   {
     "slug": null,
+    "event_id": "756670c2f77ae28775b34944a0645abd2ea4cb1fcafaf26b84b7b2a413e4bca7",
+    "created_at": 1769203138,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/756670c2f77ae28775b34944a0645abd2ea4cb1fcafaf26b84b7b2a413e4bca7.json",
+    "title": "Crossed 600 articles today",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "why-bitcoin-forces-you-to-grow-up",
+    "event_id": "d1a771075a4906d390b38a3f9a9715b85aa1190f4febe31d80ad51d9027685f9",
+    "created_at": 1769202123,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/d1a771075a4906d390b38a3f9a9715b85aa1190f4febe31d80ad51d9027685f9.json",
+    "title": "Why Bitcoin Forces You to Grow Up",
+    "summary": "Bitcoin is often described as freedom technology. Less discussed is the maturity it demands. This essay explores why Bitcoin feels uncomfortable, demanding, and uncompromising — and why that is precisely its value.",
+    "paid": false
+  },
+  {
+    "slug": "bitcoin-didnt-win-because-it-was-fast",
+    "event_id": "37c37b5c0b3418c63cc0bfd2e6e316155a5699fa829de9cde1a3e569f08be686",
+    "created_at": 1769202038,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/37c37b5c0b3418c63cc0bfd2e6e316155a5699fa829de9cde1a3e569f08be686.json",
+    "title": "Bitcoin Didn’t Win Because It Was Fast",
+    "summary": "Bitcoin is often framed as a technological breakthrough or a financial asset. In reality, its success came from refusing speed, shortcuts, and compromise. This essay explains why Bitcoin’s slowness was not a flaw — but the reason it survived.",
+    "paid": false
+  },
+  {
+    "slug": "-why-sovereign-systems-look-like-failure-right-before-they-win-2026-01-23",
+    "event_id": "dc0cb5dfe1e8e8cb81d14fe75aaecda56ac20c5110d4840a3e2d0474b732d802",
+    "created_at": 1769200754,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/dc0cb5dfe1e8e8cb81d14fe75aaecda56ac20c5110d4840a3e2d0474b732d802.json",
+    "title": "🔒 Why Sovereign Systems Look Like Failure Right Before They Win",
+    "summary": "Sovereign systems often appear stagnant, abandoned, or irrelevant precisely when they are approaching real compounding. This essay explains why centralized metrics misread sovereign progress — and why many builders quit at the worst possible moment.",
+    "paid": false
+  },
+  {
+    "slug": "the-cost-curve-nobody-wants-to-talk-about-2026-01-23",
+    "event_id": "b8f2644d31d573dd7e8e1d7034152e820b569ae90be4fd79c5f3f6aa0f536ce8",
+    "created_at": 1769200525,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/b8f2644d31d573dd7e8e1d7034152e820b569ae90be4fd79c5f3f6aa0f536ce8.json",
+    "title": "🔒 The Cost Curve Nobody Wants to Talk About",
+    "summary": "Sovereignty does not remove cost — it redistributes it. This essay explains why sovereign systems front-load pain, responsibility, and discipline instead of hiding them behind convenience, and why most people rationally opt out.",
+    "paid": false
+  },
+  {
+    "slug": "growth-without-extraction-2026-01-23",
+    "event_id": "6fb792641e3a73c9b2921b5e9765b0b94e5406334411dd4ec76189f5b0c83b7d",
+    "created_at": 1769200468,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/6fb792641e3a73c9b2921b5e9765b0b94e5406334411dd4ec76189f5b0c83b7d.json",
+    "title": "🔒 Growth Without Extraction",
+    "summary": "Not all revenue is extraction. Not all growth is rent-seeking. This essay defines what non-extractive growth actually looks like in sovereign systems — and why it feels unfamiliar in a world trained to monetize attention.",
+    "paid": false
+  },
+  {
+    "slug": "growth-without-scale-what-growth-means-in-sovereign-systems",
+    "event_id": "5d12c0ce6b4eed035f5e5e36c25847546aa9ea7498610d72315a0f6a7b803161",
+    "created_at": 1769200268,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/5d12c0ce6b4eed035f5e5e36c25847546aa9ea7498610d72315a0f6a7b803161.json",
+    "title": "Growth Without Scale: What Growth Means in Sovereign Systems",
+    "summary": "In centralized systems, growth means scale, reach, and extraction. In sovereign systems, growth means resilience, integrity, and depth. This article reframes growth as something slower, quieter, and far more durable — and explains why most people misunderstand it.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "121f71852cc25d15170ae775c61c3c54ff8bca84cd49041406e3ddc13ddebb90",
+    "created_at": 1769199748,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/121f71852cc25d15170ae775c61c3c54ff8bca84cd49041406e3ddc13ddebb90.json",
+    "title": "Note 5 - 1/23/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "4c0e2d50a74d23993a228ebec9a94bd3e20774f1feec9b9a0f3ae0028b6592dd",
+    "created_at": 1769199694,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/4c0e2d50a74d23993a228ebec9a94bd3e20774f1feec9b9a0f3ae0028b6592dd.json",
+    "title": "Note 4 - 1/23/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "ef89b802bf9ffa890898bab2db2f8ac8e540d5f95d21912c813514878acd82d4",
+    "created_at": 1769199646,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/ef89b802bf9ffa890898bab2db2f8ac8e540d5f95d21912c813514878acd82d4.json",
+    "title": "Note 3 - 1/23/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "1cde871cf8909f05fa55d1758f871054b1b52a303e9bd1c176d973cabfcc177f",
+    "created_at": 1769199595,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/1cde871cf8909f05fa55d1758f871054b1b52a303e9bd1c176d973cabfcc177f.json",
+    "title": "Note 2 - 1/23/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "56a235dd16aaccf559a85ae11c4608eea0623017b414528fc488b0d70de7ac01",
+    "created_at": 1769199550,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/56a235dd16aaccf559a85ae11c4608eea0623017b414528fc488b0d70de7ac01.json",
+    "title": "Note 1 - 1/23/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
     "event_id": "93e44cdcd7b7f3cbbd1f67af8a08f530771f28de15864f62b3627c149f146db6",
     "created_at": 1769112842,
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
@@ -5979,8 +6111,8 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 30023,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/5c5320125a1557317874ac8dbc301c323812257e981b3ba53a49e849ea28b8a6.json",
-    "title": "🔒 Paid Article (Oct. 9, 2025): The Power That Cannot Be Bought",
-    "summary": "A meditation on the difference between spiritual authority, fiat power, and proof-of-work. In a world obsessed with leverage — financial, social, or political — true power remains something money can’t purchase and status can’t secure.",
+    "title": "",
+    "summary": "",
     "paid": false
   },
   {

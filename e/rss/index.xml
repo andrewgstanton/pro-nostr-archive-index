@@ -5,7 +5,127 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 22 Jan 2026 20:20:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 21:28:23 GMT</lastBuildDate>
+    <item>
+      <title>Crossed 600 articles today</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=756670c2f77ae28775b34944a0645abd2ea4cb1fcafaf26b84b7b2a413e4bca7</link>
+      <guid isPermaLink="false">756670c2f77ae28775b34944a0645abd2ea4cb1fcafaf26b84b7b2a413e4bca7</guid>
+      <pubDate>Fri, 23 Jan 2026 21:18:58 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Why Bitcoin Forces You to Grow Up</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d1a771075a4906d390b38a3f9a9715b85aa1190f4febe31d80ad51d9027685f9</link>
+      <guid isPermaLink="false">d1a771075a4906d390b38a3f9a9715b85aa1190f4febe31d80ad51d9027685f9</guid>
+      <pubDate>Fri, 23 Jan 2026 21:02:03 GMT</pubDate>
+      <description><![CDATA[Bitcoin is often described as freedom technology. Less discussed is the maturity it demands. This essay explores why Bitcoin feels uncomfortable, demanding, and uncompromising — and why that is precisely its value.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Bitcoin Didn’t Win Because It Was Fast</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=37c37b5c0b3418c63cc0bfd2e6e316155a5699fa829de9cde1a3e569f08be686</link>
+      <guid isPermaLink="false">37c37b5c0b3418c63cc0bfd2e6e316155a5699fa829de9cde1a3e569f08be686</guid>
+      <pubDate>Fri, 23 Jan 2026 21:00:38 GMT</pubDate>
+      <description><![CDATA[Bitcoin is often framed as a technological breakthrough or a financial asset. In reality, its success came from refusing speed, shortcuts, and compromise. This essay explains why Bitcoin’s slowness was not a flaw — but the reason it survived.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Why Sovereign Systems Look Like Failure Right Before They Win</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=dc0cb5dfe1e8e8cb81d14fe75aaecda56ac20c5110d4840a3e2d0474b732d802</link>
+      <guid isPermaLink="false">dc0cb5dfe1e8e8cb81d14fe75aaecda56ac20c5110d4840a3e2d0474b732d802</guid>
+      <pubDate>Fri, 23 Jan 2026 20:39:14 GMT</pubDate>
+      <description><![CDATA[Sovereign systems often appear stagnant, abandoned, or irrelevant precisely when they are approaching real compounding. This essay explains why centralized metrics misread sovereign progress — and why many builders quit at the worst possible moment.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 The Cost Curve Nobody Wants to Talk About</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b8f2644d31d573dd7e8e1d7034152e820b569ae90be4fd79c5f3f6aa0f536ce8</link>
+      <guid isPermaLink="false">b8f2644d31d573dd7e8e1d7034152e820b569ae90be4fd79c5f3f6aa0f536ce8</guid>
+      <pubDate>Fri, 23 Jan 2026 20:35:25 GMT</pubDate>
+      <description><![CDATA[Sovereignty does not remove cost — it redistributes it. This essay explains why sovereign systems front-load pain, responsibility, and discipline instead of hiding them behind convenience, and why most people rationally opt out.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Growth Without Extraction</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6fb792641e3a73c9b2921b5e9765b0b94e5406334411dd4ec76189f5b0c83b7d</link>
+      <guid isPermaLink="false">6fb792641e3a73c9b2921b5e9765b0b94e5406334411dd4ec76189f5b0c83b7d</guid>
+      <pubDate>Fri, 23 Jan 2026 20:34:28 GMT</pubDate>
+      <description><![CDATA[Not all revenue is extraction. Not all growth is rent-seeking. This essay defines what non-extractive growth actually looks like in sovereign systems — and why it feels unfamiliar in a world trained to monetize attention.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Growth Without Scale: What Growth Means in Sovereign Systems</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5d12c0ce6b4eed035f5e5e36c25847546aa9ea7498610d72315a0f6a7b803161</link>
+      <guid isPermaLink="false">5d12c0ce6b4eed035f5e5e36c25847546aa9ea7498610d72315a0f6a7b803161</guid>
+      <pubDate>Fri, 23 Jan 2026 20:31:08 GMT</pubDate>
+      <description><![CDATA[In centralized systems, growth means scale, reach, and extraction. In sovereign systems, growth means resilience, integrity, and depth. This article reframes growth as something slower, quieter, and far more durable — and explains why most people misunderstand it.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 5 - 1/23/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=121f71852cc25d15170ae775c61c3c54ff8bca84cd49041406e3ddc13ddebb90</link>
+      <guid isPermaLink="false">121f71852cc25d15170ae775c61c3c54ff8bca84cd49041406e3ddc13ddebb90</guid>
+      <pubDate>Fri, 23 Jan 2026 20:22:28 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 4 - 1/23/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4c0e2d50a74d23993a228ebec9a94bd3e20774f1feec9b9a0f3ae0028b6592dd</link>
+      <guid isPermaLink="false">4c0e2d50a74d23993a228ebec9a94bd3e20774f1feec9b9a0f3ae0028b6592dd</guid>
+      <pubDate>Fri, 23 Jan 2026 20:21:34 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 3 - 1/23/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ef89b802bf9ffa890898bab2db2f8ac8e540d5f95d21912c813514878acd82d4</link>
+      <guid isPermaLink="false">ef89b802bf9ffa890898bab2db2f8ac8e540d5f95d21912c813514878acd82d4</guid>
+      <pubDate>Fri, 23 Jan 2026 20:20:46 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 2 - 1/23/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1cde871cf8909f05fa55d1758f871054b1b52a303e9bd1c176d973cabfcc177f</link>
+      <guid isPermaLink="false">1cde871cf8909f05fa55d1758f871054b1b52a303e9bd1c176d973cabfcc177f</guid>
+      <pubDate>Fri, 23 Jan 2026 20:19:55 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 1 - 1/23/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=56a235dd16aaccf559a85ae11c4608eea0623017b414528fc488b0d70de7ac01</link>
+      <guid isPermaLink="false">56a235dd16aaccf559a85ae11c4608eea0623017b414528fc488b0d70de7ac01</guid>
+      <pubDate>Fri, 23 Jan 2026 20:19:10 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:0 93e44cdcd7</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=93e44cdcd7b7f3cbbd1f67af8a08f530771f28de15864f62b3627c149f146db6</link>
@@ -4882,126 +5002,6 @@
       <guid isPermaLink="false">c6a02ca54624728560bcd393411a762a1ed0298c0a2204c5b0266e1d1618fab6</guid>
       <pubDate>Sun, 30 Nov 2025 05:03:42 GMT</pubDate>
       <description><![CDATA[The Preface clarifies the nature of the Bitcoin Chronicles: a Christ-shaped hard-science cosmology, not a work of Christian genre fiction. Christ is not a character in this story but the deep structure of reality — the architecture beneath physics, sovereignty, and the laws of creation. This framing prepares the reader to understand Book 0 not as allegory or religious fiction, but as a sovereign, scientifically coherent universe rooted in true metaphysics.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Book 0 Intro</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=bbe76eef6fb26ed11892f26cec90928b3020bcb5fcfb2ea5c9f367fb5d730f6d</link>
-      <guid isPermaLink="false">bbe76eef6fb26ed11892f26cec90928b3020bcb5fcfb2ea5c9f367fb5d730f6d</guid>
-      <pubDate>Sun, 30 Nov 2025 04:56:52 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Teaser - The Sovereign Archive: The Canonical Bitcoin Chronicles Index</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=695cd15d31e198237c414951786e807646410e672f9ae3500b1a5f5b879f4244</link>
-      <guid isPermaLink="false">695cd15d31e198237c414951786e807646410e672f9ae3500b1a5f5b879f4244</guid>
-      <pubDate>Thu, 27 Nov 2025 21:56:58 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 25, 2025): When Digital Sovereignty Feels Like Shouting Into the Wind</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=24fcb1d471a561956fc45fe64cea5c7f18eb87baf4de81a37a95e6f638fa800e</link>
-      <guid isPermaLink="false">24fcb1d471a561956fc45fe64cea5c7f18eb87baf4de81a37a95e6f638fa800e</guid>
-      <pubDate>Wed, 26 Nov 2025 00:20:48 GMT</pubDate>
-      <description><![CDATA[A meditation on the discouragement that comes from building faithfully with little recognition—and why perseverance produces a harvest even when the field looks empty.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 24, 2025): The Lighthouse at Mare Cimmerium</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b667a3e748e65e4f0f06f625a8b0af0de31145e29577e2f2365997464e12f1a5</link>
-      <guid isPermaLink="false">b667a3e748e65e4f0f06f625a8b0af0de31145e29577e2f2365997464e12f1a5</guid>
-      <pubDate>Mon, 24 Nov 2025 23:45:47 GMT</pubDate>
-      <description><![CDATA[On Mars, a lone engineer maintains an ancient Bitcoin node inside an old basalt tower. When a dust storm threatens to sever the colony from the interplanetary mesh, the Lighthouse becomes the only source of truth for a world drifting toward digital amnesia.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 24, 2025): The Bitcoin Chronicles: The Archivist of Luna Freeport</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=fa7fb348ef847689621f02fd70a878f73241836438835c689841b80295029c36</link>
-      <guid isPermaLink="false">fa7fb348ef847689621f02fd70a878f73241836438835c689841b80295029c36</guid>
-      <pubDate>Mon, 24 Nov 2025 23:43:47 GMT</pubDate>
-      <description><![CDATA[A quiet researcher on Luna Freeport uncovers an ancient cache of Earth-era financial logs showing how the Global Credit Order collapsed — and realizes the Freeport’s future depends on learning the right lesson: sovereignty can be maintained only when the truth is preserved, verifiably, forever.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Sept. 12, 2025): MLM and Web3: A comparison</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9b07435833c27a1da6e927b24018d4aeededbbe295375a12355280b037c5b70b</link>
-      <guid isPermaLink="false">9b07435833c27a1da6e927b24018d4aeededbbe295375a12355280b037c5b70b</guid>
-      <pubDate>Mon, 24 Nov 2025 02:46:07 GMT</pubDate>
-      <description><![CDATA[Both multi-level marketing (MLM) and Web3 projects sell the same dream: financial freedom, lifestyle independence, and passive income. My short stint inside World Financial Group in 2023–2024 helped me recognize the same structural flaws now playing out across Web3. The names and technology change. The math doesn’t.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sunday Article (Nov. 23, 2025): The Resurrection of Ownership: How Bitcoin Rebuilds Credit, Trust, and Real Wealth</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=86279d58af5666db5f37377bc15d617c8cb0724f9caa4ff8639db554305eb703</link>
-      <guid isPermaLink="false">86279d58af5666db5f37377bc15d617c8cb0724f9caa4ff8639db554305eb703</guid>
-      <pubDate>Sat, 22 Nov 2025 21:57:14 GMT</pubDate>
-      <description><![CDATA[A Sunday reflection on renewal — how the pattern of resurrection illuminates the rebirth of ownership in a world shifting from fiat to Bitcoin. This piece explores why ownership has been hollowed out by inflation, debt, and extraction; how hard money restores foundations; how trust re-emerges in communities; and how a Bitcoin economy gives individuals, families, and nations the ability to rise again.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 23, 2025): The End of Forever-Debt: Why 50-Year Mortgages Cannot Exist in a Hard-Money Economy</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0f4298dc2a41c1fffd450de3e1fb249f15e397823c9217d6e4cff75882654a8f</link>
-      <guid isPermaLink="false">0f4298dc2a41c1fffd450de3e1fb249f15e397823c9217d6e4cff75882654a8f</guid>
-      <pubDate>Sat, 22 Nov 2025 21:55:15 GMT</pubDate>
-      <description><![CDATA[A clear, practical explanation of why ultra-long mortgages (40–50 years) are only possible in a fiat system where money can be endlessly created. This article breaks down how inflation subsidizes lenders, how credit distorts home prices, how risk is hidden in securitization, and why a Bitcoin standard forces mortgages to shrink back into reality — shorter, saner, and actually payable within a working lifetime.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 23, 2025): Credit Without Chains: How Trust Re-Forms on a Bitcoin Ledger</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=fca3bd6372e8ec6d4af04528fa004d78a7bd1f7644e369522bcaee0a7ed27c20</link>
-      <guid isPermaLink="false">fca3bd6372e8ec6d4af04528fa004d78a7bd1f7644e369522bcaee0a7ed27c20</guid>
-      <pubDate>Sat, 22 Nov 2025 21:53:40 GMT</pubDate>
-      <description><![CDATA[A practical exploration of how credit evolves in a Bitcoin-denominated economy. This article shows how trust becomes measurable, risks become transparent, lenders regain discipline, and communities regain agency. Instead of FICO scores, predatory interest, and unpayable liabilities, Bitcoin enables small, reputation-based, collateral-light credit systems that strengthen people rather than enslaving them.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 22, 2025): The Extraction Engine: Why Rent-Seeking Built the Modern World</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=515caf550f109a269fe611dac19e45c656fbf658c91448bf78e64a392705c707</link>
-      <guid isPermaLink="false">515caf550f109a269fe611dac19e45c656fbf658c91448bf78e64a392705c707</guid>
-      <pubDate>Sat, 22 Nov 2025 21:51:49 GMT</pubDate>
-      <description><![CDATA[A clear, near-future reflection on how rent-seeking—not production—became the hidden operating system of modern economies. This article examines property taxes, 50-year mortgages, debt spirals, artificial scarcity, and the illusion of ownership, then contrasts it with the emerging Bitcoin paradigm where extraction breaks down and sovereignty returns to individuals.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 22, 2025): Imagining Mortgages in a Bitcoin Standard</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=80418cd99201747592f55223207f17d3ae3540070a574a215eecb7ceaeeef70f</link>
-      <guid isPermaLink="false">80418cd99201747592f55223207f17d3ae3540070a574a215eecb7ceaeeef70f</guid>
-      <pubDate>Sat, 22 Nov 2025 21:49:43 GMT</pubDate>
-      <description><![CDATA[A practical, near-future exploration of how mortgages would evolve under a Bitcoin standard. This article explains why ultra-long loans collapse, why price discovery resets, how lenders protect themselves without inflation, how communities reclaim credit, and how home ownership becomes more attainable—not less—in a hard-money world.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sabbath Article (Nov. 22, 2025): Sabbath for the Sovereign: Resting From the World’s Rent-Extraction System</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5d6c89e754c000d03fc637fcd86c384b7695ac4f0b1a2309a9df5cca4db446f9</link>
-      <guid isPermaLink="false">5d6c89e754c000d03fc637fcd86c384b7695ac4f0b1a2309a9df5cca4db446f9</guid>
-      <pubDate>Sat, 22 Nov 2025 21:47:38 GMT</pubDate>
-      <description><![CDATA[A meditation on the Sabbath principle — not as a religious artifact, but as a universal pattern of rest, resistance, and sovereignty. This article explores why modern people have no economic Sabbath, how perpetual extraction has replaced rest, why Bitcoin functions as a Sabbath-technology, and how reclaiming rest becomes an act of freedom in an age built on debt, interest, and rent.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
