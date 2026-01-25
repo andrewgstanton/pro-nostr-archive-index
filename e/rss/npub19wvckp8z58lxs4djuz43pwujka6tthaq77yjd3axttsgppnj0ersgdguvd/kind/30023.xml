@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 23 Jan 2026 21:28:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 00:22:40 GMT</lastBuildDate>
+    <item>
+      <title>The Lie of “Recharge So You Can Go Back”</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6858aea0a1f484adb72769c486bbffefdb9062b40141ccaf3e9b8c0dbe5d5b90</link>
+      <guid isPermaLink="false">6858aea0a1f484adb72769c486bbffefdb9062b40141ccaf3e9b8c0dbe5d5b90</guid>
+      <pubDate>Sat, 24 Jan 2026 23:03:18 GMT</pubDate>
+      <description><![CDATA[Modern culture encourages rest only insofar as it enables people to return to the same extractive patterns that exhausted them in the first place. This essay examines the subtle lie embedded in “recharging,” the difference between pause and realignment, and why true rest does not prepare us to go back—but invites us to question where we are going at all.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Burnout Is Not a Personal Failure — It’s a Systems Signal</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=76b1da3ba6b0b4d55537e237ebda85aeeef55dbae32715c20dc97955b79dc383</link>
+      <guid isPermaLink="false">76b1da3ba6b0b4d55537e237ebda85aeeef55dbae32715c20dc97955b79dc383</guid>
+      <pubDate>Sat, 24 Jan 2026 23:01:27 GMT</pubDate>
+      <description><![CDATA[Burnout is often framed as a personal weakness or a failure to manage stress. In reality, burnout is a systems-level signal—especially among builders, writers, and conscientious people. This essay argues that burnout is not caused by doing too much, but by being forced to operate inside systems that extract meaning, punish integrity, and reward surface-level performance over truth.  ---]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Rest Is Not Leisure: Why Sabbath Exists in a World That Extracts</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9950e9433b0bd02257ba5cf20a768cb8c5c2dc3bd6d3b8e47fb15bddf7feb585</link>
+      <guid isPermaLink="false">9950e9433b0bd02257ba5cf20a768cb8c5c2dc3bd6d3b8e47fb15bddf7feb585</guid>
+      <pubDate>Sat, 24 Jan 2026 22:59:37 GMT</pubDate>
+      <description><![CDATA[Modern culture treats rest as a tool for recovery so we can return to productivity. Sabbath, by contrast, was designed as a hard boundary against extraction itself. This essay explores why true rest feels threatening in modern economic systems, how leisure has replaced cessation, and why rest—properly understood—is a structural act of resistance rather than personal indulgence.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Why Bitcoin Forces You to Grow Up</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=d1a771075a4906d390b38a3f9a9715b85aa1190f4febe31d80ad51d9027685f9</link>
@@ -4982,36 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">75ff4faa5704b63459234452d7fec23f41de84283d675b9dc9221e8e5616d9b0</guid>
       <pubDate>Fri, 10 Oct 2025 01:39:18 GMT</pubDate>
       <description><![CDATA[Self-custody is not a slogan; it is a moral apprenticeship.  To hold your own keys is to relearn responsibility in a world trained for dependency.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Oct. 8, 2025): Economies Without Permission</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=4432d50c6ac7dcd438993eba41b064e5e0e8704443029688855f62d5f7702e9c</link>
-      <guid isPermaLink="false">4432d50c6ac7dcd438993eba41b064e5e0e8704443029688855f62d5f7702e9c</guid>
-      <pubDate>Fri, 10 Oct 2025 01:38:30 GMT</pubDate>
-      <description><![CDATA[Freedom is not a theory—it is a marketplace built on truth.  This essay explores how Bitcoin and open protocols enable real communities to thrive once intermediaries fade.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Oct. 9, 2025): When Strength Looks Like Surrender</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d33ac79f4b1193887997b5520a6576498cb69188c2bdb23a70d6f9bb4422a8f8</link>
-      <guid isPermaLink="false">d33ac79f4b1193887997b5520a6576498cb69188c2bdb23a70d6f9bb4422a8f8</guid>
-      <pubDate>Fri, 10 Oct 2025 01:36:45 GMT</pubDate>
-      <description><![CDATA[The paradox at the heart of every true breakthrough: surrender, not striving, is where transformation begins.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Oct. 9, 2025): The Noise and the Silence</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3084613483ac40fc6247882ef35ac89c4c3df4db5ccacc133dd71222e7de83bb</link>
-      <guid isPermaLink="false">3084613483ac40fc6247882ef35ac89c4c3df4db5ccacc133dd71222e7de83bb</guid>
-      <pubDate>Fri, 10 Oct 2025 01:36:01 GMT</pubDate>
-      <description><![CDATA[In an age of endless notifications and performative outrage, silence itself has become an act of rebellion.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

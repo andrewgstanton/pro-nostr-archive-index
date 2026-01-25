@@ -1,5 +1,104 @@
 [
   {
+    "slug": "the-lie-of-recharge-so-you-can-go-back",
+    "event_id": "6858aea0a1f484adb72769c486bbffefdb9062b40141ccaf3e9b8c0dbe5d5b90",
+    "created_at": 1769295798,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/6858aea0a1f484adb72769c486bbffefdb9062b40141ccaf3e9b8c0dbe5d5b90.json",
+    "title": "The Lie of “Recharge So You Can Go Back”",
+    "summary": "Modern culture encourages rest only insofar as it enables people to return to the same extractive patterns that exhausted them in the first place. This essay examines the subtle lie embedded in “recharging,” the difference between pause and realignment, and why true rest does not prepare us to go back—but invites us to question where we are going at all.",
+    "paid": false
+  },
+  {
+    "slug": "burnout-is-not-a-personal-failure--its-a-systems-signal",
+    "event_id": "76b1da3ba6b0b4d55537e237ebda85aeeef55dbae32715c20dc97955b79dc383",
+    "created_at": 1769295687,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/76b1da3ba6b0b4d55537e237ebda85aeeef55dbae32715c20dc97955b79dc383.json",
+    "title": "Burnout Is Not a Personal Failure — It’s a Systems Signal",
+    "summary": "Burnout is often framed as a personal weakness or a failure to manage stress. In reality, burnout is a systems-level signal—especially among builders, writers, and conscientious people. This essay argues that burnout is not caused by doing too much, but by being forced to operate inside systems that extract meaning, punish integrity, and reward surface-level performance over truth.  ---",
+    "paid": false
+  },
+  {
+    "slug": "rest-is-not-leisure-why-sabbath-exists-in-a-world-that-extracts",
+    "event_id": "9950e9433b0bd02257ba5cf20a768cb8c5c2dc3bd6d3b8e47fb15bddf7feb585",
+    "created_at": 1769295577,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/9950e9433b0bd02257ba5cf20a768cb8c5c2dc3bd6d3b8e47fb15bddf7feb585.json",
+    "title": "Rest Is Not Leisure: Why Sabbath Exists in a World That Extracts",
+    "summary": "Modern culture treats rest as a tool for recovery so we can return to productivity. Sabbath, by contrast, was designed as a hard boundary against extraction itself. This essay explores why true rest feels threatening in modern economic systems, how leisure has replaced cessation, and why rest—properly understood—is a structural act of resistance rather than personal indulgence.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "d5335f458073fbabb29022b8ce7cd0425291508b2e34573accca6e24a6fccb80",
+    "created_at": 1769295380,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/d5335f458073fbabb29022b8ce7cd0425291508b2e34573accca6e24a6fccb80.json",
+    "title": "Note 5 - 1/24/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "f32780c6c14caff2dbdae570249567fec92dfb6817bf70e8adf6523ccbab5e44",
+    "created_at": 1769295322,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/f32780c6c14caff2dbdae570249567fec92dfb6817bf70e8adf6523ccbab5e44.json",
+    "title": "Note 4 - 1/24/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "62d61db9cbf544457d901926ba58bdb592d1b07041630e1913698c19877e6173",
+    "created_at": 1769295271,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/62d61db9cbf544457d901926ba58bdb592d1b07041630e1913698c19877e6173.json",
+    "title": "Note 3 - 1/24/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "ecec11e8875217f623a81195c0d5ca375c8570ae894293a635fccfe4dbbca402",
+    "created_at": 1769295223,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/ecec11e8875217f623a81195c0d5ca375c8570ae894293a635fccfe4dbbca402.json",
+    "title": "Note 2 - 1/24/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "a0b970ce2aba36cd26caa64137eb1114c7f9ce3df74a975fa03eea05d1cb881c",
+    "created_at": 1769295167,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/a0b970ce2aba36cd26caa64137eb1114c7f9ce3df74a975fa03eea05d1cb881c.json",
+    "title": "Note 1 - 1/24/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "1d88f593c9756c8989b5cdd244c3bbd2c2acc0d89bb8fb4b66f2bac10f1faa89",
+    "created_at": 1769274265,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/1d88f593c9756c8989b5cdd244c3bbd2c2acc0d89bb8fb4b66f2bac10f1faa89.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": null,
     "event_id": "756670c2f77ae28775b34944a0645abd2ea4cb1fcafaf26b84b7b2a413e4bca7",
     "created_at": 1769203138,
@@ -6111,8 +6210,8 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 30023,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/5c5320125a1557317874ac8dbc301c323812257e981b3ba53a49e849ea28b8a6.json",
-    "title": "",
-    "summary": "",
+    "title": "🔒 Paid Article (Oct. 9, 2025): The Power That Cannot Be Bought",
+    "summary": "A meditation on the difference between spiritual authority, fiat power, and proof-of-work. In a world obsessed with leverage — financial, social, or political — true power remains something money can’t purchase and status can’t secure.",
     "paid": false
   },
   {
