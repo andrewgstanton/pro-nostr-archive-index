@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 26 Jan 2026 22:23:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 20:51:47 GMT</lastBuildDate>
+    <item>
+      <title>🔒 The Long Patience of Sovereign Systems</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=049cb96013299178223fdc9f51ef17bdfcee1de5f3347b0220df3e392a6a3cdf</link>
+      <guid isPermaLink="false">049cb96013299178223fdc9f51ef17bdfcee1de5f3347b0220df3e392a6a3cdf</guid>
+      <pubDate>Tue, 27 Jan 2026 20:18:11 GMT</pubDate>
+      <description><![CDATA[Sovereign systems are built for independence, not applause. This essay explores why sovereignty requires patience, why it often looks like stagnation from the outside, and why systems that refuse to rush end up outlasting those that do.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Why Durable Work Feels Invisible in a World Built on Noise</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a26b80ba300aec9c6866ddf61f8bfc94a96ec9212a3afbb2bce8f1856858d576</link>
+      <guid isPermaLink="false">a26b80ba300aec9c6866ddf61f8bfc94a96ec9212a3afbb2bce8f1856858d576</guid>
+      <pubDate>Tue, 27 Jan 2026 20:14:36 GMT</pubDate>
+      <description><![CDATA[The most important work often feels unseen, unrewarded, and out of sync with the dominant culture. This essay explores why durable creation rarely receives immediate validation, how attention-driven systems distort our sense of value, and why invisibility is often a sign that you’re building something real.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Resilience Is What Remains When Optimization Fails</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5c529c6c8b81064b489acbae37cfe95c724f3753946e79cc8df5029042588b49</link>
+      <guid isPermaLink="false">5c529c6c8b81064b489acbae37cfe95c724f3753946e79cc8df5029042588b49</guid>
+      <pubDate>Tue, 27 Jan 2026 20:13:09 GMT</pubDate>
+      <description><![CDATA[Most modern systems confuse efficiency with strength. This essay explores why optimization creates fragility, how resilience emerges only under constraint, and why the systems that survive are almost always the ones that look inefficient, redundant, or slow—right up until the moment everything else breaks.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Why Durability Matters More Than Reach</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=8144b5759a49f8745d3fc4f6c90e35b1a88ce78fa45a9845e201072f9b14c05e</link>
@@ -4982,36 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">359af1dcfc0b5ccf4e0803f286588d985cb17a0769c171af3182bec1937c3d6d</guid>
       <pubDate>Fri, 10 Oct 2025 20:43:36 GMT</pubDate>
       <description><![CDATA[Hope is not optimism but defiance — the stubborn belief that even after the worst loss, life will rise again. Standing amid the ashes of grief, Andrew reflects on the kind of hope that outlasts death, systems, and despair — the quiet trust that nothing true is ever gone.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Sept. 25, 2025): When We Stop Resisting the Fall</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c7b3b33ab179e2844ce12393ad951f6d66b0732e6d10f828a9c75dcf5854813e</link>
-      <guid isPermaLink="false">c7b3b33ab179e2844ce12393ad951f6d66b0732e6d10f828a9c75dcf5854813e</guid>
-      <pubDate>Fri, 10 Oct 2025 20:40:34 GMT</pubDate>
-      <description><![CDATA[Just as autumn glorifies its own decline, we too are called to fall with grace. This essay likens the fading of a life — and of civilizations themselves — to nature’s own rhythm of death and renewal. The fall, when received instead of resisted, becomes the beginning of rebirth.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Sept. 25, 2025): The Discipline of Release</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=66ecb574636717bd25dd3bbfea1e18cb284e5ceb4fd5ebd7e2f13067ff2fd200</link>
-      <guid isPermaLink="false">66ecb574636717bd25dd3bbfea1e18cb284e5ceb4fd5ebd7e2f13067ff2fd200</guid>
-      <pubDate>Fri, 10 Oct 2025 20:37:19 GMT</pubDate>
-      <description><![CDATA[Letting go isn’t an emotion — it’s a discipline of trust. In this reflection, Andrew writes from the threshold between clinging and release, realizing that the heart must open its hands for grace to flow. Every attachment that’s surrendered becomes a seed of new freedom.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Sept. 24, 2025): When the Light Fades from Familiar Places</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c2d8ac8fdc9d51adee838a8d2aecdc5fe8581154d2edfe40036a51c9d3213a63</link>
-      <guid isPermaLink="false">c2d8ac8fdc9d51adee838a8d2aecdc5fe8581154d2edfe40036a51c9d3213a63</guid>
-      <pubDate>Fri, 10 Oct 2025 20:34:14 GMT</pubDate>
-      <description><![CDATA[From sterile corridors to shifting light on the floor, Andrew captures the tender stillness of decline — when everything noisy fades and only love remains. In the fading of strength and certainty, he finds a subtler, eternal brightness that asks nothing but presence.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

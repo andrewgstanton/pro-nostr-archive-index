@@ -5,7 +5,87 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 26 Jan 2026 22:23:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 20:51:46 GMT</lastBuildDate>
+    <item>
+      <title>🔒 The Long Patience of Sovereign Systems</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=049cb96013299178223fdc9f51ef17bdfcee1de5f3347b0220df3e392a6a3cdf</link>
+      <guid isPermaLink="false">049cb96013299178223fdc9f51ef17bdfcee1de5f3347b0220df3e392a6a3cdf</guid>
+      <pubDate>Tue, 27 Jan 2026 20:18:11 GMT</pubDate>
+      <description><![CDATA[Sovereign systems are built for independence, not applause. This essay explores why sovereignty requires patience, why it often looks like stagnation from the outside, and why systems that refuse to rush end up outlasting those that do.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Why Durable Work Feels Invisible in a World Built on Noise</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a26b80ba300aec9c6866ddf61f8bfc94a96ec9212a3afbb2bce8f1856858d576</link>
+      <guid isPermaLink="false">a26b80ba300aec9c6866ddf61f8bfc94a96ec9212a3afbb2bce8f1856858d576</guid>
+      <pubDate>Tue, 27 Jan 2026 20:14:36 GMT</pubDate>
+      <description><![CDATA[The most important work often feels unseen, unrewarded, and out of sync with the dominant culture. This essay explores why durable creation rarely receives immediate validation, how attention-driven systems distort our sense of value, and why invisibility is often a sign that you’re building something real.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Resilience Is What Remains When Optimization Fails</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5c529c6c8b81064b489acbae37cfe95c724f3753946e79cc8df5029042588b49</link>
+      <guid isPermaLink="false">5c529c6c8b81064b489acbae37cfe95c724f3753946e79cc8df5029042588b49</guid>
+      <pubDate>Tue, 27 Jan 2026 20:13:09 GMT</pubDate>
+      <description><![CDATA[Most modern systems confuse efficiency with strength. This essay explores why optimization creates fragility, how resilience emerges only under constraint, and why the systems that survive are almost always the ones that look inefficient, redundant, or slow—right up until the moment everything else breaks.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>1. Resilience Is Quiet  - 1/27/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=07762c824f403963bbbdced22c50bfca84b67d866ecaa8444d50a77db9858f0c</link>
+      <guid isPermaLink="false">07762c824f403963bbbdced22c50bfca84b67d866ecaa8444d50a77db9858f0c</guid>
+      <pubDate>Tue, 27 Jan 2026 19:24:33 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>2. Resilience Is Built Under Weight - 1/27/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f969829a03b3522f4bae6a8ee8c8aa24748fff997f024b59e03f34d13c9a62a8</link>
+      <guid isPermaLink="false">f969829a03b3522f4bae6a8ee8c8aa24748fff997f024b59e03f34d13c9a62a8</guid>
+      <pubDate>Tue, 27 Jan 2026 19:23:11 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>3. Resilience Doesn’t Depend on Applause - 1/27/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2d57d6e2c19d76399552af29282d3ac723adf27364210426cc41cbf19b2ef5c6</link>
+      <guid isPermaLink="false">2d57d6e2c19d76399552af29282d3ac723adf27364210426cc41cbf19b2ef5c6</guid>
+      <pubDate>Tue, 27 Jan 2026 19:22:16 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>4. Resilience Is Rooted - 1/27/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b08952b284b664c6d889dff4e06bbc49fe4f9a50a04bb4a4bb65418f9234a184</link>
+      <guid isPermaLink="false">b08952b284b664c6d889dff4e06bbc49fe4f9a50a04bb4a4bb65418f9234a184</guid>
+      <pubDate>Tue, 27 Jan 2026 19:21:30 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>5. Resilience Respects Time -1/27/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4bc928cd1413cbf8f642e64ab9a4ef7f4ed0b99f77b66bc6237cbf968eb0b2f0</link>
+      <guid isPermaLink="false">4bc928cd1413cbf8f642e64ab9a4ef7f4ed0b99f77b66bc6237cbf968eb0b2f0</guid>
+      <pubDate>Tue, 27 Jan 2026 19:20:27 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Why Durability Matters More Than Reach</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=8144b5759a49f8745d3fc4f6c90e35b1a88ce78fa45a9845e201072f9b14c05e</link>
@@ -4922,86 +5002,6 @@
       <guid isPermaLink="false">0ccf53bd4b5ea175383dc84860fd59b790eecda75924e657d4ff10f2fef4da42</guid>
       <pubDate>Mon, 08 Dec 2025 03:42:37 GMT</pubDate>
       <description><![CDATA[A long-form reflection on the hidden, unglamorous stretch that comes right before a breakthrough — the season where your work feels fragile, your efforts feel unseen, and every system seems to resist you. Friday’s discouraging discoveries become the framing for a deeper exploration of sovereignty, endurance, and the quiet discipline required to keep building.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>A Systems Hypothesis of Sovereignty:   Stability, Information, and Human Agency</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f50d488e4ae15600c68f3c9de068756cdcf702154f238d07fc0c8127747d3e18</link>
-      <guid isPermaLink="false">f50d488e4ae15600c68f3c9de068756cdcf702154f238d07fc0c8127747d3e18</guid>
-      <pubDate>Sun, 07 Dec 2025 20:10:08 GMT</pubDate>
-      <description><![CDATA[This article explores a recurring pattern across complex systems: decentralized, sovereign structures tend to be more stable than centralized ones. It proposes sovereignty as a systems-level insight—not a physical law—and distinguishes this real-world hypothesis from the fictional treatment in The Bitcoin Chronicles. The piece argues that technologies like Bitcoin and Nostr align with this pattern, reinforcing human agency and long-term resilience.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 9f88777de9</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9f88777de910593c85f3ef3436304a80e59610ad80e4b84281e9531d0e3df65e</link>
-      <guid isPermaLink="false">9f88777de910593c85f3ef3436304a80e59610ad80e4b84281e9531d0e3df65e</guid>
-      <pubDate>Sun, 07 Dec 2025 18:27:41 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Dec. 6, 2025): The Bitcoin Chronicles - 1.B.7 - The Lakota Influence: Sovereignty in the Lunar Soul</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=23a68fd956015d1301996f3e47f1ef3c67c3705bd2b575ccc2e424b8bc597c23</link>
-      <guid isPermaLink="false">23a68fd956015d1301996f3e47f1ef3c67c3705bd2b575ccc2e424b8bc597c23</guid>
-      <pubDate>Sun, 07 Dec 2025 04:33:42 GMT</pubDate>
-      <description><![CDATA[Among the diverse groups who shaped the lunar frontier, none influenced the philosophy of sovereignty more deeply than the Lakota Sovereign Collective. Their theology, ethics, and worldview formed the spiritual backbone of the Free Launch Era and later guided Luna’s peaceful break from Earth.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sabbath Article (Dec. 6, 2025): The Bitcoin Chronicles - 1.B.10 - The Sovereign Canon</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7df51b4e24661f9fa334fb6253d5a1ece21dc5354b4e610047f92ac964f8176c</link>
-      <guid isPermaLink="false">7df51b4e24661f9fa334fb6253d5a1ece21dc5354b4e610047f92ac964f8176c</guid>
-      <pubDate>Sun, 07 Dec 2025 04:31:19 GMT</pubDate>
-      <description><![CDATA[As Luna matured into a sovereign world, its guilds, Archivists, elders, and settlers began gathering the philosophies, laws, histories, and spiritual insights that defined their civilization. The result became known as the Sovereign Canon — a collection of teachings, oaths, principles, and stories that preserved the soul of the lunar diaspora and guided humanity’s expansion to the stars.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Paid Article Sample Teaser Example</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=4955cf86a18baaed50b847f88c0db06270ae3119ab0d2858e47826828698db57</link>
-      <guid isPermaLink="false">4955cf86a18baaed50b847f88c0db06270ae3119ab0d2858e47826828698db57</guid>
-      <pubDate>Sun, 07 Dec 2025 01:17:25 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 28, 2025): The Bitcoin Chronicles: 1.A.1 - The Last Free Launch from Earth</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2a91d4f1dcb274dfb6b236f66caf45cf00a927f27768ac857aeee16901de613c</link>
-      <guid isPermaLink="false">2a91d4f1dcb274dfb6b236f66caf45cf00a927f27768ac857aeee16901de613c</guid>
-      <pubDate>Sat, 06 Dec 2025 00:04:49 GMT</pubDate>
-      <description><![CDATA[The final sovereign launch leaves Earth without permission, without ceremony, and without return. Pilgrim-1 becomes the first vessel of the diaspora, breaking Earth’s political gravity and marking the beginning of humanity’s irreversible expansion.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Artlce 2 (Dec. 5, 2025): the Bitcoin Chronicles - 1.B.5 - The Free Launch Era: How Luna Became the First Sovereign World</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7bccf994c32f9ee2eabdc43080652006a99fb1bdc49587567c0ba02b3e005b8c</link>
-      <guid isPermaLink="false">7bccf994c32f9ee2eabdc43080652006a99fb1bdc49587567c0ba02b3e005b8c</guid>
-      <pubDate>Fri, 05 Dec 2025 23:28:15 GMT</pubDate>
-      <description><![CDATA[Before Luna Freeport declared its autonomy, a cultural revolution unfolded quietly across the Shackleton Corridor. Known later as the Free Launch Era, this period saw a new kind of civilization take shape—ungoverned, unlicensed, unclaimed by Earth. It was a social and technological metamorphosis born from the Pilgrim missions, and it gave Luna an identity completely different from every lunar settlement that came before.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Dec. 5, 2025): The Bitcoin Chronicles - 1.B.4 - The Pilgrim Program: Nine Launches That Built Two Worlds</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f977b507788df99114680eacf064208950177df12c09f48b6efbdbf95bd6c32f</link>
-      <guid isPermaLink="false">f977b507788df99114680eacf064208950177df12c09f48b6efbdbf95bd6c32f</guid>
-      <pubDate>Fri, 05 Dec 2025 23:25:40 GMT</pubDate>
-      <description><![CDATA[Long before Luna Freeport emerged as a sovereign lunar city-state, a sequence of open-access launches known as the Pilgrim Program quietly reshaped the destiny of humanity. Pilgrim-1 through Pilgrim-8 seeded the lunar frontier and formed the cultural roots of Luna Freeport. Pilgrim-9, the final mission, carried the sovereignty movement outward—toward Mars—and became the genesis of Pilgrim-9 Colony and Martian Bitcoin culture.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

@@ -1,5 +1,93 @@
 [
   {
+    "slug": "-the-long-patience-of-sovereign-systems-2026-01-27",
+    "event_id": "049cb96013299178223fdc9f51ef17bdfcee1de5f3347b0220df3e392a6a3cdf",
+    "created_at": 1769545091,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/049cb96013299178223fdc9f51ef17bdfcee1de5f3347b0220df3e392a6a3cdf.json",
+    "title": "🔒 The Long Patience of Sovereign Systems",
+    "summary": "Sovereign systems are built for independence, not applause. This essay explores why sovereignty requires patience, why it often looks like stagnation from the outside, and why systems that refuse to rush end up outlasting those that do.",
+    "paid": false
+  },
+  {
+    "slug": "why-durable-work-feels-invisible-in-a-world-built-on-noise-2026-01-27",
+    "event_id": "a26b80ba300aec9c6866ddf61f8bfc94a96ec9212a3afbb2bce8f1856858d576",
+    "created_at": 1769544876,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/a26b80ba300aec9c6866ddf61f8bfc94a96ec9212a3afbb2bce8f1856858d576.json",
+    "title": "🔒 Why Durable Work Feels Invisible in a World Built on Noise",
+    "summary": "The most important work often feels unseen, unrewarded, and out of sync with the dominant culture. This essay explores why durable creation rarely receives immediate validation, how attention-driven systems distort our sense of value, and why invisibility is often a sign that you’re building something real.",
+    "paid": false
+  },
+  {
+    "slug": "resilience-is-what-remains-when-optimization-fails-2026-01-27",
+    "event_id": "5c529c6c8b81064b489acbae37cfe95c724f3753946e79cc8df5029042588b49",
+    "created_at": 1769544789,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/5c529c6c8b81064b489acbae37cfe95c724f3753946e79cc8df5029042588b49.json",
+    "title": "🔒 Resilience Is What Remains When Optimization Fails",
+    "summary": "Most modern systems confuse efficiency with strength. This essay explores why optimization creates fragility, how resilience emerges only under constraint, and why the systems that survive are almost always the ones that look inefficient, redundant, or slow—right up until the moment everything else breaks.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "07762c824f403963bbbdced22c50bfca84b67d866ecaa8444d50a77db9858f0c",
+    "created_at": 1769541873,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/07762c824f403963bbbdced22c50bfca84b67d866ecaa8444d50a77db9858f0c.json",
+    "title": "1. Resilience Is Quiet  - 1/27/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "f969829a03b3522f4bae6a8ee8c8aa24748fff997f024b59e03f34d13c9a62a8",
+    "created_at": 1769541791,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/f969829a03b3522f4bae6a8ee8c8aa24748fff997f024b59e03f34d13c9a62a8.json",
+    "title": "2. Resilience Is Built Under Weight - 1/27/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "2d57d6e2c19d76399552af29282d3ac723adf27364210426cc41cbf19b2ef5c6",
+    "created_at": 1769541736,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/2d57d6e2c19d76399552af29282d3ac723adf27364210426cc41cbf19b2ef5c6.json",
+    "title": "3. Resilience Doesn’t Depend on Applause - 1/27/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "b08952b284b664c6d889dff4e06bbc49fe4f9a50a04bb4a4bb65418f9234a184",
+    "created_at": 1769541690,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/b08952b284b664c6d889dff4e06bbc49fe4f9a50a04bb4a4bb65418f9234a184.json",
+    "title": "4. Resilience Is Rooted - 1/27/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "4bc928cd1413cbf8f642e64ab9a4ef7f4ed0b99f77b66bc6237cbf968eb0b2f0",
+    "created_at": 1769541627,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/4bc928cd1413cbf8f642e64ab9a4ef7f4ed0b99f77b66bc6237cbf968eb0b2f0.json",
+    "title": "5. Resilience Respects Time -1/27/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "why-durability-matters-more-than-reach-2026-01-26",
     "event_id": "8144b5759a49f8745d3fc4f6c90e35b1a88ce78fa45a9845e201072f9b14c05e",
     "created_at": 1769465632,

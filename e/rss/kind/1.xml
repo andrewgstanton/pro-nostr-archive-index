@@ -5,7 +5,57 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 26 Jan 2026 22:23:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 20:51:46 GMT</lastBuildDate>
+    <item>
+      <title>1. Resilience Is Quiet  - 1/27/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=07762c824f403963bbbdced22c50bfca84b67d866ecaa8444d50a77db9858f0c</link>
+      <guid isPermaLink="false">07762c824f403963bbbdced22c50bfca84b67d866ecaa8444d50a77db9858f0c</guid>
+      <pubDate>Tue, 27 Jan 2026 19:24:33 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>2. Resilience Is Built Under Weight - 1/27/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f969829a03b3522f4bae6a8ee8c8aa24748fff997f024b59e03f34d13c9a62a8</link>
+      <guid isPermaLink="false">f969829a03b3522f4bae6a8ee8c8aa24748fff997f024b59e03f34d13c9a62a8</guid>
+      <pubDate>Tue, 27 Jan 2026 19:23:11 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>3. Resilience Doesn’t Depend on Applause - 1/27/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2d57d6e2c19d76399552af29282d3ac723adf27364210426cc41cbf19b2ef5c6</link>
+      <guid isPermaLink="false">2d57d6e2c19d76399552af29282d3ac723adf27364210426cc41cbf19b2ef5c6</guid>
+      <pubDate>Tue, 27 Jan 2026 19:22:16 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>4. Resilience Is Rooted - 1/27/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b08952b284b664c6d889dff4e06bbc49fe4f9a50a04bb4a4bb65418f9234a184</link>
+      <guid isPermaLink="false">b08952b284b664c6d889dff4e06bbc49fe4f9a50a04bb4a4bb65418f9234a184</guid>
+      <pubDate>Tue, 27 Jan 2026 19:21:30 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>5. Resilience Respects Time -1/27/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4bc928cd1413cbf8f642e64ab9a4ef7f4ed0b99f77b66bc6237cbf968eb0b2f0</link>
+      <guid isPermaLink="false">4bc928cd1413cbf8f642e64ab9a4ef7f4ed0b99f77b66bc6237cbf968eb0b2f0</guid>
+      <pubDate>Tue, 27 Jan 2026 19:20:27 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Note 4 - 1/26/2026</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=228aebb80ed4121664e3b25311844ffa6664b90977ef4f5313211ba4c23ee266</link>
