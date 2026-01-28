@@ -5,7 +5,27 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 27 Jan 2026 20:51:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 00:59:37 GMT</lastBuildDate>
+    <item>
+      <title>✏️ Notes are now editable in Continuum</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=89288f26c9a8ad92b43546475a9442ac1d822b5df108586c97a63db23f924d51</link>
+      <guid isPermaLink="false">89288f26c9a8ad92b43546475a9442ac1d822b5df108586c97a63db23f924d51</guid>
+      <pubDate>Wed, 28 Jan 2026 00:47:37 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:0 a3f289d3d0</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a3f289d3d0a93cbd9cce4110dea1f734cd19518225037271b9f372658a93ca43</link>
+      <guid isPermaLink="false">a3f289d3d0a93cbd9cce4110dea1f734cd19518225037271b9f372658a93ca43</guid>
+      <pubDate>Wed, 28 Jan 2026 00:40:52 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:0</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 The Long Patience of Sovereign Systems</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=049cb96013299178223fdc9f51ef17bdfcee1de5f3347b0220df3e392a6a3cdf</link>
@@ -453,16 +473,6 @@
       <pubDate>Fri, 23 Jan 2026 20:19:10 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:0 93e44cdcd7</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=93e44cdcd7b7f3cbbd1f67af8a08f530771f28de15864f62b3627c149f146db6</link>
-      <guid isPermaLink="false">93e44cdcd7b7f3cbbd1f67af8a08f530771f28de15864f62b3627c149f146db6</guid>
-      <pubDate>Thu, 22 Jan 2026 20:14:02 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:0</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">2e2225f3ba3f04ea6dffe92b530fda8fb8a561b4b5a9e8cbc511034acf42d059</guid>
       <pubDate>Mon, 08 Dec 2025 03:58:23 GMT</pubDate>
       <description><![CDATA[A raw, honest meditation on staying on the field as a sovereign builder when you’re exhausted, undercapitalized, misunderstood, and still convinced you’re supposed to keep going.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Paid Article (Nov. 14, 2025): The Season of Invisible Work</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0ccf53bd4b5ea175383dc84860fd59b790eecda75924e657d4ff10f2fef4da42</link>
-      <guid isPermaLink="false">0ccf53bd4b5ea175383dc84860fd59b790eecda75924e657d4ff10f2fef4da42</guid>
-      <pubDate>Mon, 08 Dec 2025 03:42:37 GMT</pubDate>
-      <description><![CDATA[A long-form reflection on the hidden, unglamorous stretch that comes right before a breakthrough — the season where your work feels fragile, your efforts feel unseen, and every system seems to resist you. Friday’s discouraging discoveries become the framing for a deeper exploration of sovereignty, endurance, and the quiet discipline required to keep building.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
