@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 28 Jan 2026 00:59:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 18:06:51 GMT</lastBuildDate>
+    <item>
+      <title>✏️ Notes are now editable in Continuum</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=36234ed5d965b3031bed1bcb19aae22a8bd9d813da3cb43c4aed4d5f5a8aa1a0</link>
+      <guid isPermaLink="false">36234ed5d965b3031bed1bcb19aae22a8bd9d813da3cb43c4aed4d5f5a8aa1a0</guid>
+      <pubDate>Wed, 28 Jan 2026 01:36:07 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>✏️ Notes are now editable in Continuum</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=89288f26c9a8ad92b43546475a9442ac1d822b5df108586c97a63db23f924d51</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">d4f4607905d94202c3cf5d8cd3dde4e51ebc3bd7e2b67a589a6b8fa1a737afbe</guid>
       <pubDate>Sun, 30 Nov 2025 19:28:03 GMT</pubDate>
       <description><![CDATA[A reflection on how New Lakota, New Bern, Luna Freeport, and the Belt Stations come together for the 500th anniversary of the Mayflower, marking the first unified Thanksgiving after the UEB Incident.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 26, 2025): The Bitcoin Chronicles: The 500th Crossing: How the Mayflower Memory Lives in Martian Sovereignties</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e05148e03abd02318b90a3dab7d9074807482f5f3961eadeb636a318e14b92df</link>
-      <guid isPermaLink="false">e05148e03abd02318b90a3dab7d9074807482f5f3961eadeb636a318e14b92df</guid>
-      <pubDate>Sun, 30 Nov 2025 19:25:34 GMT</pubDate>
-      <description><![CDATA[A meditation on why the 500th anniversary of the Mayflower resonates so deeply with New Lakota, New Bern, and the Belt enclaves, especially after the Martian referendum and UEB interference]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

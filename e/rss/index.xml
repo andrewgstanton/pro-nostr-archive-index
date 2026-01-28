@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 28 Jan 2026 00:59:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 18:06:51 GMT</lastBuildDate>
+    <item>
+      <title>✏️ Notes are now editable in Continuum</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=36234ed5d965b3031bed1bcb19aae22a8bd9d813da3cb43c4aed4d5f5a8aa1a0</link>
+      <guid isPermaLink="false">36234ed5d965b3031bed1bcb19aae22a8bd9d813da3cb43c4aed4d5f5a8aa1a0</guid>
+      <pubDate>Wed, 28 Jan 2026 01:36:07 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>✏️ Notes are now editable in Continuum</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=89288f26c9a8ad92b43546475a9442ac1d822b5df108586c97a63db23f924d51</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">7f19bb6d4fb9d3b81668362b26a2b9dde404a38974a3455036a36a3e025b8896</guid>
       <pubDate>Mon, 08 Dec 2025 04:09:48 GMT</pubDate>
       <description><![CDATA[Written on our 25th wedding anniversary — a reflection on love, creation, and covenant as the living pattern that sustains both marriage and meaning.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Paid Article (Nov. 13, 2025): When You’re Bone-Tired but Still Called to Build (Field Notes from the Edge of Burnout)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2e2225f3ba3f04ea6dffe92b530fda8fb8a561b4b5a9e8cbc511034acf42d059</link>
-      <guid isPermaLink="false">2e2225f3ba3f04ea6dffe92b530fda8fb8a561b4b5a9e8cbc511034acf42d059</guid>
-      <pubDate>Mon, 08 Dec 2025 03:58:23 GMT</pubDate>
-      <description><![CDATA[A raw, honest meditation on staying on the field as a sovereign builder when you’re exhausted, undercapitalized, misunderstood, and still convinced you’re supposed to keep going.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
