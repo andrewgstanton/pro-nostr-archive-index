@@ -5,7 +5,67 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 28 Jan 2026 18:06:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 20:21:45 GMT</lastBuildDate>
+    <item>
+      <title>Note 5 — Quiet Conviction - 1/28/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=38f6d6b45ea5f2b7fccd211c931afe7977f6c992c6d6dc7a5689fa8ef99d644a</link>
+      <guid isPermaLink="false">38f6d6b45ea5f2b7fccd211c931afe7977f6c992c6d6dc7a5689fa8ef99d644a</guid>
+      <pubDate>Wed, 28 Jan 2026 19:05:05 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 4 — Depth Beats Reach - 1/28/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f25d3856c86a5b4e4460736199a12a7442eb531d497282e31346c1dab4e7b4eb</link>
+      <guid isPermaLink="false">f25d3856c86a5b4e4460736199a12a7442eb531d497282e31346c1dab4e7b4eb</guid>
+      <pubDate>Wed, 28 Jan 2026 19:02:45 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 3 — Rest Is Part of the System - 1/28/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=fa02ae5f6cf5c77c45e3977561dcd95858042608a57d6dc4ec8bc40c9c2c77e5</link>
+      <guid isPermaLink="false">fa02ae5f6cf5c77c45e3977561dcd95858042608a57d6dc4ec8bc40c9c2c77e5</guid>
+      <pubDate>Wed, 28 Jan 2026 19:01:39 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 2 — When Silence Isn’t Failure - 1/28/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3001885922e4955ed787d3c6b27876ea1fba1cb66d3488f966eed8f86725c6b0</link>
+      <guid isPermaLink="false">3001885922e4955ed787d3c6b27876ea1fba1cb66d3488f966eed8f86725c6b0</guid>
+      <pubDate>Wed, 28 Jan 2026 19:00:34 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 1 — Resilience Is Not Loud - 1/28/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=988bc861bf2679fa3dd418d44246998d70a362eecb3c8203c882acd2d3dd93a2</link>
+      <guid isPermaLink="false">988bc861bf2679fa3dd418d44246998d70a362eecb3c8203c882acd2d3dd93a2</guid>
+      <pubDate>Wed, 28 Jan 2026 18:59:01 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 b1188b2c51</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b1188b2c51743397dc3d33cf0944a2c8a0be569ddf38e15b67302b48988407a6</link>
+      <guid isPermaLink="false">b1188b2c51743397dc3d33cf0944a2c8a0be569ddf38e15b67302b48988407a6</guid>
+      <pubDate>Wed, 28 Jan 2026 18:55:57 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>✏️ Notes are now editable in Continuum</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=36234ed5d965b3031bed1bcb19aae22a8bd9d813da3cb43c4aed4d5f5a8aa1a0</link>

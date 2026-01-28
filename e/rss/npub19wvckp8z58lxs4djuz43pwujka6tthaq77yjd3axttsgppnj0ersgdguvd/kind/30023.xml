@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 28 Jan 2026 18:06:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 20:21:45 GMT</lastBuildDate>
+    <item>
+      <title>🔒 The Cost of Depending on Systems You Don’t Control</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=18232545418eb1c582d30f25b8c66f89543790f8c8849a39df4da171300429e1</link>
+      <guid isPermaLink="false">18232545418eb1c582d30f25b8c66f89543790f8c8849a39df4da171300429e1</guid>
+      <pubDate>Wed, 28 Jan 2026 19:45:37 GMT</pubDate>
+      <description><![CDATA[Convenience always has a price. This essay examines the hidden costs of outsourcing identity, memory, and agency to systems you do not control — and why reclaiming them is becoming less optional with time.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Why Quiet Builders Win in the End</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=403a2e0788815851508304fd8073c611164c5d304cdcb66c69bb4af45dd7c718</link>
+      <guid isPermaLink="false">403a2e0788815851508304fd8073c611164c5d304cdcb66c69bb4af45dd7c718</guid>
+      <pubDate>Wed, 28 Jan 2026 19:44:30 GMT</pubDate>
+      <description><![CDATA[In an economy obsessed with visibility and velocity, quiet builders are often dismissed as irrelevant. This piece argues the opposite: that those who build slowly, privately, and deliberately are the ones best positioned for durability when conditions tighten.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Resilience Is a Design Choice</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a9928ab87e2ddd24034450699f92deb3dde0c06b1e43d6045eb8e361bece36d3</link>
+      <guid isPermaLink="false">a9928ab87e2ddd24034450699f92deb3dde0c06b1e43d6045eb8e361bece36d3</guid>
+      <pubDate>Wed, 28 Jan 2026 19:17:51 GMT</pubDate>
+      <description><![CDATA[Resilience does not emerge accidentally. It is the result of deliberate trade-offs made long before pressure arrives. This essay explores why resilient systems often look inefficient, underwhelming, or even unsuccessful — right up until they outlast everything else.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 The Long Patience of Sovereign Systems</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=049cb96013299178223fdc9f51ef17bdfcee1de5f3347b0220df3e392a6a3cdf</link>
@@ -4982,36 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">b42f0534703c9bdbdb7fb04c8c795a6190f9098497bc39bdc7b111a53c303a81</guid>
       <pubDate>Fri, 10 Oct 2025 22:03:20 GMT</pubDate>
       <description><![CDATA[Endurance isn’t glamorous. It doesn’t trend, and it doesn’t shout. Yet it’s one of the most revolutionary virtues in a world obsessed with instant results. To endure is to refuse collapse — to hold faith quietly, while the world demands performance.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Oct. 10, 2025): Bitcoin, Loss, and Legacy</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=92cfd6e826f03993f2705eadab0a45f902b4cbfa74486711896ba2eaa09ba357</link>
-      <guid isPermaLink="false">92cfd6e826f03993f2705eadab0a45f902b4cbfa74486711896ba2eaa09ba357</guid>
-      <pubDate>Fri, 10 Oct 2025 22:01:39 GMT</pubDate>
-      <description><![CDATA[Loss has a strange way of teaching us permanence. Bitcoin becomes a mirror for that truth — a network that outlives its participants, just as love and conviction outlive the people who carry them. Legacy is proof-of-work written across generations.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Sept. 26): The Rebuilders: What Comes After Collapse</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6a3c6932115b5aa0c62155df19ac41c16055154a56c7bd8dadea8e1b056b90b9</link>
-      <guid isPermaLink="false">6a3c6932115b5aa0c62155df19ac41c16055154a56c7bd8dadea8e1b056b90b9</guid>
-      <pubDate>Fri, 10 Oct 2025 20:46:01 GMT</pubDate>
-      <description><![CDATA[After every collapse, there come rebuilders — ordinary people who restore what matters by living honestly and simply. This piece honors those who rebuild not with slogans or wealth but with integrity. The new world, Andrew reminds us, begins wherever one life turns toward light.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Sept. 26, 2025): Hope After the Ashes</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=359af1dcfc0b5ccf4e0803f286588d985cb17a0769c171af3182bec1937c3d6d</link>
-      <guid isPermaLink="false">359af1dcfc0b5ccf4e0803f286588d985cb17a0769c171af3182bec1937c3d6d</guid>
-      <pubDate>Fri, 10 Oct 2025 20:43:36 GMT</pubDate>
-      <description><![CDATA[Hope is not optimism but defiance — the stubborn belief that even after the worst loss, life will rise again. Standing amid the ashes of grief, Andrew reflects on the kind of hope that outlasts death, systems, and despair — the quiet trust that nothing true is ever gone.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 28 Jan 2026 18:06:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 20:21:45 GMT</lastBuildDate>
+    <item>
+      <title>🔒 The Cost of Depending on Systems You Don’t Control</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=18232545418eb1c582d30f25b8c66f89543790f8c8849a39df4da171300429e1</link>
+      <guid isPermaLink="false">18232545418eb1c582d30f25b8c66f89543790f8c8849a39df4da171300429e1</guid>
+      <pubDate>Wed, 28 Jan 2026 19:45:37 GMT</pubDate>
+      <description><![CDATA[Convenience always has a price. This essay examines the hidden costs of outsourcing identity, memory, and agency to systems you do not control — and why reclaiming them is becoming less optional with time.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Why Quiet Builders Win in the End</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=403a2e0788815851508304fd8073c611164c5d304cdcb66c69bb4af45dd7c718</link>
+      <guid isPermaLink="false">403a2e0788815851508304fd8073c611164c5d304cdcb66c69bb4af45dd7c718</guid>
+      <pubDate>Wed, 28 Jan 2026 19:44:30 GMT</pubDate>
+      <description><![CDATA[In an economy obsessed with visibility and velocity, quiet builders are often dismissed as irrelevant. This piece argues the opposite: that those who build slowly, privately, and deliberately are the ones best positioned for durability when conditions tighten.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Resilience Is a Design Choice</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a9928ab87e2ddd24034450699f92deb3dde0c06b1e43d6045eb8e361bece36d3</link>
+      <guid isPermaLink="false">a9928ab87e2ddd24034450699f92deb3dde0c06b1e43d6045eb8e361bece36d3</guid>
+      <pubDate>Wed, 28 Jan 2026 19:17:51 GMT</pubDate>
+      <description><![CDATA[Resilience does not emerge accidentally. It is the result of deliberate trade-offs made long before pressure arrives. This essay explores why resilient systems often look inefficient, underwhelming, or even unsuccessful — right up until they outlast everything else.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 The Long Patience of Sovereign Systems</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=049cb96013299178223fdc9f51ef17bdfcee1de5f3347b0220df3e392a6a3cdf</link>
@@ -4982,36 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">41737d7f8d4d6ac4ddd3f1369de5956495798b453408d89fc5f47df0460e8973</guid>
       <pubDate>Mon, 20 Oct 2025 02:18:57 GMT</pubDate>
       <description><![CDATA[A meditation on endurance as the truest form of faith.  From the persistence of ancient covenants to the incorruptible logic of Bitcoin, endurance becomes the act by which truth, community, and creation stay aligned.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Sept. 30, 2025) : Work That Endures</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2bc889ba62e9c78636e378f4f5628dd28d7b0c996c9d79048b0885e808cd616c</link>
-      <guid isPermaLink="false">2bc889ba62e9c78636e378f4f5628dd28d7b0c996c9d79048b0885e808cd616c</guid>
-      <pubDate>Sat, 18 Oct 2025 22:44:21 GMT</pubDate>
-      <description><![CDATA[A quiet, retrospective reflection written after returning home to San Francisco, capturing the moment when grief began to shift into understanding. The essay honors the tangible legacy of Andrew Stanton’s father—his patience, reliability, and enduring craftsmanship—and draws a parallel to the author’s own mission with Continuum: to preserve meaning and faithfulness across time.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Sept. 30, 2025): Stillness After the Storm</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6e991421c30ef5f91fbc89da8a69f395e3df027950d2b75369778f697b16e7bb</link>
-      <guid isPermaLink="false">6e991421c30ef5f91fbc89da8a69f395e3df027950d2b75369778f697b16e7bb</guid>
-      <pubDate>Sat, 18 Oct 2025 22:22:17 GMT</pubDate>
-      <description><![CDATA[The morning after my father’s passing, the world felt heavy yet newly clear. This piece sits in that stillness—where the body remembers motion but the heart is asked to rest. It is about letting silence teach what words cannot.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Oct. 12, 2025): Nostr for Real People, Not Power Users</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9313c0d03ab1f7914c29bee1a05225ce5019386003333a7b4bdb2515128ee88c</link>
-      <guid isPermaLink="false">9313c0d03ab1f7914c29bee1a05225ce5019386003333a7b4bdb2515128ee88c</guid>
-      <pubDate>Sat, 18 Oct 2025 22:09:48 GMT</pubDate>
-      <description><![CDATA[Nostr isn’t just for coders and maximalists. It’s for anyone who wants to own their identity online without turning life into a tech project. This piece explains the heart of Nostr in human terms: presence without permission.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

@@ -5,7 +5,97 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 28 Jan 2026 18:06:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 20:21:45 GMT</lastBuildDate>
+    <item>
+      <title>🔒 The Cost of Depending on Systems You Don’t Control</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=18232545418eb1c582d30f25b8c66f89543790f8c8849a39df4da171300429e1</link>
+      <guid isPermaLink="false">18232545418eb1c582d30f25b8c66f89543790f8c8849a39df4da171300429e1</guid>
+      <pubDate>Wed, 28 Jan 2026 19:45:37 GMT</pubDate>
+      <description><![CDATA[Convenience always has a price. This essay examines the hidden costs of outsourcing identity, memory, and agency to systems you do not control — and why reclaiming them is becoming less optional with time.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Why Quiet Builders Win in the End</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=403a2e0788815851508304fd8073c611164c5d304cdcb66c69bb4af45dd7c718</link>
+      <guid isPermaLink="false">403a2e0788815851508304fd8073c611164c5d304cdcb66c69bb4af45dd7c718</guid>
+      <pubDate>Wed, 28 Jan 2026 19:44:30 GMT</pubDate>
+      <description><![CDATA[In an economy obsessed with visibility and velocity, quiet builders are often dismissed as irrelevant. This piece argues the opposite: that those who build slowly, privately, and deliberately are the ones best positioned for durability when conditions tighten.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Resilience Is a Design Choice</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a9928ab87e2ddd24034450699f92deb3dde0c06b1e43d6045eb8e361bece36d3</link>
+      <guid isPermaLink="false">a9928ab87e2ddd24034450699f92deb3dde0c06b1e43d6045eb8e361bece36d3</guid>
+      <pubDate>Wed, 28 Jan 2026 19:17:51 GMT</pubDate>
+      <description><![CDATA[Resilience does not emerge accidentally. It is the result of deliberate trade-offs made long before pressure arrives. This essay explores why resilient systems often look inefficient, underwhelming, or even unsuccessful — right up until they outlast everything else.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 5 — Quiet Conviction - 1/28/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=38f6d6b45ea5f2b7fccd211c931afe7977f6c992c6d6dc7a5689fa8ef99d644a</link>
+      <guid isPermaLink="false">38f6d6b45ea5f2b7fccd211c931afe7977f6c992c6d6dc7a5689fa8ef99d644a</guid>
+      <pubDate>Wed, 28 Jan 2026 19:05:05 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 4 — Depth Beats Reach - 1/28/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f25d3856c86a5b4e4460736199a12a7442eb531d497282e31346c1dab4e7b4eb</link>
+      <guid isPermaLink="false">f25d3856c86a5b4e4460736199a12a7442eb531d497282e31346c1dab4e7b4eb</guid>
+      <pubDate>Wed, 28 Jan 2026 19:02:45 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 3 — Rest Is Part of the System - 1/28/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=fa02ae5f6cf5c77c45e3977561dcd95858042608a57d6dc4ec8bc40c9c2c77e5</link>
+      <guid isPermaLink="false">fa02ae5f6cf5c77c45e3977561dcd95858042608a57d6dc4ec8bc40c9c2c77e5</guid>
+      <pubDate>Wed, 28 Jan 2026 19:01:39 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 2 — When Silence Isn’t Failure - 1/28/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3001885922e4955ed787d3c6b27876ea1fba1cb66d3488f966eed8f86725c6b0</link>
+      <guid isPermaLink="false">3001885922e4955ed787d3c6b27876ea1fba1cb66d3488f966eed8f86725c6b0</guid>
+      <pubDate>Wed, 28 Jan 2026 19:00:34 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 1 — Resilience Is Not Loud - 1/28/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=988bc861bf2679fa3dd418d44246998d70a362eecb3c8203c882acd2d3dd93a2</link>
+      <guid isPermaLink="false">988bc861bf2679fa3dd418d44246998d70a362eecb3c8203c882acd2d3dd93a2</guid>
+      <pubDate>Wed, 28 Jan 2026 18:59:01 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 b1188b2c51</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b1188b2c51743397dc3d33cf0944a2c8a0be569ddf38e15b67302b48988407a6</link>
+      <guid isPermaLink="false">b1188b2c51743397dc3d33cf0944a2c8a0be569ddf38e15b67302b48988407a6</guid>
+      <pubDate>Wed, 28 Jan 2026 18:55:57 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>✏️ Notes are now editable in Continuum</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=36234ed5d965b3031bed1bcb19aae22a8bd9d813da3cb43c4aed4d5f5a8aa1a0</link>
@@ -4912,96 +5002,6 @@
       <guid isPermaLink="false">70d14492a77a9594109c0010471b75dd00653031707a15a04bea533cdb3f35b7</guid>
       <pubDate>Tue, 09 Dec 2025 04:34:37 GMT</pubDate>
       <description><![CDATA[On Mars, truth is not a virtue — it is survival. The Martian Reckoners arose from the harsh realities of Pilgrim-9 Colony, becoming the most trusted and feared guild in the Red World. Part auditors, part historians, part cryptographic monks, the Reckoners built a culture where settlement, memory, and governance all hinge on uncompromising truth. Their calculations, rituals, and signatures shaped the future of Martian sovereignty.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒  Paid Article (Day 5 - Aug. 28, 2025) : The Bitcoin Chronicles: Life on Mars: Building a Bitcoin Settlement on the Red Frontier</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0d80bee682c3a7cc45b8bc67aa565765f81902a658e174e08e0f6ccb359d5e69</link>
-      <guid isPermaLink="false">0d80bee682c3a7cc45b8bc67aa565765f81902a658e174e08e0f6ccb359d5e69</guid>
-      <pubDate>Tue, 09 Dec 2025 02:40:57 GMT</pubDate>
-      <description><![CDATA[Mars won’t run on credit cards or central banks — settlers will build a Bitcoin-based economy where Lightning powers daily life and Earth-mainnet ensures long-term settlement.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Day 4 - Aug. 27, 2025) : The Bitcoin Chronicles : The First Lunar Economy: Life on Sats in a Moon Colony</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7d13b0455e573dceab7098b3638bb21ad0ce71bbc02299d85293310059637fe5</link>
-      <guid isPermaLink="false">7d13b0455e573dceab7098b3638bb21ad0ce71bbc02299d85293310059637fe5</guid>
-      <pubDate>Tue, 09 Dec 2025 02:29:25 GMT</pubDate>
-      <description><![CDATA[A day in the life of living in a moon colony, where transactions are denominated in sats]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Day 3 – Aug. 26, 2025): Identity: Why npubs Beat Usernames</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5d1c243f5a5789a495b0ad633fda2b78cc7fa93977cae9f456240f69f6e7d60d</link>
-      <guid isPermaLink="false">5d1c243f5a5789a495b0ad633fda2b78cc7fa93977cae9f456240f69f6e7d60d</guid>
-      <pubDate>Tue, 09 Dec 2025 01:26:59 GMT</pubDate>
-      <description><![CDATA[Owning your identity vs. renting it from platforms — and why npubs are passports, not costumes.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Bitcoin as Treasury, Not Trade</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ced6220635074611b4bd4ae8d45f1ffcf2af63bfb05c9dcbcc7076398fc9257b</link>
-      <guid isPermaLink="false">ced6220635074611b4bd4ae8d45f1ffcf2af63bfb05c9dcbcc7076398fc9257b</guid>
-      <pubDate>Tue, 09 Dec 2025 00:58:03 GMT</pubDate>
-      <description><![CDATA[Why I denominate wealth in Bitcoin instead of chasing endless fiat gains — and why treasury design, not trading skill, defines sovereignty.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Two Faces of Babylon: Amoral Power, Immoral Consequences</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=65298e0f3e7b1076aa73692ede13e66534c406ff1ed0289308215728b4df484a</link>
-      <guid isPermaLink="false">65298e0f3e7b1076aa73692ede13e66534c406ff1ed0289308215728b4df484a</guid>
-      <pubDate>Mon, 08 Dec 2025 17:22:41 GMT</pubDate>
-      <description><![CDATA[Babylon is not a conspiracy or a cabal—it is a system whose amoral logic produces profoundly immoral outcomes. Its power lies not in overt oppression but in the subtle ways it rewards compliance, punishes sovereignty, and shapes identity. This essay explains why good, decent people—including those closest to us—remain within Babylon without realizing the cost.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Dec. 7, 2025): the Bitcoin Chronicles - 1.B.9 - The Great Archive Migration</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c5489b0fb248b486c852bb668656a3f4b6ba1108197b648f0439b57cd721ba3c</link>
-      <guid isPermaLink="false">c5489b0fb248b486c852bb668656a3f4b6ba1108197b648f0439b57cd721ba3c</guid>
-      <pubDate>Mon, 08 Dec 2025 05:49:11 GMT</pubDate>
-      <description><![CDATA[When Earth began rewriting history after the Exodus Protocol leak, Luna Freeport responded with one of the most ambitious cultural projects in human history: relocating, preserving, and expanding the entire Sovereign Archive into a vast, subterranean knowledge sanctuary beneath the Shackleton region.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Dec. 4, 2025): The Bitcoin Chronicles -  1.C.1 - Terraformers Of The Ledger</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0ce9aafd475feba03f485c3bba331f34588003d3f8c5ced9296a871d299cd0ce</link>
-      <guid isPermaLink="false">0ce9aafd475feba03f485c3bba331f34588003d3f8c5ced9296a871d299cd0ce</guid>
-      <pubDate>Mon, 08 Dec 2025 05:46:06 GMT</pubDate>
-      <description><![CDATA[While engineers and botanists shaped the soil of early Mars, a parallel group shaped something equally important — the economic soil. This is the story of the first Martian “ledger architects,” who learned that sovereignty wasn’t only physical, but cryptographic.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sunday Article (Dec. 7, 2025): The Bitcoin Chronicles - 1.C.3 - The Red Charter</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c4aa5b6ac2d88897a9399014dbbc61f933171bfd1b4e9eb446f964476d2f553e</link>
-      <guid isPermaLink="false">c4aa5b6ac2d88897a9399014dbbc61f933171bfd1b4e9eb446f964476d2f553e</guid>
-      <pubDate>Mon, 08 Dec 2025 05:38:53 GMT</pubDate>
-      <description><![CDATA[The settlers of Pilgrim-9 did not intend to draft a constitution. They intended to survive. But as the Terraformers, Reckoners, guild engineers, and Lakota ethicists forged a new world on Martian soil, a shared ethos emerged — shaped by hardship, truth, and the Sovereign Canon they carried from Luna. The Red Charter became the first Martian declaration of identity, sovereignty, and purpose.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Paid Article (Nov. 11, 2025): The Covenant of Creation</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7f19bb6d4fb9d3b81668362b26a2b9dde404a38974a3455036a36a3e025b8896</link>
-      <guid isPermaLink="false">7f19bb6d4fb9d3b81668362b26a2b9dde404a38974a3455036a36a3e025b8896</guid>
-      <pubDate>Mon, 08 Dec 2025 04:09:48 GMT</pubDate>
-      <description><![CDATA[Written on our 25th wedding anniversary — a reflection on love, creation, and covenant as the living pattern that sustains both marriage and meaning.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

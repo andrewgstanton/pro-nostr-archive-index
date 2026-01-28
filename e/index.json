@@ -1,5 +1,104 @@
 [
   {
+    "slug": "the-cost-of-depending-on-systems-you-dont-control-2026-01-28",
+    "event_id": "18232545418eb1c582d30f25b8c66f89543790f8c8849a39df4da171300429e1",
+    "created_at": 1769629537,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/18232545418eb1c582d30f25b8c66f89543790f8c8849a39df4da171300429e1.json",
+    "title": "🔒 The Cost of Depending on Systems You Don’t Control",
+    "summary": "Convenience always has a price. This essay examines the hidden costs of outsourcing identity, memory, and agency to systems you do not control — and why reclaiming them is becoming less optional with time.",
+    "paid": false
+  },
+  {
+    "slug": "why-quiet-builders-win-in-the-end-2026-01-28",
+    "event_id": "403a2e0788815851508304fd8073c611164c5d304cdcb66c69bb4af45dd7c718",
+    "created_at": 1769629470,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/403a2e0788815851508304fd8073c611164c5d304cdcb66c69bb4af45dd7c718.json",
+    "title": "🔒 Why Quiet Builders Win in the End",
+    "summary": "In an economy obsessed with visibility and velocity, quiet builders are often dismissed as irrelevant. This piece argues the opposite: that those who build slowly, privately, and deliberately are the ones best positioned for durability when conditions tighten.",
+    "paid": false
+  },
+  {
+    "slug": "resilience-is-a-design-choice-2026-01-28",
+    "event_id": "a9928ab87e2ddd24034450699f92deb3dde0c06b1e43d6045eb8e361bece36d3",
+    "created_at": 1769627871,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/a9928ab87e2ddd24034450699f92deb3dde0c06b1e43d6045eb8e361bece36d3.json",
+    "title": "🔒 Resilience Is a Design Choice",
+    "summary": "Resilience does not emerge accidentally. It is the result of deliberate trade-offs made long before pressure arrives. This essay explores why resilient systems often look inefficient, underwhelming, or even unsuccessful — right up until they outlast everything else.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "38f6d6b45ea5f2b7fccd211c931afe7977f6c992c6d6dc7a5689fa8ef99d644a",
+    "created_at": 1769627105,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/38f6d6b45ea5f2b7fccd211c931afe7977f6c992c6d6dc7a5689fa8ef99d644a.json",
+    "title": "Note 5 — Quiet Conviction - 1/28/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "f25d3856c86a5b4e4460736199a12a7442eb531d497282e31346c1dab4e7b4eb",
+    "created_at": 1769626965,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/f25d3856c86a5b4e4460736199a12a7442eb531d497282e31346c1dab4e7b4eb.json",
+    "title": "Note 4 — Depth Beats Reach - 1/28/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "fa02ae5f6cf5c77c45e3977561dcd95858042608a57d6dc4ec8bc40c9c2c77e5",
+    "created_at": 1769626899,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/fa02ae5f6cf5c77c45e3977561dcd95858042608a57d6dc4ec8bc40c9c2c77e5.json",
+    "title": "Note 3 — Rest Is Part of the System - 1/28/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "3001885922e4955ed787d3c6b27876ea1fba1cb66d3488f966eed8f86725c6b0",
+    "created_at": 1769626834,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/3001885922e4955ed787d3c6b27876ea1fba1cb66d3488f966eed8f86725c6b0.json",
+    "title": "Note 2 — When Silence Isn’t Failure - 1/28/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "988bc861bf2679fa3dd418d44246998d70a362eecb3c8203c882acd2d3dd93a2",
+    "created_at": 1769626741,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/988bc861bf2679fa3dd418d44246998d70a362eecb3c8203c882acd2d3dd93a2.json",
+    "title": "Note 1 — Resilience Is Not Loud - 1/28/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "b1188b2c51743397dc3d33cf0944a2c8a0be569ddf38e15b67302b48988407a6",
+    "created_at": 1769626557,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/b1188b2c51743397dc3d33cf0944a2c8a0be569ddf38e15b67302b48988407a6.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": null,
     "event_id": "36234ed5d965b3031bed1bcb19aae22a8bd9d813da3cb43c4aed4d5f5a8aa1a0",
     "created_at": 1769564167,
