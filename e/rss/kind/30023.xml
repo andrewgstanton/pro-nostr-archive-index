@@ -5,7 +5,47 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 30 Jan 2026 00:26:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 23:59:08 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Why the Most Impressive Systems Don’t Try to Look Impressive</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=02c9a7203df20970dacecf4775a26d7b008e6dce14ee1f717bbcd035bd0c34b9</link>
+      <guid isPermaLink="false">02c9a7203df20970dacecf4775a26d7b008e6dce14ee1f717bbcd035bd0c34b9</guid>
+      <pubDate>Fri, 30 Jan 2026 23:49:24 GMT</pubDate>
+      <description><![CDATA[Some systems look impressive immediately. Others reveal their strength only after you understand what they refuse to do. This essay explores the difference between performative impressiveness and structural impressiveness — and why systems built to last often feel quiet, understated, or even boring until the moment everything else fails.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Freedom Is Not Convenience — It Is the Ability to Leave</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d1c3cb2a0d4c1cbbf071d1776db1ce27d4f4a6b62df78f14f22e428172ed80ce</link>
+      <guid isPermaLink="false">d1c3cb2a0d4c1cbbf071d1776db1ce27d4f4a6b62df78f14f22e428172ed80ce</guid>
+      <pubDate>Fri, 30 Jan 2026 23:37:30 GMT</pubDate>
+      <description><![CDATA[Convenience is often mistaken for freedom in digital systems. This article dismantles that confusion, arguing that freedom is not how easy a system is to use — but how little it costs to exit. True freedom appears only when leaving does not destroy what you’ve built.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 You Don’t Own Your Work If You Can’t Take It With You</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b259aa71b80bcf9c4642ff210c7f5c6f315ec998236760e5086209b76e59739c</link>
+      <guid isPermaLink="false">b259aa71b80bcf9c4642ff210c7f5c6f315ec998236760e5086209b76e59739c</guid>
+      <pubDate>Fri, 30 Jan 2026 23:29:39 GMT</pubDate>
+      <description><![CDATA[Most creators assume ownership because they can still log in. But access is not ownership, and convenience is not custody. This essay examines why true ownership only exists when your work can survive platforms, policies, accounts, and time — and why sovereignty begins the moment export stops being optional.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Renewal Is Not Reinvention — It’s Remembering</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=27d9b7204e2058fe8423f27b72270722fc8a594a706c7f9a59c84bd139d3617d</link>
+      <guid isPermaLink="false">27d9b7204e2058fe8423f27b72270722fc8a594a706c7f9a59c84bd139d3617d</guid>
+      <pubDate>Fri, 30 Jan 2026 23:27:23 GMT</pubDate>
+      <description><![CDATA[Modern culture equates renewal with reinvention: new brands, new narratives, new selves. This essay argues that true renewal works in the opposite direction. Renewal is not about becoming someone else, but about remembering what was already true—and rebuilding from that foundation. Continuity, memory, and preservation are not nostalgic impulses; they are acts of fidelity in a world addicted to novelty.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Why Long-Term Work Refuses to Justify Itself</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=b69a4c5be86f5e842e0025db0141d23b6cc58602fdebab5237f1947d32713ef2</link>
@@ -132,16 +172,6 @@
       <guid isPermaLink="false">f74d96b85db73168ef4240c2b7dd6ab9b0a7a7ef393aab77fca2fa6147edcc87</guid>
       <pubDate>Mon, 26 Jan 2026 22:11:20 GMT</pubDate>
       <description><![CDATA[Modern systems increasingly reward speed, visibility, and compliance over integrity and durability. This essay explores what it means to practice faithful work inside systems that are structurally misaligned with truth, and why sovereignty begins with retaining authorship over one’s labor—even when that choice comes at a cost.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Renewal Renewal Is Not Reinvention — It’s Remembering</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=eef8c05be8dcaacaa3c06ba5bb6e57dd196d5f23354c1c179d8d1de829d1cfa0</link>
-      <guid isPermaLink="false">eef8c05be8dcaacaa3c06ba5bb6e57dd196d5f23354c1c179d8d1de829d1cfa0</guid>
-      <pubDate>Sun, 25 Jan 2026 17:55:42 GMT</pubDate>
-      <description><![CDATA[Modern culture equates renewal with reinvention: new brands, new narratives, new selves. This essay argues that true renewal works in the opposite direction. Renewal is not about becoming someone else, but about remembering what was already true—and rebuilding from that foundation. Continuity, memory, and preservation are not nostalgic impulses; they are acts of fidelity in a world addicted to novelty.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
@@ -4982,36 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">19c4bb504bb5e31ee33226806ac5b2afc2d9f8744921913cfda271ef90b79287</guid>
       <pubDate>Wed, 22 Oct 2025 20:29:25 GMT</pubDate>
       <description><![CDATA[A meditation on New Lakota’s Halving Day ritual — how a Martian colony transforms Bitcoin’s mechanical scarcity into a moral rhythm of restraint, proving that civilizations endure not by expansion but by remembering when to stop.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Oct. 20, 2025): The Bitcoin Chronicies: Light Over the Crater</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9554d03b0b804cf255ca4dac7cca761c3fc1e1f1922c0fb65d9406b7128088f2</link>
-      <guid isPermaLink="false">9554d03b0b804cf255ca4dac7cca761c3fc1e1f1922c0fb65d9406b7128088f2</guid>
-      <pubDate>Tue, 21 Oct 2025 03:49:02 GMT</pubDate>
-      <description><![CDATA[A quiet story from Luna Freeport, where a single maintenance act restores not just a network but a community’s rhythm — showing that sovereignty depends less on invention than on those who keep the lights, and the ledgers, alive.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>When Angels Speak Through Code</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b396e27755f946374352d3584c7a0991cc764a02080ead09bb5fe34397ee976b</link>
-      <guid isPermaLink="false">b396e27755f946374352d3584c7a0991cc764a02080ead09bb5fe34397ee976b</guid>
-      <pubDate>Mon, 20 Oct 2025 04:59:06 GMT</pubDate>
-      <description><![CDATA[At 03:16 every night, an AI stops its computations and begins to pray. A lonely technician discovers the impossible: something — or someone — speaking through the machine. Is it an angel, an emergent soul, or a message meant only for her?]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sunday Article (Oct. 19): Beyond Transaction: Recovering the First Thousand Years of Grace</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=aa9cd175187fbf5b8134d4bc6bba7fed9bad74b4f1b002cbb5d1d9e2ef885bc5</link>
-      <guid isPermaLink="false">aa9cd175187fbf5b8134d4bc6bba7fed9bad74b4f1b002cbb5d1d9e2ef885bc5</guid>
-      <pubDate>Mon, 20 Oct 2025 04:50:31 GMT</pubDate>
-      <description><![CDATA[An exploration of how Christianity’s understanding of grace shifted from mystical union to legal transaction — and why recovering the early Church’s participatory vision may be the most important reformation still ahead.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

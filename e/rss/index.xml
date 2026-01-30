@@ -5,7 +5,107 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 30 Jan 2026 00:26:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 23:59:08 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Why the Most Impressive Systems Don’t Try to Look Impressive</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=02c9a7203df20970dacecf4775a26d7b008e6dce14ee1f717bbcd035bd0c34b9</link>
+      <guid isPermaLink="false">02c9a7203df20970dacecf4775a26d7b008e6dce14ee1f717bbcd035bd0c34b9</guid>
+      <pubDate>Fri, 30 Jan 2026 23:49:24 GMT</pubDate>
+      <description><![CDATA[Some systems look impressive immediately. Others reveal their strength only after you understand what they refuse to do. This essay explores the difference between performative impressiveness and structural impressiveness — and why systems built to last often feel quiet, understated, or even boring until the moment everything else fails.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Freedom Is Not Convenience — It Is the Ability to Leave</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d1c3cb2a0d4c1cbbf071d1776db1ce27d4f4a6b62df78f14f22e428172ed80ce</link>
+      <guid isPermaLink="false">d1c3cb2a0d4c1cbbf071d1776db1ce27d4f4a6b62df78f14f22e428172ed80ce</guid>
+      <pubDate>Fri, 30 Jan 2026 23:37:30 GMT</pubDate>
+      <description><![CDATA[Convenience is often mistaken for freedom in digital systems. This article dismantles that confusion, arguing that freedom is not how easy a system is to use — but how little it costs to exit. True freedom appears only when leaving does not destroy what you’ve built.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 You Don’t Own Your Work If You Can’t Take It With You</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b259aa71b80bcf9c4642ff210c7f5c6f315ec998236760e5086209b76e59739c</link>
+      <guid isPermaLink="false">b259aa71b80bcf9c4642ff210c7f5c6f315ec998236760e5086209b76e59739c</guid>
+      <pubDate>Fri, 30 Jan 2026 23:29:39 GMT</pubDate>
+      <description><![CDATA[Most creators assume ownership because they can still log in. But access is not ownership, and convenience is not custody. This essay examines why true ownership only exists when your work can survive platforms, policies, accounts, and time — and why sovereignty begins the moment export stops being optional.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Renewal Is Not Reinvention — It’s Remembering</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=27d9b7204e2058fe8423f27b72270722fc8a594a706c7f9a59c84bd139d3617d</link>
+      <guid isPermaLink="false">27d9b7204e2058fe8423f27b72270722fc8a594a706c7f9a59c84bd139d3617d</guid>
+      <pubDate>Fri, 30 Jan 2026 23:27:23 GMT</pubDate>
+      <description><![CDATA[Modern culture equates renewal with reinvention: new brands, new narratives, new selves. This essay argues that true renewal works in the opposite direction. Renewal is not about becoming someone else, but about remembering what was already true—and rebuilding from that foundation. Continuity, memory, and preservation are not nostalgic impulses; they are acts of fidelity in a world addicted to novelty.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 5 - 1/30/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5ca3cf1a7d694ae4a6587598d2383dda08973ed4e7fea108ba2231c689c4d7aa</link>
+      <guid isPermaLink="false">5ca3cf1a7d694ae4a6587598d2383dda08973ed4e7fea108ba2231c689c4d7aa</guid>
+      <pubDate>Fri, 30 Jan 2026 20:45:45 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 4 - 1/30/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d7161f55e41de7b3ddcee021d8ea1c97c530010c78c7e5502f421ea25b46f4cd</link>
+      <guid isPermaLink="false">d7161f55e41de7b3ddcee021d8ea1c97c530010c78c7e5502f421ea25b46f4cd</guid>
+      <pubDate>Fri, 30 Jan 2026 20:44:35 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 3 - 1/30/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3c3ec7a3f30e085c27d07ef37f00bc3af952f6789704d608472607e651f8fd36</link>
+      <guid isPermaLink="false">3c3ec7a3f30e085c27d07ef37f00bc3af952f6789704d608472607e651f8fd36</guid>
+      <pubDate>Fri, 30 Jan 2026 20:42:48 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 2 - 1/30/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b8b2e30afbcdc64bccd3ce70cffeebbe1201c587bfeaaca7499d6890b8673a71</link>
+      <guid isPermaLink="false">b8b2e30afbcdc64bccd3ce70cffeebbe1201c587bfeaaca7499d6890b8673a71</guid>
+      <pubDate>Fri, 30 Jan 2026 20:40:18 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 1 - 1/30/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7b5a63b986d48e7cebbf92919b23e28ea4c088c19db11a439fca3f345e9e4914</link>
+      <guid isPermaLink="false">7b5a63b986d48e7cebbf92919b23e28ea4c088c19db11a439fca3f345e9e4914</guid>
+      <pubDate>Fri, 30 Jan 2026 20:39:03 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>A small but important change in Continuum.</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a22c803f455e71fe8bf14b131ff83668a9f639cc4ea815dc982681f29244bfbf</link>
+      <guid isPermaLink="false">a22c803f455e71fe8bf14b131ff83668a9f639cc4ea815dc982681f29244bfbf</guid>
+      <pubDate>Fri, 30 Jan 2026 03:28:57 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Why Long-Term Work Refuses to Justify Itself</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=b69a4c5be86f5e842e0025db0141d23b6cc58602fdebab5237f1947d32713ef2</link>
@@ -423,16 +523,6 @@
       <pubDate>Sun, 25 Jan 2026 18:14:37 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Renewal Renewal Is Not Reinvention — It’s Remembering</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=eef8c05be8dcaacaa3c06ba5bb6e57dd196d5f23354c1c179d8d1de829d1cfa0</link>
-      <guid isPermaLink="false">eef8c05be8dcaacaa3c06ba5bb6e57dd196d5f23354c1c179d8d1de829d1cfa0</guid>
-      <pubDate>Sun, 25 Jan 2026 17:55:42 GMT</pubDate>
-      <description><![CDATA[Modern culture equates renewal with reinvention: new brands, new narratives, new selves. This essay argues that true renewal works in the opposite direction. Renewal is not about becoming someone else, but about remembering what was already true—and rebuilding from that foundation. Continuity, memory, and preservation are not nostalgic impulses; they are acts of fidelity in a world addicted to novelty.]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
@@ -4913,96 +5003,6 @@
       <pubDate>Fri, 12 Dec 2025 06:38:29 GMT</pubDate>
       <description><![CDATA[A deep dive into the allure and danger of modern debt relief schemes, showing how sovereignty requires discipline, not shortcuts.]]></description>
       <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 15, 2025): The Hidden Costs of Convenience: Why Sovereignty Demands Sacrifice</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=50b131c73a81d0fe6bb01fed88d55aae627b423197256ca878c24150d49edc1e</link>
-      <guid isPermaLink="false">50b131c73a81d0fe6bb01fed88d55aae627b423197256ca878c24150d49edc1e</guid>
-      <pubDate>Fri, 12 Dec 2025 06:34:32 GMT</pubDate>
-      <description><![CDATA[This essay explores the paradox of convenience: the more we outsource to platforms, governments, or corporations, the less sovereignty we retain. Drawing from history, Scripture, and personal experience, it argues that true freedom cannot be cheap or easy — it always comes with cost.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 12, 2025): MLM and Web3: Two Sides of the Same Pyramid</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=93d836cf869f93daf619dcca808df50278baea7a370b568eca174f9b006e77a7</link>
-      <guid isPermaLink="false">93d836cf869f93daf619dcca808df50278baea7a370b568eca174f9b006e77a7</guid>
-      <pubDate>Fri, 12 Dec 2025 06:27:27 GMT</pubDate>
-      <description><![CDATA[Both multi-level marketing (MLM) and Web3 projects sell the same dream: financial freedom, lifestyle independence, and passive income. I experienced the hype firsthand in 2023–2024 when I briefly joined World Financial Group (WFG). What I saw there helped me recognize the same structural flaws playing out across Web3. The names and technology change. The math doesn’t.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 11, 2025): Sovereign Land Titles: Covenant, Jurisdiction, and the End of Reservations</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=4ac79df92d9959c5af8b7ffe3d73f6eedfc17c91e3b701888be13c664a352642</link>
-      <guid isPermaLink="false">4ac79df92d9959c5af8b7ffe3d73f6eedfc17c91e3b701888be13c664a352642</guid>
-      <pubDate>Fri, 12 Dec 2025 03:22:49 GMT</pubDate>
-      <description><![CDATA[This deep dive explores covenantal ownership, jurisdictional sovereignty, and how Sovereign Land Titles could replace the perpetual leasing and trust systems that keep communities in dependency—restoring real ownership to individuals and real sovereignty to tribes.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>New paid essay:  “Why Sovereign Tools Must Outlast Their Creators”</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=4074a8fb42c42c98175e7448ed4f3b7802d5a5cb259afeb95fa1e1a0f0f6a030</link>
-      <guid isPermaLink="false">4074a8fb42c42c98175e7448ed4f3b7802d5a5cb259afeb95fa1e1a0f0f6a030</guid>
-      <pubDate>Thu, 11 Dec 2025 21:53:29 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>New paid essay:  “Why Sovereign Tools Must Outlast Their Creators”</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f2b56032065d0c0b25618aff91ecd520b57d9bbf304a3b1122b0fb9c6257233c</link>
-      <guid isPermaLink="false">f2b56032065d0c0b25618aff91ecd520b57d9bbf304a3b1122b0fb9c6257233c</guid>
-      <pubDate>Thu, 11 Dec 2025 21:48:28 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>New piece today:  “Sovereignty Is Learned in Small Steps”</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=305523ef66783ce0f72ab577d37720c704350c39222b4e6d5353200fd9b5daac</link>
-      <guid isPermaLink="false">305523ef66783ce0f72ab577d37720c704350c39222b4e6d5353200fd9b5daac</guid>
-      <pubDate>Thu, 11 Dec 2025 21:13:26 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Bitcoin Chronicles lore drop:  “The First Pilgrim Charter”</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=aa4718af337e9dd730d9fd8ba122b60989c5e33cabcb361ad374f0625eedff69</link>
-      <guid isPermaLink="false">aa4718af337e9dd730d9fd8ba122b60989c5e33cabcb361ad374f0625eedff69</guid>
-      <pubDate>Thu, 11 Dec 2025 21:11:38 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Bitcoin Chronicles lore drop:  “The First Pilgrim Charter”</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0bbcb837b2f804a7a8847b0c1306ff89c38426a7b137c30ac261fa113ddb150f</link>
-      <guid isPermaLink="false">0bbcb837b2f804a7a8847b0c1306ff89c38426a7b137c30ac261fa113ddb150f</guid>
-      <pubDate>Thu, 11 Dec 2025 21:07:04 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>New piece today:  “Sovereignty Is Learned in Small Steps”</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=576746c1df7ec6a251c37261c58311ef00c0ab9024d2c1d65a466d4b79296bc8</link>
-      <guid isPermaLink="false">576746c1df7ec6a251c37261c58311ef00c0ab9024d2c1d65a466d4b79296bc8</guid>
-      <pubDate>Thu, 11 Dec 2025 21:04:46 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>

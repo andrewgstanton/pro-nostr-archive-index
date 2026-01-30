@@ -1,5 +1,115 @@
 [
   {
+    "slug": "-why-the-most-impressive-systems-dont-try-to-look-impressive-2026-01-30",
+    "event_id": "02c9a7203df20970dacecf4775a26d7b008e6dce14ee1f717bbcd035bd0c34b9",
+    "created_at": 1769816964,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/02c9a7203df20970dacecf4775a26d7b008e6dce14ee1f717bbcd035bd0c34b9.json",
+    "title": "🔒 Why the Most Impressive Systems Don’t Try to Look Impressive",
+    "summary": "Some systems look impressive immediately. Others reveal their strength only after you understand what they refuse to do. This essay explores the difference between performative impressiveness and structural impressiveness — and why systems built to last often feel quiet, understated, or even boring until the moment everything else fails.",
+    "paid": false
+  },
+  {
+    "slug": "-freedom-is-not-convenience--it-is-the-ability-to-leave-2206-01-30",
+    "event_id": "d1c3cb2a0d4c1cbbf071d1776db1ce27d4f4a6b62df78f14f22e428172ed80ce",
+    "created_at": 1769816250,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/d1c3cb2a0d4c1cbbf071d1776db1ce27d4f4a6b62df78f14f22e428172ed80ce.json",
+    "title": "🔒 Freedom Is Not Convenience — It Is the Ability to Leave",
+    "summary": "Convenience is often mistaken for freedom in digital systems. This article dismantles that confusion, arguing that freedom is not how easy a system is to use — but how little it costs to exit. True freedom appears only when leaving does not destroy what you’ve built.",
+    "paid": false
+  },
+  {
+    "slug": "-you-dont-own-your-work-if-you-cant-take-it-with-you-2026-01-30",
+    "event_id": "b259aa71b80bcf9c4642ff210c7f5c6f315ec998236760e5086209b76e59739c",
+    "created_at": 1769815779,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/b259aa71b80bcf9c4642ff210c7f5c6f315ec998236760e5086209b76e59739c.json",
+    "title": "🔒 You Don’t Own Your Work If You Can’t Take It With You",
+    "summary": "Most creators assume ownership because they can still log in. But access is not ownership, and convenience is not custody. This essay examines why true ownership only exists when your work can survive platforms, policies, accounts, and time — and why sovereignty begins the moment export stops being optional.",
+    "paid": false
+  },
+  {
+    "slug": "renewal-renewal-is-not-reinvention--its-remembering",
+    "event_id": "27d9b7204e2058fe8423f27b72270722fc8a594a706c7f9a59c84bd139d3617d",
+    "created_at": 1769815643,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/27d9b7204e2058fe8423f27b72270722fc8a594a706c7f9a59c84bd139d3617d.json",
+    "title": "Renewal Is Not Reinvention — It’s Remembering",
+    "summary": "Modern culture equates renewal with reinvention: new brands, new narratives, new selves. This essay argues that true renewal works in the opposite direction. Renewal is not about becoming someone else, but about remembering what was already true—and rebuilding from that foundation. Continuity, memory, and preservation are not nostalgic impulses; they are acts of fidelity in a world addicted to novelty.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "5ca3cf1a7d694ae4a6587598d2383dda08973ed4e7fea108ba2231c689c4d7aa",
+    "created_at": 1769805945,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/5ca3cf1a7d694ae4a6587598d2383dda08973ed4e7fea108ba2231c689c4d7aa.json",
+    "title": "Note 5 - 1/30/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "d7161f55e41de7b3ddcee021d8ea1c97c530010c78c7e5502f421ea25b46f4cd",
+    "created_at": 1769805875,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/d7161f55e41de7b3ddcee021d8ea1c97c530010c78c7e5502f421ea25b46f4cd.json",
+    "title": "Note 4 - 1/30/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "3c3ec7a3f30e085c27d07ef37f00bc3af952f6789704d608472607e651f8fd36",
+    "created_at": 1769805768,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/3c3ec7a3f30e085c27d07ef37f00bc3af952f6789704d608472607e651f8fd36.json",
+    "title": "Note 3 - 1/30/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "b8b2e30afbcdc64bccd3ce70cffeebbe1201c587bfeaaca7499d6890b8673a71",
+    "created_at": 1769805618,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/b8b2e30afbcdc64bccd3ce70cffeebbe1201c587bfeaaca7499d6890b8673a71.json",
+    "title": "Note 2 - 1/30/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "7b5a63b986d48e7cebbf92919b23e28ea4c088c19db11a439fca3f345e9e4914",
+    "created_at": 1769805543,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/7b5a63b986d48e7cebbf92919b23e28ea4c088c19db11a439fca3f345e9e4914.json",
+    "title": "Note 1 - 1/30/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "a22c803f455e71fe8bf14b131ff83668a9f639cc4ea815dc982681f29244bfbf",
+    "created_at": 1769743737,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/a22c803f455e71fe8bf14b131ff83668a9f639cc4ea815dc982681f29244bfbf.json",
+    "title": "A small but important change in Continuum.",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "-why-long-term-work-refuses-to-justify-itself-2026-01-29",
     "event_id": "b69a4c5be86f5e842e0025db0141d23b6cc58602fdebab5237f1947d32713ef2",
     "created_at": 1769732357,

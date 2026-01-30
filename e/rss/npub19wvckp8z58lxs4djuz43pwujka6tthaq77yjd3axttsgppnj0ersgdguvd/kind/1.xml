@@ -5,7 +5,67 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 30 Jan 2026 00:26:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 23:59:08 GMT</lastBuildDate>
+    <item>
+      <title>Note 5 - 1/30/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5ca3cf1a7d694ae4a6587598d2383dda08973ed4e7fea108ba2231c689c4d7aa</link>
+      <guid isPermaLink="false">5ca3cf1a7d694ae4a6587598d2383dda08973ed4e7fea108ba2231c689c4d7aa</guid>
+      <pubDate>Fri, 30 Jan 2026 20:45:45 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 4 - 1/30/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d7161f55e41de7b3ddcee021d8ea1c97c530010c78c7e5502f421ea25b46f4cd</link>
+      <guid isPermaLink="false">d7161f55e41de7b3ddcee021d8ea1c97c530010c78c7e5502f421ea25b46f4cd</guid>
+      <pubDate>Fri, 30 Jan 2026 20:44:35 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 3 - 1/30/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3c3ec7a3f30e085c27d07ef37f00bc3af952f6789704d608472607e651f8fd36</link>
+      <guid isPermaLink="false">3c3ec7a3f30e085c27d07ef37f00bc3af952f6789704d608472607e651f8fd36</guid>
+      <pubDate>Fri, 30 Jan 2026 20:42:48 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 2 - 1/30/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b8b2e30afbcdc64bccd3ce70cffeebbe1201c587bfeaaca7499d6890b8673a71</link>
+      <guid isPermaLink="false">b8b2e30afbcdc64bccd3ce70cffeebbe1201c587bfeaaca7499d6890b8673a71</guid>
+      <pubDate>Fri, 30 Jan 2026 20:40:18 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 1 - 1/30/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7b5a63b986d48e7cebbf92919b23e28ea4c088c19db11a439fca3f345e9e4914</link>
+      <guid isPermaLink="false">7b5a63b986d48e7cebbf92919b23e28ea4c088c19db11a439fca3f345e9e4914</guid>
+      <pubDate>Fri, 30 Jan 2026 20:39:03 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>A small but important change in Continuum.</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a22c803f455e71fe8bf14b131ff83668a9f639cc4ea815dc982681f29244bfbf</link>
+      <guid isPermaLink="false">a22c803f455e71fe8bf14b131ff83668a9f639cc4ea815dc982681f29244bfbf</guid>
+      <pubDate>Fri, 30 Jan 2026 03:28:57 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Note 5 — You’re Not Behind - 1/29/2026</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=110a95dfd61a92c162d5bb3875ebc9b9e84a8c8777de015336d7691fe8850d30</link>

@@ -5,7 +5,47 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 30 Jan 2026 00:26:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 23:59:08 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Why the Most Impressive Systems Don’t Try to Look Impressive</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=02c9a7203df20970dacecf4775a26d7b008e6dce14ee1f717bbcd035bd0c34b9</link>
+      <guid isPermaLink="false">02c9a7203df20970dacecf4775a26d7b008e6dce14ee1f717bbcd035bd0c34b9</guid>
+      <pubDate>Fri, 30 Jan 2026 23:49:24 GMT</pubDate>
+      <description><![CDATA[Some systems look impressive immediately. Others reveal their strength only after you understand what they refuse to do. This essay explores the difference between performative impressiveness and structural impressiveness — and why systems built to last often feel quiet, understated, or even boring until the moment everything else fails.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Freedom Is Not Convenience — It Is the Ability to Leave</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d1c3cb2a0d4c1cbbf071d1776db1ce27d4f4a6b62df78f14f22e428172ed80ce</link>
+      <guid isPermaLink="false">d1c3cb2a0d4c1cbbf071d1776db1ce27d4f4a6b62df78f14f22e428172ed80ce</guid>
+      <pubDate>Fri, 30 Jan 2026 23:37:30 GMT</pubDate>
+      <description><![CDATA[Convenience is often mistaken for freedom in digital systems. This article dismantles that confusion, arguing that freedom is not how easy a system is to use — but how little it costs to exit. True freedom appears only when leaving does not destroy what you’ve built.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 You Don’t Own Your Work If You Can’t Take It With You</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b259aa71b80bcf9c4642ff210c7f5c6f315ec998236760e5086209b76e59739c</link>
+      <guid isPermaLink="false">b259aa71b80bcf9c4642ff210c7f5c6f315ec998236760e5086209b76e59739c</guid>
+      <pubDate>Fri, 30 Jan 2026 23:29:39 GMT</pubDate>
+      <description><![CDATA[Most creators assume ownership because they can still log in. But access is not ownership, and convenience is not custody. This essay examines why true ownership only exists when your work can survive platforms, policies, accounts, and time — and why sovereignty begins the moment export stops being optional.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Renewal Is Not Reinvention — It’s Remembering</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=27d9b7204e2058fe8423f27b72270722fc8a594a706c7f9a59c84bd139d3617d</link>
+      <guid isPermaLink="false">27d9b7204e2058fe8423f27b72270722fc8a594a706c7f9a59c84bd139d3617d</guid>
+      <pubDate>Fri, 30 Jan 2026 23:27:23 GMT</pubDate>
+      <description><![CDATA[Modern culture equates renewal with reinvention: new brands, new narratives, new selves. This essay argues that true renewal works in the opposite direction. Renewal is not about becoming someone else, but about remembering what was already true—and rebuilding from that foundation. Continuity, memory, and preservation are not nostalgic impulses; they are acts of fidelity in a world addicted to novelty.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Why Long-Term Work Refuses to Justify Itself</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=b69a4c5be86f5e842e0025db0141d23b6cc58602fdebab5237f1947d32713ef2</link>
@@ -132,16 +172,6 @@
       <guid isPermaLink="false">f74d96b85db73168ef4240c2b7dd6ab9b0a7a7ef393aab77fca2fa6147edcc87</guid>
       <pubDate>Mon, 26 Jan 2026 22:11:20 GMT</pubDate>
       <description><![CDATA[Modern systems increasingly reward speed, visibility, and compliance over integrity and durability. This essay explores what it means to practice faithful work inside systems that are structurally misaligned with truth, and why sovereignty begins with retaining authorship over one’s labor—even when that choice comes at a cost.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Renewal Renewal Is Not Reinvention — It’s Remembering</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=eef8c05be8dcaacaa3c06ba5bb6e57dd196d5f23354c1c179d8d1de829d1cfa0</link>
-      <guid isPermaLink="false">eef8c05be8dcaacaa3c06ba5bb6e57dd196d5f23354c1c179d8d1de829d1cfa0</guid>
-      <pubDate>Sun, 25 Jan 2026 17:55:42 GMT</pubDate>
-      <description><![CDATA[Modern culture equates renewal with reinvention: new brands, new narratives, new selves. This essay argues that true renewal works in the opposite direction. Renewal is not about becoming someone else, but about remembering what was already true—and rebuilding from that foundation. Continuity, memory, and preservation are not nostalgic impulses; they are acts of fidelity in a world addicted to novelty.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
@@ -4982,36 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">d613b95a55d8b3c3053506df22d84357e219136aab2fb5432611935f06f33868</guid>
       <pubDate>Sat, 11 Oct 2025 19:46:48 GMT</pubDate>
       <description><![CDATA[Sunday in Honolulu — walking to Kawaiahaʻo Church, showing Pule no James Stanton to the Kahu from your iPhone, tasting locally grown Oʻahu chocolate, returning to the apartment, and saying goodbye late that night — a day of peace, love, and slow release.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sabbath Article (Sept. 27, 2025): The Work of Letting Go</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d4a0f95cf0fd1c1f0bfd8ec827b44351ba60a0b22344c52689674cc5a849d054</link>
-      <guid isPermaLink="false">d4a0f95cf0fd1c1f0bfd8ec827b44351ba60a0b22344c52689674cc5a849d054</guid>
-      <pubDate>Sat, 11 Oct 2025 19:42:30 GMT</pubDate>
-      <description><![CDATA[A true-to-life Sabbath reflection — clearing a father’s office, discarding a lifetime of papers, and discovering holiness in the labor of release.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Sept. 28, 2025): The Nearness of Heaven</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=014e98ba3ad348cf891efed2d3853687e17ae363639ab9b625e89751375662c2</link>
-      <guid isPermaLink="false">014e98ba3ad348cf891efed2d3853687e17ae363639ab9b625e89751375662c2</guid>
-      <pubDate>Sat, 11 Oct 2025 19:03:37 GMT</pubDate>
-      <description><![CDATA[A closing meditation on the thinness of the veil between worlds and the quiet assurance that love is gathered, not gone.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Sept. 28, 2025): Love at the Edge of Time</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=63442bd4fbbe76551e8b2a782ba8ce410b7328581f48572643113bb375acbd69</link>
-      <guid isPermaLink="false">63442bd4fbbe76551e8b2a782ba8ce410b7328581f48572643113bb375acbd69</guid>
-      <pubDate>Sat, 11 Oct 2025 18:58:14 GMT</pubDate>
-      <description><![CDATA[A reflection on how love transcends death — finding eternity not in escape from time, but in its fulfillment.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
