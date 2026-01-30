@@ -5,7 +5,47 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 28 Jan 2026 20:21:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 00:26:19 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Why Long-Term Work Refuses to Justify Itself</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b69a4c5be86f5e842e0025db0141d23b6cc58602fdebab5237f1947d32713ef2</link>
+      <guid isPermaLink="false">b69a4c5be86f5e842e0025db0141d23b6cc58602fdebab5237f1947d32713ef2</guid>
+      <pubDate>Fri, 30 Jan 2026 00:19:17 GMT</pubDate>
+      <description><![CDATA[Long-term builders are often asked to explain themselves—why the work matters, why it takes so long, why it isn’t visible yet. This piece argues that durable work cannot be constantly justified without being compromised.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building for the Long Term Means Accepting Invisibility</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ab3d11c4e3796434ebdfa9b6dd5c51e552dd55184ad371c55b97b101f942367b</link>
+      <guid isPermaLink="false">ab3d11c4e3796434ebdfa9b6dd5c51e552dd55184ad371c55b97b101f942367b</guid>
+      <pubDate>Fri, 30 Jan 2026 00:13:36 GMT</pubDate>
+      <description><![CDATA[Most meaningful systems are built in seasons where no one is watching. This piece explores why invisibility is not a failure mode but a prerequisite for durability—and why chasing early validation quietly destroys long-term work.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Long-Term Builders Design for Failure, Not Success</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=230e5fd6b186b46a5a9105878cd7f12948b3ecef83654a5fdd042324bd1b95fa</link>
+      <guid isPermaLink="false">230e5fd6b186b46a5a9105878cd7f12948b3ecef83654a5fdd042324bd1b95fa</guid>
+      <pubDate>Fri, 30 Jan 2026 00:12:50 GMT</pubDate>
+      <description><![CDATA[Short-term builders imagine success and work backward. Long-term builders imagine failure and design forward. This essay explores why resilience—not upside—is the defining feature of systems that endure.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Inhabiting Continuum: How Building It Changed How I See the World</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=18662a95941e28d8dfcab8f7a3c1cdf6e4231d07e872850887dd9520afc62fb3</link>
+      <guid isPermaLink="false">18662a95941e28d8dfcab8f7a3c1cdf6e4231d07e872850887dd9520afc62fb3</guid>
+      <pubDate>Thu, 29 Jan 2026 19:58:16 GMT</pubDate>
+      <description><![CDATA[Continuum didn’t just become a tool I built — it became a place I live from. This piece reflects on how building a system, becoming a writer, and collaborating with tools (human and artificial) reshaped how I understand time, identity, authorship, and truth.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 The Cost of Depending on Systems You Don’t Control</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=18232545418eb1c582d30f25b8c66f89543790f8c8849a39df4da171300429e1</link>
@@ -4972,46 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">63442bd4fbbe76551e8b2a782ba8ce410b7328581f48572643113bb375acbd69</guid>
       <pubDate>Sat, 11 Oct 2025 18:58:14 GMT</pubDate>
       <description><![CDATA[A reflection on how love transcends death — finding eternity not in escape from time, but in its fulfillment.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Sept. 15, 2025): Sovereignty in the Small Things</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9880b45e75d0744d16ff3dd8dac66e3a97aaaecb7e3f0cc247e005f410850a18</link>
-      <guid isPermaLink="false">9880b45e75d0744d16ff3dd8dac66e3a97aaaecb7e3f0cc247e005f410850a18</guid>
-      <pubDate>Sat, 11 Oct 2025 18:51:54 GMT</pubDate>
-      <description><![CDATA[This article reflects on how small habits (like using cash, cooking at home, or controlling our keys) train us for larger acts of sovereignty. It argues that freedom is first practiced in the details of daily life.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Part 3: The Meaning of “Eternal” (Aionios)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6ecbd0d51f2ba1a5b733d5cceeab1c07e57b59f6cbc42b845f36a5ac9063d94f</link>
-      <guid isPermaLink="false">6ecbd0d51f2ba1a5b733d5cceeab1c07e57b59f6cbc42b845f36a5ac9063d94f</guid>
-      <pubDate>Sat, 11 Oct 2025 18:49:31 GMT</pubDate>
-      <description><![CDATA[Part 3 of the Victorious Gospel series examines the Greek word aionios, usually translated “eternal.” While sometimes pointing to God’s endless life, it often means “age-long.” This opens the way to see judgment as real but temporary, serving God’s larger purpose of universal reconciliation.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Sept. 27, 2025): The Vigil of Faith</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3c9353e603442772b8419e0f77dc52313b9fc1b3754074764092f93b8393341a</link>
-      <guid isPermaLink="false">3c9353e603442772b8419e0f77dc52313b9fc1b3754074764092f93b8393341a</guid>
-      <pubDate>Sat, 11 Oct 2025 18:44:39 GMT</pubDate>
-      <description><![CDATA[A companion meditation on what faith looks like when words and strength run out — the sacred endurance of staying present.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Oct. 10, 2025): The Quiet Strength of Endurance</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b42f0534703c9bdbdb7fb04c8c795a6190f9098497bc39bdc7b111a53c303a81</link>
-      <guid isPermaLink="false">b42f0534703c9bdbdb7fb04c8c795a6190f9098497bc39bdc7b111a53c303a81</guid>
-      <pubDate>Fri, 10 Oct 2025 22:03:20 GMT</pubDate>
-      <description><![CDATA[Endurance isn’t glamorous. It doesn’t trend, and it doesn’t shout. Yet it’s one of the most revolutionary virtues in a world obsessed with instant results. To endure is to refuse collapse — to hold faith quietly, while the world demands performance.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

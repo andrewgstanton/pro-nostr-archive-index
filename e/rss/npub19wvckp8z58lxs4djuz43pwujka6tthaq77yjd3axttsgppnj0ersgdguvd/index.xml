@@ -5,7 +5,97 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 28 Jan 2026 20:21:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 00:26:19 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Why Long-Term Work Refuses to Justify Itself</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b69a4c5be86f5e842e0025db0141d23b6cc58602fdebab5237f1947d32713ef2</link>
+      <guid isPermaLink="false">b69a4c5be86f5e842e0025db0141d23b6cc58602fdebab5237f1947d32713ef2</guid>
+      <pubDate>Fri, 30 Jan 2026 00:19:17 GMT</pubDate>
+      <description><![CDATA[Long-term builders are often asked to explain themselves—why the work matters, why it takes so long, why it isn’t visible yet. This piece argues that durable work cannot be constantly justified without being compromised.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building for the Long Term Means Accepting Invisibility</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ab3d11c4e3796434ebdfa9b6dd5c51e552dd55184ad371c55b97b101f942367b</link>
+      <guid isPermaLink="false">ab3d11c4e3796434ebdfa9b6dd5c51e552dd55184ad371c55b97b101f942367b</guid>
+      <pubDate>Fri, 30 Jan 2026 00:13:36 GMT</pubDate>
+      <description><![CDATA[Most meaningful systems are built in seasons where no one is watching. This piece explores why invisibility is not a failure mode but a prerequisite for durability—and why chasing early validation quietly destroys long-term work.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Long-Term Builders Design for Failure, Not Success</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=230e5fd6b186b46a5a9105878cd7f12948b3ecef83654a5fdd042324bd1b95fa</link>
+      <guid isPermaLink="false">230e5fd6b186b46a5a9105878cd7f12948b3ecef83654a5fdd042324bd1b95fa</guid>
+      <pubDate>Fri, 30 Jan 2026 00:12:50 GMT</pubDate>
+      <description><![CDATA[Short-term builders imagine success and work backward. Long-term builders imagine failure and design forward. This essay explores why resilience—not upside—is the defining feature of systems that endure.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Inhabiting Continuum: How Building It Changed How I See the World</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=18662a95941e28d8dfcab8f7a3c1cdf6e4231d07e872850887dd9520afc62fb3</link>
+      <guid isPermaLink="false">18662a95941e28d8dfcab8f7a3c1cdf6e4231d07e872850887dd9520afc62fb3</guid>
+      <pubDate>Thu, 29 Jan 2026 19:58:16 GMT</pubDate>
+      <description><![CDATA[Continuum didn’t just become a tool I built — it became a place I live from. This piece reflects on how building a system, becoming a writer, and collaborating with tools (human and artificial) reshaped how I understand time, identity, authorship, and truth.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 5 — You’re Not Behind - 1/29/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=110a95dfd61a92c162d5bb3875ebc9b9e84a8c8777de015336d7691fe8850d30</link>
+      <guid isPermaLink="false">110a95dfd61a92c162d5bb3875ebc9b9e84a8c8777de015336d7691fe8850d30</guid>
+      <pubDate>Thu, 29 Jan 2026 19:18:34 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 4 — Obscurity Is a Forge - 1/29/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=576f6ccf6f2bd9bf18dd0f93a6c7a5a2c781eef6bd5e8b182e9170575f68a035</link>
+      <guid isPermaLink="false">576f6ccf6f2bd9bf18dd0f93a6c7a5a2c781eef6bd5e8b182e9170575f68a035</guid>
+      <pubDate>Thu, 29 Jan 2026 19:17:14 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 3 — Loneliness Is Often the Cost of Integrity - 1/29/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=14209b3a26d27e2605708d7263dee5642d80b66b3eeb5b2fdce408f348b443df</link>
+      <guid isPermaLink="false">14209b3a26d27e2605708d7263dee5642d80b66b3eeb5b2fdce408f348b443df</guid>
+      <pubDate>Thu, 29 Jan 2026 19:15:52 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 2 — Validation Is a Lagging Indicator - 1/29/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=cf651afb6533e338469ee0278c05bc5e7501244998af6d190f514317cca4c61e</link>
+      <guid isPermaLink="false">cf651afb6533e338469ee0278c05bc5e7501244998af6d190f514317cca4c61e</guid>
+      <pubDate>Thu, 29 Jan 2026 19:14:07 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 1 — Silence Is Not a Verdict - 1/29/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=8b128c8d7da8d4337068dea986b4401ad393f74a60a555156913e8b8eb4b3f92</link>
+      <guid isPermaLink="false">8b128c8d7da8d4337068dea986b4401ad393f74a60a555156913e8b8eb4b3f92</guid>
+      <pubDate>Thu, 29 Jan 2026 19:12:15 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 The Cost of Depending on Systems You Don’t Control</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=18232545418eb1c582d30f25b8c66f89543790f8c8849a39df4da171300429e1</link>
@@ -4912,96 +5002,6 @@
       <guid isPermaLink="false">7df51b4e24661f9fa334fb6253d5a1ece21dc5354b4e610047f92ac964f8176c</guid>
       <pubDate>Sun, 07 Dec 2025 04:31:19 GMT</pubDate>
       <description><![CDATA[As Luna matured into a sovereign world, its guilds, Archivists, elders, and settlers began gathering the philosophies, laws, histories, and spiritual insights that defined their civilization. The result became known as the Sovereign Canon — a collection of teachings, oaths, principles, and stories that preserved the soul of the lunar diaspora and guided humanity’s expansion to the stars.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Paid Article Sample Teaser Example</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=4955cf86a18baaed50b847f88c0db06270ae3119ab0d2858e47826828698db57</link>
-      <guid isPermaLink="false">4955cf86a18baaed50b847f88c0db06270ae3119ab0d2858e47826828698db57</guid>
-      <pubDate>Sun, 07 Dec 2025 01:17:25 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 28, 2025): The Bitcoin Chronicles: 1.A.1 - The Last Free Launch from Earth</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2a91d4f1dcb274dfb6b236f66caf45cf00a927f27768ac857aeee16901de613c</link>
-      <guid isPermaLink="false">2a91d4f1dcb274dfb6b236f66caf45cf00a927f27768ac857aeee16901de613c</guid>
-      <pubDate>Sat, 06 Dec 2025 00:04:49 GMT</pubDate>
-      <description><![CDATA[The final sovereign launch leaves Earth without permission, without ceremony, and without return. Pilgrim-1 becomes the first vessel of the diaspora, breaking Earth’s political gravity and marking the beginning of humanity’s irreversible expansion.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Artlce 2 (Dec. 5, 2025): the Bitcoin Chronicles - 1.B.5 - The Free Launch Era: How Luna Became the First Sovereign World</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7bccf994c32f9ee2eabdc43080652006a99fb1bdc49587567c0ba02b3e005b8c</link>
-      <guid isPermaLink="false">7bccf994c32f9ee2eabdc43080652006a99fb1bdc49587567c0ba02b3e005b8c</guid>
-      <pubDate>Fri, 05 Dec 2025 23:28:15 GMT</pubDate>
-      <description><![CDATA[Before Luna Freeport declared its autonomy, a cultural revolution unfolded quietly across the Shackleton Corridor. Known later as the Free Launch Era, this period saw a new kind of civilization take shape—ungoverned, unlicensed, unclaimed by Earth. It was a social and technological metamorphosis born from the Pilgrim missions, and it gave Luna an identity completely different from every lunar settlement that came before.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Dec. 5, 2025): The Bitcoin Chronicles - 1.B.4 - The Pilgrim Program: Nine Launches That Built Two Worlds</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f977b507788df99114680eacf064208950177df12c09f48b6efbdbf95bd6c32f</link>
-      <guid isPermaLink="false">f977b507788df99114680eacf064208950177df12c09f48b6efbdbf95bd6c32f</guid>
-      <pubDate>Fri, 05 Dec 2025 23:25:40 GMT</pubDate>
-      <description><![CDATA[Long before Luna Freeport emerged as a sovereign lunar city-state, a sequence of open-access launches known as the Pilgrim Program quietly reshaped the destiny of humanity. Pilgrim-1 through Pilgrim-8 seeded the lunar frontier and formed the cultural roots of Luna Freeport. Pilgrim-9, the final mission, carried the sovereignty movement outward—toward Mars—and became the genesis of Pilgrim-9 Colony and Martian Bitcoin culture.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Dec. 4, 2025): The Bitcoin Chronicles - 1.B.3 - Luna Freeport</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=317d6fe2f455f704ad28db129267bdfc7375edfae87ec7ca7868de589da1de37</link>
-      <guid isPermaLink="false">317d6fe2f455f704ad28db129267bdfc7375edfae87ec7ca7868de589da1de37</guid>
-      <pubDate>Fri, 05 Dec 2025 05:47:57 GMT</pubDate>
-      <description><![CDATA[A forgotten lunar tunnel becomes humanity’s first neutral off-world commons, the birthplace of the Archivists, and the cultural and economic heart of the sovereign lunar diaspora.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Patron Support Continuum</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2c3517714ad84ccd5dcc2803840fdc0e01993ae3bc8cfb3f43d04a4c2225d8e2</link>
-      <guid isPermaLink="false">2c3517714ad84ccd5dcc2803840fdc0e01993ae3bc8cfb3f43d04a4c2225d8e2</guid>
-      <pubDate>Thu, 04 Dec 2025 06:39:11 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Bitcoin Chronicles: Toward The Stars — Part 3 (1.C.0) : Martian Bitcoin (Expanded Edition)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=cb5f94e853c4e530406e087554be2a56740d0e4fdb63cb1cbfded3116ccbe7fc</link>
-      <guid isPermaLink="false">cb5f94e853c4e530406e087554be2a56740d0e4fdb63cb1cbfded3116ccbe7fc</guid>
-      <pubDate>Thu, 04 Dec 2025 02:05:46 GMT</pubDate>
-      <description><![CDATA[Part 3 of the Bitcoin Chronicles explores Mars, where latency makes Earth-level consensus impossible. Martian Bitcoin becomes locally sovereign but globally anchored, ensuring freedom from Earth’s monetary control while remaining tied to the same 21M cap.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Tithing and the New Covenant: What Scripture Actually Teaches</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=46cb05b85c8ed330d20baefd3399c28322cb485dbadfbf897923012054d4768d</link>
-      <guid isPermaLink="false">46cb05b85c8ed330d20baefd3399c28322cb485dbadfbf897923012054d4768d</guid>
-      <pubDate>Wed, 03 Dec 2025 22:54:47 GMT</pubDate>
-      <description><![CDATA[A clear, biblical examination of tithing in the Old and New Testaments. The tithe was an Old Covenant agricultural system tied to ancient Israel—not a binding command for Christians. The New Covenant calls us to something greater: Spirit-led generosity grounded in the truth that God owns everything, not just a percentage.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Bitcoin Chronicles - Sovereignty as a Fundamental Physical Principle</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ed702d6adbb01c92127ad6f5e8df2d755e0cf2bace194a4ff373611715cd93a4</link>
-      <guid isPermaLink="false">ed702d6adbb01c92127ad6f5e8df2d755e0cf2bace194a4ff373611715cd93a4</guid>
-      <pubDate>Wed, 03 Dec 2025 22:18:56 GMT</pubDate>
-      <description><![CDATA[A foundational principle of the Bitcoin Chronicles universe, Sovereignty is defined not as politics or preference but as a fundamental physical law woven into creation—on the same level as causality, entropy, and quantum mechanics. By aligning with this law, systems become antifragile; by violating it, they decay. This truth underlies Bitcoin, the Exodus Era, and humanity’s expansion across the stars.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

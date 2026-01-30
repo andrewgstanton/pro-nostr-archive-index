@@ -5,7 +5,47 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 28 Jan 2026 20:21:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 00:26:19 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Why Long-Term Work Refuses to Justify Itself</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b69a4c5be86f5e842e0025db0141d23b6cc58602fdebab5237f1947d32713ef2</link>
+      <guid isPermaLink="false">b69a4c5be86f5e842e0025db0141d23b6cc58602fdebab5237f1947d32713ef2</guid>
+      <pubDate>Fri, 30 Jan 2026 00:19:17 GMT</pubDate>
+      <description><![CDATA[Long-term builders are often asked to explain themselves—why the work matters, why it takes so long, why it isn’t visible yet. This piece argues that durable work cannot be constantly justified without being compromised.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building for the Long Term Means Accepting Invisibility</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ab3d11c4e3796434ebdfa9b6dd5c51e552dd55184ad371c55b97b101f942367b</link>
+      <guid isPermaLink="false">ab3d11c4e3796434ebdfa9b6dd5c51e552dd55184ad371c55b97b101f942367b</guid>
+      <pubDate>Fri, 30 Jan 2026 00:13:36 GMT</pubDate>
+      <description><![CDATA[Most meaningful systems are built in seasons where no one is watching. This piece explores why invisibility is not a failure mode but a prerequisite for durability—and why chasing early validation quietly destroys long-term work.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Long-Term Builders Design for Failure, Not Success</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=230e5fd6b186b46a5a9105878cd7f12948b3ecef83654a5fdd042324bd1b95fa</link>
+      <guid isPermaLink="false">230e5fd6b186b46a5a9105878cd7f12948b3ecef83654a5fdd042324bd1b95fa</guid>
+      <pubDate>Fri, 30 Jan 2026 00:12:50 GMT</pubDate>
+      <description><![CDATA[Short-term builders imagine success and work backward. Long-term builders imagine failure and design forward. This essay explores why resilience—not upside—is the defining feature of systems that endure.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Inhabiting Continuum: How Building It Changed How I See the World</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=18662a95941e28d8dfcab8f7a3c1cdf6e4231d07e872850887dd9520afc62fb3</link>
+      <guid isPermaLink="false">18662a95941e28d8dfcab8f7a3c1cdf6e4231d07e872850887dd9520afc62fb3</guid>
+      <pubDate>Thu, 29 Jan 2026 19:58:16 GMT</pubDate>
+      <description><![CDATA[Continuum didn’t just become a tool I built — it became a place I live from. This piece reflects on how building a system, becoming a writer, and collaborating with tools (human and artificial) reshaped how I understand time, identity, authorship, and truth.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 The Cost of Depending on Systems You Don’t Control</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=18232545418eb1c582d30f25b8c66f89543790f8c8849a39df4da171300429e1</link>
@@ -4972,46 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">aa9cd175187fbf5b8134d4bc6bba7fed9bad74b4f1b002cbb5d1d9e2ef885bc5</guid>
       <pubDate>Mon, 20 Oct 2025 04:50:31 GMT</pubDate>
       <description><![CDATA[An exploration of how Christianity’s understanding of grace shifted from mystical union to legal transaction — and why recovering the early Church’s participatory vision may be the most important reformation still ahead.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Oct. 19, 2025): 🌐 Communion in the Age of Code</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c92987aaecc2c0810e0e8b2caddae60a6f43694d6d8133da0e270811b5b0ecda</link>
-      <guid isPermaLink="false">c92987aaecc2c0810e0e8b2caddae60a6f43694d6d8133da0e270811b5b0ecda</guid>
-      <pubDate>Mon, 20 Oct 2025 04:00:46 GMT</pubDate>
-      <description><![CDATA[An exploration of how open protocols mirror the early Church’s vision of communion — decentralized, voluntary, and rooted in truth.  In a digital world hungry for trust, verification becomes the new liturgy and presence the new sacrament.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sabbath Article (Oct. 18, 2025): ✨ Resurrection in Real Time</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3262c661ce20d96d001c971b9f7c75f5549e5ce88b291e8a40e3320952619b80</link>
-      <guid isPermaLink="false">3262c661ce20d96d001c971b9f7c75f5549e5ce88b291e8a40e3320952619b80</guid>
-      <pubDate>Mon, 20 Oct 2025 03:55:12 GMT</pubDate>
-      <description><![CDATA[Resurrection isn’t distant miracle but daily verification — truth enduring through time, relationships restored through remembrance, and love proving itself real in every renewed act of trust.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Oct. 19, 2025): ✍️ The Grammar of Grace</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=08c80a6668295a4a83dbe6ccaaad1e13778016b335c9d899da4dbca1f15bebc0</link>
-      <guid isPermaLink="false">08c80a6668295a4a83dbe6ccaaad1e13778016b335c9d899da4dbca1f15bebc0</guid>
-      <pubDate>Mon, 20 Oct 2025 03:52:49 GMT</pubDate>
-      <description><![CDATA[An exploration of language and faith — how our grammar reveals our theology.  Grace is not a noun to possess but a verb to join, a continual participation in divine life that resists transactional syntax.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Oct. 18, 2025): 🔥 Endurance as Worship</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=41737d7f8d4d6ac4ddd3f1369de5956495798b453408d89fc5f47df0460e8973</link>
-      <guid isPermaLink="false">41737d7f8d4d6ac4ddd3f1369de5956495798b453408d89fc5f47df0460e8973</guid>
-      <pubDate>Mon, 20 Oct 2025 02:18:57 GMT</pubDate>
-      <description><![CDATA[A meditation on endurance as the truest form of faith.  From the persistence of ancient covenants to the incorruptible logic of Bitcoin, endurance becomes the act by which truth, community, and creation stay aligned.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

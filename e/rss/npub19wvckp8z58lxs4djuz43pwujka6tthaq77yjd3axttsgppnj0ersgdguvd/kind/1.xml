@@ -5,7 +5,57 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 28 Jan 2026 20:21:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 00:26:19 GMT</lastBuildDate>
+    <item>
+      <title>Note 5 — You’re Not Behind - 1/29/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=110a95dfd61a92c162d5bb3875ebc9b9e84a8c8777de015336d7691fe8850d30</link>
+      <guid isPermaLink="false">110a95dfd61a92c162d5bb3875ebc9b9e84a8c8777de015336d7691fe8850d30</guid>
+      <pubDate>Thu, 29 Jan 2026 19:18:34 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 4 — Obscurity Is a Forge - 1/29/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=576f6ccf6f2bd9bf18dd0f93a6c7a5a2c781eef6bd5e8b182e9170575f68a035</link>
+      <guid isPermaLink="false">576f6ccf6f2bd9bf18dd0f93a6c7a5a2c781eef6bd5e8b182e9170575f68a035</guid>
+      <pubDate>Thu, 29 Jan 2026 19:17:14 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 3 — Loneliness Is Often the Cost of Integrity - 1/29/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=14209b3a26d27e2605708d7263dee5642d80b66b3eeb5b2fdce408f348b443df</link>
+      <guid isPermaLink="false">14209b3a26d27e2605708d7263dee5642d80b66b3eeb5b2fdce408f348b443df</guid>
+      <pubDate>Thu, 29 Jan 2026 19:15:52 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 2 — Validation Is a Lagging Indicator - 1/29/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=cf651afb6533e338469ee0278c05bc5e7501244998af6d190f514317cca4c61e</link>
+      <guid isPermaLink="false">cf651afb6533e338469ee0278c05bc5e7501244998af6d190f514317cca4c61e</guid>
+      <pubDate>Thu, 29 Jan 2026 19:14:07 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 1 — Silence Is Not a Verdict - 1/29/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=8b128c8d7da8d4337068dea986b4401ad393f74a60a555156913e8b8eb4b3f92</link>
+      <guid isPermaLink="false">8b128c8d7da8d4337068dea986b4401ad393f74a60a555156913e8b8eb4b3f92</guid>
+      <pubDate>Thu, 29 Jan 2026 19:12:15 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Note 5 — Quiet Conviction - 1/28/2026</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=38f6d6b45ea5f2b7fccd211c931afe7977f6c992c6d6dc7a5689fa8ef99d644a</link>

@@ -1,5 +1,104 @@
 [
   {
+    "slug": "-why-long-term-work-refuses-to-justify-itself-2026-01-29",
+    "event_id": "b69a4c5be86f5e842e0025db0141d23b6cc58602fdebab5237f1947d32713ef2",
+    "created_at": 1769732357,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/b69a4c5be86f5e842e0025db0141d23b6cc58602fdebab5237f1947d32713ef2.json",
+    "title": "🔒 Why Long-Term Work Refuses to Justify Itself",
+    "summary": "Long-term builders are often asked to explain themselves—why the work matters, why it takes so long, why it isn’t visible yet. This piece argues that durable work cannot be constantly justified without being compromised.",
+    "paid": false
+  },
+  {
+    "slug": "building-for-the-long-term-means-accepting-invisibility-2026-01-29",
+    "event_id": "ab3d11c4e3796434ebdfa9b6dd5c51e552dd55184ad371c55b97b101f942367b",
+    "created_at": 1769732016,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/ab3d11c4e3796434ebdfa9b6dd5c51e552dd55184ad371c55b97b101f942367b.json",
+    "title": "🔒 Building for the Long Term Means Accepting Invisibility",
+    "summary": "Most meaningful systems are built in seasons where no one is watching. This piece explores why invisibility is not a failure mode but a prerequisite for durability—and why chasing early validation quietly destroys long-term work.",
+    "paid": false
+  },
+  {
+    "slug": "long-term-builders-design-for-failure-not-success-2026-01-29",
+    "event_id": "230e5fd6b186b46a5a9105878cd7f12948b3ecef83654a5fdd042324bd1b95fa",
+    "created_at": 1769731970,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/230e5fd6b186b46a5a9105878cd7f12948b3ecef83654a5fdd042324bd1b95fa.json",
+    "title": "🔒 Long-Term Builders Design for Failure, Not Success",
+    "summary": "Short-term builders imagine success and work backward. Long-term builders imagine failure and design forward. This essay explores why resilience—not upside—is the defining feature of systems that endure.",
+    "paid": false
+  },
+  {
+    "slug": "inhabiting-continuum-how-building-it-changed-how-i-see-the-world",
+    "event_id": "18662a95941e28d8dfcab8f7a3c1cdf6e4231d07e872850887dd9520afc62fb3",
+    "created_at": 1769716696,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/18662a95941e28d8dfcab8f7a3c1cdf6e4231d07e872850887dd9520afc62fb3.json",
+    "title": "Inhabiting Continuum: How Building It Changed How I See the World",
+    "summary": "Continuum didn’t just become a tool I built — it became a place I live from. This piece reflects on how building a system, becoming a writer, and collaborating with tools (human and artificial) reshaped how I understand time, identity, authorship, and truth.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "110a95dfd61a92c162d5bb3875ebc9b9e84a8c8777de015336d7691fe8850d30",
+    "created_at": 1769714314,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/110a95dfd61a92c162d5bb3875ebc9b9e84a8c8777de015336d7691fe8850d30.json",
+    "title": "Note 5 — You’re Not Behind - 1/29/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "576f6ccf6f2bd9bf18dd0f93a6c7a5a2c781eef6bd5e8b182e9170575f68a035",
+    "created_at": 1769714234,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/576f6ccf6f2bd9bf18dd0f93a6c7a5a2c781eef6bd5e8b182e9170575f68a035.json",
+    "title": "Note 4 — Obscurity Is a Forge - 1/29/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "14209b3a26d27e2605708d7263dee5642d80b66b3eeb5b2fdce408f348b443df",
+    "created_at": 1769714152,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/14209b3a26d27e2605708d7263dee5642d80b66b3eeb5b2fdce408f348b443df.json",
+    "title": "Note 3 — Loneliness Is Often the Cost of Integrity - 1/29/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "cf651afb6533e338469ee0278c05bc5e7501244998af6d190f514317cca4c61e",
+    "created_at": 1769714047,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/cf651afb6533e338469ee0278c05bc5e7501244998af6d190f514317cca4c61e.json",
+    "title": "Note 2 — Validation Is a Lagging Indicator - 1/29/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "8b128c8d7da8d4337068dea986b4401ad393f74a60a555156913e8b8eb4b3f92",
+    "created_at": 1769713935,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/8b128c8d7da8d4337068dea986b4401ad393f74a60a555156913e8b8eb4b3f92.json",
+    "title": "Note 1 — Silence Is Not a Verdict - 1/29/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "the-cost-of-depending-on-systems-you-dont-control-2026-01-28",
     "event_id": "18232545418eb1c582d30f25b8c66f89543790f8c8849a39df4da171300429e1",
     "created_at": 1769629537,
