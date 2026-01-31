@@ -1,5 +1,27 @@
 [
   {
+    "slug": "continuum-and-the-work-of-stewardship--",
+    "event_id": "1e25ff9c3ac24215138884158611e9822d8212457c006987de699675bdfb2dab",
+    "created_at": 1769831831,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/1e25ff9c3ac24215138884158611e9822d8212457c006987de699675bdfb2dab.json",
+    "title": "Continuum and the Work of Stewardship  -",
+    "summary": "Modern ministries rely heavily on platforms they do not control. Continuum offers a different approach: a local-first publishing foundation that prioritizes stewardship, integrity, and long-term faithfulness over reach, metrics, or convenience.",
+    "paid": false
+  },
+  {
+    "slug": "continuum-a-local-first-publishing-system",
+    "event_id": "58f0e84eb52523defa2d4c67a4912764733dfbd848ab6cf16a33b05e80da0c8d",
+    "created_at": 1769831674,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/58f0e84eb52523defa2d4c67a4912764733dfbd848ab6cf16a33b05e80da0c8d.json",
+    "title": "Continuum: A Local-First Publishing System",
+    "summary": "Continuum is a local-first, Docker-based publishing system built on Nostr. It emphasizes explicit control, minimal trust surfaces, and optional archiving rather than automatic cloud dependence.",
+    "paid": false
+  },
+  {
     "slug": "-why-the-most-impressive-systems-dont-try-to-look-impressive-2026-01-30",
     "event_id": "02c9a7203df20970dacecf4775a26d7b008e6dce14ee1f717bbcd035bd0c34b9",
     "created_at": 1769816964,

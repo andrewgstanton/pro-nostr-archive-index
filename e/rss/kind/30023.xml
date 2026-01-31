@@ -5,7 +5,27 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 30 Jan 2026 23:59:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 05:48:04 GMT</lastBuildDate>
+    <item>
+      <title>Continuum and the Work of Stewardship  -</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1e25ff9c3ac24215138884158611e9822d8212457c006987de699675bdfb2dab</link>
+      <guid isPermaLink="false">1e25ff9c3ac24215138884158611e9822d8212457c006987de699675bdfb2dab</guid>
+      <pubDate>Sat, 31 Jan 2026 03:57:11 GMT</pubDate>
+      <description><![CDATA[Modern ministries rely heavily on platforms they do not control. Continuum offers a different approach: a local-first publishing foundation that prioritizes stewardship, integrity, and long-term faithfulness over reach, metrics, or convenience.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Continuum: A Local-First Publishing System</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=58f0e84eb52523defa2d4c67a4912764733dfbd848ab6cf16a33b05e80da0c8d</link>
+      <guid isPermaLink="false">58f0e84eb52523defa2d4c67a4912764733dfbd848ab6cf16a33b05e80da0c8d</guid>
+      <pubDate>Sat, 31 Jan 2026 03:54:34 GMT</pubDate>
+      <description><![CDATA[Continuum is a local-first, Docker-based publishing system built on Nostr. It emphasizes explicit control, minimal trust surfaces, and optional archiving rather than automatic cloud dependence.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Why the Most Impressive Systems Don’t Try to Look Impressive</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=02c9a7203df20970dacecf4775a26d7b008e6dce14ee1f717bbcd035bd0c34b9</link>
@@ -4992,26 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">9290cecad0d7e6f339bf39b70bbe6937970acb5f94706565e1e0f7549981e56d</guid>
       <pubDate>Mon, 27 Oct 2025 01:36:26 GMT</pubDate>
       <description><![CDATA[We dream of new worlds — the Moon, Mars, the asteroids — but if the heavens already belong to God, what does it mean to build, to claim, or to settle? This reflection wrestles with the paradox of possession and stewardship, tracing how human ambition might yet serve a higher design.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Gravity Of Grace</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=70a0333d05163feec1c690e695dbc7b4ca57c927548c9619f65e710669828262</link>
-      <guid isPermaLink="false">70a0333d05163feec1c690e695dbc7b4ca57c927548c9619f65e710669828262</guid>
-      <pubDate>Mon, 27 Oct 2025 01:21:13 GMT</pubDate>
-      <description><![CDATA[God’s love is not a gentle invitation that may or may not be accepted; it is the supermassive center of all reality. Every created being, willingly or not, is drawn toward that singularity of holiness until nothing remains outside His light. Judgment is real, but it is the collapse of pride into glory—the moment when resistance can no longer hold against the infinite pull of grace.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Oct. 20, 2025): The Bitcoin Chronicles: The Halving of History</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=19c4bb504bb5e31ee33226806ac5b2afc2d9f8744921913cfda271ef90b79287</link>
-      <guid isPermaLink="false">19c4bb504bb5e31ee33226806ac5b2afc2d9f8744921913cfda271ef90b79287</guid>
-      <pubDate>Wed, 22 Oct 2025 20:29:25 GMT</pubDate>
-      <description><![CDATA[A meditation on New Lakota’s Halving Day ritual — how a Martian colony transforms Bitcoin’s mechanical scarcity into a moral rhythm of restraint, proving that civilizations endure not by expansion but by remembering when to stop.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

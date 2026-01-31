@@ -5,7 +5,27 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 30 Jan 2026 23:59:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 05:48:04 GMT</lastBuildDate>
+    <item>
+      <title>Continuum and the Work of Stewardship  -</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1e25ff9c3ac24215138884158611e9822d8212457c006987de699675bdfb2dab</link>
+      <guid isPermaLink="false">1e25ff9c3ac24215138884158611e9822d8212457c006987de699675bdfb2dab</guid>
+      <pubDate>Sat, 31 Jan 2026 03:57:11 GMT</pubDate>
+      <description><![CDATA[Modern ministries rely heavily on platforms they do not control. Continuum offers a different approach: a local-first publishing foundation that prioritizes stewardship, integrity, and long-term faithfulness over reach, metrics, or convenience.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Continuum: A Local-First Publishing System</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=58f0e84eb52523defa2d4c67a4912764733dfbd848ab6cf16a33b05e80da0c8d</link>
+      <guid isPermaLink="false">58f0e84eb52523defa2d4c67a4912764733dfbd848ab6cf16a33b05e80da0c8d</guid>
+      <pubDate>Sat, 31 Jan 2026 03:54:34 GMT</pubDate>
+      <description><![CDATA[Continuum is a local-first, Docker-based publishing system built on Nostr. It emphasizes explicit control, minimal trust surfaces, and optional archiving rather than automatic cloud dependence.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Why the Most Impressive Systems Don’t Try to Look Impressive</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=02c9a7203df20970dacecf4775a26d7b008e6dce14ee1f717bbcd035bd0c34b9</link>
@@ -4982,26 +5002,6 @@
       <guid isPermaLink="false">ced6220635074611b4bd4ae8d45f1ffcf2af63bfb05c9dcbcc7076398fc9257b</guid>
       <pubDate>Tue, 09 Dec 2025 00:58:03 GMT</pubDate>
       <description><![CDATA[Why I denominate wealth in Bitcoin instead of chasing endless fiat gains — and why treasury design, not trading skill, defines sovereignty.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Two Faces of Babylon: Amoral Power, Immoral Consequences</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=65298e0f3e7b1076aa73692ede13e66534c406ff1ed0289308215728b4df484a</link>
-      <guid isPermaLink="false">65298e0f3e7b1076aa73692ede13e66534c406ff1ed0289308215728b4df484a</guid>
-      <pubDate>Mon, 08 Dec 2025 17:22:41 GMT</pubDate>
-      <description><![CDATA[Babylon is not a conspiracy or a cabal—it is a system whose amoral logic produces profoundly immoral outcomes. Its power lies not in overt oppression but in the subtle ways it rewards compliance, punishes sovereignty, and shapes identity. This essay explains why good, decent people—including those closest to us—remain within Babylon without realizing the cost.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Dec. 7, 2025): the Bitcoin Chronicles - 1.B.9 - The Great Archive Migration</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c5489b0fb248b486c852bb668656a3f4b6ba1108197b648f0439b57cd721ba3c</link>
-      <guid isPermaLink="false">c5489b0fb248b486c852bb668656a3f4b6ba1108197b648f0439b57cd721ba3c</guid>
-      <pubDate>Mon, 08 Dec 2025 05:49:11 GMT</pubDate>
-      <description><![CDATA[When Earth began rewriting history after the Exodus Protocol leak, Luna Freeport responded with one of the most ambitious cultural projects in human history: relocating, preserving, and expanding the entire Sovereign Archive into a vast, subterranean knowledge sanctuary beneath the Shackleton region.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

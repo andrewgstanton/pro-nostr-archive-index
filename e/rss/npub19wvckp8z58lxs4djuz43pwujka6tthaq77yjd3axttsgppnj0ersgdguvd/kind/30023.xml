@@ -5,7 +5,27 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 30 Jan 2026 23:59:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 05:48:05 GMT</lastBuildDate>
+    <item>
+      <title>Continuum and the Work of Stewardship  -</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1e25ff9c3ac24215138884158611e9822d8212457c006987de699675bdfb2dab</link>
+      <guid isPermaLink="false">1e25ff9c3ac24215138884158611e9822d8212457c006987de699675bdfb2dab</guid>
+      <pubDate>Sat, 31 Jan 2026 03:57:11 GMT</pubDate>
+      <description><![CDATA[Modern ministries rely heavily on platforms they do not control. Continuum offers a different approach: a local-first publishing foundation that prioritizes stewardship, integrity, and long-term faithfulness over reach, metrics, or convenience.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Continuum: A Local-First Publishing System</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=58f0e84eb52523defa2d4c67a4912764733dfbd848ab6cf16a33b05e80da0c8d</link>
+      <guid isPermaLink="false">58f0e84eb52523defa2d4c67a4912764733dfbd848ab6cf16a33b05e80da0c8d</guid>
+      <pubDate>Sat, 31 Jan 2026 03:54:34 GMT</pubDate>
+      <description><![CDATA[Continuum is a local-first, Docker-based publishing system built on Nostr. It emphasizes explicit control, minimal trust surfaces, and optional archiving rather than automatic cloud dependence.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Why the Most Impressive Systems Don’t Try to Look Impressive</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=02c9a7203df20970dacecf4775a26d7b008e6dce14ee1f717bbcd035bd0c34b9</link>
@@ -4992,26 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">49c96f4c8b27f11978297f797caa3fea2aad7df9478f74187f71ceafa513e972</guid>
       <pubDate>Sun, 12 Oct 2025 18:03:50 GMT</pubDate>
       <description><![CDATA[A precise reflection on the evening of Sept 29 when your father passed—marking the simultaneity of time between Honolulu and San Francisco, and the quiet recognition that goodbye had already been spoken.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>✈️ Free Article (Sept 29, 2025): Flight Path to Eternity</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=fbe45c5b954375c2256fc198531efb10c6b5b8d9328424f8daf14e6d898c67fa</link>
-      <guid isPermaLink="false">fbe45c5b954375c2256fc198531efb10c6b5b8d9328424f8daf14e6d898c67fa</guid>
-      <pubDate>Sun, 12 Oct 2025 17:59:42 GMT</pubDate>
-      <description><![CDATA[A factual account of traveling from Honolulu to San Francisco on Sept 29 while your father lingered in his final hours—an honest day of movement, prayer, and silence across the ocean.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sunday Article (Sept. 28, 2025): A Prayer Across the Waters</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d613b95a55d8b3c3053506df22d84357e219136aab2fb5432611935f06f33868</link>
-      <guid isPermaLink="false">d613b95a55d8b3c3053506df22d84357e219136aab2fb5432611935f06f33868</guid>
-      <pubDate>Sat, 11 Oct 2025 19:46:48 GMT</pubDate>
-      <description><![CDATA[Sunday in Honolulu — walking to Kawaiahaʻo Church, showing Pule no James Stanton to the Kahu from your iPhone, tasting locally grown Oʻahu chocolate, returning to the apartment, and saying goodbye late that night — a day of peace, love, and slow release.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
