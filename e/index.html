@@ -309,14 +309,29 @@
    
     // helper to extract year from archive url
    
-    function extractYearFromArchiveUrl(url) {
+    function extractArchiveYearFromUrl(url) {
       try {
-        const u = new URL(url);
-        const match = u.hostname.match(/^(\d{4})\.mycontinuum\.xyz$/);
-        return match ? match[1] : null;
+        const u = new URL(url, window.location.href);
+        // expects: https://2026.mycontinuum.xyz/archive/...
+        const m = u.hostname.match(/^(\d{4})\.mycontinuum\.xyz$/);
+        return m ? m[1] : null;
       } catch {
         return null;
       }
+    }
+
+    function buildVerifyUrlFromJsonUrl(jsonUrl, npub) {
+      const year = extractArchiveYearFromUrl(jsonUrl);
+      if (!year) return null;
+
+      // verifier is hosted inside the same year’s archive domain
+      const base = `https://${year}.mycontinuum.xyz/archive/verify.html`;
+
+      const params = new URLSearchParams();
+      params.set("src", jsonUrl);
+      if (npub) params.set("npub", npub);
+
+      return `${base}?${params.toString()}`;
     }
 
 
@@ -356,17 +371,10 @@
 
         // get year and verifyurl
 
-        const year = extractYearFromArchiveUrl(jsonUrl);
-
-        if (!year) {
-            console.warn("Could not determine archive year from json_url");
-        }
-
-        const verifyUrl =
-            `https://${year}.mycontinuum.xyz/archive/verify.html` +
-            `?src=${encodeURIComponent(jsonUrl)}` +
-            `&npub=${encodeURIComponent(entry.npub || "")}`;
-
+        const verifyUrl = buildVerifyUrlFromJsonUrl(jsonUrl, entry.npub || "");
+        const verifyLinkHtml = verifyUrl
+          ? `<a href="${verifyUrl}" target="_blank">Verify Authorship</a>`
+        : "";
 
         const evRes = await fetch(jsonUrl, { cache: "no-cache" });
         const evJson = await evRes.json();
@@ -434,7 +442,7 @@
         if (isProfile) {
           linksEl.innerHTML = `
             <a href="${jsonUrl}" target="_blank">Raw JSON</a>
-            <a href="${verifyUrl}" target="_blank">Verify Authorship</a>
+            ${verifyLinkHtml}
             <a href="${mdUrl}" target="_blank">Markdown (if exists)</a>
             <a href="${pdfUrl}" target="_blank">PDF (if exists)</a>
             <a href="https://primal.net/p/${npub}" target="_blank">Primal</a>
@@ -446,7 +454,7 @@
         } else {
           linksEl.innerHTML = `
             <a href="${jsonUrl}" target="_blank">Raw JSON</a>
-            <a href="${verifyUrl}" target="_blank">Verify Authorship</a>
+            ${verifyLinkHtml}
             <a href="${mdUrl}" target="_blank">Markdown (if exists)</a>
             <a href="${pdfUrl}" target="_blank">PDF (if exists)</a>
             <a href="https://primal.net/e/${eid}" target="_blank">Primal</a>
