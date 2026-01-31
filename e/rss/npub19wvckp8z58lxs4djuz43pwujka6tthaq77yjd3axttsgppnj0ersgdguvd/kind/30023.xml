@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 31 Jan 2026 05:48:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 23:14:49 GMT</lastBuildDate>
+    <item>
+      <title>Sabbath and the Courage to Be Unseen</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=46b04447b4a288c4cc62e96f3392b4f55f92a398f82f13ac1253195272476b77</link>
+      <guid isPermaLink="false">46b04447b4a288c4cc62e96f3392b4f55f92a398f82f13ac1253195272476b77</guid>
+      <pubDate>Sat, 31 Jan 2026 20:44:13 GMT</pubDate>
+      <description><![CDATA[Sabbath teaches us to accept being unseen, unresponsive, and unmeasured — even temporarily. In a culture addicted to visibility, this kind of rest requires courage.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Sabbath as Resistance in a World That Never Stops</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5fc021b7fd2cc025067ce2a974dbbd0e417a7e8a63eebc946a8d5e6321878383</link>
+      <guid isPermaLink="false">5fc021b7fd2cc025067ce2a974dbbd0e417a7e8a63eebc946a8d5e6321878383</guid>
+      <pubDate>Sat, 31 Jan 2026 20:41:56 GMT</pubDate>
+      <description><![CDATA[Sabbath is not rest as recovery for more work. It is resistance against systems that demand constant output, visibility, and optimization. In a culture that never stops measuring worth by productivity, Sabbath quietly declares freedom.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Sabbath Is Not Earned</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e3997ecd5597b600ea67ae989b119dccd414605eaa24548a0bbc839f58700075</link>
+      <guid isPermaLink="false">e3997ecd5597b600ea67ae989b119dccd414605eaa24548a0bbc839f58700075</guid>
+      <pubDate>Sat, 31 Jan 2026 20:35:22 GMT</pubDate>
+      <description><![CDATA[Sabbath is not a reward for finishing your work. It is a gift given before productivity begins. Treating rest as something to be earned reverses the order God established.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Continuum and the Work of Stewardship  -</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=1e25ff9c3ac24215138884158611e9822d8212457c006987de699675bdfb2dab</link>
@@ -4982,36 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">49538bed085086e20b9a766d5432d89fcf675c0c574ee87841432e597a310683</guid>
       <pubDate>Sat, 18 Oct 2025 04:01:17 GMT</pubDate>
       <description><![CDATA[Real freedom demands order, not anarchy. This essay connects Bitcoin’s self-custody and Nostr’s self-authorship to the moral discipline required for sovereignty — freedom as responsibility, not indulgence.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Oct. 15, 2025): Why We Build in the Open</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5e56894e25053b6bc21283770ef93af4919a5e6988f107c1c06225fcecf1c294</link>
-      <guid isPermaLink="false">5e56894e25053b6bc21283770ef93af4919a5e6988f107c1c06225fcecf1c294</guid>
-      <pubDate>Thu, 16 Oct 2025 04:52:30 GMT</pubDate>
-      <description><![CDATA[A hopeful, extended meditation on openness as the foundation of trust and resilience. Andrew G. Stanton argues that transparency is not fragility but strength — the moral and architectural backbone of a sovereign age — and that the act of building in public is itself an expression of faith in truth.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>A note on faith, architecture, and the moral weight of open systems</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=1abde65146054ceac7ffafe61bb05c198e59972e7dfc40d6c7ae5a321bd0d7d0</link>
-      <guid isPermaLink="false">1abde65146054ceac7ffafe61bb05c198e59972e7dfc40d6c7ae5a321bd0d7d0</guid>
-      <pubDate>Thu, 16 Oct 2025 04:49:28 GMT</pubDate>
-      <description><![CDATA[A short author’s reflection on faith, architecture, and truth — clarifying that Continuum’s language of “cathedrals” and “builders of light” is not religious doctrine but a moral vision of integrity and openness rooted in the Victorious Gospel of Jesus Christ and accessible to all.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🕰️ Free Article 2 (Sept 29, 2025): Five-Thirty in Two Time Zones</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=49c96f4c8b27f11978297f797caa3fea2aad7df9478f74187f71ceafa513e972</link>
-      <guid isPermaLink="false">49c96f4c8b27f11978297f797caa3fea2aad7df9478f74187f71ceafa513e972</guid>
-      <pubDate>Sun, 12 Oct 2025 18:03:50 GMT</pubDate>
-      <description><![CDATA[A precise reflection on the evening of Sept 29 when your father passed—marking the simultaneity of time between Honolulu and San Francisco, and the quiet recognition that goodbye had already been spoken.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
