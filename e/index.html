@@ -340,6 +340,8 @@
   
         // Load event JSON
         const jsonUrl = entry.json_url;
+        const verifyUrl = `./verify.html?src=${encodeURIComponent(jsonUrl)}&npub=${encodeURIComponent(entry.npub || "")}`;
+
         const evRes = await fetch(jsonUrl, { cache: "no-cache" });
         const evJson = await evRes.json();
   
@@ -406,6 +408,7 @@
         if (isProfile) {
           linksEl.innerHTML = `
             <a href="${jsonUrl}" target="_blank">Raw JSON</a>
+            <a href="${verifyUrl}" target="_blank">Verify Authorship</a>
             <a href="${mdUrl}" target="_blank">Markdown (if exists)</a>
             <a href="${pdfUrl}" target="_blank">PDF (if exists)</a>
             <a href="https://primal.net/p/${npub}" target="_blank">Primal</a>
@@ -417,6 +420,7 @@
         } else {
           linksEl.innerHTML = `
             <a href="${jsonUrl}" target="_blank">Raw JSON</a>
+            <a href="${verifyUrl}" target="_blank">Verify Authorship</a>
             <a href="${mdUrl}" target="_blank">Markdown (if exists)</a>
             <a href="${pdfUrl}" target="_blank">PDF (if exists)</a>
             <a href="https://primal.net/e/${eid}" target="_blank">Primal</a>
