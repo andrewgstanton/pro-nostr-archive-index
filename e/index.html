@@ -306,7 +306,20 @@
         }
       });
     }
-    
+   
+    // helper to extract year from archive url
+   
+    function extractYearFromArchiveUrl(url) {
+      try {
+        const u = new URL(url);
+        const match = u.hostname.match(/^(\d{4})\.mycontinuum\.xyz$/);
+        return match ? match[1] : null;
+      } catch {
+        return null;
+      }
+    }
+
+
     // ----------------------------------------------------
   
     async function loadEvent() {
@@ -340,7 +353,20 @@
   
         // Load event JSON
         const jsonUrl = entry.json_url;
-        const verifyUrl = `./verify.html?src=${encodeURIComponent(jsonUrl)}&npub=${encodeURIComponent(entry.npub || "")}`;
+
+        // get year and verifyurl
+
+        const year = extractYearFromArchiveUrl(jsonUrl);
+
+        if (!year) {
+            console.warn("Could not determine archive year from json_url");
+        }
+
+        const verifyUrl =
+            `https://${year}.mycontinuum.xyz/archive/verify.html` +
+            `?src=${encodeURIComponent(jsonUrl)}` +
+            `&npub=${encodeURIComponent(entry.npub || "")}`;
+
 
         const evRes = await fetch(jsonUrl, { cache: "no-cache" });
         const evJson = await evRes.json();
