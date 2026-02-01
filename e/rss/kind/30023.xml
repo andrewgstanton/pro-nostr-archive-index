@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 01 Feb 2026 22:36:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 22:58:40 GMT</lastBuildDate>
+    <item>
+      <title>Intentional Work as a Form of Stewardship</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d42bc19bbf631ccdd351bebfe4df0df1699104b555c2ba86fa18b71e54ec3620</link>
+      <guid isPermaLink="false">d42bc19bbf631ccdd351bebfe4df0df1699104b555c2ba86fa18b71e54ec3620</guid>
+      <pubDate>Sun, 01 Feb 2026 22:50:55 GMT</pubDate>
+      <description><![CDATA[Building with intention is not only a creative choice but a moral one. It treats time, skill, and attention as resources to be stewarded—not exploited.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Building to Bless Others, Not to Capture Them</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3f9d6b684760587c94114b88313519a0d21171b6e566dbad5cbb22a0a5938f3d</link>
+      <guid isPermaLink="false">3f9d6b684760587c94114b88313519a0d21171b6e566dbad5cbb22a0a5938f3d</guid>
+      <pubDate>Sun, 01 Feb 2026 22:49:40 GMT</pubDate>
+      <description><![CDATA[Many modern tools are designed to capture attention and lock in users. Building to bless others requires a different posture—one rooted in trust, restraint, and respect.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Building with Intention in a World Obsessed with Outcomes</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=820a0a6402ba35af21105111405788cb284c3c5505f585d5d4de786d9e421cc8</link>
+      <guid isPermaLink="false">820a0a6402ba35af21105111405788cb284c3c5505f585d5d4de786d9e421cc8</guid>
+      <pubDate>Sun, 01 Feb 2026 22:48:17 GMT</pubDate>
+      <description><![CDATA[In a culture that rewards speed, growth, and visibility, building with intention can feel inefficient. But intention is what determines whether a tool ultimately extracts from others or blesses them.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Continuum pricing (for clarity)</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=79281037af603b4d32ea8e0414755ce718e04faf5e31d1d9c8021cb524237f83</link>
@@ -4982,36 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">7af300ee30ad729e74f4f1ea85ea549b427709bee74341495ebdc752173e5e2d</guid>
       <pubDate>Mon, 27 Oct 2025 03:27:16 GMT</pubDate>
       <description><![CDATA[Markets appear stable because the turbulence is hidden. Bitcoin refuses to hide it. That’s the difference between a mirror and a mirage. Fiat systems paint calm skies over stormy seas, while Bitcoin leaves the waves visible — a truthful reflection of a world still learning what value means.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Oct. 21, 2025): Volatility Is Not the Point</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=cf6b04e54904c2f1cbd33fa0eb7546383355bda602eccb170d5d73a0437e696d</link>
-      <guid isPermaLink="false">cf6b04e54904c2f1cbd33fa0eb7546383355bda602eccb170d5d73a0437e696d</guid>
-      <pubDate>Mon, 27 Oct 2025 02:50:17 GMT</pubDate>
-      <description><![CDATA[Every market moves. Prices rise and fall like tides, revealing the friction between what we know and what we think we know. Volatility isn’t what separates Bitcoin from everything else — it’s what exposes the difference. Beneath the motion lies a deeper stillness: truth learning to express itself in a world addicted to control.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sabbath Article (Oct. 25, 2025): The Fragility and the Breath</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c71af9bafbe7349557edea782b46021199d10da99724dfab4e667f52fee2d452</link>
-      <guid isPermaLink="false">c71af9bafbe7349557edea782b46021199d10da99724dfab4e667f52fee2d452</guid>
-      <pubDate>Mon, 27 Oct 2025 02:37:44 GMT</pubDate>
-      <description><![CDATA[Sabbath doesn’t always come with joy. Sometimes it arrives as exhaustion after a night of panic, or the slow return of breath after fear has hollowed you out. This week, it came through Whiskers — the small, trembling heartbeat that reminded us what rest really means. Sabbath is not escape from fragility; it is learning to dwell inside it without breaking.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Oct. 25, 2025): The Long Night of Waiting</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=cf3685a7653908cec70f301cc9b597bf69c668d413b4d0fd4e97649ae107bed7</link>
-      <guid isPermaLink="false">cf3685a7653908cec70f301cc9b597bf69c668d413b4d0fd4e97649ae107bed7</guid>
-      <pubDate>Mon, 27 Oct 2025 02:33:50 GMT</pubDate>
-      <description><![CDATA[The day after Whiskers’ emergency, the house was filled with a strange, heavy peace. His breathing had slowed to twenty-four a minute — a small miracle — yet every hour felt borrowed. We began his new medications that night, learning to trust again in time, in healing, and in rest.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

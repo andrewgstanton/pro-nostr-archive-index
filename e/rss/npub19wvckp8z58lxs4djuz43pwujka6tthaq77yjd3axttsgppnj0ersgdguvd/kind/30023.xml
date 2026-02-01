@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 01 Feb 2026 22:36:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 22:58:40 GMT</lastBuildDate>
+    <item>
+      <title>Intentional Work as a Form of Stewardship</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d42bc19bbf631ccdd351bebfe4df0df1699104b555c2ba86fa18b71e54ec3620</link>
+      <guid isPermaLink="false">d42bc19bbf631ccdd351bebfe4df0df1699104b555c2ba86fa18b71e54ec3620</guid>
+      <pubDate>Sun, 01 Feb 2026 22:50:55 GMT</pubDate>
+      <description><![CDATA[Building with intention is not only a creative choice but a moral one. It treats time, skill, and attention as resources to be stewarded—not exploited.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Building to Bless Others, Not to Capture Them</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3f9d6b684760587c94114b88313519a0d21171b6e566dbad5cbb22a0a5938f3d</link>
+      <guid isPermaLink="false">3f9d6b684760587c94114b88313519a0d21171b6e566dbad5cbb22a0a5938f3d</guid>
+      <pubDate>Sun, 01 Feb 2026 22:49:40 GMT</pubDate>
+      <description><![CDATA[Many modern tools are designed to capture attention and lock in users. Building to bless others requires a different posture—one rooted in trust, restraint, and respect.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Building with Intention in a World Obsessed with Outcomes</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=820a0a6402ba35af21105111405788cb284c3c5505f585d5d4de786d9e421cc8</link>
+      <guid isPermaLink="false">820a0a6402ba35af21105111405788cb284c3c5505f585d5d4de786d9e421cc8</guid>
+      <pubDate>Sun, 01 Feb 2026 22:48:17 GMT</pubDate>
+      <description><![CDATA[In a culture that rewards speed, growth, and visibility, building with intention can feel inefficient. But intention is what determines whether a tool ultimately extracts from others or blesses them.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Continuum pricing (for clarity)</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=79281037af603b4d32ea8e0414755ce718e04faf5e31d1d9c8021cb524237f83</link>
@@ -4982,36 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">6ca4e5efda0469756fe84e659e0959752ca0cedcdb080a7389368147cff23c5a</guid>
       <pubDate>Sat, 18 Oct 2025 04:55:57 GMT</pubDate>
       <description><![CDATA[Inspiration is unreliable; discipline is merciful. This reflection explores how showing up to write—especially when desire fades—becomes its own form of prayer.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Oct. 13, 2025): Ink and Apathy: When the Muse Doesn’t Call</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b1be397f7b8b1ab425fdffbfc47bdcdfada7f77a2a6036d8e3441ae2efe5f477</link>
-      <guid isPermaLink="false">b1be397f7b8b1ab425fdffbfc47bdcdfada7f77a2a6036d8e3441ae2efe5f477</guid>
-      <pubDate>Sat, 18 Oct 2025 04:29:17 GMT</pubDate>
-      <description><![CDATA[Sometimes the well doesn’t run dry—it just feels silent. This piece explores how to write through indifference, when inspiration sleeps and every sentence sounds tired, yet honesty still demands expression.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Oct. 14, 2025): Charts and Cathedrals</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2556c0554e39afeccb28348f25113d0167231e169fc8564ad44e4966297c4e4c</link>
-      <guid isPermaLink="false">2556c0554e39afeccb28348f25113d0167231e169fc8564ad44e4966297c4e4c</guid>
-      <pubDate>Sat, 18 Oct 2025 04:21:46 GMT</pubDate>
-      <description><![CDATA[A walk and a conversation with another trader reveal the difference between chasing patterns and building foundations. This essay contrasts the precision of charts with the patience of cathedrals—and why I choose to build rather than predict.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🌍 Free Article #1 (Oct 16 2025): The Architecture of Trust</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d04416ef57264934786b78091efb7508e2d61eb32d9f7b08f801adccac49304f</link>
-      <guid isPermaLink="false">d04416ef57264934786b78091efb7508e2d61eb32d9f7b08f801adccac49304f</guid>
-      <pubDate>Sat, 18 Oct 2025 04:06:04 GMT</pubDate>
-      <description><![CDATA[Trust once required authority; now it requires verification. This piece traces the evolution from institutional belief to mathematical proof, showing how Bitcoin, Nostr, and Continuum rebuild civilization on self-verifying trust.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
