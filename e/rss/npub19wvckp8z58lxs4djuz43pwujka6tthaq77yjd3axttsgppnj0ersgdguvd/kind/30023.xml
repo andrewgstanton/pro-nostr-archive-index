@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 01 Feb 2026 04:22:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 20:38:08 GMT</lastBuildDate>
+    <item>
+      <title>Continuum pricing (for clarity)</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c930c670c52d282d4c7ae47656b4d831edfad89898933b71ec2562d10b13f0e0</link>
+      <guid isPermaLink="false">c930c670c52d282d4c7ae47656b4d831edfad89898933b71ec2562d10b13f0e0</guid>
+      <pubDate>Sun, 01 Feb 2026 20:27:48 GMT</pubDate>
+      <description><![CDATA[Continuum pro pricing and features]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Sabbath and the Courage to Be Unseen</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=46b04447b4a288c4cc62e96f3392b4f55f92a398f82f13ac1253195272476b77</link>
@@ -5002,16 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">d04416ef57264934786b78091efb7508e2d61eb32d9f7b08f801adccac49304f</guid>
       <pubDate>Sat, 18 Oct 2025 04:06:04 GMT</pubDate>
       <description><![CDATA[Trust once required authority; now it requires verification. This piece traces the evolution from institutional belief to mathematical proof, showing how Bitcoin, Nostr, and Continuum rebuild civilization on self-verifying trust.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🌍 Free Article #2 (Oct 16 2025): The Discipline of Freedom</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=49538bed085086e20b9a766d5432d89fcf675c0c574ee87841432e597a310683</link>
-      <guid isPermaLink="false">49538bed085086e20b9a766d5432d89fcf675c0c574ee87841432e597a310683</guid>
-      <pubDate>Sat, 18 Oct 2025 04:01:17 GMT</pubDate>
-      <description><![CDATA[Real freedom demands order, not anarchy. This essay connects Bitcoin’s self-custody and Nostr’s self-authorship to the moral discipline required for sovereignty — freedom as responsibility, not indulgence.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

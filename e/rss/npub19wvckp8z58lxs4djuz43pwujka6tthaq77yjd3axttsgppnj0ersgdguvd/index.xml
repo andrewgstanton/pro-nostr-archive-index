@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 01 Feb 2026 04:22:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 20:38:08 GMT</lastBuildDate>
+    <item>
+      <title>Continuum pricing (for clarity)</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c930c670c52d282d4c7ae47656b4d831edfad89898933b71ec2562d10b13f0e0</link>
+      <guid isPermaLink="false">c930c670c52d282d4c7ae47656b4d831edfad89898933b71ec2562d10b13f0e0</guid>
+      <pubDate>Sun, 01 Feb 2026 20:27:48 GMT</pubDate>
+      <description><![CDATA[Continuum pro pricing and features]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:0 d2a0f62a24</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=d2a0f62a24fb67cec12874ffb61c0cbea39800f0e685eeac8346713de7065753</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">6206ff47c810d547636b41f2fb21dd7139276e26a20e3a42a65e311bce5bd9a9</guid>
       <pubDate>Thu, 11 Dec 2025 20:41:53 GMT</pubDate>
       <description><![CDATA[A lore fragment from the early expansion era of *The Bitcoin Chronicles* — the foundational charter that launched humanity’s first sovereign mission beyond Earth.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Dec. 11, 2025): Sovereignty Is Learned in Small Steps</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9322cc359cf203720a6172064e91dad886b527999e8d61755ffbd38f21a01bc1</link>
-      <guid isPermaLink="false">9322cc359cf203720a6172064e91dad886b527999e8d61755ffbd38f21a01bc1</guid>
-      <pubDate>Thu, 11 Dec 2025 20:33:51 GMT</pubDate>
-      <description><![CDATA[Sovereignty isn't a dramatic breakthrough — it is a practiced rhythm of small decisions made daily. We become sovereign by training sovereignty.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

@@ -1,5 +1,16 @@
 [
   {
+    "slug": "continuum-pricing-for-clarity",
+    "event_id": "c930c670c52d282d4c7ae47656b4d831edfad89898933b71ec2562d10b13f0e0",
+    "created_at": 1769977668,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/c930c670c52d282d4c7ae47656b4d831edfad89898933b71ec2562d10b13f0e0.json",
+    "title": "Continuum pricing (for clarity)",
+    "summary": "Continuum pro pricing and features",
+    "paid": false
+  },
+  {
     "slug": null,
     "event_id": "d2a0f62a24fb67cec12874ffb61c0cbea39800f0e685eeac8346713de7065753",
     "created_at": 1769913813,
@@ -14636,7 +14647,7 @@
     "npub": "npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg/1/c776f02240724f531ba0d8d7ea2bb44302174ee909cde27b8cc3292929702f2a.json",
-    "title": "",
+    "title": "Posting on continuum",
     "summary": "",
     "paid": false
   },
