@@ -1,5 +1,16 @@
 [
   {
+    "slug": "continuum-pricing-for-clarity",
+    "event_id": "79281037af603b4d32ea8e0414755ce718e04faf5e31d1d9c8021cb524237f83",
+    "created_at": 1769984357,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/79281037af603b4d32ea8e0414755ce718e04faf5e31d1d9c8021cb524237f83.json",
+    "title": "Continuum pricing (for clarity)",
+    "summary": "Continuum pro pricing and features",
+    "paid": false
+  },
+  {
     "slug": null,
     "event_id": "bdd3178ef4ae6122a6315d79cea9ce7faa29558c808806232968f952604222ab",
     "created_at": 1769978519,
@@ -3339,7 +3350,7 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/ed7ddabef4ea18aeaa649665b5bbbbb5f72e88f66200ec8aa2155574675d8bff.json",
-    "title": "",
+    "title": "On Quiet Work",
     "summary": "",
     "paid": false
   },

@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 01 Feb 2026 20:47:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 22:25:40 GMT</lastBuildDate>
+    <item>
+      <title>Continuum pricing (for clarity)</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=79281037af603b4d32ea8e0414755ce718e04faf5e31d1d9c8021cb524237f83</link>
+      <guid isPermaLink="false">79281037af603b4d32ea8e0414755ce718e04faf5e31d1d9c8021cb524237f83</guid>
+      <pubDate>Sun, 01 Feb 2026 22:19:17 GMT</pubDate>
+      <description><![CDATA[Continuum pro pricing and features]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Continuum pricing (for clarity)</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=bdd3178ef4ae6122a6315d79cea9ce7faa29558c808806232968f952604222ab</link>
@@ -13,16 +23,6 @@
       <pubDate>Sun, 01 Feb 2026 20:41:59 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum pricing (for clarity)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c930c670c52d282d4c7ae47656b4d831edfad89898933b71ec2562d10b13f0e0</link>
-      <guid isPermaLink="false">c930c670c52d282d4c7ae47656b4d831edfad89898933b71ec2562d10b13f0e0</guid>
-      <pubDate>Sun, 01 Feb 2026 20:27:48 GMT</pubDate>
-      <description><![CDATA[Continuum pro pricing and features]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
@@ -2657,7 +2657,7 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>kind:1 ed7ddabef4</title>
+      <title>On Quiet Work</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=ed7ddabef4ea18aeaa649665b5bbbbb5f72e88f66200ec8aa2155574675d8bff</link>
       <guid isPermaLink="false">ed7ddabef4ea18aeaa649665b5bbbbb5f72e88f66200ec8aa2155574675d8bff</guid>
       <pubDate>Thu, 01 Jan 2026 20:27:09 GMT</pubDate>

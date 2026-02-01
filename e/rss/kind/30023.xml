@@ -5,12 +5,12 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 01 Feb 2026 20:47:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 22:25:40 GMT</lastBuildDate>
     <item>
       <title>Continuum pricing (for clarity)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c930c670c52d282d4c7ae47656b4d831edfad89898933b71ec2562d10b13f0e0</link>
-      <guid isPermaLink="false">c930c670c52d282d4c7ae47656b4d831edfad89898933b71ec2562d10b13f0e0</guid>
-      <pubDate>Sun, 01 Feb 2026 20:27:48 GMT</pubDate>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=79281037af603b4d32ea8e0414755ce718e04faf5e31d1d9c8021cb524237f83</link>
+      <guid isPermaLink="false">79281037af603b4d32ea8e0414755ce718e04faf5e31d1d9c8021cb524237f83</guid>
+      <pubDate>Sun, 01 Feb 2026 22:19:17 GMT</pubDate>
       <description><![CDATA[Continuum pro pricing and features]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>

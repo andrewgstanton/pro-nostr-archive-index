@@ -5,7 +5,7 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 01 Feb 2026 20:47:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 22:25:40 GMT</lastBuildDate>
     <item>
       <title>Continuum pricing (for clarity)</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=bdd3178ef4ae6122a6315d79cea9ce7faa29558c808806232968f952604222ab</link>
@@ -1577,7 +1577,7 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>kind:1 ed7ddabef4</title>
+      <title>On Quiet Work</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=ed7ddabef4ea18aeaa649665b5bbbbb5f72e88f66200ec8aa2155574675d8bff</link>
       <guid isPermaLink="false">ed7ddabef4ea18aeaa649665b5bbbbb5f72e88f66200ec8aa2155574675d8bff</guid>
       <pubDate>Thu, 01 Jan 2026 20:27:09 GMT</pubDate>
