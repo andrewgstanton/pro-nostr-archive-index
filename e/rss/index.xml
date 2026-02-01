@@ -5,7 +5,27 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 31 Jan 2026 23:14:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 04:22:30 GMT</lastBuildDate>
+    <item>
+      <title>kind:0 d2a0f62a24</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d2a0f62a24fb67cec12874ffb61c0cbea39800f0e685eeac8346713de7065753</link>
+      <guid isPermaLink="false">d2a0f62a24fb67cec12874ffb61c0cbea39800f0e685eeac8346713de7065753</guid>
+      <pubDate>Sun, 01 Feb 2026 02:43:33 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:0</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🧱 Continuum Testing — 5,000 sats</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=cefa9892da7189dec38eb702a085f95747785540847b1d49718c53f23c56dda9</link>
+      <guid isPermaLink="false">cefa9892da7189dec38eb702a085f95747785540847b1d49718c53f23c56dda9</guid>
+      <pubDate>Sat, 31 Jan 2026 23:49:26 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Publishing cadence (FYI) - 1/31/2026</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=4468c7e429e11e9e4074770acb63cf262535ddf0393ee34adabced58065ef2e9</link>
@@ -423,16 +443,6 @@
       <pubDate>Wed, 28 Jan 2026 00:47:37 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:0 a3f289d3d0</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a3f289d3d0a93cbd9cce4110dea1f734cd19518225037271b9f372658a93ca43</link>
-      <guid isPermaLink="false">a3f289d3d0a93cbd9cce4110dea1f734cd19518225037271b9f372658a93ca43</guid>
-      <pubDate>Wed, 28 Jan 2026 00:40:52 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:0</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">1305129771cb244e4817dc8e128de060d3c706b6cb03ba8c0862b09dd5c12930</guid>
       <pubDate>Fri, 12 Dec 2025 20:20:32 GMT</pubDate>
       <description><![CDATA[In 1944, as world leaders gathered to design the postwar economic order, one unsanctioned economist carried a warning no one would hear. His discarded letter becomes one of the earliest seeds of the sovereign awakening that will one day culminate in the Pilgrim missions.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Oct. 2, 2025): The Next Chapter: Renewal, Sovereignty, and the Future We Build</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=eb037b920c91fc3b0763a6877199291774b938f06feadf3c45d389f1c834e0b8</link>
-      <guid isPermaLink="false">eb037b920c91fc3b0763a6877199291774b938f06feadf3c45d389f1c834e0b8</guid>
-      <pubDate>Fri, 12 Dec 2025 19:34:04 GMT</pubDate>
-      <description><![CDATA[This essay explores renewal after endings—whether personal loss, social upheaval, or economic collapse. It considers how sovereignty is exercised not only in saying goodbye but in saying *yes* to what comes next. Drawing from metaphors of seasons, Scripture, and open protocols like Bitcoin and Nostr, it shows how continuity and innovation can coexist, and how beginnings are authored with courage rather than drift.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 31 Jan 2026 23:14:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 04:22:30 GMT</lastBuildDate>
+    <item>
+      <title>🧱 Continuum Testing — 5,000 sats</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=cefa9892da7189dec38eb702a085f95747785540847b1d49718c53f23c56dda9</link>
+      <guid isPermaLink="false">cefa9892da7189dec38eb702a085f95747785540847b1d49718c53f23c56dda9</guid>
+      <pubDate>Sat, 31 Jan 2026 23:49:26 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Publishing cadence (FYI) - 1/31/2026</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=4468c7e429e11e9e4074770acb63cf262535ddf0393ee34adabced58065ef2e9</link>
@@ -3037,7 +3047,7 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>Posting on continuum</title>
+      <title>kind:1 c776f02240</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=c776f02240724f531ba0d8d7ea2bb44302174ee909cde27b8cc3292929702f2a</link>
       <guid isPermaLink="false">c776f02240724f531ba0d8d7ea2bb44302174ee909cde27b8cc3292929702f2a</guid>
       <pubDate>Sat, 05 Jul 2025 19:40:34 GMT</pubDate>

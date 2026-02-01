@@ -1,6 +1,28 @@
 [
   {
     "slug": null,
+    "event_id": "d2a0f62a24fb67cec12874ffb61c0cbea39800f0e685eeac8346713de7065753",
+    "created_at": 1769913813,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 0,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/0/d2a0f62a24fb67cec12874ffb61c0cbea39800f0e685eeac8346713de7065753.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "cefa9892da7189dec38eb702a085f95747785540847b1d49718c53f23c56dda9",
+    "created_at": 1769903366,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/cefa9892da7189dec38eb702a085f95747785540847b1d49718c53f23c56dda9.json",
+    "title": "🧱 Continuum Testing — 5,000 sats",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
     "event_id": "4468c7e429e11e9e4074770acb63cf262535ddf0393ee34adabced58065ef2e9",
     "created_at": 1769900004,
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
@@ -14614,7 +14636,7 @@
     "npub": "npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg/1/c776f02240724f531ba0d8d7ea2bb44302174ee909cde27b8cc3292929702f2a.json",
-    "title": "Posting on continuum",
+    "title": "",
     "summary": "",
     "paid": false
   },

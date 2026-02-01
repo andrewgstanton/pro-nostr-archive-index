@@ -5,7 +5,27 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 31 Jan 2026 23:14:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 04:22:30 GMT</lastBuildDate>
+    <item>
+      <title>kind:0 d2a0f62a24</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d2a0f62a24fb67cec12874ffb61c0cbea39800f0e685eeac8346713de7065753</link>
+      <guid isPermaLink="false">d2a0f62a24fb67cec12874ffb61c0cbea39800f0e685eeac8346713de7065753</guid>
+      <pubDate>Sun, 01 Feb 2026 02:43:33 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:0</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🧱 Continuum Testing — 5,000 sats</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=cefa9892da7189dec38eb702a085f95747785540847b1d49718c53f23c56dda9</link>
+      <guid isPermaLink="false">cefa9892da7189dec38eb702a085f95747785540847b1d49718c53f23c56dda9</guid>
+      <pubDate>Sat, 31 Jan 2026 23:49:26 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Publishing cadence (FYI) - 1/31/2026</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=4468c7e429e11e9e4074770acb63cf262535ddf0393ee34adabced58065ef2e9</link>
@@ -423,16 +443,6 @@
       <pubDate>Wed, 28 Jan 2026 00:47:37 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:0 a3f289d3d0</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a3f289d3d0a93cbd9cce4110dea1f734cd19518225037271b9f372658a93ca43</link>
-      <guid isPermaLink="false">a3f289d3d0a93cbd9cce4110dea1f734cd19518225037271b9f372658a93ca43</guid>
-      <pubDate>Wed, 28 Jan 2026 00:40:52 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:0</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">9322cc359cf203720a6172064e91dad886b527999e8d61755ffbd38f21a01bc1</guid>
       <pubDate>Thu, 11 Dec 2025 20:33:51 GMT</pubDate>
       <description><![CDATA[Sovereignty isn't a dramatic breakthrough — it is a practiced rhythm of small decisions made daily. We become sovereign by training sovereignty.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 10, 2025): Debasement and Decline: Rome’s Warning for Today</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e193f0992b810c984745d09a7ccfb5e9467a37b9f19b9bcddc7f0dd6aac46cf0</link>
-      <guid isPermaLink="false">e193f0992b810c984745d09a7ccfb5e9467a37b9f19b9bcddc7f0dd6aac46cf0</guid>
-      <pubDate>Wed, 10 Dec 2025 05:18:39 GMT</pubDate>
-      <description><![CDATA[This article explores how Rome’s monetary collapse led to moral and institutional decline, and why Bitcoin offers a way out of repeating history.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
