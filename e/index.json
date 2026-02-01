@@ -1,5 +1,16 @@
 [
   {
+    "slug": null,
+    "event_id": "5ed6a893fed013522c69332568e9c00d2509badf5b8c74bd72bb15c693c5b8d3",
+    "created_at": 1769985055,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/5ed6a893fed013522c69332568e9c00d2509badf5b8c74bd72bb15c693c5b8d3.json",
+    "title": "Continuum pricing (for clarity)",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "continuum-pricing-for-clarity",
     "event_id": "79281037af603b4d32ea8e0414755ce718e04faf5e31d1d9c8021cb524237f83",
     "created_at": 1769984357,

@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 01 Feb 2026 22:25:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 22:36:52 GMT</lastBuildDate>
+    <item>
+      <title>Continuum pricing (for clarity)</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5ed6a893fed013522c69332568e9c00d2509badf5b8c74bd72bb15c693c5b8d3</link>
+      <guid isPermaLink="false">5ed6a893fed013522c69332568e9c00d2509badf5b8c74bd72bb15c693c5b8d3</guid>
+      <pubDate>Sun, 01 Feb 2026 22:30:55 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Continuum pricing (for clarity)</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=79281037af603b4d32ea8e0414755ce718e04faf5e31d1d9c8021cb524237f83</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">a2635e04712eb32987f313ea5dfc645fa54c16e010c89ee56ce8d204a89798b3</guid>
       <pubDate>Fri, 12 Dec 2025 22:41:48 GMT</pubDate>
       <description><![CDATA[A meditation on the difference between spiritual authority, fiat power, and proof-of-work. In a world obsessed with leverage — financial, social, or political — true power remains something money can’t purchase and status can’t secure.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Oct. 10, 2025): The Gospel of Sovereign Peace</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=318597f9404ad111540bcd590ded06cec775b357e959068a9b7a54d8ad20ce15</link>
-      <guid isPermaLink="false">318597f9404ad111540bcd590ded06cec775b357e959068a9b7a54d8ad20ce15</guid>
-      <pubDate>Fri, 12 Dec 2025 21:29:30 GMT</pubDate>
-      <description><![CDATA[Peace isn’t a feeling. It’s a state of alignment — the soul resting in truth rather than illusion. Sovereign peace begins when control ends, when faith becomes trust, and when the heart learns that surrender is the truest form of strength.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

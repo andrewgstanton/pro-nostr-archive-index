@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 01 Feb 2026 22:25:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 22:36:52 GMT</lastBuildDate>
+    <item>
+      <title>Continuum pricing (for clarity)</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5ed6a893fed013522c69332568e9c00d2509badf5b8c74bd72bb15c693c5b8d3</link>
+      <guid isPermaLink="false">5ed6a893fed013522c69332568e9c00d2509badf5b8c74bd72bb15c693c5b8d3</guid>
+      <pubDate>Sun, 01 Feb 2026 22:30:55 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Continuum pricing (for clarity)</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=bdd3178ef4ae6122a6315d79cea9ce7faa29558c808806232968f952604222ab</link>

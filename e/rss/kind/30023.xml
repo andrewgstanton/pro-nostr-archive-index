@@ -5,7 +5,7 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 01 Feb 2026 22:25:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 22:36:52 GMT</lastBuildDate>
     <item>
       <title>Continuum pricing (for clarity)</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=79281037af603b4d32ea8e0414755ce718e04faf5e31d1d9c8021cb524237f83</link>

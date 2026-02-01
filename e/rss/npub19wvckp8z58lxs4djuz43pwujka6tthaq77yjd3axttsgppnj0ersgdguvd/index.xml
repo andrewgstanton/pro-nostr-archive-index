@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 01 Feb 2026 22:25:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 22:36:52 GMT</lastBuildDate>
+    <item>
+      <title>Continuum pricing (for clarity)</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5ed6a893fed013522c69332568e9c00d2509badf5b8c74bd72bb15c693c5b8d3</link>
+      <guid isPermaLink="false">5ed6a893fed013522c69332568e9c00d2509badf5b8c74bd72bb15c693c5b8d3</guid>
+      <pubDate>Sun, 01 Feb 2026 22:30:55 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Continuum pricing (for clarity)</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=79281037af603b4d32ea8e0414755ce718e04faf5e31d1d9c8021cb524237f83</link>
@@ -4991,16 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=0bbcb837b2f804a7a8847b0c1306ff89c38426a7b137c30ac261fa113ddb150f</link>
       <guid isPermaLink="false">0bbcb837b2f804a7a8847b0c1306ff89c38426a7b137c30ac261fa113ddb150f</guid>
       <pubDate>Thu, 11 Dec 2025 21:07:04 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>New piece today:  “Sovereignty Is Learned in Small Steps”</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=576746c1df7ec6a251c37261c58311ef00c0ab9024d2c1d65a466d4b79296bc8</link>
-      <guid isPermaLink="false">576746c1df7ec6a251c37261c58311ef00c0ab9024d2c1d65a466d4b79296bc8</guid>
-      <pubDate>Thu, 11 Dec 2025 21:04:46 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
