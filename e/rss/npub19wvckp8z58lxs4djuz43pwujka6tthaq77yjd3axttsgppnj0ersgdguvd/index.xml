@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 01 Feb 2026 20:38:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 20:47:17 GMT</lastBuildDate>
+    <item>
+      <title>Continuum pricing (for clarity)</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=bdd3178ef4ae6122a6315d79cea9ce7faa29558c808806232968f952604222ab</link>
+      <guid isPermaLink="false">bdd3178ef4ae6122a6315d79cea9ce7faa29558c808806232968f952604222ab</guid>
+      <pubDate>Sun, 01 Feb 2026 20:41:59 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Continuum pricing (for clarity)</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=c930c670c52d282d4c7ae47656b4d831edfad89898933b71ec2562d10b13f0e0</link>
@@ -2647,7 +2657,7 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>On Quiet Work</title>
+      <title>kind:1 ed7ddabef4</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=ed7ddabef4ea18aeaa649665b5bbbbb5f72e88f66200ec8aa2155574675d8bff</link>
       <guid isPermaLink="false">ed7ddabef4ea18aeaa649665b5bbbbb5f72e88f66200ec8aa2155574675d8bff</guid>
       <pubDate>Thu, 01 Jan 2026 20:27:09 GMT</pubDate>
@@ -4993,16 +5003,6 @@
       <pubDate>Thu, 11 Dec 2025 21:04:46 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Dec. 11, 2025): The Bitcoin Chronicles - The First Pilgrim Charter</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6206ff47c810d547636b41f2fb21dd7139276e26a20e3a42a65e311bce5bd9a9</link>
-      <guid isPermaLink="false">6206ff47c810d547636b41f2fb21dd7139276e26a20e3a42a65e311bce5bd9a9</guid>
-      <pubDate>Thu, 11 Dec 2025 20:41:53 GMT</pubDate>
-      <description><![CDATA[A lore fragment from the early expansion era of *The Bitcoin Chronicles* — the foundational charter that launched humanity’s first sovereign mission beyond Earth.]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>

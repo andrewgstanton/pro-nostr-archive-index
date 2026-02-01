@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 01 Feb 2026 20:38:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 20:47:16 GMT</lastBuildDate>
+    <item>
+      <title>Continuum pricing (for clarity)</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=bdd3178ef4ae6122a6315d79cea9ce7faa29558c808806232968f952604222ab</link>
+      <guid isPermaLink="false">bdd3178ef4ae6122a6315d79cea9ce7faa29558c808806232968f952604222ab</guid>
+      <pubDate>Sun, 01 Feb 2026 20:41:59 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Continuum pricing (for clarity)</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=c930c670c52d282d4c7ae47656b4d831edfad89898933b71ec2562d10b13f0e0</link>
@@ -2687,7 +2697,7 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>On Quiet Work</title>
+      <title>kind:1 ed7ddabef4</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=ed7ddabef4ea18aeaa649665b5bbbbb5f72e88f66200ec8aa2155574675d8bff</link>
       <guid isPermaLink="false">ed7ddabef4ea18aeaa649665b5bbbbb5f72e88f66200ec8aa2155574675d8bff</guid>
       <pubDate>Thu, 01 Jan 2026 20:27:09 GMT</pubDate>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">318597f9404ad111540bcd590ded06cec775b357e959068a9b7a54d8ad20ce15</guid>
       <pubDate>Fri, 12 Dec 2025 21:29:30 GMT</pubDate>
       <description><![CDATA[Peace isn’t a feeling. It’s a state of alignment — the soul resting in truth rather than illusion. Sovereign peace begins when control ends, when faith becomes trust, and when the heart learns that surrender is the truest form of strength.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Oct. 3, 2025): Blueprints of Trust: Rebuilding After Collapse</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=180a30f1d8db3a15b1361a04a1b7be7e9afd364cab98984c071630fe411a4fbf</link>
-      <guid isPermaLink="false">180a30f1d8db3a15b1361a04a1b7be7e9afd364cab98984c071630fe411a4fbf</guid>
-      <pubDate>Fri, 12 Dec 2025 21:02:16 GMT</pubDate>
-      <description><![CDATA[This long essay explores how families, teams, and communities rebuild after endings—death, betrayal, disaster, inflation. It argues that trust is not sentiment but structure, describing practices and architectures that embed trust into daily life. It also shows how Bitcoin and Nostr offer trustworthy blueprints for money and speech in the rebuild, enabling collaboration without gatekeepers.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
