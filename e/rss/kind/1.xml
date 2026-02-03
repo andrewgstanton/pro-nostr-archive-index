@@ -5,7 +5,57 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 01 Feb 2026 22:58:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 00:06:41 GMT</lastBuildDate>
+    <item>
+      <title>5️⃣ Now, not later - 2/2/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b3bfbf4b2d361a762902ea9b2cc8732f04ebf05d5d3335939ce82a8355028cf7</link>
+      <guid isPermaLink="false">b3bfbf4b2d361a762902ea9b2cc8732f04ebf05d5d3335939ce82a8355028cf7</guid>
+      <pubDate>Mon, 02 Feb 2026 22:35:18 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>4️⃣ Action comes first  - 2/2/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=da2dbe07dc9f7358543ff84ef89fecd82b1cf8608073d730ee88cbd9e5fc68e3</link>
+      <guid isPermaLink="false">da2dbe07dc9f7358543ff84ef89fecd82b1cf8608073d730ee88cbd9e5fc68e3</guid>
+      <pubDate>Mon, 02 Feb 2026 22:32:39 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>3️⃣ Follow-through begins where excuses end - 2/2/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=41f3ebbc5792596862b7b310ae2569fa8ea2b3d0e0a8a996063a0df8a797fada</link>
+      <guid isPermaLink="false">41f3ebbc5792596862b7b310ae2569fa8ea2b3d0e0a8a996063a0df8a797fada</guid>
+      <pubDate>Mon, 02 Feb 2026 22:30:30 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>2️⃣ Remove the escape hatch - 2/2/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1c8a8c5c8e01596bc8272920fdeb1850cd759e088b5cedb0bc7cf18e96687052</link>
+      <guid isPermaLink="false">1c8a8c5c8e01596bc8272920fdeb1850cd759e088b5cedb0bc7cf18e96687052</guid>
+      <pubDate>Mon, 02 Feb 2026 22:26:24 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>1️⃣ Decide, then act - 2/2/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=237e17ff932c5bad2d0ba6e5a5526b91540d77d3db5c9d43ca0d4ee6978cd232</link>
+      <guid isPermaLink="false">237e17ff932c5bad2d0ba6e5a5526b91540d77d3db5c9d43ca0d4ee6978cd232</guid>
+      <pubDate>Mon, 02 Feb 2026 22:24:47 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Note 5 - 2/1/2026</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=3810ba36cbff5b785c783a62a3e863ff9392c31302daa6b60724779947a2c111</link>

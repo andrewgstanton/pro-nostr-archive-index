@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 01 Feb 2026 22:58:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 00:06:41 GMT</lastBuildDate>
+    <item>
+      <title>Why Companies Should Use Sovereign Attribution Surveys</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6162accc30f3eae283f1a49be803d6201e7bd9c8613097c43fa6fc5db35c9be8</link>
+      <guid isPermaLink="false">6162accc30f3eae283f1a49be803d6201e7bd9c8613097c43fa6fc5db35c9be8</guid>
+      <pubDate>Tue, 03 Feb 2026 00:00:13 GMT</pubDate>
+      <description><![CDATA[Most companies rely on surveys that optimize for scale, speed, and ownership — often at the expense of trust, signal quality, and long-term insight. Sovereign Attribution Surveys offer a different tradeoff: fewer responses, higher signal, explicit consent, and durable, attributable insight. This article explains why a company would choose this model, what value it provides, and why it is intentionally not for everyone.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Why I Wrote "The Sovereign Attribution Engine"  Playing the Extraction Game in Reverse</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7935706037c7bfface4c4f8260a29862f6b55ebc3cf2102ecdb3b90c722ec376</link>
+      <guid isPermaLink="false">7935706037c7bfface4c4f8260a29862f6b55ebc3cf2102ecdb3b90c722ec376</guid>
+      <pubDate>Mon, 02 Feb 2026 23:38:20 GMT</pubDate>
+      <description><![CDATA[This article exists because of a familiar pattern: a request for “high-quality, in-depth feedback” framed as an opportunity, while leaving ownership, attribution, and downstream use undefined. Rather than participate quietly or dismiss it outright, I chose to reverse the lens — to extract the structure of the ask itself and make it explicit. This background explains why the Sovereign Attribution Engine was written, and what problem it is responding to.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The "Sovereign Attribution Engine"</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5d623dcc8def39ba346bb9eba7fe43d863eccbb1a534e8dc3ab71c80f8226531</link>
+      <guid isPermaLink="false">5d623dcc8def39ba346bb9eba7fe43d863eccbb1a534e8dc3ab71c80f8226531</guid>
+      <pubDate>Mon, 02 Feb 2026 23:37:36 GMT</pubDate>
+      <description><![CDATA[Most surveys and research systems are not neutral tools — they are extractive pipelines. They centralize ownership, strip authorship, and convert human insight into assets controlled by someone else. The Sovereign Attribution Engine proposes a different model: authored, signed, consent-driven responses where contributors retain ownership, attribution, and agency over how their insight is used. This is not a growth product. It is an ethical alternative for those who refuse anonymous extraction.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Intentional Work as a Form of Stewardship</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=d42bc19bbf631ccdd351bebfe4df0df1699104b555c2ba86fa18b71e54ec3620</link>
@@ -4982,36 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">17d4a5c67ad3d053dd975beb219ba0f40db914c449b198b3ed42b48cb3edefd4</guid>
       <pubDate>Sat, 18 Oct 2025 22:01:55 GMT</pubDate>
       <description><![CDATA[For those who create, rest is not the opposite of work but its proof. Sabbath teaches us to stop explaining ourselves and let what we’ve made breathe on its own.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sunday Article (Oct. 12, 2025): Mercy as Operating System</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7dd90bb0873170891642a3111bfa70f709f0eb7a279be8afa787f478bd556d36</link>
-      <guid isPermaLink="false">7dd90bb0873170891642a3111bfa70f709f0eb7a279be8afa787f478bd556d36</guid>
-      <pubDate>Sat, 18 Oct 2025 22:00:35 GMT</pubDate>
-      <description><![CDATA[Mercy is often mistaken for softness, but it’s really strength under governance. This essay explores mercy as an organizing principle for leadership, relationships, and the inner life—an operating system that keeps power human.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Oct. 11, 2025): The Two Kinds of Leverage</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=27b94395fe1944f2597f9ee5dffb3bd160590fa854a44a2fb86638a99f6711cc</link>
-      <guid isPermaLink="false">27b94395fe1944f2597f9ee5dffb3bd160590fa854a44a2fb86638a99f6711cc</guid>
-      <pubDate>Sat, 18 Oct 2025 21:49:28 GMT</pubDate>
-      <description><![CDATA[Leverage multiplies outcomes — for better or worse. There is the kind that enslaves through debt and the kind that liberates through alignment with truth. This essay explores the difference and how to choose leverage that won’t own you.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Oct. 13, 2025): The Discipline of Showing Up</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6ca4e5efda0469756fe84e659e0959752ca0cedcdb080a7389368147cff23c5a</link>
-      <guid isPermaLink="false">6ca4e5efda0469756fe84e659e0959752ca0cedcdb080a7389368147cff23c5a</guid>
-      <pubDate>Sat, 18 Oct 2025 04:55:57 GMT</pubDate>
-      <description><![CDATA[Inspiration is unreliable; discipline is merciful. This reflection explores how showing up to write—especially when desire fades—becomes its own form of prayer.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

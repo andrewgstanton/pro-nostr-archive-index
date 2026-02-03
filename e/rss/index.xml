@@ -5,7 +5,87 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 01 Feb 2026 22:58:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 00:06:41 GMT</lastBuildDate>
+    <item>
+      <title>Why Companies Should Use Sovereign Attribution Surveys</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6162accc30f3eae283f1a49be803d6201e7bd9c8613097c43fa6fc5db35c9be8</link>
+      <guid isPermaLink="false">6162accc30f3eae283f1a49be803d6201e7bd9c8613097c43fa6fc5db35c9be8</guid>
+      <pubDate>Tue, 03 Feb 2026 00:00:13 GMT</pubDate>
+      <description><![CDATA[Most companies rely on surveys that optimize for scale, speed, and ownership — often at the expense of trust, signal quality, and long-term insight. Sovereign Attribution Surveys offer a different tradeoff: fewer responses, higher signal, explicit consent, and durable, attributable insight. This article explains why a company would choose this model, what value it provides, and why it is intentionally not for everyone.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Why I Wrote "The Sovereign Attribution Engine"  Playing the Extraction Game in Reverse</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7935706037c7bfface4c4f8260a29862f6b55ebc3cf2102ecdb3b90c722ec376</link>
+      <guid isPermaLink="false">7935706037c7bfface4c4f8260a29862f6b55ebc3cf2102ecdb3b90c722ec376</guid>
+      <pubDate>Mon, 02 Feb 2026 23:38:20 GMT</pubDate>
+      <description><![CDATA[This article exists because of a familiar pattern: a request for “high-quality, in-depth feedback” framed as an opportunity, while leaving ownership, attribution, and downstream use undefined. Rather than participate quietly or dismiss it outright, I chose to reverse the lens — to extract the structure of the ask itself and make it explicit. This background explains why the Sovereign Attribution Engine was written, and what problem it is responding to.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The "Sovereign Attribution Engine"</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5d623dcc8def39ba346bb9eba7fe43d863eccbb1a534e8dc3ab71c80f8226531</link>
+      <guid isPermaLink="false">5d623dcc8def39ba346bb9eba7fe43d863eccbb1a534e8dc3ab71c80f8226531</guid>
+      <pubDate>Mon, 02 Feb 2026 23:37:36 GMT</pubDate>
+      <description><![CDATA[Most surveys and research systems are not neutral tools — they are extractive pipelines. They centralize ownership, strip authorship, and convert human insight into assets controlled by someone else. The Sovereign Attribution Engine proposes a different model: authored, signed, consent-driven responses where contributors retain ownership, attribution, and agency over how their insight is used. This is not a growth product. It is an ethical alternative for those who refuse anonymous extraction.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>5️⃣ Now, not later - 2/2/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b3bfbf4b2d361a762902ea9b2cc8732f04ebf05d5d3335939ce82a8355028cf7</link>
+      <guid isPermaLink="false">b3bfbf4b2d361a762902ea9b2cc8732f04ebf05d5d3335939ce82a8355028cf7</guid>
+      <pubDate>Mon, 02 Feb 2026 22:35:18 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>4️⃣ Action comes first  - 2/2/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=da2dbe07dc9f7358543ff84ef89fecd82b1cf8608073d730ee88cbd9e5fc68e3</link>
+      <guid isPermaLink="false">da2dbe07dc9f7358543ff84ef89fecd82b1cf8608073d730ee88cbd9e5fc68e3</guid>
+      <pubDate>Mon, 02 Feb 2026 22:32:39 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>3️⃣ Follow-through begins where excuses end - 2/2/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=41f3ebbc5792596862b7b310ae2569fa8ea2b3d0e0a8a996063a0df8a797fada</link>
+      <guid isPermaLink="false">41f3ebbc5792596862b7b310ae2569fa8ea2b3d0e0a8a996063a0df8a797fada</guid>
+      <pubDate>Mon, 02 Feb 2026 22:30:30 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>2️⃣ Remove the escape hatch - 2/2/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1c8a8c5c8e01596bc8272920fdeb1850cd759e088b5cedb0bc7cf18e96687052</link>
+      <guid isPermaLink="false">1c8a8c5c8e01596bc8272920fdeb1850cd759e088b5cedb0bc7cf18e96687052</guid>
+      <pubDate>Mon, 02 Feb 2026 22:26:24 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>1️⃣ Decide, then act - 2/2/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=237e17ff932c5bad2d0ba6e5a5526b91540d77d3db5c9d43ca0d4ee6978cd232</link>
+      <guid isPermaLink="false">237e17ff932c5bad2d0ba6e5a5526b91540d77d3db5c9d43ca0d4ee6978cd232</guid>
+      <pubDate>Mon, 02 Feb 2026 22:24:47 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Intentional Work as a Form of Stewardship</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=d42bc19bbf631ccdd351bebfe4df0df1699104b555c2ba86fa18b71e54ec3620</link>
@@ -4922,86 +5002,6 @@
       <guid isPermaLink="false">175ccbc638f411e625e63f41c242d8c0eeebd2b461c0094f2fb4cf96ac868c99</guid>
       <pubDate>Sat, 13 Dec 2025 00:15:27 GMT</pubDate>
       <description><![CDATA[While fiat civilization endures on Earth, the Genesis Block crew carries Bitcoin’s covenant to Alpha Centauri — founding the first fully sovereign interstellar colony bound by proof, not politics.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Oct. 15, 2025): Cathedrals of Freedom — Building What Endures</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9d98aa3ba4f4d8327496384772f82418687600bdabf1c61d14938acaaeb1b293</link>
-      <guid isPermaLink="false">9d98aa3ba4f4d8327496384772f82418687600bdabf1c61d14938acaaeb1b293</guid>
-      <pubDate>Sat, 13 Dec 2025 00:09:21 GMT</pubDate>
-      <description><![CDATA[An extended meditation on what it means to build lasting systems in an age of collapse. the author draws parallels between medieval cathedral-building and modern open-source civilization, arguing that sovereignty, transparency, and truth are the enduring foundations of human freedom.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Nov. 5, 2025): Beyond the Walls: Building in Open Spaces</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6726e6e741bd14eca9f7ffa84f463d390434552eec74c55546d889dc04049e63</link>
-      <guid isPermaLink="false">6726e6e741bd14eca9f7ffa84f463d390434552eec74c55546d889dc04049e63</guid>
-      <pubDate>Sat, 13 Dec 2025 00:04:46 GMT</pubDate>
-      <description><![CDATA[The dream of the open creator economy isn’t about rejecting every platform—it’s about refusing dependency. Here’s how open protocols turn creators from tenants into owners, and why the future belongs to those willing to build in open spaces.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Nov. 4, 2025): Under the Hood of Election Day 2025: Redistricting, State Power, and the Shifting Map of American Politics</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=10b05742b4054b4d2570866fdc080e2b50b3bca816d259298ca9a3a5400788cc</link>
-      <guid isPermaLink="false">10b05742b4054b4d2570866fdc080e2b50b3bca816d259298ca9a3a5400788cc</guid>
-      <pubDate>Sat, 13 Dec 2025 00:02:25 GMT</pubDate>
-      <description><![CDATA[Beyond the headlines, today’s Election Day marks a turning point in how America redraws, realigns, and redefines power. From California’s redistricting gambit to pivotal governorships, the true stakes lie not in who wins tonight — but in who shapes the playing field for the decade ahead.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Sovereign ≠ Decentralized (Full Article)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2380fdb63cd0b02c4d2fd7f937b62cf27bd5eb56ff85e618aa91fa4d81ac2c30</link>
-      <guid isPermaLink="false">2380fdb63cd0b02c4d2fd7f937b62cf27bd5eb56ff85e618aa91fa4d81ac2c30</guid>
-      <pubDate>Fri, 12 Dec 2025 23:59:09 GMT</pubDate>
-      <description><![CDATA[A short essay highlighting the difference between sovereign vs decentralized technologies]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Bitcoin Chronicles - 7.A.1 - Archivist Note: On Divergent Timekeeping Systems</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7b115894c880cfbe3ed1374fecc1daf12dab16899d16f637904129ba3813db20</link>
-      <guid isPermaLink="false">7b115894c880cfbe3ed1374fecc1daf12dab16899d16f637904129ba3813db20</guid>
-      <pubDate>Fri, 12 Dec 2025 23:48:28 GMT</pubDate>
-      <description><![CDATA[An archival clarification describing the continued use of Gregorian dates by centralized authorities alongside the adoption of ledger-based and epochal time by sovereign colonies after the Pilgrim era.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 1, 2025): The Bitcoin Chronicles: Master Timeline of the Bitcoin Chronicles Universe (2025–3100s): A Timeline of Sovereign Labor: From Fiat Chains to the Chain Among the Stars</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=910273729e9705b09897a210561f4705594f7db23cd4e545dd5677f09a649626</link>
-      <guid isPermaLink="false">910273729e9705b09897a210561f4705594f7db23cd4e545dd5677f09a649626</guid>
-      <pubDate>Fri, 12 Dec 2025 23:40:21 GMT</pubDate>
-      <description><![CDATA[On this Labor Day, I trace the arc of sovereign labor across centuries: from Earth’s fiat chains to Bitcoin-native colonies, from the Cathedral of New Lakota to the Chain Among the Stars. A master timeline of the Bitcoin Chronicles universe, spanning 2025–3100s.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 2, 2025): Cathedrals or Casinos — Bitcoin and the End of Disposable Tech</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a0b1f998b758e67ce8b9d0f545db000b58fab3b992dcc22ca86b7cb3a113203b</link>
-      <guid isPermaLink="false">a0b1f998b758e67ce8b9d0f545db000b58fab3b992dcc22ca86b7cb3a113203b</guid>
-      <pubDate>Fri, 12 Dec 2025 23:38:24 GMT</pubDate>
-      <description><![CDATA[From MySpace to Terra/LUNA, most platforms and tokens are disposable. They promise ownership but vanish with the hype, leaving creators and workers with nothing. Bitcoin is different. It is cathedral-building: slow, covenantal, sovereign, built to last for centuries. This article contrasts disposability with endurance, calling readers to build cathedrals, not art deco houses.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 3, 2025) : The Garden Without Walls: How Bitcoin Opens the Way to Human Flourishing</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6659f44f55f26e4655715dd0c2d08b6388490eb07e58294b40dcb6d802d8112c</link>
-      <guid isPermaLink="false">6659f44f55f26e4655715dd0c2d08b6388490eb07e58294b40dcb6d802d8112c</guid>
-      <pubDate>Fri, 12 Dec 2025 23:34:39 GMT</pubDate>
-      <description><![CDATA[A hopeful essay contrasting today’s closed digital “walled gardens” with Bitcoin as an open, flourishing ecosystem. Argues that Bitcoin’s scarcity enables abundance, and that sovereignty is not isolation but a path to human flourishing.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

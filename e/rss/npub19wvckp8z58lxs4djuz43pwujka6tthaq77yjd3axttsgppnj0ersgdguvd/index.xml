@@ -5,7 +5,87 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 01 Feb 2026 22:58:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 00:06:41 GMT</lastBuildDate>
+    <item>
+      <title>Why Companies Should Use Sovereign Attribution Surveys</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6162accc30f3eae283f1a49be803d6201e7bd9c8613097c43fa6fc5db35c9be8</link>
+      <guid isPermaLink="false">6162accc30f3eae283f1a49be803d6201e7bd9c8613097c43fa6fc5db35c9be8</guid>
+      <pubDate>Tue, 03 Feb 2026 00:00:13 GMT</pubDate>
+      <description><![CDATA[Most companies rely on surveys that optimize for scale, speed, and ownership — often at the expense of trust, signal quality, and long-term insight. Sovereign Attribution Surveys offer a different tradeoff: fewer responses, higher signal, explicit consent, and durable, attributable insight. This article explains why a company would choose this model, what value it provides, and why it is intentionally not for everyone.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Why I Wrote "The Sovereign Attribution Engine"  Playing the Extraction Game in Reverse</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7935706037c7bfface4c4f8260a29862f6b55ebc3cf2102ecdb3b90c722ec376</link>
+      <guid isPermaLink="false">7935706037c7bfface4c4f8260a29862f6b55ebc3cf2102ecdb3b90c722ec376</guid>
+      <pubDate>Mon, 02 Feb 2026 23:38:20 GMT</pubDate>
+      <description><![CDATA[This article exists because of a familiar pattern: a request for “high-quality, in-depth feedback” framed as an opportunity, while leaving ownership, attribution, and downstream use undefined. Rather than participate quietly or dismiss it outright, I chose to reverse the lens — to extract the structure of the ask itself and make it explicit. This background explains why the Sovereign Attribution Engine was written, and what problem it is responding to.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The "Sovereign Attribution Engine"</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5d623dcc8def39ba346bb9eba7fe43d863eccbb1a534e8dc3ab71c80f8226531</link>
+      <guid isPermaLink="false">5d623dcc8def39ba346bb9eba7fe43d863eccbb1a534e8dc3ab71c80f8226531</guid>
+      <pubDate>Mon, 02 Feb 2026 23:37:36 GMT</pubDate>
+      <description><![CDATA[Most surveys and research systems are not neutral tools — they are extractive pipelines. They centralize ownership, strip authorship, and convert human insight into assets controlled by someone else. The Sovereign Attribution Engine proposes a different model: authored, signed, consent-driven responses where contributors retain ownership, attribution, and agency over how their insight is used. This is not a growth product. It is an ethical alternative for those who refuse anonymous extraction.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>5️⃣ Now, not later - 2/2/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b3bfbf4b2d361a762902ea9b2cc8732f04ebf05d5d3335939ce82a8355028cf7</link>
+      <guid isPermaLink="false">b3bfbf4b2d361a762902ea9b2cc8732f04ebf05d5d3335939ce82a8355028cf7</guid>
+      <pubDate>Mon, 02 Feb 2026 22:35:18 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>4️⃣ Action comes first  - 2/2/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=da2dbe07dc9f7358543ff84ef89fecd82b1cf8608073d730ee88cbd9e5fc68e3</link>
+      <guid isPermaLink="false">da2dbe07dc9f7358543ff84ef89fecd82b1cf8608073d730ee88cbd9e5fc68e3</guid>
+      <pubDate>Mon, 02 Feb 2026 22:32:39 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>3️⃣ Follow-through begins where excuses end - 2/2/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=41f3ebbc5792596862b7b310ae2569fa8ea2b3d0e0a8a996063a0df8a797fada</link>
+      <guid isPermaLink="false">41f3ebbc5792596862b7b310ae2569fa8ea2b3d0e0a8a996063a0df8a797fada</guid>
+      <pubDate>Mon, 02 Feb 2026 22:30:30 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>2️⃣ Remove the escape hatch - 2/2/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1c8a8c5c8e01596bc8272920fdeb1850cd759e088b5cedb0bc7cf18e96687052</link>
+      <guid isPermaLink="false">1c8a8c5c8e01596bc8272920fdeb1850cd759e088b5cedb0bc7cf18e96687052</guid>
+      <pubDate>Mon, 02 Feb 2026 22:26:24 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>1️⃣ Decide, then act - 2/2/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=237e17ff932c5bad2d0ba6e5a5526b91540d77d3db5c9d43ca0d4ee6978cd232</link>
+      <guid isPermaLink="false">237e17ff932c5bad2d0ba6e5a5526b91540d77d3db5c9d43ca0d4ee6978cd232</guid>
+      <pubDate>Mon, 02 Feb 2026 22:24:47 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Intentional Work as a Form of Stewardship</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=d42bc19bbf631ccdd351bebfe4df0df1699104b555c2ba86fa18b71e54ec3620</link>
@@ -4922,86 +5002,6 @@
       <guid isPermaLink="false">b2beae3c8b70ff8a82fa79ca33c3eb8227b447d2551d77afc693d5b1c3d2a1f2</guid>
       <pubDate>Fri, 12 Dec 2025 19:30:21 GMT</pubDate>
       <description><![CDATA[This essay explores the meaning of legacy in the face of mortality, weaving together personal grief, the sovereignty of saying goodbye, and the incorruptible permanence of Bitcoin. It considers both the practical dimensions of inheritance and the philosophical parallels to the “Book of Life,” contrasting man‑made ledgers with incorruptible ones. Through reflections on family, property, and faith, it reframes farewell as one of the most sovereign acts of all.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 30, 2025): Resurrection in Real Time</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5082e2c4066a6506eea1997e144ad6f9a5071b6daca451764e66d77b9ae9d6d5</link>
-      <guid isPermaLink="false">5082e2c4066a6506eea1997e144ad6f9a5071b6daca451764e66d77b9ae9d6d5</guid>
-      <pubDate>Fri, 12 Dec 2025 07:18:13 GMT</pubDate>
-      <description><![CDATA[Grief does not suspend belief; it tests it. This essay explores how resurrection begins not in theology but in the moment you decide to keep creating after loss—linking the permanence of love to the incorruptibility of truth itself.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 29, 2025): The Day He Crossed Over</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=53cc3b7913d139d1470536ef843c67ba9af3fcb2b3c3d9151fb5307b8c164564</link>
-      <guid isPermaLink="false">53cc3b7913d139d1470536ef843c67ba9af3fcb2b3c3d9151fb5307b8c164564</guid>
-      <pubDate>Fri, 12 Dec 2025 07:12:47 GMT</pubDate>
-      <description><![CDATA[A minute-by-minute account of Monday, Sept 29 — from the 4 a.m. departure in Honolulu to the 8:30 p.m. text confirming your father’s passing — a day suspended between motion and stillness, farewell and peace.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 26, 2025): The Resurrection of Civilization: Bitcoin and the Kingdom That Cannot Fall</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b977dc55c0a52b2fc18b090795046990a3f8f1451164645625246a9e6adbddfe</link>
-      <guid isPermaLink="false">b977dc55c0a52b2fc18b090795046990a3f8f1451164645625246a9e6adbddfe</guid>
-      <pubDate>Fri, 12 Dec 2025 07:07:56 GMT</pubDate>
-      <description><![CDATA[This essay draws a parallel between the rise of Bitcoin and the resurrection power of the Kingdom of God, framing both as enduring responses to the collapse of corrupt civilizations. It portrays Bitcoin as resurrection economics — restoring honesty, redeeming time, and grounding trust in truth rather than human institutions. Through this lens, the piece calls readers to see both Bitcoin and the Gospel as acts of faith rather than fear, revealing that real civilization is not built through domination but through incorruptible truth. The Kingdom, once buried under empire and deceit, is rising again — and this time, it will not fall.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 25, 2025): The Economics of Letting Go: Sovereignty Beyond Possession</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d7e866616909980e75c2a940e0b266cf508cfeca287c49f19cc1826cd812abeb</link>
-      <guid isPermaLink="false">d7e866616909980e75c2a940e0b266cf508cfeca287c49f19cc1826cd812abeb</guid>
-      <pubDate>Fri, 12 Dec 2025 07:04:41 GMT</pubDate>
-      <description><![CDATA[Andrew connects the personal act of release to the spiritual and economic truth of sovereignty. In both grief and Bitcoin, we learn to hold loosely — to trust what endures rather than what inflates. Letting go becomes the ultimate form of faith: stewardship without fear.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 24, 2025): Dying with Christ, Rising with Truth</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0de787d082ec7c5637be7520108012aa924d309a4f071095b02f9c285324c53e</link>
-      <guid isPermaLink="false">0de787d082ec7c5637be7520108012aa924d309a4f071095b02f9c285324c53e</guid>
-      <pubDate>Fri, 12 Dec 2025 07:01:37 GMT</pubDate>
-      <description><![CDATA[A meditation on the spiritual heart of loss. Through the lens of his father’s final days, Andrew reflects on how grief becomes participation in the gospel itself — the dying of the false self, the surrender of control, and the quiet rising of truth that cannot die.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 23, 2025): Chief of War: Sovereignty at the Edge of Empire</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ac0508b019009d0ab9ce88c241d03cdd986b0e658b94c0193a63b0df0b491c2e</link>
-      <guid isPermaLink="false">ac0508b019009d0ab9ce88c241d03cdd986b0e658b94c0193a63b0df0b491c2e</guid>
-      <pubDate>Fri, 12 Dec 2025 06:57:46 GMT</pubDate>
-      <description><![CDATA[Drawing inspiration from the drama and history surrounding island kingdoms and foreign encroachment, this essay examines what sovereignty looks like at the very edge of empire. It considers how chiefs balanced honor and survival, how betrayal hollowed alliances, and why the price of freedom is almost always paid by those who refuse to be assimilated. Finally, it connects these lessons to modern forms of sovereignty—especially monetary and identity sovereignty—in a world of soft coercion.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 22, 2025): The Last Investment: End of Life and Sovereignty</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=fb7604cea9902f1386de52f9fe84d90d937a0b9e79ca9d0d1928802caa52b5cd</link>
-      <guid isPermaLink="false">fb7604cea9902f1386de52f9fe84d90d937a0b9e79ca9d0d1928802caa52b5cd</guid>
-      <pubDate>Fri, 12 Dec 2025 06:53:56 GMT</pubDate>
-      <description><![CDATA[End-of-life choices are the most important “investment decisions” we make. Sovereignty means facing mortality with clarity, refusing to outsource dignity to profit-driven systems, and leaving a legacy that outlasts us. This article explores how sovereignty reframes death as the last, and greatest, investment.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 19, 2025): The Hidden Cost of Walled Gardens</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=52e23093e5b589c74ec2dd1848865caab533cb7848639a035408c31de9896c39</link>
-      <guid isPermaLink="false">52e23093e5b589c74ec2dd1848865caab533cb7848639a035408c31de9896c39</guid>
-      <pubDate>Fri, 12 Dec 2025 06:49:44 GMT</pubDate>
-      <description><![CDATA[Explores how companies like Rover, TaskRabbit, and Nextdoor monetize content and relationships while creators and workers do the actual value-creation. Argues that sovereignty requires cutting out such middlemen.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

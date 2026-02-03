@@ -1,5 +1,93 @@
 [
   {
+    "slug": "why-companies-should-use-sovereign-attribution-surveys",
+    "event_id": "6162accc30f3eae283f1a49be803d6201e7bd9c8613097c43fa6fc5db35c9be8",
+    "created_at": 1770076813,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/6162accc30f3eae283f1a49be803d6201e7bd9c8613097c43fa6fc5db35c9be8.json",
+    "title": "Why Companies Should Use Sovereign Attribution Surveys",
+    "summary": "Most companies rely on surveys that optimize for scale, speed, and ownership — often at the expense of trust, signal quality, and long-term insight. Sovereign Attribution Surveys offer a different tradeoff: fewer responses, higher signal, explicit consent, and durable, attributable insight. This article explains why a company would choose this model, what value it provides, and why it is intentionally not for everyone.",
+    "paid": false
+  },
+  {
+    "slug": "why-i-wrote-the-sovereign-attribution-engine-playing-the-extraction-game-in-reverse",
+    "event_id": "7935706037c7bfface4c4f8260a29862f6b55ebc3cf2102ecdb3b90c722ec376",
+    "created_at": 1770075500,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/7935706037c7bfface4c4f8260a29862f6b55ebc3cf2102ecdb3b90c722ec376.json",
+    "title": "Why I Wrote \"The Sovereign Attribution Engine\"  Playing the Extraction Game in Reverse",
+    "summary": "This article exists because of a familiar pattern: a request for “high-quality, in-depth feedback” framed as an opportunity, while leaving ownership, attribution, and downstream use undefined. Rather than participate quietly or dismiss it outright, I chose to reverse the lens — to extract the structure of the ask itself and make it explicit. This background explains why the Sovereign Attribution Engine was written, and what problem it is responding to.",
+    "paid": false
+  },
+  {
+    "slug": "the-sovereign-attribution-engine",
+    "event_id": "5d623dcc8def39ba346bb9eba7fe43d863eccbb1a534e8dc3ab71c80f8226531",
+    "created_at": 1770075456,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/5d623dcc8def39ba346bb9eba7fe43d863eccbb1a534e8dc3ab71c80f8226531.json",
+    "title": "The \"Sovereign Attribution Engine\"",
+    "summary": "Most surveys and research systems are not neutral tools — they are extractive pipelines. They centralize ownership, strip authorship, and convert human insight into assets controlled by someone else. The Sovereign Attribution Engine proposes a different model: authored, signed, consent-driven responses where contributors retain ownership, attribution, and agency over how their insight is used. This is not a growth product. It is an ethical alternative for those who refuse anonymous extraction.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "b3bfbf4b2d361a762902ea9b2cc8732f04ebf05d5d3335939ce82a8355028cf7",
+    "created_at": 1770071718,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/b3bfbf4b2d361a762902ea9b2cc8732f04ebf05d5d3335939ce82a8355028cf7.json",
+    "title": "5️⃣ Now, not later - 2/2/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "da2dbe07dc9f7358543ff84ef89fecd82b1cf8608073d730ee88cbd9e5fc68e3",
+    "created_at": 1770071559,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/da2dbe07dc9f7358543ff84ef89fecd82b1cf8608073d730ee88cbd9e5fc68e3.json",
+    "title": "4️⃣ Action comes first  - 2/2/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "41f3ebbc5792596862b7b310ae2569fa8ea2b3d0e0a8a996063a0df8a797fada",
+    "created_at": 1770071430,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/41f3ebbc5792596862b7b310ae2569fa8ea2b3d0e0a8a996063a0df8a797fada.json",
+    "title": "3️⃣ Follow-through begins where excuses end - 2/2/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "1c8a8c5c8e01596bc8272920fdeb1850cd759e088b5cedb0bc7cf18e96687052",
+    "created_at": 1770071184,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/1c8a8c5c8e01596bc8272920fdeb1850cd759e088b5cedb0bc7cf18e96687052.json",
+    "title": "2️⃣ Remove the escape hatch - 2/2/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "237e17ff932c5bad2d0ba6e5a5526b91540d77d3db5c9d43ca0d4ee6978cd232",
+    "created_at": 1770071087,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/237e17ff932c5bad2d0ba6e5a5526b91540d77d3db5c9d43ca0d4ee6978cd232.json",
+    "title": "1️⃣ Decide, then act - 2/2/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "intentional-work-as-a-form-of-stewardship",
     "event_id": "d42bc19bbf631ccdd351bebfe4df0df1699104b555c2ba86fa18b71e54ec3620",
     "created_at": 1769986255,
