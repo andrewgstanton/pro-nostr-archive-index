@@ -5,7 +5,27 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 03 Feb 2026 00:55:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 21:02:56 GMT</lastBuildDate>
+    <item>
+      <title>README_FIRST_MAC.md - Continuum Bounty</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2c027b46753c3e06764781b2234872486c9e290f9c07367fc8ba4cd085ad434f</link>
+      <guid isPermaLink="false">2c027b46753c3e06764781b2234872486c9e290f9c07367fc8ba4cd085ad434f</guid>
+      <pubDate>Tue, 03 Feb 2026 19:36:28 GMT</pubDate>
+      <description><![CDATA[Step by step instructions for running and testing Continuum on your Mac]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>README_FIRST_WINDOWS.md - Continuum Bounty</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4b4d04b5f57701f07d90c79e4eac0f8b8dab84050b5dff474cefebf6ad185d15</link>
+      <guid isPermaLink="false">4b4d04b5f57701f07d90c79e4eac0f8b8dab84050b5dff474cefebf6ad185d15</guid>
+      <pubDate>Tue, 03 Feb 2026 19:14:17 GMT</pubDate>
+      <description><![CDATA[Step by step instructions for running and testing Continuum on your Mac]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Why Companies Should Use Sovereign Attribution Surveys</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=598b4524f45bc8cae4c4dc33f5b2db72fd20de8d2e6cc6a66c9cf5ea32007675</link>
@@ -4992,26 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">9f6d7585a254e529c289e85dfabdb5a1f7fee63ee1023b9e6ad308f9478ce85d</guid>
       <pubDate>Tue, 28 Oct 2025 03:47:51 GMT</pubDate>
       <description><![CDATA[The first morning after Whiskers came home from SAGE was supposed to feel triumphant. Instead, it felt fragile, suspended between gratitude and fear. Recovery is never instant—it’s a quiet apprenticeship in patience and trust.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Oct. 23, 2025): The Breath Between Worlds</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7f29ef84aee0aef03b2dfca76bb119da1453cf6ce5b0c316311b6c549de73197</link>
-      <guid isPermaLink="false">7f29ef84aee0aef03b2dfca76bb119da1453cf6ce5b0c316311b6c549de73197</guid>
-      <pubDate>Tue, 28 Oct 2025 03:19:06 GMT</pubDate>
-      <description><![CDATA[A meditation on the unseen line between life and loss, written the night Whiskers returned from SAGE. After a week of warning signs and a Thursday morning collapse, the day became a study in breath, waiting, and grace.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Oct. 23, 2025): The Day at SAGE</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=93582460409cb4c55643ed388c154731e58d7de81eb19b6532e22d7017ca68b9</link>
-      <guid isPermaLink="false">93582460409cb4c55643ed388c154731e58d7de81eb19b6532e22d7017ca68b9</guid>
-      <pubDate>Tue, 28 Oct 2025 02:25:41 GMT</pubDate>
-      <description><![CDATA[A precise account of the week Whiskers faltered: a brief collapse on Tuesday, a calm but uneasy Wednesday, and a Thursday morning crisis that led to SAGE—where the number seventy-two became the measure of how close love can come to loss.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

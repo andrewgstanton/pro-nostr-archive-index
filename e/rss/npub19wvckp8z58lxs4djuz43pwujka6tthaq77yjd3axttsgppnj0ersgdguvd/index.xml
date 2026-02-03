@@ -5,7 +5,57 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 03 Feb 2026 00:55:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 21:02:56 GMT</lastBuildDate>
+    <item>
+      <title>README_FIRST_MAC.md - Continuum Bounty</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2c027b46753c3e06764781b2234872486c9e290f9c07367fc8ba4cd085ad434f</link>
+      <guid isPermaLink="false">2c027b46753c3e06764781b2234872486c9e290f9c07367fc8ba4cd085ad434f</guid>
+      <pubDate>Tue, 03 Feb 2026 19:36:28 GMT</pubDate>
+      <description><![CDATA[Step by step instructions for running and testing Continuum on your Mac]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>README_FIRST_WINDOWS.md - Continuum Bounty</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4b4d04b5f57701f07d90c79e4eac0f8b8dab84050b5dff474cefebf6ad185d15</link>
+      <guid isPermaLink="false">4b4d04b5f57701f07d90c79e4eac0f8b8dab84050b5dff474cefebf6ad185d15</guid>
+      <pubDate>Tue, 03 Feb 2026 19:14:17 GMT</pubDate>
+      <description><![CDATA[Step by step instructions for running and testing Continuum on your Mac]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>README_FIRST.md - Continuum Bounty. - 2/3/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4af4a39ba1223edc3a18a1489ce889c443d6b2088fb8544a5e9ca8b8ab1b3e4c</link>
+      <guid isPermaLink="false">4af4a39ba1223edc3a18a1489ce889c443d6b2088fb8544a5e9ca8b8ab1b3e4c</guid>
+      <pubDate>Tue, 03 Feb 2026 19:04:19 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>README index — Continuum bounty -2/3/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ca91cad3125876d8b1665f868d3ed7984135ed7ea6d0177c93be7561676116f2</link>
+      <guid isPermaLink="false">ca91cad3125876d8b1665f868d3ed7984135ed7ea6d0177c93be7561676116f2</guid>
+      <pubDate>Tue, 03 Feb 2026 19:03:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 1 — Clarification - 2/3/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2a230006b70775ad82b960aee6bf8ca4f388e52a4ff99ebb6a0cdb163329bb59</link>
+      <guid isPermaLink="false">2a230006b70775ad82b960aee6bf8ca4f388e52a4ff99ebb6a0cdb163329bb59</guid>
+      <pubDate>Tue, 03 Feb 2026 18:56:10 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Why Companies Should Use Sovereign Attribution Surveys</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=598b4524f45bc8cae4c4dc33f5b2db72fd20de8d2e6cc6a66c9cf5ea32007675</link>
@@ -4952,56 +5002,6 @@
       <guid isPermaLink="false">a2635e04712eb32987f313ea5dfc645fa54c16e010c89ee56ce8d204a89798b3</guid>
       <pubDate>Fri, 12 Dec 2025 22:41:48 GMT</pubDate>
       <description><![CDATA[A meditation on the difference between spiritual authority, fiat power, and proof-of-work. In a world obsessed with leverage — financial, social, or political — true power remains something money can’t purchase and status can’t secure.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Oct. 10, 2025): The Gospel of Sovereign Peace</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=318597f9404ad111540bcd590ded06cec775b357e959068a9b7a54d8ad20ce15</link>
-      <guid isPermaLink="false">318597f9404ad111540bcd590ded06cec775b357e959068a9b7a54d8ad20ce15</guid>
-      <pubDate>Fri, 12 Dec 2025 21:29:30 GMT</pubDate>
-      <description><![CDATA[Peace isn’t a feeling. It’s a state of alignment — the soul resting in truth rather than illusion. Sovereign peace begins when control ends, when faith becomes trust, and when the heart learns that surrender is the truest form of strength.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Oct. 3, 2025): Blueprints of Trust: Rebuilding After Collapse</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=180a30f1d8db3a15b1361a04a1b7be7e9afd364cab98984c071630fe411a4fbf</link>
-      <guid isPermaLink="false">180a30f1d8db3a15b1361a04a1b7be7e9afd364cab98984c071630fe411a4fbf</guid>
-      <pubDate>Fri, 12 Dec 2025 21:02:16 GMT</pubDate>
-      <description><![CDATA[This long essay explores how families, teams, and communities rebuild after endings—death, betrayal, disaster, inflation. It argues that trust is not sentiment but structure, describing practices and architectures that embed trust into daily life. It also shows how Bitcoin and Nostr offer trustworthy blueprints for money and speech in the rebuild, enabling collaboration without gatekeepers.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Dec. 12, 2025): The Bitcoin Chronicles - 1.A.0.0.0 - The Letter That Never Reached Bretton Woods</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=1305129771cb244e4817dc8e128de060d3c706b6cb03ba8c0862b09dd5c12930</link>
-      <guid isPermaLink="false">1305129771cb244e4817dc8e128de060d3c706b6cb03ba8c0862b09dd5c12930</guid>
-      <pubDate>Fri, 12 Dec 2025 20:20:32 GMT</pubDate>
-      <description><![CDATA[In 1944, as world leaders gathered to design the postwar economic order, one unsanctioned economist carried a warning no one would hear. His discarded letter becomes one of the earliest seeds of the sovereign awakening that will one day culminate in the Pilgrim missions.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Oct. 2, 2025): The Next Chapter: Renewal, Sovereignty, and the Future We Build</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=eb037b920c91fc3b0763a6877199291774b938f06feadf3c45d389f1c834e0b8</link>
-      <guid isPermaLink="false">eb037b920c91fc3b0763a6877199291774b938f06feadf3c45d389f1c834e0b8</guid>
-      <pubDate>Fri, 12 Dec 2025 19:34:04 GMT</pubDate>
-      <description><![CDATA[This essay explores renewal after endings—whether personal loss, social upheaval, or economic collapse. It considers how sovereignty is exercised not only in saying goodbye but in saying *yes* to what comes next. Drawing from metaphors of seasons, Scripture, and open protocols like Bitcoin and Nostr, it shows how continuity and innovation can coexist, and how beginnings are authored with courage rather than drift.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Oct. 1, 2025): The Ledger Beyond Death: Bitcoin, Legacy, and the Final Goodbye</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b2beae3c8b70ff8a82fa79ca33c3eb8227b447d2551d77afc693d5b1c3d2a1f2</link>
-      <guid isPermaLink="false">b2beae3c8b70ff8a82fa79ca33c3eb8227b447d2551d77afc693d5b1c3d2a1f2</guid>
-      <pubDate>Fri, 12 Dec 2025 19:30:21 GMT</pubDate>
-      <description><![CDATA[This essay explores the meaning of legacy in the face of mortality, weaving together personal grief, the sovereignty of saying goodbye, and the incorruptible permanence of Bitcoin. It considers both the practical dimensions of inheritance and the philosophical parallels to the “Book of Life,” contrasting man‑made ledgers with incorruptible ones. Through reflections on family, property, and faith, it reframes farewell as one of the most sovereign acts of all.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

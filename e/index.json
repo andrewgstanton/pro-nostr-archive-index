@@ -1,5 +1,60 @@
 [
   {
+    "slug": "readmefirstmacmd---continuum-bounty",
+    "event_id": "2c027b46753c3e06764781b2234872486c9e290f9c07367fc8ba4cd085ad434f",
+    "created_at": 1770147388,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/2c027b46753c3e06764781b2234872486c9e290f9c07367fc8ba4cd085ad434f.json",
+    "title": "README_FIRST_MAC.md - Continuum Bounty",
+    "summary": "Step by step instructions for running and testing Continuum on your Mac",
+    "paid": false
+  },
+  {
+    "slug": "readmefirstwindowsmd---continuum-bounty",
+    "event_id": "4b4d04b5f57701f07d90c79e4eac0f8b8dab84050b5dff474cefebf6ad185d15",
+    "created_at": 1770146057,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/4b4d04b5f57701f07d90c79e4eac0f8b8dab84050b5dff474cefebf6ad185d15.json",
+    "title": "README_FIRST_WINDOWS.md - Continuum Bounty",
+    "summary": "Step by step instructions for running and testing Continuum on your Mac",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "4af4a39ba1223edc3a18a1489ce889c443d6b2088fb8544a5e9ca8b8ab1b3e4c",
+    "created_at": 1770145459,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/4af4a39ba1223edc3a18a1489ce889c443d6b2088fb8544a5e9ca8b8ab1b3e4c.json",
+    "title": "README_FIRST.md - Continuum Bounty. - 2/3/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "ca91cad3125876d8b1665f868d3ed7984135ed7ea6d0177c93be7561676116f2",
+    "created_at": 1770145380,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/ca91cad3125876d8b1665f868d3ed7984135ed7ea6d0177c93be7561676116f2.json",
+    "title": "README index — Continuum bounty -2/3/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "2a230006b70775ad82b960aee6bf8ca4f388e52a4ff99ebb6a0cdb163329bb59",
+    "created_at": 1770144970,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/2a230006b70775ad82b960aee6bf8ca4f388e52a4ff99ebb6a0cdb163329bb59.json",
+    "title": "Note 1 — Clarification - 2/3/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "why-companies-should-use-sovereign-attribution-surveys",
     "event_id": "598b4524f45bc8cae4c4dc33f5b2db72fd20de8d2e6cc6a66c9cf5ea32007675",
     "created_at": 1770079793,

@@ -5,7 +5,57 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 03 Feb 2026 00:55:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 21:02:56 GMT</lastBuildDate>
+    <item>
+      <title>README_FIRST_MAC.md - Continuum Bounty</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2c027b46753c3e06764781b2234872486c9e290f9c07367fc8ba4cd085ad434f</link>
+      <guid isPermaLink="false">2c027b46753c3e06764781b2234872486c9e290f9c07367fc8ba4cd085ad434f</guid>
+      <pubDate>Tue, 03 Feb 2026 19:36:28 GMT</pubDate>
+      <description><![CDATA[Step by step instructions for running and testing Continuum on your Mac]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>README_FIRST_WINDOWS.md - Continuum Bounty</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4b4d04b5f57701f07d90c79e4eac0f8b8dab84050b5dff474cefebf6ad185d15</link>
+      <guid isPermaLink="false">4b4d04b5f57701f07d90c79e4eac0f8b8dab84050b5dff474cefebf6ad185d15</guid>
+      <pubDate>Tue, 03 Feb 2026 19:14:17 GMT</pubDate>
+      <description><![CDATA[Step by step instructions for running and testing Continuum on your Mac]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>README_FIRST.md - Continuum Bounty. - 2/3/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4af4a39ba1223edc3a18a1489ce889c443d6b2088fb8544a5e9ca8b8ab1b3e4c</link>
+      <guid isPermaLink="false">4af4a39ba1223edc3a18a1489ce889c443d6b2088fb8544a5e9ca8b8ab1b3e4c</guid>
+      <pubDate>Tue, 03 Feb 2026 19:04:19 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>README index — Continuum bounty -2/3/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ca91cad3125876d8b1665f868d3ed7984135ed7ea6d0177c93be7561676116f2</link>
+      <guid isPermaLink="false">ca91cad3125876d8b1665f868d3ed7984135ed7ea6d0177c93be7561676116f2</guid>
+      <pubDate>Tue, 03 Feb 2026 19:03:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 1 — Clarification - 2/3/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2a230006b70775ad82b960aee6bf8ca4f388e52a4ff99ebb6a0cdb163329bb59</link>
+      <guid isPermaLink="false">2a230006b70775ad82b960aee6bf8ca4f388e52a4ff99ebb6a0cdb163329bb59</guid>
+      <pubDate>Tue, 03 Feb 2026 18:56:10 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Why Companies Should Use Sovereign Attribution Surveys</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=598b4524f45bc8cae4c4dc33f5b2db72fd20de8d2e6cc6a66c9cf5ea32007675</link>
@@ -4952,56 +5002,6 @@
       <guid isPermaLink="false">96a3ea5879ef9703817a8fed61ad3e51eb458fc9b9414a638c07e5b2d3433554</guid>
       <pubDate>Sat, 13 Dec 2025 01:00:59 GMT</pubDate>
       <description><![CDATA[An essay arguing that true hope is not passive optimism but active creation. By building — whether in Bitcoin, writing, or daily life — people resist despair and shape the future. Hope belongs to builders because creation is the most honest form of optimism.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Sept. 3, 2025): The Abundance of Sovereignty: Why Freedom Creates More, Not Less</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3614eeedc092ae8f952caa7c3699fa7db321eef7fac74be9b586e1758917e06e</link>
-      <guid isPermaLink="false">3614eeedc092ae8f952caa7c3699fa7db321eef7fac74be9b586e1758917e06e</guid>
-      <pubDate>Sat, 13 Dec 2025 00:59:07 GMT</pubDate>
-      <description><![CDATA[A hopeful essay showing that sovereignty does not mean isolation or scarcity, but abundance and flourishing. Using examples from Bitcoin, open source, and everyday life, it argues that sovereignty multiplies creativity, trust, and generosity.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Sept. 2, 2025): Lessons from Web2 — The Rise and Fall of Disposable Platforms</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=184495293b3a288ba46e88ba8a114e66cb8f9f110bf0ff8bca8ea0ba5b3e9f9a</link>
-      <guid isPermaLink="false">184495293b3a288ba46e88ba8a114e66cb8f9f110bf0ff8bca8ea0ba5b3e9f9a</guid>
-      <pubDate>Sat, 13 Dec 2025 00:56:24 GMT</pubDate>
-      <description><![CDATA[From MySpace to Skype, Web2 promised permanence but delivered disposability. Users invested their labor into platforms they did not own, only to lose everything when hype or competition overtook them. The lesson: platforms are fragile, but Bitcoin offers property that endures.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Sept. 1, 2025): Labor Day in the Age of Inflation</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=77d3062bebd6a85630b71972a16dd05cd271955c165f81de896fd466a85bb861</link>
-      <guid isPermaLink="false">77d3062bebd6a85630b71972a16dd05cd271955c165f81de896fd466a85bb861</guid>
-      <pubDate>Sat, 13 Dec 2025 00:53:54 GMT</pubDate>
-      <description><![CDATA[Inflation quietly steals the fruit of our labor. On Labor Day 2025, workers deserve more than a symbolic holiday — they deserve a money that preserves their time and effort.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Sept. 1, 2025): Sovereign Labor: The Worker as Creator</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=943017720b3e6e895bedb398f9db958f1a720f6a437aa150fbc7eacb4ad48cf3</link>
-      <guid isPermaLink="false">943017720b3e6e895bedb398f9db958f1a720f6a437aa150fbc7eacb4ad48cf3</guid>
-      <pubDate>Sat, 13 Dec 2025 00:48:29 GMT</pubDate>
-      <description><![CDATA[Under fiat, much of human labor has been stripped of dignity — reduced to survival wages or even meaningless “bullshit jobs.” Bitcoin reframes work itself. By preserving time as incorruptible value, it allows labor — whether humble or highly skilled — to be recognized not as disposable, but as sovereign creation with lasting worth.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Oct 17 2025): The Bitcoin Chronicles: The First Voyage To Alpha Centauri</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=175ccbc638f411e625e63f41c242d8c0eeebd2b461c0094f2fb4cf96ac868c99</link>
-      <guid isPermaLink="false">175ccbc638f411e625e63f41c242d8c0eeebd2b461c0094f2fb4cf96ac868c99</guid>
-      <pubDate>Sat, 13 Dec 2025 00:15:27 GMT</pubDate>
-      <description><![CDATA[While fiat civilization endures on Earth, the Genesis Block crew carries Bitcoin’s covenant to Alpha Centauri — founding the first fully sovereign interstellar colony bound by proof, not politics.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 03 Feb 2026 00:55:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 21:02:56 GMT</lastBuildDate>
+    <item>
+      <title>README_FIRST.md - Continuum Bounty. - 2/3/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4af4a39ba1223edc3a18a1489ce889c443d6b2088fb8544a5e9ca8b8ab1b3e4c</link>
+      <guid isPermaLink="false">4af4a39ba1223edc3a18a1489ce889c443d6b2088fb8544a5e9ca8b8ab1b3e4c</guid>
+      <pubDate>Tue, 03 Feb 2026 19:04:19 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>README index — Continuum bounty -2/3/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ca91cad3125876d8b1665f868d3ed7984135ed7ea6d0177c93be7561676116f2</link>
+      <guid isPermaLink="false">ca91cad3125876d8b1665f868d3ed7984135ed7ea6d0177c93be7561676116f2</guid>
+      <pubDate>Tue, 03 Feb 2026 19:03:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 1 — Clarification - 2/3/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2a230006b70775ad82b960aee6bf8ca4f388e52a4ff99ebb6a0cdb163329bb59</link>
+      <guid isPermaLink="false">2a230006b70775ad82b960aee6bf8ca4f388e52a4ff99ebb6a0cdb163329bb59</guid>
+      <pubDate>Tue, 03 Feb 2026 18:56:10 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>5️⃣ Now, not later - 2/2/2026</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=b3bfbf4b2d361a762902ea9b2cc8732f04ebf05d5d3335939ce82a8355028cf7</link>

@@ -5,7 +5,27 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 03 Feb 2026 00:55:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 21:02:56 GMT</lastBuildDate>
+    <item>
+      <title>README_FIRST_MAC.md - Continuum Bounty</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2c027b46753c3e06764781b2234872486c9e290f9c07367fc8ba4cd085ad434f</link>
+      <guid isPermaLink="false">2c027b46753c3e06764781b2234872486c9e290f9c07367fc8ba4cd085ad434f</guid>
+      <pubDate>Tue, 03 Feb 2026 19:36:28 GMT</pubDate>
+      <description><![CDATA[Step by step instructions for running and testing Continuum on your Mac]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>README_FIRST_WINDOWS.md - Continuum Bounty</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4b4d04b5f57701f07d90c79e4eac0f8b8dab84050b5dff474cefebf6ad185d15</link>
+      <guid isPermaLink="false">4b4d04b5f57701f07d90c79e4eac0f8b8dab84050b5dff474cefebf6ad185d15</guid>
+      <pubDate>Tue, 03 Feb 2026 19:14:17 GMT</pubDate>
+      <description><![CDATA[Step by step instructions for running and testing Continuum on your Mac]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Why Companies Should Use Sovereign Attribution Surveys</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=598b4524f45bc8cae4c4dc33f5b2db72fd20de8d2e6cc6a66c9cf5ea32007675</link>
@@ -4992,26 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">9313c0d03ab1f7914c29bee1a05225ce5019386003333a7b4bdb2515128ee88c</guid>
       <pubDate>Sat, 18 Oct 2025 22:09:48 GMT</pubDate>
       <description><![CDATA[Nostr isn’t just for coders and maximalists. It’s for anyone who wants to own their identity online without turning life into a tech project. This piece explains the heart of Nostr in human terms: presence without permission.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Oct. 12, 2025): The Minimum Viable Cathedral</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=91fca6078b02f05669d4c0fb1a79ca56c546024dc14d6c9beb191744b99980a1</link>
-      <guid isPermaLink="false">91fca6078b02f05669d4c0fb1a79ca56c546024dc14d6c9beb191744b99980a1</guid>
-      <pubDate>Sat, 18 Oct 2025 22:05:32 GMT</pubDate>
-      <description><![CDATA[Cathedrals aren’t built in a day—they’re built from a faithful rhythm that survives interruptions. This piece re-imagines long-term work as cathedral-building: creating structures of meaning that keep growing even when the builder rests.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sabbath Article (Oct. 11, 2025): Sabbath for Builders: Let the Work Speak</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=17d4a5c67ad3d053dd975beb219ba0f40db914c449b198b3ed42b48cb3edefd4</link>
-      <guid isPermaLink="false">17d4a5c67ad3d053dd975beb219ba0f40db914c449b198b3ed42b48cb3edefd4</guid>
-      <pubDate>Sat, 18 Oct 2025 22:01:55 GMT</pubDate>
-      <description><![CDATA[For those who create, rest is not the opposite of work but its proof. Sabbath teaches us to stop explaining ourselves and let what we’ve made breathe on its own.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
