@@ -1,6 +1,17 @@
 [
   {
     "slug": "why-companies-should-use-sovereign-attribution-surveys",
+    "event_id": "598b4524f45bc8cae4c4dc33f5b2db72fd20de8d2e6cc6a66c9cf5ea32007675",
+    "created_at": 1770079793,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/598b4524f45bc8cae4c4dc33f5b2db72fd20de8d2e6cc6a66c9cf5ea32007675.json",
+    "title": "Why Companies Should Use Sovereign Attribution Surveys",
+    "summary": "Most companies rely on surveys that optimize for scale, speed, and ownership — often at the expense of trust, signal quality, and long-term insight. Sovereign Attribution Surveys offer a different tradeoff: fewer responses, higher signal, explicit consent, and durable, attributable insight. This article explains why a company would choose this model, what value it provides, and why it is intentionally not for everyone.",
+    "paid": false
+  },
+  {
+    "slug": "why-companies-should-use-sovereign-attribution-surveys",
     "event_id": "6162accc30f3eae283f1a49be803d6201e7bd9c8613097c43fa6fc5db35c9be8",
     "created_at": 1770076813,
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
