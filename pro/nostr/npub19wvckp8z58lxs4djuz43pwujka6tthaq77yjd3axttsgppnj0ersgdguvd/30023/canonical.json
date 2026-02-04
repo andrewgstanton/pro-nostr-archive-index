@@ -2542,5 +2542,9 @@
   "readmefirstmacmd---continuum-bounty": {
     "latest_event_id": "2c027b46753c3e06764781b2234872486c9e290f9c07367fc8ba4cd085ad434f",
     "latest_year": 2026
+  },
+  "testing-the-sovereign-attribution-engine": {
+    "latest_event_id": "ec6645fad115d84f73fc15259e13cc5830a786090877024a996370d417df76f9",
+    "latest_year": 2026
   }
 }
