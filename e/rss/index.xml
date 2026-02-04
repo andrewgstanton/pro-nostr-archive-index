@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 03 Feb 2026 21:02:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 00:34:44 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 f2a446f30a</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f2a446f30abfc3708b860c324488f60b4df307426c05a7574fbf2758369627df</link>
+      <guid isPermaLink="false">f2a446f30abfc3708b860c324488f60b4df307426c05a7574fbf2758369627df</guid>
+      <pubDate>Wed, 04 Feb 2026 00:17:48 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Sovereign Attribution Survey - Continuum</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=99c14f067aebd8fbc9ad3d0a93a2208d090945b369770bd7aee424911f4f8d02</link>
+      <guid isPermaLink="false">99c14f067aebd8fbc9ad3d0a93a2208d090945b369770bd7aee424911f4f8d02</guid>
+      <pubDate>Tue, 03 Feb 2026 22:07:36 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Testing the Sovereign Attribution Engine</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ec6645fad115d84f73fc15259e13cc5830a786090877024a996370d417df76f9</link>
+      <guid isPermaLink="false">ec6645fad115d84f73fc15259e13cc5830a786090877024a996370d417df76f9</guid>
+      <pubDate>Tue, 03 Feb 2026 22:03:08 GMT</pubDate>
+      <description><![CDATA[This article introduces the "Sovereign Attribution Engine (SAE)"—an experiment in requesting and receiving thoughtful, signed, attributable responses without feed dynamics, extraction, or performative engagement. It invites participants to author a real response to a concrete prompt about local-first tooling (Continuum), with clear rules, attribution, and a modest symbolic acknowledgment.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>README_FIRST_MAC.md - Continuum Bounty</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=2c027b46753c3e06764781b2234872486c9e290f9c07367fc8ba4cd085ad434f</link>
@@ -4972,36 +5002,6 @@
       <guid isPermaLink="false">a6e25c6239dbace5959df301af1ae92c239cdc8b0480e6b018fc0ebf9ed83292</guid>
       <pubDate>Sat, 13 Dec 2025 01:06:26 GMT</pubDate>
       <description><![CDATA[An essay contrasting how fiat punishes patience with inflation and debt, while Bitcoin rewards it by protecting value. Shows how sovereignty turns patience into a form of power that builds resilience and abundance.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Sept. 4, 2025): Builders of the New Frontier</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=93fc8aa6546db9318c461338dbf00d1056949651d43145cfcc9c79a947b4fb99</link>
-      <guid isPermaLink="false">93fc8aa6546db9318c461338dbf00d1056949651d43145cfcc9c79a947b4fb99</guid>
-      <pubDate>Sat, 13 Dec 2025 01:04:29 GMT</pubDate>
-      <description><![CDATA[A sci-fi infused reflection on how Bitcoin and open protocols provide the foundation for new frontiers — from imagined Mars colonies to today’s digital landscape. Emphasizes the quiet hope of builders who create resilient communities.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Sept. 4, 2025): The Generosity of Sovereignty</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5612cfed092ba1fb26d7845549d31c0939ed19123912ccb21b1c50300dda6281</link>
-      <guid isPermaLink="false">5612cfed092ba1fb26d7845549d31c0939ed19123912ccb21b1c50300dda6281</guid>
-      <pubDate>Sat, 13 Dec 2025 01:02:50 GMT</pubDate>
-      <description><![CDATA[An uplifting essay showing that sovereignty is not selfishness but the foundation of generosity. By protecting freedom and stability, sovereignty allows individuals and communities to give abundantly, both economically and creatively.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Sept. 3, 2025): Why Hope Belongs to Builders</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=96a3ea5879ef9703817a8fed61ad3e51eb458fc9b9414a638c07e5b2d3433554</link>
-      <guid isPermaLink="false">96a3ea5879ef9703817a8fed61ad3e51eb458fc9b9414a638c07e5b2d3433554</guid>
-      <pubDate>Sat, 13 Dec 2025 01:00:59 GMT</pubDate>
-      <description><![CDATA[An essay arguing that true hope is not passive optimism but active creation. By building — whether in Bitcoin, writing, or daily life — people resist despair and shape the future. Hope belongs to builders because creation is the most honest form of optimism.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

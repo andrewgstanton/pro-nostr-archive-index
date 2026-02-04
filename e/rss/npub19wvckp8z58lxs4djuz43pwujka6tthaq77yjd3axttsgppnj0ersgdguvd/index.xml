@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 03 Feb 2026 21:02:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 00:34:45 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 f2a446f30a</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f2a446f30abfc3708b860c324488f60b4df307426c05a7574fbf2758369627df</link>
+      <guid isPermaLink="false">f2a446f30abfc3708b860c324488f60b4df307426c05a7574fbf2758369627df</guid>
+      <pubDate>Wed, 04 Feb 2026 00:17:48 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Sovereign Attribution Survey - Continuum</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=99c14f067aebd8fbc9ad3d0a93a2208d090945b369770bd7aee424911f4f8d02</link>
+      <guid isPermaLink="false">99c14f067aebd8fbc9ad3d0a93a2208d090945b369770bd7aee424911f4f8d02</guid>
+      <pubDate>Tue, 03 Feb 2026 22:07:36 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Testing the Sovereign Attribution Engine</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ec6645fad115d84f73fc15259e13cc5830a786090877024a996370d417df76f9</link>
+      <guid isPermaLink="false">ec6645fad115d84f73fc15259e13cc5830a786090877024a996370d417df76f9</guid>
+      <pubDate>Tue, 03 Feb 2026 22:03:08 GMT</pubDate>
+      <description><![CDATA[This article introduces the "Sovereign Attribution Engine (SAE)"—an experiment in requesting and receiving thoughtful, signed, attributable responses without feed dynamics, extraction, or performative engagement. It invites participants to author a real response to a concrete prompt about local-first tooling (Continuum), with clear rules, attribution, and a modest symbolic acknowledgment.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>README_FIRST_MAC.md - Continuum Bounty</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=2c027b46753c3e06764781b2234872486c9e290f9c07367fc8ba4cd085ad434f</link>
@@ -4972,36 +5002,6 @@
       <guid isPermaLink="false">7f8833297899a3e9dc1773ad74c1e211f3f969f1d433c24e59cb728b4dd80cbb</guid>
       <pubDate>Fri, 12 Dec 2025 22:53:44 GMT</pubDate>
       <description><![CDATA[Every revolution of the word is also a revolution of spirit.  This essay envisions a new age of free expression built on open protocols, where truth is not hosted but inhabited.  T]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Oct. 8, 2025): The Kingdom Ledger: Exiting Fiat, Entering Freedom</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=043955382f05eaaa26bf3997b6929d5bebb9682bfd08a577d601e37a59c9f37b</link>
-      <guid isPermaLink="false">043955382f05eaaa26bf3997b6929d5bebb9682bfd08a577d601e37a59c9f37b</guid>
-      <pubDate>Fri, 12 Dec 2025 22:52:12 GMT</pubDate>
-      <description><![CDATA[Bitcoin is not an investment class; it is a moral reformation.  To exit fiat is to renounce false weights and measures, to step back into a covenantal economy rooted in truth.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Oct. 14, 2025): Sovereignty vs Speculation</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=bc7a7d3a3151383c88b079aae77047dd2d3b4644383e56cd512852f876592bdf</link>
-      <guid isPermaLink="false">bc7a7d3a3151383c88b079aae77047dd2d3b4644383e56cd512852f876592bdf</guid>
-      <pubDate>Fri, 12 Dec 2025 22:46:39 GMT</pubDate>
-      <description><![CDATA[The mechanics of profit can dull the meaning of purpose. This essay wrestles with what it means to trade faithfully—to keep agency when success feels automatic and wins taste like dust.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Oct. 9, 2025): The Power That Cannot Be Bought</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a2635e04712eb32987f313ea5dfc645fa54c16e010c89ee56ce8d204a89798b3</link>
-      <guid isPermaLink="false">a2635e04712eb32987f313ea5dfc645fa54c16e010c89ee56ce8d204a89798b3</guid>
-      <pubDate>Fri, 12 Dec 2025 22:41:48 GMT</pubDate>
-      <description><![CDATA[A meditation on the difference between spiritual authority, fiat power, and proof-of-work. In a world obsessed with leverage — financial, social, or political — true power remains something money can’t purchase and status can’t secure.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

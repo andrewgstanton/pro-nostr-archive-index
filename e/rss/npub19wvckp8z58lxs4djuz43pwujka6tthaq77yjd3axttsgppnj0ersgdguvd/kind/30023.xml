@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 03 Feb 2026 21:02:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 00:34:45 GMT</lastBuildDate>
+    <item>
+      <title>Testing the Sovereign Attribution Engine</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ec6645fad115d84f73fc15259e13cc5830a786090877024a996370d417df76f9</link>
+      <guid isPermaLink="false">ec6645fad115d84f73fc15259e13cc5830a786090877024a996370d417df76f9</guid>
+      <pubDate>Tue, 03 Feb 2026 22:03:08 GMT</pubDate>
+      <description><![CDATA[This article introduces the "Sovereign Attribution Engine (SAE)"—an experiment in requesting and receiving thoughtful, signed, attributable responses without feed dynamics, extraction, or performative engagement. It invites participants to author a real response to a concrete prompt about local-first tooling (Continuum), with clear rules, attribution, and a modest symbolic acknowledgment.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>README_FIRST_MAC.md - Continuum Bounty</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=2c027b46753c3e06764781b2234872486c9e290f9c07367fc8ba4cd085ad434f</link>
@@ -5002,16 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">6e991421c30ef5f91fbc89da8a69f395e3df027950d2b75369778f697b16e7bb</guid>
       <pubDate>Sat, 18 Oct 2025 22:22:17 GMT</pubDate>
       <description><![CDATA[The morning after my father’s passing, the world felt heavy yet newly clear. This piece sits in that stillness—where the body remembers motion but the heart is asked to rest. It is about letting silence teach what words cannot.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Oct. 12, 2025): Nostr for Real People, Not Power Users</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9313c0d03ab1f7914c29bee1a05225ce5019386003333a7b4bdb2515128ee88c</link>
-      <guid isPermaLink="false">9313c0d03ab1f7914c29bee1a05225ce5019386003333a7b4bdb2515128ee88c</guid>
-      <pubDate>Sat, 18 Oct 2025 22:09:48 GMT</pubDate>
-      <description><![CDATA[Nostr isn’t just for coders and maximalists. It’s for anyone who wants to own their identity online without turning life into a tech project. This piece explains the heart of Nostr in human terms: presence without permission.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

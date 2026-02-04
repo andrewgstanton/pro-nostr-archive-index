@@ -1,5 +1,38 @@
 [
   {
+    "slug": null,
+    "event_id": "f2a446f30abfc3708b860c324488f60b4df307426c05a7574fbf2758369627df",
+    "created_at": 1770164268,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/f2a446f30abfc3708b860c324488f60b4df307426c05a7574fbf2758369627df.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "99c14f067aebd8fbc9ad3d0a93a2208d090945b369770bd7aee424911f4f8d02",
+    "created_at": 1770156456,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/99c14f067aebd8fbc9ad3d0a93a2208d090945b369770bd7aee424911f4f8d02.json",
+    "title": "Sovereign Attribution Survey - Continuum",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "testing-the-sovereign-attribution-engine",
+    "event_id": "ec6645fad115d84f73fc15259e13cc5830a786090877024a996370d417df76f9",
+    "created_at": 1770156188,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/ec6645fad115d84f73fc15259e13cc5830a786090877024a996370d417df76f9.json",
+    "title": "Testing the Sovereign Attribution Engine",
+    "summary": "This article introduces the \"Sovereign Attribution Engine (SAE)\"—an experiment in requesting and receiving thoughtful, signed, attributable responses without feed dynamics, extraction, or performative engagement. It invites participants to author a real response to a concrete prompt about local-first tooling (Continuum), with clear rules, attribution, and a modest symbolic acknowledgment.",
+    "paid": false
+  },
+  {
     "slug": "readmefirstmacmd---continuum-bounty",
     "event_id": "2c027b46753c3e06764781b2234872486c9e290f9c07367fc8ba4cd085ad434f",
     "created_at": 1770147388,

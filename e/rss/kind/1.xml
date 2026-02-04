@@ -5,7 +5,27 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 03 Feb 2026 21:02:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 00:34:44 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 f2a446f30a</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f2a446f30abfc3708b860c324488f60b4df307426c05a7574fbf2758369627df</link>
+      <guid isPermaLink="false">f2a446f30abfc3708b860c324488f60b4df307426c05a7574fbf2758369627df</guid>
+      <pubDate>Wed, 04 Feb 2026 00:17:48 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Sovereign Attribution Survey - Continuum</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=99c14f067aebd8fbc9ad3d0a93a2208d090945b369770bd7aee424911f4f8d02</link>
+      <guid isPermaLink="false">99c14f067aebd8fbc9ad3d0a93a2208d090945b369770bd7aee424911f4f8d02</guid>
+      <pubDate>Tue, 03 Feb 2026 22:07:36 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>README_FIRST.md - Continuum Bounty. - 2/3/2026</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=4af4a39ba1223edc3a18a1489ce889c443d6b2088fb8544a5e9ca8b8ab1b3e4c</link>

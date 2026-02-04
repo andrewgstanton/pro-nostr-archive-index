@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 03 Feb 2026 21:02:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 00:34:44 GMT</lastBuildDate>
+    <item>
+      <title>Testing the Sovereign Attribution Engine</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ec6645fad115d84f73fc15259e13cc5830a786090877024a996370d417df76f9</link>
+      <guid isPermaLink="false">ec6645fad115d84f73fc15259e13cc5830a786090877024a996370d417df76f9</guid>
+      <pubDate>Tue, 03 Feb 2026 22:03:08 GMT</pubDate>
+      <description><![CDATA[This article introduces the "Sovereign Attribution Engine (SAE)"—an experiment in requesting and receiving thoughtful, signed, attributable responses without feed dynamics, extraction, or performative engagement. It invites participants to author a real response to a concrete prompt about local-first tooling (Continuum), with clear rules, attribution, and a modest symbolic acknowledgment.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>README_FIRST_MAC.md - Continuum Bounty</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=2c027b46753c3e06764781b2234872486c9e290f9c07367fc8ba4cd085ad434f</link>
@@ -5002,16 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">add587d5bb744ddb137c72faaee9081fe2656d7cffc2935f21d594ce060fd793</guid>
       <pubDate>Tue, 28 Oct 2025 03:58:58 GMT</pubDate>
       <description><![CDATA[Recovery rarely arrives as revelation. It comes in intervals — eight-hour windows between doses, half-hours between trades, small spaces where patience is tested and faith is rebuilt.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Oct. 24, 2025): The Day After: Learning to Breathe Again</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9f6d7585a254e529c289e85dfabdb5a1f7fee63ee1023b9e6ad308f9478ce85d</link>
-      <guid isPermaLink="false">9f6d7585a254e529c289e85dfabdb5a1f7fee63ee1023b9e6ad308f9478ce85d</guid>
-      <pubDate>Tue, 28 Oct 2025 03:47:51 GMT</pubDate>
-      <description><![CDATA[The first morning after Whiskers came home from SAGE was supposed to feel triumphant. Instead, it felt fragile, suspended between gratitude and fear. Recovery is never instant—it’s a quiet apprenticeship in patience and trust.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
