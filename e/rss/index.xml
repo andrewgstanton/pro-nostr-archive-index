@@ -5,7 +5,187 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 04 Feb 2026 00:39:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 19:59:06 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Durability Over Growth: The Unfashionable Path</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=8320ce18483bb6c82bdc8417e774be69ca0e44af90f5eb7365eb27b20e4931cb</link>
+      <guid isPermaLink="false">8320ce18483bb6c82bdc8417e774be69ca0e44af90f5eb7365eb27b20e4931cb</guid>
+      <pubDate>Wed, 04 Feb 2026 18:33:11 GMT</pubDate>
+      <description><![CDATA[Growth is celebrated. Durability is ignored. This essay argues that durability is the truer measure of success — especially for sovereign builders.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Why Builders Avoid Tools That Expose Reality</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6391555a87cf83755449ae611ab1f6d009c8b7bb773b7bfedd96d5cb513c280d</link>
+      <guid isPermaLink="false">6391555a87cf83755449ae611ab1f6d009c8b7bb773b7bfedd96d5cb513c280d</guid>
+      <pubDate>Wed, 04 Feb 2026 18:29:24 GMT</pubDate>
+      <description><![CDATA[Some tools fail not because they are weak, but because they are too honest. This article explores why builders often hesitate to adopt systems that expose agency, cost, and responsibility.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 5 - 2/4/2026 - Not Everything That Scales Is Good</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=fe36fb5f46dd748a2a1a0a13fd7d9ef13963f3055ef17626104741e491847f62</link>
+      <guid isPermaLink="false">fe36fb5f46dd748a2a1a0a13fd7d9ef13963f3055ef17626104741e491847f62</guid>
+      <pubDate>Wed, 04 Feb 2026 18:25:33 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 4 - 2/4/2026 - Silence Is Still Feedback</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=146b43096497c1ee3d6848ececb9fafaee8a7184b8f1ba05945ff7bd8198b9d5</link>
+      <guid isPermaLink="false">146b43096497c1ee3d6848ececb9fafaee8a7184b8f1ba05945ff7bd8198b9d5</guid>
+      <pubDate>Wed, 04 Feb 2026 18:24:02 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 3 - 2/4/2026 - Durability Is an Ethical Choice</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=85240098882fa1ee4d7c1b1a48c48ce8192ad478ab6767134ec4b3457e2177ee</link>
+      <guid isPermaLink="false">85240098882fa1ee4d7c1b1a48c48ce8192ad478ab6767134ec4b3457e2177ee</guid>
+      <pubDate>Wed, 04 Feb 2026 18:22:06 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 2 - 2/4/2026 - Most Software Optimizes for Avoidance</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4e21df4a8012177b6a6c671a8ca62047e2e9efc5e66491a1aa38a6bfcdacee04</link>
+      <guid isPermaLink="false">4e21df4a8012177b6a6c671a8ca62047e2e9efc5e66491a1aa38a6bfcdacee04</guid>
+      <pubDate>Wed, 04 Feb 2026 18:19:46 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 1 - 2/4/2026 - Sovereignty Is a Discipline, Not a Feature</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=db51bd8c8a47ad213f70f7f7893cfafd328dc703471b0ba1d1b828564a0cbc06</link>
+      <guid isPermaLink="false">db51bd8c8a47ad213f70f7f7893cfafd328dc703471b0ba1d1b828564a0cbc06</guid>
+      <pubDate>Wed, 04 Feb 2026 18:17:23 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Impatience Is a Signal — If You Know How to Read It</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2953bc4c93431a8cd3a3b2e525203118e9d8c3d05cbf6a53b90f64cd2d7cff1f</link>
+      <guid isPermaLink="false">2953bc4c93431a8cd3a3b2e525203118e9d8c3d05cbf6a53b90f64cd2d7cff1f</guid>
+      <pubDate>Wed, 04 Feb 2026 18:09:22 GMT</pubDate>
+      <description><![CDATA[Impatience is usually treated as a flaw. This essay argues that some forms of impatience are not weaknesses but signals—indicators of readiness and misalignment with the surrounding environment. It distinguishes reactive impatience from sovereign impatience and shows how builders can respond without becoming bitter, frantic, or performative.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 High-Signal Systems Don’t Scale First — They Filter First</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=92448b6f166e00a9924821e17082f5cb806be219ba3c07434faff5fe6f396acd</link>
+      <guid isPermaLink="false">92448b6f166e00a9924821e17082f5cb806be219ba3c07434faff5fe6f396acd</guid>
+      <pubDate>Wed, 04 Feb 2026 18:04:22 GMT</pubDate>
+      <description><![CDATA[Silence is often mistaken for failure. In reality, silence can be evidence that a system is filtering effectively. This essay explains why high-signal systems rarely scale immediately, how low response rates often indicate integrity rather than weakness, and why designing for discernment matters more than designing for growth.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Why Serious Builders Eventually Stop Asking for Permission</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=59ba8513c1cb5bba98c7b4a26097333216ff3afe4e4938f0f1dfdd7102eee48e</link>
+      <guid isPermaLink="false">59ba8513c1cb5bba98c7b4a26097333216ff3afe4e4938f0f1dfdd7102eee48e</guid>
+      <pubDate>Wed, 04 Feb 2026 18:01:34 GMT</pubDate>
+      <description><![CDATA[At a certain stage of maturity, asking for permission stops being prudent and starts becoming corrosive. This essay explores why serious builders eventually abandon permission-seeking—not out of arrogance or rebellion, but because sovereignty, responsibility, and durable creation require action without consensus, applause, or institutional approval.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Continuum - Local First Publishing Clarification</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=0b601720a53b4278bf919d93ea7ea7878dabaf7cbfc1c7a86c7d810b3ed5d985</link>
+      <guid isPermaLink="false">0b601720a53b4278bf919d93ea7ea7878dabaf7cbfc1c7a86c7d810b3ed5d985</guid>
+      <pubDate>Wed, 04 Feb 2026 07:42:58 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Continuum  - Local First Publishing - 2/3/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b483976072a0d1093e3b0da9ba17bee4426b921dc20288af49796fdeade3b56f</link>
+      <guid isPermaLink="false">b483976072a0d1093e3b0da9ba17bee4426b921dc20288af49796fdeade3b56f</guid>
+      <pubDate>Wed, 04 Feb 2026 06:51:55 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:0 57d9e4d2a2</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=57d9e4d2a2c51540176c90aabfe1f4b0dce490a9d37d8c1749592999d7684302</link>
+      <guid isPermaLink="false">57d9e4d2a2c51540176c90aabfe1f4b0dce490a9d37d8c1749592999d7684302</guid>
+      <pubDate>Wed, 04 Feb 2026 06:19:39 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:0</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 5 - 2/3/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6293006a1664de8b51c698ef9db28d8ca4235eeba805bda801f40bfeb98c9b0e</link>
+      <guid isPermaLink="false">6293006a1664de8b51c698ef9db28d8ca4235eeba805bda801f40bfeb98c9b0e</guid>
+      <pubDate>Wed, 04 Feb 2026 01:23:17 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 4 - 2/3/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=80fc1f87a2a6262209ee847eb075eef195311e14de4322ca00592ffab0dbe759</link>
+      <guid isPermaLink="false">80fc1f87a2a6262209ee847eb075eef195311e14de4322ca00592ffab0dbe759</guid>
+      <pubDate>Wed, 04 Feb 2026 01:21:52 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 3 - 2/3/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6eaec14149d96539806a8a28362cf8abbad701dea50d9a3190dcfbae65385d83</link>
+      <guid isPermaLink="false">6eaec14149d96539806a8a28362cf8abbad701dea50d9a3190dcfbae65385d83</guid>
+      <pubDate>Wed, 04 Feb 2026 01:20:34 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 2 - 2/3/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ee24208af0930c2eb91c3015a2ae4e03ab3906004c999a4e8a17ffe07af4ff0a</link>
+      <guid isPermaLink="false">ee24208af0930c2eb91c3015a2ae4e03ab3906004c999a4e8a17ffe07af4ff0a</guid>
+      <pubDate>Wed, 04 Feb 2026 01:19:10 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 1 - 2/3/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ca6106753d23c8c7c5cc8015d79aa08e6f0303ae0768fbe097d24b71143a7380</link>
+      <guid isPermaLink="false">ca6106753d23c8c7c5cc8015d79aa08e6f0303ae0768fbe097d24b71143a7380</guid>
+      <pubDate>Wed, 04 Feb 2026 01:17:54 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 f2a446f30a</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=f2a446f30abfc3708b860c324488f60b4df307426c05a7574fbf2758369627df</link>
@@ -273,16 +453,6 @@
       <pubDate>Sun, 01 Feb 2026 20:41:59 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:0 d2a0f62a24</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d2a0f62a24fb67cec12874ffb61c0cbea39800f0e685eeac8346713de7065753</link>
-      <guid isPermaLink="false">d2a0f62a24fb67cec12874ffb61c0cbea39800f0e685eeac8346713de7065753</guid>
-      <pubDate>Sun, 01 Feb 2026 02:43:33 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:0</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
@@ -2617,11 +2787,11 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>Sabbath Article (Jan. 3, 2026): The First Sabbath of 2026 Is a Line in Time</title>
+      <title>kind:30023 cf416a074e</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=cf416a074ea386507d4d32e94d646d7f3be50cca9006620f778e854a6c87c998</link>
       <guid isPermaLink="false">cf416a074ea386507d4d32e94d646d7f3be50cca9006620f778e854a6c87c998</guid>
       <pubDate>Sat, 03 Jan 2026 22:02:49 GMT</pubDate>
-      <description><![CDATA[in time — a quiet declaration about how the year will be inhabited. In a culture addicted to optimization and urgency, beginning 2026 with Sabbath is an act of sovereignty. This essay reflects on Sabbath as boundary, trust, and orientation, and why starting the year with rest may be the most faithful and future-oriented choice we can make.]]></description>
+      <description><![CDATA[]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
@@ -4832,176 +5002,6 @@
       <guid isPermaLink="false">930ee5a0a09fe48ecfa50e8fee08432b71c8c5df751d5a1b319e6db3473ba985</guid>
       <pubDate>Sat, 13 Dec 2025 02:36:55 GMT</pubDate>
       <description><![CDATA[When loss and language collide, truth becomes heavy but necessary. This reflection explores how to write honestly through disorientation—when sentences are the scaffolding that keeps the soul upright.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Oct. 6, 2025): The First Exodus: Leaving the Mind’s Egypt</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=58a4afd18c6562574c226386053bcdc7adee2b959e1070bbd9d1c95f8902ea20</link>
-      <guid isPermaLink="false">58a4afd18c6562574c226386053bcdc7adee2b959e1070bbd9d1c95f8902ea20</guid>
-      <pubDate>Sat, 13 Dec 2025 02:34:41 GMT</pubDate>
-      <description><![CDATA[Before any monetary or technological liberation, there must be a mental one.  This 1 500-word manifesto traces the architecture of captivity and the inner disciplines that make freedom real.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Magazine - Issue #5 (Sept. 29-Oct. 5, 2025)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=763efb398f01ce01efd64d120ece0c7d1b28d9e463ee1b51ccc6923458f12865</link>
-      <guid isPermaLink="false">763efb398f01ce01efd64d120ece0c7d1b28d9e463ee1b51ccc6923458f12865</guid>
-      <pubDate>Sat, 13 Dec 2025 02:30:32 GMT</pubDate>
-      <description><![CDATA[# 5.  This issue of Continuum Magazine brings together the Sept. 29-Oct. 5, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction. Reflections on mortality, reflecting on the week before my father's passing (on Sept. 29, 2025)]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Magazine - Issue #4 (Sept. 22-28, 2025)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6d27872b99346e19c6bcb191ddf520e53984782ec3327fa5066a34b0ba870d74</link>
-      <guid isPermaLink="false">6d27872b99346e19c6bcb191ddf520e53984782ec3327fa5066a34b0ba870d74</guid>
-      <pubDate>Sat, 13 Dec 2025 02:27:28 GMT</pubDate>
-      <description><![CDATA[The fourth issue of Continuum Magazine brings together the Sept 22–28 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction. Reflections on mortality, reflecting on the week before my father's passing (on Sept. 29, 2025)]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Sept. 27, 2025): The Quiet Before the Departure</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f7071e58d1ee03b01a6e172f64863ba5694ac5960be5566b7b39da24078338c0</link>
-      <guid isPermaLink="false">f7071e58d1ee03b01a6e172f64863ba5694ac5960be5566b7b39da24078338c0</guid>
-      <pubDate>Sat, 13 Dec 2025 02:16:28 GMT</pubDate>
-      <description><![CDATA[A meditative reflection on the Sabbath as holy stillness — a vigil of love and surrender in the final hours before loss.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Magazine - Issue #3 (Sept. 15-21, 2025)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=19111ff76d499528b73be8492dba08a58ecec669d8b3a4b12678f2fbd054cd48</link>
-      <guid isPermaLink="false">19111ff76d499528b73be8492dba08a58ecec669d8b3a4b12678f2fbd054cd48</guid>
-      <pubDate>Sat, 13 Dec 2025 02:11:25 GMT</pubDate>
-      <description><![CDATA[The third issue of Continuum Magazine brings together the Sept 15–21 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Sept. 15, 2025): The Seeds We Plant Today</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=bead078f6ef9129e811f47727e038edcf49800e0383750522012e06b26870fad</link>
-      <guid isPermaLink="false">bead078f6ef9129e811f47727e038edcf49800e0383750522012e06b26870fad</guid>
-      <pubDate>Sat, 13 Dec 2025 01:59:47 GMT</pubDate>
-      <description><![CDATA[This reflection considers how small, daily acts — where we store our wealth, what platforms we use, how we raise our families — become seeds of future sovereignty or dependence. It calls for intentional planting.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Magazine - Issue #2 (Sept. 8-14, 2025)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=eceaa27f366a1900b2fdd43b0a01c4027d30b1b4b3869aedfdb98bc5bb19f125</link>
-      <guid isPermaLink="false">eceaa27f366a1900b2fdd43b0a01c4027d30b1b4b3869aedfdb98bc5bb19f125</guid>
-      <pubDate>Sat, 13 Dec 2025 01:54:37 GMT</pubDate>
-      <description><![CDATA[The second issue of Continuum Magazine brings together the Sept 8–14, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction. This week we noted the tragic assasination of Charlie Kirk and the observance of Sept. 11.  But, we also launched Continuum Magazine (first issue was published this week)]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sunday Article (Sept. 14, 2025): Starting a New Way of Thinking with Bitcoin</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=26328ba2602b9cd445bccc1e8044b13a7db90657216762b171c466ca9a025aa2</link>
-      <guid isPermaLink="false">26328ba2602b9cd445bccc1e8044b13a7db90657216762b171c466ca9a025aa2</guid>
-      <pubDate>Sat, 13 Dec 2025 01:41:28 GMT</pubDate>
-      <description><![CDATA[Bitcoin is more than money—it is a new mindset that reshapes how we think about time, trust, and freedom. By breaking with inherited assumptions about inflation, debt, and institutional control, it invites individuals, communities, and nations into a deeper form of sovereignty.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sabbath Article (Sept. 13, 2025): Why is a Sabbath Rest Important in a Digital Age</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3695c7e497151ce0862511a833bca473130afbc09f6b69cbca3c1699aa57ae5a</link>
-      <guid isPermaLink="false">3695c7e497151ce0862511a833bca473130afbc09f6b69cbca3c1699aa57ae5a</guid>
-      <pubDate>Sat, 13 Dec 2025 01:39:51 GMT</pubDate>
-      <description><![CDATA[n an age of constant notifications and digital noise, the Sabbath principle of rest offers not just relief but a path back to wholeness. True sovereignty requires not only freedom to act, but freedom to stop.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Sept.. 13, 2025): Why Bitcoin Encourages Rest, Not Just Leisure</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=cb8042fdc3331d5c11e0cc862ae305d84188fa0949f7cf61076cbc8948326e1a</link>
-      <guid isPermaLink="false">cb8042fdc3331d5c11e0cc862ae305d84188fa0949f7cf61076cbc8948326e1a</guid>
-      <pubDate>Sat, 13 Dec 2025 01:36:21 GMT</pubDate>
-      <description><![CDATA[Bitcoin’s design encourages deep rest, not just surface-level leisure. Its low time-preference mindset invites people to rethink how they use time and energy, making space for restoration instead of endless striving.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Magazine - Issue #1 (Sept 1-7, 2025)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=36593b714c520f9a7cc45c3ed3755c7700cd22c9c0bf94eccfba55a994996dc3</link>
-      <guid isPermaLink="false">36593b714c520f9a7cc45c3ed3755c7700cd22c9c0bf94eccfba55a994996dc3</guid>
-      <pubDate>Sat, 13 Dec 2025 01:30:26 GMT</pubDate>
-      <description><![CDATA[The first issue of Continuum Magazine brings together the Sept 1–7, 2025 writings: one paid article and two free reflections each day. Anchored in themes of sovereignty, faith, and conviction, this issue opens with a heavy remembrance of Sept 11 and the loss of Charlie Kirk, and moves through questions of labor, covenant, community, and renewal.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Sept. 7, 2025): The First Day: A New Beginning for a Sovereign Age</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=389c736564876f8100e35f717a305f0dfc3af562fdd2118ffac631def7da999f</link>
-      <guid isPermaLink="false">389c736564876f8100e35f717a305f0dfc3af562fdd2118ffac631def7da999f</guid>
-      <pubDate>Sat, 13 Dec 2025 01:17:31 GMT</pubDate>
-      <description><![CDATA[Reflects on the symbolism of Sunday as the first day of the week, connecting it to sovereignty and Bitcoin as opportunities for renewal and new beginnings.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sunday Article (Sept. 7, 2025): Bitcoin and the Renewal of Trust</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=14a5f9d0674ef46e47965bd2f59098b784ad78f90e22dac7d53f8f3fe869da9e</link>
-      <guid isPermaLink="false">14a5f9d0674ef46e47965bd2f59098b784ad78f90e22dac7d53f8f3fe869da9e</guid>
-      <pubDate>Sat, 13 Dec 2025 01:15:38 GMT</pubDate>
-      <description><![CDATA[An essay on how Bitcoin renews trust in an age of broken promises. Shows how restored trust makes new beginnings possible at every level of life.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Sept 6, 2025): Why Rest Is Resistance</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5160bf73de4cc0e8886bf5136169c0183c0a2705bd1b8ee91b7bb176742d5b89</link>
-      <guid isPermaLink="false">5160bf73de4cc0e8886bf5136169c0183c0a2705bd1b8ee91b7bb176742d5b89</guid>
-      <pubDate>Sat, 13 Dec 2025 01:12:35 GMT</pubDate>
-      <description><![CDATA[Shows how Sabbath rest is a sovereign act of resistance against fiat’s endless cycle of toil. Argues that true rest is defiance and renewal, made possible by sovereignty and Bitcoin.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1( Sept, 6, 2025): Sabbath Rest for a Sovereign People</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c2709b081227f7d508b77971c9358422fb5b753c5b15525f5bb916746e616ed3</link>
-      <guid isPermaLink="false">c2709b081227f7d508b77971c9358422fb5b753c5b15525f5bb916746e616ed3</guid>
-      <pubDate>Sat, 13 Dec 2025 01:10:39 GMT</pubDate>
-      <description><![CDATA[Explores how sovereignty and Bitcoin create the foundation for true Sabbath rest — a pause that restores dignity and resists the relentless demands of fiat culture.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Sept. 5, 2025): The Horizon Beyond Fiat</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2292f8d8a77ac5727af41b36672785451eac733a42d56337d741cb7175484c01</link>
-      <guid isPermaLink="false">2292f8d8a77ac5727af41b36672785451eac733a42d56337d741cb7175484c01</guid>
-      <pubDate>Sat, 13 Dec 2025 01:08:12 GMT</pubDate>
-      <description><![CDATA[An essay on how fiat collapses time horizons into short-term survival, while Bitcoin restores generational vision and long-term responsibility. Argues that Bitcoin is not just about money, but about seeing further into the future.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Sept. 5, 2025): When Patience Becomes Power</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a6e25c6239dbace5959df301af1ae92c239cdc8b0480e6b018fc0ebf9ed83292</link>
-      <guid isPermaLink="false">a6e25c6239dbace5959df301af1ae92c239cdc8b0480e6b018fc0ebf9ed83292</guid>
-      <pubDate>Sat, 13 Dec 2025 01:06:26 GMT</pubDate>
-      <description><![CDATA[An essay contrasting how fiat punishes patience with inflation and debt, while Bitcoin rewards it by protecting value. Shows how sovereignty turns patience into a form of power that builds resilience and abundance.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

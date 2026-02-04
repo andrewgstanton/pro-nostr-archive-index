@@ -5,7 +5,127 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 04 Feb 2026 00:39:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 19:59:06 GMT</lastBuildDate>
+    <item>
+      <title>Note 5 - 2/4/2026 - Not Everything That Scales Is Good</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=fe36fb5f46dd748a2a1a0a13fd7d9ef13963f3055ef17626104741e491847f62</link>
+      <guid isPermaLink="false">fe36fb5f46dd748a2a1a0a13fd7d9ef13963f3055ef17626104741e491847f62</guid>
+      <pubDate>Wed, 04 Feb 2026 18:25:33 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 4 - 2/4/2026 - Silence Is Still Feedback</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=146b43096497c1ee3d6848ececb9fafaee8a7184b8f1ba05945ff7bd8198b9d5</link>
+      <guid isPermaLink="false">146b43096497c1ee3d6848ececb9fafaee8a7184b8f1ba05945ff7bd8198b9d5</guid>
+      <pubDate>Wed, 04 Feb 2026 18:24:02 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 3 - 2/4/2026 - Durability Is an Ethical Choice</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=85240098882fa1ee4d7c1b1a48c48ce8192ad478ab6767134ec4b3457e2177ee</link>
+      <guid isPermaLink="false">85240098882fa1ee4d7c1b1a48c48ce8192ad478ab6767134ec4b3457e2177ee</guid>
+      <pubDate>Wed, 04 Feb 2026 18:22:06 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 2 - 2/4/2026 - Most Software Optimizes for Avoidance</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4e21df4a8012177b6a6c671a8ca62047e2e9efc5e66491a1aa38a6bfcdacee04</link>
+      <guid isPermaLink="false">4e21df4a8012177b6a6c671a8ca62047e2e9efc5e66491a1aa38a6bfcdacee04</guid>
+      <pubDate>Wed, 04 Feb 2026 18:19:46 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 1 - 2/4/2026 - Sovereignty Is a Discipline, Not a Feature</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=db51bd8c8a47ad213f70f7f7893cfafd328dc703471b0ba1d1b828564a0cbc06</link>
+      <guid isPermaLink="false">db51bd8c8a47ad213f70f7f7893cfafd328dc703471b0ba1d1b828564a0cbc06</guid>
+      <pubDate>Wed, 04 Feb 2026 18:17:23 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Continuum - Local First Publishing Clarification</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=0b601720a53b4278bf919d93ea7ea7878dabaf7cbfc1c7a86c7d810b3ed5d985</link>
+      <guid isPermaLink="false">0b601720a53b4278bf919d93ea7ea7878dabaf7cbfc1c7a86c7d810b3ed5d985</guid>
+      <pubDate>Wed, 04 Feb 2026 07:42:58 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Continuum  - Local First Publishing - 2/3/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b483976072a0d1093e3b0da9ba17bee4426b921dc20288af49796fdeade3b56f</link>
+      <guid isPermaLink="false">b483976072a0d1093e3b0da9ba17bee4426b921dc20288af49796fdeade3b56f</guid>
+      <pubDate>Wed, 04 Feb 2026 06:51:55 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 5 - 2/3/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6293006a1664de8b51c698ef9db28d8ca4235eeba805bda801f40bfeb98c9b0e</link>
+      <guid isPermaLink="false">6293006a1664de8b51c698ef9db28d8ca4235eeba805bda801f40bfeb98c9b0e</guid>
+      <pubDate>Wed, 04 Feb 2026 01:23:17 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 4 - 2/3/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=80fc1f87a2a6262209ee847eb075eef195311e14de4322ca00592ffab0dbe759</link>
+      <guid isPermaLink="false">80fc1f87a2a6262209ee847eb075eef195311e14de4322ca00592ffab0dbe759</guid>
+      <pubDate>Wed, 04 Feb 2026 01:21:52 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 3 - 2/3/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6eaec14149d96539806a8a28362cf8abbad701dea50d9a3190dcfbae65385d83</link>
+      <guid isPermaLink="false">6eaec14149d96539806a8a28362cf8abbad701dea50d9a3190dcfbae65385d83</guid>
+      <pubDate>Wed, 04 Feb 2026 01:20:34 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 2 - 2/3/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ee24208af0930c2eb91c3015a2ae4e03ab3906004c999a4e8a17ffe07af4ff0a</link>
+      <guid isPermaLink="false">ee24208af0930c2eb91c3015a2ae4e03ab3906004c999a4e8a17ffe07af4ff0a</guid>
+      <pubDate>Wed, 04 Feb 2026 01:19:10 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 1 - 2/3/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ca6106753d23c8c7c5cc8015d79aa08e6f0303ae0768fbe097d24b71143a7380</link>
+      <guid isPermaLink="false">ca6106753d23c8c7c5cc8015d79aa08e6f0303ae0768fbe097d24b71143a7380</guid>
+      <pubDate>Wed, 04 Feb 2026 01:17:54 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 f2a446f30a</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=f2a446f30abfc3708b860c324488f60b4df307426c05a7574fbf2758369627df</link>
