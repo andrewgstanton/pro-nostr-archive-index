@@ -5,7 +5,77 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 05 Feb 2026 17:38:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 19:35:09 GMT</lastBuildDate>
+    <item>
+      <title>Note — “So What?” Is the Question That Matters - 2/5/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=79171e7c25a67895362c87ac16caf946c99681ba7cec2c795e4eb7686d04af9f</link>
+      <guid isPermaLink="false">79171e7c25a67895362c87ac16caf946c99681ba7cec2c795e4eb7686d04af9f</guid>
+      <pubDate>Thu, 05 Feb 2026 18:46:25 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note — I’m Not Outside This - 2/5/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9ad596241abe5fba4f536fe81b21a9b293dc45175ac25c0e710107670ab8a122</link>
+      <guid isPermaLink="false">9ad596241abe5fba4f536fe81b21a9b293dc45175ac25c0e710107670ab8a122</guid>
+      <pubDate>Thu, 05 Feb 2026 18:38:42 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 5 — Agency Beats Engagement - 2/5/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=81274d0d8f6224cb26a0304dd01e61b9b149a310ffb113ffdbef9e92eac49ed1</link>
+      <guid isPermaLink="false">81274d0d8f6224cb26a0304dd01e61b9b149a310ffb113ffdbef9e92eac49ed1</guid>
+      <pubDate>Thu, 05 Feb 2026 18:33:40 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 4 — Algorithms Are Editorials - 2/5/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=efec3bef3b56c8cf3e3ff51598f038f213528637eada8bbd1081394b93988f53</link>
+      <guid isPermaLink="false">efec3bef3b56c8cf3e3ff51598f038f213528637eada8bbd1081394b93988f53</guid>
+      <pubDate>Thu, 05 Feb 2026 18:31:54 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 3 — Sovereignty Is a UX Constraint - 2/5/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3c92848074d7d3aa4c38c02db934aefca9afc3ffaad1f3e209145f31fd12c9c3</link>
+      <guid isPermaLink="false">3c92848074d7d3aa4c38c02db934aefca9afc3ffaad1f3e209145f31fd12c9c3</guid>
+      <pubDate>Thu, 05 Feb 2026 18:30:44 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 2 — Lenses Are Fine. Hidden Lenses Are Not - 2/5/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b03e72fee1ca20a6b7be813b1eab2c6341152806953361d39cf1b3baf570b6f5</link>
+      <guid isPermaLink="false">b03e72fee1ca20a6b7be813b1eab2c6341152806953361d39cf1b3baf570b6f5</guid>
+      <pubDate>Thu, 05 Feb 2026 18:29:26 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 1 — Chronology Is Not Neutral, It’s Honest -2/5/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c2bf6b45eeefc60b778131c00981920558b24a611a3dea82cd4201a7fe086a39</link>
+      <guid isPermaLink="false">c2bf6b45eeefc60b778131c00981920558b24a611a3dea82cd4201a7fe086a39</guid>
+      <pubDate>Thu, 05 Feb 2026 18:28:09 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Note 5 - 2/4/2026 - Not Everything That Scales Is Good</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=fe36fb5f46dd748a2a1a0a13fd7d9ef13963f3055ef17626104741e491847f62</link>
@@ -1057,7 +1127,7 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>kind:1 d64b9a8dcf</title>
+      <title>2️⃣ - 1/19/2026</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=d64b9a8dcfab445bcb08d907ceaca6a218cf28d9e2e90070d14e438b094de2fb</link>
       <guid isPermaLink="false">d64b9a8dcfab445bcb08d907ceaca6a218cf28d9e2e90070d14e438b094de2fb</guid>
       <pubDate>Mon, 19 Jan 2026 18:49:58 GMT</pubDate>
