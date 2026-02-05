@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 04 Feb 2026 19:59:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 17:38:49 GMT</lastBuildDate>
+    <item>
+      <title>What Does Sovereignty Really Mean?</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=797e490b6d87019c24f0163164754671ef1a79390795f55f2202fdb34da5fe68</link>
+      <guid isPermaLink="false">797e490b6d87019c24f0163164754671ef1a79390795f55f2202fdb34da5fe68</guid>
+      <pubDate>Thu, 05 Feb 2026 05:54:24 GMT</pubDate>
+      <description><![CDATA[Sovereignty is one of the most overused words in technology, politics, and finance — and one of the least examined. This essay does not offer a definition to consume, but an invitation to decide what role you want to play: spectator, participant, or co-builder. It introduces sovereignty not as an identity or slogan, but as a posture that carries consequences.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Durability Over Growth: The Unfashionable Path</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=8320ce18483bb6c82bdc8417e774be69ca0e44af90f5eb7365eb27b20e4931cb</link>
@@ -103,6 +113,16 @@
       <pubDate>Wed, 04 Feb 2026 18:01:34 GMT</pubDate>
       <description><![CDATA[At a certain stage of maturity, asking for permission stops being prudent and starts becoming corrosive. This essay explores why serious builders eventually abandon permission-seeking—not out of arrogance or rebellion, but because sovereignty, responsibility, and durable creation require action without consensus, applause, or institutional approval.]]></description>
       <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 5955c992df</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5955c992dfa9b9369eb2d8c9bd62beeffa34f508a6bc6087b14d10373934d064</link>
+      <guid isPermaLink="false">5955c992dfa9b9369eb2d8c9bd62beeffa34f508a6bc6087b14d10373934d064</guid>
+      <pubDate>Wed, 04 Feb 2026 17:27:41 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
@@ -1667,7 +1687,7 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>2️⃣ - 1/19/2026</title>
+      <title>kind:1 d64b9a8dcf</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=d64b9a8dcfab445bcb08d907ceaca6a218cf28d9e2e90070d14e438b094de2fb</link>
       <guid isPermaLink="false">d64b9a8dcfab445bcb08d907ceaca6a218cf28d9e2e90070d14e438b094de2fb</guid>
       <pubDate>Mon, 19 Jan 2026 18:49:58 GMT</pubDate>
@@ -2787,11 +2807,11 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>kind:30023 cf416a074e</title>
+      <title>Sabbath Article (Jan. 3, 2026): The First Sabbath of 2026 Is a Line in Time</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=cf416a074ea386507d4d32e94d646d7f3be50cca9006620f778e854a6c87c998</link>
       <guid isPermaLink="false">cf416a074ea386507d4d32e94d646d7f3be50cca9006620f778e854a6c87c998</guid>
       <pubDate>Sat, 03 Jan 2026 22:02:49 GMT</pubDate>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[in time — a quiet declaration about how the year will be inhabited. In a culture addicted to optimization and urgency, beginning 2026 with Sabbath is an act of sovereignty. This essay reflects on Sabbath as boundary, trust, and orientation, and why starting the year with rest may be the most faithful and future-oriented choice we can make.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
@@ -4982,26 +5002,6 @@
       <guid isPermaLink="false">2238ccad053c9c1b3264af58733f1d888e4e5c0d2dc7cb8bf7b784d3b5ee4567</guid>
       <pubDate>Sat, 13 Dec 2025 02:46:08 GMT</pubDate>
       <description><![CDATA[Trading demands risk rules; sovereignty demands self-rule. This reflection looks at the tension between technical discipline and inner discipline—why I respect stop-losses but still box my charts, and why real security comes from keys, not indicators.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Oct. 13, 2025): When the Well Runs Dry: Faithfulness in the Absence of Fire</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a7235e967a755e7084339f43df845325b13178cf4eb4a868d6d401444e73fe7a</link>
-      <guid isPermaLink="false">a7235e967a755e7084339f43df845325b13178cf4eb4a868d6d401444e73fe7a</guid>
-      <pubDate>Sat, 13 Dec 2025 02:43:42 GMT</pubDate>
-      <description><![CDATA[Inspiration fades, seasons shift, and the well sometimes runs dry. This piece explores what faithfulness looks like when the flame of creativity goes out—how to keep creating without pretending the fire is still there.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Oct. 11, 2025): Grief in Public: Writing While the Heart Is Rearranging</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=930ee5a0a09fe48ecfa50e8fee08432b71c8c5df751d5a1b319e6db3473ba985</link>
-      <guid isPermaLink="false">930ee5a0a09fe48ecfa50e8fee08432b71c8c5df751d5a1b319e6db3473ba985</guid>
-      <pubDate>Sat, 13 Dec 2025 02:36:55 GMT</pubDate>
-      <description><![CDATA[When loss and language collide, truth becomes heavy but necessary. This reflection explores how to write honestly through disorientation—when sentences are the scaffolding that keeps the soul upright.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
