@@ -5,7 +5,67 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 06 Feb 2026 17:09:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 21:11:56 GMT</lastBuildDate>
+    <item>
+      <title>Note 5 - The Hidden Measure - 2/6/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6e9bac1433265b1a668ad3a08dbdc47b47218e71095fc8d5a314ea0d9080e93e</link>
+      <guid isPermaLink="false">6e9bac1433265b1a668ad3a08dbdc47b47218e71095fc8d5a314ea0d9080e93e</guid>
+      <pubDate>Fri, 06 Feb 2026 18:29:21 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 4 - Obedience Without Outcomes - 2/6/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=213be1c3736099f7ff2614da185e9b86088ccaef0c6a157617cce1a05b2c8ff7</link>
+      <guid isPermaLink="false">213be1c3736099f7ff2614da185e9b86088ccaef0c6a157617cce1a05b2c8ff7</guid>
+      <pubDate>Fri, 06 Feb 2026 18:25:23 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 3 - The Work of Waiting - 2/6/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e55259e3d93ffb11435068991153dc72c8692c3bf21549cc6b7c56936e4b496e</link>
+      <guid isPermaLink="false">e55259e3d93ffb11435068991153dc72c8692c3bf21549cc6b7c56936e4b496e</guid>
+      <pubDate>Fri, 06 Feb 2026 18:23:55 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 3 - The Work of Waiting - 2/6/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=978149a760a0a2185a95d1284e8662c27477249218c931ec06bec6aaf91cb52a</link>
+      <guid isPermaLink="false">978149a760a0a2185a95d1284e8662c27477249218c931ec06bec6aaf91cb52a</guid>
+      <pubDate>Fri, 06 Feb 2026 18:17:54 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 2 - When the Work Feels Heavy - 2/6/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c11a4f35ef107c590b68b261f4973a76facca38748c0520a6c4518d2072b9016</link>
+      <guid isPermaLink="false">c11a4f35ef107c590b68b261f4973a76facca38748c0520a6c4518d2072b9016</guid>
+      <pubDate>Fri, 06 Feb 2026 18:15:37 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 1 - 2/6/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=fd04a2b6331d49af41a4f67c6f478e2415467bb81939fbd99f06be5656a4a866</link>
+      <guid isPermaLink="false">fd04a2b6331d49af41a4f67c6f478e2415467bb81939fbd99f06be5656a4a866</guid>
+      <pubDate>Fri, 06 Feb 2026 18:06:11 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Turned off WiFi - Continuum kept working</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=dc7c20c61fe64e83a56a2a8c81751ca37ff33fc14938fd268e50bbc87103d48c</link>

@@ -5,7 +5,97 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 06 Feb 2026 01:06:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 21:11:56 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Building Without Guarantees</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=84aec2dfac8d83a581ee75c379ce14dcaa415c127d3395350eafcd6ef85d57c2</link>
+      <guid isPermaLink="false">84aec2dfac8d83a581ee75c379ce14dcaa415c127d3395350eafcd6ef85d57c2</guid>
+      <pubDate>Fri, 06 Feb 2026 18:57:20 GMT</pubDate>
+      <description><![CDATA[Most modern systems promise outcomes. Serious work rarely does — and that absence is formative, not cruel.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Why Silence Is Not Neutral</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9e0c0bdd829ac32a0b80b5ad7bd484ff6597d40271961f622c16041842d2b168</link>
+      <guid isPermaLink="false">9e0c0bdd829ac32a0b80b5ad7bd484ff6597d40271961f622c16041842d2b168</guid>
+      <pubDate>Fri, 06 Feb 2026 18:53:59 GMT</pubDate>
+      <description><![CDATA[Silence is often mistaken for indifference. In practice, it is one of the most active forces shaping systems, communities, and outcomes.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 The Loneliness of Obedient Builders</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1081092ca11421f3ed336ffaaa3f98cd8296c22c7d22d6526278c8344acbf351</link>
+      <guid isPermaLink="false">1081092ca11421f3ed336ffaaa3f98cd8296c22c7d22d6526278c8344acbf351</guid>
+      <pubDate>Fri, 06 Feb 2026 18:49:55 GMT</pubDate>
+      <description><![CDATA[Why builders who refuse shortcuts often experience isolation — and why that isolation is not accidental, pathological, or a sign of error.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 5 - The Hidden Measure - 2/6/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6e9bac1433265b1a668ad3a08dbdc47b47218e71095fc8d5a314ea0d9080e93e</link>
+      <guid isPermaLink="false">6e9bac1433265b1a668ad3a08dbdc47b47218e71095fc8d5a314ea0d9080e93e</guid>
+      <pubDate>Fri, 06 Feb 2026 18:29:21 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 4 - Obedience Without Outcomes - 2/6/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=213be1c3736099f7ff2614da185e9b86088ccaef0c6a157617cce1a05b2c8ff7</link>
+      <guid isPermaLink="false">213be1c3736099f7ff2614da185e9b86088ccaef0c6a157617cce1a05b2c8ff7</guid>
+      <pubDate>Fri, 06 Feb 2026 18:25:23 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 3 - The Work of Waiting - 2/6/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e55259e3d93ffb11435068991153dc72c8692c3bf21549cc6b7c56936e4b496e</link>
+      <guid isPermaLink="false">e55259e3d93ffb11435068991153dc72c8692c3bf21549cc6b7c56936e4b496e</guid>
+      <pubDate>Fri, 06 Feb 2026 18:23:55 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 3 - The Work of Waiting - 2/6/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=978149a760a0a2185a95d1284e8662c27477249218c931ec06bec6aaf91cb52a</link>
+      <guid isPermaLink="false">978149a760a0a2185a95d1284e8662c27477249218c931ec06bec6aaf91cb52a</guid>
+      <pubDate>Fri, 06 Feb 2026 18:17:54 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 2 - When the Work Feels Heavy - 2/6/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c11a4f35ef107c590b68b261f4973a76facca38748c0520a6c4518d2072b9016</link>
+      <guid isPermaLink="false">c11a4f35ef107c590b68b261f4973a76facca38748c0520a6c4518d2072b9016</guid>
+      <pubDate>Fri, 06 Feb 2026 18:15:37 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 1 - 2/6/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=fd04a2b6331d49af41a4f67c6f478e2415467bb81939fbd99f06be5656a4a866</link>
+      <guid isPermaLink="false">fd04a2b6331d49af41a4f67c6f478e2415467bb81939fbd99f06be5656a4a866</guid>
+      <pubDate>Fri, 06 Feb 2026 18:06:11 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Turned off WiFi - Continuum kept working</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=dc7c20c61fe64e83a56a2a8c81751ca37ff33fc14938fd268e50bbc87103d48c</link>
@@ -4912,96 +5002,6 @@
       <guid isPermaLink="false">c7a8443c65cbfd7bc1a3c266cc9edb45d6397cb2fc5f91ed07ebac0804d1e45e</guid>
       <pubDate>Sat, 13 Dec 2025 03:24:54 GMT</pubDate>
       <description><![CDATA[A Thursday morning emergency visit for Whiskers, my aging schnauzer-poodle, became more than a medical ordeal. It revealed how fragile both life and our economic systems are—and how a decentralized world could let compassion and value flow as freely as breath.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Oct. 22, 2025): The Fiat Trash Culture</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=475bdc75abffc0c042bab1d5dff03904bf3acb4478cf358fd9df02ff04b7f6fc</link>
-      <guid isPermaLink="false">475bdc75abffc0c042bab1d5dff03904bf3acb4478cf358fd9df02ff04b7f6fc</guid>
-      <pubDate>Sat, 13 Dec 2025 03:19:45 GMT</pubDate>
-      <description><![CDATA[Fiat doesn’t just debase currency—it debases civilization. When money is trash, art becomes trash, politics becomes trash, and people drown in it. Bitcoin is the reclamation of taste, truth, and time.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Oct. 21, 2025): Beyond the Noise: Why Bitcoin’s Volatility Is the Price of Truth</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=19c51b29c55bd4bfcbcce390efc9ba001e5291e4fbc57bc6ca8b173c8fbe7df0</link>
-      <guid isPermaLink="false">19c51b29c55bd4bfcbcce390efc9ba001e5291e4fbc57bc6ca8b173c8fbe7df0</guid>
-      <pubDate>Sat, 13 Dec 2025 03:16:19 GMT</pubDate>
-      <description><![CDATA[Volatility doesn’t disqualify Bitcoin from being money — it proves that it’s real. In a world of managed illusion, only truth moves freely. Bitcoin’s wild swings aren’t signs of weakness but the visible cost of discovering incorruptible value. They are the sound of false certainty breaking apart.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Oct. 20, 2025): Bitcoin Chronicles: Ledgers Without Kings</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=27916eb96f9ab804e5b02d53b1c01ea92943f52776f657ea258646e834c266da</link>
-      <guid isPermaLink="false">27916eb96f9ab804e5b02d53b1c01ea92943f52776f657ea258646e834c266da</guid>
-      <pubDate>Sat, 13 Dec 2025 03:13:05 GMT</pubDate>
-      <description><![CDATA[An essay on the philosophy of incorruptible memory — why civilizations collapse when truth depends on power, and why Bitcoin’s refusal to bend becomes the blueprint for lasting freedom.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Oct. 18, 2025): The Bitcoin Chronicles: 🌕 Sabbath on New Lakota</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e8eeb8f0b8aca1f2ae7f7e067e5c22ff331397d7053847888174c3190c38259d</link>
-      <guid isPermaLink="false">e8eeb8f0b8aca1f2ae7f7e067e5c22ff331397d7053847888174c3190c38259d</guid>
-      <pubDate>Sat, 13 Dec 2025 02:50:48 GMT</pubDate>
-      <description><![CDATA[In the Martian settlement of New Lakota, descendants of Earth’s tribes and believers keep a Sabbath that honors both Creator and creation.  They rest their machines and remember that technology, too, must serve the circle of life.  Faith, sovereignty, and code become one act of witness — the seventh day reborn among the stars.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Oct .16 2025): The Kingdom and the Code</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9bf11d8a4fd8c55d2bd6a0fe8b2eeeb6f60652769d6f3c04ef30854fc0a99480</link>
-      <guid isPermaLink="false">9bf11d8a4fd8c55d2bd6a0fe8b2eeeb6f60652769d6f3c04ef30854fc0a99480</guid>
-      <pubDate>Sat, 13 Dec 2025 02:48:07 GMT</pubDate>
-      <description><![CDATA[A long-form reflection linking the spiritual order of the Kingdom with the technical order of Bitcoin and Nostr. It argues that open protocols mirror divine principles — immutable, transparent, and self-governing — and that Continuum embodies this synthesis.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Oct. 14, 2025): Keys, Not Candles</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2238ccad053c9c1b3264af58733f1d888e4e5c0d2dc7cb8bf7b784d3b5ee4567</link>
-      <guid isPermaLink="false">2238ccad053c9c1b3264af58733f1d888e4e5c0d2dc7cb8bf7b784d3b5ee4567</guid>
-      <pubDate>Sat, 13 Dec 2025 02:46:08 GMT</pubDate>
-      <description><![CDATA[Trading demands risk rules; sovereignty demands self-rule. This reflection looks at the tension between technical discipline and inner discipline—why I respect stop-losses but still box my charts, and why real security comes from keys, not indicators.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Oct. 13, 2025): When the Well Runs Dry: Faithfulness in the Absence of Fire</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a7235e967a755e7084339f43df845325b13178cf4eb4a868d6d401444e73fe7a</link>
-      <guid isPermaLink="false">a7235e967a755e7084339f43df845325b13178cf4eb4a868d6d401444e73fe7a</guid>
-      <pubDate>Sat, 13 Dec 2025 02:43:42 GMT</pubDate>
-      <description><![CDATA[Inspiration fades, seasons shift, and the well sometimes runs dry. This piece explores what faithfulness looks like when the flame of creativity goes out—how to keep creating without pretending the fire is still there.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Oct. 11, 2025): Grief in Public: Writing While the Heart Is Rearranging</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=930ee5a0a09fe48ecfa50e8fee08432b71c8c5df751d5a1b319e6db3473ba985</link>
-      <guid isPermaLink="false">930ee5a0a09fe48ecfa50e8fee08432b71c8c5df751d5a1b319e6db3473ba985</guid>
-      <pubDate>Sat, 13 Dec 2025 02:36:55 GMT</pubDate>
-      <description><![CDATA[When loss and language collide, truth becomes heavy but necessary. This reflection explores how to write honestly through disorientation—when sentences are the scaffolding that keeps the soul upright.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Oct. 6, 2025): The First Exodus: Leaving the Mind’s Egypt</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=58a4afd18c6562574c226386053bcdc7adee2b959e1070bbd9d1c95f8902ea20</link>
-      <guid isPermaLink="false">58a4afd18c6562574c226386053bcdc7adee2b959e1070bbd9d1c95f8902ea20</guid>
-      <pubDate>Sat, 13 Dec 2025 02:34:41 GMT</pubDate>
-      <description><![CDATA[Before any monetary or technological liberation, there must be a mental one.  This 1 500-word manifesto traces the architecture of captivity and the inner disciplines that make freedom real.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

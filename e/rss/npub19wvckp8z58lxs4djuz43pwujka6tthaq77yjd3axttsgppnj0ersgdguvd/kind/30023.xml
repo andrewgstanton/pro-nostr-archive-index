@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 06 Feb 2026 01:06:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 21:11:56 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Building Without Guarantees</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=84aec2dfac8d83a581ee75c379ce14dcaa415c127d3395350eafcd6ef85d57c2</link>
+      <guid isPermaLink="false">84aec2dfac8d83a581ee75c379ce14dcaa415c127d3395350eafcd6ef85d57c2</guid>
+      <pubDate>Fri, 06 Feb 2026 18:57:20 GMT</pubDate>
+      <description><![CDATA[Most modern systems promise outcomes. Serious work rarely does — and that absence is formative, not cruel.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Why Silence Is Not Neutral</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9e0c0bdd829ac32a0b80b5ad7bd484ff6597d40271961f622c16041842d2b168</link>
+      <guid isPermaLink="false">9e0c0bdd829ac32a0b80b5ad7bd484ff6597d40271961f622c16041842d2b168</guid>
+      <pubDate>Fri, 06 Feb 2026 18:53:59 GMT</pubDate>
+      <description><![CDATA[Silence is often mistaken for indifference. In practice, it is one of the most active forces shaping systems, communities, and outcomes.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 The Loneliness of Obedient Builders</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1081092ca11421f3ed336ffaaa3f98cd8296c22c7d22d6526278c8344acbf351</link>
+      <guid isPermaLink="false">1081092ca11421f3ed336ffaaa3f98cd8296c22c7d22d6526278c8344acbf351</guid>
+      <pubDate>Fri, 06 Feb 2026 18:49:55 GMT</pubDate>
+      <description><![CDATA[Why builders who refuse shortcuts often experience isolation — and why that isolation is not accidental, pathological, or a sign of error.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Why I Chose to Build and Write This Way — Even When It’s Lonely</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=2d6626cf2506be7cb9959d0a3583b8f99f69d78667d7ecc0e4d851e29d4b830c</link>
@@ -4982,36 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">d80655e50a05bd1fbdb95e072e0065bec73316924f114a9612c060cad69e59dc</guid>
       <pubDate>Mon, 27 Oct 2025 02:22:06 GMT</pubDate>
       <description><![CDATA[Light is weightless, yet it binds galaxies together through vision and time. What if the same is true of truth and grace? This essay explores how light — physical and spiritual — shapes our imagination for life beyond Earth.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Oct. 26, 2025): Between Dust and Stars</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d49e1aeb9485a696ed07df5f299d2e60a3e3fa435bf94f8693a91c818485a512</link>
-      <guid isPermaLink="false">d49e1aeb9485a696ed07df5f299d2e60a3e3fa435bf94f8693a91c818485a512</guid>
-      <pubDate>Mon, 27 Oct 2025 02:15:19 GMT</pubDate>
-      <description><![CDATA[We keep reaching upward — from dust to sky, from moonlight to starlight — yet we remain creatures of both. This piece reflects on the paradox of human restlessness and rootedness: how we were made to explore, yet never escape our dependence on grace.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Oct. 26, 2025): The Heavens Belong to God</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9290cecad0d7e6f339bf39b70bbe6937970acb5f94706565e1e0f7549981e56d</link>
-      <guid isPermaLink="false">9290cecad0d7e6f339bf39b70bbe6937970acb5f94706565e1e0f7549981e56d</guid>
-      <pubDate>Mon, 27 Oct 2025 01:36:26 GMT</pubDate>
-      <description><![CDATA[We dream of new worlds — the Moon, Mars, the asteroids — but if the heavens already belong to God, what does it mean to build, to claim, or to settle? This reflection wrestles with the paradox of possession and stewardship, tracing how human ambition might yet serve a higher design.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Gravity Of Grace</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=70a0333d05163feec1c690e695dbc7b4ca57c927548c9619f65e710669828262</link>
-      <guid isPermaLink="false">70a0333d05163feec1c690e695dbc7b4ca57c927548c9619f65e710669828262</guid>
-      <pubDate>Mon, 27 Oct 2025 01:21:13 GMT</pubDate>
-      <description><![CDATA[God’s love is not a gentle invitation that may or may not be accepted; it is the supermassive center of all reality. Every created being, willingly or not, is drawn toward that singularity of holiness until nothing remains outside His light. Judgment is real, but it is the collapse of pride into glory—the moment when resistance can no longer hold against the infinite pull of grace.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

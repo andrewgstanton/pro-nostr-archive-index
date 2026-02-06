@@ -1,5 +1,104 @@
 [
   {
+    "slug": "-building-without-guarantees-2026-02-06",
+    "event_id": "84aec2dfac8d83a581ee75c379ce14dcaa415c127d3395350eafcd6ef85d57c2",
+    "created_at": 1770404240,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/84aec2dfac8d83a581ee75c379ce14dcaa415c127d3395350eafcd6ef85d57c2.json",
+    "title": "🔒 Building Without Guarantees",
+    "summary": "Most modern systems promise outcomes. Serious work rarely does — and that absence is formative, not cruel.",
+    "paid": false
+  },
+  {
+    "slug": "-why-silence-is-not-neutral-2026-02-06",
+    "event_id": "9e0c0bdd829ac32a0b80b5ad7bd484ff6597d40271961f622c16041842d2b168",
+    "created_at": 1770404039,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/9e0c0bdd829ac32a0b80b5ad7bd484ff6597d40271961f622c16041842d2b168.json",
+    "title": "🔒 Why Silence Is Not Neutral",
+    "summary": "Silence is often mistaken for indifference. In practice, it is one of the most active forces shaping systems, communities, and outcomes.",
+    "paid": false
+  },
+  {
+    "slug": "the-loneliness-of-obedient-builders-2026-02-06",
+    "event_id": "1081092ca11421f3ed336ffaaa3f98cd8296c22c7d22d6526278c8344acbf351",
+    "created_at": 1770403795,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/1081092ca11421f3ed336ffaaa3f98cd8296c22c7d22d6526278c8344acbf351.json",
+    "title": "🔒 The Loneliness of Obedient Builders",
+    "summary": "Why builders who refuse shortcuts often experience isolation — and why that isolation is not accidental, pathological, or a sign of error.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "6e9bac1433265b1a668ad3a08dbdc47b47218e71095fc8d5a314ea0d9080e93e",
+    "created_at": 1770402561,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/6e9bac1433265b1a668ad3a08dbdc47b47218e71095fc8d5a314ea0d9080e93e.json",
+    "title": "Note 5 - The Hidden Measure - 2/6/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "213be1c3736099f7ff2614da185e9b86088ccaef0c6a157617cce1a05b2c8ff7",
+    "created_at": 1770402323,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/213be1c3736099f7ff2614da185e9b86088ccaef0c6a157617cce1a05b2c8ff7.json",
+    "title": "Note 4 - Obedience Without Outcomes - 2/6/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "e55259e3d93ffb11435068991153dc72c8692c3bf21549cc6b7c56936e4b496e",
+    "created_at": 1770402235,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/e55259e3d93ffb11435068991153dc72c8692c3bf21549cc6b7c56936e4b496e.json",
+    "title": "Note 3 - The Work of Waiting - 2/6/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "978149a760a0a2185a95d1284e8662c27477249218c931ec06bec6aaf91cb52a",
+    "created_at": 1770401874,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/978149a760a0a2185a95d1284e8662c27477249218c931ec06bec6aaf91cb52a.json",
+    "title": "Note 3 - The Work of Waiting - 2/6/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "c11a4f35ef107c590b68b261f4973a76facca38748c0520a6c4518d2072b9016",
+    "created_at": 1770401737,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/c11a4f35ef107c590b68b261f4973a76facca38748c0520a6c4518d2072b9016.json",
+    "title": "Note 2 - When the Work Feels Heavy - 2/6/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "fd04a2b6331d49af41a4f67c6f478e2415467bb81939fbd99f06be5656a4a866",
+    "created_at": 1770401171,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/fd04a2b6331d49af41a4f67c6f478e2415467bb81939fbd99f06be5656a4a866.json",
+    "title": "Note 1 - 2/6/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": null,
     "event_id": "dae697c887d85af6aee24252a4498ca8710affb000313eb71af3e6aba3cd1c12",
     "created_at": 1770397383,

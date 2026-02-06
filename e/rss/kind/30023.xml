@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 06 Feb 2026 17:09:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 21:11:56 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Building Without Guarantees</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=84aec2dfac8d83a581ee75c379ce14dcaa415c127d3395350eafcd6ef85d57c2</link>
+      <guid isPermaLink="false">84aec2dfac8d83a581ee75c379ce14dcaa415c127d3395350eafcd6ef85d57c2</guid>
+      <pubDate>Fri, 06 Feb 2026 18:57:20 GMT</pubDate>
+      <description><![CDATA[Most modern systems promise outcomes. Serious work rarely does — and that absence is formative, not cruel.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Why Silence Is Not Neutral</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9e0c0bdd829ac32a0b80b5ad7bd484ff6597d40271961f622c16041842d2b168</link>
+      <guid isPermaLink="false">9e0c0bdd829ac32a0b80b5ad7bd484ff6597d40271961f622c16041842d2b168</guid>
+      <pubDate>Fri, 06 Feb 2026 18:53:59 GMT</pubDate>
+      <description><![CDATA[Silence is often mistaken for indifference. In practice, it is one of the most active forces shaping systems, communities, and outcomes.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 The Loneliness of Obedient Builders</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1081092ca11421f3ed336ffaaa3f98cd8296c22c7d22d6526278c8344acbf351</link>
+      <guid isPermaLink="false">1081092ca11421f3ed336ffaaa3f98cd8296c22c7d22d6526278c8344acbf351</guid>
+      <pubDate>Fri, 06 Feb 2026 18:49:55 GMT</pubDate>
+      <description><![CDATA[Why builders who refuse shortcuts often experience isolation — and why that isolation is not accidental, pathological, or a sign of error.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Kevin's Article</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=95f75d3a77b8eaaae8f273d8998039a4cebc6a6c3ba2671698fe5f9a9e133a5e</link>
@@ -4982,36 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">52dfacad6565e8130178f0bb27f0fa109ec16806d0d5b539a597b8c99e696e03</guid>
       <pubDate>Thu, 30 Oct 2025 23:18:44 GMT</pubDate>
       <description><![CDATA[Real wealth isn’t measured in margins or markets; it’s measured in integrity. A man who makes something durable with his hands and keeps his promises has already built the kind of freedom most corporations can only brand.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 1, 2025): Structural Hypocrisy</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b584d2a22f8dce3ed2421740433167c75e4abbac36eaa4dc7e80c4f6d94b2abf</link>
-      <guid isPermaLink="false">b584d2a22f8dce3ed2421740433167c75e4abbac36eaa4dc7e80c4f6d94b2abf</guid>
-      <pubDate>Thu, 30 Oct 2025 23:15:37 GMT</pubDate>
-      <description><![CDATA[The most dangerous form of deceit isn’t personal — it’s structural. Systems can lie without anyone meaning to, simply by rewarding comfort over truth. Seeing that distinction clearly is the first step toward reform.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 1, 2025): Allergic to Bullshit</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e814b0c4ae35fae2bf05d2726c833e51eb2ee9eb73ddf66e16ebb8d6d54a987a</link>
-      <guid isPermaLink="false">e814b0c4ae35fae2bf05d2726c833e51eb2ee9eb73ddf66e16ebb8d6d54a987a</guid>
-      <pubDate>Thu, 30 Oct 2025 23:11:50 GMT</pubDate>
-      <description><![CDATA[The deeper you live in truth, the less tolerance you have for pretense — in others and in yourself. What starts as irritation becomes discernment: a natural immune system against deceit.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Oct. 31, 2025): The Legalized Lie</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ba77d2875f83afbaa1a84504d00f702d4f171d4328833647b017498489d81c36</link>
-      <guid isPermaLink="false">ba77d2875f83afbaa1a84504d00f702d4f171d4328833647b017498489d81c36</guid>
-      <pubDate>Thu, 30 Oct 2025 23:07:07 GMT</pubDate>
-      <description><![CDATA[Fractional-reserve banking works only because people agree not to look too closely. It is the most refined illusion of the modern age — faith disguised as finance.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
