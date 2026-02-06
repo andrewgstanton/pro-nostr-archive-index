@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 06 Feb 2026 01:06:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 16:56:42 GMT</lastBuildDate>
+    <item>
+      <title>Kevin's Article</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=95f75d3a77b8eaaae8f273d8998039a4cebc6a6c3ba2671698fe5f9a9e133a5e</link>
+      <guid isPermaLink="false">95f75d3a77b8eaaae8f273d8998039a4cebc6a6c3ba2671698fe5f9a9e133a5e</guid>
+      <pubDate>Thu, 05 Feb 2026 23:53:45 GMT</pubDate>
+      <description><![CDATA[HSD is a miracle to grow startups]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub1u3cvn76jvlpfw92ux6d886daq073kjzcwc3j73m5p22h32thlztq8x7agh</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Why I Chose to Build and Write This Way — Even When It’s Lonely</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=2d6626cf2506be7cb9959d0a3583b8f99f69d78667d7ecc0e4d851e29d4b830c</link>
@@ -1177,11 +1187,11 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>🔒 The Bitcoin Chronicles - 1.D.5 - The Price of Stability</title>
+      <title>kind:30023 3f4deb01b6</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=3f4deb01b65e635274f61d0974aa6d231726592a30f4e23562785e12683fa3c9</link>
       <guid isPermaLink="false">3f4deb01b65e635274f61d0974aa6d231726592a30f4e23562785e12683fa3c9</guid>
       <pubDate>Sat, 03 Jan 2026 20:28:21 GMT</pubDate>
-      <description><![CDATA[Insurance did not return to the Belt as control. It returned as comfort.]]></description>
+      <description><![CDATA[]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
@@ -1387,11 +1397,11 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>When Systems Prefer Components Over Agents</title>
+      <title>kind:30023 25045a17a6</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=25045a17a61157910bfc7ec59c7e9eb8af8d88822487df99a76f65e7f89b0d47</link>
       <guid isPermaLink="false">25045a17a61157910bfc7ec59c7e9eb8af8d88822487df99a76f65e7f89b0d47</guid>
       <pubDate>Sun, 28 Dec 2025 07:11:30 GMT</pubDate>
-      <description><![CDATA[Modern systems increasingly optimize for efficiency, predictability, and scale — and in doing so, they quietly reshape humans into interchangeable components rather than autonomous agents. This pattern appears in education, platforms, and creator economies alike. Once seen clearly, it becomes difficult to ignore — and impossible to accept as neutral.]]></description>
+      <description><![CDATA[]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
@@ -2917,11 +2927,11 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>Free Article 1 (Sept. 2, 2025): Lessons from Web2 — The Rise and Fall of Disposable Platforms</title>
+      <title>kind:30023 184495293b</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=184495293b3a288ba46e88ba8a114e66cb8f9f110bf0ff8bca8ea0ba5b3e9f9a</link>
       <guid isPermaLink="false">184495293b3a288ba46e88ba8a114e66cb8f9f110bf0ff8bca8ea0ba5b3e9f9a</guid>
       <pubDate>Sat, 13 Dec 2025 00:56:24 GMT</pubDate>
-      <description><![CDATA[From MySpace to Skype, Web2 promised permanence but delivered disposability. Users invested their labor into platforms they did not own, only to lose everything when hype or competition overtook them. The lesson: platforms are fragile, but Bitcoin offers property that endures.]]></description>
+      <description><![CDATA[]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
@@ -2937,11 +2947,11 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>Free Article 1 (Sept. 1, 2025): Sovereign Labor: The Worker as Creator</title>
+      <title>kind:30023 943017720b</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=943017720b3e6e895bedb398f9db958f1a720f6a437aa150fbc7eacb4ad48cf3</link>
       <guid isPermaLink="false">943017720b3e6e895bedb398f9db958f1a720f6a437aa150fbc7eacb4ad48cf3</guid>
       <pubDate>Sat, 13 Dec 2025 00:48:29 GMT</pubDate>
-      <description><![CDATA[Under fiat, much of human labor has been stripped of dignity — reduced to survival wages or even meaningless “bullshit jobs.” Bitcoin reframes work itself. By preserving time as incorruptible value, it allows labor — whether humble or highly skilled — to be recognized not as disposable, but as sovereign creation with lasting worth.]]></description>
+      <description><![CDATA[]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
@@ -5002,16 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">ba77d2875f83afbaa1a84504d00f702d4f171d4328833647b017498489d81c36</guid>
       <pubDate>Thu, 30 Oct 2025 23:07:07 GMT</pubDate>
       <description><![CDATA[Fractional-reserve banking works only because people agree not to look too closely. It is the most refined illusion of the modern age — faith disguised as finance.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Oct. 31, 2025) : The Clancy Method: Logic as Intelligence</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=18fdd4f086df9dd8dd44b7ee217ff3e32f763af165692b067605674f990eefe6</link>
-      <guid isPermaLink="false">18fdd4f086df9dd8dd44b7ee217ff3e32f763af165692b067605674f990eefe6</guid>
-      <pubDate>Thu, 30 Oct 2025 23:04:33 GMT</pubDate>
-      <description><![CDATA[You don’t need a security clearance to see the world clearly. Logic, pattern recognition, and moral imagination can reveal as much as any classified file — sometimes more.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

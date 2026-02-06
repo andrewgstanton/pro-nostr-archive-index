@@ -5,7 +5,7 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 06 Feb 2026 01:06:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 16:56:42 GMT</lastBuildDate>
     <item>
       <title>Turned off WiFi - Continuum kept working</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=dc7c20c61fe64e83a56a2a8c81751ca37ff33fc14938fd268e50bbc87103d48c</link>
@@ -24,6 +24,26 @@
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Kevin's Article</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=95f75d3a77b8eaaae8f273d8998039a4cebc6a6c3ba2671698fe5f9a9e133a5e</link>
+      <guid isPermaLink="false">95f75d3a77b8eaaae8f273d8998039a4cebc6a6c3ba2671698fe5f9a9e133a5e</guid>
+      <pubDate>Thu, 05 Feb 2026 23:53:45 GMT</pubDate>
+      <description><![CDATA[HSD is a miracle to grow startups]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub1u3cvn76jvlpfw92ux6d886daq073kjzcwc3j73m5p22h32thlztq8x7agh</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:0 f653cad058</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f653cad05877b21a6aa7b1e4df9313e89284b04d416c2d63f0425b0743fcfdde</link>
+      <guid isPermaLink="false">f653cad05877b21a6aa7b1e4df9313e89284b04d416c2d63f0425b0743fcfdde</guid>
+      <pubDate>Thu, 05 Feb 2026 23:39:45 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:0</category>
+      <category>npub:npub1u3cvn76jvlpfw92ux6d886daq073kjzcwc3j73m5p22h32thlztq8x7agh</category>
       <category>paid:false</category>
     </item>
     <item>
@@ -3097,11 +3117,11 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>🔒 The Bitcoin Chronicles - 1.D.5 - The Price of Stability</title>
+      <title>kind:30023 3f4deb01b6</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=3f4deb01b65e635274f61d0974aa6d231726592a30f4e23562785e12683fa3c9</link>
       <guid isPermaLink="false">3f4deb01b65e635274f61d0974aa6d231726592a30f4e23562785e12683fa3c9</guid>
       <pubDate>Sat, 03 Jan 2026 20:28:21 GMT</pubDate>
-      <description><![CDATA[Insurance did not return to the Belt as control. It returned as comfort.]]></description>
+      <description><![CDATA[]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
@@ -3427,11 +3447,11 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>When Systems Prefer Components Over Agents</title>
+      <title>kind:30023 25045a17a6</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=25045a17a61157910bfc7ec59c7e9eb8af8d88822487df99a76f65e7f89b0d47</link>
       <guid isPermaLink="false">25045a17a61157910bfc7ec59c7e9eb8af8d88822487df99a76f65e7f89b0d47</guid>
       <pubDate>Sun, 28 Dec 2025 07:11:30 GMT</pubDate>
-      <description><![CDATA[Modern systems increasingly optimize for efficiency, predictability, and scale — and in doing so, they quietly reshape humans into interchangeable components rather than autonomous agents. This pattern appears in education, platforms, and creator economies alike. Once seen clearly, it becomes difficult to ignore — and impossible to accept as neutral.]]></description>
+      <description><![CDATA[]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
@@ -4982,26 +5002,6 @@
       <guid isPermaLink="false">30348c2b6010c496649d80cada24f4aa0d23db6ca8714e60b02bca156df35c72</guid>
       <pubDate>Sat, 13 Dec 2025 04:23:44 GMT</pubDate>
       <description><![CDATA[Bitcoin exists because honesty failed. Had banks and governments preserved a system of sound, fully-backed money, there would have been no reason for Satoshi Nakamoto to write a single line of code. What the world abandoned in gold and full reserves, Bitcoin rebuilt in math.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Oct. 30, 2025): The Bitcoin Chronicles - The Price of Transmission — Phase Two</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7a330c462fcaf80ebfb2b6e9cfdfaa0ba2ebe93f0159cd46682d85dfbf532d10</link>
-      <guid isPermaLink="false">7a330c462fcaf80ebfb2b6e9cfdfaa0ba2ebe93f0159cd46682d85dfbf532d10</guid>
-      <pubDate>Sat, 13 Dec 2025 04:20:27 GMT</pubDate>
-      <description><![CDATA[Moving matter through the Entanglement Bridge doesn’t defeat physics; it pays physics—up front, on-chain, and in full. This essay follows real cases (a life-saving medical part, a desal membrane, and a denied rare-earth pallet) to show how Phase Two sets the “price of transmission” in energy, momentum, provenance, and ethics. It’s a hopeful blueprint for sovereign logistics that refuses empire and embraces responsibility.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Oct. 29, 2025): The Bitcoin Chronicles — The Price of Transmission</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2f0f437813639ee16a2100f6a40a9fa9e01a54541c9e25a9130d04b488089892</link>
-      <guid isPermaLink="false">2f0f437813639ee16a2100f6a40a9fa9e01a54541c9e25a9130d04b488089892</guid>
-      <pubDate>Sat, 13 Dec 2025 04:13:53 GMT</pubDate>
-      <description><![CDATA[After the first entangled message slips past the Bureau’s global grid, the world trembles.   Kaia and Yun face the consequences of defying a planetary order, while leaders across the Free Network weigh whether truth is worth the risk of annihilation.   Hope, they learn, is never free—it must be paid for in courage, secrecy, and faith.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

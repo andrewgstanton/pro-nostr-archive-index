@@ -22,6 +22,28 @@
     "paid": false
   },
   {
+    "slug": "kevins-article",
+    "event_id": "95f75d3a77b8eaaae8f273d8998039a4cebc6a6c3ba2671698fe5f9a9e133a5e",
+    "created_at": 1770335625,
+    "npub": "npub1u3cvn76jvlpfw92ux6d886daq073kjzcwc3j73m5p22h32thlztq8x7agh",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub1u3cvn76jvlpfw92ux6d886daq073kjzcwc3j73m5p22h32thlztq8x7agh/30023/95f75d3a77b8eaaae8f273d8998039a4cebc6a6c3ba2671698fe5f9a9e133a5e.json",
+    "title": "Kevin's Article",
+    "summary": "HSD is a miracle to grow startups",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "f653cad05877b21a6aa7b1e4df9313e89284b04d416c2d63f0425b0743fcfdde",
+    "created_at": 1770334785,
+    "npub": "npub1u3cvn76jvlpfw92ux6d886daq073kjzcwc3j73m5p22h32thlztq8x7agh",
+    "kind": 0,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub1u3cvn76jvlpfw92ux6d886daq073kjzcwc3j73m5p22h32thlztq8x7agh/0/f653cad05877b21a6aa7b1e4df9313e89284b04d416c2d63f0425b0743fcfdde.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "why-i-chose-to-build-and-write-this-way--even-when-its-lonely",
     "event_id": "2d6626cf2506be7cb9959d0a3583b8f99f69d78667d7ecc0e4d851e29d4b830c",
     "created_at": 1770332006,
@@ -3757,8 +3779,8 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 30023,
     "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/3f4deb01b65e635274f61d0974aa6d231726592a30f4e23562785e12683fa3c9.json",
-    "title": "🔒 The Bitcoin Chronicles - 1.D.5 - The Price of Stability",
-    "summary": "Insurance did not return to the Belt as control. It returned as comfort.",
+    "title": "",
+    "summary": "",
     "paid": false
   },
   {
@@ -4241,8 +4263,8 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 30023,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/25045a17a61157910bfc7ec59c7e9eb8af8d88822487df99a76f65e7f89b0d47.json",
-    "title": "When Systems Prefer Components Over Agents",
-    "summary": "Modern systems increasingly optimize for efficiency, predictability, and scale — and in doing so, they quietly reshape humans into interchangeable components rather than autonomous agents. This pattern appears in education, platforms, and creator economies alike. Once seen clearly, it becomes difficult to ignore — and impossible to accept as neutral.",
+    "title": "",
+    "summary": "",
     "paid": false
   },
   {
@@ -6298,8 +6320,8 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 30023,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/cafe071e071cf87cbea778e47d111b5c54b3c890a7915236f7b2b8207b2b6950.json",
-    "title": "The Sovereign Archive: The Canonical Bitcoin Chronicles Index",
-    "summary": "This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.",
+    "title": "",
+    "summary": "",
     "paid": false
   },
   {
@@ -7376,8 +7398,8 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 30023,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/184495293b3a288ba46e88ba8a114e66cb8f9f110bf0ff8bca8ea0ba5b3e9f9a.json",
-    "title": "Free Article 1 (Sept. 2, 2025): Lessons from Web2 — The Rise and Fall of Disposable Platforms",
-    "summary": "From MySpace to Skype, Web2 promised permanence but delivered disposability. Users invested their labor into platforms they did not own, only to lose everything when hype or competition overtook them. The lesson: platforms are fragile, but Bitcoin offers property that endures.",
+    "title": "",
+    "summary": "",
     "paid": false
   },
   {
@@ -7398,8 +7420,8 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 30023,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/943017720b3e6e895bedb398f9db958f1a720f6a437aa150fbc7eacb4ad48cf3.json",
-    "title": "Free Article 1 (Sept. 1, 2025): Sovereign Labor: The Worker as Creator",
-    "summary": "Under fiat, much of human labor has been stripped of dignity — reduced to survival wages or even meaningless “bullshit jobs.” Bitcoin reframes work itself. By preserving time as incorruptible value, it allows labor — whether humble or highly skilled — to be recognized not as disposable, but as sovereign creation with lasting worth.",
+    "title": "",
+    "summary": "",
     "paid": false
   },
   {
@@ -12590,8 +12612,8 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 30023,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/6a3c6932115b5aa0c62155df19ac41c16055154a56c7bd8dadea8e1b056b90b9.json",
-    "title": "Free Article 2 (Sept. 26): The Rebuilders: What Comes After Collapse",
-    "summary": "After every collapse, there come rebuilders — ordinary people who restore what matters by living honestly and simply. This piece honors those who rebuild not with slogans or wealth but with integrity. The new world, Andrew reminds us, begins wherever one life turns toward light.",
+    "title": "",
+    "summary": "",
     "paid": false
   },
   {
@@ -12656,8 +12678,8 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 30023,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/dd905e3ab162e80b389f7a70aca4e27a36089a3ae6bae2ab786c2c552eb4d10b.json",
-    "title": "Free Article 2 (Oct. 6, 2025): Attention Is a Territory",
-    "summary": "Empires once conquered land; now they colonize attention.  Treating attention as sacred property is the foundation of mental and spiritual independence.",
+    "title": "",
+    "summary": "",
     "paid": false
   },
   {
@@ -14416,8 +14438,8 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 30023,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/3680e1fefed54294be55fdf829c55f38e9ef881e61a9fd44fa60c79517d45b33.json",
-    "title": "The Bitcoin Chronicles: Toward The Stars  — Part 4: Asteroid Belt Economics",
-    "summary": "Part 4 of the Bitcoin Chronicles explores the Asteroid Belt as Bitcoin’s ultimate energy frontier, where abundant solar and nuclear power make proof-of-work a natural foundation for scattered, sovereign economies trading in sats.",
+    "title": "",
+    "summary": "",
     "paid": false
   },
   {
