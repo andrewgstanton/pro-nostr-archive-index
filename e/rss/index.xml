@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 06 Feb 2026 16:56:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 17:09:10 GMT</lastBuildDate>
+    <item>
+      <title>kind:0 dae697c887</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=dae697c887d85af6aee24252a4498ca8710affb000313eb71af3e6aba3cd1c12</link>
+      <guid isPermaLink="false">dae697c887d85af6aee24252a4498ca8710affb000313eb71af3e6aba3cd1c12</guid>
+      <pubDate>Fri, 06 Feb 2026 17:03:03 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:0</category>
+      <category>npub:npub1u3cvn76jvlpfw92ux6d886daq073kjzcwc3j73m5p22h32thlztq8x7agh</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Turned off WiFi - Continuum kept working</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=dc7c20c61fe64e83a56a2a8c81751ca37ff33fc14938fd268e50bbc87103d48c</link>
@@ -33,16 +43,6 @@
       <pubDate>Thu, 05 Feb 2026 23:53:45 GMT</pubDate>
       <description><![CDATA[HSD is a miracle to grow startups]]></description>
       <category>kind:30023</category>
-      <category>npub:npub1u3cvn76jvlpfw92ux6d886daq073kjzcwc3j73m5p22h32thlztq8x7agh</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:0 f653cad058</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f653cad05877b21a6aa7b1e4df9313e89284b04d416c2d63f0425b0743fcfdde</link>
-      <guid isPermaLink="false">f653cad05877b21a6aa7b1e4df9313e89284b04d416c2d63f0425b0743fcfdde</guid>
-      <pubDate>Thu, 05 Feb 2026 23:39:45 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:0</category>
       <category>npub:npub1u3cvn76jvlpfw92ux6d886daq073kjzcwc3j73m5p22h32thlztq8x7agh</category>
       <category>paid:false</category>
     </item>
@@ -3117,11 +3117,11 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>kind:30023 3f4deb01b6</title>
+      <title>🔒 The Bitcoin Chronicles - 1.D.5 - The Price of Stability</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=3f4deb01b65e635274f61d0974aa6d231726592a30f4e23562785e12683fa3c9</link>
       <guid isPermaLink="false">3f4deb01b65e635274f61d0974aa6d231726592a30f4e23562785e12683fa3c9</guid>
       <pubDate>Sat, 03 Jan 2026 20:28:21 GMT</pubDate>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[Insurance did not return to the Belt as control. It returned as comfort.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
@@ -3447,11 +3447,11 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>kind:30023 25045a17a6</title>
+      <title>When Systems Prefer Components Over Agents</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=25045a17a61157910bfc7ec59c7e9eb8af8d88822487df99a76f65e7f89b0d47</link>
       <guid isPermaLink="false">25045a17a61157910bfc7ec59c7e9eb8af8d88822487df99a76f65e7f89b0d47</guid>
       <pubDate>Sun, 28 Dec 2025 07:11:30 GMT</pubDate>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[Modern systems increasingly optimize for efficiency, predictability, and scale — and in doing so, they quietly reshape humans into interchangeable components rather than autonomous agents. This pattern appears in education, platforms, and creator economies alike. Once seen clearly, it becomes difficult to ignore — and impossible to accept as neutral.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
