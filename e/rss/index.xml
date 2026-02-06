@@ -5,7 +5,67 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 05 Feb 2026 19:35:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 01:06:33 GMT</lastBuildDate>
+    <item>
+      <title>Turned off WiFi - Continuum kept working</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=dc7c20c61fe64e83a56a2a8c81751ca37ff33fc14938fd268e50bbc87103d48c</link>
+      <guid isPermaLink="false">dc7c20c61fe64e83a56a2a8c81751ca37ff33fc14938fd268e50bbc87103d48c</guid>
+      <pubDate>Fri, 06 Feb 2026 01:00:35 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Milestone - Continuum Running Elsewhere</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3cf201820597df0a2aa8cfe2dbc65d57aa1bde31d1571369eb787c0282ecc96a</link>
+      <guid isPermaLink="false">3cf201820597df0a2aa8cfe2dbc65d57aa1bde31d1571369eb787c0282ecc96a</guid>
+      <pubDate>Fri, 06 Feb 2026 00:39:50 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Why I Chose to Build and Write This Way — Even When It’s Lonely</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2d6626cf2506be7cb9959d0a3583b8f99f69d78667d7ecc0e4d851e29d4b830c</link>
+      <guid isPermaLink="false">2d6626cf2506be7cb9959d0a3583b8f99f69d78667d7ecc0e4d851e29d4b830c</guid>
+      <pubDate>Thu, 05 Feb 2026 22:53:26 GMT</pubDate>
+      <description><![CDATA[I didn’t choose this way of writing and building because it was efficient, popular, or socially rewarding. I chose it because it was honest — and because once I saw that honesty was possible, I couldn’t unsee it. This is a reflection on why I keep going despite loneliness, slow adoption, and setbacks — and why I do so with real hope.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Writing That Costs the Writer</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b52be59d20213b215cbfe371748ae8b0791e799ecafd0ee33342a8e6c8d37733</link>
+      <guid isPermaLink="false">b52be59d20213b215cbfe371748ae8b0791e799ecafd0ee33342a8e6c8d37733</guid>
+      <pubDate>Thu, 05 Feb 2026 22:33:12 GMT</pubDate>
+      <description><![CDATA[Some writing is designed to persuade, some to perform, and some to provoke. This essay is about a different category: writing that costs the writer — emotionally, socially, and internally — and why that cost is often the clearest signal that the work is honest.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Why Neutral Systems Still Feel Like Judgment</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6d0260200bd43302e2399d09cb9ef1fd46ce5f792a476dc5054c4de783cebb75</link>
+      <guid isPermaLink="false">6d0260200bd43302e2399d09cb9ef1fd46ce5f792a476dc5054c4de783cebb75</guid>
+      <pubDate>Thu, 05 Feb 2026 22:27:55 GMT</pubDate>
+      <description><![CDATA[Even when systems are technically neutral, people often experience them as judgmental. This essay examines why neutral, explicit, sovereign systems feel confrontational — and why that discomfort reveals more about us than about the system itself.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Sovereignty Is Not a Vibe — It Is a Burden</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=59e9ea1435619436f2fb43c95fc1f631a095b7a037aa37fa65a6bb1d13d92e64</link>
+      <guid isPermaLink="false">59e9ea1435619436f2fb43c95fc1f631a095b7a037aa37fa65a6bb1d13d92e64</guid>
+      <pubDate>Thu, 05 Feb 2026 22:21:51 GMT</pubDate>
+      <description><![CDATA[Sovereignty is often marketed as empowerment, freedom, or self-expression. In reality, it is a burden — the burden of responsibility, authorship, and consequence. This essay explores why true sovereignty feels heavy, isolating, and uncomfortable, and why that discomfort is not a failure but a signal that something real is happening.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Note — “So What?” Is the Question That Matters - 2/5/2026</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=79171e7c25a67895362c87ac16caf946c99681ba7cec2c795e4eb7686d04af9f</link>
@@ -4942,66 +5002,6 @@
       <guid isPermaLink="false">2f0f437813639ee16a2100f6a40a9fa9e01a54541c9e25a9130d04b488089892</guid>
       <pubDate>Sat, 13 Dec 2025 04:13:53 GMT</pubDate>
       <description><![CDATA[After the first entangled message slips past the Bureau’s global grid, the world trembles.   Kaia and Yun face the consequences of defying a planetary order, while leaders across the Free Network weigh whether truth is worth the risk of annihilation.   Hope, they learn, is never free—it must be paid for in courage, secrecy, and faith.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Oct. 28, 2025): Authorship in the Age of Silence</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=13dc9a2b14494fee06f15367e39309923706378141fa2f397d85f31dd91db507</link>
-      <guid isPermaLink="false">13dc9a2b14494fee06f15367e39309923706378141fa2f397d85f31dd91db507</guid>
-      <pubDate>Sat, 13 Dec 2025 04:09:14 GMT</pubDate>
-      <description><![CDATA[What does it mean to own your words in an era when platforms, editors, and AI models absorb everything? This essay redefines authorship as a sovereign act of witness — one that transcends recognition and survives through integrity, memory, and proof of work.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Oct. 27): The Hope Protocol: Why What We Build Matters</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=bfdf444f1e4d5ecf600a6f02f824b3a2b8e360ad5c5af89099848e859dec4aed</link>
-      <guid isPermaLink="false">bfdf444f1e4d5ecf600a6f02f824b3a2b8e360ad5c5af89099848e859dec4aed</guid>
-      <pubDate>Sat, 13 Dec 2025 04:05:30 GMT</pubDate>
-      <description><![CDATA[Hope isn’t a feeling—it’s an architecture. Every block, every relay, every act of honest creation reinforces the possibility that civilization can still choose truth over convenience. The things we build in light become the proof that meaning endures.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Magazine - Issue #8 (Oct. 20-26, 2025)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=bff1b2d458b4361d72220241ac53a046aa43bd054e696fb6df81eade2659c4be</link>
-      <guid isPermaLink="false">bff1b2d458b4361d72220241ac53a046aa43bd054e696fb6df81eade2659c4be</guid>
-      <pubDate>Sat, 13 Dec 2025 03:58:04 GMT</pubDate>
-      <description><![CDATA[# 8.  This issue of Continuum Magazine brings together the Oct.20-26, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Oct. 24, 2025): The Economics of Mercy</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5917f5bffa495b9778faa2f25f8c77eb6fe31eb4a651e47ad7d38bdda27fe419</link>
-      <guid isPermaLink="false">5917f5bffa495b9778faa2f25f8c77eb6fe31eb4a651e47ad7d38bdda27fe419</guid>
-      <pubDate>Sat, 13 Dec 2025 03:29:03 GMT</pubDate>
-      <description><![CDATA[The day after a medical scare exposes a truer balance sheet. It wasn’t just a good day in the markets; it was a day when emotional stewardship, financial prudence, and the cadence of care all converged. This is an account of how mercy recalibrates value, and why a life-giving treasury begins with gratitude.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Oct. 23, 2025): The Cost of Care: What SAGE Taught Me About Centralization and Compassion</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c7a8443c65cbfd7bc1a3c266cc9edb45d6397cb2fc5f91ed07ebac0804d1e45e</link>
-      <guid isPermaLink="false">c7a8443c65cbfd7bc1a3c266cc9edb45d6397cb2fc5f91ed07ebac0804d1e45e</guid>
-      <pubDate>Sat, 13 Dec 2025 03:24:54 GMT</pubDate>
-      <description><![CDATA[A Thursday morning emergency visit for Whiskers, my aging schnauzer-poodle, became more than a medical ordeal. It revealed how fragile both life and our economic systems are—and how a decentralized world could let compassion and value flow as freely as breath.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Oct. 22, 2025): The Fiat Trash Culture</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=475bdc75abffc0c042bab1d5dff03904bf3acb4478cf358fd9df02ff04b7f6fc</link>
-      <guid isPermaLink="false">475bdc75abffc0c042bab1d5dff03904bf3acb4478cf358fd9df02ff04b7f6fc</guid>
-      <pubDate>Sat, 13 Dec 2025 03:19:45 GMT</pubDate>
-      <description><![CDATA[Fiat doesn’t just debase currency—it debases civilization. When money is trash, art becomes trash, politics becomes trash, and people drown in it. Bitcoin is the reclamation of taste, truth, and time.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

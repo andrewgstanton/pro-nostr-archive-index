@@ -5,7 +5,47 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 05 Feb 2026 19:35:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 01:06:33 GMT</lastBuildDate>
+    <item>
+      <title>Why I Chose to Build and Write This Way — Even When It’s Lonely</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2d6626cf2506be7cb9959d0a3583b8f99f69d78667d7ecc0e4d851e29d4b830c</link>
+      <guid isPermaLink="false">2d6626cf2506be7cb9959d0a3583b8f99f69d78667d7ecc0e4d851e29d4b830c</guid>
+      <pubDate>Thu, 05 Feb 2026 22:53:26 GMT</pubDate>
+      <description><![CDATA[I didn’t choose this way of writing and building because it was efficient, popular, or socially rewarding. I chose it because it was honest — and because once I saw that honesty was possible, I couldn’t unsee it. This is a reflection on why I keep going despite loneliness, slow adoption, and setbacks — and why I do so with real hope.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Writing That Costs the Writer</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b52be59d20213b215cbfe371748ae8b0791e799ecafd0ee33342a8e6c8d37733</link>
+      <guid isPermaLink="false">b52be59d20213b215cbfe371748ae8b0791e799ecafd0ee33342a8e6c8d37733</guid>
+      <pubDate>Thu, 05 Feb 2026 22:33:12 GMT</pubDate>
+      <description><![CDATA[Some writing is designed to persuade, some to perform, and some to provoke. This essay is about a different category: writing that costs the writer — emotionally, socially, and internally — and why that cost is often the clearest signal that the work is honest.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Why Neutral Systems Still Feel Like Judgment</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6d0260200bd43302e2399d09cb9ef1fd46ce5f792a476dc5054c4de783cebb75</link>
+      <guid isPermaLink="false">6d0260200bd43302e2399d09cb9ef1fd46ce5f792a476dc5054c4de783cebb75</guid>
+      <pubDate>Thu, 05 Feb 2026 22:27:55 GMT</pubDate>
+      <description><![CDATA[Even when systems are technically neutral, people often experience them as judgmental. This essay examines why neutral, explicit, sovereign systems feel confrontational — and why that discomfort reveals more about us than about the system itself.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Sovereignty Is Not a Vibe — It Is a Burden</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=59e9ea1435619436f2fb43c95fc1f631a095b7a037aa37fa65a6bb1d13d92e64</link>
+      <guid isPermaLink="false">59e9ea1435619436f2fb43c95fc1f631a095b7a037aa37fa65a6bb1d13d92e64</guid>
+      <pubDate>Thu, 05 Feb 2026 22:21:51 GMT</pubDate>
+      <description><![CDATA[Sovereignty is often marketed as empowerment, freedom, or self-expression. In reality, it is a burden — the burden of responsibility, authorship, and consequence. This essay explores why true sovereignty feels heavy, isolating, and uncomfortable, and why that discomfort is not a failure but a signal that something real is happening.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>What Does Sovereignty Really Mean?</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=797e490b6d87019c24f0163164754671ef1a79390795f55f2202fdb34da5fe68</link>
@@ -4972,46 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">18fdd4f086df9dd8dd44b7ee217ff3e32f763af165692b067605674f990eefe6</guid>
       <pubDate>Thu, 30 Oct 2025 23:04:33 GMT</pubDate>
       <description><![CDATA[You don’t need a security clearance to see the world clearly. Logic, pattern recognition, and moral imagination can reveal as much as any classified file — sometimes more.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Oct. 30, 2025): The Bitcoin Chronicles - Quantum Customs</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=449c9fbd1a58863d861f6d7f08b7114b072aa4c86cc2d3b73ead3115ce6999d4</link>
-      <guid isPermaLink="false">449c9fbd1a58863d861f6d7f08b7114b072aa4c86cc2d3b73ead3115ce6999d4</guid>
-      <pubDate>Thu, 30 Oct 2025 16:47:30 GMT</pubDate>
-      <description><![CDATA[Phase Two of the Entanglement Bridge moves matter, not just messages. That means new kinds of “customs,” stewardship, and trust—measured in joules, hashes, and conscience. A day with a Bridge Steward at Luna Freeport shows how sovereignty can scale without slipping into bureaucracy.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Oct. 30, 2025): The Bitcoin Chronicles - Mending a Broken Bridge — The Hilo Lesson</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b283a7f3f5ea4dad287b7dfa77bf244958d9de425c7f0ae2f922f4391ea39068</link>
-      <guid isPermaLink="false">b283a7f3f5ea4dad287b7dfa77bf244958d9de425c7f0ae2f922f4391ea39068</guid>
-      <pubDate>Thu, 30 Oct 2025 16:32:53 GMT</pubDate>
-      <description><![CDATA[A squall on Earth knocks a coastal pad out of tolerance and a Phase Two transfer aborts mid-sequence. An emergency crew on Hawaiʻi—and a sympathetic team on Luna—show how resilience is built into the bridge: redundancy, humility, and community. The lesson is practical and hopeful.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Sovereign Creed</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=fdbc39c47132407edc2b7cc3c26d5064e8a8e2419ac25fc706262ce7b463125f</link>
-      <guid isPermaLink="false">fdbc39c47132407edc2b7cc3c26d5064e8a8e2419ac25fc706262ce7b463125f</guid>
-      <pubDate>Wed, 29 Oct 2025 21:50:00 GMT</pubDate>
-      <description><![CDATA[A personal confession of faith and freedom, rooted in the pattern of the Nicene and Reformation creeds, faithful to Sola Scriptura, and illuminated by the Victorious Gospel — a statement for an age that seeks truth without permission.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>My Testimony: The Call to Live in Truth</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2687d283320b302ba6098c6ce8ca915ede2836ed4899f041180c5c4c5a26c928</link>
-      <guid isPermaLink="false">2687d283320b302ba6098c6ce8ca915ede2836ed4899f041180c5c4c5a26c928</guid>
-      <pubDate>Wed, 29 Oct 2025 20:42:03 GMT</pubDate>
-      <description><![CDATA[I first met Christ on Oahu’s North Shore in 1978.   I discovered Bitcoin in 2016 and Nostr in 2025.   But my faith journey began long before that — through Baptist, Presbyterian, and Charismatic churches that taught me zeal, discipline, and reverence, but left deep questions unresolved.   This is how the Victorious Gospel, Bitcoin, and Nostr finally converged to tell one story of freedom and truth.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

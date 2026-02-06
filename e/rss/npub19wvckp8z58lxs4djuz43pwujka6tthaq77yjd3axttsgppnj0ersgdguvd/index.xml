@@ -5,7 +5,67 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 05 Feb 2026 19:35:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 01:06:33 GMT</lastBuildDate>
+    <item>
+      <title>Turned off WiFi - Continuum kept working</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=dc7c20c61fe64e83a56a2a8c81751ca37ff33fc14938fd268e50bbc87103d48c</link>
+      <guid isPermaLink="false">dc7c20c61fe64e83a56a2a8c81751ca37ff33fc14938fd268e50bbc87103d48c</guid>
+      <pubDate>Fri, 06 Feb 2026 01:00:35 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Milestone - Continuum Running Elsewhere</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3cf201820597df0a2aa8cfe2dbc65d57aa1bde31d1571369eb787c0282ecc96a</link>
+      <guid isPermaLink="false">3cf201820597df0a2aa8cfe2dbc65d57aa1bde31d1571369eb787c0282ecc96a</guid>
+      <pubDate>Fri, 06 Feb 2026 00:39:50 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Why I Chose to Build and Write This Way — Even When It’s Lonely</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2d6626cf2506be7cb9959d0a3583b8f99f69d78667d7ecc0e4d851e29d4b830c</link>
+      <guid isPermaLink="false">2d6626cf2506be7cb9959d0a3583b8f99f69d78667d7ecc0e4d851e29d4b830c</guid>
+      <pubDate>Thu, 05 Feb 2026 22:53:26 GMT</pubDate>
+      <description><![CDATA[I didn’t choose this way of writing and building because it was efficient, popular, or socially rewarding. I chose it because it was honest — and because once I saw that honesty was possible, I couldn’t unsee it. This is a reflection on why I keep going despite loneliness, slow adoption, and setbacks — and why I do so with real hope.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Writing That Costs the Writer</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b52be59d20213b215cbfe371748ae8b0791e799ecafd0ee33342a8e6c8d37733</link>
+      <guid isPermaLink="false">b52be59d20213b215cbfe371748ae8b0791e799ecafd0ee33342a8e6c8d37733</guid>
+      <pubDate>Thu, 05 Feb 2026 22:33:12 GMT</pubDate>
+      <description><![CDATA[Some writing is designed to persuade, some to perform, and some to provoke. This essay is about a different category: writing that costs the writer — emotionally, socially, and internally — and why that cost is often the clearest signal that the work is honest.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Why Neutral Systems Still Feel Like Judgment</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6d0260200bd43302e2399d09cb9ef1fd46ce5f792a476dc5054c4de783cebb75</link>
+      <guid isPermaLink="false">6d0260200bd43302e2399d09cb9ef1fd46ce5f792a476dc5054c4de783cebb75</guid>
+      <pubDate>Thu, 05 Feb 2026 22:27:55 GMT</pubDate>
+      <description><![CDATA[Even when systems are technically neutral, people often experience them as judgmental. This essay examines why neutral, explicit, sovereign systems feel confrontational — and why that discomfort reveals more about us than about the system itself.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Sovereignty Is Not a Vibe — It Is a Burden</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=59e9ea1435619436f2fb43c95fc1f631a095b7a037aa37fa65a6bb1d13d92e64</link>
+      <guid isPermaLink="false">59e9ea1435619436f2fb43c95fc1f631a095b7a037aa37fa65a6bb1d13d92e64</guid>
+      <pubDate>Thu, 05 Feb 2026 22:21:51 GMT</pubDate>
+      <description><![CDATA[Sovereignty is often marketed as empowerment, freedom, or self-expression. In reality, it is a burden — the burden of responsibility, authorship, and consequence. This essay explores why true sovereignty feels heavy, isolating, and uncomfortable, and why that discomfort is not a failure but a signal that something real is happening.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Note — “So What?” Is the Question That Matters - 2/5/2026</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=79171e7c25a67895362c87ac16caf946c99681ba7cec2c795e4eb7686d04af9f</link>
@@ -4942,66 +5002,6 @@
       <guid isPermaLink="false">58a4afd18c6562574c226386053bcdc7adee2b959e1070bbd9d1c95f8902ea20</guid>
       <pubDate>Sat, 13 Dec 2025 02:34:41 GMT</pubDate>
       <description><![CDATA[Before any monetary or technological liberation, there must be a mental one.  This 1 500-word manifesto traces the architecture of captivity and the inner disciplines that make freedom real.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Sept. 27, 2025): The Quiet Before the Departure</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f7071e58d1ee03b01a6e172f64863ba5694ac5960be5566b7b39da24078338c0</link>
-      <guid isPermaLink="false">f7071e58d1ee03b01a6e172f64863ba5694ac5960be5566b7b39da24078338c0</guid>
-      <pubDate>Sat, 13 Dec 2025 02:16:28 GMT</pubDate>
-      <description><![CDATA[A meditative reflection on the Sabbath as holy stillness — a vigil of love and surrender in the final hours before loss.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Sept. 15, 2025): The Seeds We Plant Today</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=bead078f6ef9129e811f47727e038edcf49800e0383750522012e06b26870fad</link>
-      <guid isPermaLink="false">bead078f6ef9129e811f47727e038edcf49800e0383750522012e06b26870fad</guid>
-      <pubDate>Sat, 13 Dec 2025 01:59:47 GMT</pubDate>
-      <description><![CDATA[This reflection considers how small, daily acts — where we store our wealth, what platforms we use, how we raise our families — become seeds of future sovereignty or dependence. It calls for intentional planting.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sunday Article (Sept. 14, 2025): Starting a New Way of Thinking with Bitcoin</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=26328ba2602b9cd445bccc1e8044b13a7db90657216762b171c466ca9a025aa2</link>
-      <guid isPermaLink="false">26328ba2602b9cd445bccc1e8044b13a7db90657216762b171c466ca9a025aa2</guid>
-      <pubDate>Sat, 13 Dec 2025 01:41:28 GMT</pubDate>
-      <description><![CDATA[Bitcoin is more than money—it is a new mindset that reshapes how we think about time, trust, and freedom. By breaking with inherited assumptions about inflation, debt, and institutional control, it invites individuals, communities, and nations into a deeper form of sovereignty.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sabbath Article (Sept. 13, 2025): Why is a Sabbath Rest Important in a Digital Age</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3695c7e497151ce0862511a833bca473130afbc09f6b69cbca3c1699aa57ae5a</link>
-      <guid isPermaLink="false">3695c7e497151ce0862511a833bca473130afbc09f6b69cbca3c1699aa57ae5a</guid>
-      <pubDate>Sat, 13 Dec 2025 01:39:51 GMT</pubDate>
-      <description><![CDATA[n an age of constant notifications and digital noise, the Sabbath principle of rest offers not just relief but a path back to wholeness. True sovereignty requires not only freedom to act, but freedom to stop.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Sept.. 13, 2025): Why Bitcoin Encourages Rest, Not Just Leisure</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=cb8042fdc3331d5c11e0cc862ae305d84188fa0949f7cf61076cbc8948326e1a</link>
-      <guid isPermaLink="false">cb8042fdc3331d5c11e0cc862ae305d84188fa0949f7cf61076cbc8948326e1a</guid>
-      <pubDate>Sat, 13 Dec 2025 01:36:21 GMT</pubDate>
-      <description><![CDATA[Bitcoin’s design encourages deep rest, not just surface-level leisure. Its low time-preference mindset invites people to rethink how they use time and energy, making space for restoration instead of endless striving.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Sept. 7, 2025): The First Day: A New Beginning for a Sovereign Age</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=389c736564876f8100e35f717a305f0dfc3af562fdd2118ffac631def7da999f</link>
-      <guid isPermaLink="false">389c736564876f8100e35f717a305f0dfc3af562fdd2118ffac631def7da999f</guid>
-      <pubDate>Sat, 13 Dec 2025 01:17:31 GMT</pubDate>
-      <description><![CDATA[Reflects on the symbolism of Sunday as the first day of the week, connecting it to sovereignty and Bitcoin as opportunities for renewal and new beginnings.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

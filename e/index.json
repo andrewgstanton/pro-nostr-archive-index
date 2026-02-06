@@ -1,6 +1,72 @@
 [
   {
     "slug": null,
+    "event_id": "dc7c20c61fe64e83a56a2a8c81751ca37ff33fc14938fd268e50bbc87103d48c",
+    "created_at": 1770339635,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/dc7c20c61fe64e83a56a2a8c81751ca37ff33fc14938fd268e50bbc87103d48c.json",
+    "title": "Turned off WiFi - Continuum kept working",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "3cf201820597df0a2aa8cfe2dbc65d57aa1bde31d1571369eb787c0282ecc96a",
+    "created_at": 1770338390,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/3cf201820597df0a2aa8cfe2dbc65d57aa1bde31d1571369eb787c0282ecc96a.json",
+    "title": "Milestone - Continuum Running Elsewhere",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "why-i-chose-to-build-and-write-this-way--even-when-its-lonely",
+    "event_id": "2d6626cf2506be7cb9959d0a3583b8f99f69d78667d7ecc0e4d851e29d4b830c",
+    "created_at": 1770332006,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/2d6626cf2506be7cb9959d0a3583b8f99f69d78667d7ecc0e4d851e29d4b830c.json",
+    "title": "Why I Chose to Build and Write This Way — Even When It’s Lonely",
+    "summary": "I didn’t choose this way of writing and building because it was efficient, popular, or socially rewarding. I chose it because it was honest — and because once I saw that honesty was possible, I couldn’t unsee it. This is a reflection on why I keep going despite loneliness, slow adoption, and setbacks — and why I do so with real hope.",
+    "paid": false
+  },
+  {
+    "slug": "-writing-that-costs-the-writer-2026-02-05",
+    "event_id": "b52be59d20213b215cbfe371748ae8b0791e799ecafd0ee33342a8e6c8d37733",
+    "created_at": 1770330792,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/b52be59d20213b215cbfe371748ae8b0791e799ecafd0ee33342a8e6c8d37733.json",
+    "title": "🔒 Writing That Costs the Writer",
+    "summary": "Some writing is designed to persuade, some to perform, and some to provoke. This essay is about a different category: writing that costs the writer — emotionally, socially, and internally — and why that cost is often the clearest signal that the work is honest.",
+    "paid": false
+  },
+  {
+    "slug": "-why-neutral-systems-still-feel-like-judgment-1770330475",
+    "event_id": "6d0260200bd43302e2399d09cb9ef1fd46ce5f792a476dc5054c4de783cebb75",
+    "created_at": 1770330475,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/6d0260200bd43302e2399d09cb9ef1fd46ce5f792a476dc5054c4de783cebb75.json",
+    "title": "🔒 Why Neutral Systems Still Feel Like Judgment",
+    "summary": "Even when systems are technically neutral, people often experience them as judgmental. This essay examines why neutral, explicit, sovereign systems feel confrontational — and why that discomfort reveals more about us than about the system itself.",
+    "paid": false
+  },
+  {
+    "slug": "sovereignty-is-not-a-vibe--it-is-a-burden-2026-02-05",
+    "event_id": "59e9ea1435619436f2fb43c95fc1f631a095b7a037aa37fa65a6bb1d13d92e64",
+    "created_at": 1770330111,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/59e9ea1435619436f2fb43c95fc1f631a095b7a037aa37fa65a6bb1d13d92e64.json",
+    "title": "🔒 Sovereignty Is Not a Vibe — It Is a Burden",
+    "summary": "Sovereignty is often marketed as empowerment, freedom, or self-expression. In reality, it is a burden — the burden of responsibility, authorship, and consequence. This essay explores why true sovereignty feels heavy, isolating, and uncomfortable, and why that discomfort is not a failure but a signal that something real is happening.",
+    "paid": false
+  },
+  {
+    "slug": null,
     "event_id": "79171e7c25a67895362c87ac16caf946c99681ba7cec2c795e4eb7686d04af9f",
     "created_at": 1770317185,
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
