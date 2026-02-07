@@ -11,6 +11,17 @@
     "paid": false
   },
   {
+    "slug": null,
+    "event_id": "dafd439348f49731788da0ae475ac757a82c8aa50d6bb14904a309cefbdfe355",
+    "created_at": 1770418068,
+    "npub": "npub1u3cvn76jvlpfw92ux6d886daq073kjzcwc3j73m5p22h32thlztq8x7agh",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub1u3cvn76jvlpfw92ux6d886daq073kjzcwc3j73m5p22h32thlztq8x7agh/1/dafd439348f49731788da0ae475ac757a82c8aa50d6bb14904a309cefbdfe355.json",
+    "title": "Note to myself",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "-building-without-guarantees-2026-02-06",
     "event_id": "84aec2dfac8d83a581ee75c379ce14dcaa415c127d3395350eafcd6ef85d57c2",
     "created_at": 1770404240,

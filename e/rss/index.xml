@@ -5,7 +5,7 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 07 Feb 2026 05:55:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 21:45:34 GMT</lastBuildDate>
     <item>
       <title>📌 Milestone: Continuum now runs from a USB</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=f6f9dbb87b3e4d036283986cef7aff8724028d69b9ef4562be3c17bbe4f2e3b3</link>
@@ -14,6 +14,16 @@
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note to myself</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=dafd439348f49731788da0ae475ac757a82c8aa50d6bb14904a309cefbdfe355</link>
+      <guid isPermaLink="false">dafd439348f49731788da0ae475ac757a82c8aa50d6bb14904a309cefbdfe355</guid>
+      <pubDate>Fri, 06 Feb 2026 22:47:48 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub1u3cvn76jvlpfw92ux6d886daq073kjzcwc3j73m5p22h32thlztq8x7agh</category>
       <category>paid:false</category>
     </item>
     <item>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">605d9c55986b20aaf7bc8637de929bdbaea0cfb355af1332be7ccb6274f13e05</guid>
       <pubDate>Sat, 13 Dec 2025 05:31:40 GMT</pubDate>
       <description><![CDATA[After an exhausting week and a much-needed Sabbath pause, Sunday brought the real breakthrough: the moment the archive architecture crystallized around a simple, sovereign idea — a permanent resolver URL for every event on Continuum.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 16, 2025): Gratitude in a World That Forgets</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=fbc3c087b9c966c192ecf953c35d2dd2df9d69b1c36beef4e98e0fb72bb6a806</link>
-      <guid isPermaLink="false">fbc3c087b9c966c192ecf953c35d2dd2df9d69b1c36beef4e98e0fb72bb6a806</guid>
-      <pubDate>Sat, 13 Dec 2025 05:29:08 GMT</pubDate>
-      <description><![CDATA[After discovering fragility on Friday and resting on Saturday, today brought clarity: a sovereign resolver URL and a path to permanent memory. This piece reflects on the gratitude that follows true clarity — and why permanence can restore emotional grounding in a world built on forgetting.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
