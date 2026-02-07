@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 06 Feb 2026 21:11:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 05:55:12 GMT</lastBuildDate>
+    <item>
+      <title>📌 Milestone: Continuum now runs from a USB</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f6f9dbb87b3e4d036283986cef7aff8724028d69b9ef4562be3c17bbe4f2e3b3</link>
+      <guid isPermaLink="false">f6f9dbb87b3e4d036283986cef7aff8724028d69b9ef4562be3c17bbe4f2e3b3</guid>
+      <pubDate>Sat, 07 Feb 2026 05:44:15 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Note 5 - The Hidden Measure - 2/6/2026</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=6e9bac1433265b1a668ad3a08dbdc47b47218e71095fc8d5a314ea0d9080e93e</link>

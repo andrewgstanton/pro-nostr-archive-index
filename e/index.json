@@ -1,5 +1,16 @@
 [
   {
+    "slug": null,
+    "event_id": "f6f9dbb87b3e4d036283986cef7aff8724028d69b9ef4562be3c17bbe4f2e3b3",
+    "created_at": 1770443055,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/f6f9dbb87b3e4d036283986cef7aff8724028d69b9ef4562be3c17bbe4f2e3b3.json",
+    "title": "📌 Milestone: Continuum now runs from a USB",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "-building-without-guarantees-2026-02-06",
     "event_id": "84aec2dfac8d83a581ee75c379ce14dcaa415c127d3395350eafcd6ef85d57c2",
     "created_at": 1770404240,

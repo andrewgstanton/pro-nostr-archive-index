@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 06 Feb 2026 21:11:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 05:55:12 GMT</lastBuildDate>
+    <item>
+      <title>📌 Milestone: Continuum now runs from a USB</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f6f9dbb87b3e4d036283986cef7aff8724028d69b9ef4562be3c17bbe4f2e3b3</link>
+      <guid isPermaLink="false">f6f9dbb87b3e4d036283986cef7aff8724028d69b9ef4562be3c17bbe4f2e3b3</guid>
+      <pubDate>Sat, 07 Feb 2026 05:44:15 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Building Without Guarantees</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=84aec2dfac8d83a581ee75c379ce14dcaa415c127d3395350eafcd6ef85d57c2</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">fbc3c087b9c966c192ecf953c35d2dd2df9d69b1c36beef4e98e0fb72bb6a806</guid>
       <pubDate>Sat, 13 Dec 2025 05:29:08 GMT</pubDate>
       <description><![CDATA[After discovering fragility on Friday and resting on Saturday, today brought clarity: a sovereign resolver URL and a path to permanent memory. This piece reflects on the gratitude that follows true clarity — and why permanence can restore emotional grounding in a world built on forgetting.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Nov. 12, 2025): The Forge of Freedom</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=db4f2267af732209c0f938a70c0dc91fba980dee1247f15bbb16c9d1d6fdda1a</link>
-      <guid isPermaLink="false">db4f2267af732209c0f938a70c0dc91fba980dee1247f15bbb16c9d1d6fdda1a</guid>
-      <pubDate>Sat, 13 Dec 2025 05:27:09 GMT</pubDate>
-      <description><![CDATA[True freedom is not the absence of limits but the refinement that comes through covenant — through keeping faith when it would be easier to walk away.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
