@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 08 Feb 2026 01:18:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 01:37:12 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 1c9b09462a</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1c9b09462ac9468e085f40f7cb2e69778bcf18b856af398ea1c264882575bb08</link>
+      <guid isPermaLink="false">1c9b09462ac9468e085f40f7cb2e69778bcf18b856af398ea1c264882575bb08</guid>
+      <pubDate>Sun, 08 Feb 2026 01:27:44 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:0 fb9ece6eb3</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=fb9ece6eb32135ada52042c3d7ada01027181813e0e99b17752c0ba7ae102858</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">45731441b6a29da7e27521f9a63d9e9aec2fbf430f49c5e63b5f48506fae7abf</guid>
       <pubDate>Sat, 13 Dec 2025 04:44:49 GMT</pubDate>
       <description><![CDATA[A glimpse into a future where moon colonists earn and trade in Bitcoin, free from Earth-bound banks. This teaser sets the stage for how sats become the lifeblood of survival and commerce on a lunar settlement.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Nov. 7, 2025): The Long Arc of Open Systems</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f229bb61de0edc9fea6522922dfeeccc399e319cdd6b81066593fccc38798536</link>
-      <guid isPermaLink="false">f229bb61de0edc9fea6522922dfeeccc399e319cdd6b81066593fccc38798536</guid>
-      <pubDate>Sat, 13 Dec 2025 04:40:44 GMT</pubDate>
-      <description><![CDATA[Hope isn’t naive. It’s architectural. Open systems endure because they embed hope into their very structure — trust distributed across time.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

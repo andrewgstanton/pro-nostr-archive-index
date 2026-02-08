@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 08 Feb 2026 01:18:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 01:37:12 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 1c9b09462a</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1c9b09462ac9468e085f40f7cb2e69778bcf18b856af398ea1c264882575bb08</link>
+      <guid isPermaLink="false">1c9b09462ac9468e085f40f7cb2e69778bcf18b856af398ea1c264882575bb08</guid>
+      <pubDate>Sun, 08 Feb 2026 01:27:44 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Note 5 — Sabbath Reorients Desire</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=0b70a47a43377d517d54ac79028735027471f68155f8f21187a641175563bf10</link>
