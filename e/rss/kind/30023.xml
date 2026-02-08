@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 07 Feb 2026 21:45:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 01:18:35 GMT</lastBuildDate>
+    <item>
+      <title>Rest Is an Act of Trust, Not a Reward</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=cb4f366e296f850e66d74460b5006d4a2ddc8a7fd641d5d340f37781ff9a531f</link>
+      <guid isPermaLink="false">cb4f366e296f850e66d74460b5006d4a2ddc8a7fd641d5d340f37781ff9a531f</guid>
+      <pubDate>Sun, 08 Feb 2026 00:27:44 GMT</pubDate>
+      <description><![CDATA[Sabbath rest is not something earned after work is complete. It is an act of trust practiced before outcomes are secure. Rest exposes whether we believe our effort or God’s provision is what ultimately sustains us.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Sabbath Reorients Desire</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=19477b51cd0a89250c5235101f7f337192443f9763c39bf22b506783699457dc</link>
+      <guid isPermaLink="false">19477b51cd0a89250c5235101f7f337192443f9763c39bf22b506783699457dc</guid>
+      <pubDate>Sun, 08 Feb 2026 00:25:28 GMT</pubDate>
+      <description><![CDATA[Sabbath is not merely about stopping work. It is about retraining desire. By interrupting production and striving, Sabbath exposes what we love and gradually reorders the heart toward gratitude, delight, and trust.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Sabbath as a Limit We Don’t Choose for Ourselves</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c2c8deb253360e410c9000ca7f48b27cefbf0c9163146b2f462fde13b5c107f9</link>
+      <guid isPermaLink="false">c2c8deb253360e410c9000ca7f48b27cefbf0c9163146b2f462fde13b5c107f9</guid>
+      <pubDate>Sun, 08 Feb 2026 00:22:49 GMT</pubDate>
+      <description><![CDATA[Sabbath is not primarily about recovery or discipline. It is about accepting limits we did not design. By commanding rest, God confronts the human tendency to treat effort as identity and motion as necessity.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Building Without Guarantees</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=84aec2dfac8d83a581ee75c379ce14dcaa415c127d3395350eafcd6ef85d57c2</link>
@@ -4982,36 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">cf184ebd9b1676dbbfc4667089a0c176ed6acecd9471b08fb87ae734f9096fb9</guid>
       <pubDate>Thu, 30 Oct 2025 23:28:12 GMT</pubDate>
       <description><![CDATA[The Founders separated church and state to protect conscience from coercion. Bitcoin now separates money and state to protect value from corruption. What began as a political revolution ends as a moral one — a restoration of truth in every exchange.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 2, 2025): Transparent Republic: How the American System Can Still Redeem Itself Through Openness</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=cbccff5a6ed49d8b982396218f57784ba6fc1fdae634e6394bdbbb9b24321ec5</link>
-      <guid isPermaLink="false">cbccff5a6ed49d8b982396218f57784ba6fc1fdae634e6394bdbbb9b24321ec5</guid>
-      <pubDate>Thu, 30 Oct 2025 23:24:10 GMT</pubDate>
-      <description><![CDATA[America doesn’t need a new revolution so much as a return to visibility. The ideals of freedom and accountability are still written into its DNA, but they’ve been smothered under layers of bureaucracy, fiat opacity, and institutional self-preservation. The cure isn’t destruction; it’s light.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 2, 2025): Bitcoin and the Completion of the American Revolution</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=82c33ba39271ec21eb73be269b6caa21fcdd0cb2ae9fe83cdfb0fc767d38824b</link>
-      <guid isPermaLink="false">82c33ba39271ec21eb73be269b6caa21fcdd0cb2ae9fe83cdfb0fc767d38824b</guid>
-      <pubDate>Thu, 30 Oct 2025 23:21:42 GMT</pubDate>
-      <description><![CDATA[The American Revolution was never only political — it was about sovereignty itself. Bitcoin fulfills that unfinished work, separating money and state the way the Founders once separated church and state.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sabbath Article (Nov. 1, 2025): The Leatherworker’s Freedom</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=52dfacad6565e8130178f0bb27f0fa109ec16806d0d5b539a597b8c99e696e03</link>
-      <guid isPermaLink="false">52dfacad6565e8130178f0bb27f0fa109ec16806d0d5b539a597b8c99e696e03</guid>
-      <pubDate>Thu, 30 Oct 2025 23:18:44 GMT</pubDate>
-      <description><![CDATA[Real wealth isn’t measured in margins or markets; it’s measured in integrity. A man who makes something durable with his hands and keeps his promises has already built the kind of freedom most corporations can only brand.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

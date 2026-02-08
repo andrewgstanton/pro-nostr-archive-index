@@ -1,6 +1,105 @@
 [
   {
     "slug": null,
+    "event_id": "fb9ece6eb32135ada52042c3d7ada01027181813e0e99b17752c0ba7ae102858",
+    "created_at": 1770513064,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 0,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/0/fb9ece6eb32135ada52042c3d7ada01027181813e0e99b17752c0ba7ae102858.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "rest-is-an-act-of-trust-not-a-reward",
+    "event_id": "cb4f366e296f850e66d74460b5006d4a2ddc8a7fd641d5d340f37781ff9a531f",
+    "created_at": 1770510464,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/cb4f366e296f850e66d74460b5006d4a2ddc8a7fd641d5d340f37781ff9a531f.json",
+    "title": "Rest Is an Act of Trust, Not a Reward",
+    "summary": "Sabbath rest is not something earned after work is complete. It is an act of trust practiced before outcomes are secure. Rest exposes whether we believe our effort or God’s provision is what ultimately sustains us.",
+    "paid": false
+  },
+  {
+    "slug": "sabbath-reorients-desire",
+    "event_id": "19477b51cd0a89250c5235101f7f337192443f9763c39bf22b506783699457dc",
+    "created_at": 1770510328,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/19477b51cd0a89250c5235101f7f337192443f9763c39bf22b506783699457dc.json",
+    "title": "Sabbath Reorients Desire",
+    "summary": "Sabbath is not merely about stopping work. It is about retraining desire. By interrupting production and striving, Sabbath exposes what we love and gradually reorders the heart toward gratitude, delight, and trust.",
+    "paid": false
+  },
+  {
+    "slug": "sabbath-as-a-limit-we-dont-choose-for-ourselves",
+    "event_id": "c2c8deb253360e410c9000ca7f48b27cefbf0c9163146b2f462fde13b5c107f9",
+    "created_at": 1770510169,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/c2c8deb253360e410c9000ca7f48b27cefbf0c9163146b2f462fde13b5c107f9.json",
+    "title": "Sabbath as a Limit We Don’t Choose for Ourselves",
+    "summary": "Sabbath is not primarily about recovery or discipline. It is about accepting limits we did not design. By commanding rest, God confronts the human tendency to treat effort as identity and motion as necessity.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "0b70a47a43377d517d54ac79028735027471f68155f8f21187a641175563bf10",
+    "created_at": 1770508871,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/0b70a47a43377d517d54ac79028735027471f68155f8f21187a641175563bf10.json",
+    "title": "Note 5 — Sabbath Reorients Desire",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "25f0c1887a611a0985b542e5d76ae92c15e5c9ad0c32b33a26984f9bceb764b1",
+    "created_at": 1770508631,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/25f0c1887a611a0985b542e5d76ae92c15e5c9ad0c32b33a26984f9bceb764b1.json",
+    "title": "Note 4 — You Are Not the Source - 2/7/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "ae9527e5eec3dbb289582e9a579d82ec5b2c57af5e90b0ae39460d79f21b9424",
+    "created_at": 1770508571,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/ae9527e5eec3dbb289582e9a579d82ec5b2c57af5e90b0ae39460d79f21b9424.json",
+    "title": "Note 3 — Sabbath Is a Rhythm, Not an Escape - 2/7/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "3c868afb3ce20e37e1e3e2f1314442e589b0a137a86a897b0cebe6f6ec20078c",
+    "created_at": 1770508338,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/3c868afb3ce20e37e1e3e2f1314442e589b0a137a86a897b0cebe6f6ec20078c.json",
+    "title": "Note 2 — Rest Trains the Heart - 2/7/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "f66948d082a3c0782f6bacb89185bdbce2f5a843e0bc5c228125a19f06148104",
+    "created_at": 1770505628,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/f66948d082a3c0782f6bacb89185bdbce2f5a843e0bc5c228125a19f06148104.json",
+    "title": "Note 1 — Sabbath Is a Confession - 2/7/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
     "event_id": "f6f9dbb87b3e4d036283986cef7aff8724028d69b9ef4562be3c17bbe4f2e3b3",
     "created_at": 1770443055,
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",

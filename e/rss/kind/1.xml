@@ -5,7 +5,57 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 07 Feb 2026 21:45:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 01:18:35 GMT</lastBuildDate>
+    <item>
+      <title>Note 5 — Sabbath Reorients Desire</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=0b70a47a43377d517d54ac79028735027471f68155f8f21187a641175563bf10</link>
+      <guid isPermaLink="false">0b70a47a43377d517d54ac79028735027471f68155f8f21187a641175563bf10</guid>
+      <pubDate>Sun, 08 Feb 2026 00:01:11 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 4 — You Are Not the Source - 2/7/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=25f0c1887a611a0985b542e5d76ae92c15e5c9ad0c32b33a26984f9bceb764b1</link>
+      <guid isPermaLink="false">25f0c1887a611a0985b542e5d76ae92c15e5c9ad0c32b33a26984f9bceb764b1</guid>
+      <pubDate>Sat, 07 Feb 2026 23:57:11 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 3 — Sabbath Is a Rhythm, Not an Escape - 2/7/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ae9527e5eec3dbb289582e9a579d82ec5b2c57af5e90b0ae39460d79f21b9424</link>
+      <guid isPermaLink="false">ae9527e5eec3dbb289582e9a579d82ec5b2c57af5e90b0ae39460d79f21b9424</guid>
+      <pubDate>Sat, 07 Feb 2026 23:56:11 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 2 — Rest Trains the Heart - 2/7/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3c868afb3ce20e37e1e3e2f1314442e589b0a137a86a897b0cebe6f6ec20078c</link>
+      <guid isPermaLink="false">3c868afb3ce20e37e1e3e2f1314442e589b0a137a86a897b0cebe6f6ec20078c</guid>
+      <pubDate>Sat, 07 Feb 2026 23:52:18 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 1 — Sabbath Is a Confession - 2/7/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f66948d082a3c0782f6bacb89185bdbce2f5a843e0bc5c228125a19f06148104</link>
+      <guid isPermaLink="false">f66948d082a3c0782f6bacb89185bdbce2f5a843e0bc5c228125a19f06148104</guid>
+      <pubDate>Sat, 07 Feb 2026 23:07:08 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>📌 Milestone: Continuum now runs from a USB</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=f6f9dbb87b3e4d036283986cef7aff8724028d69b9ef4562be3c17bbe4f2e3b3</link>
