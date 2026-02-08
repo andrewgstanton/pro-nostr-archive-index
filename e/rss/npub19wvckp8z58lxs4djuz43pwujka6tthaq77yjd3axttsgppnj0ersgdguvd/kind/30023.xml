@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 08 Feb 2026 20:06:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 20:32:34 GMT</lastBuildDate>
+    <item>
+      <title>After Sunday: What Resurrection Demands</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7e74cde353cd8888f8c03517f586ce4d81ea92cc5202f4804f46a34be67bc73a</link>
+      <guid isPermaLink="false">7e74cde353cd8888f8c03517f586ce4d81ea92cc5202f4804f46a34be67bc73a</guid>
+      <pubDate>Sun, 08 Feb 2026 20:22:51 GMT</pubDate>
+      <description><![CDATA[The resurrection does not give the disciples answers — it gives them a calling. This essay reflects on what it means to leave the tomb without certainty, carrying presence, responsibility, and hope into a world that has not yet been healed.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Resurrection Refuses Finality</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2bb3cd96b7a48bcd99e46fbc452bb75b032d35af206f85efd67d5f5fb8ffa9aa</link>
+      <guid isPermaLink="false">2bb3cd96b7a48bcd99e46fbc452bb75b032d35af206f85efd67d5f5fb8ffa9aa</guid>
+      <pubDate>Sun, 08 Feb 2026 20:20:07 GMT</pubDate>
+      <description><![CDATA[Resurrection is not sentimental comfort but a quiet refusal to accept despair as inevitable. This essay explores resurrection as ontological resistance — a challenge to systems built on finality, fear, and decay — and why Sunday remains a defiant reorientation of reality itself.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Sunday Is a Reorientation, Not a Reset</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3a48818efe6378cc6c15112e595ca0329f6bf448d6606effc24b0ef35231963d</link>
+      <guid isPermaLink="false">3a48818efe6378cc6c15112e595ca0329f6bf448d6606effc24b0ef35231963d</guid>
+      <pubDate>Sun, 08 Feb 2026 20:17:29 GMT</pubDate>
+      <description><![CDATA[Sunday is often framed as a reset — a clean slate that erases what came before. Resurrection offers something heavier. It binds past and future together, refuses erasure, and reorients life around a story that does not end in collapse.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Rest Is an Act of Trust, Not a Reward</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=cb4f366e296f850e66d74460b5006d4a2ddc8a7fd641d5d340f37781ff9a531f</link>
@@ -4982,36 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">20870aac98f133945c7badbcd9114fe6d2f78a39203e635e4b674fc6bde5753b</guid>
       <pubDate>Mon, 27 Oct 2025 03:39:39 GMT</pubDate>
       <description><![CDATA[Fiat doesn’t just inflate prices—it inflates perception. The modern world feels more expensive because we’re buying meaning with printed money.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Oct. 21, 2025): The Mirror and the Mirage</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7af300ee30ad729e74f4f1ea85ea549b427709bee74341495ebdc752173e5e2d</link>
-      <guid isPermaLink="false">7af300ee30ad729e74f4f1ea85ea549b427709bee74341495ebdc752173e5e2d</guid>
-      <pubDate>Mon, 27 Oct 2025 03:27:16 GMT</pubDate>
-      <description><![CDATA[Markets appear stable because the turbulence is hidden. Bitcoin refuses to hide it. That’s the difference between a mirror and a mirage. Fiat systems paint calm skies over stormy seas, while Bitcoin leaves the waves visible — a truthful reflection of a world still learning what value means.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Oct. 21, 2025): Volatility Is Not the Point</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=cf6b04e54904c2f1cbd33fa0eb7546383355bda602eccb170d5d73a0437e696d</link>
-      <guid isPermaLink="false">cf6b04e54904c2f1cbd33fa0eb7546383355bda602eccb170d5d73a0437e696d</guid>
-      <pubDate>Mon, 27 Oct 2025 02:50:17 GMT</pubDate>
-      <description><![CDATA[Every market moves. Prices rise and fall like tides, revealing the friction between what we know and what we think we know. Volatility isn’t what separates Bitcoin from everything else — it’s what exposes the difference. Beneath the motion lies a deeper stillness: truth learning to express itself in a world addicted to control.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sabbath Article (Oct. 25, 2025): The Fragility and the Breath</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c71af9bafbe7349557edea782b46021199d10da99724dfab4e667f52fee2d452</link>
-      <guid isPermaLink="false">c71af9bafbe7349557edea782b46021199d10da99724dfab4e667f52fee2d452</guid>
-      <pubDate>Mon, 27 Oct 2025 02:37:44 GMT</pubDate>
-      <description><![CDATA[Sabbath doesn’t always come with joy. Sometimes it arrives as exhaustion after a night of panic, or the slow return of breath after fear has hollowed you out. This week, it came through Whiskers — the small, trembling heartbeat that reminded us what rest really means. Sabbath is not escape from fragility; it is learning to dwell inside it without breaking.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

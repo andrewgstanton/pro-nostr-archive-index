@@ -1,5 +1,38 @@
 [
   {
+    "slug": "after-sunday-what-resurrection-demands",
+    "event_id": "7e74cde353cd8888f8c03517f586ce4d81ea92cc5202f4804f46a34be67bc73a",
+    "created_at": 1770582171,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/7e74cde353cd8888f8c03517f586ce4d81ea92cc5202f4804f46a34be67bc73a.json",
+    "title": "After Sunday: What Resurrection Demands",
+    "summary": "The resurrection does not give the disciples answers — it gives them a calling. This essay reflects on what it means to leave the tomb without certainty, carrying presence, responsibility, and hope into a world that has not yet been healed.",
+    "paid": false
+  },
+  {
+    "slug": "resurrection-refuses-finality",
+    "event_id": "2bb3cd96b7a48bcd99e46fbc452bb75b032d35af206f85efd67d5f5fb8ffa9aa",
+    "created_at": 1770582007,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/2bb3cd96b7a48bcd99e46fbc452bb75b032d35af206f85efd67d5f5fb8ffa9aa.json",
+    "title": "Resurrection Refuses Finality",
+    "summary": "Resurrection is not sentimental comfort but a quiet refusal to accept despair as inevitable. This essay explores resurrection as ontological resistance — a challenge to systems built on finality, fear, and decay — and why Sunday remains a defiant reorientation of reality itself.",
+    "paid": false
+  },
+  {
+    "slug": "sunday-is-a-reorientation-not-a-reset",
+    "event_id": "3a48818efe6378cc6c15112e595ca0329f6bf448d6606effc24b0ef35231963d",
+    "created_at": 1770581849,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/3a48818efe6378cc6c15112e595ca0329f6bf448d6606effc24b0ef35231963d.json",
+    "title": "Sunday Is a Reorientation, Not a Reset",
+    "summary": "Sunday is often framed as a reset — a clean slate that erases what came before. Resurrection offers something heavier. It binds past and future together, refuses erasure, and reorients life around a story that does not end in collapse.",
+    "paid": false
+  },
+  {
     "slug": null,
     "event_id": "6889ae7c159143f7a07241379864ba6fa56977a5388e84b767215efcfb2f3f12",
     "created_at": 1770580556,
