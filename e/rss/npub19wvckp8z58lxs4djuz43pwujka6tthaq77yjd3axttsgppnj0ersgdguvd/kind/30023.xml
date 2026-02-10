@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 08 Feb 2026 23:59:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 00:36:13 GMT</lastBuildDate>
+    <item>
+      <title>Continuum: Design Principles for Durable Infrastructure</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f1a15601a85b849af7ad3a8f975f53ef310e58318259a330186fa9e12d65161d</link>
+      <guid isPermaLink="false">f1a15601a85b849af7ad3a8f975f53ef310e58318259a330186fa9e12d65161d</guid>
+      <pubDate>Tue, 10 Feb 2026 00:21:32 GMT</pubDate>
+      <description><![CDATA[Authorship, Sovereignty, and Long-Horizon Alignment]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>After Sunday: What Resurrection Demands</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=4fc977aeae1f7d4a85cfb27218bf9d92cacea21f7302f300c7ce64716461deb3</link>
@@ -5002,16 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">3f0400618a63b29a147d6097161337cc6fd1fb11707a803824a6d2d87a9c4f37</guid>
       <pubDate>Mon, 27 Oct 2025 03:44:49 GMT</pubDate>
       <description><![CDATA[Fiat culture prizes speed and comfort, but the tab is spiritual: the more effortless life becomes, the less effort we find worth making.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Oct. 22, 2025): The Inflation of Everything</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=20870aac98f133945c7badbcd9114fe6d2f78a39203e635e4b674fc6bde5753b</link>
-      <guid isPermaLink="false">20870aac98f133945c7badbcd9114fe6d2f78a39203e635e4b674fc6bde5753b</guid>
-      <pubDate>Mon, 27 Oct 2025 03:39:39 GMT</pubDate>
-      <description><![CDATA[Fiat doesn’t just inflate prices—it inflates perception. The modern world feels more expensive because we’re buying meaning with printed money.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

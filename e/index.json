@@ -1,5 +1,27 @@
 [
   {
+    "slug": "continuum-design-principles-for-durable-infrastructure",
+    "event_id": "f1a15601a85b849af7ad3a8f975f53ef310e58318259a330186fa9e12d65161d",
+    "created_at": 1770682892,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/f1a15601a85b849af7ad3a8f975f53ef310e58318259a330186fa9e12d65161d.json",
+    "title": "Continuum: Design Principles for Durable Infrastructure",
+    "summary": "Authorship, Sovereignty, and Long-Horizon Alignment",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "6da2cfaa76e2a31ae2d76fd9e974512f4cbc1919652cfb5f1bbf57cc91a43e35",
+    "created_at": 1770666174,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/6da2cfaa76e2a31ae2d76fd9e974512f4cbc1919652cfb5f1bbf57cc91a43e35.json",
+    "title": "Be consistent - 2/9/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "after-sunday-what-resurrection-demands",
     "event_id": "4fc977aeae1f7d4a85cfb27218bf9d92cacea21f7302f300c7ce64716461deb3",
     "created_at": 1770587805,

@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 08 Feb 2026 23:59:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 00:36:13 GMT</lastBuildDate>
+    <item>
+      <title>Continuum: Design Principles for Durable Infrastructure</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f1a15601a85b849af7ad3a8f975f53ef310e58318259a330186fa9e12d65161d</link>
+      <guid isPermaLink="false">f1a15601a85b849af7ad3a8f975f53ef310e58318259a330186fa9e12d65161d</guid>
+      <pubDate>Tue, 10 Feb 2026 00:21:32 GMT</pubDate>
+      <description><![CDATA[Authorship, Sovereignty, and Long-Horizon Alignment]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>After Sunday: What Resurrection Demands</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=4fc977aeae1f7d4a85cfb27218bf9d92cacea21f7302f300c7ce64716461deb3</link>
@@ -5002,16 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">57a8a503321cdf2fc0d09ac9e40bde81b88957e30b2417547fd53fcdfc8efe41</guid>
       <pubDate>Tue, 04 Nov 2025 21:04:59 GMT</pubDate>
       <description><![CDATA[Beneath the calm of an “off-year” Election Day lies the architecture of power itself — local votes, legislative maps, and civic habits that determine who governs and how communities thrive. The smallest races often shape the biggest outcomes.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov, 4, 2025): Election Day 2025: Why It Still Matters — And What to Watch</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6065527e69f9cee265bf7957c1a98c7c8b47f94082152fef8663e0b52385baf8</link>
-      <guid isPermaLink="false">6065527e69f9cee265bf7957c1a98c7c8b47f94082152fef8663e0b52385baf8</guid>
-      <pubDate>Tue, 04 Nov 2025 21:01:25 GMT</pubDate>
-      <description><![CDATA[Even in an “off-year,” Election Day 2025 carries real consequences. From statehouses to ballot measures, today’s votes will shape the political and moral landscape heading into 2026 — reminding us that civic participation is a habit, not a holiday.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

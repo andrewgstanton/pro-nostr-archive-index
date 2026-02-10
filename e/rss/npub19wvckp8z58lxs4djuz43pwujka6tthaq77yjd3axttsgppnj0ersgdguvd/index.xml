@@ -5,7 +5,27 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 08 Feb 2026 23:59:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 00:36:13 GMT</lastBuildDate>
+    <item>
+      <title>Continuum: Design Principles for Durable Infrastructure</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f1a15601a85b849af7ad3a8f975f53ef310e58318259a330186fa9e12d65161d</link>
+      <guid isPermaLink="false">f1a15601a85b849af7ad3a8f975f53ef310e58318259a330186fa9e12d65161d</guid>
+      <pubDate>Tue, 10 Feb 2026 00:21:32 GMT</pubDate>
+      <description><![CDATA[Authorship, Sovereignty, and Long-Horizon Alignment]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Be consistent - 2/9/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6da2cfaa76e2a31ae2d76fd9e974512f4cbc1919652cfb5f1bbf57cc91a43e35</link>
+      <guid isPermaLink="false">6da2cfaa76e2a31ae2d76fd9e974512f4cbc1919652cfb5f1bbf57cc91a43e35</guid>
+      <pubDate>Mon, 09 Feb 2026 19:42:54 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>After Sunday: What Resurrection Demands</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=4fc977aeae1f7d4a85cfb27218bf9d92cacea21f7302f300c7ce64716461deb3</link>
@@ -4982,26 +5002,6 @@
       <guid isPermaLink="false">d2c5f477b71b4be0fef48d5444ff3e0735e961cb139dc42bb51da2789632a64a</guid>
       <pubDate>Sat, 13 Dec 2025 05:47:33 GMT</pubDate>
       <description><![CDATA[A reflection on the invisible labor we carry in relationships, how it distorts our sense of worth, and why sovereignty begins with refusing to be emotionally conscripted.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Nov. 25, 2025): Breaking the Spell of Emotional Capture: How Sovereignty Begins in the Soul</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=96a4dd71330ed87f9a8de5dba7f124d57054ddc61aff0a7e86e9d376326a38be</link>
-      <guid isPermaLink="false">96a4dd71330ed87f9a8de5dba7f124d57054ddc61aff0a7e86e9d376326a38be</guid>
-      <pubDate>Sat, 13 Dec 2025 05:45:30 GMT</pubDate>
-      <description><![CDATA[A deep dive into emotional capture, subtle control, spiritual clarity, and the inner shift required to reclaim sovereignty from draining relationships and cultural captivity.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Nov. 24, 2025): The Bitcoin Chronicles: The Entanglement Bridge — A Chronicle of Exiles</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=4f27966c909557de6f5adc3c38861c09b934337aa7b903fbb613019ff692d0c1</link>
-      <guid isPermaLink="false">4f27966c909557de6f5adc3c38861c09b934337aa7b903fbb613019ff692d0c1</guid>
-      <pubDate>Sat, 13 Dec 2025 05:43:11 GMT</pubDate>
-      <description><![CDATA[Across the solar system, scattered communities use the Entanglement Bridge — a quantum-linked, high-latency channel — to pass encrypted Bitcoin headers and sovereign identity proofs. But three worlds begin to diverge in their political philosophies, and a schism forms that threatens the shared future of interplanetary civilization.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

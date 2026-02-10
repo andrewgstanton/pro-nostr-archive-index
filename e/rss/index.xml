@@ -5,7 +5,27 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 08 Feb 2026 23:59:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 00:36:13 GMT</lastBuildDate>
+    <item>
+      <title>Continuum: Design Principles for Durable Infrastructure</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f1a15601a85b849af7ad3a8f975f53ef310e58318259a330186fa9e12d65161d</link>
+      <guid isPermaLink="false">f1a15601a85b849af7ad3a8f975f53ef310e58318259a330186fa9e12d65161d</guid>
+      <pubDate>Tue, 10 Feb 2026 00:21:32 GMT</pubDate>
+      <description><![CDATA[Authorship, Sovereignty, and Long-Horizon Alignment]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Be consistent - 2/9/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6da2cfaa76e2a31ae2d76fd9e974512f4cbc1919652cfb5f1bbf57cc91a43e35</link>
+      <guid isPermaLink="false">6da2cfaa76e2a31ae2d76fd9e974512f4cbc1919652cfb5f1bbf57cc91a43e35</guid>
+      <pubDate>Mon, 09 Feb 2026 19:42:54 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>After Sunday: What Resurrection Demands</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=4fc977aeae1f7d4a85cfb27218bf9d92cacea21f7302f300c7ce64716461deb3</link>
@@ -4984,26 +5004,6 @@
       <description><![CDATA[# 10.  This issue of Continuum Magazine brings together the Nov.3-Nov.9, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction.]]></description>
       <category>kind:30023</category>
       <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Dec. 5, 2025): The Bitcoin Chronicles - 1.B.10 - The Lattice Protocol: How Luna Rewove the Human Archive)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f5ded1a81236b38bdacdba3ea6763b44f8ded63412829626cb5cd2809cf6300d</link>
-      <guid isPermaLink="false">f5ded1a81236b38bdacdba3ea6763b44f8ded63412829626cb5cd2809cf6300d</guid>
-      <pubDate>Sat, 13 Dec 2025 19:19:05 GMT</pubDate>
-      <description><![CDATA[After the Great Archive Migration safeguarded humanity’s knowledge on the Moon, Luna’s engineers confronted an even greater challenge: preserving it for centuries. The result was the Lattice Protocol — a self-repairing, cryptographically verifiable memory architecture]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Dec. 4, 2025): The Bitcoin Chronicles - 1.C.4 - The Covenant of Twelve: Mars Declares Its Center</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=cf85b37ec40aa35001f78e346c818c0753e9e573b5e842a28f1ab5d8ab3c101d</link>
-      <guid isPermaLink="false">cf85b37ec40aa35001f78e346c818c0753e9e573b5e842a28f1ab5d8ab3c101d</guid>
-      <pubDate>Sat, 13 Dec 2025 19:17:32 GMT</pubDate>
-      <description><![CDATA[Following the Red Charter, twelve Martian settlements convened to answer a single question: how can sovereign colonies coexist without repeating Earth’s failures? Their answer—the Covenant of Twelve—formed the first decentralized alliance on Mars, defining its political identity and declaring a new center for a post-Earth civilization.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
   </channel>
