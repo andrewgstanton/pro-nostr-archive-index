@@ -1,5 +1,104 @@
 [
   {
+    "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
+    "event_id": "9121765d7794511a67f01c6742866e7a1d23299da9c306808a324dbe7c1c24d4",
+    "created_at": 1770793453,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/9121765d7794511a67f01c6742866e7a1d23299da9c306808a324dbe7c1c24d4.json",
+    "title": "The Sovereign Archive: The Canonical Bitcoin Chronicles Index",
+    "summary": "This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.",
+    "paid": false
+  },
+  {
+    "slug": "the-bitcoin-chronicles---arc-2h1---the-cost-of-instant-truth-2026-02-10",
+    "event_id": "9ad386d40d89ad6e1ce9bc2182f79459fc0aad4a1c6baf0d7b4e5a77c16e10ec",
+    "created_at": 1770792852,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/9ad386d40d89ad6e1ce9bc2182f79459fc0aad4a1c6baf0d7b4e5a77c16e10ec.json",
+    "title": "The Bitcoin Chronicles - Arc 2.H.1 - The Cost of Instant Truth",
+    "summary": "Once entanglement bridges were physically seeded across worlds, settlement and verification became effectively instantaneous between connected systems. Bitcoin provided neutral finality. Sovereign nodes distributed participation. But simultaneity carried a cost. This installment explores the psychological, ethical, and political strain of living in a civilization where truth and settlement arrive faster than institutions — or humans — can metabolize.",
+    "paid": false
+  },
+  {
+    "slug": "the-bitcoin-chronicles---arc-2g1---sovereign-nodes-2026-02-10",
+    "event_id": "446671b998b4ffa994f3bfc6075dee3eaf63d61100edfbf74021a3470e4ddc1a",
+    "created_at": 1770792588,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/446671b998b4ffa994f3bfc6075dee3eaf63d61100edfbf74021a3470e4ddc1a.json",
+    "title": "The Bitcoin Chronicles - Arc 2.G.1 - Sovereign Nodes",
+    "summary": "After the first entanglement bridges were physically seeded across the solar system, instant settlement became possible between connected worlds. But participation did not have to remain centralized. This installment explores the rise of sovereign entanglement nodes — portable, independently operated bridge anchors that allow colonies and frontier settlements to coordinate and settle value without planetary permission.",
+    "paid": false
+  },
+  {
+    "slug": "the-bitcoin-chroncles---arc-2f1---the-custodians-of-delay-2026-02-10",
+    "event_id": "1eff3c26ae1921b7cc419c6b7e7bb31be927fe1459b5a73b0aa93c2e87a8fca5",
+    "created_at": 1770792266,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/1eff3c26ae1921b7cc419c6b7e7bb31be927fe1459b5a73b0aa93c2e87a8fca5.json",
+    "title": "The Bitcoin Chroncles - Arc 2.F.1 - The Custodians of Delay",
+    "summary": "Entanglement did not eliminate distance — it eliminated delay once infrastructure was seeded. After sub-light pioneers carried the first entangled bridges outward, simultaneity became operational between worlds. But institutions built on latency began to resist. This installment explores how delay once structured power, why instant settlement destabilizes hierarchy, and how the struggle over finality reshapes interplanetary sovereignty.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "17f8df04239e337a9f349a292eb75ef6fc440a3f25f55988c6379af7854fa0db",
+    "created_at": 1770789596,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/17f8df04239e337a9f349a292eb75ef6fc440a3f25f55988c6379af7854fa0db.json",
+    "title": "Note 5 — Do Not Despise Small Beginnings - 2/10/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "d163e3f341d8517312c5e1ff8ff8ce7048d526c5de46e1d03cecfc3ea68e8b06",
+    "created_at": 1770789525,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/d163e3f341d8517312c5e1ff8ff8ce7048d526c5de46e1d03cecfc3ea68e8b06.json",
+    "title": "Note 4 — Responsibility Is Freedom - 2/10/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "67b255b6742a6f2400c142395b81f6630372fbb853367a495cd00e3a14a27a79",
+    "created_at": 1770789447,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/67b255b6742a6f2400c142395b81f6630372fbb853367a495cd00e3a14a27a79.json",
+    "title": "Note 3 — Speed Is Not the Same as Strength - 2/10/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "c653eb48fca86081db0e5e5ab432f84eab646696109df61d10def3b8ef882d08",
+    "created_at": 1770789324,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/c653eb48fca86081db0e5e5ab432f84eab646696109df61d10def3b8ef882d08.json",
+    "title": "Note 2 — Quiet Work Still Counts - 2/10/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "ee9422f627861ea6408c738068ce5d72ca1b021fc9895850a089b72f1e8ac237",
+    "created_at": 1770789235,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/ee9422f627861ea6408c738068ce5d72ca1b021fc9895850a089b72f1e8ac237.json",
+    "title": "Note 1 — Build What Endures - 2/10/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": null,
     "event_id": "c83d1cf979909252ebfa0a051c6acafe7190a3de53519a1eb08fd4234cef58ea",
     "created_at": 1770772329,
@@ -9202,8 +9301,8 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 30023,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/7df51b4e24661f9fa334fb6253d5a1ece21dc5354b4e610047f92ac964f8176c.json",
-    "title": "Sabbath Article (Dec. 6, 2025): The Bitcoin Chronicles - 1.B.10 - The Sovereign Canon",
-    "summary": "As Luna matured into a sovereign world, its guilds, Archivists, elders, and settlers began gathering the philosophies, laws, histories, and spiritual insights that defined their civilization. The result became known as the Sovereign Canon — a collection of teachings, oaths, principles, and stories that preserved the soul of the lunar diaspora and guided humanity’s expansion to the stars.",
+    "title": "",
+    "summary": "",
     "paid": false
   },
   {

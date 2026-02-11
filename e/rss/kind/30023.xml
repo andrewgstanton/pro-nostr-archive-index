@@ -5,7 +5,47 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 11 Feb 2026 01:18:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 07:15:37 GMT</lastBuildDate>
+    <item>
+      <title>The Sovereign Archive: The Canonical Bitcoin Chronicles Index</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9121765d7794511a67f01c6742866e7a1d23299da9c306808a324dbe7c1c24d4</link>
+      <guid isPermaLink="false">9121765d7794511a67f01c6742866e7a1d23299da9c306808a324dbe7c1c24d4</guid>
+      <pubDate>Wed, 11 Feb 2026 07:04:13 GMT</pubDate>
+      <description><![CDATA[This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Bitcoin Chronicles - Arc 2.H.1 - The Cost of Instant Truth</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9ad386d40d89ad6e1ce9bc2182f79459fc0aad4a1c6baf0d7b4e5a77c16e10ec</link>
+      <guid isPermaLink="false">9ad386d40d89ad6e1ce9bc2182f79459fc0aad4a1c6baf0d7b4e5a77c16e10ec</guid>
+      <pubDate>Wed, 11 Feb 2026 06:54:12 GMT</pubDate>
+      <description><![CDATA[Once entanglement bridges were physically seeded across worlds, settlement and verification became effectively instantaneous between connected systems. Bitcoin provided neutral finality. Sovereign nodes distributed participation. But simultaneity carried a cost. This installment explores the psychological, ethical, and political strain of living in a civilization where truth and settlement arrive faster than institutions — or humans — can metabolize.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Bitcoin Chronicles - Arc 2.G.1 - Sovereign Nodes</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=446671b998b4ffa994f3bfc6075dee3eaf63d61100edfbf74021a3470e4ddc1a</link>
+      <guid isPermaLink="false">446671b998b4ffa994f3bfc6075dee3eaf63d61100edfbf74021a3470e4ddc1a</guid>
+      <pubDate>Wed, 11 Feb 2026 06:49:48 GMT</pubDate>
+      <description><![CDATA[After the first entanglement bridges were physically seeded across the solar system, instant settlement became possible between connected worlds. But participation did not have to remain centralized. This installment explores the rise of sovereign entanglement nodes — portable, independently operated bridge anchors that allow colonies and frontier settlements to coordinate and settle value without planetary permission.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Bitcoin Chroncles - Arc 2.F.1 - The Custodians of Delay</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1eff3c26ae1921b7cc419c6b7e7bb31be927fe1459b5a73b0aa93c2e87a8fca5</link>
+      <guid isPermaLink="false">1eff3c26ae1921b7cc419c6b7e7bb31be927fe1459b5a73b0aa93c2e87a8fca5</guid>
+      <pubDate>Wed, 11 Feb 2026 06:44:26 GMT</pubDate>
+      <description><![CDATA[Entanglement did not eliminate distance — it eliminated delay once infrastructure was seeded. After sub-light pioneers carried the first entangled bridges outward, simultaneity became operational between worlds. But institutions built on latency began to resist. This installment explores how delay once structured power, why instant settlement destabilizes hierarchy, and how the struggle over finality reshapes interplanetary sovereignty.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Faithful Work Without Immediate Validation</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=9e38e4335751a7f0d96304e4b01dd6484e6b7b827f6403facdecf3ae8d92f4ac</link>
@@ -974,16 +1014,6 @@
       <description><![CDATA[This document defines the core protocols behind Continuum’s archive-backed approach to Nostr identity, publishing, and messaging.  It formalizes a simple but non-standard assumption: relays are caches, not memory.  By treating archives as the source of truth and manifests as authoritative intent, Continuum enables deterministic reconstruction of profiles, notes, encrypted DMs, and long-form articles—even if relays forget, backups reappear, or local databases are wiped.  The protocols described here prioritize durability, deletion intent, encrypted message continuity, and long-horizon identity over feeds, engagement, or client features.]]></description>
       <category>kind:30023</category>
       <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Sovereign Archive: The Canonical Bitcoin Chronicles Index</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=aa735e3656fce7e1f08143cbb6076862e8cd64f35d65b4e46480de9b941f3600</link>
-      <guid isPermaLink="false">aa735e3656fce7e1f08143cbb6076862e8cd64f35d65b4e46480de9b941f3600</guid>
-      <pubDate>Fri, 09 Jan 2026 01:19:33 GMT</pubDate>
-      <description><![CDATA[This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
     <item>
@@ -3657,11 +3687,11 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>Sabbath Article (Dec. 6, 2025): The Bitcoin Chronicles - 1.B.10 - The Sovereign Canon</title>
+      <title>kind:30023 7df51b4e24</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=7df51b4e24661f9fa334fb6253d5a1ece21dc5354b4e610047f92ac964f8176c</link>
       <guid isPermaLink="false">7df51b4e24661f9fa334fb6253d5a1ece21dc5354b4e610047f92ac964f8176c</guid>
       <pubDate>Sun, 07 Dec 2025 04:31:19 GMT</pubDate>
-      <description><![CDATA[As Luna matured into a sovereign world, its guilds, Archivists, elders, and settlers began gathering the philosophies, laws, histories, and spiritual insights that defined their civilization. The result became known as the Sovereign Canon — a collection of teachings, oaths, principles, and stories that preserved the soul of the lunar diaspora and guided humanity’s expansion to the stars.]]></description>
+      <description><![CDATA[]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
@@ -4982,36 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">27834df38891b60244029fdb999381bd6185a0a02435995db6bf661ddf7b7f23</guid>
       <pubDate>Mon, 10 Nov 2025 06:03:42 GMT</pubDate>
       <description><![CDATA[Great systems never begin as movements. They begin as convictions — tiny acts of fidelity that ripple outward until they ignite entire worlds.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 7, 2025): The Myth of Momentum</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2088b98b1516fdd896d69736fbf51b3d5e3ca9bd277412be4d3b90d5fe98f801</link>
-      <guid isPermaLink="false">2088b98b1516fdd896d69736fbf51b3d5e3ca9bd277412be4d3b90d5fe98f801</guid>
-      <pubDate>Mon, 10 Nov 2025 06:00:10 GMT</pubDate>
-      <description><![CDATA[Momentum is overrated. Systems that depend on hype burn out. Real progress is steady, compounding, and almost invisible — especially in sovereign systems.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 6, 2025): The Builders No One Notices</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=129674ee5056ff1138ef7d2e41b3bb1198d4f0c76800470c97cfa94a47f16dad</link>
-      <guid isPermaLink="false">129674ee5056ff1138ef7d2e41b3bb1198d4f0c76800470c97cfa94a47f16dad</guid>
-      <pubDate>Mon, 10 Nov 2025 05:49:45 GMT</pubDate>
-      <description><![CDATA[The hardest work is often invisible — yet every breakthrough rests on the shoulders of those who built faithfully without recognition.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 6, 2025): The Silence Between Launches</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6ce086f17beed158f4962f56f74f449c99c90eb9704061c69d0cdbf365ab3e0c</link>
-      <guid isPermaLink="false">6ce086f17beed158f4962f56f74f449c99c90eb9704061c69d0cdbf365ab3e0c</guid>
-      <pubDate>Mon, 10 Nov 2025 05:45:47 GMT</pubDate>
-      <description><![CDATA[Every builder faces quiet seasons when the world seems to stop caring. But the silence is rarely empty — it’s where the deepest roots form.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

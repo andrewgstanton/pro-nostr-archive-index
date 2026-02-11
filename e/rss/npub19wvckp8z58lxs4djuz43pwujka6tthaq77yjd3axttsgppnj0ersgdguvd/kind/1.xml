@@ -5,7 +5,57 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 11 Feb 2026 01:18:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 07:15:37 GMT</lastBuildDate>
+    <item>
+      <title>Note 5 — Do Not Despise Small Beginnings - 2/10/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=17f8df04239e337a9f349a292eb75ef6fc440a3f25f55988c6379af7854fa0db</link>
+      <guid isPermaLink="false">17f8df04239e337a9f349a292eb75ef6fc440a3f25f55988c6379af7854fa0db</guid>
+      <pubDate>Wed, 11 Feb 2026 05:59:56 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 4 — Responsibility Is Freedom - 2/10/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d163e3f341d8517312c5e1ff8ff8ce7048d526c5de46e1d03cecfc3ea68e8b06</link>
+      <guid isPermaLink="false">d163e3f341d8517312c5e1ff8ff8ce7048d526c5de46e1d03cecfc3ea68e8b06</guid>
+      <pubDate>Wed, 11 Feb 2026 05:58:45 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 3 — Speed Is Not the Same as Strength - 2/10/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=67b255b6742a6f2400c142395b81f6630372fbb853367a495cd00e3a14a27a79</link>
+      <guid isPermaLink="false">67b255b6742a6f2400c142395b81f6630372fbb853367a495cd00e3a14a27a79</guid>
+      <pubDate>Wed, 11 Feb 2026 05:57:27 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 2 — Quiet Work Still Counts - 2/10/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c653eb48fca86081db0e5e5ab432f84eab646696109df61d10def3b8ef882d08</link>
+      <guid isPermaLink="false">c653eb48fca86081db0e5e5ab432f84eab646696109df61d10def3b8ef882d08</guid>
+      <pubDate>Wed, 11 Feb 2026 05:55:24 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 1 — Build What Endures - 2/10/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ee9422f627861ea6408c738068ce5d72ca1b021fc9895850a089b72f1e8ac237</link>
+      <guid isPermaLink="false">ee9422f627861ea6408c738068ce5d72ca1b021fc9895850a089b72f1e8ac237</guid>
+      <pubDate>Wed, 11 Feb 2026 05:53:55 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Short Architecture &amp; Risk Reviews</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=c83d1cf979909252ebfa0a051c6acafe7190a3de53519a1eb08fd4234cef58ea</link>
