@@ -1384,7 +1384,7 @@
     "latest_year": 2025
   },
   "the-sovereign-archive-the-canonical-bitcoin-chronicles-index": {
-    "latest_event_id": "aa735e3656fce7e1f08143cbb6076862e8cd64f35d65b4e46480de9b941f3600",
+    "latest_event_id": "9121765d7794511a67f01c6742866e7a1d23299da9c306808a324dbe7c1c24d4",
     "latest_year": 2026
   },
   "patron-support-continuum": {
@@ -2637,6 +2637,18 @@
   },
   "-faithful-work-without-immediate-validation-2026-02-09": {
     "latest_event_id": "9e38e4335751a7f0d96304e4b01dd6484e6b7b827f6403facdecf3ae8d92f4ac",
+    "latest_year": 2026
+  },
+  "the-bitcoin-chroncles---arc-2f1---the-custodians-of-delay-2026-02-10": {
+    "latest_event_id": "1eff3c26ae1921b7cc419c6b7e7bb31be927fe1459b5a73b0aa93c2e87a8fca5",
+    "latest_year": 2026
+  },
+  "the-bitcoin-chronicles---arc-2g1---sovereign-nodes-2026-02-10": {
+    "latest_event_id": "446671b998b4ffa994f3bfc6075dee3eaf63d61100edfbf74021a3470e4ddc1a",
+    "latest_year": 2026
+  },
+  "the-bitcoin-chronicles---arc-2h1---the-cost-of-instant-truth-2026-02-10": {
+    "latest_event_id": "9ad386d40d89ad6e1ce9bc2182f79459fc0aad4a1c6baf0d7b4e5a77c16e10ec",
     "latest_year": 2026
   }
 }
