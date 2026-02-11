@@ -1,5 +1,115 @@
 [
   {
+    "slug": null,
+    "event_id": "c83d1cf979909252ebfa0a051c6acafe7190a3de53519a1eb08fd4234cef58ea",
+    "created_at": 1770772329,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/c83d1cf979909252ebfa0a051c6acafe7190a3de53519a1eb08fd4234cef58ea.json",
+    "title": "Short Architecture & Risk Reviews",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "8ff6fb200592b93412f89b27d95b6dca589b1d1fb1d7d6a7be5428e456f4a28c",
+    "created_at": 1770756412,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 0,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/0/8ff6fb200592b93412f89b27d95b6dca589b1d1fb1d7d6a7be5428e456f4a28c.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "-faithful-work-without-immediate-validation-2026-02-09",
+    "event_id": "9e38e4335751a7f0d96304e4b01dd6484e6b7b827f6403facdecf3ae8d92f4ac",
+    "created_at": 1770689024,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/9e38e4335751a7f0d96304e4b01dd6484e6b7b827f6403facdecf3ae8d92f4ac.json",
+    "title": "🔒 Faithful Work Without Immediate Validation",
+    "summary": "This piece addresses one of the hardest realities for builders: doing faithful work without visible confirmation. Drawing from Scripture, it explores why validation is a poor compass—and why God often withholds it until the work is complete.",
+    "paid": false
+  },
+  {
+    "slug": "-building-under-constraint-2026-02-09",
+    "event_id": "4bcf72752c426e80c6da9e4f5a7f9fcc875b819186effdeb8d484081b72578e8",
+    "created_at": 1770688876,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/4bcf72752c426e80c6da9e4f5a7f9fcc875b819186effdeb8d484081b72578e8.json",
+    "title": "🔒 Building Under Constraint",
+    "summary": "Constraint is not the enemy of creativity or faithfulness. It is the environment in which both are refined. This essay explores why constraint is necessary for durable building—and why systems built without it inevitably collapse.",
+    "paid": false
+  },
+  {
+    "slug": "the-discipline-of-continuing-2026-02-09",
+    "event_id": "6b03bc465a97e30ce81896c634fbe21d34495e8cab7b152a91283fcb666d20b7",
+    "created_at": 1770688674,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/6b03bc465a97e30ce81896c634fbe21d34495e8cab7b152a91283fcb666d20b7.json",
+    "title": "🔒 The Discipline of Continuing",
+    "summary": "Most people underestimate how much spiritual and architectural discipline is required not to start, but to continue. This piece explores why continuation is the real test of faithfulness—both in work and in life—and why systems fail when builders confuse momentum with obedience.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "0377ff1544c234727bd13e5bbbb27091d7a72a7066f9d92afa7815bb2b6d3f1e",
+    "created_at": 1770687958,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/0377ff1544c234727bd13e5bbbb27091d7a72a7066f9d92afa7815bb2b6d3f1e.json",
+    "title": "Note 5 — Continuing Anyway - 2/9/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "db502cdbea77b9080d17821f1babd1ff25d7e7cc8610ba878ef148d0faf4c3f8",
+    "created_at": 1770687853,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/db502cdbea77b9080d17821f1babd1ff25d7e7cc8610ba878ef148d0faf4c3f8.json",
+    "title": "Note 4 — Building as Refusal - 2/9/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "f4370f1ba3745e769627603c774e60823cdfb1c10479b3006fc548bf36738495",
+    "created_at": 1770687764,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/f4370f1ba3745e769627603c774e60823cdfb1c10479b3006fc548bf36738495.json",
+    "title": "Note 3 — Building Without Permission - 2/9/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "d3b05f3460334ac8b965121f940e5773fbc978a7a37ea0c5bed507bdb4e2c8d5",
+    "created_at": 1770687425,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/d3b05f3460334ac8b965121f940e5773fbc978a7a37ea0c5bed507bdb4e2c8d5.json",
+    "title": "Note 2 — Continuing Is a Skill - 2/9/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "5c63bebb334f8160b1fb2bc2aca8ad5be96ab113f338204a4dc88610762650c7",
+    "created_at": 1770687365,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/5c63bebb334f8160b1fb2bc2aca8ad5be96ab113f338204a4dc88610762650c7.json",
+    "title": "Note 1 — Building When It’s Quiet - 2/9/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "continuum-design-principles-for-durable-infrastructure",
     "event_id": "f1a15601a85b849af7ad3a8f975f53ef310e58318259a330186fa9e12d65161d",
     "created_at": 1770682892,

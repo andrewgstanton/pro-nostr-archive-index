@@ -5,7 +5,67 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 10 Feb 2026 00:36:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 01:18:48 GMT</lastBuildDate>
+    <item>
+      <title>Short Architecture &amp; Risk Reviews</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c83d1cf979909252ebfa0a051c6acafe7190a3de53519a1eb08fd4234cef58ea</link>
+      <guid isPermaLink="false">c83d1cf979909252ebfa0a051c6acafe7190a3de53519a1eb08fd4234cef58ea</guid>
+      <pubDate>Wed, 11 Feb 2026 01:12:09 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 5 — Continuing Anyway - 2/9/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=0377ff1544c234727bd13e5bbbb27091d7a72a7066f9d92afa7815bb2b6d3f1e</link>
+      <guid isPermaLink="false">0377ff1544c234727bd13e5bbbb27091d7a72a7066f9d92afa7815bb2b6d3f1e</guid>
+      <pubDate>Tue, 10 Feb 2026 01:45:58 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 4 — Building as Refusal - 2/9/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=db502cdbea77b9080d17821f1babd1ff25d7e7cc8610ba878ef148d0faf4c3f8</link>
+      <guid isPermaLink="false">db502cdbea77b9080d17821f1babd1ff25d7e7cc8610ba878ef148d0faf4c3f8</guid>
+      <pubDate>Tue, 10 Feb 2026 01:44:13 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 3 — Building Without Permission - 2/9/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f4370f1ba3745e769627603c774e60823cdfb1c10479b3006fc548bf36738495</link>
+      <guid isPermaLink="false">f4370f1ba3745e769627603c774e60823cdfb1c10479b3006fc548bf36738495</guid>
+      <pubDate>Tue, 10 Feb 2026 01:42:44 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 2 — Continuing Is a Skill - 2/9/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d3b05f3460334ac8b965121f940e5773fbc978a7a37ea0c5bed507bdb4e2c8d5</link>
+      <guid isPermaLink="false">d3b05f3460334ac8b965121f940e5773fbc978a7a37ea0c5bed507bdb4e2c8d5</guid>
+      <pubDate>Tue, 10 Feb 2026 01:37:05 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 1 — Building When It’s Quiet - 2/9/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5c63bebb334f8160b1fb2bc2aca8ad5be96ab113f338204a4dc88610762650c7</link>
+      <guid isPermaLink="false">5c63bebb334f8160b1fb2bc2aca8ad5be96ab113f338204a4dc88610762650c7</guid>
+      <pubDate>Tue, 10 Feb 2026 01:36:05 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Be consistent - 2/9/2026</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=6da2cfaa76e2a31ae2d76fd9e974512f4cbc1919652cfb5f1bbf57cc91a43e35</link>

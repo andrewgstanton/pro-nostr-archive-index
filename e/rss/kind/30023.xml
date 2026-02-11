@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 10 Feb 2026 00:36:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 01:18:48 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Faithful Work Without Immediate Validation</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9e38e4335751a7f0d96304e4b01dd6484e6b7b827f6403facdecf3ae8d92f4ac</link>
+      <guid isPermaLink="false">9e38e4335751a7f0d96304e4b01dd6484e6b7b827f6403facdecf3ae8d92f4ac</guid>
+      <pubDate>Tue, 10 Feb 2026 02:03:44 GMT</pubDate>
+      <description><![CDATA[This piece addresses one of the hardest realities for builders: doing faithful work without visible confirmation. Drawing from Scripture, it explores why validation is a poor compass—and why God often withholds it until the work is complete.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Under Constraint</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4bcf72752c426e80c6da9e4f5a7f9fcc875b819186effdeb8d484081b72578e8</link>
+      <guid isPermaLink="false">4bcf72752c426e80c6da9e4f5a7f9fcc875b819186effdeb8d484081b72578e8</guid>
+      <pubDate>Tue, 10 Feb 2026 02:01:16 GMT</pubDate>
+      <description><![CDATA[Constraint is not the enemy of creativity or faithfulness. It is the environment in which both are refined. This essay explores why constraint is necessary for durable building—and why systems built without it inevitably collapse.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 The Discipline of Continuing</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6b03bc465a97e30ce81896c634fbe21d34495e8cab7b152a91283fcb666d20b7</link>
+      <guid isPermaLink="false">6b03bc465a97e30ce81896c634fbe21d34495e8cab7b152a91283fcb666d20b7</guid>
+      <pubDate>Tue, 10 Feb 2026 01:57:54 GMT</pubDate>
+      <description><![CDATA[Most people underestimate how much spiritual and architectural discipline is required not to start, but to continue. This piece explores why continuation is the real test of faithfulness—both in work and in life—and why systems fail when builders confuse momentum with obedience.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Continuum: Design Principles for Durable Infrastructure</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=f1a15601a85b849af7ad3a8f975f53ef310e58318259a330186fa9e12d65161d</link>
@@ -4982,36 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">6ce086f17beed158f4962f56f74f449c99c90eb9704061c69d0cdbf365ab3e0c</guid>
       <pubDate>Mon, 10 Nov 2025 05:45:47 GMT</pubDate>
       <description><![CDATA[Every builder faces quiet seasons when the world seems to stop caring. But the silence is rarely empty — it’s where the deepest roots form.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 5, 2025): Two Platforms, One Trap</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=281c321bf729d63622a9ef9096ced1f75777f1aee4f64ec8204b047f9340c959</link>
-      <guid isPermaLink="false">281c321bf729d63622a9ef9096ced1f75777f1aee4f64ec8204b047f9340c959</guid>
-      <pubDate>Sun, 09 Nov 2025 20:22:12 GMT</pubDate>
-      <description><![CDATA[Selling an ebook should be simple. But when every step—design, checkout, delivery—happens inside a different walled garden, creators end up trapped between systems that were never meant to connect.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 5, 2025): The Hidden Cost of “Easy” Platforms</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=802c472b265bc17e8b1029610e049f768841e9653c05375076865fc562a24819</link>
-      <guid isPermaLink="false">802c472b265bc17e8b1029610e049f768841e9653c05375076865fc562a24819</guid>
-      <pubDate>Sun, 09 Nov 2025 18:03:10 GMT</pubDate>
-      <description><![CDATA[What looks like convenience—templates, integrations, one-click publishing—often hides dependency. Every “easy” platform is a velvet cage, built to keep creators tethered while selling them the illusion of freedom.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 4, 2025): From Polling Place to Policy: How Today’s Election Builds Tomorrow’s Power</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=57a8a503321cdf2fc0d09ac9e40bde81b88957e30b2417547fd53fcdfc8efe41</link>
-      <guid isPermaLink="false">57a8a503321cdf2fc0d09ac9e40bde81b88957e30b2417547fd53fcdfc8efe41</guid>
-      <pubDate>Tue, 04 Nov 2025 21:04:59 GMT</pubDate>
-      <description><![CDATA[Beneath the calm of an “off-year” Election Day lies the architecture of power itself — local votes, legislative maps, and civic habits that determine who governs and how communities thrive. The smallest races often shape the biggest outcomes.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

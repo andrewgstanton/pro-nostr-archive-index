@@ -5,7 +5,107 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 10 Feb 2026 00:36:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 01:18:48 GMT</lastBuildDate>
+    <item>
+      <title>Short Architecture &amp; Risk Reviews</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c83d1cf979909252ebfa0a051c6acafe7190a3de53519a1eb08fd4234cef58ea</link>
+      <guid isPermaLink="false">c83d1cf979909252ebfa0a051c6acafe7190a3de53519a1eb08fd4234cef58ea</guid>
+      <pubDate>Wed, 11 Feb 2026 01:12:09 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:0 8ff6fb2005</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=8ff6fb200592b93412f89b27d95b6dca589b1d1fb1d7d6a7be5428e456f4a28c</link>
+      <guid isPermaLink="false">8ff6fb200592b93412f89b27d95b6dca589b1d1fb1d7d6a7be5428e456f4a28c</guid>
+      <pubDate>Tue, 10 Feb 2026 20:46:52 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:0</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Faithful Work Without Immediate Validation</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9e38e4335751a7f0d96304e4b01dd6484e6b7b827f6403facdecf3ae8d92f4ac</link>
+      <guid isPermaLink="false">9e38e4335751a7f0d96304e4b01dd6484e6b7b827f6403facdecf3ae8d92f4ac</guid>
+      <pubDate>Tue, 10 Feb 2026 02:03:44 GMT</pubDate>
+      <description><![CDATA[This piece addresses one of the hardest realities for builders: doing faithful work without visible confirmation. Drawing from Scripture, it explores why validation is a poor compass—and why God often withholds it until the work is complete.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Under Constraint</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4bcf72752c426e80c6da9e4f5a7f9fcc875b819186effdeb8d484081b72578e8</link>
+      <guid isPermaLink="false">4bcf72752c426e80c6da9e4f5a7f9fcc875b819186effdeb8d484081b72578e8</guid>
+      <pubDate>Tue, 10 Feb 2026 02:01:16 GMT</pubDate>
+      <description><![CDATA[Constraint is not the enemy of creativity or faithfulness. It is the environment in which both are refined. This essay explores why constraint is necessary for durable building—and why systems built without it inevitably collapse.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 The Discipline of Continuing</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6b03bc465a97e30ce81896c634fbe21d34495e8cab7b152a91283fcb666d20b7</link>
+      <guid isPermaLink="false">6b03bc465a97e30ce81896c634fbe21d34495e8cab7b152a91283fcb666d20b7</guid>
+      <pubDate>Tue, 10 Feb 2026 01:57:54 GMT</pubDate>
+      <description><![CDATA[Most people underestimate how much spiritual and architectural discipline is required not to start, but to continue. This piece explores why continuation is the real test of faithfulness—both in work and in life—and why systems fail when builders confuse momentum with obedience.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 5 — Continuing Anyway - 2/9/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=0377ff1544c234727bd13e5bbbb27091d7a72a7066f9d92afa7815bb2b6d3f1e</link>
+      <guid isPermaLink="false">0377ff1544c234727bd13e5bbbb27091d7a72a7066f9d92afa7815bb2b6d3f1e</guid>
+      <pubDate>Tue, 10 Feb 2026 01:45:58 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 4 — Building as Refusal - 2/9/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=db502cdbea77b9080d17821f1babd1ff25d7e7cc8610ba878ef148d0faf4c3f8</link>
+      <guid isPermaLink="false">db502cdbea77b9080d17821f1babd1ff25d7e7cc8610ba878ef148d0faf4c3f8</guid>
+      <pubDate>Tue, 10 Feb 2026 01:44:13 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 3 — Building Without Permission - 2/9/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f4370f1ba3745e769627603c774e60823cdfb1c10479b3006fc548bf36738495</link>
+      <guid isPermaLink="false">f4370f1ba3745e769627603c774e60823cdfb1c10479b3006fc548bf36738495</guid>
+      <pubDate>Tue, 10 Feb 2026 01:42:44 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 2 — Continuing Is a Skill - 2/9/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d3b05f3460334ac8b965121f940e5773fbc978a7a37ea0c5bed507bdb4e2c8d5</link>
+      <guid isPermaLink="false">d3b05f3460334ac8b965121f940e5773fbc978a7a37ea0c5bed507bdb4e2c8d5</guid>
+      <pubDate>Tue, 10 Feb 2026 01:37:05 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 1 — Building When It’s Quiet - 2/9/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5c63bebb334f8160b1fb2bc2aca8ad5be96ab113f338204a4dc88610762650c7</link>
+      <guid isPermaLink="false">5c63bebb334f8160b1fb2bc2aca8ad5be96ab113f338204a4dc88610762650c7</guid>
+      <pubDate>Tue, 10 Feb 2026 01:36:05 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Continuum: Design Principles for Durable Infrastructure</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=f1a15601a85b849af7ad3a8f975f53ef310e58318259a330186fa9e12d65161d</link>
@@ -113,16 +213,6 @@
       <pubDate>Sun, 08 Feb 2026 01:27:44 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:0 fb9ece6eb3</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=fb9ece6eb32135ada52042c3d7ada01027181813e0e99b17752c0ba7ae102858</link>
-      <guid isPermaLink="false">fb9ece6eb32135ada52042c3d7ada01027181813e0e99b17752c0ba7ae102858</guid>
-      <pubDate>Sun, 08 Feb 2026 01:11:04 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:0</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
@@ -4914,96 +5004,6 @@
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Magazine Premium Index</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=507afd3003a87d6f598ba2242bf0578bdac7952122c16bd1f9b0771270f8a02a</link>
-      <guid isPermaLink="false">507afd3003a87d6f598ba2242bf0578bdac7952122c16bd1f9b0771270f8a02a</guid>
-      <pubDate>Sat, 13 Dec 2025 21:40:51 GMT</pubDate>
-      <description><![CDATA[Premium Index for paid articles updated weekly.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Magazine - Issue #13 (Nov.24-30, 2025)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0c361864a2680b2680020e88088fc8ebe32c66fe803785dfa58e0eac80cb6c41</link>
-      <guid isPermaLink="false">0c361864a2680b2680020e88088fc8ebe32c66fe803785dfa58e0eac80cb6c41</guid>
-      <pubDate>Sat, 13 Dec 2025 21:12:19 GMT</pubDate>
-      <description><![CDATA[# 13.  This issue of Continuum Magazine brings together the Nov.24-Nov.30, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Magazine - Issue #14 (Dec. 1-7, 2025)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c334ecc27acd30ddf2f59ebb17a4ef1494677f6c0a731fbec022de1ece58ba63</link>
-      <guid isPermaLink="false">c334ecc27acd30ddf2f59ebb17a4ef1494677f6c0a731fbec022de1ece58ba63</guid>
-      <pubDate>Sat, 13 Dec 2025 21:06:07 GMT</pubDate>
-      <description><![CDATA[# 14.  This issue of Continuum Magazine brings together the Dec.1-7, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Dec. 7, 2025): The Bitcoin Chronicles - 1.B.8 -  The Pelagia Compact: Luna Declares Itself</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6e4f574478232c75e6fe0e2016f8eccb03c37583d6f3faf870d10ef4bcb57482</link>
-      <guid isPermaLink="false">6e4f574478232c75e6fe0e2016f8eccb03c37583d6f3faf870d10ef4bcb57482</guid>
-      <pubDate>Sat, 13 Dec 2025 20:30:08 GMT</pubDate>
-      <description><![CDATA[The Pelagia Compact was not a rebellion, nor a revolution, nor a declaration of independence in the Earthly sense. It was a quiet agreement among guilds, enclaves, and Freeport elders—affirming that Luna had already outgrown Earth’s authority. The Compact merely put into words what had become true.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Dec. 1, 2025): The Bitcoin Chronicles - Book 0, Part VI - The Mystery Revealed</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=650eba5f193988aecbb6cac537d68e3b07e1dc38411fe00b97aceb28be346fb2</link>
-      <guid isPermaLink="false">650eba5f193988aecbb6cac537d68e3b07e1dc38411fe00b97aceb28be346fb2</guid>
-      <pubDate>Sat, 13 Dec 2025 20:26:34 GMT</pubDate>
-      <description><![CDATA[Part VI unveils the deep truth beneath the entire Bitcoin Chronicles canon: the victorious Gospel is not metaphor but the hidden structure of reality. Christ is the architect, sustainer, and destiny of the universe, and sovereignty exists because He is sovereign.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Dec. 12, 2025): The Bitcoin Chronicles 1.A.0.0.1 - the Engineer Who Refused the Switchboard</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=45a1873255afd86943364e3d0b63ec8b30f69282ae5d0fc16936c64a8b6ad1f9</link>
-      <guid isPermaLink="false">45a1873255afd86943364e3d0b63ec8b30f69282ae5d0fc16936c64a8b6ad1f9</guid>
-      <pubDate>Sat, 13 Dec 2025 20:24:37 GMT</pubDate>
-      <description><![CDATA[In 1957 Los Angeles, a young aerospace engineer discovers a federal plan to centralize all national communications through a single monitoring switchboard. Her refusal to participate becomes one of the earliest technological seeds of future decentralized systems—and a quiet precursor to the sovereign ethos that fuels the Pilgrim missions.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Magazine - Issue #12 (Nov.17-23, 2025)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ead8d8dfe7c922a228633c938a3a3355b5e2e171d5072f577e30ba8071eab205</link>
-      <guid isPermaLink="false">ead8d8dfe7c922a228633c938a3a3355b5e2e171d5072f577e30ba8071eab205</guid>
-      <pubDate>Sat, 13 Dec 2025 20:07:49 GMT</pubDate>
-      <description><![CDATA[# 12.  This issue of Continuum Magazine brings together the Nov.17-Nov.23, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Magazine - Issue #11 (Nov.10-16, 2025)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=cd869cb8117277e4616abf1bc593906851bc30cc82f4665e6e64d3e93e1acc5f</link>
-      <guid isPermaLink="false">cd869cb8117277e4616abf1bc593906851bc30cc82f4665e6e64d3e93e1acc5f</guid>
-      <pubDate>Sat, 13 Dec 2025 20:05:03 GMT</pubDate>
-      <description><![CDATA[# 11.  This issue of Continuum Magazine brings together the Nov.10-Nov.16, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Magazine - Issue #10 (Nov.3-Nov. 9, 2025)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=fed155762d92e0f47eb32416a0d1cbbfee8d66a0cd9400a83850e9f09d46db63</link>
-      <guid isPermaLink="false">fed155762d92e0f47eb32416a0d1cbbfee8d66a0cd9400a83850e9f09d46db63</guid>
-      <pubDate>Sat, 13 Dec 2025 19:34:55 GMT</pubDate>
-      <description><![CDATA[# 10.  This issue of Continuum Magazine brings together the Nov.3-Nov.9, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
       <category>paid:false</category>
     </item>
   </channel>
