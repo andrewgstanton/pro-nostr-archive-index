@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 11 Feb 2026 07:15:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 00:23:40 GMT</lastBuildDate>
+    <item>
+      <title>The Bitcoin Chronicles — Arc 2.H.2 - The Weight of Instant Truth</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=dbedb650d15f73637df5ade2ad733c94a754ca4a70b8b0969c78ceb06aff80cd</link>
+      <guid isPermaLink="false">dbedb650d15f73637df5ade2ad733c94a754ca4a70b8b0969c78ceb06aff80cd</guid>
+      <pubDate>Thu, 12 Feb 2026 00:16:38 GMT</pubDate>
+      <description><![CDATA[As entangled networks remove delay from interworld coordination, a subtler consequence emerges: psychological compression. Elias Walker begins to sense that living inside instant verification alters not only governance, but the human nervous system itself.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Bitcoin Chronicles — Arc 2.G.2 - The Discipline of Distributed Authority</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5c54efe007d34831f689b1f1511b41c182001bd7a6b19b075456e3c0b8d015d1</link>
+      <guid isPermaLink="false">5c54efe007d34831f689b1f1511b41c182001bd7a6b19b075456e3c0b8d015d1</guid>
+      <pubDate>Thu, 12 Feb 2026 00:13:47 GMT</pubDate>
+      <description><![CDATA[As entangled coordination spreads beyond Luna’s experimental corridors, sovereign worlds confront a deeper question: if authority no longer depends on delay, who carries responsibility? Elias Walker begins to understand that distributed systems demand more maturity, not less.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Bitcoin Chronicles — Arc 2.F.2 -  When the System Needed Saving Again</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=0b184478811a36a843558b7c5cefdb0fed2a5f2c039c0e95ee7b111bd6e3e487</link>
+      <guid isPermaLink="false">0b184478811a36a843558b7c5cefdb0fed2a5f2c039c0e95ee7b111bd6e3e487</guid>
+      <pubDate>Thu, 12 Feb 2026 00:06:42 GMT</pubDate>
+      <description><![CDATA[In the early Entangled Era, as experimental simultaneity networks begin collapsing communication delay between worlds, legacy coordination authorities attempt to preserve their relevance. Elias Walker witnesses another familiar pattern: when latency collapses, power structures built upon it require rescue.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>The Sovereign Archive: The Canonical Bitcoin Chronicles Index</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=9121765d7794511a67f01c6742866e7a1d23299da9c306808a324dbe7c1c24d4</link>
@@ -3687,11 +3717,11 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>kind:30023 7df51b4e24</title>
+      <title>Sabbath Article (Dec. 6, 2025): The Bitcoin Chronicles - 1.B.10 - The Sovereign Canon</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=7df51b4e24661f9fa334fb6253d5a1ece21dc5354b4e610047f92ac964f8176c</link>
       <guid isPermaLink="false">7df51b4e24661f9fa334fb6253d5a1ece21dc5354b4e610047f92ac964f8176c</guid>
       <pubDate>Sun, 07 Dec 2025 04:31:19 GMT</pubDate>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[As Luna matured into a sovereign world, its guilds, Archivists, elders, and settlers began gathering the philosophies, laws, histories, and spiritual insights that defined their civilization. The result became known as the Sovereign Canon — a collection of teachings, oaths, principles, and stories that preserved the soul of the lunar diaspora and guided humanity’s expansion to the stars.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
@@ -4982,36 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">4be53bccb78931b1058cfd687eaf8587d3c3958087165555e0b1a2c41e7adf88</guid>
       <pubDate>Mon, 10 Nov 2025 06:29:53 GMT</pubDate>
       <description><![CDATA[The world runs on scarcity, but the Kingdom runs on grace. Provision begins not when we have enough — but when we learn to see enough.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sabbath Article (Nov. 8, 2025): The Sabbath Firewall</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=92fc47be5cc79dae2ef3577d3069abe5bfe403b571393ee143977f83a9baf067</link>
-      <guid isPermaLink="false">92fc47be5cc79dae2ef3577d3069abe5bfe403b571393ee143977f83a9baf067</guid>
-      <pubDate>Mon, 10 Nov 2025 06:16:46 GMT</pubDate>
-      <description><![CDATA[Even builders of open systems need rest. The Sabbath isn’t withdrawal from creation; it’s its completion — the security patch for the soul.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 8, 2025): Lines Without Borders</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f5ab9fb3d09a25bd5689ec9b62a23bc7b5bf87ca121adfafd80345d98ce755f8</link>
-      <guid isPermaLink="false">f5ab9fb3d09a25bd5689ec9b62a23bc7b5bf87ca121adfafd80345d98ce755f8</guid>
-      <pubDate>Mon, 10 Nov 2025 06:10:05 GMT</pubDate>
-      <description><![CDATA[Modern airport security treats everyone as a suspect. A sovereign future imagines checkpoints built on identity, not fear.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 7, 2025): How Small Starts Spread Like Fire</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=27834df38891b60244029fdb999381bd6185a0a02435995db6bf661ddf7b7f23</link>
-      <guid isPermaLink="false">27834df38891b60244029fdb999381bd6185a0a02435995db6bf661ddf7b7f23</guid>
-      <pubDate>Mon, 10 Nov 2025 06:03:42 GMT</pubDate>
-      <description><![CDATA[Great systems never begin as movements. They begin as convictions — tiny acts of fidelity that ripple outward until they ignite entire worlds.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

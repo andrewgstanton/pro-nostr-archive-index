@@ -1,5 +1,93 @@
 [
   {
+    "slug": "the-bitcoin-chronicles--arc-2h2---the-weight-of-instant-truth-2026-02-11",
+    "event_id": "dbedb650d15f73637df5ade2ad733c94a754ca4a70b8b0969c78ceb06aff80cd",
+    "created_at": 1770855398,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/dbedb650d15f73637df5ade2ad733c94a754ca4a70b8b0969c78ceb06aff80cd.json",
+    "title": "The Bitcoin Chronicles — Arc 2.H.2 - The Weight of Instant Truth",
+    "summary": "As entangled networks remove delay from interworld coordination, a subtler consequence emerges: psychological compression. Elias Walker begins to sense that living inside instant verification alters not only governance, but the human nervous system itself.",
+    "paid": false
+  },
+  {
+    "slug": "the-bitcoin-chronicles--arc-2g2---the-discipline-of-distributed-authority-2026-02-11",
+    "event_id": "5c54efe007d34831f689b1f1511b41c182001bd7a6b19b075456e3c0b8d015d1",
+    "created_at": 1770855227,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/5c54efe007d34831f689b1f1511b41c182001bd7a6b19b075456e3c0b8d015d1.json",
+    "title": "The Bitcoin Chronicles — Arc 2.G.2 - The Discipline of Distributed Authority",
+    "summary": "As entangled coordination spreads beyond Luna’s experimental corridors, sovereign worlds confront a deeper question: if authority no longer depends on delay, who carries responsibility? Elias Walker begins to understand that distributed systems demand more maturity, not less.",
+    "paid": false
+  },
+  {
+    "slug": "the-bitcoin-chronicles--arc-2f2---when-the-system-needed-saving-again-2026-02-11",
+    "event_id": "0b184478811a36a843558b7c5cefdb0fed2a5f2c039c0e95ee7b111bd6e3e487",
+    "created_at": 1770854802,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/0b184478811a36a843558b7c5cefdb0fed2a5f2c039c0e95ee7b111bd6e3e487.json",
+    "title": "The Bitcoin Chronicles — Arc 2.F.2 -  When the System Needed Saving Again",
+    "summary": "In the early Entangled Era, as experimental simultaneity networks begin collapsing communication delay between worlds, legacy coordination authorities attempt to preserve their relevance. Elias Walker witnesses another familiar pattern: when latency collapses, power structures built upon it require rescue.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "e3c56e41689c9a5fbc95064f1ab37b556e40687ed5198ff5cfbc544bcd4d891e",
+    "created_at": 1770853626,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/e3c56e41689c9a5fbc95064f1ab37b556e40687ed5198ff5cfbc544bcd4d891e.json",
+    "title": "🔆 Note 5 — We’re Still Early in the Story - 2/11/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "01d88adab9bf49414d82c6342ff6197304613a3f004a322fe8adb51d2748248a",
+    "created_at": 1770853555,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/01d88adab9bf49414d82c6342ff6197304613a3f004a322fe8adb51d2748248a.json",
+    "title": "🌊 Note 4 — Freedom Feels Good - 2/11/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "103ce524a4a26cde651a496339fc467d1fa0fa0b8714727633fe64245a566b89",
+    "created_at": 1770853498,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/103ce524a4a26cde651a496339fc467d1fa0fa0b8714727633fe64245a566b89.json",
+    "title": "🚀 Note 3 — Volatility Means You’re Early - 2/11/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "f34cbb53f5a0268138c727be1495d80ab0a72f94b5bfe7ff7ee9cf5e09d97b55",
+    "created_at": 1770853417,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/f34cbb53f5a0268138c727be1495d80ab0a72f94b5bfe7ff7ee9cf5e09d97b55.json",
+    "title": "🌱 Note 2 — Small Steps Compound - 2/11/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "e03f90625a8b1f6d4ba4effe66ca109cc526189b888b2b842aeade66cfcc6386",
+    "created_at": 1770853347,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/e03f90625a8b1f6d4ba4effe66ca109cc526189b888b2b842aeade66cfcc6386.json",
+    "title": "🌞 Note 1 — We Get to Build - 2/11/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
     "event_id": "9121765d7794511a67f01c6742866e7a1d23299da9c306808a324dbe7c1c24d4",
     "created_at": 1770793453,
@@ -9301,8 +9389,8 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 30023,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/7df51b4e24661f9fa334fb6253d5a1ece21dc5354b4e610047f92ac964f8176c.json",
-    "title": "",
-    "summary": "",
+    "title": "Sabbath Article (Dec. 6, 2025): The Bitcoin Chronicles - 1.B.10 - The Sovereign Canon",
+    "summary": "As Luna matured into a sovereign world, its guilds, Archivists, elders, and settlers began gathering the philosophies, laws, histories, and spiritual insights that defined their civilization. The result became known as the Sovereign Canon — a collection of teachings, oaths, principles, and stories that preserved the soul of the lunar diaspora and guided humanity’s expansion to the stars.",
     "paid": false
   },
   {

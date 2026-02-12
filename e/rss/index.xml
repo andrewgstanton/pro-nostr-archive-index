@@ -5,7 +5,87 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 11 Feb 2026 07:15:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 00:23:40 GMT</lastBuildDate>
+    <item>
+      <title>The Bitcoin Chronicles — Arc 2.H.2 - The Weight of Instant Truth</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=dbedb650d15f73637df5ade2ad733c94a754ca4a70b8b0969c78ceb06aff80cd</link>
+      <guid isPermaLink="false">dbedb650d15f73637df5ade2ad733c94a754ca4a70b8b0969c78ceb06aff80cd</guid>
+      <pubDate>Thu, 12 Feb 2026 00:16:38 GMT</pubDate>
+      <description><![CDATA[As entangled networks remove delay from interworld coordination, a subtler consequence emerges: psychological compression. Elias Walker begins to sense that living inside instant verification alters not only governance, but the human nervous system itself.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Bitcoin Chronicles — Arc 2.G.2 - The Discipline of Distributed Authority</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5c54efe007d34831f689b1f1511b41c182001bd7a6b19b075456e3c0b8d015d1</link>
+      <guid isPermaLink="false">5c54efe007d34831f689b1f1511b41c182001bd7a6b19b075456e3c0b8d015d1</guid>
+      <pubDate>Thu, 12 Feb 2026 00:13:47 GMT</pubDate>
+      <description><![CDATA[As entangled coordination spreads beyond Luna’s experimental corridors, sovereign worlds confront a deeper question: if authority no longer depends on delay, who carries responsibility? Elias Walker begins to understand that distributed systems demand more maturity, not less.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Bitcoin Chronicles — Arc 2.F.2 -  When the System Needed Saving Again</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=0b184478811a36a843558b7c5cefdb0fed2a5f2c039c0e95ee7b111bd6e3e487</link>
+      <guid isPermaLink="false">0b184478811a36a843558b7c5cefdb0fed2a5f2c039c0e95ee7b111bd6e3e487</guid>
+      <pubDate>Thu, 12 Feb 2026 00:06:42 GMT</pubDate>
+      <description><![CDATA[In the early Entangled Era, as experimental simultaneity networks begin collapsing communication delay between worlds, legacy coordination authorities attempt to preserve their relevance. Elias Walker witnesses another familiar pattern: when latency collapses, power structures built upon it require rescue.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔆 Note 5 — We’re Still Early in the Story - 2/11/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e3c56e41689c9a5fbc95064f1ab37b556e40687ed5198ff5cfbc544bcd4d891e</link>
+      <guid isPermaLink="false">e3c56e41689c9a5fbc95064f1ab37b556e40687ed5198ff5cfbc544bcd4d891e</guid>
+      <pubDate>Wed, 11 Feb 2026 23:47:06 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🌊 Note 4 — Freedom Feels Good - 2/11/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=01d88adab9bf49414d82c6342ff6197304613a3f004a322fe8adb51d2748248a</link>
+      <guid isPermaLink="false">01d88adab9bf49414d82c6342ff6197304613a3f004a322fe8adb51d2748248a</guid>
+      <pubDate>Wed, 11 Feb 2026 23:45:55 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🚀 Note 3 — Volatility Means You’re Early - 2/11/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=103ce524a4a26cde651a496339fc467d1fa0fa0b8714727633fe64245a566b89</link>
+      <guid isPermaLink="false">103ce524a4a26cde651a496339fc467d1fa0fa0b8714727633fe64245a566b89</guid>
+      <pubDate>Wed, 11 Feb 2026 23:44:58 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🌱 Note 2 — Small Steps Compound - 2/11/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f34cbb53f5a0268138c727be1495d80ab0a72f94b5bfe7ff7ee9cf5e09d97b55</link>
+      <guid isPermaLink="false">f34cbb53f5a0268138c727be1495d80ab0a72f94b5bfe7ff7ee9cf5e09d97b55</guid>
+      <pubDate>Wed, 11 Feb 2026 23:43:37 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🌞 Note 1 — We Get to Build - 2/11/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e03f90625a8b1f6d4ba4effe66ca109cc526189b888b2b842aeade66cfcc6386</link>
+      <guid isPermaLink="false">e03f90625a8b1f6d4ba4effe66ca109cc526189b888b2b842aeade66cfcc6386</guid>
+      <pubDate>Wed, 11 Feb 2026 23:42:27 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>The Sovereign Archive: The Canonical Bitcoin Chronicles Index</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=9121765d7794511a67f01c6742866e7a1d23299da9c306808a324dbe7c1c24d4</link>
@@ -4922,86 +5002,6 @@
       <guid isPermaLink="false">50d7bf504bd5c757f9806509ca8478f835887645bdb9733bd1140861f45f5b90</guid>
       <pubDate>Tue, 16 Dec 2025 20:43:24 GMT</pubDate>
       <description><![CDATA[When the first permanent settlements formed on the Moon, the settlers made a deliberate choice: they refused to write a constitution. What emerged instead was something older, more fragile, and ultimately more powerful — a charter rooted in shared values rather than enforceable law. This chapter explores why freedom failed wherever law arrived too early, and why covenant had to come before governance in humanity’s first sovereign off-world society.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Dec. 15, 2025): The Bitcoin Chronicles - 1.A.0.1.3 -  The Covenant of Cold Steel</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6a99913dffda57c79b2a4e63ce500c9fe16eaa6274eb18b471be6c3644dcccbb</link>
-      <guid isPermaLink="false">6a99913dffda57c79b2a4e63ce500c9fe16eaa6274eb18b471be6c3644dcccbb</guid>
-      <pubDate>Tue, 16 Dec 2025 00:32:19 GMT</pubDate>
-      <description><![CDATA[Pilgrim-1’s launch was not merely a technical act but a binding covenant. In a hidden briefing beneath the launch complex, the crew confronts the one question no regulator can answer: what are you willing to lose to remain sovereign?]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Dec. 15, 2025): The Bitcoin Chronicles - 1.A.0.1.2 - The Score That Measured Obedience</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=03a07903615df48e1db868ba016060a45c5f5fc93d0ec939e0df3c8f294919d0</link>
-      <guid isPermaLink="false">03a07903615df48e1db868ba016060a45c5f5fc93d0ec939e0df3c8f294919d0</guid>
-      <pubDate>Tue, 16 Dec 2025 00:30:00 GMT</pubDate>
-      <description><![CDATA[What begins as a neutral metric becomes a moral instrument. This chronicle traces the rise of the Social Reliability Score—and how quantification quietly replaced conscience.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1(Dec. 15, 2025): The Bitcoin Chronicles - 1.A.0.1.1 - Children of the Compliance Age</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9df6ad1eab74306baba39d49628e22951f221976cd80441f809694dbe12a12ba</link>
-      <guid isPermaLink="false">9df6ad1eab74306baba39d49628e22951f221976cd80441f809694dbe12a12ba</guid>
-      <pubDate>Tue, 16 Dec 2025 00:26:26 GMT</pubDate>
-      <description><![CDATA[The first generation raised entirely inside compliance does not experience it as oppression—but as atmosphere. This chronicle follows the quiet normalization of permission, showing how control becomes invisible when it is inherited rather than imposed.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Dec. 8, 2025): The Bitcoin Chronicles — 1.A.6 — The Weight of the Irreversible</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=91ffdfb4aeeec0c6405846f0f116a94e7494b77f06d4e3fb0f9a078503f19f79</link>
-      <guid isPermaLink="false">91ffdfb4aeeec0c6405846f0f116a94e7494b77f06d4e3fb0f9a078503f19f79</guid>
-      <pubDate>Mon, 15 Dec 2025 00:50:43 GMT</pubDate>
-      <description><![CDATA[Not all turning points are dramatic. Some are irreversible precisely because they are quiet. This chapter explores the moment humanity crossed from reform to replacement — when systems lost the ability to reclaim loyalty, and sovereignty became a matter of gravity rather than choice.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Dec. 8, 2025): The Bitcoin Chronicles — 1.A.5 — The First Unraveling</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5f60a6a988dd435bc7467cef979695a475b0bb68a6f2580c3505277b75a5aca2</link>
-      <guid isPermaLink="false">5f60a6a988dd435bc7467cef979695a475b0bb68a6f2580c3505277b75a5aca2</guid>
-      <pubDate>Mon, 15 Dec 2025 00:47:57 GMT</pubDate>
-      <description><![CDATA[After the Exodus, Earth did not collapse — it frayed. This chapter traces the early signs of institutional unraveling as legacy systems strained to contain a world that had already learned how to leave, revealing that decline begins not with chaos, but with quiet loss of coherence.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Dec. 8, 2025): The Bitcoin Chronicles — 1.A.4 — After the Exodus</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=02ab2ba5ea40c3e876a7c4dc75b24c1464cce06badec05a7546c83f0cacd227d</link>
-      <guid isPermaLink="false">02ab2ba5ea40c3e876a7c4dc75b24c1464cce06badec05a7546c83f0cacd227d</guid>
-      <pubDate>Mon, 15 Dec 2025 00:43:00 GMT</pubDate>
-      <description><![CDATA[The Exodus Protocol was not an escape plan — it was a threshold. This chapter explores what followed: the quiet, irreversible shift after humanity learned it could leave permission behind, and the unsettling realization that freedom, once proven, cannot be forgotten.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Bitcoin Chronicles — Archivist Specification</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ba65de24c73a23ef2f9de334f10904f93262fc9ae43de4c138651802a28a10e8</link>
-      <guid isPermaLink="false">ba65de24c73a23ef2f9de334f10904f93262fc9ae43de4c138651802a28a10e8</guid>
-      <pubDate>Sun, 14 Dec 2025 21:15:50 GMT</pubDate>
-      <description><![CDATA[This document defines the **canonical rules** governing numbering, ordering, and extensibility within *The Bitcoin Chronicles*. Its purpose is to preserve narrative integrity while allowing the canon to grow organically over time without renumbering, contradiction, or archival drift.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Bitcoin Chronicles - 1.A.0.0.3 - Archivist Note: On the Earthbound Records</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=585fd3cac8482939251b06675b3d4efc86cb568a76911da6ec38f255aa485792</link>
-      <guid isPermaLink="false">585fd3cac8482939251b06675b3d4efc86cb568a76911da6ec38f255aa485792</guid>
-      <pubDate>Sun, 14 Dec 2025 04:34:16 GMT</pubDate>
-      <description><![CDATA[A Luna Freeport archival annotation explaining why early Earthbound Chronicles contain precise dates and historical anchoring, while later sovereign eras abandon centralized calendaring altogether.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

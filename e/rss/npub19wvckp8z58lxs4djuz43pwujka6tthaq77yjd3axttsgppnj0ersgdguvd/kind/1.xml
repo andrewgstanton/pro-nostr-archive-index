@@ -5,7 +5,57 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 11 Feb 2026 07:15:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 00:23:40 GMT</lastBuildDate>
+    <item>
+      <title>🔆 Note 5 — We’re Still Early in the Story - 2/11/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e3c56e41689c9a5fbc95064f1ab37b556e40687ed5198ff5cfbc544bcd4d891e</link>
+      <guid isPermaLink="false">e3c56e41689c9a5fbc95064f1ab37b556e40687ed5198ff5cfbc544bcd4d891e</guid>
+      <pubDate>Wed, 11 Feb 2026 23:47:06 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🌊 Note 4 — Freedom Feels Good - 2/11/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=01d88adab9bf49414d82c6342ff6197304613a3f004a322fe8adb51d2748248a</link>
+      <guid isPermaLink="false">01d88adab9bf49414d82c6342ff6197304613a3f004a322fe8adb51d2748248a</guid>
+      <pubDate>Wed, 11 Feb 2026 23:45:55 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🚀 Note 3 — Volatility Means You’re Early - 2/11/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=103ce524a4a26cde651a496339fc467d1fa0fa0b8714727633fe64245a566b89</link>
+      <guid isPermaLink="false">103ce524a4a26cde651a496339fc467d1fa0fa0b8714727633fe64245a566b89</guid>
+      <pubDate>Wed, 11 Feb 2026 23:44:58 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🌱 Note 2 — Small Steps Compound - 2/11/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f34cbb53f5a0268138c727be1495d80ab0a72f94b5bfe7ff7ee9cf5e09d97b55</link>
+      <guid isPermaLink="false">f34cbb53f5a0268138c727be1495d80ab0a72f94b5bfe7ff7ee9cf5e09d97b55</guid>
+      <pubDate>Wed, 11 Feb 2026 23:43:37 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🌞 Note 1 — We Get to Build - 2/11/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e03f90625a8b1f6d4ba4effe66ca109cc526189b888b2b842aeade66cfcc6386</link>
+      <guid isPermaLink="false">e03f90625a8b1f6d4ba4effe66ca109cc526189b888b2b842aeade66cfcc6386</guid>
+      <pubDate>Wed, 11 Feb 2026 23:42:27 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Note 5 — Do Not Despise Small Beginnings - 2/10/2026</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=17f8df04239e337a9f349a292eb75ef6fc440a3f25f55988c6379af7854fa0db</link>
