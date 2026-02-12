@@ -1,6 +1,83 @@
 [
   {
     "slug": "the-bitcoin-chronicles--arc-2h2---the-weight-of-instant-truth-2026-02-11",
+    "event_id": "eed0117e10969ef52aa4872810495be66817554d5a020b1703d9a5b6d3064204",
+    "created_at": 1770857159,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/eed0117e10969ef52aa4872810495be66817554d5a020b1703d9a5b6d3064204.json",
+    "title": "🔒 The Bitcoin Chronicles — Arc 2.H.2 - The Weight of Instant Truth",
+    "summary": "As entangled networks remove delay from interworld coordination, a subtler consequence emerges: psychological compression. Elias Walker begins to sense that living inside instant verification alters not only governance, but the human nervous system itself.",
+    "paid": false
+  },
+  {
+    "slug": "the-bitcoin-chronicles--arc-2g2---the-discipline-of-distributed-authority-2026-02-11",
+    "event_id": "122afb31229d4a974cce0932c3a9a8c142ad9556b9fc4b4e8ae9481bfade4158",
+    "created_at": 1770857120,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/122afb31229d4a974cce0932c3a9a8c142ad9556b9fc4b4e8ae9481bfade4158.json",
+    "title": "🔒 The Bitcoin Chronicles — Arc 2.G.2 - The Discipline of Distributed Authority",
+    "summary": "As entangled coordination spreads beyond Luna’s experimental corridors, sovereign worlds confront a deeper question: if authority no longer depends on delay, who carries responsibility? Elias Walker begins to understand that distributed systems demand more maturity, not less.",
+    "paid": false
+  },
+  {
+    "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
+    "event_id": "43664dd2beb28415ac7ecb7365fc726ec3ed1aabcea898714f89dbaf7f1b1478",
+    "created_at": 1770856482,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/43664dd2beb28415ac7ecb7365fc726ec3ed1aabcea898714f89dbaf7f1b1478.json",
+    "title": "The Sovereign Archive: The Canonical Bitcoin Chronicles Index",
+    "summary": "This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.",
+    "paid": false
+  },
+  {
+    "slug": "the-bitcoin-chronicles---arc-2g1---sovereign-nodes-2026-02-10",
+    "event_id": "5598db45f2708f3f1ee32ffb9943b40544aad7afdd14ead215492cb9c26cab2f",
+    "created_at": 1770856208,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/5598db45f2708f3f1ee32ffb9943b40544aad7afdd14ead215492cb9c26cab2f.json",
+    "title": "🔒 The Bitcoin Chronicles - Arc 2.G.1 - Sovereign Nodes",
+    "summary": "After the first entanglement bridges were physically seeded across the solar system, instant settlement became possible between connected worlds. But participation did not have to remain centralized. This installment explores the rise of sovereign entanglement nodes — portable, independently operated bridge anchors that allow colonies and frontier settlements to coordinate and settle value without planetary permission.",
+    "paid": false
+  },
+  {
+    "slug": "the-bitcoin-chronicles---arc-2h1---the-cost-of-instant-truth-2026-02-10",
+    "event_id": "e2e75fe4e2e824c5b9cb73c5bb7614390d1c3b91d08c026e7d5d898f00f49ef3",
+    "created_at": 1770856168,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/e2e75fe4e2e824c5b9cb73c5bb7614390d1c3b91d08c026e7d5d898f00f49ef3.json",
+    "title": "🔒 The Bitcoin Chronicles - Arc 2.H.1 - The Cost of Instant Truth",
+    "summary": "Once entanglement bridges were physically seeded across worlds, settlement and verification became effectively instantaneous between connected systems. Bitcoin provided neutral finality. Sovereign nodes distributed participation. But simultaneity carried a cost. This installment explores the psychological, ethical, and political strain of living in a civilization where truth and settlement arrive faster than institutions — or humans — can metabolize.",
+    "paid": false
+  },
+  {
+    "slug": "the-bitcoin-chronicles--arc-2f2---when-the-system-needed-saving-again-2026-02-11",
+    "event_id": "9e332166325ae5b9a3a60a4f86ad1e4296e0ad53d37a0be66b7d2e4cd9cf2abe",
+    "created_at": 1770856128,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/9e332166325ae5b9a3a60a4f86ad1e4296e0ad53d37a0be66b7d2e4cd9cf2abe.json",
+    "title": "🔒 The Bitcoin Chronicles — Arc 2.F.2 -  When the System Needed Saving Again",
+    "summary": "In the early Entangled Era, as experimental simultaneity networks begin collapsing communication delay between worlds, legacy coordination authorities attempt to preserve their relevance. Elias Walker witnesses another familiar pattern: when latency collapses, power structures built upon it require rescue.",
+    "paid": false
+  },
+  {
+    "slug": "the-bitcoin-chroncles---arc-2f1---the-custodians-of-delay-2026-02-10",
+    "event_id": "18d0fc1559eab80f170e13f03f868851264495ae8bb3e278422d38d526277f30",
+    "created_at": 1770856019,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/18d0fc1559eab80f170e13f03f868851264495ae8bb3e278422d38d526277f30.json",
+    "title": "🔒 The Bitcoin Chroncles - Arc 2.F.1 - The Custodians of Delay",
+    "summary": "Entanglement did not eliminate distance — it eliminated delay once infrastructure was seeded. After sub-light pioneers carried the first entangled bridges outward, simultaneity became operational between worlds. But institutions built on latency began to resist. This installment explores how delay once structured power, why instant settlement destabilizes hierarchy, and how the struggle over finality reshapes interplanetary sovereignty.",
+    "paid": false
+  },
+  {
+    "slug": "the-bitcoin-chronicles--arc-2h2---the-weight-of-instant-truth-2026-02-11",
     "event_id": "dbedb650d15f73637df5ade2ad733c94a754ca4a70b8b0969c78ceb06aff80cd",
     "created_at": 1770855398,
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
