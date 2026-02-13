@@ -1384,7 +1384,7 @@
     "latest_year": 2025
   },
   "the-sovereign-archive-the-canonical-bitcoin-chronicles-index": {
-    "latest_event_id": "43664dd2beb28415ac7ecb7365fc726ec3ed1aabcea898714f89dbaf7f1b1478",
+    "latest_event_id": "107b3983847e366d8b55871aacaa1eabcd23b2681f46a0bb75900069a713f3b8",
     "latest_year": 2026
   },
   "patron-support-continuum": {
@@ -2661,6 +2661,18 @@
   },
   "the-bitcoin-chronicles--arc-2h2---the-weight-of-instant-truth-2026-02-11": {
     "latest_event_id": "eed0117e10969ef52aa4872810495be66817554d5a020b1703d9a5b6d3064204",
+    "latest_year": 2026
+  },
+  "the-bitcoin-chronicles---arc-2g3---distributed-sovereignty-2026-02-12": {
+    "latest_event_id": "7629166bcda609c8ad182beb805b7e4c904ed18f1b7b05df5d14e4eeaf06e6c2",
+    "latest_year": 2026
+  },
+  "the-bitcoin-chronicles---arc-2h3---toward-the-discipline-of-instant-light-2026-02-12": {
+    "latest_event_id": "c5736139d032c53d0a53300f57add4795e214c9e1050c063f1c958da1552a0d4",
+    "latest_year": 2026
+  },
+  "the-bitcoin-chronicles---arc-2f3---the-surrender-of-delay-2026-02-12": {
+    "latest_event_id": "e52d6bf30564408f0725292bfa86a049211e213bb0401eecb21b5f53b80d3d13",
     "latest_year": 2026
   }
 }
