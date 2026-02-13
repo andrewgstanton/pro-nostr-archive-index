@@ -1,6 +1,17 @@
 [
   {
     "slug": null,
+    "event_id": "ea245507d72580c4e671461528df483663ca5d7e1ed4374ad74b6d69b5852e1b",
+    "created_at": 1771016948,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/ea245507d72580c4e671461528df483663ca5d7e1ed4374ad74b6d69b5852e1b.json",
+    "title": "Continuum is not a social client.",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
     "event_id": "ac4c0870cd22d288902a3476a77eabf486d0985000ac5fad6b2f33b402c0e80f",
     "created_at": 1771013516,
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",

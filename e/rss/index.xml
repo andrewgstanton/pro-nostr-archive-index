@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 13 Feb 2026 20:43:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 21:15:23 GMT</lastBuildDate>
+    <item>
+      <title>Continuum is not a social client.</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ea245507d72580c4e671461528df483663ca5d7e1ed4374ad74b6d69b5852e1b</link>
+      <guid isPermaLink="false">ea245507d72580c4e671461528df483663ca5d7e1ed4374ad74b6d69b5852e1b</guid>
+      <pubDate>Fri, 13 Feb 2026 21:09:08 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Note 5 — Restoration, Not Rebellion - 2/13/2026</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=ac4c0870cd22d288902a3476a77eabf486d0985000ac5fad6b2f33b402c0e80f</link>
@@ -4993,16 +5003,6 @@
       <pubDate>Fri, 19 Dec 2025 23:49:19 GMT</pubDate>
       <description><![CDATA[As exit technologies gained moral legitimacy and institutional trust eroded, Miriam Hale articulated a minority ethical position: that remaining within failing systems could itself be a form of responsibility. Anchored in post-crisis hollowing, pandemic-era attrition, and the rise of parallel infrastructures, this essay examines the moral cost of departure.]]></description>
       <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 9b8001d530</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9b8001d5307e36b03011fd233bb2140beaffe7bdb4697f2377a59346e57888b9</link>
-      <guid isPermaLink="false">9b8001d5307e36b03011fd233bb2140beaffe7bdb4697f2377a59346e57888b9</guid>
-      <pubDate>Fri, 19 Dec 2025 04:40:25 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>

@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 13 Feb 2026 20:43:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 21:15:23 GMT</lastBuildDate>
+    <item>
+      <title>Continuum is not a social client.</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ea245507d72580c4e671461528df483663ca5d7e1ed4374ad74b6d69b5852e1b</link>
+      <guid isPermaLink="false">ea245507d72580c4e671461528df483663ca5d7e1ed4374ad74b6d69b5852e1b</guid>
+      <pubDate>Fri, 13 Feb 2026 21:09:08 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Note 5 — Restoration, Not Rebellion - 2/13/2026</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=ac4c0870cd22d288902a3476a77eabf486d0985000ac5fad6b2f33b402c0e80f</link>
@@ -4991,16 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=1e48b1023d2fc36695d3a5f8a8d60457d37b2a79db9750345fe646a392b51a6e</link>
       <guid isPermaLink="false">1e48b1023d2fc36695d3a5f8a8d60457d37b2a79db9750345fe646a392b51a6e</guid>
       <pubDate>Wed, 14 May 2025 22:20:22 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 2d7530768a</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2d7530768a9ac38b6a579b7246d45160923bc81eaaf91e38972390050fa447ef</link>
-      <guid isPermaLink="false">2d7530768a9ac38b6a579b7246d45160923bc81eaaf91e38972390050fa447ef</guid>
-      <pubDate>Wed, 14 May 2025 03:46:41 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
