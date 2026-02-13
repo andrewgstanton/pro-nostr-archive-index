@@ -5,7 +5,67 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 12 Feb 2026 00:59:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 01:11:44 GMT</lastBuildDate>
+    <item>
+      <title>Note 5 - 2/12/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7c6d5e6e9acbb52abef66d838cf510ecf655a329a7687cd977da9d1ab2f44270</link>
+      <guid isPermaLink="false">7c6d5e6e9acbb52abef66d838cf510ecf655a329a7687cd977da9d1ab2f44270</guid>
+      <pubDate>Fri, 13 Feb 2026 01:02:38 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 4 - 2/12/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=add26d6291bc6da643f5a57318e4dc85a9f81fdb98d339c98667e6e1c29d4635</link>
+      <guid isPermaLink="false">add26d6291bc6da643f5a57318e4dc85a9f81fdb98d339c98667e6e1c29d4635</guid>
+      <pubDate>Fri, 13 Feb 2026 01:01:01 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 3 - 2/12/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=953628b0b6e5adccbc8210623090b5f83ce94f445f3039013ade9bc224626093</link>
+      <guid isPermaLink="false">953628b0b6e5adccbc8210623090b5f83ce94f445f3039013ade9bc224626093</guid>
+      <pubDate>Fri, 13 Feb 2026 00:59:46 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 2 - 2/12/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=fef302d7c7dc4c36cc29102479af3609e8781a6a8db308cc56c937d552071b19</link>
+      <guid isPermaLink="false">fef302d7c7dc4c36cc29102479af3609e8781a6a8db308cc56c937d552071b19</guid>
+      <pubDate>Fri, 13 Feb 2026 00:58:27 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 1 - 2/12/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=96621a3b312bd4d44374d9fbd61f3bedd5cee65629906efd544e8d9b23fbc7b0</link>
+      <guid isPermaLink="false">96621a3b312bd4d44374d9fbd61f3bedd5cee65629906efd544e8d9b23fbc7b0</guid>
+      <pubDate>Fri, 13 Feb 2026 00:56:32 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Founder Advisory Sprints</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=83d899fa4f52eb8ab2dcd718054dfe60fe903ff3d3b97a544fc3e3f59d6e3bc0</link>
+      <guid isPermaLink="false">83d899fa4f52eb8ab2dcd718054dfe60fe903ff3d3b97a544fc3e3f59d6e3bc0</guid>
+      <pubDate>Thu, 12 Feb 2026 20:30:46 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 The Bitcoin Chronicles — Arc 2.H.2 - The Weight of Instant Truth</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=eed0117e10969ef52aa4872810495be66817554d5a020b1703d9a5b6d3064204</link>
@@ -4942,66 +5002,6 @@
       <guid isPermaLink="false">9df6ad1eab74306baba39d49628e22951f221976cd80441f809694dbe12a12ba</guid>
       <pubDate>Tue, 16 Dec 2025 00:26:26 GMT</pubDate>
       <description><![CDATA[The first generation raised entirely inside compliance does not experience it as oppression—but as atmosphere. This chronicle follows the quiet normalization of permission, showing how control becomes invisible when it is inherited rather than imposed.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Dec. 8, 2025): The Bitcoin Chronicles — 1.A.6 — The Weight of the Irreversible</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=91ffdfb4aeeec0c6405846f0f116a94e7494b77f06d4e3fb0f9a078503f19f79</link>
-      <guid isPermaLink="false">91ffdfb4aeeec0c6405846f0f116a94e7494b77f06d4e3fb0f9a078503f19f79</guid>
-      <pubDate>Mon, 15 Dec 2025 00:50:43 GMT</pubDate>
-      <description><![CDATA[Not all turning points are dramatic. Some are irreversible precisely because they are quiet. This chapter explores the moment humanity crossed from reform to replacement — when systems lost the ability to reclaim loyalty, and sovereignty became a matter of gravity rather than choice.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Dec. 8, 2025): The Bitcoin Chronicles — 1.A.5 — The First Unraveling</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5f60a6a988dd435bc7467cef979695a475b0bb68a6f2580c3505277b75a5aca2</link>
-      <guid isPermaLink="false">5f60a6a988dd435bc7467cef979695a475b0bb68a6f2580c3505277b75a5aca2</guid>
-      <pubDate>Mon, 15 Dec 2025 00:47:57 GMT</pubDate>
-      <description><![CDATA[After the Exodus, Earth did not collapse — it frayed. This chapter traces the early signs of institutional unraveling as legacy systems strained to contain a world that had already learned how to leave, revealing that decline begins not with chaos, but with quiet loss of coherence.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Dec. 8, 2025): The Bitcoin Chronicles — 1.A.4 — After the Exodus</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=02ab2ba5ea40c3e876a7c4dc75b24c1464cce06badec05a7546c83f0cacd227d</link>
-      <guid isPermaLink="false">02ab2ba5ea40c3e876a7c4dc75b24c1464cce06badec05a7546c83f0cacd227d</guid>
-      <pubDate>Mon, 15 Dec 2025 00:43:00 GMT</pubDate>
-      <description><![CDATA[The Exodus Protocol was not an escape plan — it was a threshold. This chapter explores what followed: the quiet, irreversible shift after humanity learned it could leave permission behind, and the unsettling realization that freedom, once proven, cannot be forgotten.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Bitcoin Chronicles — Archivist Specification</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ba65de24c73a23ef2f9de334f10904f93262fc9ae43de4c138651802a28a10e8</link>
-      <guid isPermaLink="false">ba65de24c73a23ef2f9de334f10904f93262fc9ae43de4c138651802a28a10e8</guid>
-      <pubDate>Sun, 14 Dec 2025 21:15:50 GMT</pubDate>
-      <description><![CDATA[This document defines the **canonical rules** governing numbering, ordering, and extensibility within *The Bitcoin Chronicles*. Its purpose is to preserve narrative integrity while allowing the canon to grow organically over time without renumbering, contradiction, or archival drift.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Bitcoin Chronicles - 1.A.0.0.3 - Archivist Note: On the Earthbound Records</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=585fd3cac8482939251b06675b3d4efc86cb568a76911da6ec38f255aa485792</link>
-      <guid isPermaLink="false">585fd3cac8482939251b06675b3d4efc86cb568a76911da6ec38f255aa485792</guid>
-      <pubDate>Sun, 14 Dec 2025 04:34:16 GMT</pubDate>
-      <description><![CDATA[A Luna Freeport archival annotation explaining why early Earthbound Chronicles contain precise dates and historical anchoring, while later sovereign eras abandon centralized calendaring altogether.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sunday Article (Dec. 14, 2025): The Bitcoin Chronicles 1.A.0.0.4.6 — Sunday Cycle: The Morning After the Long Night</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d9208deeb3d3e66221e0f6859c02694284ca9c475a04268707b41f6fdcf351b5</link>
-      <guid isPermaLink="false">d9208deeb3d3e66221e0f6859c02694284ca9c475a04268707b41f6fdcf351b5</guid>
-      <pubDate>Sun, 14 Dec 2025 04:03:41 GMT</pubDate>
-      <description><![CDATA[In the final Earthbound decades before Pilgrim-1, renewal did not arrive through reform or rescue, but through quiet reorientation. This Sunday Chronicle explores how civilizations rediscover life after systems exhaust themselves—and why renewal always begins with truth before triumph.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

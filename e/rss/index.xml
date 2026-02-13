@@ -5,7 +5,67 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 12 Feb 2026 00:59:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 01:11:44 GMT</lastBuildDate>
+    <item>
+      <title>Note 5 - 2/12/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7c6d5e6e9acbb52abef66d838cf510ecf655a329a7687cd977da9d1ab2f44270</link>
+      <guid isPermaLink="false">7c6d5e6e9acbb52abef66d838cf510ecf655a329a7687cd977da9d1ab2f44270</guid>
+      <pubDate>Fri, 13 Feb 2026 01:02:38 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 4 - 2/12/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=add26d6291bc6da643f5a57318e4dc85a9f81fdb98d339c98667e6e1c29d4635</link>
+      <guid isPermaLink="false">add26d6291bc6da643f5a57318e4dc85a9f81fdb98d339c98667e6e1c29d4635</guid>
+      <pubDate>Fri, 13 Feb 2026 01:01:01 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 3 - 2/12/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=953628b0b6e5adccbc8210623090b5f83ce94f445f3039013ade9bc224626093</link>
+      <guid isPermaLink="false">953628b0b6e5adccbc8210623090b5f83ce94f445f3039013ade9bc224626093</guid>
+      <pubDate>Fri, 13 Feb 2026 00:59:46 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 2 - 2/12/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=fef302d7c7dc4c36cc29102479af3609e8781a6a8db308cc56c937d552071b19</link>
+      <guid isPermaLink="false">fef302d7c7dc4c36cc29102479af3609e8781a6a8db308cc56c937d552071b19</guid>
+      <pubDate>Fri, 13 Feb 2026 00:58:27 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 1 - 2/12/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=96621a3b312bd4d44374d9fbd61f3bedd5cee65629906efd544e8d9b23fbc7b0</link>
+      <guid isPermaLink="false">96621a3b312bd4d44374d9fbd61f3bedd5cee65629906efd544e8d9b23fbc7b0</guid>
+      <pubDate>Fri, 13 Feb 2026 00:56:32 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Founder Advisory Sprints</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=83d899fa4f52eb8ab2dcd718054dfe60fe903ff3d3b97a544fc3e3f59d6e3bc0</link>
+      <guid isPermaLink="false">83d899fa4f52eb8ab2dcd718054dfe60fe903ff3d3b97a544fc3e3f59d6e3bc0</guid>
+      <pubDate>Thu, 12 Feb 2026 20:30:46 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 The Bitcoin Chronicles — Arc 2.H.2 - The Weight of Instant Truth</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=eed0117e10969ef52aa4872810495be66817554d5a020b1703d9a5b6d3064204</link>
@@ -4942,66 +5002,6 @@
       <guid isPermaLink="false">51cc75ca040cb1253353a103c81465b56024b4e1b6c6064e733be2cdf532befa</guid>
       <pubDate>Wed, 17 Dec 2025 21:28:31 GMT</pubDate>
       <description><![CDATA[Between the last free launch from Earth and the first open defiance of the Atlas Uprising lies a narrow, forgotten span of years. This article explores that interstice through the life of Elias Kade—the man who preserved the proof that freedom once existed, and therefore could exist again.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Dec. 17, 2025): The Bitcoin Chronicles - 1.A.1.2 - Quiet Men Do Not Lead Uprisings</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e4e9c3901eddb32650e7502cb8d7017bb0e38b645483dcaede2bcefbe4fd953e</link>
-      <guid isPermaLink="false">e4e9c3901eddb32650e7502cb8d7017bb0e38b645483dcaede2bcefbe4fd953e</guid>
-      <pubDate>Wed, 17 Dec 2025 21:24:50 GMT</pubDate>
-      <description><![CDATA[Revolutions are remembered by their loudest voices, but they are carried forward by those who refuse to forget. Elias Kade was not an activist, a politician, or a rebel. He was something far more dangerous to centralized power: a witness.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Dec. 17, 2025): The Bitcoin Chronicles -1.A.1.1 -  The Man Who Signed the Last Launch Manifest</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=abf5aeb26d7b7295db19d770a6d6db171f3ea2ff13f406c9dc1937465f4382d5</link>
-      <guid isPermaLink="false">abf5aeb26d7b7295db19d770a6d6db171f3ea2ff13f406c9dc1937465f4382d5</guid>
-      <pubDate>Wed, 17 Dec 2025 21:21:14 GMT</pubDate>
-      <description><![CDATA[In the final days before Earth’s outbound launches fell under permanent licensing control, a systems engineer named Elias Kade was tasked with a routine compliance sign-off. What he witnessed instead was the quiet closing of a door humanity would never reopen. This is the story of the last launch that left Earth without permission.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sovereign Income Architectures: Decentralizing Your Livelihood</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6960a7c2080011681b7aa8ce2dc6bd9e86d9053ee3ff644f51582f3aef75e327</link>
-      <guid isPermaLink="false">6960a7c2080011681b7aa8ce2dc6bd9e86d9053ee3ff644f51582f3aef75e327</guid>
-      <pubDate>Wed, 17 Dec 2025 00:38:57 GMT</pubDate>
-      <description><![CDATA[This article argues that relying on a single paycheck or employer is as fragile as trusting a centralized custodian. Drawing lessons from Bitcoin’s decentralized resilience, it introduces the concept of “sovereign income architectures” — intentionally designed, diversified income streams anchored in Bitcoin and self-sovereignty.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Dec. 16, 2025): The Bitcoin Chronicles - 1.B.14 - The Covenant Councils: Why Free Societies Still Need Structure</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0bc2b5ab93693b3c2fce60ab285a3849072886191325673439bd18589e66bc1f</link>
-      <guid isPermaLink="false">0bc2b5ab93693b3c2fce60ab285a3849072886191325673439bd18589e66bc1f</guid>
-      <pubDate>Tue, 16 Dec 2025 21:17:19 GMT</pubDate>
-      <description><![CDATA[Pure decentralization carried Luna only so far. When human consensus fractured and exit hollowed shared spaces, the settlers faced a paradox they had hoped to avoid: freedom without coordination decays into fragmentation. This chapter explores the birth of the Covenant Councils — not as governments, but as voluntary coordination layers — and why even sovereign societies must eventually choose structure without surrendering liberty.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Dec.16, 2025): The Bitcoin Chronicles - 1.B.13 - When Consensus Broke Before the Machines Did</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3b6a7d029474462aeb294ec9145a3c67baf1deb00bdf4778e1570f128a4e10bc</link>
-      <guid isPermaLink="false">3b6a7d029474462aeb294ec9145a3c67baf1deb00bdf4778e1570f128a4e10bc</guid>
-      <pubDate>Tue, 16 Dec 2025 20:46:06 GMT</pubDate>
-      <description><![CDATA[Lunar infrastructure did not fail. Life support held. Energy grids stabilized. Archives remained intact. What fractured first was human consensus. This chapter examines how decentralized systems solved technical coordination faster than they could solve moral and social coordination — revealing that the true scarcity of sovereign societies was not energy, bandwidth, or computation, but shared meaning.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Dec. 16, 2025): The Bitcoin Chronicles - 1.B.12 - The First Charter Was Not a Constitution</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=50d7bf504bd5c757f9806509ca8478f835887645bdb9733bd1140861f45f5b90</link>
-      <guid isPermaLink="false">50d7bf504bd5c757f9806509ca8478f835887645bdb9733bd1140861f45f5b90</guid>
-      <pubDate>Tue, 16 Dec 2025 20:43:24 GMT</pubDate>
-      <description><![CDATA[When the first permanent settlements formed on the Moon, the settlers made a deliberate choice: they refused to write a constitution. What emerged instead was something older, more fragile, and ultimately more powerful — a charter rooted in shared values rather than enforceable law. This chapter explores why freedom failed wherever law arrived too early, and why covenant had to come before governance in humanity’s first sovereign off-world society.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
