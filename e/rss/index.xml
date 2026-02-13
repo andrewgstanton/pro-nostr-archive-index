@@ -5,7 +5,47 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 13 Feb 2026 01:11:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 01:40:19 GMT</lastBuildDate>
+    <item>
+      <title>The Sovereign Archive: The Canonical Bitcoin Chronicles Index</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=107b3983847e366d8b55871aacaa1eabcd23b2681f46a0bb75900069a713f3b8</link>
+      <guid isPermaLink="false">107b3983847e366d8b55871aacaa1eabcd23b2681f46a0bb75900069a713f3b8</guid>
+      <pubDate>Fri, 13 Feb 2026 01:34:20 GMT</pubDate>
+      <description><![CDATA[This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 The Bitcoin Chronicles - Arc 2.F.3 - The Surrender of Delay</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e52d6bf30564408f0725292bfa86a049211e213bb0401eecb21b5f53b80d3d13</link>
+      <guid isPermaLink="false">e52d6bf30564408f0725292bfa86a049211e213bb0401eecb21b5f53b80d3d13</guid>
+      <pubDate>Fri, 13 Feb 2026 01:31:13 GMT</pubDate>
+      <description><![CDATA[As the Entanglement Bridge matures, institutions built on delay confront their final choice: cling to procedural time or surrender to instant settlement. This chapter follows the moment when delay ceases to be defensible and becomes optional — and what happens when power built on friction must either transform or dissolve.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 The Bitcoin Chronicles - Arc 2.H.3 - Toward the Discipline of Instant Light</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c5736139d032c53d0a53300f57add4795e214c9e1050c063f1c958da1552a0d4</link>
+      <guid isPermaLink="false">c5736139d032c53d0a53300f57add4795e214c9e1050c063f1c958da1552a0d4</guid>
+      <pubDate>Fri, 13 Feb 2026 01:30:32 GMT</pubDate>
+      <description><![CDATA[As humanity confronts the psychological strain of living in a world of instant finality, Elias reflects on what must develop alongside entanglement: discipline. This chapter looks forward — proposing that the future of simultaneity depends not on restraint of technology, but on maturation of character.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 The Bitcoin Chronicles - Arc 2.G.3 - The Shape of Sovereign Order</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7629166bcda609c8ad182beb805b7e4c904ed18f1b7b05df5d14e4eeaf06e6c2</link>
+      <guid isPermaLink="false">7629166bcda609c8ad182beb805b7e4c904ed18f1b7b05df5d14e4eeaf06e6c2</guid>
+      <pubDate>Fri, 13 Feb 2026 01:29:46 GMT</pubDate>
+      <description><![CDATA[With settlement no longer bound to a center, communities experiment with distributed sovereignty. This chapter explores how order emerges without a clearing authority and how entangled coordination reshapes legitimacy — preparing humanity for the psychological strain of living in a world without delay.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Note 5 - 2/12/2026</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=7c6d5e6e9acbb52abef66d838cf510ecf655a329a7687cd977da9d1ab2f44270</link>
@@ -82,16 +122,6 @@
       <guid isPermaLink="false">122afb31229d4a974cce0932c3a9a8c142ad9556b9fc4b4e8ae9481bfade4158</guid>
       <pubDate>Thu, 12 Feb 2026 00:45:20 GMT</pubDate>
       <description><![CDATA[As entangled coordination spreads beyond Luna’s experimental corridors, sovereign worlds confront a deeper question: if authority no longer depends on delay, who carries responsibility? Elias Walker begins to understand that distributed systems demand more maturity, not less.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Sovereign Archive: The Canonical Bitcoin Chronicles Index</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=43664dd2beb28415ac7ecb7365fc726ec3ed1aabcea898714f89dbaf7f1b1478</link>
-      <guid isPermaLink="false">43664dd2beb28415ac7ecb7365fc726ec3ed1aabcea898714f89dbaf7f1b1478</guid>
-      <pubDate>Thu, 12 Feb 2026 00:34:42 GMT</pubDate>
-      <description><![CDATA[This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
@@ -4973,36 +5003,6 @@
       <pubDate>Thu, 18 Dec 2025 16:33:47 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 8e2e0b34df</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=8e2e0b34df9bf00be33b376213fb8f4831b727a48b51f970859cdf03a00b6805</link>
-      <guid isPermaLink="false">8e2e0b34df9bf00be33b376213fb8f4831b727a48b51f970859cdf03a00b6805</guid>
-      <pubDate>Thu, 18 Dec 2025 06:06:49 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>What I Mean by Sovereign Technology</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b0b3a2afc9c4dd0943963ba33d8dfe61d169843a95c48ff911112b5471daf0c0</link>
-      <guid isPermaLink="false">b0b3a2afc9c4dd0943963ba33d8dfe61d169843a95c48ff911112b5471daf0c0</guid>
-      <pubDate>Wed, 17 Dec 2025 22:15:33 GMT</pubDate>
-      <description><![CDATA[Sovereign technology isn’t about military doctrine, corporate IT, SaaS migrations, or certifications into proprietary ecosystems. It’s about digital freedom — open protocols like Bitcoin and Nostr that give people direct ownership of their identity, communication, and value. In a world increasingly tracked, surveilled, and monetized, sovereign tech restores resilience and trust, not as a branding exercise but as a foundation for living freely.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Dec. 17, 2025): The Bitcoin Chronicles - 1.A.1.3 - The Archivist of the Interstice</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=51cc75ca040cb1253353a103c81465b56024b4e1b6c6064e733be2cdf532befa</link>
-      <guid isPermaLink="false">51cc75ca040cb1253353a103c81465b56024b4e1b6c6064e733be2cdf532befa</guid>
-      <pubDate>Wed, 17 Dec 2025 21:28:31 GMT</pubDate>
-      <description><![CDATA[Between the last free launch from Earth and the first open defiance of the Atlas Uprising lies a narrow, forgotten span of years. This article explores that interstice through the life of Elias Kade—the man who preserved the proof that freedom once existed, and therefore could exist again.]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>

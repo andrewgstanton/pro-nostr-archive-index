@@ -5,7 +5,47 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 13 Feb 2026 01:11:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 01:40:19 GMT</lastBuildDate>
+    <item>
+      <title>The Sovereign Archive: The Canonical Bitcoin Chronicles Index</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=107b3983847e366d8b55871aacaa1eabcd23b2681f46a0bb75900069a713f3b8</link>
+      <guid isPermaLink="false">107b3983847e366d8b55871aacaa1eabcd23b2681f46a0bb75900069a713f3b8</guid>
+      <pubDate>Fri, 13 Feb 2026 01:34:20 GMT</pubDate>
+      <description><![CDATA[This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 The Bitcoin Chronicles - Arc 2.F.3 - The Surrender of Delay</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e52d6bf30564408f0725292bfa86a049211e213bb0401eecb21b5f53b80d3d13</link>
+      <guid isPermaLink="false">e52d6bf30564408f0725292bfa86a049211e213bb0401eecb21b5f53b80d3d13</guid>
+      <pubDate>Fri, 13 Feb 2026 01:31:13 GMT</pubDate>
+      <description><![CDATA[As the Entanglement Bridge matures, institutions built on delay confront their final choice: cling to procedural time or surrender to instant settlement. This chapter follows the moment when delay ceases to be defensible and becomes optional — and what happens when power built on friction must either transform or dissolve.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 The Bitcoin Chronicles - Arc 2.H.3 - Toward the Discipline of Instant Light</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c5736139d032c53d0a53300f57add4795e214c9e1050c063f1c958da1552a0d4</link>
+      <guid isPermaLink="false">c5736139d032c53d0a53300f57add4795e214c9e1050c063f1c958da1552a0d4</guid>
+      <pubDate>Fri, 13 Feb 2026 01:30:32 GMT</pubDate>
+      <description><![CDATA[As humanity confronts the psychological strain of living in a world of instant finality, Elias reflects on what must develop alongside entanglement: discipline. This chapter looks forward — proposing that the future of simultaneity depends not on restraint of technology, but on maturation of character.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 The Bitcoin Chronicles - Arc 2.G.3 - The Shape of Sovereign Order</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7629166bcda609c8ad182beb805b7e4c904ed18f1b7b05df5d14e4eeaf06e6c2</link>
+      <guid isPermaLink="false">7629166bcda609c8ad182beb805b7e4c904ed18f1b7b05df5d14e4eeaf06e6c2</guid>
+      <pubDate>Fri, 13 Feb 2026 01:29:46 GMT</pubDate>
+      <description><![CDATA[With settlement no longer bound to a center, communities experiment with distributed sovereignty. This chapter explores how order emerges without a clearing authority and how entangled coordination reshapes legitimacy — preparing humanity for the psychological strain of living in a world without delay.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 The Bitcoin Chronicles — Arc 2.H.2 - The Weight of Instant Truth</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=eed0117e10969ef52aa4872810495be66817554d5a020b1703d9a5b6d3064204</link>
@@ -22,16 +62,6 @@
       <guid isPermaLink="false">122afb31229d4a974cce0932c3a9a8c142ad9556b9fc4b4e8ae9481bfade4158</guid>
       <pubDate>Thu, 12 Feb 2026 00:45:20 GMT</pubDate>
       <description><![CDATA[As entangled coordination spreads beyond Luna’s experimental corridors, sovereign worlds confront a deeper question: if authority no longer depends on delay, who carries responsibility? Elias Walker begins to understand that distributed systems demand more maturity, not less.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Sovereign Archive: The Canonical Bitcoin Chronicles Index</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=43664dd2beb28415ac7ecb7365fc726ec3ed1aabcea898714f89dbaf7f1b1478</link>
-      <guid isPermaLink="false">43664dd2beb28415ac7ecb7365fc726ec3ed1aabcea898714f89dbaf7f1b1478</guid>
-      <pubDate>Thu, 12 Feb 2026 00:34:42 GMT</pubDate>
-      <description><![CDATA[This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
@@ -4982,36 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">3b1e66aa66233ffc09cf13e4cc3682a327847c5b401759945dc12b9d0310405f</guid>
       <pubDate>Mon, 10 Nov 2025 22:55:02 GMT</pubDate>
       <description><![CDATA[Years after the Hilo Lesson, Maya and Anika formalize the Bridge Mutual Aid Guild—a network of repair crews spanning Earth, Luna, and Mars.   But when the United Earth Bureau begins demanding “harmonized oversight,” the Guild must decide whether transparency is worth survival.   A story of quiet resistance and the living culture that keeps the Bridge alive.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article.1 (Nov. 10, 2025): The Bitcoin Chronicles — Signals in Silence</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=67dbf1d649e4282aa4c346f2f5da752643be03ab93bb3aa68fcceb0d61e6cba7</link>
-      <guid isPermaLink="false">67dbf1d649e4282aa4c346f2f5da752643be03ab93bb3aa68fcceb0d61e6cba7</guid>
-      <pubDate>Mon, 10 Nov 2025 22:43:58 GMT</pubDate>
-      <description><![CDATA[Inside the data halls of the United Earth Bureau, a low-level technician begins noticing faint patterns—ghost signals that shouldn’t exist.   They carry the cadence of something older than the Bureau’s codebase, something that remembers the Bridge.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sunday Article (Nov. 9, 2025): The Law of Enough</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=96d7387ec65daa7237faf789e54a23d16bbd23d506bf51d1245c688698f003e9</link>
-      <guid isPermaLink="false">96d7387ec65daa7237faf789e54a23d16bbd23d506bf51d1245c688698f003e9</guid>
-      <pubDate>Mon, 10 Nov 2025 06:35:25 GMT</pubDate>
-      <description><![CDATA[True provision begins not with more, but with enough. The Sabbath reveals the hidden law of sufficiency: that abundance without rest is still poverty.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 9, 2025): The Economy of Grace</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=4be53bccb78931b1058cfd687eaf8587d3c3958087165555e0b1a2c41e7adf88</link>
-      <guid isPermaLink="false">4be53bccb78931b1058cfd687eaf8587d3c3958087165555e0b1a2c41e7adf88</guid>
-      <pubDate>Mon, 10 Nov 2025 06:29:53 GMT</pubDate>
-      <description><![CDATA[The world runs on scarcity, but the Kingdom runs on grace. Provision begins not when we have enough — but when we learn to see enough.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

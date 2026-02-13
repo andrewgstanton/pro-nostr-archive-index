@@ -5,7 +5,47 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 13 Feb 2026 01:11:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 01:40:20 GMT</lastBuildDate>
+    <item>
+      <title>The Sovereign Archive: The Canonical Bitcoin Chronicles Index</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=107b3983847e366d8b55871aacaa1eabcd23b2681f46a0bb75900069a713f3b8</link>
+      <guid isPermaLink="false">107b3983847e366d8b55871aacaa1eabcd23b2681f46a0bb75900069a713f3b8</guid>
+      <pubDate>Fri, 13 Feb 2026 01:34:20 GMT</pubDate>
+      <description><![CDATA[This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 The Bitcoin Chronicles - Arc 2.F.3 - The Surrender of Delay</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e52d6bf30564408f0725292bfa86a049211e213bb0401eecb21b5f53b80d3d13</link>
+      <guid isPermaLink="false">e52d6bf30564408f0725292bfa86a049211e213bb0401eecb21b5f53b80d3d13</guid>
+      <pubDate>Fri, 13 Feb 2026 01:31:13 GMT</pubDate>
+      <description><![CDATA[As the Entanglement Bridge matures, institutions built on delay confront their final choice: cling to procedural time or surrender to instant settlement. This chapter follows the moment when delay ceases to be defensible and becomes optional — and what happens when power built on friction must either transform or dissolve.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 The Bitcoin Chronicles - Arc 2.H.3 - Toward the Discipline of Instant Light</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c5736139d032c53d0a53300f57add4795e214c9e1050c063f1c958da1552a0d4</link>
+      <guid isPermaLink="false">c5736139d032c53d0a53300f57add4795e214c9e1050c063f1c958da1552a0d4</guid>
+      <pubDate>Fri, 13 Feb 2026 01:30:32 GMT</pubDate>
+      <description><![CDATA[As humanity confronts the psychological strain of living in a world of instant finality, Elias reflects on what must develop alongside entanglement: discipline. This chapter looks forward — proposing that the future of simultaneity depends not on restraint of technology, but on maturation of character.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 The Bitcoin Chronicles - Arc 2.G.3 - The Shape of Sovereign Order</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7629166bcda609c8ad182beb805b7e4c904ed18f1b7b05df5d14e4eeaf06e6c2</link>
+      <guid isPermaLink="false">7629166bcda609c8ad182beb805b7e4c904ed18f1b7b05df5d14e4eeaf06e6c2</guid>
+      <pubDate>Fri, 13 Feb 2026 01:29:46 GMT</pubDate>
+      <description><![CDATA[With settlement no longer bound to a center, communities experiment with distributed sovereignty. This chapter explores how order emerges without a clearing authority and how entangled coordination reshapes legitimacy — preparing humanity for the psychological strain of living in a world without delay.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 The Bitcoin Chronicles — Arc 2.H.2 - The Weight of Instant Truth</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=eed0117e10969ef52aa4872810495be66817554d5a020b1703d9a5b6d3064204</link>
@@ -22,16 +62,6 @@
       <guid isPermaLink="false">122afb31229d4a974cce0932c3a9a8c142ad9556b9fc4b4e8ae9481bfade4158</guid>
       <pubDate>Thu, 12 Feb 2026 00:45:20 GMT</pubDate>
       <description><![CDATA[As entangled coordination spreads beyond Luna’s experimental corridors, sovereign worlds confront a deeper question: if authority no longer depends on delay, who carries responsibility? Elias Walker begins to understand that distributed systems demand more maturity, not less.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Sovereign Archive: The Canonical Bitcoin Chronicles Index</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=43664dd2beb28415ac7ecb7365fc726ec3ed1aabcea898714f89dbaf7f1b1478</link>
-      <guid isPermaLink="false">43664dd2beb28415ac7ecb7365fc726ec3ed1aabcea898714f89dbaf7f1b1478</guid>
-      <pubDate>Thu, 12 Feb 2026 00:34:42 GMT</pubDate>
-      <description><![CDATA[This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
@@ -4982,36 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">b283a7f3f5ea4dad287b7dfa77bf244958d9de425c7f0ae2f922f4391ea39068</guid>
       <pubDate>Thu, 30 Oct 2025 16:32:53 GMT</pubDate>
       <description><![CDATA[A squall on Earth knocks a coastal pad out of tolerance and a Phase Two transfer aborts mid-sequence. An emergency crew on Hawaiʻi—and a sympathetic team on Luna—show how resilience is built into the bridge: redundancy, humility, and community. The lesson is practical and hopeful.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Sovereign Creed</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=fdbc39c47132407edc2b7cc3c26d5064e8a8e2419ac25fc706262ce7b463125f</link>
-      <guid isPermaLink="false">fdbc39c47132407edc2b7cc3c26d5064e8a8e2419ac25fc706262ce7b463125f</guid>
-      <pubDate>Wed, 29 Oct 2025 21:50:00 GMT</pubDate>
-      <description><![CDATA[A personal confession of faith and freedom, rooted in the pattern of the Nicene and Reformation creeds, faithful to Sola Scriptura, and illuminated by the Victorious Gospel — a statement for an age that seeks truth without permission.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>My Testimony: The Call to Live in Truth</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2687d283320b302ba6098c6ce8ca915ede2836ed4899f041180c5c4c5a26c928</link>
-      <guid isPermaLink="false">2687d283320b302ba6098c6ce8ca915ede2836ed4899f041180c5c4c5a26c928</guid>
-      <pubDate>Wed, 29 Oct 2025 20:42:03 GMT</pubDate>
-      <description><![CDATA[I first met Christ on Oahu’s North Shore in 1978.   I discovered Bitcoin in 2016 and Nostr in 2025.   But my faith journey began long before that — through Baptist, Presbyterian, and Charismatic churches that taught me zeal, discipline, and reverence, but left deep questions unresolved.   This is how the Victorious Gospel, Bitcoin, and Nostr finally converged to tell one story of freedom and truth.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Oct. 29, 2025): The Bitcoin Chronicles: Atlas of the Sovereign Era</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=201f07653c39344f207457a6f5010b67e6e176d9df9011726a6fd907b0218db7</link>
-      <guid isPermaLink="false">201f07653c39344f207457a6f5010b67e6e176d9df9011726a6fd907b0218db7</guid>
-      <pubDate>Wed, 29 Oct 2025 17:44:30 GMT</pubDate>
-      <description><![CDATA[A generation after the Great Inflation Collapse, Earth is ruled by the Unified Earth Bureau—an empire of algorithms, ledgers, and carbon quotas.   Yet scattered across the planet—and beyond it—small enclaves still live by open code, voluntary exchange, and faith in truth that cannot be censored.   This is the atlas of those free worlds.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
