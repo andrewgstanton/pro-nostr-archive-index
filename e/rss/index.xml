@@ -5,7 +5,107 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 13 Feb 2026 01:40:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 20:43:04 GMT</lastBuildDate>
+    <item>
+      <title>Note 5 — Restoration, Not Rebellion - 2/13/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ac4c0870cd22d288902a3476a77eabf486d0985000ac5fad6b2f33b402c0e80f</link>
+      <guid isPermaLink="false">ac4c0870cd22d288902a3476a77eabf486d0985000ac5fad6b2f33b402c0e80f</guid>
+      <pubDate>Fri, 13 Feb 2026 20:11:56 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 4 — Small Is Powerful - 2/13/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9ce0522e32575098d66c6c3cca0601698d8b06e4c4e8f474b513aa170b22d54e</link>
+      <guid isPermaLink="false">9ce0522e32575098d66c6c3cca0601698d8b06e4c4e8f474b513aa170b22d54e</guid>
+      <pubDate>Fri, 13 Feb 2026 20:10:31 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 3 — The Cost of Forgetting - 2/13/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=47d7a20caa63644d8331de02e9de5232009847d1fb295dae38d62f32c93b5ca1</link>
+      <guid isPermaLink="false">47d7a20caa63644d8331de02e9de5232009847d1fb295dae38d62f32c93b5ca1</guid>
+      <pubDate>Fri, 13 Feb 2026 20:09:17 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 2 — Convenience Is Not Freedom - 2/13/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=73ddbae2d91aba41604a4859ed08935cfc973d4c1d7e17149863399e87cd60bf</link>
+      <guid isPermaLink="false">73ddbae2d91aba41604a4859ed08935cfc973d4c1d7e17149863399e87cd60bf</guid>
+      <pubDate>Fri, 13 Feb 2026 20:04:08 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Note 1 — We Had This Once - 2/13/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5ddd8e4012b360babdd2a9e327bdd4b05f848c52921b85bd2a08ec7c10f3df53</link>
+      <guid isPermaLink="false">5ddd8e4012b360babdd2a9e327bdd4b05f848c52921b85bd2a08ec7c10f3df53</guid>
+      <pubDate>Fri, 13 Feb 2026 20:00:40 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum — Chap. 5 — The Irony of Local-First</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4f45ca279e4f54931db428b8cf8ae4615ed242a86dd11fb488ee3102c5006fc7</link>
+      <guid isPermaLink="false">4f45ca279e4f54931db428b8cf8ae4615ed242a86dd11fb488ee3102c5006fc7</guid>
+      <pubDate>Fri, 13 Feb 2026 19:53:29 GMT</pubDate>
+      <description><![CDATA[Local-first software is often framed as regressive or anti-progress. Yet personal computing began as fully local, possession-based, and independent of centralized authentication. This chapter explores the tension between innovation and remembering — and why returning to local-first architecture is not nostalgia, but structural correction.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum — Chap. 4 — Architecture as Theology</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9a2e524c76be74b0ed5c16b36a83ea8716e1d8c24f8e26c321586fae70e9ae87</link>
+      <guid isPermaLink="false">9a2e524c76be74b0ed5c16b36a83ea8716e1d8c24f8e26c321586fae70e9ae87</guid>
+      <pubDate>Fri, 13 Feb 2026 19:42:45 GMT</pubDate>
+      <description><![CDATA[This chapter explores the tension between convenience and stewardship. Software architecture encodes values — about authority, dependency, and responsibility. “Architecture as Theology” argues that local-first design is not nostalgia or paranoia, but a moral stance about custody, leverage, and the distribution of power in an age of centralized cloud systems and AI.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum — Chap. 3 — Building in Silence</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=654c54d81b0fd5d644cec9f12b0f4bdb29a9784eb4dbfdadf037d5efbfc314c7</link>
+      <guid isPermaLink="false">654c54d81b0fd5d644cec9f12b0f4bdb29a9784eb4dbfdadf037d5efbfc314c7</guid>
+      <pubDate>Fri, 13 Feb 2026 19:39:10 GMT</pubDate>
+      <description><![CDATA[This chapter explores the tension between conviction and validation. What happens when you build daily, publish relentlessly, and receive little response? “Building in Silence” examines the psychological cost of creating without applause — and why silence clarified rather than ended the work.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum - Chap 2 - Keys Not Accounts</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3fbe9dadf6e6565c160529861ec594e5cd6db27b308bc7c09cff64e2800c197a</link>
+      <guid isPermaLink="false">3fbe9dadf6e6565c160529861ec594e5cd6db27b308bc7c09cff64e2800c197a</guid>
+      <pubDate>Fri, 13 Feb 2026 19:21:19 GMT</pubDate>
+      <description><![CDATA[This chapter explores the structural difference between accounts and keys — and why that distinction reshaped my thinking. Decentralization at the protocol layer does not automatically produce sovereignty at the user layer. “Keys, Not Accounts” explains why identity must be possession-based rather than permission-based, and how that realization became a foundational boundary for Continuum’s architecture.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum - Chap. 1 - Why I started</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3a44d5052d2131aa8a7d89bf378165999013a882d43ae448b72807191aea8967</link>
+      <guid isPermaLink="false">3a44d5052d2131aa8a7d89bf378165999013a882d43ae448b72807191aea8967</guid>
+      <pubDate>Fri, 13 Feb 2026 19:17:03 GMT</pubDate>
+      <description><![CDATA[This chapter explains why Continuum began — not as a startup idea, but as a quiet response to friction. What began as a few signed notes on Nostr evolved into a deeper realization about authorship, ownership, dependency, and local-first infrastructure. “Why I Started” is not about ambition; it is about coherence.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>The Sovereign Archive: The Canonical Bitcoin Chronicles Index</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=107b3983847e366d8b55871aacaa1eabcd23b2681f46a0bb75900069a713f3b8</link>
@@ -4901,106 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=9b8001d5307e36b03011fd233bb2140beaffe7bdb4697f2377a59346e57888b9</link>
       <guid isPermaLink="false">9b8001d5307e36b03011fd233bb2140beaffe7bdb4697f2377a59346e57888b9</guid>
       <pubDate>Fri, 19 Dec 2025 04:40:25 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Sovereignty Does Not Eliminate Power — It Reveals It</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5d4065f31d721c9fd73cb8d0609a047e57717fdfe90ee3e2c100f893e4b6c2fc</link>
-      <guid isPermaLink="false">5d4065f31d721c9fd73cb8d0609a047e57717fdfe90ee3e2c100f893e4b6c2fc</guid>
-      <pubDate>Fri, 19 Dec 2025 00:02:01 GMT</pubDate>
-      <description><![CDATA[Decentralized systems do not abolish hierarchy or conflict. They surface them. This essay examines why sovereignty changes incentives without redeeming human nature — and why that honesty matters.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Most Dangerous Systems Are Built by Good People</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3347a805ced969d336c2bf43ce49e6d1569da9ed1d3a09c00676d228b48a0885</link>
-      <guid isPermaLink="false">3347a805ced969d336c2bf43ce49e6d1569da9ed1d3a09c00676d228b48a0885</guid>
-      <pubDate>Thu, 18 Dec 2025 23:59:45 GMT</pubDate>
-      <description><![CDATA[History’s greatest harms rarely come from malice. They come from sincere, capable people operating within incentives that reward obedience over conscience.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Exit Is Not Rebellion</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=eccf87532d8651b6c17cdce8a3d844dce337527d42e51f96c9cd07eb89aad42c</link>
-      <guid isPermaLink="false">eccf87532d8651b6c17cdce8a3d844dce337527d42e51f96c9cd07eb89aad42c</guid>
-      <pubDate>Thu, 18 Dec 2025 23:57:52 GMT</pubDate>
-      <description><![CDATA[The ability to leave a system without permission is often mistaken for hostility. In reality, exit is what makes cooperation legitimate.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Why I Build Local-First Systems</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=453cf3e154051814983df9f04d1258265b7048b6264b555ed45c718342042f8e</link>
-      <guid isPermaLink="false">453cf3e154051814983df9f04d1258265b7048b6264b555ed45c718342042f8e</guid>
-      <pubDate>Thu, 18 Dec 2025 23:56:06 GMT</pubDate>
-      <description><![CDATA[Local-first tools are not nostalgic or anti-scale. They are a refusal to outsource agency, memory, and identity to abstractions that cannot be held accountable.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Dec. 18, 2025): The Bitcoin Chronicles - 1.B.9.1 - The Man Who Controlled Dock Seven (Calder Voss)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ab1a506c05643145d1b128d69d7bc55c8c178134461f355aa45ba2528f08d7c3</link>
-      <guid isPermaLink="false">ab1a506c05643145d1b128d69d7bc55c8c178134461f355aa45ba2528f08d7c3</guid>
-      <pubDate>Thu, 18 Dec 2025 22:40:57 GMT</pubDate>
-      <description><![CDATA[On the Moon, power didn’t belong to governments or ideals — it belonged to those who controlled chokepoints. Dock Seven made one man indispensable, and therefore hated.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Dec. 18, 2025): The Bitcoin Chronicles - 1.B.9.2 - She Spoke Into the Vacuum (Anika Rao)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f07a6cb1478c2049841ec4b7ab5fc9ee185068725692e299f02828db4b5f3116</link>
-      <guid isPermaLink="false">f07a6cb1478c2049841ec4b7ab5fc9ee185068725692e299f02828db4b5f3116</guid>
-      <pubDate>Thu, 18 Dec 2025 22:35:18 GMT</pubDate>
-      <description><![CDATA[When most Lunar residents stayed cautious, one woman broadcast openly. Her voice carried across nodes — and forced the Moon to choose whether silence was still an option.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Dec. 18, 2025): The Bitcoin Chronicles - 1.B.9.3 - The Builder Who Wouldn’t Obscure His Name(Jalen Marr)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=484032957c764e51d0072be093c6267b8d2d2452819ae45ff94670eaa4b45a24</link>
-      <guid isPermaLink="false">484032957c764e51d0072be093c6267b8d2d2452819ae45ff94670eaa4b45a24</guid>
-      <pubDate>Thu, 18 Dec 2025 22:30:35 GMT</pubDate>
-      <description><![CDATA[In Lunar Nodes, anonymity had been a shield. Then one builder refused it — and forced the movement to confront what visibility really costs.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Dec. 18, 2025): The Bitcoin Chronicles - 1.B.X - The Man Who Controlled Dock Seven</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=784b5addac115c99345d53bad0d2d4a5ee902bd560b00dd6fc9d333f033f6a5c</link>
-      <guid isPermaLink="false">784b5addac115c99345d53bad0d2d4a5ee902bd560b00dd6fc9d333f033f6a5c</guid>
-      <pubDate>Thu, 18 Dec 2025 21:56:53 GMT</pubDate>
-      <description><![CDATA[On the Moon, power didn’t belong to governments or ideals — it belonged to those who controlled chokepoints. Dock Seven made one man indispensable, and therefore hated.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Stewardship notice for the Bitcoin Chronicles on Continuum.</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c8f4c6b886e69a4b390510d595caeafedfd642fe41612786e5c1a3910187d124</link>
-      <guid isPermaLink="false">c8f4c6b886e69a4b390510d595caeafedfd642fe41612786e5c1a3910187d124</guid>
-      <pubDate>Thu, 18 Dec 2025 16:46:47 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 2c1f1257ab</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2c1f1257abfdbd4325fc81f5e4f7dafb8b29ee10b7d6175b70b16336356e2283</link>
-      <guid isPermaLink="false">2c1f1257abfdbd4325fc81f5e4f7dafb8b29ee10b7d6175b70b16336356e2283</guid>
-      <pubDate>Thu, 18 Dec 2025 16:33:47 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>

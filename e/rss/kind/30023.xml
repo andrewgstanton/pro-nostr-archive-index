@@ -5,7 +5,57 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 13 Feb 2026 01:40:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 20:43:04 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Building Continuum — Chap. 5 — The Irony of Local-First</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4f45ca279e4f54931db428b8cf8ae4615ed242a86dd11fb488ee3102c5006fc7</link>
+      <guid isPermaLink="false">4f45ca279e4f54931db428b8cf8ae4615ed242a86dd11fb488ee3102c5006fc7</guid>
+      <pubDate>Fri, 13 Feb 2026 19:53:29 GMT</pubDate>
+      <description><![CDATA[Local-first software is often framed as regressive or anti-progress. Yet personal computing began as fully local, possession-based, and independent of centralized authentication. This chapter explores the tension between innovation and remembering — and why returning to local-first architecture is not nostalgia, but structural correction.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum — Chap. 4 — Architecture as Theology</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9a2e524c76be74b0ed5c16b36a83ea8716e1d8c24f8e26c321586fae70e9ae87</link>
+      <guid isPermaLink="false">9a2e524c76be74b0ed5c16b36a83ea8716e1d8c24f8e26c321586fae70e9ae87</guid>
+      <pubDate>Fri, 13 Feb 2026 19:42:45 GMT</pubDate>
+      <description><![CDATA[This chapter explores the tension between convenience and stewardship. Software architecture encodes values — about authority, dependency, and responsibility. “Architecture as Theology” argues that local-first design is not nostalgia or paranoia, but a moral stance about custody, leverage, and the distribution of power in an age of centralized cloud systems and AI.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum — Chap. 3 — Building in Silence</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=654c54d81b0fd5d644cec9f12b0f4bdb29a9784eb4dbfdadf037d5efbfc314c7</link>
+      <guid isPermaLink="false">654c54d81b0fd5d644cec9f12b0f4bdb29a9784eb4dbfdadf037d5efbfc314c7</guid>
+      <pubDate>Fri, 13 Feb 2026 19:39:10 GMT</pubDate>
+      <description><![CDATA[This chapter explores the tension between conviction and validation. What happens when you build daily, publish relentlessly, and receive little response? “Building in Silence” examines the psychological cost of creating without applause — and why silence clarified rather than ended the work.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum - Chap 2 - Keys Not Accounts</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3fbe9dadf6e6565c160529861ec594e5cd6db27b308bc7c09cff64e2800c197a</link>
+      <guid isPermaLink="false">3fbe9dadf6e6565c160529861ec594e5cd6db27b308bc7c09cff64e2800c197a</guid>
+      <pubDate>Fri, 13 Feb 2026 19:21:19 GMT</pubDate>
+      <description><![CDATA[This chapter explores the structural difference between accounts and keys — and why that distinction reshaped my thinking. Decentralization at the protocol layer does not automatically produce sovereignty at the user layer. “Keys, Not Accounts” explains why identity must be possession-based rather than permission-based, and how that realization became a foundational boundary for Continuum’s architecture.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum - Chap. 1 - Why I started</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3a44d5052d2131aa8a7d89bf378165999013a882d43ae448b72807191aea8967</link>
+      <guid isPermaLink="false">3a44d5052d2131aa8a7d89bf378165999013a882d43ae448b72807191aea8967</guid>
+      <pubDate>Fri, 13 Feb 2026 19:17:03 GMT</pubDate>
+      <description><![CDATA[This chapter explains why Continuum began — not as a startup idea, but as a quiet response to friction. What began as a few signed notes on Nostr evolved into a deeper realization about authorship, ownership, dependency, and local-first infrastructure. “Why I Started” is not about ambition; it is about coherence.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>The Sovereign Archive: The Canonical Bitcoin Chronicles Index</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=107b3983847e366d8b55871aacaa1eabcd23b2681f46a0bb75900069a713f3b8</link>
@@ -4952,66 +5002,6 @@
       <guid isPermaLink="false">cabbc6b5f86631f9ade9ed6facbef00f1d394319ead693aba6e470b87966efbc</guid>
       <pubDate>Thu, 13 Nov 2025 04:33:28 GMT</pubDate>
       <description><![CDATA[After the vows and the milestones comes the real work — the daily discipline of staying true in a world that prizes novelty over endurance.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 11, 2025): Building for the Ones Who Come After</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3e06f3b82c2236db9e66d96de37f18d91d8e3a9c595a850b32ecc8be49df9e60</link>
-      <guid isPermaLink="false">3e06f3b82c2236db9e66d96de37f18d91d8e3a9c595a850b32ecc8be49df9e60</guid>
-      <pubDate>Thu, 13 Nov 2025 04:24:02 GMT</pubDate>
-      <description><![CDATA[A reflection on marriage, legacy, and the slow architecture of love — what it means to build something that endures beyond our own lifetime.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 11, 2025): The Long Arc of Fidelity</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=721158c2a72c6c7241ea0dfc54de8f9c64eb6eb8fb4389dda3d2a43fcbc0477e</link>
-      <guid isPermaLink="false">721158c2a72c6c7241ea0dfc54de8f9c64eb6eb8fb4389dda3d2a43fcbc0477e</guid>
-      <pubDate>Thu, 13 Nov 2025 04:18:37 GMT</pubDate>
-      <description><![CDATA[A meditation on twenty-five years of marriage — what remains after the seasons, and how love matures into something deeper than feeling.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Why I Left Web3 for Proof of Work – Part 4: Proof of Work as Philosophy</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=bbbb71f5b732f4628b388635f5f9e30873db6f35b79304ed0e644390e37f757c</link>
-      <guid isPermaLink="false">bbbb71f5b732f4628b388635f5f9e30873db6f35b79304ed0e644390e37f757c</guid>
-      <pubDate>Tue, 11 Nov 2025 02:12:38 GMT</pubDate>
-      <description><![CDATA[Web3 talked a lot about freedom — but it didn’t ask much of me.
-Bitcoin didn’t say much — but it demanded everything.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Why I Left Web3 for Proof of Work – Part 3: The Return</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=fff4681dd7eaf2921e85651f0fd4029cf871e61cf8d2affb24035e898c95649f</link>
-      <guid isPermaLink="false">fff4681dd7eaf2921e85651f0fd4029cf871e61cf8d2affb24035e898c95649f</guid>
-      <pubDate>Tue, 11 Nov 2025 01:50:10 GMT</pubDate>
-      <description><![CDATA[This wasn’t a dramatic comeback. It was quieter than that — a slow return to something I never truly left.
-
-Bitcoin didn’t lure me back. It waited — with proof, not promises.
-Reading The Bitcoin Standard reframed not just money, but time, trust, and work itself.
-I stopped chasing. I started pruning. I began rebuilding — from conviction, not consensus.
-
-Sometimes returning isn’t about going backward.
-It’s about finally going deeper.
-
-]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 10, 2025): The Bitcoin Chronicles — The Hilo Continuum</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3b1e66aa66233ffc09cf13e4cc3682a327847c5b401759945dc12b9d0310405f</link>
-      <guid isPermaLink="false">3b1e66aa66233ffc09cf13e4cc3682a327847c5b401759945dc12b9d0310405f</guid>
-      <pubDate>Mon, 10 Nov 2025 22:55:02 GMT</pubDate>
-      <description><![CDATA[Years after the Hilo Lesson, Maya and Anika formalize the Bridge Mutual Aid Guild—a network of repair crews spanning Earth, Luna, and Mars.   But when the United Earth Bureau begins demanding “harmonized oversight,” the Guild must decide whether transparency is worth survival.   A story of quiet resistance and the living culture that keeps the Bridge alive.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

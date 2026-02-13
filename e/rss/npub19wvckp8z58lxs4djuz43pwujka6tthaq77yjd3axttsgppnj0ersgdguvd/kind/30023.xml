@@ -5,7 +5,57 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 13 Feb 2026 01:40:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 20:43:04 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Building Continuum — Chap. 5 — The Irony of Local-First</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4f45ca279e4f54931db428b8cf8ae4615ed242a86dd11fb488ee3102c5006fc7</link>
+      <guid isPermaLink="false">4f45ca279e4f54931db428b8cf8ae4615ed242a86dd11fb488ee3102c5006fc7</guid>
+      <pubDate>Fri, 13 Feb 2026 19:53:29 GMT</pubDate>
+      <description><![CDATA[Local-first software is often framed as regressive or anti-progress. Yet personal computing began as fully local, possession-based, and independent of centralized authentication. This chapter explores the tension between innovation and remembering — and why returning to local-first architecture is not nostalgia, but structural correction.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum — Chap. 4 — Architecture as Theology</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9a2e524c76be74b0ed5c16b36a83ea8716e1d8c24f8e26c321586fae70e9ae87</link>
+      <guid isPermaLink="false">9a2e524c76be74b0ed5c16b36a83ea8716e1d8c24f8e26c321586fae70e9ae87</guid>
+      <pubDate>Fri, 13 Feb 2026 19:42:45 GMT</pubDate>
+      <description><![CDATA[This chapter explores the tension between convenience and stewardship. Software architecture encodes values — about authority, dependency, and responsibility. “Architecture as Theology” argues that local-first design is not nostalgia or paranoia, but a moral stance about custody, leverage, and the distribution of power in an age of centralized cloud systems and AI.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum — Chap. 3 — Building in Silence</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=654c54d81b0fd5d644cec9f12b0f4bdb29a9784eb4dbfdadf037d5efbfc314c7</link>
+      <guid isPermaLink="false">654c54d81b0fd5d644cec9f12b0f4bdb29a9784eb4dbfdadf037d5efbfc314c7</guid>
+      <pubDate>Fri, 13 Feb 2026 19:39:10 GMT</pubDate>
+      <description><![CDATA[This chapter explores the tension between conviction and validation. What happens when you build daily, publish relentlessly, and receive little response? “Building in Silence” examines the psychological cost of creating without applause — and why silence clarified rather than ended the work.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum - Chap 2 - Keys Not Accounts</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3fbe9dadf6e6565c160529861ec594e5cd6db27b308bc7c09cff64e2800c197a</link>
+      <guid isPermaLink="false">3fbe9dadf6e6565c160529861ec594e5cd6db27b308bc7c09cff64e2800c197a</guid>
+      <pubDate>Fri, 13 Feb 2026 19:21:19 GMT</pubDate>
+      <description><![CDATA[This chapter explores the structural difference between accounts and keys — and why that distinction reshaped my thinking. Decentralization at the protocol layer does not automatically produce sovereignty at the user layer. “Keys, Not Accounts” explains why identity must be possession-based rather than permission-based, and how that realization became a foundational boundary for Continuum’s architecture.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum - Chap. 1 - Why I started</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3a44d5052d2131aa8a7d89bf378165999013a882d43ae448b72807191aea8967</link>
+      <guid isPermaLink="false">3a44d5052d2131aa8a7d89bf378165999013a882d43ae448b72807191aea8967</guid>
+      <pubDate>Fri, 13 Feb 2026 19:17:03 GMT</pubDate>
+      <description><![CDATA[This chapter explains why Continuum began — not as a startup idea, but as a quiet response to friction. What began as a few signed notes on Nostr evolved into a deeper realization about authorship, ownership, dependency, and local-first infrastructure. “Why I Started” is not about ambition; it is about coherence.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>The Sovereign Archive: The Canonical Bitcoin Chronicles Index</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=107b3983847e366d8b55871aacaa1eabcd23b2681f46a0bb75900069a713f3b8</link>
@@ -4962,56 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">b584d2a22f8dce3ed2421740433167c75e4abbac36eaa4dc7e80c4f6d94b2abf</guid>
       <pubDate>Thu, 30 Oct 2025 23:15:37 GMT</pubDate>
       <description><![CDATA[The most dangerous form of deceit isn’t personal — it’s structural. Systems can lie without anyone meaning to, simply by rewarding comfort over truth. Seeing that distinction clearly is the first step toward reform.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 1, 2025): Allergic to Bullshit</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e814b0c4ae35fae2bf05d2726c833e51eb2ee9eb73ddf66e16ebb8d6d54a987a</link>
-      <guid isPermaLink="false">e814b0c4ae35fae2bf05d2726c833e51eb2ee9eb73ddf66e16ebb8d6d54a987a</guid>
-      <pubDate>Thu, 30 Oct 2025 23:11:50 GMT</pubDate>
-      <description><![CDATA[The deeper you live in truth, the less tolerance you have for pretense — in others and in yourself. What starts as irritation becomes discernment: a natural immune system against deceit.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Oct. 31, 2025): The Legalized Lie</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ba77d2875f83afbaa1a84504d00f702d4f171d4328833647b017498489d81c36</link>
-      <guid isPermaLink="false">ba77d2875f83afbaa1a84504d00f702d4f171d4328833647b017498489d81c36</guid>
-      <pubDate>Thu, 30 Oct 2025 23:07:07 GMT</pubDate>
-      <description><![CDATA[Fractional-reserve banking works only because people agree not to look too closely. It is the most refined illusion of the modern age — faith disguised as finance.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Oct. 31, 2025) : The Clancy Method: Logic as Intelligence</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=18fdd4f086df9dd8dd44b7ee217ff3e32f763af165692b067605674f990eefe6</link>
-      <guid isPermaLink="false">18fdd4f086df9dd8dd44b7ee217ff3e32f763af165692b067605674f990eefe6</guid>
-      <pubDate>Thu, 30 Oct 2025 23:04:33 GMT</pubDate>
-      <description><![CDATA[You don’t need a security clearance to see the world clearly. Logic, pattern recognition, and moral imagination can reveal as much as any classified file — sometimes more.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Oct. 30, 2025): The Bitcoin Chronicles - Quantum Customs</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=449c9fbd1a58863d861f6d7f08b7114b072aa4c86cc2d3b73ead3115ce6999d4</link>
-      <guid isPermaLink="false">449c9fbd1a58863d861f6d7f08b7114b072aa4c86cc2d3b73ead3115ce6999d4</guid>
-      <pubDate>Thu, 30 Oct 2025 16:47:30 GMT</pubDate>
-      <description><![CDATA[Phase Two of the Entanglement Bridge moves matter, not just messages. That means new kinds of “customs,” stewardship, and trust—measured in joules, hashes, and conscience. A day with a Bridge Steward at Luna Freeport shows how sovereignty can scale without slipping into bureaucracy.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Oct. 30, 2025): The Bitcoin Chronicles - Mending a Broken Bridge — The Hilo Lesson</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b283a7f3f5ea4dad287b7dfa77bf244958d9de425c7f0ae2f922f4391ea39068</link>
-      <guid isPermaLink="false">b283a7f3f5ea4dad287b7dfa77bf244958d9de425c7f0ae2f922f4391ea39068</guid>
-      <pubDate>Thu, 30 Oct 2025 16:32:53 GMT</pubDate>
-      <description><![CDATA[A squall on Earth knocks a coastal pad out of tolerance and a Phase Two transfer aborts mid-sequence. An emergency crew on Hawaiʻi—and a sympathetic team on Luna—show how resilience is built into the bridge: redundancy, humility, and community. The lesson is practical and hopeful.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

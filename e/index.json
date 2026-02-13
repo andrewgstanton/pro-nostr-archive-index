@@ -1,5 +1,115 @@
 [
   {
+    "slug": null,
+    "event_id": "ac4c0870cd22d288902a3476a77eabf486d0985000ac5fad6b2f33b402c0e80f",
+    "created_at": 1771013516,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/ac4c0870cd22d288902a3476a77eabf486d0985000ac5fad6b2f33b402c0e80f.json",
+    "title": "Note 5 — Restoration, Not Rebellion - 2/13/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "9ce0522e32575098d66c6c3cca0601698d8b06e4c4e8f474b513aa170b22d54e",
+    "created_at": 1771013431,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/9ce0522e32575098d66c6c3cca0601698d8b06e4c4e8f474b513aa170b22d54e.json",
+    "title": "Note 4 — Small Is Powerful - 2/13/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "47d7a20caa63644d8331de02e9de5232009847d1fb295dae38d62f32c93b5ca1",
+    "created_at": 1771013357,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/47d7a20caa63644d8331de02e9de5232009847d1fb295dae38d62f32c93b5ca1.json",
+    "title": "Note 3 — The Cost of Forgetting - 2/13/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "73ddbae2d91aba41604a4859ed08935cfc973d4c1d7e17149863399e87cd60bf",
+    "created_at": 1771013048,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/73ddbae2d91aba41604a4859ed08935cfc973d4c1d7e17149863399e87cd60bf.json",
+    "title": "Note 2 — Convenience Is Not Freedom - 2/13/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "5ddd8e4012b360babdd2a9e327bdd4b05f848c52921b85bd2a08ec7c10f3df53",
+    "created_at": 1771012840,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/5ddd8e4012b360babdd2a9e327bdd4b05f848c52921b85bd2a08ec7c10f3df53.json",
+    "title": "Note 1 — We Had This Once - 2/13/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "-building-continuum--chap-5--the-irony-of-local-first-2026-02-13",
+    "event_id": "4f45ca279e4f54931db428b8cf8ae4615ed242a86dd11fb488ee3102c5006fc7",
+    "created_at": 1771012409,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/4f45ca279e4f54931db428b8cf8ae4615ed242a86dd11fb488ee3102c5006fc7.json",
+    "title": "🔒 Building Continuum — Chap. 5 — The Irony of Local-First",
+    "summary": "Local-first software is often framed as regressive or anti-progress. Yet personal computing began as fully local, possession-based, and independent of centralized authentication. This chapter explores the tension between innovation and remembering — and why returning to local-first architecture is not nostalgia, but structural correction.",
+    "paid": false
+  },
+  {
+    "slug": "-building-continuum--chap-4--architecture-as-theology-2026-02-13",
+    "event_id": "9a2e524c76be74b0ed5c16b36a83ea8716e1d8c24f8e26c321586fae70e9ae87",
+    "created_at": 1771011765,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/9a2e524c76be74b0ed5c16b36a83ea8716e1d8c24f8e26c321586fae70e9ae87.json",
+    "title": "🔒 Building Continuum — Chap. 4 — Architecture as Theology",
+    "summary": "This chapter explores the tension between convenience and stewardship. Software architecture encodes values — about authority, dependency, and responsibility. “Architecture as Theology” argues that local-first design is not nostalgia or paranoia, but a moral stance about custody, leverage, and the distribution of power in an age of centralized cloud systems and AI.",
+    "paid": false
+  },
+  {
+    "slug": "-building-continuum--chap-3--building-in-silence-2026-02-13",
+    "event_id": "654c54d81b0fd5d644cec9f12b0f4bdb29a9784eb4dbfdadf037d5efbfc314c7",
+    "created_at": 1771011550,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/654c54d81b0fd5d644cec9f12b0f4bdb29a9784eb4dbfdadf037d5efbfc314c7.json",
+    "title": "🔒 Building Continuum — Chap. 3 — Building in Silence",
+    "summary": "This chapter explores the tension between conviction and validation. What happens when you build daily, publish relentlessly, and receive little response? “Building in Silence” examines the psychological cost of creating without applause — and why silence clarified rather than ended the work.",
+    "paid": false
+  },
+  {
+    "slug": "-building-continuum---chap-2---keys-not-accounts-2026-02-13",
+    "event_id": "3fbe9dadf6e6565c160529861ec594e5cd6db27b308bc7c09cff64e2800c197a",
+    "created_at": 1771010479,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/3fbe9dadf6e6565c160529861ec594e5cd6db27b308bc7c09cff64e2800c197a.json",
+    "title": "🔒 Building Continuum - Chap 2 - Keys Not Accounts",
+    "summary": "This chapter explores the structural difference between accounts and keys — and why that distinction reshaped my thinking. Decentralization at the protocol layer does not automatically produce sovereignty at the user layer. “Keys, Not Accounts” explains why identity must be possession-based rather than permission-based, and how that realization became a foundational boundary for Continuum’s architecture.",
+    "paid": false
+  },
+  {
+    "slug": "-building-continuum---chap-1---why-i-started-2026-02-13",
+    "event_id": "3a44d5052d2131aa8a7d89bf378165999013a882d43ae448b72807191aea8967",
+    "created_at": 1771010223,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/3a44d5052d2131aa8a7d89bf378165999013a882d43ae448b72807191aea8967.json",
+    "title": "🔒 Building Continuum - Chap. 1 - Why I started",
+    "summary": "This chapter explains why Continuum began — not as a startup idea, but as a quiet response to friction. What began as a few signed notes on Nostr evolved into a deeper realization about authorship, ownership, dependency, and local-first infrastructure. “Why I Started” is not about ambition; it is about coherence.",
+    "paid": false
+  },
+  {
     "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
     "event_id": "107b3983847e366d8b55871aacaa1eabcd23b2681f46a0bb75900069a713f3b8",
     "created_at": 1770946460,
