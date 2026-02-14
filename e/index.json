@@ -1,6 +1,17 @@
 [
   {
     "slug": null,
+    "event_id": "97cd88c109e9abfbf0820ee48e6a173ea70f0ce5f78f2a975ec8cc50bf6b6610",
+    "created_at": 1771054240,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/97cd88c109e9abfbf0820ee48e6a173ea70f0ce5f78f2a975ec8cc50bf6b6610.json",
+    "title": "Substack Publishing on Continuum",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
     "event_id": "e8f3aeaad8b40d1b66888ad6dc7fd0155336466843cc49328dc82abe12618730",
     "created_at": 1771041362,
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",

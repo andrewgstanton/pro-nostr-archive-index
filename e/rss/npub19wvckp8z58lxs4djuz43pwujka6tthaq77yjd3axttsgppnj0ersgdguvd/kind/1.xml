@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 14 Feb 2026 04:14:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 07:47:42 GMT</lastBuildDate>
+    <item>
+      <title>Substack Publishing on Continuum</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=97cd88c109e9abfbf0820ee48e6a173ea70f0ce5f78f2a975ec8cc50bf6b6610</link>
+      <guid isPermaLink="false">97cd88c109e9abfbf0820ee48e6a173ea70f0ce5f78f2a975ec8cc50bf6b6610</guid>
+      <pubDate>Sat, 14 Feb 2026 07:30:40 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Coninuum Example Running Locally on my Mac</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=e8f3aeaad8b40d1b66888ad6dc7fd0155336466843cc49328dc82abe12618730</link>

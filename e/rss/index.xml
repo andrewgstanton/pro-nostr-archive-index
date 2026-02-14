@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 14 Feb 2026 04:14:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 07:47:42 GMT</lastBuildDate>
+    <item>
+      <title>Substack Publishing on Continuum</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=97cd88c109e9abfbf0820ee48e6a173ea70f0ce5f78f2a975ec8cc50bf6b6610</link>
+      <guid isPermaLink="false">97cd88c109e9abfbf0820ee48e6a173ea70f0ce5f78f2a975ec8cc50bf6b6610</guid>
+      <pubDate>Sat, 14 Feb 2026 07:30:40 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Coninuum Example Running Locally on my Mac</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=e8f3aeaad8b40d1b66888ad6dc7fd0155336466843cc49328dc82abe12618730</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">7d82d49fdb9811136968e31d5099e90e847e46df50bbe93a34195a3dfb0611fc</guid>
       <pubDate>Sat, 20 Dec 2025 01:48:02 GMT</pubDate>
       <description><![CDATA[Modern institutions increasingly justify friction, surveillance, and control in the name of safety. This essay argues that much of what is labeled “security” today is actually liability management — systems designed to protect institutions from blame rather than people from harm. True safety does not emerge from endless verification or procedural opacity, but from accountability, legibility, and agency. A world optimized for legal defensibility may feel secure, yet leave individuals more exposed than before.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Lie That Convenience Is Freedom</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f28bb97cbc7ca5e3119da1bc900a14377e977f5340daca9765f4f0332ae218a2</link>
-      <guid isPermaLink="false">f28bb97cbc7ca5e3119da1bc900a14377e977f5340daca9765f4f0332ae218a2</guid>
-      <pubDate>Sat, 20 Dec 2025 01:43:56 GMT</pubDate>
-      <description><![CDATA[Modern platforms do not promise a frictionless world. They promise convenience — ease of use, reduced effort, and relief from responsibility — in exchange for agency. This essay argues that convenience is routinely mistaken for freedom, even as it narrows choice, concentrates power, and relocates friction outside the user’s control. Sovereignty does not remove friction; it makes friction visible, legible, and owned.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

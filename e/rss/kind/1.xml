@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 14 Feb 2026 04:14:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 07:47:42 GMT</lastBuildDate>
+    <item>
+      <title>Substack Publishing on Continuum</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=97cd88c109e9abfbf0820ee48e6a173ea70f0ce5f78f2a975ec8cc50bf6b6610</link>
+      <guid isPermaLink="false">97cd88c109e9abfbf0820ee48e6a173ea70f0ce5f78f2a975ec8cc50bf6b6610</guid>
+      <pubDate>Sat, 14 Feb 2026 07:30:40 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Coninuum Example Running Locally on my Mac</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=e8f3aeaad8b40d1b66888ad6dc7fd0155336466843cc49328dc82abe12618730</link>
@@ -4991,16 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=871424777db8c4823fcbba1ed503d6820f7bd8ab1f411579a924f33433560c1c</link>
       <guid isPermaLink="false">871424777db8c4823fcbba1ed503d6820f7bd8ab1f411579a924f33433560c1c</guid>
       <pubDate>Sat, 17 May 2025 17:29:55 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 123ba39260</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=123ba392604a0ee096a9d9456fdca1c086beac8e92396139f22a1e220a1083a0</link>
-      <guid isPermaLink="false">123ba392604a0ee096a9d9456fdca1c086beac8e92396139f22a1e220a1083a0</guid>
-      <pubDate>Sat, 17 May 2025 05:08:17 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>

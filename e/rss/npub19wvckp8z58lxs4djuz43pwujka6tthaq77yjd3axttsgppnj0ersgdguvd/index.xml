@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 14 Feb 2026 04:14:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 07:47:42 GMT</lastBuildDate>
+    <item>
+      <title>Substack Publishing on Continuum</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=97cd88c109e9abfbf0820ee48e6a173ea70f0ce5f78f2a975ec8cc50bf6b6610</link>
+      <guid isPermaLink="false">97cd88c109e9abfbf0820ee48e6a173ea70f0ce5f78f2a975ec8cc50bf6b6610</guid>
+      <pubDate>Sat, 14 Feb 2026 07:30:40 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Coninuum Example Running Locally on my Mac</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=e8f3aeaad8b40d1b66888ad6dc7fd0155336466843cc49328dc82abe12618730</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">453cf3e154051814983df9f04d1258265b7048b6264b555ed45c718342042f8e</guid>
       <pubDate>Thu, 18 Dec 2025 23:56:06 GMT</pubDate>
       <description><![CDATA[Local-first tools are not nostalgic or anti-scale. They are a refusal to outsource agency, memory, and identity to abstractions that cannot be held accountable.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Dec. 18, 2025): The Bitcoin Chronicles - 1.B.9.1 - The Man Who Controlled Dock Seven (Calder Voss)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ab1a506c05643145d1b128d69d7bc55c8c178134461f355aa45ba2528f08d7c3</link>
-      <guid isPermaLink="false">ab1a506c05643145d1b128d69d7bc55c8c178134461f355aa45ba2528f08d7c3</guid>
-      <pubDate>Thu, 18 Dec 2025 22:40:57 GMT</pubDate>
-      <description><![CDATA[On the Moon, power didn’t belong to governments or ideals — it belonged to those who controlled chokepoints. Dock Seven made one man indispensable, and therefore hated.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
