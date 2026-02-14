@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 13 Feb 2026 21:15:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 04:14:02 GMT</lastBuildDate>
+    <item>
+      <title>Coninuum Example Running Locally on my Mac</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e8f3aeaad8b40d1b66888ad6dc7fd0155336466843cc49328dc82abe12618730</link>
+      <guid isPermaLink="false">e8f3aeaad8b40d1b66888ad6dc7fd0155336466843cc49328dc82abe12618730</guid>
+      <pubDate>Sat, 14 Feb 2026 03:56:02 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🇯🇵  Continuum はソーシャルクライアントではありません。</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=602bbb3d69a7d72d9c5a7d7d922b418e30139d8886a50ca3e3e54d26e362eabd</link>
+      <guid isPermaLink="false">602bbb3d69a7d72d9c5a7d7d922b418e30139d8886a50ca3e3e54d26e362eabd</guid>
+      <pubDate>Sat, 14 Feb 2026 03:06:30 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🇩🇪 Continuum ist kein Social-Client.</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5a0c88745faae61e48c8fceb7606bdc93d63a2de86dd2454ebb38cc9b92f0673</link>
+      <guid isPermaLink="false">5a0c88745faae61e48c8fceb7606bdc93d63a2de86dd2454ebb38cc9b92f0673</guid>
+      <pubDate>Sat, 14 Feb 2026 03:04:35 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Continuum is not a social client.</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=ea245507d72580c4e671461528df483663ca5d7e1ed4374ad74b6d69b5852e1b</link>
@@ -4972,36 +5002,6 @@
       <guid isPermaLink="false">f28bb97cbc7ca5e3119da1bc900a14377e977f5340daca9765f4f0332ae218a2</guid>
       <pubDate>Sat, 20 Dec 2025 01:43:56 GMT</pubDate>
       <description><![CDATA[Modern platforms do not promise a frictionless world. They promise convenience — ease of use, reduced effort, and relief from responsibility — in exchange for agency. This essay argues that convenience is routinely mistaken for freedom, even as it narrows choice, concentrates power, and relocates friction outside the user’s control. Sovereignty does not remove friction; it makes friction visible, legible, and owned.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Dec. 19, 2025): The Bitcoin Chronicles - 1.A.0.1.6 - The Conscience of Babylon</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=dece533cdbd6f9a0271cdbf63c4ddab915a2f5177f9c4ecd3b0f92400a36f2d3</link>
-      <guid isPermaLink="false">dece533cdbd6f9a0271cdbf63c4ddab915a2f5177f9c4ecd3b0f92400a36f2d3</guid>
-      <pubDate>Fri, 19 Dec 2025 23:59:30 GMT</pubDate>
-      <description><![CDATA[Miriam Hale became the moral voice of institutions already losing legitimacy. This paid essay traces her final role during the exhaustion of the Compliance Age — as systems strained by financial crises, pandemic shocks, and exit dynamics sought ethical justification faster than trust could be restored. She did not save Babylon. She tried to help it fail without abandoning the vulnerable.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Dec. 19, 2025): The Bitcoin Chronicles - 1.A.0.1.4 - The Care Argument</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=919e26e2f96dfd50c754dc87bd1a2429bb8f616b3568129674de7ac82ba86dab</link>
-      <guid isPermaLink="false">919e26e2f96dfd50c754dc87bd1a2429bb8f616b3568129674de7ac82ba86dab</guid>
-      <pubDate>Fri, 19 Dec 2025 23:55:24 GMT</pubDate>
-      <description><![CDATA[As institutions strained under pandemic shocks, border closures, and public mistrust, Miriam Hale emerged as a moral voice arguing that restraint was not control but care. This essay anchors her reasoning in real-world crises where coordination failed imperfectly — yet fragmentation failed catastrophically.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Dec. 19, 2025): The Bitcoin Chornicles - 1.A.0.1.5 - The Ethics of Staying</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c9e9f9e7c51a4ac9e4ecce2068ae648cea70b0f4235e9fefdb4b5614d330e2c4</link>
-      <guid isPermaLink="false">c9e9f9e7c51a4ac9e4ecce2068ae648cea70b0f4235e9fefdb4b5614d330e2c4</guid>
-      <pubDate>Fri, 19 Dec 2025 23:49:19 GMT</pubDate>
-      <description><![CDATA[As exit technologies gained moral legitimacy and institutional trust eroded, Miriam Hale articulated a minority ethical position: that remaining within failing systems could itself be a form of responsibility. Anchored in post-crisis hollowing, pandemic-era attrition, and the rise of parallel infrastructures, this essay examines the moral cost of departure.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

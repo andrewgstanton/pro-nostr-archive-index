@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 13 Feb 2026 21:15:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 04:14:02 GMT</lastBuildDate>
+    <item>
+      <title>Coninuum Example Running Locally on my Mac</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e8f3aeaad8b40d1b66888ad6dc7fd0155336466843cc49328dc82abe12618730</link>
+      <guid isPermaLink="false">e8f3aeaad8b40d1b66888ad6dc7fd0155336466843cc49328dc82abe12618730</guid>
+      <pubDate>Sat, 14 Feb 2026 03:56:02 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🇯🇵  Continuum はソーシャルクライアントではありません。</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=602bbb3d69a7d72d9c5a7d7d922b418e30139d8886a50ca3e3e54d26e362eabd</link>
+      <guid isPermaLink="false">602bbb3d69a7d72d9c5a7d7d922b418e30139d8886a50ca3e3e54d26e362eabd</guid>
+      <pubDate>Sat, 14 Feb 2026 03:06:30 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🇩🇪 Continuum ist kein Social-Client.</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5a0c88745faae61e48c8fceb7606bdc93d63a2de86dd2454ebb38cc9b92f0673</link>
+      <guid isPermaLink="false">5a0c88745faae61e48c8fceb7606bdc93d63a2de86dd2454ebb38cc9b92f0673</guid>
+      <pubDate>Sat, 14 Feb 2026 03:04:35 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Continuum is not a social client.</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=ea245507d72580c4e671461528df483663ca5d7e1ed4374ad74b6d69b5852e1b</link>
@@ -4971,36 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=123ba392604a0ee096a9d9456fdca1c086beac8e92396139f22a1e220a1083a0</link>
       <guid isPermaLink="false">123ba392604a0ee096a9d9456fdca1c086beac8e92396139f22a1e220a1083a0</guid>
       <pubDate>Sat, 17 May 2025 05:08:17 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 c0a517abc8</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c0a517abc85d7d4676788e039a978ee284f5da7171c074dbd04ff88e8660a793</link>
-      <guid isPermaLink="false">c0a517abc85d7d4676788e039a978ee284f5da7171c074dbd04ff88e8660a793</guid>
-      <pubDate>Sat, 17 May 2025 05:01:50 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 875a625cab</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=875a625cab338a9363e2dd14df9dcaffe838d06cde85adfa52a014f5b986491b</link>
-      <guid isPermaLink="false">875a625cab338a9363e2dd14df9dcaffe838d06cde85adfa52a014f5b986491b</guid>
-      <pubDate>Wed, 14 May 2025 22:29:22 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 1e48b1023d</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=1e48b1023d2fc36695d3a5f8a8d60457d37b2a79db9750345fe646a392b51a6e</link>
-      <guid isPermaLink="false">1e48b1023d2fc36695d3a5f8a8d60457d37b2a79db9750345fe646a392b51a6e</guid>
-      <pubDate>Wed, 14 May 2025 22:20:22 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>

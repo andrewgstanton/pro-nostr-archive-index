@@ -5,7 +5,7 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 13 Feb 2026 21:15:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 04:14:02 GMT</lastBuildDate>
     <item>
       <title>🔒 Building Continuum — Chap. 5 — The Irony of Local-First</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=4f45ca279e4f54931db428b8cf8ae4615ed242a86dd11fb488ee3102c5006fc7</link>

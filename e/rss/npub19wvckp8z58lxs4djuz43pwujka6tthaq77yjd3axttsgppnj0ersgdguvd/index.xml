@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 13 Feb 2026 21:15:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 04:14:02 GMT</lastBuildDate>
+    <item>
+      <title>Coninuum Example Running Locally on my Mac</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e8f3aeaad8b40d1b66888ad6dc7fd0155336466843cc49328dc82abe12618730</link>
+      <guid isPermaLink="false">e8f3aeaad8b40d1b66888ad6dc7fd0155336466843cc49328dc82abe12618730</guid>
+      <pubDate>Sat, 14 Feb 2026 03:56:02 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🇯🇵  Continuum はソーシャルクライアントではありません。</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=602bbb3d69a7d72d9c5a7d7d922b418e30139d8886a50ca3e3e54d26e362eabd</link>
+      <guid isPermaLink="false">602bbb3d69a7d72d9c5a7d7d922b418e30139d8886a50ca3e3e54d26e362eabd</guid>
+      <pubDate>Sat, 14 Feb 2026 03:06:30 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🇩🇪 Continuum ist kein Social-Client.</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5a0c88745faae61e48c8fceb7606bdc93d63a2de86dd2454ebb38cc9b92f0673</link>
+      <guid isPermaLink="false">5a0c88745faae61e48c8fceb7606bdc93d63a2de86dd2454ebb38cc9b92f0673</guid>
+      <pubDate>Sat, 14 Feb 2026 03:04:35 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Continuum is not a social client.</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=ea245507d72580c4e671461528df483663ca5d7e1ed4374ad74b6d69b5852e1b</link>
@@ -4971,36 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=ab1a506c05643145d1b128d69d7bc55c8c178134461f355aa45ba2528f08d7c3</link>
       <guid isPermaLink="false">ab1a506c05643145d1b128d69d7bc55c8c178134461f355aa45ba2528f08d7c3</guid>
       <pubDate>Thu, 18 Dec 2025 22:40:57 GMT</pubDate>
-      <description><![CDATA[On the Moon, power didn’t belong to governments or ideals — it belonged to those who controlled chokepoints. Dock Seven made one man indispensable, and therefore hated.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Dec. 18, 2025): The Bitcoin Chronicles - 1.B.9.2 - She Spoke Into the Vacuum (Anika Rao)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f07a6cb1478c2049841ec4b7ab5fc9ee185068725692e299f02828db4b5f3116</link>
-      <guid isPermaLink="false">f07a6cb1478c2049841ec4b7ab5fc9ee185068725692e299f02828db4b5f3116</guid>
-      <pubDate>Thu, 18 Dec 2025 22:35:18 GMT</pubDate>
-      <description><![CDATA[When most Lunar residents stayed cautious, one woman broadcast openly. Her voice carried across nodes — and forced the Moon to choose whether silence was still an option.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Dec. 18, 2025): The Bitcoin Chronicles - 1.B.9.3 - The Builder Who Wouldn’t Obscure His Name(Jalen Marr)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=484032957c764e51d0072be093c6267b8d2d2452819ae45ff94670eaa4b45a24</link>
-      <guid isPermaLink="false">484032957c764e51d0072be093c6267b8d2d2452819ae45ff94670eaa4b45a24</guid>
-      <pubDate>Thu, 18 Dec 2025 22:30:35 GMT</pubDate>
-      <description><![CDATA[In Lunar Nodes, anonymity had been a shield. Then one builder refused it — and forced the movement to confront what visibility really costs.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Dec. 18, 2025): The Bitcoin Chronicles - 1.B.X - The Man Who Controlled Dock Seven</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=784b5addac115c99345d53bad0d2d4a5ee902bd560b00dd6fc9d333f033f6a5c</link>
-      <guid isPermaLink="false">784b5addac115c99345d53bad0d2d4a5ee902bd560b00dd6fc9d333f033f6a5c</guid>
-      <pubDate>Thu, 18 Dec 2025 21:56:53 GMT</pubDate>
       <description><![CDATA[On the Moon, power didn’t belong to governments or ideals — it belonged to those who controlled chokepoints. Dock Seven made one man indispensable, and therefore hated.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
