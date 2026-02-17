@@ -5,7 +5,57 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 17 Feb 2026 04:50:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 23:35:19 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Building Continuum - Chapter 15 — Custody as Spiritual Discipline</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=446fd806b939b86c0bffb24e4720cfdc8a77a8e1416f36278b7ab4acf50ecd9f</link>
+      <guid isPermaLink="false">446fd806b939b86c0bffb24e4720cfdc8a77a8e1416f36278b7ab4acf50ecd9f</guid>
+      <pubDate>Tue, 17 Feb 2026 22:24:52 GMT</pubDate>
+      <description><![CDATA[Custody in sovereign systems is not merely a technical responsibility; it is a formative practice. Holding private keys, managing key pairs, rotating identities, and accepting the limits of deletion reshape behavior and posture. This chapter argues that custody is not paranoia, nor ideology, but discipline—one that forms character through responsibility, restraint, and deliberate authorship.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum - Chapter 14 — Multiple Identities, One Person</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7d2d73f69b7dbdf7e97707b369a2f4906929b4876eabc72b16ea0712b879d0c7</link>
+      <guid isPermaLink="false">7d2d73f69b7dbdf7e97707b369a2f4906929b4876eabc72b16ea0712b879d0c7</guid>
+      <pubDate>Tue, 17 Feb 2026 21:56:10 GMT</pubDate>
+      <description><![CDATA[Sovereign identity systems make it easy to generate multiple key pairs—and therefore multiple public identities. In Nostr, each key pair becomes a distinct npub. But behind those layered identities stands a single human being. This chapter explores the psychological implications of managing multiple sovereign identities, the tension between fragmentation and coherence, and how Continuum reveals that identity is not singular but structured.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Buidling Continuum - Chapter 13 — Deletion and the Illusion of Erasure</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=657593628a6cc364336cc207ce1db8dd4916f9fed94e3decadb7bdf459ae49cf</link>
+      <guid isPermaLink="false">657593628a6cc364336cc207ce1db8dd4916f9fed94e3decadb7bdf459ae49cf</guid>
+      <pubDate>Tue, 17 Feb 2026 21:41:13 GMT</pubDate>
+      <description><![CDATA[In distributed systems like Nostr, deletion does not mean erasure. Instead, it involves publishing a signed deletion event (commonly associated with NIP-09) that signals intent but cannot guarantee global removal. By contrast, centralized Web2 platforms present deletion as absolute while hiding their backend storage practices. This chapter explores the difference between opacity and transparency, the illusion of control in centralized systems, and how sovereign identity reshapes our understanding of accountability, memory, and authorship.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Buidling Continuum - Chapter 11 — The Weight of Private Keys</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2de152976127fe627ddcc8925f333efbb656ae46563f28a67b06931615c76995</link>
+      <guid isPermaLink="false">2de152976127fe627ddcc8925f333efbb656ae46563f28a67b06931615c76995</guid>
+      <pubDate>Tue, 17 Feb 2026 21:27:28 GMT</pubDate>
+      <description><![CDATA[A private key is not a password. It is authority without recourse. Holding one introduces psychological weight: fear of loss, fear of theft, and the irreversible finality of sovereignty. This chapter explores how custody reshapes behavior, why Continuum refuses to abstract that weight away, and how responsibility for keys becomes character formation rather than mere operational risk.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Buiding Continuum - Chapter 12 — Rotation and the Fear of Exposure</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=0b9ecd3b463bd3c766362d70dfc288b87aa8c4596e892c1a8c36d58c969d8f4b</link>
+      <guid isPermaLink="false">0b9ecd3b463bd3c766362d70dfc288b87aa8c4596e892c1a8c36d58c969d8f4b</guid>
+      <pubDate>Tue, 17 Feb 2026 21:15:58 GMT</pubDate>
+      <description><![CDATA[Key rotation in cryptographic identity systems does not merely replace a secret — it creates an entirely new key pair and therefore a new public identity. In Nostr, that means a new npub. Security improves, but continuity fractures. At the time of writing, Continuum does not yet implement formal rotation workflows, but the architectural pressure is clear. This chapter explores the tension between safety and continuity, why rotation is unavoidable in long-lived sovereign systems, and how identity must be understood as integrity across multiple key pairs over time.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Building Continuum — Chapter 8 — No One Asked Me to Build This</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=1362273f5652f8d4eb3b33fcb286e3b55260f95558f6e7470ff4302e4ed3f377</link>
@@ -4962,56 +5012,6 @@ It’s about finally going deeper.
       <guid isPermaLink="false">92fc47be5cc79dae2ef3577d3069abe5bfe403b571393ee143977f83a9baf067</guid>
       <pubDate>Mon, 10 Nov 2025 06:16:46 GMT</pubDate>
       <description><![CDATA[Even builders of open systems need rest. The Sabbath isn’t withdrawal from creation; it’s its completion — the security patch for the soul.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 8, 2025): Lines Without Borders</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f5ab9fb3d09a25bd5689ec9b62a23bc7b5bf87ca121adfafd80345d98ce755f8</link>
-      <guid isPermaLink="false">f5ab9fb3d09a25bd5689ec9b62a23bc7b5bf87ca121adfafd80345d98ce755f8</guid>
-      <pubDate>Mon, 10 Nov 2025 06:10:05 GMT</pubDate>
-      <description><![CDATA[Modern airport security treats everyone as a suspect. A sovereign future imagines checkpoints built on identity, not fear.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 7, 2025): How Small Starts Spread Like Fire</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=27834df38891b60244029fdb999381bd6185a0a02435995db6bf661ddf7b7f23</link>
-      <guid isPermaLink="false">27834df38891b60244029fdb999381bd6185a0a02435995db6bf661ddf7b7f23</guid>
-      <pubDate>Mon, 10 Nov 2025 06:03:42 GMT</pubDate>
-      <description><![CDATA[Great systems never begin as movements. They begin as convictions — tiny acts of fidelity that ripple outward until they ignite entire worlds.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 7, 2025): The Myth of Momentum</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2088b98b1516fdd896d69736fbf51b3d5e3ca9bd277412be4d3b90d5fe98f801</link>
-      <guid isPermaLink="false">2088b98b1516fdd896d69736fbf51b3d5e3ca9bd277412be4d3b90d5fe98f801</guid>
-      <pubDate>Mon, 10 Nov 2025 06:00:10 GMT</pubDate>
-      <description><![CDATA[Momentum is overrated. Systems that depend on hype burn out. Real progress is steady, compounding, and almost invisible — especially in sovereign systems.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 6, 2025): The Builders No One Notices</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=129674ee5056ff1138ef7d2e41b3bb1198d4f0c76800470c97cfa94a47f16dad</link>
-      <guid isPermaLink="false">129674ee5056ff1138ef7d2e41b3bb1198d4f0c76800470c97cfa94a47f16dad</guid>
-      <pubDate>Mon, 10 Nov 2025 05:49:45 GMT</pubDate>
-      <description><![CDATA[The hardest work is often invisible — yet every breakthrough rests on the shoulders of those who built faithfully without recognition.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 6, 2025): The Silence Between Launches</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6ce086f17beed158f4962f56f74f449c99c90eb9704061c69d0cdbf365ab3e0c</link>
-      <guid isPermaLink="false">6ce086f17beed158f4962f56f74f449c99c90eb9704061c69d0cdbf365ab3e0c</guid>
-      <pubDate>Mon, 10 Nov 2025 05:45:47 GMT</pubDate>
-      <description><![CDATA[Every builder faces quiet seasons when the world seems to stop caring. But the silence is rarely empty — it’s where the deepest roots form.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

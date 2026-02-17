@@ -5,7 +5,57 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 17 Feb 2026 04:50:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 23:35:19 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Building Continuum - Chapter 15 — Custody as Spiritual Discipline</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=446fd806b939b86c0bffb24e4720cfdc8a77a8e1416f36278b7ab4acf50ecd9f</link>
+      <guid isPermaLink="false">446fd806b939b86c0bffb24e4720cfdc8a77a8e1416f36278b7ab4acf50ecd9f</guid>
+      <pubDate>Tue, 17 Feb 2026 22:24:52 GMT</pubDate>
+      <description><![CDATA[Custody in sovereign systems is not merely a technical responsibility; it is a formative practice. Holding private keys, managing key pairs, rotating identities, and accepting the limits of deletion reshape behavior and posture. This chapter argues that custody is not paranoia, nor ideology, but discipline—one that forms character through responsibility, restraint, and deliberate authorship.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum - Chapter 14 — Multiple Identities, One Person</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7d2d73f69b7dbdf7e97707b369a2f4906929b4876eabc72b16ea0712b879d0c7</link>
+      <guid isPermaLink="false">7d2d73f69b7dbdf7e97707b369a2f4906929b4876eabc72b16ea0712b879d0c7</guid>
+      <pubDate>Tue, 17 Feb 2026 21:56:10 GMT</pubDate>
+      <description><![CDATA[Sovereign identity systems make it easy to generate multiple key pairs—and therefore multiple public identities. In Nostr, each key pair becomes a distinct npub. But behind those layered identities stands a single human being. This chapter explores the psychological implications of managing multiple sovereign identities, the tension between fragmentation and coherence, and how Continuum reveals that identity is not singular but structured.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Buidling Continuum - Chapter 13 — Deletion and the Illusion of Erasure</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=657593628a6cc364336cc207ce1db8dd4916f9fed94e3decadb7bdf459ae49cf</link>
+      <guid isPermaLink="false">657593628a6cc364336cc207ce1db8dd4916f9fed94e3decadb7bdf459ae49cf</guid>
+      <pubDate>Tue, 17 Feb 2026 21:41:13 GMT</pubDate>
+      <description><![CDATA[In distributed systems like Nostr, deletion does not mean erasure. Instead, it involves publishing a signed deletion event (commonly associated with NIP-09) that signals intent but cannot guarantee global removal. By contrast, centralized Web2 platforms present deletion as absolute while hiding their backend storage practices. This chapter explores the difference between opacity and transparency, the illusion of control in centralized systems, and how sovereign identity reshapes our understanding of accountability, memory, and authorship.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Buidling Continuum - Chapter 11 — The Weight of Private Keys</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2de152976127fe627ddcc8925f333efbb656ae46563f28a67b06931615c76995</link>
+      <guid isPermaLink="false">2de152976127fe627ddcc8925f333efbb656ae46563f28a67b06931615c76995</guid>
+      <pubDate>Tue, 17 Feb 2026 21:27:28 GMT</pubDate>
+      <description><![CDATA[A private key is not a password. It is authority without recourse. Holding one introduces psychological weight: fear of loss, fear of theft, and the irreversible finality of sovereignty. This chapter explores how custody reshapes behavior, why Continuum refuses to abstract that weight away, and how responsibility for keys becomes character formation rather than mere operational risk.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Buiding Continuum - Chapter 12 — Rotation and the Fear of Exposure</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=0b9ecd3b463bd3c766362d70dfc288b87aa8c4596e892c1a8c36d58c969d8f4b</link>
+      <guid isPermaLink="false">0b9ecd3b463bd3c766362d70dfc288b87aa8c4596e892c1a8c36d58c969d8f4b</guid>
+      <pubDate>Tue, 17 Feb 2026 21:15:58 GMT</pubDate>
+      <description><![CDATA[Key rotation in cryptographic identity systems does not merely replace a secret — it creates an entirely new key pair and therefore a new public identity. In Nostr, that means a new npub. Security improves, but continuity fractures. At the time of writing, Continuum does not yet implement formal rotation workflows, but the architectural pressure is clear. This chapter explores the tension between safety and continuity, why rotation is unavoidable in long-lived sovereign systems, and how identity must be understood as integrity across multiple key pairs over time.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Building Continuum — Chapter 8 — No One Asked Me to Build This</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=1362273f5652f8d4eb3b33fcb286e3b55260f95558f6e7470ff4302e4ed3f377</link>
@@ -4952,56 +5002,6 @@
       <guid isPermaLink="false">09638314d39e24c57a2cccc1aef912e290b098950269756f8b944846575d14ba</guid>
       <pubDate>Sat, 15 Nov 2025 06:28:38 GMT</pubDate>
       <description><![CDATA[As Memorial Day invites sober reflection on freedom and sacrifice, I pause to honor what was given — and consider what I’m building toward. This week I head to Bitcoin 2025 not just as a Bitcoiner, but as someone seeking to live with conviction. This is a call to remember the cost of liberty and to build systems rooted in truth, transparency, and work that lasts.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Bitcoin Chronicles: Toward the Stars - Full Series</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=25080f88384720bfbac83b69bd3a4570c8fae0b2ec833ac814b9121b3e29299d</link>
-      <guid isPermaLink="false">25080f88384720bfbac83b69bd3a4570c8fae0b2ec833ac814b9121b3e29299d</guid>
-      <pubDate>Sat, 15 Nov 2025 06:26:44 GMT</pubDate>
-      <description><![CDATA[The Bitcoin Chronicles: Toward the Stars is a six-part exploration of how Bitcoin could evolve as humanity expands beyond Earth — to the Moon, Mars, the asteroid belt, and the far edges of the solar system. Each part imagines the challenges of latency, energy, and trust in interplanetary life, and shows how Bitcoin’s unique design makes it more than money: a civilizational memory system that binds scattered colonies across ages and worlds, not by empire or fiat, but by physics and time.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Why Trading Still Matters — And What Most People Get Wrong</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2b8a82d6e420e8d07ccadc530a6082b4504c6bbad6d446918bb8aa83cefb8edf</link>
-      <guid isPermaLink="false">2b8a82d6e420e8d07ccadc530a6082b4504c6bbad6d446918bb8aa83cefb8edf</guid>
-      <pubDate>Sat, 15 Nov 2025 06:24:32 GMT</pubDate>
-      <description><![CDATA[Short-term trading is often dismissed as a zero-sum game, driven by hype and luck. But for those who approach it with discipline and conviction, trading can be a meaningful craft — a way to fund deeper work, align with values, and sharpen focus. In this piece, I share why I only trade equities (not crypto or forex), how I avoid signal-following hype, and why consistent, small gains often matter more than chasing spikes. This isn’t gambling — it’s Proof of Work.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>How I Built a Tool to Cross-Post Nostr Notes to LinkedIn, Facebook, and X — in Under 3 Hours</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=651b99d59f5e029ded6a741ee7d30aa62312afcbc198bf9df437917edd286344</link>
-      <guid isPermaLink="false">651b99d59f5e029ded6a741ee7d30aa62312afcbc198bf9df437917edd286344</guid>
-      <pubDate>Sat, 15 Nov 2025 06:22:26 GMT</pubDate>
-      <description><![CDATA[I built a small open-source tool that fetches my latest Nostr post or article, cleans up links, and formats it for cross-posting to LinkedIn, Facebook, and Twitter — all in under 3 hours. Now anyone can publish once and share intentionally. Zaps appreciated if it helps you too.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Will AI and Automation Create More Bullshit Jobs — or Eliminate Them?</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=1741addb41d74fb823c17f2071ffabc32229d1d51eabcbafe45ff47c5d2c1cba</link>
-      <guid isPermaLink="false">1741addb41d74fb823c17f2071ffabc32229d1d51eabcbafe45ff47c5d2c1cba</guid>
-      <pubDate>Sat, 15 Nov 2025 06:20:42 GMT</pubDate>
-      <description><![CDATA[This article explores whether AI and automation will eliminate or multiply “bullshit jobs” — roles that even workers consider meaningless, as described by David Graeber. Drawing on Jeff Booth’s The Price of Tomorrow, it argues that technology is naturally deflationary and could free us from pointless labor. However, our inflation-driven economic system incentivizes the creation of unnecessary jobs to sustain growth. The piece concludes by advocating for a shift toward truth, value creation, and permissionless work — including a personal example of building a cross-posting tool using AI, not for a paycheck, but for real leverage and impact.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🛠️ AI Isn’t Magic. It’s Engineering.</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9deaab099ee4e570548c3fb975eeb2035aca2eb9d6875bd47042961ec0345ba7</link>
-      <guid isPermaLink="false">9deaab099ee4e570548c3fb975eeb2035aca2eb9d6875bd47042961ec0345ba7</guid>
-      <pubDate>Sat, 15 Nov 2025 06:17:35 GMT</pubDate>
-      <description><![CDATA[Most people treat AI like magic. I treat it like engineering.This post breaks down how I use ChatGPT in an iterative, system-oriented way — just like writing and testing code. It’s not about hype or hacks. It’s about building with intention, clarity, and conviction.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

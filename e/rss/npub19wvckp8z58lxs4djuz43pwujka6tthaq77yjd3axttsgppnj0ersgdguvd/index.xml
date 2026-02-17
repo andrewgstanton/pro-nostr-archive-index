@@ -5,7 +5,107 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 17 Feb 2026 04:50:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 23:35:19 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Building Continuum - Chapter 15 — Custody as Spiritual Discipline</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=446fd806b939b86c0bffb24e4720cfdc8a77a8e1416f36278b7ab4acf50ecd9f</link>
+      <guid isPermaLink="false">446fd806b939b86c0bffb24e4720cfdc8a77a8e1416f36278b7ab4acf50ecd9f</guid>
+      <pubDate>Tue, 17 Feb 2026 22:24:52 GMT</pubDate>
+      <description><![CDATA[Custody in sovereign systems is not merely a technical responsibility; it is a formative practice. Holding private keys, managing key pairs, rotating identities, and accepting the limits of deletion reshape behavior and posture. This chapter argues that custody is not paranoia, nor ideology, but discipline—one that forms character through responsibility, restraint, and deliberate authorship.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum - Chapter 14 — Multiple Identities, One Person</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7d2d73f69b7dbdf7e97707b369a2f4906929b4876eabc72b16ea0712b879d0c7</link>
+      <guid isPermaLink="false">7d2d73f69b7dbdf7e97707b369a2f4906929b4876eabc72b16ea0712b879d0c7</guid>
+      <pubDate>Tue, 17 Feb 2026 21:56:10 GMT</pubDate>
+      <description><![CDATA[Sovereign identity systems make it easy to generate multiple key pairs—and therefore multiple public identities. In Nostr, each key pair becomes a distinct npub. But behind those layered identities stands a single human being. This chapter explores the psychological implications of managing multiple sovereign identities, the tension between fragmentation and coherence, and how Continuum reveals that identity is not singular but structured.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Buidling Continuum - Chapter 13 — Deletion and the Illusion of Erasure</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=657593628a6cc364336cc207ce1db8dd4916f9fed94e3decadb7bdf459ae49cf</link>
+      <guid isPermaLink="false">657593628a6cc364336cc207ce1db8dd4916f9fed94e3decadb7bdf459ae49cf</guid>
+      <pubDate>Tue, 17 Feb 2026 21:41:13 GMT</pubDate>
+      <description><![CDATA[In distributed systems like Nostr, deletion does not mean erasure. Instead, it involves publishing a signed deletion event (commonly associated with NIP-09) that signals intent but cannot guarantee global removal. By contrast, centralized Web2 platforms present deletion as absolute while hiding their backend storage practices. This chapter explores the difference between opacity and transparency, the illusion of control in centralized systems, and how sovereign identity reshapes our understanding of accountability, memory, and authorship.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Buidling Continuum - Chapter 11 — The Weight of Private Keys</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2de152976127fe627ddcc8925f333efbb656ae46563f28a67b06931615c76995</link>
+      <guid isPermaLink="false">2de152976127fe627ddcc8925f333efbb656ae46563f28a67b06931615c76995</guid>
+      <pubDate>Tue, 17 Feb 2026 21:27:28 GMT</pubDate>
+      <description><![CDATA[A private key is not a password. It is authority without recourse. Holding one introduces psychological weight: fear of loss, fear of theft, and the irreversible finality of sovereignty. This chapter explores how custody reshapes behavior, why Continuum refuses to abstract that weight away, and how responsibility for keys becomes character formation rather than mere operational risk.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Buiding Continuum - Chapter 12 — Rotation and the Fear of Exposure</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=0b9ecd3b463bd3c766362d70dfc288b87aa8c4596e892c1a8c36d58c969d8f4b</link>
+      <guid isPermaLink="false">0b9ecd3b463bd3c766362d70dfc288b87aa8c4596e892c1a8c36d58c969d8f4b</guid>
+      <pubDate>Tue, 17 Feb 2026 21:15:58 GMT</pubDate>
+      <description><![CDATA[Key rotation in cryptographic identity systems does not merely replace a secret — it creates an entirely new key pair and therefore a new public identity. In Nostr, that means a new npub. Security improves, but continuity fractures. At the time of writing, Continuum does not yet implement formal rotation workflows, but the architectural pressure is clear. This chapter explores the tension between safety and continuity, why rotation is unavoidable in long-lived sovereign systems, and how identity must be understood as integrity across multiple key pairs over time.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>5️⃣ Demonstration Beats Promotion - 2/17/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=952e0be294af1cfca50923ef176affc6d4383d56b91947793c5cab38df5669cb</link>
+      <guid isPermaLink="false">952e0be294af1cfca50923ef176affc6d4383d56b91947793c5cab38df5669cb</guid>
+      <pubDate>Tue, 17 Feb 2026 20:34:40 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>4️⃣ Saying No Is Marketing - 2/17/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=be2aa570bbb98e1dd9a974f6ee1d7659cfa12120792893919bd88148bac957b6</link>
+      <guid isPermaLink="false">be2aa570bbb98e1dd9a974f6ee1d7659cfa12120792893919bd88148bac957b6</guid>
+      <pubDate>Tue, 17 Feb 2026 20:24:28 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>3️⃣ Pricing Is Marketing - 2/17/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=28d2adf5d7d734197080d86b2e82d9fb49e6b731a2702a1331c0af158e65e849</link>
+      <guid isPermaLink="false">28d2adf5d7d734197080d86b2e82d9fb49e6b731a2702a1331c0af158e65e849</guid>
+      <pubDate>Tue, 17 Feb 2026 20:22:49 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>2️⃣ Reach Is Not Strategy - 2/17/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6baaacf835d8daf6ba6c24e0fb740813d59e52492bc6b1f5bff1667a1c517176</link>
+      <guid isPermaLink="false">6baaacf835d8daf6ba6c24e0fb740813d59e52492bc6b1f5bff1667a1c517176</guid>
+      <pubDate>Tue, 17 Feb 2026 20:22:05 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>1️⃣ Strategic Marketing Is Signal Allocation - 2/17/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=0abe01ad76a056f15c0dd0e091ee73fa4d86008141eefe9490d75e93a658f2f3</link>
+      <guid isPermaLink="false">0abe01ad76a056f15c0dd0e091ee73fa4d86008141eefe9490d75e93a658f2f3</guid>
+      <pubDate>Tue, 17 Feb 2026 20:21:07 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Verify Tool (in case anyone is interested)</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=df4cf8726588d4de5ec037c69f61ecb0305815e9e29d2195721fd755e031bc67</link>
@@ -4903,106 +5003,6 @@
       <pubDate>Mon, 22 Dec 2025 22:00:24 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Delay and Consent</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=cabfc3a64053005294f1c050bc4607d34a3d8d72f445669b070e18239ec68696</link>
-      <guid isPermaLink="false">cabfc3a64053005294f1c050bc4607d34a3d8d72f445669b070e18239ec68696</guid>
-      <pubDate>Mon, 22 Dec 2025 21:58:32 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Moralization of Power</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5d92d8880aa80495c7b608c797dee7fa1aba92b1cc158fe8b672fa694d33fad2</link>
-      <guid isPermaLink="false">5d92d8880aa80495c7b608c797dee7fa1aba92b1cc158fe8b672fa694d33fad2</guid>
-      <pubDate>Mon, 22 Dec 2025 21:55:54 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>2025 Year in Review</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3105275bc38277228d3e331c1a1de307f6fed87e64caeadaeb7666d4864348f1</link>
-      <guid isPermaLink="false">3105275bc38277228d3e331c1a1de307f6fed87e64caeadaeb7666d4864348f1</guid>
-      <pubDate>Mon, 22 Dec 2025 19:51:01 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 706c8a0410</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=706c8a04102745528cb9256d11891b3c46889dc80ffe46058d62ae327767f9b3</link>
-      <guid isPermaLink="false">706c8a04102745528cb9256d11891b3c46889dc80ffe46058d62ae327767f9b3</guid>
-      <pubDate>Mon, 22 Dec 2025 01:13:50 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Grief Comes in Sets</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5549abe2d8871dab45b50b88719d387204a5716ecc4ce8973aab7cd6eb39f442</link>
-      <guid isPermaLink="false">5549abe2d8871dab45b50b88719d387204a5716ecc4ce8973aab7cd6eb39f442</guid>
-      <pubDate>Mon, 22 Dec 2025 01:12:44 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Different Practices, Same Instinct</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=95481ef0c637971c4e548f20232def1edef5d72cb7191040421a9006e2117cce</link>
-      <guid isPermaLink="false">95481ef0c637971c4e548f20232def1edef5d72cb7191040421a9006e2117cce</guid>
-      <pubDate>Mon, 22 Dec 2025 01:11:06 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Hope for the New Year</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c17a0077d2339eaf06d9f7d06b07061c80c3129c4d2317d6840cf5855fabbfbe</link>
-      <guid isPermaLink="false">c17a0077d2339eaf06d9f7d06b07061c80c3129c4d2317d6840cf5855fabbfbe</guid>
-      <pubDate>Mon, 22 Dec 2025 01:08:19 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Staying in the Water</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=1066c9304f18ff9c5e15d865233fdb43e02e91bc4b3a33da43fdfa84dfcd38d5</link>
-      <guid isPermaLink="false">1066c9304f18ff9c5e15d865233fdb43e02e91bc4b3a33da43fdfa84dfcd38d5</guid>
-      <pubDate>Mon, 22 Dec 2025 00:12:12 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>What Freedom Really Is</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=8539594eda6f4e6e20ad5ae43e078ddff3dbd9be4773b4dc1e0aa24870949253</link>
-      <guid isPermaLink="false">8539594eda6f4e6e20ad5ae43e078ddff3dbd9be4773b4dc1e0aa24870949253</guid>
-      <pubDate>Mon, 22 Dec 2025 00:09:11 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Freedom Comes in Waves</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7d80bb06940a4243a3a0d5705af8921b40678a985e6711d3946d359f4b51ff0c</link>
-      <guid isPermaLink="false">7d80bb06940a4243a3a0d5705af8921b40678a985e6711d3946d359f4b51ff0c</guid>
-      <pubDate>Sun, 21 Dec 2025 23:06:49 GMT</pubDate>
-      <description><![CDATA[This essay reflects on freedom and sovereignty through the lens of surfing, written from the perspective of someone who does not surf but has watched a brother use the ocean as a way to cope with grief. In a year marked by shared trauma and loss, writing and surfing become parallel practices — different responses to the same weight — each honoring agency, patience, and the choice to remain present in a world that does not bend to us.]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>

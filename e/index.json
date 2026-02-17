@@ -1,5 +1,115 @@
 [
   {
+    "slug": "-building-continuum---chapter-15--custody-as-spiritual-discipline-2026-02-17",
+    "event_id": "446fd806b939b86c0bffb24e4720cfdc8a77a8e1416f36278b7ab4acf50ecd9f",
+    "created_at": 1771367092,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/446fd806b939b86c0bffb24e4720cfdc8a77a8e1416f36278b7ab4acf50ecd9f.json",
+    "title": "🔒 Building Continuum - Chapter 15 — Custody as Spiritual Discipline",
+    "summary": "Custody in sovereign systems is not merely a technical responsibility; it is a formative practice. Holding private keys, managing key pairs, rotating identities, and accepting the limits of deletion reshape behavior and posture. This chapter argues that custody is not paranoia, nor ideology, but discipline—one that forms character through responsibility, restraint, and deliberate authorship.",
+    "paid": false
+  },
+  {
+    "slug": "-building-continuum---chapter-14--multiple-identities-one-person-2026-02-17",
+    "event_id": "7d2d73f69b7dbdf7e97707b369a2f4906929b4876eabc72b16ea0712b879d0c7",
+    "created_at": 1771365370,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/7d2d73f69b7dbdf7e97707b369a2f4906929b4876eabc72b16ea0712b879d0c7.json",
+    "title": "🔒 Building Continuum - Chapter 14 — Multiple Identities, One Person",
+    "summary": "Sovereign identity systems make it easy to generate multiple key pairs—and therefore multiple public identities. In Nostr, each key pair becomes a distinct npub. But behind those layered identities stands a single human being. This chapter explores the psychological implications of managing multiple sovereign identities, the tension between fragmentation and coherence, and how Continuum reveals that identity is not singular but structured.",
+    "paid": false
+  },
+  {
+    "slug": "-buidling-continuum---chapter-13--deletion-and-the-illusion-of-erasure-2026-02-17",
+    "event_id": "657593628a6cc364336cc207ce1db8dd4916f9fed94e3decadb7bdf459ae49cf",
+    "created_at": 1771364473,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/657593628a6cc364336cc207ce1db8dd4916f9fed94e3decadb7bdf459ae49cf.json",
+    "title": "🔒 Buidling Continuum - Chapter 13 — Deletion and the Illusion of Erasure",
+    "summary": "In distributed systems like Nostr, deletion does not mean erasure. Instead, it involves publishing a signed deletion event (commonly associated with NIP-09) that signals intent but cannot guarantee global removal. By contrast, centralized Web2 platforms present deletion as absolute while hiding their backend storage practices. This chapter explores the difference between opacity and transparency, the illusion of control in centralized systems, and how sovereign identity reshapes our understanding of accountability, memory, and authorship.",
+    "paid": false
+  },
+  {
+    "slug": "buidling-continuum---chapter-11--the-weight-of-private-keys-2026-02-17",
+    "event_id": "2de152976127fe627ddcc8925f333efbb656ae46563f28a67b06931615c76995",
+    "created_at": 1771363648,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/2de152976127fe627ddcc8925f333efbb656ae46563f28a67b06931615c76995.json",
+    "title": "🔒 Buidling Continuum - Chapter 11 — The Weight of Private Keys",
+    "summary": "A private key is not a password. It is authority without recourse. Holding one introduces psychological weight: fear of loss, fear of theft, and the irreversible finality of sovereignty. This chapter explores how custody reshapes behavior, why Continuum refuses to abstract that weight away, and how responsibility for keys becomes character formation rather than mere operational risk.",
+    "paid": false
+  },
+  {
+    "slug": "-buiding-continuum---chapter-12--rotation-and-the-fear-of-exposure-2026-02-17",
+    "event_id": "0b9ecd3b463bd3c766362d70dfc288b87aa8c4596e892c1a8c36d58c969d8f4b",
+    "created_at": 1771362958,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/0b9ecd3b463bd3c766362d70dfc288b87aa8c4596e892c1a8c36d58c969d8f4b.json",
+    "title": "🔒 Buiding Continuum - Chapter 12 — Rotation and the Fear of Exposure",
+    "summary": "Key rotation in cryptographic identity systems does not merely replace a secret — it creates an entirely new key pair and therefore a new public identity. In Nostr, that means a new npub. Security improves, but continuity fractures. At the time of writing, Continuum does not yet implement formal rotation workflows, but the architectural pressure is clear. This chapter explores the tension between safety and continuity, why rotation is unavoidable in long-lived sovereign systems, and how identity must be understood as integrity across multiple key pairs over time.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "952e0be294af1cfca50923ef176affc6d4383d56b91947793c5cab38df5669cb",
+    "created_at": 1771360480,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/952e0be294af1cfca50923ef176affc6d4383d56b91947793c5cab38df5669cb.json",
+    "title": "5️⃣ Demonstration Beats Promotion - 2/17/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "be2aa570bbb98e1dd9a974f6ee1d7659cfa12120792893919bd88148bac957b6",
+    "created_at": 1771359868,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/be2aa570bbb98e1dd9a974f6ee1d7659cfa12120792893919bd88148bac957b6.json",
+    "title": "4️⃣ Saying No Is Marketing - 2/17/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "28d2adf5d7d734197080d86b2e82d9fb49e6b731a2702a1331c0af158e65e849",
+    "created_at": 1771359769,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/28d2adf5d7d734197080d86b2e82d9fb49e6b731a2702a1331c0af158e65e849.json",
+    "title": "3️⃣ Pricing Is Marketing - 2/17/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "6baaacf835d8daf6ba6c24e0fb740813d59e52492bc6b1f5bff1667a1c517176",
+    "created_at": 1771359725,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/6baaacf835d8daf6ba6c24e0fb740813d59e52492bc6b1f5bff1667a1c517176.json",
+    "title": "2️⃣ Reach Is Not Strategy - 2/17/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "0abe01ad76a056f15c0dd0e091ee73fa4d86008141eefe9490d75e93a658f2f3",
+    "created_at": 1771359667,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/0abe01ad76a056f15c0dd0e091ee73fa4d86008141eefe9490d75e93a658f2f3.json",
+    "title": "1️⃣ Strategic Marketing Is Signal Allocation - 2/17/2026",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": null,
     "event_id": "df4cf8726588d4de5ec037c69f61ecb0305815e9e29d2195721fd755e031bc67",
     "created_at": 1771301441,
