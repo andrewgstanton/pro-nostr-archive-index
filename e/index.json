@@ -1,5 +1,27 @@
 [
   {
+    "slug": null,
+    "event_id": "df4cf8726588d4de5ec037c69f61ecb0305815e9e29d2195721fd755e031bc67",
+    "created_at": 1771301441,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/df4cf8726588d4de5ec037c69f61ecb0305815e9e29d2195721fd755e031bc67.json",
+    "title": "Verify Tool (in case anyone is interested)",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "f89bb2f07f9148f7bee8bbc199682f2ad0e612be39129ed3cc704120276b0b5a",
+    "created_at": 1771301204,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 0,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/0/f89bb2f07f9148f7bee8bbc199682f2ad0e612be39129ed3cc704120276b0b5a.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "building-continuum--chapter-8--no-one-asked-me-to-build-this-2026-02-16",
     "event_id": "1362273f5652f8d4eb3b33fcb286e3b55260f95558f6e7470ff4302e4ed3f377",
     "created_at": 1771286806,

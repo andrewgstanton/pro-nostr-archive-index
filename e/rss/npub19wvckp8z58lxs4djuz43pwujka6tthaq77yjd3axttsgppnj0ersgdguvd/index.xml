@@ -5,7 +5,27 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 17 Feb 2026 00:15:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 04:50:19 GMT</lastBuildDate>
+    <item>
+      <title>Verify Tool (in case anyone is interested)</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=df4cf8726588d4de5ec037c69f61ecb0305815e9e29d2195721fd755e031bc67</link>
+      <guid isPermaLink="false">df4cf8726588d4de5ec037c69f61ecb0305815e9e29d2195721fd755e031bc67</guid>
+      <pubDate>Tue, 17 Feb 2026 04:10:41 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:0 f89bb2f07f</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f89bb2f07f9148f7bee8bbc199682f2ad0e612be39129ed3cc704120276b0b5a</link>
+      <guid isPermaLink="false">f89bb2f07f9148f7bee8bbc199682f2ad0e612be39129ed3cc704120276b0b5a</guid>
+      <pubDate>Tue, 17 Feb 2026 04:06:44 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:0</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Building Continuum — Chapter 8 — No One Asked Me to Build This</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=1362273f5652f8d4eb3b33fcb286e3b55260f95558f6e7470ff4302e4ed3f377</link>
@@ -713,16 +733,6 @@
       <pubDate>Wed, 11 Feb 2026 01:12:09 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:0 8ff6fb2005</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=8ff6fb200592b93412f89b27d95b6dca589b1d1fb1d7d6a7be5428e456f4a28c</link>
-      <guid isPermaLink="false">8ff6fb200592b93412f89b27d95b6dca589b1d1fb1d7d6a7be5428e456f4a28c</guid>
-      <pubDate>Tue, 10 Feb 2026 20:46:52 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:0</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
@@ -4993,16 +5003,6 @@
       <pubDate>Sun, 21 Dec 2025 23:06:49 GMT</pubDate>
       <description><![CDATA[This essay reflects on freedom and sovereignty through the lens of surfing, written from the perspective of someone who does not surf but has watched a brother use the ocean as a way to cope with grief. In a year marked by shared trauma and loss, writing and surfing become parallel practices — different responses to the same weight — each honoring agency, patience, and the choice to remain present in a world that does not bend to us.]]></description>
       <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 65f6c6eedc</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=65f6c6eedc7406f9aa3905ecf781c7c7625737de9b029889473086b1259d8277</link>
-      <guid isPermaLink="false">65f6c6eedc7406f9aa3905ecf781c7c7625737de9b029889473086b1259d8277</guid>
-      <pubDate>Sun, 21 Dec 2025 19:02:25 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>

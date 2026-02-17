@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 17 Feb 2026 00:15:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 04:50:19 GMT</lastBuildDate>
+    <item>
+      <title>Verify Tool (in case anyone is interested)</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=df4cf8726588d4de5ec037c69f61ecb0305815e9e29d2195721fd755e031bc67</link>
+      <guid isPermaLink="false">df4cf8726588d4de5ec037c69f61ecb0305815e9e29d2195721fd755e031bc67</guid>
+      <pubDate>Tue, 17 Feb 2026 04:10:41 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>5. Hope Moves - 2/16/2026</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=d9443be09c3b30d23fd046aeaf0b241361cde876c90eb06c97a649c95f5fe2b0</link>
@@ -4991,16 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=e4fa7ecf5420184cf6df0b896f406c5a05003e633926831e4701480cfe1ce4e2</link>
       <guid isPermaLink="false">e4fa7ecf5420184cf6df0b896f406c5a05003e633926831e4701480cfe1ce4e2</guid>
       <pubDate>Mon, 12 May 2025 06:31:11 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 4d95748fbd</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=4d95748fbd9050c69d96e4f38635aa349302d5d85ed8ac410c1591bc7daade8c</link>
-      <guid isPermaLink="false">4d95748fbd9050c69d96e4f38635aa349302d5d85ed8ac410c1591bc7daade8c</guid>
-      <pubDate>Mon, 12 May 2025 01:18:02 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>

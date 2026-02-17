@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 17 Feb 2026 00:15:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 04:50:19 GMT</lastBuildDate>
+    <item>
+      <title>Verify Tool (in case anyone is interested)</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=df4cf8726588d4de5ec037c69f61ecb0305815e9e29d2195721fd755e031bc67</link>
+      <guid isPermaLink="false">df4cf8726588d4de5ec037c69f61ecb0305815e9e29d2195721fd755e031bc67</guid>
+      <pubDate>Tue, 17 Feb 2026 04:10:41 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>5. Hope Moves - 2/16/2026</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=d9443be09c3b30d23fd046aeaf0b241361cde876c90eb06c97a649c95f5fe2b0</link>
@@ -4991,16 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=e905c887c169d67ea27f3d7b321bac955e0afa2e7f699c416a01fc4cd2e598e8</link>
       <guid isPermaLink="false">e905c887c169d67ea27f3d7b321bac955e0afa2e7f699c416a01fc4cd2e598e8</guid>
       <pubDate>Thu, 22 May 2025 06:15:50 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 00b07ccaa7</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=00b07ccaa72ca0c52ea9b688147b6b7c4beb1ed494caaf4a8cabbc73b7d1e234</link>
-      <guid isPermaLink="false">00b07ccaa72ca0c52ea9b688147b6b7c4beb1ed494caaf4a8cabbc73b7d1e234</guid>
-      <pubDate>Thu, 22 May 2025 05:20:57 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
