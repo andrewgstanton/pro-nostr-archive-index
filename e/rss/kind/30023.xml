@@ -5,7 +5,117 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 14 Feb 2026 07:47:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 00:15:05 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Building Continuum — Chapter 8 — No One Asked Me to Build This</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1362273f5652f8d4eb3b33fcb286e3b55260f95558f6e7470ff4302e4ed3f377</link>
+      <guid isPermaLink="false">1362273f5652f8d4eb3b33fcb286e3b55260f95558f6e7470ff4302e4ed3f377</guid>
+      <pubDate>Tue, 17 Feb 2026 00:06:46 GMT</pubDate>
+      <description><![CDATA[Continuum did not begin with a grant, a job offer, or a market request. No one commissioned it. No one demanded it. This chapter explores the psychological isolation of building something uninvited — and the difference between being called and being validated.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum — Chapter 9 — The Friction with Existing Clients</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6631d62c3810190334eedd5f0373d0ef5cc0233aabd836e75d23d788e1b34501</link>
+      <guid isPermaLink="false">6631d62c3810190334eedd5f0373d0ef5cc0233aabd836e75d23d788e1b34501</guid>
+      <pubDate>Tue, 17 Feb 2026 00:06:02 GMT</pubDate>
+      <description><![CDATA[Existing Nostr clients worked. They were functional, even elegant. But friction exposed deeper architectural misalignment. This chapter explores why “good enough” was not enough — and how dissatisfaction became structural insight.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum — Chapter 10 — The Moment Identity Became Non-Negotiable</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9d4613e60a6b1fd2207c53b3012aedfe03c49e165fa8f96844ee08088bba0742</link>
+      <guid isPermaLink="false">9d4613e60a6b1fd2207c53b3012aedfe03c49e165fa8f96844ee08088bba0742</guid>
+      <pubDate>Tue, 17 Feb 2026 00:05:24 GMT</pubDate>
+      <description><![CDATA[There was a point where identity-first stopped being a preference and became a boundary. This chapter explores the internal snap — the realization that decentralization without custody is incomplete.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum — Chapter 7 — Durability Over Virality</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=780f2738a65cb176692b2cf9f83a740a41b902a67203890753fa187c4621ba83</link>
+      <guid isPermaLink="false">780f2738a65cb176692b2cf9f83a740a41b902a67203890753fa187c4621ba83</guid>
+      <pubDate>Tue, 17 Feb 2026 00:04:46 GMT</pubDate>
+      <description><![CDATA[Modern platforms optimize for engagement and amplification. Continuum rejects that metric. This chapter explores why durability — not reach — became the guiding principle, and why obscurity can be healthier than applause.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum — Chapter 6 — The Patron Model</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ef2741329da185b39aec9f1477ff476d2e3edd789d4ef61729afda5fd6a10bcc</link>
+      <guid isPermaLink="false">ef2741329da185b39aec9f1477ff476d2e3edd789d4ef61729afda5fd6a10bcc</guid>
+      <pubDate>Mon, 16 Feb 2026 22:30:03 GMT</pubDate>
+      <description><![CDATA[Continuum does not require massive infrastructure, venture capital, or cloud burn rates. Its real cost is time, focus, and conviction. This chapter explores why the patron model exists — not to fund servers, but to protect architectural independence and preserve alignment.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Permissionless Faith, Permissionless Code</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e925c6e1ca9c4633f22b5f63af21305df94278c90672c051ff5857bd49088a70</link>
+      <guid isPermaLink="false">e925c6e1ca9c4633f22b5f63af21305df94278c90672c051ff5857bd49088a70</guid>
+      <pubDate>Mon, 16 Feb 2026 22:15:02 GMT</pubDate>
+      <description><![CDATA[The same courage that fuels spiritual conviction fuels sovereign technology. This piece bridges faith and decentralized architecture.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>New Beginnings Do Not Need Gatekeepers</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b819ff8bdadd0a7a0598cad18c2d4ce5ea480070fb3672ce1d65f532f468fe75</link>
+      <guid isPermaLink="false">b819ff8bdadd0a7a0598cad18c2d4ce5ea480070fb3672ce1d65f532f468fe75</guid>
+      <pubDate>Mon, 16 Feb 2026 22:12:33 GMT</pubDate>
+      <description><![CDATA[True innovation rarely begins with institutional blessing. This essay reflects on how Sunday energy frees creators from waiting for approval.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The First Day: Build Anyway</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f54137fc9b4e22cca03bf42196612b4b1a3fa4cb2a714ebd047957b591790eb9</link>
+      <guid isPermaLink="false">f54137fc9b4e22cca03bf42196612b4b1a3fa4cb2a714ebd047957b591790eb9</guid>
+      <pubDate>Mon, 16 Feb 2026 22:10:42 GMT</pubDate>
+      <description><![CDATA[Sunday represents resurrection — the beginning of something that did not request approval. This piece ties spiritual renewal to sovereign creation.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Cathedral Is Built in Quiet</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=dca2583af4740a2bd6fe00872a7eb73fb712cf4b5f5659d79db3cb6cfdc1d074</link>
+      <guid isPermaLink="false">dca2583af4740a2bd6fe00872a7eb73fb712cf4b5f5659d79db3cb6cfdc1d074</guid>
+      <pubDate>Mon, 16 Feb 2026 22:08:54 GMT</pubDate>
+      <description><![CDATA[Great structures are not erected in noise. This reflection connects Sabbath stillness with long-term architectural thinking — both spiritual and technological.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Not Publishing Is Not Failing</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1b962c3047f8cde0f7229c87da94dfb5d2cbaaa7140795130e2029ad671f5231</link>
+      <guid isPermaLink="false">1b962c3047f8cde0f7229c87da94dfb5d2cbaaa7140795130e2029ad671f5231</guid>
+      <pubDate>Mon, 16 Feb 2026 22:07:10 GMT</pubDate>
+      <description><![CDATA[Silence can feel like regression for creators. This essay explores how deliberate non-output becomes a powerful act of sovereignty and trust.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Sabbath of Builders: Rest Without Asking</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5d59da60cde291b4313ad79d9a793e161e48f6d972e30702f9a56163fc33b338</link>
+      <guid isPermaLink="false">5d59da60cde291b4313ad79d9a793e161e48f6d972e30702f9a56163fc33b338</guid>
+      <pubDate>Mon, 16 Feb 2026 22:05:20 GMT</pubDate>
+      <description><![CDATA[What does it mean to rest when the world rewards output? This piece reflects on the tension between constant production and sacred pause — especially for builders who feel called to create without permission.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Building Continuum — Chap. 5 — The Irony of Local-First</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=4f45ca279e4f54931db428b8cf8ae4615ed242a86dd11fb488ee3102c5006fc7</link>
@@ -4892,116 +5002,6 @@
       <guid isPermaLink="false">9deaab099ee4e570548c3fb975eeb2035aca2eb9d6875bd47042961ec0345ba7</guid>
       <pubDate>Sat, 15 Nov 2025 06:17:35 GMT</pubDate>
       <description><![CDATA[Most people treat AI like magic. I treat it like engineering.This post breaks down how I use ChatGPT in an iterative, system-oriented way — just like writing and testing code. It’s not about hype or hacks. It’s about building with intention, clarity, and conviction.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Why I Left Web3 for Proof of Work – Part 5: Building Again</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c204f42638ccc124d6c0e614bb3cfab59c8c1860c99b298ea3ba6a6310d50909</link>
-      <guid isPermaLink="false">c204f42638ccc124d6c0e614bb3cfab59c8c1860c99b298ea3ba6a6310d50909</guid>
-      <pubDate>Sat, 15 Nov 2025 06:14:51 GMT</pubDate>
-      <description><![CDATA[Building after leaving Web3]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>First Test Article</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ad6a220afaec6ea1128657486dd175b37f29a3670920239b273d1bc24a5d8fb1</link>
-      <guid isPermaLink="false">ad6a220afaec6ea1128657486dd175b37f29a3670920239b273d1bc24a5d8fb1</guid>
-      <pubDate>Sat, 15 Nov 2025 06:11:53 GMT</pubDate>
-      <description><![CDATA[First Test Article]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Paid Article Teaser (Sept. 2, 2025) :  Disposable or Enduring?</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=86d87ce54eda1949a63dea0c67a0bdd78b6cd6be0b3289f833e0e733acb631b2</link>
-      <guid isPermaLink="false">86d87ce54eda1949a63dea0c67a0bdd78b6cd6be0b3289f833e0e733acb631b2</guid>
-      <pubDate>Sat, 15 Nov 2025 04:25:54 GMT</pubDate>
-      <description><![CDATA[When hype fades, disposable tech leaves us with nothing. Bitcoin leaves us with property that endures.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Odd, and at Home in the Open Field</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=257afdd49bead4689a5fa61bc8b96a237c27f0cceaf7b62ec5aae4caa50bea31</link>
-      <guid isPermaLink="false">257afdd49bead4689a5fa61bc8b96a237c27f0cceaf7b62ec5aae4caa50bea31</guid>
-      <pubDate>Sat, 15 Nov 2025 02:51:53 GMT</pubDate>
-      <description><![CDATA[This article highlights how Nostr opened new ways of thinking for me.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Parable of Bitcoin</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e0b263fc5f6ba09cd88ed293829a395f50ed9c00011d453d27b17e0a1598e3a6</link>
-      <guid isPermaLink="false">e0b263fc5f6ba09cd88ed293829a395f50ed9c00011d453d27b17e0a1598e3a6</guid>
-      <pubDate>Sat, 15 Nov 2025 02:49:45 GMT</pubDate>
-      <description><![CDATA[The Parable of Bitcoin explores how Bitcoin functions not just as technology, but as a modern parable of truth, value, sacrifice, and incorruptibility. Like treasure hidden in a field or a mustard seed that grows into shelter, Bitcoin reveals deeper realities: freedom requires cost, truth cannot be counterfeited, and enduring conviction matters more than early fortune. It is not the Kingdom, but it points toward the Kingdom — a signpost of incorruptible truth in a world of lies.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Sept. 2, 2025): Web3’s Mirage — Tokens, Ownership, and the Return of Disposability</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=dd41c310ad561fbc65d6f8dbec27244364fcb3d850cdd4fbb30f69fa4ba52e5d</link>
-      <guid isPermaLink="false">dd41c310ad561fbc65d6f8dbec27244364fcb3d850cdd4fbb30f69fa4ba52e5d</guid>
-      <pubDate>Sat, 15 Nov 2025 02:45:17 GMT</pubDate>
-      <description><![CDATA[Web3 promised permanence but delivered disposability. From EOS to Terra/LUNA, FTX to OpenSea, its projects collapsed when the hype faded. The ownership it offered was a mirage. Bitcoin alone provides incorruptible property that endures.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Discord Wasn’t the Problem — Platform Dependence Was</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=17be3a3ecde8d518892d629f94e9b649606d0be95a1cdc7732f5f0951aab9cfa</link>
-      <guid isPermaLink="false">17be3a3ecde8d518892d629f94e9b649606d0be95a1cdc7732f5f0951aab9cfa</guid>
-      <pubDate>Sat, 15 Nov 2025 01:44:48 GMT</pubDate>
-      <description><![CDATA[After Microsoft shut down Skype in May 2025, I realized how fragile our workflows really are. Moving to Discord wasn’t the issue — it was the wakeup call. This post traces how that moment led me to build MyContinuum: a sovereign stack for publishing, coding, and communicating without renting my own signal.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 13, 2025): Tiny On-Ramps: Turning Little Experiments into Real Income</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f27fe66f8bd2928961a599d77139ada21b896181111b0d9926b468b4563860d4</link>
-      <guid isPermaLink="false">f27fe66f8bd2928961a599d77139ada21b896181111b0d9926b468b4563860d4</guid>
-      <pubDate>Fri, 14 Nov 2025 21:48:20 GMT</pubDate>
-      <description><![CDATA[How small, messy experiments — like a YouTube kitchen channel or a random side gig — can become honest income streams without dragging you back into walled gardens or fake work.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 13, 2025): Real Work vs. Fake Work in a World That Runs on Optics</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=bf41de14222557c99d0e1e4900c68b14430da091cbdd41f087d5870f5eaf461b</link>
-      <guid isPermaLink="false">bf41de14222557c99d0e1e4900c68b14430da091cbdd41f087d5870f5eaf461b</guid>
-      <pubDate>Fri, 14 Nov 2025 05:01:20 GMT</pubDate>
-      <description><![CDATA[A personal look at the difference between “doing things that look like work” and doing work that actually moves the needle — in income, integrity, and long-term freedom.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 12, 2025): When the Noise Fades</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7cd0593757475b9422a5b61be41389a948a72138928fc4540d5ca3c0e0167e60</link>
-      <guid isPermaLink="false">7cd0593757475b9422a5b61be41389a948a72138928fc4540d5ca3c0e0167e60</guid>
-      <pubDate>Thu, 13 Nov 2025 04:37:44 GMT</pubDate>
-      <description><![CDATA[After the celebrations and the noise comes something deeper — a peace that reveals what truly matters and what was never needed in the first place.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 12, 2025): The Discipline of Staying True</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=cabbc6b5f86631f9ade9ed6facbef00f1d394319ead693aba6e470b87966efbc</link>
-      <guid isPermaLink="false">cabbc6b5f86631f9ade9ed6facbef00f1d394319ead693aba6e470b87966efbc</guid>
-      <pubDate>Thu, 13 Nov 2025 04:33:28 GMT</pubDate>
-      <description><![CDATA[After the vows and the milestones comes the real work — the daily discipline of staying true in a world that prizes novelty over endurance.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

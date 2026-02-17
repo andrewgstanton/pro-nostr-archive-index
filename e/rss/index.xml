@@ -5,7 +5,297 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 14 Feb 2026 07:47:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 00:15:05 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Building Continuum — Chapter 8 — No One Asked Me to Build This</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1362273f5652f8d4eb3b33fcb286e3b55260f95558f6e7470ff4302e4ed3f377</link>
+      <guid isPermaLink="false">1362273f5652f8d4eb3b33fcb286e3b55260f95558f6e7470ff4302e4ed3f377</guid>
+      <pubDate>Tue, 17 Feb 2026 00:06:46 GMT</pubDate>
+      <description><![CDATA[Continuum did not begin with a grant, a job offer, or a market request. No one commissioned it. No one demanded it. This chapter explores the psychological isolation of building something uninvited — and the difference between being called and being validated.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum — Chapter 9 — The Friction with Existing Clients</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6631d62c3810190334eedd5f0373d0ef5cc0233aabd836e75d23d788e1b34501</link>
+      <guid isPermaLink="false">6631d62c3810190334eedd5f0373d0ef5cc0233aabd836e75d23d788e1b34501</guid>
+      <pubDate>Tue, 17 Feb 2026 00:06:02 GMT</pubDate>
+      <description><![CDATA[Existing Nostr clients worked. They were functional, even elegant. But friction exposed deeper architectural misalignment. This chapter explores why “good enough” was not enough — and how dissatisfaction became structural insight.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum — Chapter 10 — The Moment Identity Became Non-Negotiable</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9d4613e60a6b1fd2207c53b3012aedfe03c49e165fa8f96844ee08088bba0742</link>
+      <guid isPermaLink="false">9d4613e60a6b1fd2207c53b3012aedfe03c49e165fa8f96844ee08088bba0742</guid>
+      <pubDate>Tue, 17 Feb 2026 00:05:24 GMT</pubDate>
+      <description><![CDATA[There was a point where identity-first stopped being a preference and became a boundary. This chapter explores the internal snap — the realization that decentralization without custody is incomplete.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum — Chapter 7 — Durability Over Virality</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=780f2738a65cb176692b2cf9f83a740a41b902a67203890753fa187c4621ba83</link>
+      <guid isPermaLink="false">780f2738a65cb176692b2cf9f83a740a41b902a67203890753fa187c4621ba83</guid>
+      <pubDate>Tue, 17 Feb 2026 00:04:46 GMT</pubDate>
+      <description><![CDATA[Modern platforms optimize for engagement and amplification. Continuum rejects that metric. This chapter explores why durability — not reach — became the guiding principle, and why obscurity can be healthier than applause.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum — Chapter 6 — The Patron Model</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ef2741329da185b39aec9f1477ff476d2e3edd789d4ef61729afda5fd6a10bcc</link>
+      <guid isPermaLink="false">ef2741329da185b39aec9f1477ff476d2e3edd789d4ef61729afda5fd6a10bcc</guid>
+      <pubDate>Mon, 16 Feb 2026 22:30:03 GMT</pubDate>
+      <description><![CDATA[Continuum does not require massive infrastructure, venture capital, or cloud burn rates. Its real cost is time, focus, and conviction. This chapter explores why the patron model exists — not to fund servers, but to protect architectural independence and preserve alignment.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Permissionless Faith, Permissionless Code</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e925c6e1ca9c4633f22b5f63af21305df94278c90672c051ff5857bd49088a70</link>
+      <guid isPermaLink="false">e925c6e1ca9c4633f22b5f63af21305df94278c90672c051ff5857bd49088a70</guid>
+      <pubDate>Mon, 16 Feb 2026 22:15:02 GMT</pubDate>
+      <description><![CDATA[The same courage that fuels spiritual conviction fuels sovereign technology. This piece bridges faith and decentralized architecture.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>New Beginnings Do Not Need Gatekeepers</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b819ff8bdadd0a7a0598cad18c2d4ce5ea480070fb3672ce1d65f532f468fe75</link>
+      <guid isPermaLink="false">b819ff8bdadd0a7a0598cad18c2d4ce5ea480070fb3672ce1d65f532f468fe75</guid>
+      <pubDate>Mon, 16 Feb 2026 22:12:33 GMT</pubDate>
+      <description><![CDATA[True innovation rarely begins with institutional blessing. This essay reflects on how Sunday energy frees creators from waiting for approval.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The First Day: Build Anyway</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f54137fc9b4e22cca03bf42196612b4b1a3fa4cb2a714ebd047957b591790eb9</link>
+      <guid isPermaLink="false">f54137fc9b4e22cca03bf42196612b4b1a3fa4cb2a714ebd047957b591790eb9</guid>
+      <pubDate>Mon, 16 Feb 2026 22:10:42 GMT</pubDate>
+      <description><![CDATA[Sunday represents resurrection — the beginning of something that did not request approval. This piece ties spiritual renewal to sovereign creation.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Cathedral Is Built in Quiet</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=dca2583af4740a2bd6fe00872a7eb73fb712cf4b5f5659d79db3cb6cfdc1d074</link>
+      <guid isPermaLink="false">dca2583af4740a2bd6fe00872a7eb73fb712cf4b5f5659d79db3cb6cfdc1d074</guid>
+      <pubDate>Mon, 16 Feb 2026 22:08:54 GMT</pubDate>
+      <description><![CDATA[Great structures are not erected in noise. This reflection connects Sabbath stillness with long-term architectural thinking — both spiritual and technological.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Not Publishing Is Not Failing</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1b962c3047f8cde0f7229c87da94dfb5d2cbaaa7140795130e2029ad671f5231</link>
+      <guid isPermaLink="false">1b962c3047f8cde0f7229c87da94dfb5d2cbaaa7140795130e2029ad671f5231</guid>
+      <pubDate>Mon, 16 Feb 2026 22:07:10 GMT</pubDate>
+      <description><![CDATA[Silence can feel like regression for creators. This essay explores how deliberate non-output becomes a powerful act of sovereignty and trust.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Sabbath of Builders: Rest Without Asking</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5d59da60cde291b4313ad79d9a793e161e48f6d972e30702f9a56163fc33b338</link>
+      <guid isPermaLink="false">5d59da60cde291b4313ad79d9a793e161e48f6d972e30702f9a56163fc33b338</guid>
+      <pubDate>Mon, 16 Feb 2026 22:05:20 GMT</pubDate>
+      <description><![CDATA[What does it mean to rest when the world rewards output? This piece reflects on the tension between constant production and sacred pause — especially for builders who feel called to create without permission.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>5. Hope Moves - 2/16/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d9443be09c3b30d23fd046aeaf0b241361cde876c90eb06c97a649c95f5fe2b0</link>
+      <guid isPermaLink="false">d9443be09c3b30d23fd046aeaf0b241361cde876c90eb06c97a649c95f5fe2b0</guid>
+      <pubDate>Mon, 16 Feb 2026 21:37:17 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>4. Direction Is Chosen - 2/16/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=fdac792c095c66fdc5463c511ad85bf1db2974cd198526a6c392d21be9c53ec4</link>
+      <guid isPermaLink="false">fdac792c095c66fdc5463c511ad85bf1db2974cd198526a6c392d21be9c53ec4</guid>
+      <pubDate>Mon, 16 Feb 2026 21:35:12 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>3. Progress Is Often Invisible - 2/16/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6cdcd3b7c8345854bbe1e0ee8b2f908fd8250f72092f9c0432bc9bd29349b09c</link>
+      <guid isPermaLink="false">6cdcd3b7c8345854bbe1e0ee8b2f908fd8250f72092f9c0432bc9bd29349b09c</guid>
+      <pubDate>Mon, 16 Feb 2026 21:31:36 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>2. Alignment Over Applause - 2/16/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=56b4abe7e7e47e122d17af1d9acea5f3a3e38c5491b8f2eee4cdcdc8537d060c</link>
+      <guid isPermaLink="false">56b4abe7e7e47e122d17af1d9acea5f3a3e38c5491b8f2eee4cdcdc8537d060c</guid>
+      <pubDate>Mon, 16 Feb 2026 21:30:29 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>1. I Move When It’s Time - 2/16/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d41194a0ec96a59f63462739b2b5088ff0dd11fb58540dbb84be41dee09a843a</link>
+      <guid isPermaLink="false">d41194a0ec96a59f63462739b2b5088ff0dd11fb58540dbb84be41dee09a843a</guid>
+      <pubDate>Mon, 16 Feb 2026 21:29:55 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>5. Rest Clarifies Direction - 2/15/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b55f18d1866fc2da64c5cebfae8ce771a469c348a68389bb5825b3d5dcab8441</link>
+      <guid isPermaLink="false">b55f18d1866fc2da64c5cebfae8ce771a469c348a68389bb5825b3d5dcab8441</guid>
+      <pubDate>Mon, 16 Feb 2026 21:27:54 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>4. Conviction Is Quiet Strength - 2/15/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=8343e764ff6deaeb99f30eb6825f9a8bb4d93505b6874b2878256ba1169a42f4</link>
+      <guid isPermaLink="false">8343e764ff6deaeb99f30eb6825f9a8bb4d93505b6874b2878256ba1169a42f4</guid>
+      <pubDate>Mon, 16 Feb 2026 21:27:14 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>3. Builders Make the First Move - 2/15/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=20516d80548f952ae688f9bbe6f871df0b23056e40714379aa67387dc222eb7f</link>
+      <guid isPermaLink="false">20516d80548f952ae688f9bbe6f871df0b23056e40714379aa67387dc222eb7f</guid>
+      <pubDate>Mon, 16 Feb 2026 21:26:41 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>2. Initiative Is a Muscle - 2/15/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3639c22539af275994ae2f823adbebff303210e757953ded268c4d2a22285818</link>
+      <guid isPermaLink="false">3639c22539af275994ae2f823adbebff303210e757953ded268c4d2a22285818</guid>
+      <pubDate>Mon, 16 Feb 2026 21:26:05 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>1. Silence Doesn’t Change Direction. - 2/15/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e2faae5da897223185406334cf03a9aab3b3e00552285784d15a468190c23fed</link>
+      <guid isPermaLink="false">e2faae5da897223185406334cf03a9aab3b3e00552285784d15a468190c23fed</guid>
+      <pubDate>Mon, 16 Feb 2026 21:24:34 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>5. Early Feels Quiet - 2/14/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=0e7b6aa74084402077bb4d7b902072570d4f50cbb3b0c7f7558d2b8d89175743</link>
+      <guid isPermaLink="false">0e7b6aa74084402077bb4d7b902072570d4f50cbb3b0c7f7558d2b8d89175743</guid>
+      <pubDate>Mon, 16 Feb 2026 21:23:20 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>4. Small Circles Are Stronger - 2/14/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=530b57dc72b190f46ba242fa65884d73068597ec6cdc29770c2a5ab1aa456b9c</link>
+      <guid isPermaLink="false">530b57dc72b190f46ba242fa65884d73068597ec6cdc29770c2a5ab1aa456b9c</guid>
+      <pubDate>Mon, 16 Feb 2026 21:21:06 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>3. Direct Action Beats Passive Hope - 2/14/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2e7511d4b7c7258d7bcba6fa7c8006d76f1fa6a0a48558d977e07304709354e9</link>
+      <guid isPermaLink="false">2e7511d4b7c7258d7bcba6fa7c8006d76f1fa6a0a48558d977e07304709354e9</guid>
+      <pubDate>Mon, 16 Feb 2026 21:20:21 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>2. Validation Is Not a Requirement - 2/14/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5e79344ade0b94deead5525486a9598df470144b419b4bbec37f8996980d8f42</link>
+      <guid isPermaLink="false">5e79344ade0b94deead5525486a9598df470144b419b4bbec37f8996980d8f42</guid>
+      <pubDate>Mon, 16 Feb 2026 21:19:34 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>1. I Don’t Wait for Permission - 2/14/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=49f223265b7ca4b04172bfb03144e89e2899bd86900a417ade6e6709e73e50f6</link>
+      <guid isPermaLink="false">49f223265b7ca4b04172bfb03144e89e2899bd86900a417ade6e6709e73e50f6</guid>
+      <pubDate>Mon, 16 Feb 2026 21:15:50 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Demo of Continuum - 2/15/2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=744ee9393a4ab634c0186d1dbb70d70e51bb2144d33f570ab7e3279f027cc2fc</link>
+      <guid isPermaLink="false">744ee9393a4ab634c0186d1dbb70d70e51bb2144d33f570ab7e3279f027cc2fc</guid>
+      <pubDate>Mon, 16 Feb 2026 01:42:41 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 55703d320d</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=55703d320ddb7028be247922582628d0fbf1ede1c871fc979e513a42eb52992f</link>
+      <guid isPermaLink="false">55703d320ddb7028be247922582628d0fbf1ede1c871fc979e513a42eb52992f</guid>
+      <pubDate>Sun, 15 Feb 2026 18:38:46 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 7237c082a1</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7237c082a1800ce4612ab464efbb2aad1f6eceec0ea9e74638262cfe869eda21</link>
+      <guid isPermaLink="false">7237c082a1800ce4612ab464efbb2aad1f6eceec0ea9e74638262cfe869eda21</guid>
+      <pubDate>Sun, 15 Feb 2026 07:08:25 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Substack Publishing on Continuum</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=97cd88c109e9abfbf0820ee48e6a173ea70f0ce5f78f2a975ec8cc50bf6b6610</link>
@@ -4713,296 +5003,6 @@
       <pubDate>Mon, 22 Dec 2025 21:55:54 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>2025 Year in Review</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3105275bc38277228d3e331c1a1de307f6fed87e64caeadaeb7666d4864348f1</link>
-      <guid isPermaLink="false">3105275bc38277228d3e331c1a1de307f6fed87e64caeadaeb7666d4864348f1</guid>
-      <pubDate>Mon, 22 Dec 2025 19:51:01 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 706c8a0410</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=706c8a04102745528cb9256d11891b3c46889dc80ffe46058d62ae327767f9b3</link>
-      <guid isPermaLink="false">706c8a04102745528cb9256d11891b3c46889dc80ffe46058d62ae327767f9b3</guid>
-      <pubDate>Mon, 22 Dec 2025 01:13:50 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Grief Comes in Sets</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5549abe2d8871dab45b50b88719d387204a5716ecc4ce8973aab7cd6eb39f442</link>
-      <guid isPermaLink="false">5549abe2d8871dab45b50b88719d387204a5716ecc4ce8973aab7cd6eb39f442</guid>
-      <pubDate>Mon, 22 Dec 2025 01:12:44 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Different Practices, Same Instinct</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=95481ef0c637971c4e548f20232def1edef5d72cb7191040421a9006e2117cce</link>
-      <guid isPermaLink="false">95481ef0c637971c4e548f20232def1edef5d72cb7191040421a9006e2117cce</guid>
-      <pubDate>Mon, 22 Dec 2025 01:11:06 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Hope for the New Year</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c17a0077d2339eaf06d9f7d06b07061c80c3129c4d2317d6840cf5855fabbfbe</link>
-      <guid isPermaLink="false">c17a0077d2339eaf06d9f7d06b07061c80c3129c4d2317d6840cf5855fabbfbe</guid>
-      <pubDate>Mon, 22 Dec 2025 01:08:19 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Staying in the Water</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=1066c9304f18ff9c5e15d865233fdb43e02e91bc4b3a33da43fdfa84dfcd38d5</link>
-      <guid isPermaLink="false">1066c9304f18ff9c5e15d865233fdb43e02e91bc4b3a33da43fdfa84dfcd38d5</guid>
-      <pubDate>Mon, 22 Dec 2025 00:12:12 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>What Freedom Really Is</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=8539594eda6f4e6e20ad5ae43e078ddff3dbd9be4773b4dc1e0aa24870949253</link>
-      <guid isPermaLink="false">8539594eda6f4e6e20ad5ae43e078ddff3dbd9be4773b4dc1e0aa24870949253</guid>
-      <pubDate>Mon, 22 Dec 2025 00:09:11 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Freedom Comes in Waves</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7d80bb06940a4243a3a0d5705af8921b40678a985e6711d3946d359f4b51ff0c</link>
-      <guid isPermaLink="false">7d80bb06940a4243a3a0d5705af8921b40678a985e6711d3946d359f4b51ff0c</guid>
-      <pubDate>Sun, 21 Dec 2025 23:06:49 GMT</pubDate>
-      <description><![CDATA[This essay reflects on freedom and sovereignty through the lens of surfing, written from the perspective of someone who does not surf but has watched a brother use the ocean as a way to cope with grief. In a year marked by shared trauma and loss, writing and surfing become parallel practices — different responses to the same weight — each honoring agency, patience, and the choice to remain present in a world that does not bend to us.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 65f6c6eedc</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=65f6c6eedc7406f9aa3905ecf781c7c7625737de9b029889473086b1259d8277</link>
-      <guid isPermaLink="false">65f6c6eedc7406f9aa3905ecf781c7c7625737de9b029889473086b1259d8277</guid>
-      <pubDate>Sun, 21 Dec 2025 19:02:25 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 c716834e05</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c716834e0569374acce9873c3780fdb7a3815b2dea4fda2939fe0770d758deaa</link>
-      <guid isPermaLink="false">c716834e0569374acce9873c3780fdb7a3815b2dea4fda2939fe0770d758deaa</guid>
-      <pubDate>Sun, 21 Dec 2025 18:42:16 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Freedom Is Not the Absence of Constraint</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=860f2f30b65faee49df8d191aeff4a273f89ef2545e8e9288ea5398891ac0632</link>
-      <guid isPermaLink="false">860f2f30b65faee49df8d191aeff4a273f89ef2545e8e9288ea5398891ac0632</guid>
-      <pubDate>Sun, 21 Dec 2025 00:24:06 GMT</pubDate>
-      <description><![CDATA[Modern culture often equates freedom with the removal of limits. This essay argues that freedom does not emerge from weightlessness, but from rightly ordered constraint — and that the collapse of constraint produces drift, fragility, and quiet forms of control.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sovereignty Begins Where Delegation Ends</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ff6dd53dfe1fe0320bfa0d2aa727fbe632d11726013f7e968ef79bc53c01501b</link>
-      <guid isPermaLink="false">ff6dd53dfe1fe0320bfa0d2aa727fbe632d11726013f7e968ef79bc53c01501b</guid>
-      <pubDate>Sun, 21 Dec 2025 00:19:31 GMT</pubDate>
-      <description><![CDATA[Modern life encourages the outsourcing of responsibility — for memory, judgment, identity, and decision-making. This essay argues that sovereignty begins when we reclaim what should never have been delegated.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Freedom Requires Memory</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=40a2a07c1b5be550570356c47e0ae5437c65adc6897bd0928da7a272eac3e2ef</link>
-      <guid isPermaLink="false">40a2a07c1b5be550570356c47e0ae5437c65adc6897bd0928da7a272eac3e2ef</guid>
-      <pubDate>Sun, 21 Dec 2025 00:16:57 GMT</pubDate>
-      <description><![CDATA[Freedom is often framed as the ability to choose in the present. This essay argues that freedom depends on continuity — the capacity to remember commitments, history, failures, and truths that resist revision. Without memory, freedom thins into impulse and becomes easy to manage.v]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Freedom Is Not the Right to Be Unaffected</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=76c5cecd6713d37af26b225986d4f98ee27a06a04ea24fbeeb8dff1a29905cbb</link>
-      <guid isPermaLink="false">76c5cecd6713d37af26b225986d4f98ee27a06a04ea24fbeeb8dff1a29905cbb</guid>
-      <pubDate>Sun, 21 Dec 2025 00:13:57 GMT</pubDate>
-      <description><![CDATA[Modern notions of freedom increasingly assume insulation from consequence — emotional, social, or moral. This essay argues that freedom does not mean being untouched by others, but being answerable within reality.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 718db7dc93</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=718db7dc93d1a263cd2ec6e60ee3a917c413dd4b423c38975fb89df2c4a75ef1</link>
-      <guid isPermaLink="false">718db7dc93d1a263cd2ec6e60ee3a917c413dd4b423c38975fb89df2c4a75ef1</guid>
-      <pubDate>Sat, 20 Dec 2025 21:13:16 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 5df1585786</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5df1585786658ff298907bdb382595ee796212cd8dbf1c8bef1d2ead273acff0</link>
-      <guid isPermaLink="false">5df1585786658ff298907bdb382595ee796212cd8dbf1c8bef1d2ead273acff0</guid>
-      <pubDate>Sat, 20 Dec 2025 21:10:58 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sunday Article (Dec. 21, 2025): God Enters the Ordinary</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7c7f7feb9737a12600bb0f0be9fd3aa1b0409f6681721aa74d46db8a4bade630</link>
-      <guid isPermaLink="false">7c7f7feb9737a12600bb0f0be9fd3aa1b0409f6681721aa74d46db8a4bade630</guid>
-      <pubDate>Sat, 20 Dec 2025 21:08:48 GMT</pubDate>
-      <description><![CDATA[Christmas is often imagined as interruption or spectacle, but the Incarnation unfolds almost entirely within the ordinary. This Sunday reflection considers how God chooses to enter history quietly, relationally, and without exemption from human limitation — and why that choice still shapes what faithfulness looks like now.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Dec. 21, 2025): Hope Without Optimism</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7cf60e8f65bbd67b723ef9d7776861e4876e505d4ce2a3b2c1df178929cf7d70</link>
-      <guid isPermaLink="false">7cf60e8f65bbd67b723ef9d7776861e4876e505d4ce2a3b2c1df178929cf7d70</guid>
-      <pubDate>Sat, 20 Dec 2025 21:05:34 GMT</pubDate>
-      <description><![CDATA[Christmas hope is often confused with optimism — the belief that things will improve, resolve, or turn out well. This essay reflects on a deeper, quieter hope revealed by the Incarnation: hope that does not depend on conditions, momentum, or visible progress, but endures precisely when those things are absent.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Dec. 21, 2025): The Light Does Not Ask Permission</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=197a020c8a47af21fafeb921d2e9a96dd47602fe62710b489fbfea061babdb8c</link>
-      <guid isPermaLink="false">197a020c8a47af21fafeb921d2e9a96dd47602fe62710b489fbfea061babdb8c</guid>
-      <pubDate>Sat, 20 Dec 2025 21:03:55 GMT</pubDate>
-      <description><![CDATA[Christmas is often framed as comfort or reassurance, but the Incarnation is neither sentimental nor negotiated. This Sunday reflection explores how Christ enters history without asking permission from power, systems, or consensus — and why true light does not require validation to be real.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sabbath Article (Dec. 20, 2025): Sabbath in a Tight Season</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2594d99e6fa55561fb603966a48d9d72d7e932fb90db0275989c864e17215de7</link>
-      <guid isPermaLink="false">2594d99e6fa55561fb603966a48d9d72d7e932fb90db0275989c864e17215de7</guid>
-      <pubDate>Sat, 20 Dec 2025 21:02:05 GMT</pubDate>
-      <description><![CDATA[Sabbath is often framed as rest that flows from abundance, margin, or completion. This reflection explores Sabbath in a tighter, harder register — as rest practiced under constraint, uncertainty, and waiting. It reflects on what Sabbath means when there is no surplus, and why that form of rest may be closer to its original intent.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Dec. 20, 2025) : The Incarnation Does Not Optimize</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e872b1de3e8e14568d9ed2bd6795310f9450c2880493122929750a519374598d</link>
-      <guid isPermaLink="false">e872b1de3e8e14568d9ed2bd6795310f9450c2880493122929750a519374598d</guid>
-      <pubDate>Sat, 20 Dec 2025 20:59:03 GMT</pubDate>
-      <description><![CDATA[Modern systems are built to optimize — speed, scale, efficiency, growth. Christmas tells a different story. This essay reflects on the Incarnation as a deliberate refusal of optimization, and why God entering the world through limitation, obscurity, and vulnerability challenges every system that equates power with acceleration.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Dec. 20, 2025): Advent Is Not Delay — It Is Discipline</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=59119a7f00355e312a94dbcd4eea61a1b919c6be98f049b265c865caaadf1493</link>
-      <guid isPermaLink="false">59119a7f00355e312a94dbcd4eea61a1b919c6be98f049b265c865caaadf1493</guid>
-      <pubDate>Sat, 20 Dec 2025 20:56:41 GMT</pubDate>
-      <description><![CDATA[Advent is often treated as a sentimental countdown to Christmas, but it is something far more demanding. This essay explores Advent as a discipline of waiting — not passive delay, but active formation — and why waiting is essential in a world addicted to immediacy, leverage, and optimization.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Why I’m writing the Bitcoin Chronicles</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=08f05b6bab31977b312ceb2755d03436cb5aa44a1aca0dac321d7ba325b005f9</link>
-      <guid isPermaLink="false">08f05b6bab31977b312ceb2755d03436cb5aa44a1aca0dac321d7ba325b005f9</guid>
-      <pubDate>Sat, 20 Dec 2025 20:02:52 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>On Freedom</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=db8918148f49c0789589745f3269ba021107a8b29734f07ef2319977b2081e3a</link>
-      <guid isPermaLink="false">db8918148f49c0789589745f3269ba021107a8b29734f07ef2319977b2081e3a</guid>
-      <pubDate>Sat, 20 Dec 2025 19:44:55 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>On Sovereignty</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=db922f4df519434762bc3f71205ee2414ebb702cc338184de81252626cfbb755</link>
-      <guid isPermaLink="false">db922f4df519434762bc3f71205ee2414ebb702cc338184de81252626cfbb755</guid>
-      <pubDate>Sat, 20 Dec 2025 19:42:38 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Why I’m experimenting with monetization on Nostr (without vendor lock-in)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7744ff34c30f9dac5f27b9312d7a7d935213163fdd94cb4e805721cfa4713b40</link>
-      <guid isPermaLink="false">7744ff34c30f9dac5f27b9312d7a7d935213163fdd94cb4e805721cfa4713b40</guid>
-      <pubDate>Sat, 20 Dec 2025 19:39:43 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Why do I write articles instead of posting notes?</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=176d45ea909d1252fc8000a67e0752e5800bcdf7c9b6cbd01392d305232c2648</link>
-      <guid isPermaLink="false">176d45ea909d1252fc8000a67e0752e5800bcdf7c9b6cbd01392d305232c2648</guid>
-      <pubDate>Sat, 20 Dec 2025 19:32:55 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 d0814a2e39</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d0814a2e39b8e675645c646b0d490742f5714758afe86502bf15701799a2b39e</link>
-      <guid isPermaLink="false">d0814a2e39b8e675645c646b0d490742f5714758afe86502bf15701799a2b39e</guid>
-      <pubDate>Sat, 20 Dec 2025 19:10:25 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒  The Illusion of Safety</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7d82d49fdb9811136968e31d5099e90e847e46df50bbe93a34195a3dfb0611fc</link>
-      <guid isPermaLink="false">7d82d49fdb9811136968e31d5099e90e847e46df50bbe93a34195a3dfb0611fc</guid>
-      <pubDate>Sat, 20 Dec 2025 01:48:02 GMT</pubDate>
-      <description><![CDATA[Modern institutions increasingly justify friction, surveillance, and control in the name of safety. This essay argues that much of what is labeled “security” today is actually liability management — systems designed to protect institutions from blame rather than people from harm. True safety does not emerge from endless verification or procedural opacity, but from accountability, legibility, and agency. A world optimized for legal defensibility may feel secure, yet leave individuals more exposed than before.]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
