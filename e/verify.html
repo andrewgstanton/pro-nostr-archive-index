@@ -21,7 +21,7 @@
   <h1>Verify Archived Event</h1>
   <p class="muted">Verification runs locally in your browser. This tool does not query relays; it only verifies JSON.</p>
 
-  <div class="row" >
+  <div class="row" style="display:none" >
     <label><strong>src</strong> — JSON URL in this archive</label>
     <input id="src" placeholder="./path/to/event.json" />
   </div>
@@ -32,7 +32,7 @@
   </div>
 
   <div class="row">
-    <button id="loadBtn">Load JSON</button>
+    <button id="loadBtn" style="display:none" >Load JSON</button>
     <button id="verifyBtn">Verify</button>
   </div>
 
