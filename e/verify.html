@@ -147,7 +147,7 @@
         const evLoaded = await loadFromSrc();
         raw = JSON.stringify(evLoaded);
       }
-      if (!raw) throw new Error("Paste event JSON or provide src and click Load.");
+      if (!raw) throw new Error("Paste event JSON and click Verify.");
 
       const ev = normalizeEvent(JSON.parse(raw));
       const computedId = getEventHash(ev);
