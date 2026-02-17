@@ -22,18 +22,23 @@
   <p class="muted">Verification runs locally in your browser. This tool does not query relays; it only verifies JSON.</p>
 
   <div class="row">
+    <label><strong>src (required)</strong> — JSON URL in this archive</label>
+    <input id="src" placeholder="./path/to/event.json" />
+  </div>
+
+  <div class="row">
     <label><strong>npub (optional)</strong></label>
     <input id="npub" placeholder="npub1..." />
   </div>
 
+  <div class="row">
+    <button id="loadBtn">Load JSON</button>
+    <button id="verifyBtn">Verify</button>
+  </div>
 
   <div class="row">
     <label><strong>Event JSON</strong></label>
     <textarea id="eventJson" placeholder='{"id":"...","pubkey":"...","created_at":...,"kind":...,"tags":[...],"content":"...","sig":"..."}'></textarea>
-  </div>
-
-  <div class="row">
-    <button id="verifyBtn">Verify</button>
   </div>
 
   <div class="row box" id="output">
