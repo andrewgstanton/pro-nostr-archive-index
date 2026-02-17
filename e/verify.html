@@ -125,7 +125,7 @@
     const ok = sigValid && idMatches && (npubProvided ? pubkeyMatchesNpub : true);
     lines.push(`<hr/>`);
     lines.push(ok
-      ? `<div class="ok"><strong>Conclusion:</strong> This archived event is cryptographically valid${npubProvided ? " and matches the provided npub." : "."}</div>`
+      ? `<div class="ok"><strong>Conclusion:</strong> This event is cryptographically valid${npubProvided ? " and matches the provided npub." : "."}</div>`
       : `<div class="bad"><strong>Conclusion:</strong> Verification failed (see checks above).</div>`
     );
     return lines.join("\n");
