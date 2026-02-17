@@ -993,5 +993,60 @@
     "slug": "-building-continuum--chap-5--the-irony-of-local-first-2026-02-13",
     "event_id": "4f45ca279e4f54931db428b8cf8ae4615ed242a86dd11fb488ee3102c5006fc7",
     "created_at": 1771012409
+  },
+  {
+    "slug": "the-sabbath-of-builders-rest-without-asking",
+    "event_id": "5d59da60cde291b4313ad79d9a793e161e48f6d972e30702f9a56163fc33b338",
+    "created_at": 1771279520
+  },
+  {
+    "slug": "not-publishing-is-not-failing",
+    "event_id": "1b962c3047f8cde0f7229c87da94dfb5d2cbaaa7140795130e2029ad671f5231",
+    "created_at": 1771279630
+  },
+  {
+    "slug": "the-cathedral-is-built-in-quiet",
+    "event_id": "dca2583af4740a2bd6fe00872a7eb73fb712cf4b5f5659d79db3cb6cfdc1d074",
+    "created_at": 1771279734
+  },
+  {
+    "slug": "the-first-day-build-anyway",
+    "event_id": "f54137fc9b4e22cca03bf42196612b4b1a3fa4cb2a714ebd047957b591790eb9",
+    "created_at": 1771279842
+  },
+  {
+    "slug": "new-beginnings-do-not-need-gatekeepers",
+    "event_id": "b819ff8bdadd0a7a0598cad18c2d4ce5ea480070fb3672ce1d65f532f468fe75",
+    "created_at": 1771279953
+  },
+  {
+    "slug": "permissionless-faith-permissionless-code",
+    "event_id": "e925c6e1ca9c4633f22b5f63af21305df94278c90672c051ff5857bd49088a70",
+    "created_at": 1771280102
+  },
+  {
+    "slug": "-building-continuum--chapter-6--the-patron-model-2026-02-16",
+    "event_id": "ef2741329da185b39aec9f1477ff476d2e3edd789d4ef61729afda5fd6a10bcc",
+    "created_at": 1771281003
+  },
+  {
+    "slug": "building-continuum--chapter-7--durability-over-virality-2026-02-16",
+    "event_id": "780f2738a65cb176692b2cf9f83a740a41b902a67203890753fa187c4621ba83",
+    "created_at": 1771286686
+  },
+  {
+    "slug": "building-continuum--chapter-10--the-moment-identity-became-non-negotiable-2026-02-16",
+    "event_id": "9d4613e60a6b1fd2207c53b3012aedfe03c49e165fa8f96844ee08088bba0742",
+    "created_at": 1771286724
+  },
+  {
+    "slug": "building-continuum--chapter-9--the-friction-with-existing-clients-2026-02-16",
+    "event_id": "6631d62c3810190334eedd5f0373d0ef5cc0233aabd836e75d23d788e1b34501",
+    "created_at": 1771286762
+  },
+  {
+    "slug": "building-continuum--chapter-8--no-one-asked-me-to-build-this-2026-02-16",
+    "event_id": "1362273f5652f8d4eb3b33fcb286e3b55260f95558f6e7470ff4302e4ed3f377",
+    "created_at": 1771286806
   }
 ]
