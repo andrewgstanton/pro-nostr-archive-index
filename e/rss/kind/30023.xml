@@ -5,7 +5,7 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 19 Feb 2026 08:38:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 08:53:19 GMT</lastBuildDate>
     <item>
       <title>🔒 Building Continuum - Chapter 20 — The Refusal</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=d77af8fefdfc07492981e2572e3d5536a56840722ddc242d81726ab952608fe1</link>
@@ -3367,11 +3367,11 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>kind:30023 93fc8aa654</title>
+      <title>Free Article 2 (Sept. 4, 2025): Builders of the New Frontier</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=93fc8aa6546db9318c461338dbf00d1056949651d43145cfcc9c79a947b4fb99</link>
       <guid isPermaLink="false">93fc8aa6546db9318c461338dbf00d1056949651d43145cfcc9c79a947b4fb99</guid>
       <pubDate>Sat, 13 Dec 2025 01:04:29 GMT</pubDate>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[A sci-fi infused reflection on how Bitcoin and open protocols provide the foundation for new frontiers — from imagined Mars colonies to today’s digital landscape. Emphasizes the quiet hope of builders who create resilient communities.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
