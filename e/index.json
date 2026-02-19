@@ -1,5 +1,17 @@
 [
   {
+    "slug": "advisory--collaboration-policy",
+    "event_id": "c85e1bc7f0b925120ce5f0ae9680a9be6860b168755d922f5e8f556707b923ef",
+    "created_at": 1771491278,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/c85e1bc7f0b925120ce5f0ae9680a9be6860b168755d922f5e8f556707b923ef.json",
+    "title": "",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
     "slug": null,
     "event_id": "de212f7bc57d81f8f4cbd8cff52bf352c48339f693ed6ee892d7aae7052b5dfc",
     "created_at": 1771489595,
@@ -4769,7 +4781,7 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/5ca9b2c5989c9cdbc41c021ce4bde3674317b242d8e76dbbf63db62be0ef1ed5.json",
-    "title": "The Water We Swim In - 1/6/2026",
+    "title": "",
     "summary": "",
     "paid": false
   },
