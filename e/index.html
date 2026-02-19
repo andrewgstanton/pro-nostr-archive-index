@@ -389,7 +389,9 @@
         }
 
         // Show "Unpublished" banner if this entry is explicitly unpublished
-        if (entry.published === false) {
+        const isUnpublished = (entry.published === false);
+
+        if (isUnpublished) {
           const el = document.getElementById("unpublished-banner");
           if (el) el.style.display = "block";
         }        
@@ -473,11 +475,13 @@
             ${verifyLinkHtml}
             <a href="${mdUrl}" target="_blank">Markdown (if exists)</a>
             <a href="${pdfUrl}" target="_blank">PDF (if exists)</a>
-            <a href="https://primal.net/p/${npub}" target="_blank">Primal</a>
-            <a href="https://coracle.social/${npub}" target="_blank">Coracle</a>
-            <a href="https://phoenix.social/${npub}" target="_blank">Snort</a>
-            <a href="https://iris.to/${npub}" target="_blank">Iris</a>
-            <a href="https://njump.me/${npub}" target="_blank">njump</a>
+            ${!isUnpublished ? `
+              <a href="https://primal.net/p/${npub}" target="_blank">Primal</a>
+              <a href="https://coracle.social/${npub}" target="_blank">Coracle</a>
+              <a href="https://phoenix.social/${npub}" target="_blank">Snort</a>
+              <a href="https://iris.to/${npub}" target="_blank">Iris</a>
+              <a href="https://njump.me/${npub}" target="_blank">njump</a>
+            ` : ``}
           `;
         } else {
           linksEl.innerHTML = `
@@ -485,12 +489,15 @@
             ${verifyLinkHtml}
             <a href="${mdUrl}" target="_blank">Markdown (if exists)</a>
             <a href="${pdfUrl}" target="_blank">PDF (if exists)</a>
-            <a href="https://primal.net/e/${eid}" target="_blank">Primal</a>
-            <a href="https://coracle.social/notes/${eid}" target="_blank">Coracle</a>
-            <a href="https://phoenix.social/e/${eid}" target="_blank">Phoenix</a>
-            <a href="https://njump.me/${eid}" target="_blank">njump</a>
+            ${!isUnpublished ? `
+              <a href="https://primal.net/e/${eid}" target="_blank">Primal</a>
+              <a href="https://coracle.social/notes/${eid}" target="_blank">Coracle</a>
+              <a href="https://phoenix.social/e/${eid}" target="_blank">Phoenix</a>
+              <a href="https://njump.me/${eid}" target="_blank">njump</a>
+            ` : ``}
           `;
         }
+
                 
         linksEl.style.display = "block";
   
