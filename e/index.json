@@ -1,5 +1,126 @@
 [
   {
+    "slug": null,
+    "event_id": "de212f7bc57d81f8f4cbd8cff52bf352c48339f693ed6ee892d7aae7052b5dfc",
+    "created_at": 1771489595,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/de212f7bc57d81f8f4cbd8cff52bf352c48339f693ed6ee892d7aae7052b5dfc.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "-building-continuum---chapter-20--the-refusal-2026-02-18",
+    "event_id": "d77af8fefdfc07492981e2572e3d5536a56840722ddc242d81726ab952608fe1",
+    "created_at": 1771487632,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/d77af8fefdfc07492981e2572e3d5536a56840722ddc242d81726ab952608fe1.json",
+    "title": "🔒 Building Continuum - Chapter 20 — The Refusal",
+    "summary": "After doubt, grief, financial strain, and interrogation of ego, quitting would have been understandable. Instead, something quieter formed—not defiance, not ambition, but refusal. This chapter explores how conviction hardens into identity, and how continuing became less about success and more about coherence.",
+    "paid": false
+  },
+  {
+    "slug": "-building-continuum---chapter-19--the-temptation-to-quit-2026-02-18",
+    "event_id": "5a9e4710fe9e5e211d50e70d1894d4dbc547404e4d99f827616aca84d1d84e56",
+    "created_at": 1771487273,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/5a9e4710fe9e5e211d50e70d1894d4dbc547404e4d99f827616aca84d1d84e56.json",
+    "title": "🔒 Building Continuum - Chapter 19 — The Temptation to Quit",
+    "summary": "In late July 2025, a close family conversation cast doubt on Continuum’s seriousness. Eight weeks later, Andrew’s father passed away. Financial strain intensified. Writing accelerated. This chapter explores grief, doubt, relief through structure, and the quiet temptation to abandon the work that was simultaneously stabilizing him.",
+    "paid": false
+  },
+  {
+    "slug": "-building-continuum---chapter-18--am-i-performing-2026-02-18",
+    "event_id": "c19d28beb0c5b4ffbc050f26a4874230332aef976da4935b1163f8bcf0ca0ebf",
+    "created_at": 1771486265,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/c19d28beb0c5b4ffbc050f26a4874230332aef976da4935b1163f8bcf0ca0ebf.json",
+    "title": "🔒 Building Continuum - Chapter 18 — Am I Performing?",
+    "summary": "As the article count approached 700 and Bitcoin Chronicles expanded into hundreds of chapters, a sharper question emerged: is this discipline—or performance? AI acceleration, high velocity, and modest reception forced a confrontation with ego, authenticity, and the fear of “slopification.”",
+    "paid": false
+  },
+  {
+    "slug": "-building-continuum---chapter-17--the-ache-of-being-misunderstood-2026-02-18",
+    "event_id": "2f6f83281139a27d1803d55e4d1d11028bf1455ee38b5360c9887dee021d276f",
+    "created_at": 1771485009,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/2f6f83281139a27d1803d55e4d1d11028bf1455ee38b5360c9887dee021d276f.json",
+    "title": "🔒 Building Continuum - Chapter 17 — The Ache of Being Misunderstood",
+    "summary": "What began in mid-August 2025 as a contained six-part essay series titled *Bitcoin Chronicles* quietly expanded into hundreds of chapters—historical, theological, technological, philosophical. As Continuum’s features matured in parallel and the article count climbed toward 700, the broader ecosystem remained focused on spectacle. This chapter explores the ache of building something layered and enduring while appearing out of sync with the moment.",
+    "paid": false
+  },
+  {
+    "slug": "-buildilng-continuum---chapter-16--five-notes-three-articles-2026-02-18",
+    "event_id": "61c4fe2c0d72282c457e2f627af44012b7ae005439f2bd209259a23a7152a780",
+    "created_at": 1771484159,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/61c4fe2c0d72282c457e2f627af44012b7ae005439f2bd209259a23a7152a780.json",
+    "title": "🔒 Buildilng Continuum - Chapter 16 — Five Notes, Three Articles",
+    "summary": "In mid-August 2025, output stopped being accidental and became structural. Five notes. Three articles. Every day. Discipline first. AI acceleration second. As the article count climbed toward 700, silence did not disappear—but conviction hardened.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "299af26ee8fd52ede83b3aa8f84feba797b8cdb4fb8f5a1dc35a1693fb9f5518",
+    "created_at": 1771479913,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/299af26ee8fd52ede83b3aa8f84feba797b8cdb4fb8f5a1dc35a1693fb9f5518.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "22ce74db2f03a664733ef041a3025f40d802c8ddab3ccbdcc339087dec8bbdea",
+    "created_at": 1771479850,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/22ce74db2f03a664733ef041a3025f40d802c8ddab3ccbdcc339087dec8bbdea.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "41e773ba2ebd664124efd106637061d7e4372f45523bb8e516055e7f0614e331",
+    "created_at": 1771479732,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/41e773ba2ebd664124efd106637061d7e4372f45523bb8e516055e7f0614e331.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "e82a4857e085ff18b9d758fd501a7a3e2f047e0f80478ea5572cd1cc187b769f",
+    "created_at": 1771479684,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/e82a4857e085ff18b9d758fd501a7a3e2f047e0f80478ea5572cd1cc187b769f.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "6ba0a1803792d6bb3833847da078d90205bd678df72d1ad1407ae71eee71448e",
+    "created_at": 1771479294,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/6ba0a1803792d6bb3833847da078d90205bd678df72d1ad1407ae71eee71448e.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "-building-continuum---chapter-15--custody-as-spiritual-discipline-2026-02-17",
     "event_id": "446fd806b939b86c0bffb24e4720cfdc8a77a8e1416f36278b7ab4acf50ecd9f",
     "created_at": 1771367092,
@@ -8839,8 +8960,8 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 30023,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/93fc8aa6546db9318c461338dbf00d1056949651d43145cfcc9c79a947b4fb99.json",
-    "title": "Free Article 2 (Sept. 4, 2025): Builders of the New Frontier",
-    "summary": "A sci-fi infused reflection on how Bitcoin and open protocols provide the foundation for new frontiers — from imagined Mars colonies to today’s digital landscape. Emphasizes the quiet hope of builders who create resilient communities.",
+    "title": "",
+    "summary": "",
     "paid": false
   },
   {
