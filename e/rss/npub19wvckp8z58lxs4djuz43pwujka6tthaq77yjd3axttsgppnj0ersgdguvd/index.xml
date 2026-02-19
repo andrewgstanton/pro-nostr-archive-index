@@ -5,7 +5,7 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 19 Feb 2026 08:53:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 21:01:34 GMT</lastBuildDate>
     <item>
       <title>kind:1 de212f7bc5</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=de212f7bc57d81f8f4cbd8cff52bf352c48339f693ed6ee892d7aae7052b5dfc</link>
@@ -3827,7 +3827,7 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>The Water We Swim In - 1/6/2026</title>
+      <title>kind:1 5ca9b2c598</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=5ca9b2c5989c9cdbc41c021ce4bde3674317b242d8e76dbbf63db62be0ef1ed5</link>
       <guid isPermaLink="false">5ca9b2c5989c9cdbc41c021ce4bde3674317b242d8e76dbbf63db62be0ef1ed5</guid>
       <pubDate>Wed, 07 Jan 2026 07:40:30 GMT</pubDate>
