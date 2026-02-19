@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 19 Feb 2026 21:01:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 21:16:02 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 29b684ed5e</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=29b684ed5e0ea7bc89a07bbd243e7f3b73fc5a6edb2888d2a54d13e8c6b65015</link>
+      <guid isPermaLink="false">29b684ed5e0ea7bc89a07bbd243e7f3b73fc5a6edb2888d2a54d13e8c6b65015</guid>
+      <pubDate>Thu, 19 Feb 2026 18:30:35 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 de212f7bc5</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=de212f7bc57d81f8f4cbd8cff52bf352c48339f693ed6ee892d7aae7052b5dfc</link>
@@ -3827,7 +3837,7 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>kind:1 5ca9b2c598</title>
+      <title>The Water We Swim In - 1/6/2026</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=5ca9b2c5989c9cdbc41c021ce4bde3674317b242d8e76dbbf63db62be0ef1ed5</link>
       <guid isPermaLink="false">5ca9b2c5989c9cdbc41c021ce4bde3674317b242d8e76dbbf63db62be0ef1ed5</guid>
       <pubDate>Wed, 07 Jan 2026 07:40:30 GMT</pubDate>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">418a6d33bc6f4b236f9a73a562c707b57d7c244520cfe44a45ee17670f840259</guid>
       <pubDate>Wed, 24 Dec 2025 00:57:06 GMT</pubDate>
       <description><![CDATA[An anchor essay describing the Solar System after the frontier phase had passed—when the Moon, Mars, Europa, and the Belt became mature, pleasant places to live, even as expansion continued elsewhere.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Dec. 23, 2025): The Bitcoin Chronicles - 1.F.1.1 - Elias Walker of the the Long Break</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=00202693ab92fa7fe90ef9b60cf3b7c5c3a104e9468ec589cb394ebcad41816d</link>
-      <guid isPermaLink="false">00202693ab92fa7fe90ef9b60cf3b7c5c3a104e9468ec589cb394ebcad41816d</guid>
-      <pubDate>Wed, 24 Dec 2025 00:43:23 GMT</pubDate>
-      <description><![CDATA[A quiet portrait of Elias Walker, born after the Long Break, living on a Kepler world where sovereignty is no longer debated but simply lived.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

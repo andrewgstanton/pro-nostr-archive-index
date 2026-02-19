@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 19 Feb 2026 08:53:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 21:16:01 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 29b684ed5e</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=29b684ed5e0ea7bc89a07bbd243e7f3b73fc5a6edb2888d2a54d13e8c6b65015</link>
+      <guid isPermaLink="false">29b684ed5e0ea7bc89a07bbd243e7f3b73fc5a6edb2888d2a54d13e8c6b65015</guid>
+      <pubDate>Thu, 19 Feb 2026 18:30:35 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 de212f7bc5</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=de212f7bc57d81f8f4cbd8cff52bf352c48339f693ed6ee892d7aae7052b5dfc</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">90840ef279748c2ce7ca4f46dd153b6a20af65098ebf899c307f6116c27a90b0</guid>
       <pubDate>Wed, 24 Dec 2025 22:01:25 GMT</pubDate>
       <description><![CDATA[After centuries of theory and experimentation, the first fully verified entanglement bridge confirms instantaneous cryptographic truth across planetary distance—ending light-lag consensus and forcing civilization to confront simultaneity as fact.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🌍 Free Article 2 (Oct 17 2025): The Bitcoin Chronicles: The Entanglement Bridge Experiments</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a66c5b8a30150bd851f7e2961074e9beceef6029cbe185080c1817d2bb31e3f8</link>
-      <guid isPermaLink="false">a66c5b8a30150bd851f7e2961074e9beceef6029cbe185080c1817d2bb31e3f8</guid>
-      <pubDate>Wed, 24 Dec 2025 21:50:39 GMT</pubDate>
-      <description><![CDATA[After centuries of failed attempts, degradation, and partial successes, Belt and Lunar researchers conduct the final generation of entanglement experiments—seeking not rebellion or spectacle, but reproducible truth beyond light-speed delay.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

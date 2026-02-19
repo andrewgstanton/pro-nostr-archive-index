@@ -1,12 +1,23 @@
 [
   {
+    "slug": null,
+    "event_id": "29b684ed5e0ea7bc89a07bbd243e7f3b73fc5a6edb2888d2a54d13e8c6b65015",
+    "created_at": 1771525835,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/29b684ed5e0ea7bc89a07bbd243e7f3b73fc5a6edb2888d2a54d13e8c6b65015.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "advisory--collaboration-policy",
     "event_id": "c85e1bc7f0b925120ce5f0ae9680a9be6860b168755d922f5e8f556707b923ef",
     "created_at": 1771491278,
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 30023,
     "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/c85e1bc7f0b925120ce5f0ae9680a9be6860b168755d922f5e8f556707b923ef.json",
-    "title": "",
+    "title": "Advisory & Collaboration Policy",
     "summary": "",
     "paid": false,
     "published": false
@@ -4781,7 +4792,7 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/5ca9b2c5989c9cdbc41c021ce4bde3674317b242d8e76dbbf63db62be0ef1ed5.json",
-    "title": "",
+    "title": "The Water We Swim In - 1/6/2026",
     "summary": "",
     "paid": false
   },
