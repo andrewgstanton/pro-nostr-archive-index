@@ -5,7 +5,57 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 19 Feb 2026 22:34:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 02:49:43 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Building Continuum - Chapter 22 — AI and the Centralization Wave</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2bfff4c812a4bed7f1fe0576f3cd579c5ed9ddcdd064e1859d90829bdaa27a23</link>
+      <guid isPermaLink="false">2bfff4c812a4bed7f1fe0576f3cd579c5ed9ddcdd064e1859d90829bdaa27a23</guid>
+      <pubDate>Fri, 20 Feb 2026 01:51:03 GMT</pubDate>
+      <description><![CDATA[Artificial intelligence amplifies existing infrastructure concentration. Training large-scale models requires capital, data aggregation, and specialized hardware — conditions that naturally consolidate power. When AI inference is delivered exclusively via cloud APIs, access to cognition becomes mediated by identity and billing systems. This chapter explores how AI intensifies dependency dynamics, why the issue is structural rather than conspiratorial, and why identity portability becomes more critical as inference centralizes.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum - Chapter 23 — Local-First as Moral Constraint</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e2fcd097b32da40757fcef48dfd754ec0120d0da7bb3d341d1dc23e1eaf0092d</link>
+      <guid isPermaLink="false">e2fcd097b32da40757fcef48dfd754ec0120d0da7bb3d341d1dc23e1eaf0092d</guid>
+      <pubDate>Fri, 20 Feb 2026 01:50:23 GMT</pubDate>
+      <description><![CDATA[Local-first architecture introduces friction by design. It limits seamlessness, slows certain workflows, and requires user awareness. These limitations are not regressions. They are constraints. This chapter explores how constraint functions as formative structure, why convenience culture erodes agency over time, and how local-first systems preserve dignity by requiring participation rather than passive tenancy.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum - Chapter 24 — Power, Custody, and Authority</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=8010e372abde00a9250e3f82517806f36e5697dde087bbca2876a85b6a3e978e</link>
+      <guid isPermaLink="false">8010e372abde00a9250e3f82517806f36e5697dde087bbca2876a85b6a3e978e</guid>
+      <pubDate>Fri, 20 Feb 2026 01:49:27 GMT</pubDate>
+      <description><![CDATA[Every digital system encodes an answer to a quiet question: who ultimately decides? Decisions about access, identity, publication, and record permanence are often treated as policy issues, but they are architectural first. This chapter explores how authority is embedded in infrastructure, how moderation and account systems concentrate control, and why custody redistributes baseline power without collapsing social order. Sovereignty here is defined not as isolation, but as structural dignity.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum - Chapter 25 — Exit as Structural Right</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7379e1ed7abb64bcf70b504155698be50dc43ca32db892dff3bebbeab9a52805</link>
+      <guid isPermaLink="false">7379e1ed7abb64bcf70b504155698be50dc43ca32db892dff3bebbeab9a52805</guid>
+      <pubDate>Fri, 20 Feb 2026 01:48:51 GMT</pubDate>
+      <description><![CDATA[Exit is often misunderstood as disloyalty or rebellion. In architectural terms, exit is the proof of voluntary participation. Systems that allow full data export, identity portability, and independent archival demonstrate confidence. Systems that complicate departure reveal dependency. This chapter explores exit as structural dignity — not hostility — and why portability must be embedded in design rather than promised in policy.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum - Chapter 21 — Cloud as Dependency Engine</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=02980f4a38db0673ef010112bddcc88270009ef5bed13e512b2a8983dde57a4e</link>
+      <guid isPermaLink="false">02980f4a38db0673ef010112bddcc88270009ef5bed13e512b2a8983dde57a4e</guid>
+      <pubDate>Fri, 20 Feb 2026 01:48:11 GMT</pubDate>
+      <description><![CDATA[Cloud infrastructure reshaped modern computing by abstracting complexity and enabling rapid scale. Its advantages are real. But abstraction concentrates authority. This chapter examines how subscription economics, remote hosting, and accumulated data gravity create structural dependency — not through malice, but through architecture — and why local-first design seeks to rebalance that asymmetry without rejecting the cloud entirely.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Building Continuum - Chapter 20 — The Refusal</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=d77af8fefdfc07492981e2572e3d5536a56840722ddc242d81726ab952608fe1</link>
@@ -4952,56 +5002,6 @@
       <guid isPermaLink="false">853df05fdd04182a5c10f2f165103d21a389d2dddc7e9b3b4dcb95556b968402</guid>
       <pubDate>Sat, 15 Nov 2025 06:59:05 GMT</pubDate>
       <description><![CDATA[A personal reflection on turning 60—looking back at a decade of transformation from dismissing Bitcoin as “tech for tech’s sake” to embracing it as a framework for truth, alignment, and intentional living. The post traces a journey of pruning, repentance, and recommitment to building a life rooted in faith, purpose, and conviction. It speaks to those in transition, encouraging them that the second half of life can be the truest chapter yet.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>📝 Free Article 2 (Day 1 - Aug. 24, 2025): Three Questions to Test Sovereignty</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=268b730bf2eb4b28cfddd9dee6a6ea184989789c3a39bd5b837c8a529734b48d</link>
-      <guid isPermaLink="false">268b730bf2eb4b28cfddd9dee6a6ea184989789c3a39bd5b837c8a529734b48d</guid>
-      <pubDate>Sat, 15 Nov 2025 06:57:32 GMT</pubDate>
-      <description><![CDATA[A simple test you can apply to any platform, network, or income stream.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>What Does Work Look Like in a Deflationary Economy?</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=70f51b0d1a47debf5db73dca5a206725ef18b92d3e7d78fc622e088aaba9dce6</link>
-      <guid isPermaLink="false">70f51b0d1a47debf5db73dca5a206725ef18b92d3e7d78fc622e088aaba9dce6</guid>
-      <pubDate>Sat, 15 Nov 2025 06:56:02 GMT</pubDate>
-      <description><![CDATA[This post explores how work transforms in a deflationary economy inspired by Bitcoin. Instead of chasing endless hustle, workers are freed to choose meaningful, purpose-driven labor that endures. It contrasts today’s inflationary “race to keep up” with a slower, more deliberate future—one that values savings, truth, and craft over speed and monetization. Includes a personal invitation to connect with others walking this path.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>How I Built a Decentralized CMS with Nostr + GitHub Actions — Part 2</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=65e4991ab079fe3edce13389714d95ae971618b4fe2a4ac668a23f9e210b3808</link>
-      <guid isPermaLink="false">65e4991ab079fe3edce13389714d95ae971618b4fe2a4ac668a23f9e210b3808</guid>
-      <pubDate>Sat, 15 Nov 2025 06:53:45 GMT</pubDate>
-      <description><![CDATA[Refinements, resilience, and real-world usage. In this follow-up to Part 1, I document how I styled and streamlined my Nostr-based CMS — including relay deduplication, HTML fixes, GitHub Actions automation, and thoughtful publishing defaults — all running on free infrastructure I control.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Bitcoin Offsets Depreciation: A Long-Term Thesis for Business Owners and Builders</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=bda07608ff52a5f427e1f5d008ffedc18ca4d0a6c2c7ea0c47842f0262d67bb5</link>
-      <guid isPermaLink="false">bda07608ff52a5f427e1f5d008ffedc18ca4d0a6c2c7ea0c47842f0262d67bb5</guid>
-      <pubDate>Sat, 15 Nov 2025 06:49:53 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Part 4: Judgment as Purification, Not Final Defeat</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=43361c86292371780b37fdaf72d0b97e362c16eac57185f315c20bf62f5a6dd3</link>
-      <guid isPermaLink="false">43361c86292371780b37fdaf72d0b97e362c16eac57185f315c20bf62f5a6dd3</guid>
-      <pubDate>Sat, 15 Nov 2025 06:40:14 GMT</pubDate>
-      <description><![CDATA[This is part 4 and the final part of our series.  Judgment in Scripture is real and severe, but never final defeat. Its purpose is purification, not endless torment. The fire burns away what cannot last, so that reconciliation and restoration may come.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

@@ -5,7 +5,57 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 19 Feb 2026 22:34:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 02:49:43 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Building Continuum - Chapter 22 — AI and the Centralization Wave</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2bfff4c812a4bed7f1fe0576f3cd579c5ed9ddcdd064e1859d90829bdaa27a23</link>
+      <guid isPermaLink="false">2bfff4c812a4bed7f1fe0576f3cd579c5ed9ddcdd064e1859d90829bdaa27a23</guid>
+      <pubDate>Fri, 20 Feb 2026 01:51:03 GMT</pubDate>
+      <description><![CDATA[Artificial intelligence amplifies existing infrastructure concentration. Training large-scale models requires capital, data aggregation, and specialized hardware — conditions that naturally consolidate power. When AI inference is delivered exclusively via cloud APIs, access to cognition becomes mediated by identity and billing systems. This chapter explores how AI intensifies dependency dynamics, why the issue is structural rather than conspiratorial, and why identity portability becomes more critical as inference centralizes.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum - Chapter 23 — Local-First as Moral Constraint</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e2fcd097b32da40757fcef48dfd754ec0120d0da7bb3d341d1dc23e1eaf0092d</link>
+      <guid isPermaLink="false">e2fcd097b32da40757fcef48dfd754ec0120d0da7bb3d341d1dc23e1eaf0092d</guid>
+      <pubDate>Fri, 20 Feb 2026 01:50:23 GMT</pubDate>
+      <description><![CDATA[Local-first architecture introduces friction by design. It limits seamlessness, slows certain workflows, and requires user awareness. These limitations are not regressions. They are constraints. This chapter explores how constraint functions as formative structure, why convenience culture erodes agency over time, and how local-first systems preserve dignity by requiring participation rather than passive tenancy.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum - Chapter 24 — Power, Custody, and Authority</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=8010e372abde00a9250e3f82517806f36e5697dde087bbca2876a85b6a3e978e</link>
+      <guid isPermaLink="false">8010e372abde00a9250e3f82517806f36e5697dde087bbca2876a85b6a3e978e</guid>
+      <pubDate>Fri, 20 Feb 2026 01:49:27 GMT</pubDate>
+      <description><![CDATA[Every digital system encodes an answer to a quiet question: who ultimately decides? Decisions about access, identity, publication, and record permanence are often treated as policy issues, but they are architectural first. This chapter explores how authority is embedded in infrastructure, how moderation and account systems concentrate control, and why custody redistributes baseline power without collapsing social order. Sovereignty here is defined not as isolation, but as structural dignity.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum - Chapter 25 — Exit as Structural Right</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7379e1ed7abb64bcf70b504155698be50dc43ca32db892dff3bebbeab9a52805</link>
+      <guid isPermaLink="false">7379e1ed7abb64bcf70b504155698be50dc43ca32db892dff3bebbeab9a52805</guid>
+      <pubDate>Fri, 20 Feb 2026 01:48:51 GMT</pubDate>
+      <description><![CDATA[Exit is often misunderstood as disloyalty or rebellion. In architectural terms, exit is the proof of voluntary participation. Systems that allow full data export, identity portability, and independent archival demonstrate confidence. Systems that complicate departure reveal dependency. This chapter explores exit as structural dignity — not hostility — and why portability must be embedded in design rather than promised in policy.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum - Chapter 21 — Cloud as Dependency Engine</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=02980f4a38db0673ef010112bddcc88270009ef5bed13e512b2a8983dde57a4e</link>
+      <guid isPermaLink="false">02980f4a38db0673ef010112bddcc88270009ef5bed13e512b2a8983dde57a4e</guid>
+      <pubDate>Fri, 20 Feb 2026 01:48:11 GMT</pubDate>
+      <description><![CDATA[Cloud infrastructure reshaped modern computing by abstracting complexity and enabling rapid scale. Its advantages are real. But abstraction concentrates authority. This chapter examines how subscription economics, remote hosting, and accumulated data gravity create structural dependency — not through malice, but through architecture — and why local-first design seeks to rebalance that asymmetry without rejecting the cloud entirely.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Building Continuum - Chapter 20 — The Refusal</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=d77af8fefdfc07492981e2572e3d5536a56840722ddc242d81726ab952608fe1</link>
@@ -4952,66 +5002,6 @@
       <guid isPermaLink="false">7cd0593757475b9422a5b61be41389a948a72138928fc4540d5ca3c0e0167e60</guid>
       <pubDate>Thu, 13 Nov 2025 04:37:44 GMT</pubDate>
       <description><![CDATA[After the celebrations and the noise comes something deeper — a peace that reveals what truly matters and what was never needed in the first place.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 12, 2025): The Discipline of Staying True</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=cabbc6b5f86631f9ade9ed6facbef00f1d394319ead693aba6e470b87966efbc</link>
-      <guid isPermaLink="false">cabbc6b5f86631f9ade9ed6facbef00f1d394319ead693aba6e470b87966efbc</guid>
-      <pubDate>Thu, 13 Nov 2025 04:33:28 GMT</pubDate>
-      <description><![CDATA[After the vows and the milestones comes the real work — the daily discipline of staying true in a world that prizes novelty over endurance.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 11, 2025): Building for the Ones Who Come After</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3e06f3b82c2236db9e66d96de37f18d91d8e3a9c595a850b32ecc8be49df9e60</link>
-      <guid isPermaLink="false">3e06f3b82c2236db9e66d96de37f18d91d8e3a9c595a850b32ecc8be49df9e60</guid>
-      <pubDate>Thu, 13 Nov 2025 04:24:02 GMT</pubDate>
-      <description><![CDATA[A reflection on marriage, legacy, and the slow architecture of love — what it means to build something that endures beyond our own lifetime.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 11, 2025): The Long Arc of Fidelity</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=721158c2a72c6c7241ea0dfc54de8f9c64eb6eb8fb4389dda3d2a43fcbc0477e</link>
-      <guid isPermaLink="false">721158c2a72c6c7241ea0dfc54de8f9c64eb6eb8fb4389dda3d2a43fcbc0477e</guid>
-      <pubDate>Thu, 13 Nov 2025 04:18:37 GMT</pubDate>
-      <description><![CDATA[A meditation on twenty-five years of marriage — what remains after the seasons, and how love matures into something deeper than feeling.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Why I Left Web3 for Proof of Work – Part 4: Proof of Work as Philosophy</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=bbbb71f5b732f4628b388635f5f9e30873db6f35b79304ed0e644390e37f757c</link>
-      <guid isPermaLink="false">bbbb71f5b732f4628b388635f5f9e30873db6f35b79304ed0e644390e37f757c</guid>
-      <pubDate>Tue, 11 Nov 2025 02:12:38 GMT</pubDate>
-      <description><![CDATA[Web3 talked a lot about freedom — but it didn’t ask much of me.
-Bitcoin didn’t say much — but it demanded everything.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Why I Left Web3 for Proof of Work – Part 3: The Return</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=fff4681dd7eaf2921e85651f0fd4029cf871e61cf8d2affb24035e898c95649f</link>
-      <guid isPermaLink="false">fff4681dd7eaf2921e85651f0fd4029cf871e61cf8d2affb24035e898c95649f</guid>
-      <pubDate>Tue, 11 Nov 2025 01:50:10 GMT</pubDate>
-      <description><![CDATA[This wasn’t a dramatic comeback. It was quieter than that — a slow return to something I never truly left.
-
-Bitcoin didn’t lure me back. It waited — with proof, not promises.
-Reading The Bitcoin Standard reframed not just money, but time, trust, and work itself.
-I stopped chasing. I started pruning. I began rebuilding — from conviction, not consensus.
-
-Sometimes returning isn’t about going backward.
-It’s about finally going deeper.
-
-]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

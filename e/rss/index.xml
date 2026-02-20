@@ -5,7 +5,57 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 19 Feb 2026 22:34:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 02:49:43 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Building Continuum - Chapter 22 — AI and the Centralization Wave</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2bfff4c812a4bed7f1fe0576f3cd579c5ed9ddcdd064e1859d90829bdaa27a23</link>
+      <guid isPermaLink="false">2bfff4c812a4bed7f1fe0576f3cd579c5ed9ddcdd064e1859d90829bdaa27a23</guid>
+      <pubDate>Fri, 20 Feb 2026 01:51:03 GMT</pubDate>
+      <description><![CDATA[Artificial intelligence amplifies existing infrastructure concentration. Training large-scale models requires capital, data aggregation, and specialized hardware — conditions that naturally consolidate power. When AI inference is delivered exclusively via cloud APIs, access to cognition becomes mediated by identity and billing systems. This chapter explores how AI intensifies dependency dynamics, why the issue is structural rather than conspiratorial, and why identity portability becomes more critical as inference centralizes.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum - Chapter 23 — Local-First as Moral Constraint</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e2fcd097b32da40757fcef48dfd754ec0120d0da7bb3d341d1dc23e1eaf0092d</link>
+      <guid isPermaLink="false">e2fcd097b32da40757fcef48dfd754ec0120d0da7bb3d341d1dc23e1eaf0092d</guid>
+      <pubDate>Fri, 20 Feb 2026 01:50:23 GMT</pubDate>
+      <description><![CDATA[Local-first architecture introduces friction by design. It limits seamlessness, slows certain workflows, and requires user awareness. These limitations are not regressions. They are constraints. This chapter explores how constraint functions as formative structure, why convenience culture erodes agency over time, and how local-first systems preserve dignity by requiring participation rather than passive tenancy.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum - Chapter 24 — Power, Custody, and Authority</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=8010e372abde00a9250e3f82517806f36e5697dde087bbca2876a85b6a3e978e</link>
+      <guid isPermaLink="false">8010e372abde00a9250e3f82517806f36e5697dde087bbca2876a85b6a3e978e</guid>
+      <pubDate>Fri, 20 Feb 2026 01:49:27 GMT</pubDate>
+      <description><![CDATA[Every digital system encodes an answer to a quiet question: who ultimately decides? Decisions about access, identity, publication, and record permanence are often treated as policy issues, but they are architectural first. This chapter explores how authority is embedded in infrastructure, how moderation and account systems concentrate control, and why custody redistributes baseline power without collapsing social order. Sovereignty here is defined not as isolation, but as structural dignity.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum - Chapter 25 — Exit as Structural Right</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7379e1ed7abb64bcf70b504155698be50dc43ca32db892dff3bebbeab9a52805</link>
+      <guid isPermaLink="false">7379e1ed7abb64bcf70b504155698be50dc43ca32db892dff3bebbeab9a52805</guid>
+      <pubDate>Fri, 20 Feb 2026 01:48:51 GMT</pubDate>
+      <description><![CDATA[Exit is often misunderstood as disloyalty or rebellion. In architectural terms, exit is the proof of voluntary participation. Systems that allow full data export, identity portability, and independent archival demonstrate confidence. Systems that complicate departure reveal dependency. This chapter explores exit as structural dignity — not hostility — and why portability must be embedded in design rather than promised in policy.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum - Chapter 21 — Cloud as Dependency Engine</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=02980f4a38db0673ef010112bddcc88270009ef5bed13e512b2a8983dde57a4e</link>
+      <guid isPermaLink="false">02980f4a38db0673ef010112bddcc88270009ef5bed13e512b2a8983dde57a4e</guid>
+      <pubDate>Fri, 20 Feb 2026 01:48:11 GMT</pubDate>
+      <description><![CDATA[Cloud infrastructure reshaped modern computing by abstracting complexity and enabling rapid scale. Its advantages are real. But abstraction concentrates authority. This chapter examines how subscription economics, remote hosting, and accumulated data gravity create structural dependency — not through malice, but through architecture — and why local-first design seeks to rebalance that asymmetry without rejecting the cloud entirely.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 29b684ed5e</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=29b684ed5e0ea7bc89a07bbd243e7f3b73fc5a6edb2888d2a54d13e8c6b65015</link>
@@ -4953,56 +5003,6 @@
       <pubDate>Thu, 25 Dec 2025 02:10:23 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - Christmas On Europa</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3c5c1456eac7e077016afe206cb3401808bb237d1d189f11bbd870f6842709c9</link>
-      <guid isPermaLink="false">3c5c1456eac7e077016afe206cb3401808bb237d1d189f11bbd870f6842709c9</guid>
-      <pubDate>Wed, 24 Dec 2025 23:56:27 GMT</pubDate>
-      <description><![CDATA[Beneath Europa’s ice, far from sunlight and spectacle, settlers kept Christmas quietly—measured not by distance or delay, but by the discipline of tending life where it should not exist.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.F.0.2.- The Epoch Ledgers</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=89e0be08212a76856eca3b6fd6fa6894b5aef52348f05a67ac4fb440835a132e</link>
-      <guid isPermaLink="false">89e0be08212a76856eca3b6fd6fa6894b5aef52348f05a67ac4fb440835a132e</guid>
-      <pubDate>Wed, 24 Dec 2025 23:54:35 GMT</pubDate>
-      <description><![CDATA[An archival account of how human settlements reconciled value and legitimacy across distances where synchronization was impossible. As light-speed delay fractured continuous consensus, societies adopted epoch-based ledgers—locally final, globally anchorable—allowing Bitcoin to function as a canonical base layer without requiring constant reconciliation.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.F.0.1 - The Last Synchronous Age</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7a4be9cb427d255c7bbaba8de931c5c8757a11ac7a34e84169e8f24e980a87b4</link>
-      <guid isPermaLink="false">7a4be9cb427d255c7bbaba8de931c5c8757a11ac7a34e84169e8f24e980a87b4</guid>
-      <pubDate>Wed, 24 Dec 2025 23:52:06 GMT</pubDate>
-      <description><![CDATA[A transitional archival record describing the moment Earth-centered governance quietly failed under distance and latency. As authority, money, and arbitration lost relevance at the speed of light, Bitcoin emerged as the canonical anchor of sovereignty—while local ledgers carried daily life beyond Earth.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 2.A.1 - Visiting an Early Entanglement Facility on Luna</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d058a82016049d249fa38592af794d667c66d7b62674e972ef883dfd518e9815</link>
-      <guid isPermaLink="false">d058a82016049d249fa38592af794d667c66d7b62674e972ef883dfd518e9815</guid>
-      <pubDate>Wed, 24 Dec 2025 23:19:53 GMT</pubDate>
-      <description><![CDATA[While most of the Solar System has settled into routine abundance, a small research team on Luna quietly experiments with early entanglement systems—aware that they are handling something powerful, uncertain, and not yet meant to be ordinary.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Oct. 29, 2025): The Bitcoin Chronicles: The Entanglement Bridge Verified</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=90840ef279748c2ce7ca4f46dd153b6a20af65098ebf899c307f6116c27a90b0</link>
-      <guid isPermaLink="false">90840ef279748c2ce7ca4f46dd153b6a20af65098ebf899c307f6116c27a90b0</guid>
-      <pubDate>Wed, 24 Dec 2025 22:01:25 GMT</pubDate>
-      <description><![CDATA[After centuries of theory and experimentation, the first fully verified entanglement bridge confirms instantaneous cryptographic truth across planetary distance—ending light-lag consensus and forcing civilization to confront simultaneity as fact.]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>

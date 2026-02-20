@@ -1,5 +1,72 @@
 [
   {
+    "slug": "engagement-draft-if-response--hope-for-all-fellowship-2026-02-19",
+    "event_id": "66c5d881db64b5bf8b5db1515200b44ea9f64a004cb9879bb768120e77e590b8",
+    "created_at": 1771555208,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/66c5d881db64b5bf8b5db1515200b44ea9f64a004cb9879bb768120e77e590b8.json",
+    "title": "Engagement Draft (if response)- Hope For All Fellowship (2026-02-19)",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
+    "slug": "building-continuum---chapter-22--ai-and-the-centralization-wave-2026-02-19",
+    "event_id": "2bfff4c812a4bed7f1fe0576f3cd579c5ed9ddcdd064e1859d90829bdaa27a23",
+    "created_at": 1771552263,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/2bfff4c812a4bed7f1fe0576f3cd579c5ed9ddcdd064e1859d90829bdaa27a23.json",
+    "title": "🔒 Building Continuum - Chapter 22 — AI and the Centralization Wave",
+    "summary": "Artificial intelligence amplifies existing infrastructure concentration. Training large-scale models requires capital, data aggregation, and specialized hardware — conditions that naturally consolidate power. When AI inference is delivered exclusively via cloud APIs, access to cognition becomes mediated by identity and billing systems. This chapter explores how AI intensifies dependency dynamics, why the issue is structural rather than conspiratorial, and why identity portability becomes more critical as inference centralizes.",
+    "paid": false
+  },
+  {
+    "slug": "building-continuum---chapter-23--local-first-as-moral-constraint-2026-02-19",
+    "event_id": "e2fcd097b32da40757fcef48dfd754ec0120d0da7bb3d341d1dc23e1eaf0092d",
+    "created_at": 1771552223,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/e2fcd097b32da40757fcef48dfd754ec0120d0da7bb3d341d1dc23e1eaf0092d.json",
+    "title": "🔒 Building Continuum - Chapter 23 — Local-First as Moral Constraint",
+    "summary": "Local-first architecture introduces friction by design. It limits seamlessness, slows certain workflows, and requires user awareness. These limitations are not regressions. They are constraints. This chapter explores how constraint functions as formative structure, why convenience culture erodes agency over time, and how local-first systems preserve dignity by requiring participation rather than passive tenancy.",
+    "paid": false
+  },
+  {
+    "slug": "building-continuum---chapter-24--power-custody-and-authority-2026-02-19",
+    "event_id": "8010e372abde00a9250e3f82517806f36e5697dde087bbca2876a85b6a3e978e",
+    "created_at": 1771552167,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/8010e372abde00a9250e3f82517806f36e5697dde087bbca2876a85b6a3e978e.json",
+    "title": "🔒 Building Continuum - Chapter 24 — Power, Custody, and Authority",
+    "summary": "Every digital system encodes an answer to a quiet question: who ultimately decides? Decisions about access, identity, publication, and record permanence are often treated as policy issues, but they are architectural first. This chapter explores how authority is embedded in infrastructure, how moderation and account systems concentrate control, and why custody redistributes baseline power without collapsing social order. Sovereignty here is defined not as isolation, but as structural dignity.",
+    "paid": false
+  },
+  {
+    "slug": "building-continuum---chapter-25--exit-as-structural-right-2026-02-19",
+    "event_id": "7379e1ed7abb64bcf70b504155698be50dc43ca32db892dff3bebbeab9a52805",
+    "created_at": 1771552131,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/7379e1ed7abb64bcf70b504155698be50dc43ca32db892dff3bebbeab9a52805.json",
+    "title": "🔒 Building Continuum - Chapter 25 — Exit as Structural Right",
+    "summary": "Exit is often misunderstood as disloyalty or rebellion. In architectural terms, exit is the proof of voluntary participation. Systems that allow full data export, identity portability, and independent archival demonstrate confidence. Systems that complicate departure reveal dependency. This chapter explores exit as structural dignity — not hostility — and why portability must be embedded in design rather than promised in policy.",
+    "paid": false
+  },
+  {
+    "slug": "building-continuum---chapter-21--cloud-as-dependency-engine-2026-02-19",
+    "event_id": "02980f4a38db0673ef010112bddcc88270009ef5bed13e512b2a8983dde57a4e",
+    "created_at": 1771552091,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/02980f4a38db0673ef010112bddcc88270009ef5bed13e512b2a8983dde57a4e.json",
+    "title": "🔒 Building Continuum - Chapter 21 — Cloud as Dependency Engine",
+    "summary": "Cloud infrastructure reshaped modern computing by abstracting complexity and enabling rapid scale. Its advantages are real. But abstraction concentrates authority. This chapter examines how subscription economics, remote hosting, and accumulated data gravity create structural dependency — not through malice, but through architecture — and why local-first design seeks to rebalance that asymmetry without rejecting the cloud entirely.",
+    "paid": false
+  },
+  {
     "slug": null,
     "event_id": "81eaecd8782dc6ebb2189e295a2ce8a401bae3508f6d9fb88092783d7b0ce4bb",
     "created_at": 1771539810,

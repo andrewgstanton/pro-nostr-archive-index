@@ -5,7 +5,57 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 19 Feb 2026 22:34:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 02:49:43 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Building Continuum - Chapter 22 — AI and the Centralization Wave</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2bfff4c812a4bed7f1fe0576f3cd579c5ed9ddcdd064e1859d90829bdaa27a23</link>
+      <guid isPermaLink="false">2bfff4c812a4bed7f1fe0576f3cd579c5ed9ddcdd064e1859d90829bdaa27a23</guid>
+      <pubDate>Fri, 20 Feb 2026 01:51:03 GMT</pubDate>
+      <description><![CDATA[Artificial intelligence amplifies existing infrastructure concentration. Training large-scale models requires capital, data aggregation, and specialized hardware — conditions that naturally consolidate power. When AI inference is delivered exclusively via cloud APIs, access to cognition becomes mediated by identity and billing systems. This chapter explores how AI intensifies dependency dynamics, why the issue is structural rather than conspiratorial, and why identity portability becomes more critical as inference centralizes.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum - Chapter 23 — Local-First as Moral Constraint</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e2fcd097b32da40757fcef48dfd754ec0120d0da7bb3d341d1dc23e1eaf0092d</link>
+      <guid isPermaLink="false">e2fcd097b32da40757fcef48dfd754ec0120d0da7bb3d341d1dc23e1eaf0092d</guid>
+      <pubDate>Fri, 20 Feb 2026 01:50:23 GMT</pubDate>
+      <description><![CDATA[Local-first architecture introduces friction by design. It limits seamlessness, slows certain workflows, and requires user awareness. These limitations are not regressions. They are constraints. This chapter explores how constraint functions as formative structure, why convenience culture erodes agency over time, and how local-first systems preserve dignity by requiring participation rather than passive tenancy.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum - Chapter 24 — Power, Custody, and Authority</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=8010e372abde00a9250e3f82517806f36e5697dde087bbca2876a85b6a3e978e</link>
+      <guid isPermaLink="false">8010e372abde00a9250e3f82517806f36e5697dde087bbca2876a85b6a3e978e</guid>
+      <pubDate>Fri, 20 Feb 2026 01:49:27 GMT</pubDate>
+      <description><![CDATA[Every digital system encodes an answer to a quiet question: who ultimately decides? Decisions about access, identity, publication, and record permanence are often treated as policy issues, but they are architectural first. This chapter explores how authority is embedded in infrastructure, how moderation and account systems concentrate control, and why custody redistributes baseline power without collapsing social order. Sovereignty here is defined not as isolation, but as structural dignity.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum - Chapter 25 — Exit as Structural Right</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7379e1ed7abb64bcf70b504155698be50dc43ca32db892dff3bebbeab9a52805</link>
+      <guid isPermaLink="false">7379e1ed7abb64bcf70b504155698be50dc43ca32db892dff3bebbeab9a52805</guid>
+      <pubDate>Fri, 20 Feb 2026 01:48:51 GMT</pubDate>
+      <description><![CDATA[Exit is often misunderstood as disloyalty or rebellion. In architectural terms, exit is the proof of voluntary participation. Systems that allow full data export, identity portability, and independent archival demonstrate confidence. Systems that complicate departure reveal dependency. This chapter explores exit as structural dignity — not hostility — and why portability must be embedded in design rather than promised in policy.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum - Chapter 21 — Cloud as Dependency Engine</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=02980f4a38db0673ef010112bddcc88270009ef5bed13e512b2a8983dde57a4e</link>
+      <guid isPermaLink="false">02980f4a38db0673ef010112bddcc88270009ef5bed13e512b2a8983dde57a4e</guid>
+      <pubDate>Fri, 20 Feb 2026 01:48:11 GMT</pubDate>
+      <description><![CDATA[Cloud infrastructure reshaped modern computing by abstracting complexity and enabling rapid scale. Its advantages are real. But abstraction concentrates authority. This chapter examines how subscription economics, remote hosting, and accumulated data gravity create structural dependency — not through malice, but through architecture — and why local-first design seeks to rebalance that asymmetry without rejecting the cloud entirely.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 29b684ed5e</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=29b684ed5e0ea7bc89a07bbd243e7f3b73fc5a6edb2888d2a54d13e8c6b65015</link>
@@ -4953,56 +5003,6 @@
       <pubDate>Wed, 24 Dec 2025 01:24:06 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Long View</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b0842973b902f49790177e5052dbc0a54614f4bd6e6fafa43876e334bd466a42</link>
-      <guid isPermaLink="false">b0842973b902f49790177e5052dbc0a54614f4bd6e6fafa43876e334bd466a42</guid>
-      <pubDate>Wed, 24 Dec 2025 01:22:20 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sovereign Systems</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=951fc01104fab6d9b3e082f6e0e3f310c42657cfffdce30360892798b6ac71f7</link>
-      <guid isPermaLink="false">951fc01104fab6d9b3e082f6e0e3f310c42657cfffdce30360892798b6ac71f7</guid>
-      <pubDate>Wed, 24 Dec 2025 01:19:55 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Stewardship</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=8cb691fd1c2b3fc523f6132edcd36f41942c4284b5345d2a5b06e05cb98a6ebc</link>
-      <guid isPermaLink="false">8cb691fd1c2b3fc523f6132edcd36f41942c4284b5345d2a5b06e05cb98a6ebc</guid>
-      <pubDate>Wed, 24 Dec 2025 01:17:37 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Abundance</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=969aa2bd8d5996df209a8b169fce3931a505948178e435dfff96abf118f74adb</link>
-      <guid isPermaLink="false">969aa2bd8d5996df209a8b169fce3931a505948178e435dfff96abf118f74adb</guid>
-      <pubDate>Wed, 24 Dec 2025 01:15:12 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.F.2 - The Settled System</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=418a6d33bc6f4b236f9a73a562c707b57d7c244520cfe44a45ee17670f840259</link>
-      <guid isPermaLink="false">418a6d33bc6f4b236f9a73a562c707b57d7c244520cfe44a45ee17670f840259</guid>
-      <pubDate>Wed, 24 Dec 2025 00:57:06 GMT</pubDate>
-      <description><![CDATA[An anchor essay describing the Solar System after the frontier phase had passed—when the Moon, Mars, Europa, and the Belt became mature, pleasant places to live, even as expansion continued elsewhere.]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
