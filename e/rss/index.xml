@@ -5,7 +5,127 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 20 Feb 2026 02:49:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 02:10:38 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 e39039a72e</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e39039a72e99d2e940ec9e8cc44a51fc9e76f661afc1e4080565d60087cc025c</link>
+      <guid isPermaLink="false">e39039a72e99d2e940ec9e8cc44a51fc9e76f661afc1e4080565d60087cc025c</guid>
+      <pubDate>Sat, 21 Feb 2026 20:35:42 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 821f1d9052</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=821f1d905287b83c13fe6bed1a5f39870a64c509f99c7862e226a15ef1b90c51</link>
+      <guid isPermaLink="false">821f1d905287b83c13fe6bed1a5f39870a64c509f99c7862e226a15ef1b90c51</guid>
+      <pubDate>Sat, 21 Feb 2026 20:01:55 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 d5445d516e</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d5445d516e276e68a1ddecac4aaae666671c5ed14ec3ca4087a9e46d35fa08e8</link>
+      <guid isPermaLink="false">d5445d516e276e68a1ddecac4aaae666671c5ed14ec3ca4087a9e46d35fa08e8</guid>
+      <pubDate>Sat, 21 Feb 2026 19:42:57 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 be40922a4b</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=be40922a4be2c4e9d74853c846161fac0876142781f2cede9508ca9702b10c58</link>
+      <guid isPermaLink="false">be40922a4be2c4e9d74853c846161fac0876142781f2cede9508ca9702b10c58</guid>
+      <pubDate>Sat, 21 Feb 2026 19:39:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 9577a218f7</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9577a218f7605718d577acad5a6d4ed5b8e7f15e9dd30001042149066593c608</link>
+      <guid isPermaLink="false">9577a218f7605718d577acad5a6d4ed5b8e7f15e9dd30001042149066593c608</guid>
+      <pubDate>Sat, 21 Feb 2026 19:36:39 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 1adce62631</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1adce62631f80338813281a42cdcc955952821cfe8699935b0e107d7ff4b4a4a</link>
+      <guid isPermaLink="false">1adce62631f80338813281a42cdcc955952821cfe8699935b0e107d7ff4b4a4a</guid>
+      <pubDate>Sat, 21 Feb 2026 19:35:06 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 7b0232ccab</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7b0232ccab338ddee73cae54545928cceb03fe6c71147f7d3a1716a631f13d7c</link>
+      <guid isPermaLink="false">7b0232ccab338ddee73cae54545928cceb03fe6c71147f7d3a1716a631f13d7c</guid>
+      <pubDate>Sat, 21 Feb 2026 19:34:02 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 d84032d2f2</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d84032d2f2c85e7ff3b8d258979aeabbc284852130426d91b610cbfc76d04ec6</link>
+      <guid isPermaLink="false">d84032d2f2c85e7ff3b8d258979aeabbc284852130426d91b610cbfc76d04ec6</guid>
+      <pubDate>Fri, 20 Feb 2026 04:10:05 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 e8353eeb60</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e8353eeb601a88ab003121698ada2a99db71499cccd19781e170ad624c5f7d81</link>
+      <guid isPermaLink="false">e8353eeb601a88ab003121698ada2a99db71499cccd19781e170ad624c5f7d81</guid>
+      <pubDate>Fri, 20 Feb 2026 04:08:15 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 0bcf5d02ac</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=0bcf5d02acad0055d376eaaf039801f2a1add506a170765dd1ee1c61850f77cc</link>
+      <guid isPermaLink="false">0bcf5d02acad0055d376eaaf039801f2a1add506a170765dd1ee1c61850f77cc</guid>
+      <pubDate>Fri, 20 Feb 2026 04:07:33 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 b54c58bdbd</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b54c58bdbd9e88837d428fc2acfd09e9ed99401381f24dad25bc27d228547c77</link>
+      <guid isPermaLink="false">b54c58bdbd9e88837d428fc2acfd09e9ed99401381f24dad25bc27d228547c77</guid>
+      <pubDate>Fri, 20 Feb 2026 03:47:46 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 28be4b3037</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=28be4b3037ef84c8b72867e0372e9ae3b0d9cd0eabf88d65d6890d9b1bf994f9</link>
+      <guid isPermaLink="false">28be4b3037ef84c8b72867e0372e9ae3b0d9cd0eabf88d65d6890d9b1bf994f9</guid>
+      <pubDate>Fri, 20 Feb 2026 03:46:49 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Building Continuum - Chapter 22 — AI and the Centralization Wave</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=2bfff4c812a4bed7f1fe0576f3cd579c5ed9ddcdd064e1859d90829bdaa27a23</link>
@@ -4883,126 +5003,6 @@
       <pubDate>Sat, 27 Dec 2025 21:16:53 GMT</pubDate>
       <description><![CDATA[A Scripture-rooted blessing for the year ahead, offered in hope, trust, and confidence in the Lord’s faithfulness.]]></description>
       <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Dec. 28, 2025): Hope Is Something You Practice</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=47b772558369ed8a59ee5910183b69abd76f497bc02dcbd360cb93a143afb048</link>
-      <guid isPermaLink="false">47b772558369ed8a59ee5910183b69abd76f497bc02dcbd360cb93a143afb048</guid>
-      <pubDate>Sat, 27 Dec 2025 21:16:09 GMT</pubDate>
-      <description><![CDATA[An exploration of hope as a discipline shaped by daily choices rather than fluctuating emotion.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Dec. 28, 2025): The Year Ahead Is Already Prepared</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d9ccd9124210787ff8055a9e588267b92ade9a28513c51c76c92fe1017921ddd</link>
-      <guid isPermaLink="false">d9ccd9124210787ff8055a9e588267b92ade9a28513c51c76c92fe1017921ddd</guid>
-      <pubDate>Sat, 27 Dec 2025 21:14:56 GMT</pubDate>
-      <description><![CDATA[A hopeful orientation toward the coming year grounded in trust rather than certainty or control.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - Christmas on Mars</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3b7ca169c33d36e81f2f1d6de5b147ebaaea8f871a752d52461b891e910a9c0b</link>
-      <guid isPermaLink="false">3b7ca169c33d36e81f2f1d6de5b147ebaaea8f871a752d52461b891e910a9c0b</guid>
-      <pubDate>Fri, 26 Dec 2025 04:00:01 GMT</pubDate>
-      <description><![CDATA[Long after Mars became livable but before distance disappeared, settlers learned to keep Christmas under thinner skies—without abundance, without immediacy, and without forgetting why they came.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Christmas Eve (Dec. 24, 2025) - Reflection V — Toward the Stars, Not Away From Earth</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3b9a9a640bdf491d2524cdf0cdc18ecbf21989edc00cb3109fb7125263d1780b</link>
-      <guid isPermaLink="false">3b9a9a640bdf491d2524cdf0cdc18ecbf21989edc00cb3109fb7125263d1780b</guid>
-      <pubDate>Fri, 26 Dec 2025 03:33:19 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 976589a624</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=976589a624bf07ae73ab3ee7a122b9b0885b89f936f1471484deb457201876e0</link>
-      <guid isPermaLink="false">976589a624bf07ae73ab3ee7a122b9b0885b89f936f1471484deb457201876e0</guid>
-      <pubDate>Thu, 25 Dec 2025 20:56:43 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 b655764653</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b65576465377c1467472599e57081b2ab7e3f2152985b37c188612705cf16dc0</link>
-      <guid isPermaLink="false">b65576465377c1467472599e57081b2ab7e3f2152985b37c188612705cf16dc0</guid>
-      <pubDate>Thu, 25 Dec 2025 18:44:16 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 28d44d1521</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=28d44d15216c6e27df941f96e3c56c78874a39ec25a3eefff401d3ac23aa2abe</link>
-      <guid isPermaLink="false">28d44d15216c6e27df941f96e3c56c78874a39ec25a3eefff401d3ac23aa2abe</guid>
-      <pubDate>Thu, 25 Dec 2025 17:55:27 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 a625a768af</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a625a768af9689bfa8de1793bf139f8570a177c976064354fb4b7a33deb1f600</link>
-      <guid isPermaLink="false">a625a768af9689bfa8de1793bf139f8570a177c976064354fb4b7a33deb1f600</guid>
-      <pubDate>Thu, 25 Dec 2025 03:01:58 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Christmas Eve (Dec. 24, 2025) - Reflection IV — Faith, Technology, and Restraint</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c5374e503a6ca59613d2b5e73dd312119d05c5915b2f0822ff70247b8a1d6249</link>
-      <guid isPermaLink="false">c5374e503a6ca59613d2b5e73dd312119d05c5915b2f0822ff70247b8a1d6249</guid>
-      <pubDate>Thu, 25 Dec 2025 02:21:03 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Christmas Eve (Dec. 24, 2025) Reflection III — Why I’m Writing This</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c5a8a83e3041fc75012baf27f9412fba82720aa0b5af6ae70e55718554ee65f0</link>
-      <guid isPermaLink="false">c5a8a83e3041fc75012baf27f9412fba82720aa0b5af6ae70e55718554ee65f0</guid>
-      <pubDate>Thu, 25 Dec 2025 02:18:03 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Christmas Eve (Dec. 24, 2025) - Reflection II — Why the Future Needs Patience</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=834a9ab6048c9c00452c5ea4c08681a22f267aecc2ee1798b5b4a2f9cbd1b4dc</link>
-      <guid isPermaLink="false">834a9ab6048c9c00452c5ea4c08681a22f267aecc2ee1798b5b4a2f9cbd1b4dc</guid>
-      <pubDate>Thu, 25 Dec 2025 02:14:13 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Christmas Eve (Dec. 24, 2025) - Reflection I — Waiting Is Not Failure</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=991d804fc42b487505d4d84be69a55bc78a3a578ed06b9868e378f1c9c530f0d</link>
-      <guid isPermaLink="false">991d804fc42b487505d4d84be69a55bc78a3a578ed06b9868e378f1c9c530f0d</guid>
-      <pubDate>Thu, 25 Dec 2025 02:10:23 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
