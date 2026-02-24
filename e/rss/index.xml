@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 23 Feb 2026 02:10:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 06:45:58 GMT</lastBuildDate>
+    <item>
+      <title>kind:30023 c3e0407b3d</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c3e0407b3d96e1ae18f8da91344c3a1ab42c14bd280c5b705d3c2a9981662eae</link>
+      <guid isPermaLink="false">c3e0407b3d96e1ae18f8da91344c3a1ab42c14bd280c5b705d3c2a9981662eae</guid>
+      <pubDate>Tue, 24 Feb 2026 06:38:10 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 e39039a72e</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=e39039a72e99d2e940ec9e8cc44a51fc9e76f661afc1e4080565d60087cc025c</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">ed672b42af877d5b9edd0d1e77b2b11583af328c321306f3f5d42c2a19ffb08f</guid>
       <pubDate>Sat, 27 Dec 2025 21:17:35 GMT</pubDate>
       <description><![CDATA[A reflection on fatigue, grief, and the assurance that faithfulness does not depend on constant strength.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sunday Article (Dec. 28, 2025): A Benediction for 2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=123077f2172fe87f2079ad88cad8dc6d7447aab7a085d653779bb09306990b38</link>
-      <guid isPermaLink="false">123077f2172fe87f2079ad88cad8dc6d7447aab7a085d653779bb09306990b38</guid>
-      <pubDate>Sat, 27 Dec 2025 21:16:53 GMT</pubDate>
-      <description><![CDATA[A Scripture-rooted blessing for the year ahead, offered in hope, trust, and confidence in the Lord’s faithfulness.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

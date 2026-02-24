@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 23 Feb 2026 02:10:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 06:45:58 GMT</lastBuildDate>
+    <item>
+      <title>kind:30023 c3e0407b3d</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c3e0407b3d96e1ae18f8da91344c3a1ab42c14bd280c5b705d3c2a9981662eae</link>
+      <guid isPermaLink="false">c3e0407b3d96e1ae18f8da91344c3a1ab42c14bd280c5b705d3c2a9981662eae</guid>
+      <pubDate>Tue, 24 Feb 2026 06:38:10 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Building Continuum - Chapter 22 — AI and the Centralization Wave</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=2bfff4c812a4bed7f1fe0576f3cd579c5ed9ddcdd064e1859d90829bdaa27a23</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">62925d38f0b3cdcb318583cfd25b71f029e85585fb3816d288241008492083e9</guid>
       <pubDate>Sat, 15 Nov 2025 07:00:36 GMT</pubDate>
       <description><![CDATA[Bitcoin is not just “internet money.” It’s a response to a broken system.Proof of Work means truth is earned, not claimed.Fiat money is manipulable and inflationary; Bitcoin is fixed and fair.Bitcoin is the hardest money in history — with a supply cap of 21 million.It appreciates over time, acting as a new form of digital property.Christianity calls us to honest scales, faithful stewardship, and dignified work.And the Victorious Gospel declares that Jesus is restoring all things — including how we steward value, time, and trust.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Turning 60</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=853df05fdd04182a5c10f2f165103d21a389d2dddc7e9b3b4dcb95556b968402</link>
-      <guid isPermaLink="false">853df05fdd04182a5c10f2f165103d21a389d2dddc7e9b3b4dcb95556b968402</guid>
-      <pubDate>Sat, 15 Nov 2025 06:59:05 GMT</pubDate>
-      <description><![CDATA[A personal reflection on turning 60—looking back at a decade of transformation from dismissing Bitcoin as “tech for tech’s sake” to embracing it as a framework for truth, alignment, and intentional living. The post traces a journey of pruning, repentance, and recommitment to building a life rooted in faith, purpose, and conviction. It speaks to those in transition, encouraging them that the second half of life can be the truest chapter yet.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

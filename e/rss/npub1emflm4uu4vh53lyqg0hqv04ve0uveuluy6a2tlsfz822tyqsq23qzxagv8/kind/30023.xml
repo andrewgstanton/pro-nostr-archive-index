@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Continuum Archive Index — npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8 (Articles)</title>
+    <link>https://nostr.mycontinuum.xyz/e/list.html</link>
+    <description>Index for npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8 filtered to articles (kind:30023), newest 500.</description>
+    <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8/kind/30023.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Feb 2026 06:45:58 GMT</lastBuildDate>
+    <item>
+      <title>kind:30023 c3e0407b3d</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c3e0407b3d96e1ae18f8da91344c3a1ab42c14bd280c5b705d3c2a9981662eae</link>
+      <guid isPermaLink="false">c3e0407b3d96e1ae18f8da91344c3a1ab42c14bd280c5b705d3c2a9981662eae</guid>
+      <pubDate>Tue, 24 Feb 2026 06:38:10 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Dropbox → Long-Term Archive (ZIP + Checksum) HOWTO</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=bad9f6aba928d1ded029d23e9b5de6de55fff9ce9070ed2cf57ac5f4d1263848</link>
+      <guid isPermaLink="false">bad9f6aba928d1ded029d23e9b5de6de55fff9ce9070ed2cf57ac5f4d1263848</guid>
+      <pubDate>Thu, 15 Jan 2026 00:10:40 GMT</pubDate>
+      <description><![CDATA[Safely migrate data out of Dropbox into a verifiable, long-term archive stored on Google Drive (or another external location)]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Continuum Protocols</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=53bbc1c803cdf5e39fd1129516f539a60c84453e2a2b2b0c7b7d429dfe96bc06</link>
+      <guid isPermaLink="false">53bbc1c803cdf5e39fd1129516f539a60c84453e2a2b2b0c7b7d429dfe96bc06</guid>
+      <pubDate>Mon, 12 Jan 2026 06:57:06 GMT</pubDate>
+      <description><![CDATA[This document defines the core protocols behind Continuum’s archive-backed approach to Nostr identity, publishing, and messaging.  It formalizes a simple but non-standard assumption: relays are caches, not memory.  By treating archives as the source of truth and manifests as authoritative intent, Continuum enables deterministic reconstruction of profiles, notes, encrypted DMs, and long-form articles—even if relays forget, backups reappear, or local databases are wiped.  The protocols described here prioritize durability, deletion intent, encrypted message continuity, and long-horizon identity over feeds, engagement, or client features.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Patron Support Continuum</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c655a38b36597b32656a0f93a5a03a2c88e291234d92778af420a0652d5dc724</link>
+      <guid isPermaLink="false">c655a38b36597b32656a0f93a5a03a2c88e291234d92778af420a0652d5dc724</guid>
+      <pubDate>Thu, 04 Dec 2025 06:28:11 GMT</pubDate>
+      <description><![CDATA[A personal invitation to support the ongoing development of Continuum — a sovereign publishing platform, multi-identity Nostr client, and creative engine behind the Bitcoin Chronicles. Patron support helps keep the work independent, aligned with first principles, and free from corporate or institutional control.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Continuum Pro — Sovereign Publishing, Permanently Archived Under Continuum Stewardship</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=36ca6f765409dd5fa947e5bd85fb4f09b0fcfb61daafc02b66f4f5f201b897bd</link>
+      <guid isPermaLink="false">36ca6f765409dd5fa947e5bd85fb4f09b0fcfb61daafc02b66f4f5f201b897bd</guid>
+      <pubDate>Sat, 22 Nov 2025 03:43:18 GMT</pubDate>
+      <description><![CDATA[Continuum Pro is a managed, sovereign archival service for Nostr long-form (kind:30023) events. It creates a permanent, relay-independent archive under nostr.mycontinuum.xyz, with year-based directories per npub, a static HTML viewer, a global index, and full access to all paid articles, plus the local Continuum app for unlimited identity management.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Sovereign Support vs. Donor Dependency</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=979f0ab7dd95a140a2c351d18c6d4c13dbc5b67dd7a870a4e059802abfa2844a</link>
+      <guid isPermaLink="false">979f0ab7dd95a140a2c351d18c6d4c13dbc5b67dd7a870a4e059802abfa2844a</guid>
+      <pubDate>Sun, 24 Aug 2025 00:46:48 GMT</pubDate>
+      <description><![CDATA[Contrasts donor-based giving (dependency, fragility) with sovereignty-based support (reciprocity, resilience), showing why future-facing work must be funded through value exchange, not entitlement.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>White Paper: Sovereign Storage</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=23bd14a6311ca149d459aa52efa2f4cc813c0bdbbaf18e1cc80cf22ff9b872fd</link>
+      <guid isPermaLink="false">23bd14a6311ca149d459aa52efa2f4cc813c0bdbbaf18e1cc80cf22ff9b872fd</guid>
+      <pubDate>Wed, 20 Aug 2025 21:17:06 GMT</pubDate>
+      <description><![CDATA[Sovereign Storage redefines data ownership by replacing custodial, account-based storage with cryptographically secured, self-sovereign identity. It enables individuals and organizations to store, control, and share their data without reliance on centralized platforms—just as Bitcoin liberated money, Sovereign Storage liberates data.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>v1.5 – Relay Recovery + LinkedIn Dashboard (August 2025)</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9e30a2b144628e00b1a1cdc84477102e5fc9a0330fa8cd918cfb4398d0487493</link>
+      <guid isPermaLink="false">9e30a2b144628e00b1a1cdc84477102e5fc9a0330fa8cd918cfb4398d0487493</guid>
+      <pubDate>Sat, 19 Jul 2025 03:35:09 GMT</pubDate>
+      <description><![CDATA[relay rebroadcast and full featured LinkedIn Dashboard]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>v1.4.0 – Profile, Article, and Note Management (July 2025)</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e1edc714e10fabf4cec200adadc0e001405a89c491832251b47826c3a575999e</link>
+      <guid isPermaLink="false">e1edc714e10fabf4cec200adadc0e001405a89c491832251b47826c3a575999e</guid>
+      <pubDate>Sat, 19 Jul 2025 03:30:40 GMT</pubDate>
+      <description><![CDATA[full support for profile, note and article management]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>[v1.3.5] - 2025-07-13</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b06bdb8e82cb53744f97995a1f49937e28184722a758b71f1699e3673c9a372a</link>
+      <guid isPermaLink="false">b06bdb8e82cb53744f97995a1f49937e28184722a758b71f1699e3673c9a372a</guid>
+      <pubDate>Sat, 19 Jul 2025 03:27:22 GMT</pubDate>
+      <description><![CDATA[some refactoring of route logic]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>📦 CHANGELOG (Pro)— MyContinuum v1.3.0</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=20201f5660b8e443c8fe933457c37aa9208353e4e8f74a5b89feee4027c43753</link>
+      <guid isPermaLink="false">20201f5660b8e443c8fe933457c37aa9208353e4e8f74a5b89feee4027c43753</guid>
+      <pubDate>Wed, 09 Jul 2025 00:44:54 GMT</pubDate>
+      <description><![CDATA[changelog for v1.3]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🌀 MyContinuum (PRO) Changelog - v1.2.0 – Multi-Identity Support &amp; Dashboard Enhancements</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=69ca6882dbc1f8fb0624a38a1c472fd5b8fb75d9c217724c92718f2ea063a03c</link>
+      <guid isPermaLink="false">69ca6882dbc1f8fb0624a38a1c472fd5b8fb75d9c217724c92718f2ea063a03c</guid>
+      <pubDate>Sun, 06 Jul 2025 03:43:19 GMT</pubDate>
+      <description><![CDATA[This version lays the foundation for **multi-NPUB publishing**, fine-grained relay logic, and true sovereign identity tooling in upcoming releases.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>MyContinuum (PRO) Changelog - v1.1.0 — Relay Coverage &amp; UI Enhancements (2025-07-02)</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=322fb7d96133b9cb57da28fa9a827aec0a305fac67d8137fe4fb99beb5aefa0d</link>
+      <guid isPermaLink="false">322fb7d96133b9cb57da28fa9a827aec0a305fac67d8137fe4fb99beb5aefa0d</guid>
+      <pubDate>Sat, 05 Jul 2025 23:28:12 GMT</pubDate>
+      <description><![CDATA[Relay Coverage infrasture]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>MyContinuum Changelog - v1.0.1 — Post-Publish Refresh Patch (2025-07-02)</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b9914aa1274d6ebda65153d3e03a5d53a0080f1757eb42900205fb1489f6016f</link>
+      <guid isPermaLink="false">b9914aa1274d6ebda65153d3e03a5d53a0080f1757eb42900205fb1489f6016f</guid>
+      <pubDate>Fri, 04 Jul 2025 18:27:54 GMT</pubDate>
+      <description><![CDATA[Ensures that after publishing a new article or note, the local data is immediately refreshed]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🧾 MyContinuum Changelog - v1.0.0 - First Full Release</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a2d90c2301108ee58fc886319c15e2ecf2ba051bd499d6521652055638c06fc9</link>
+      <guid isPermaLink="false">a2d90c2301108ee58fc886319c15e2ecf2ba051bd499d6521652055638c06fc9</guid>
+      <pubDate>Fri, 04 Jul 2025 18:21:31 GMT</pubDate>
+      <description><![CDATA[First full release.  This version delivers all baseline functionality for the self-hosted tool ready for public deployment under this repo.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>A Declaration of Digital Independence</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=040ba5d13e5b7f0ee6b7d933e7d67ffae5b003ffb87f74d8607e0d3df83c30c1</link>
+      <guid isPermaLink="false">040ba5d13e5b7f0ee6b7d933e7d67ffae5b003ffb87f74d8607e0d3df83c30c1</guid>
+      <pubDate>Fri, 04 Jul 2025 17:06:39 GMT</pubDate>
+      <description><![CDATA[Published on July 4 as a declaration of digital independence, this inaugural post from the Continuum identity was written, signed, and published using a fully self-hosted system. It introduces Continuum not just as a tool, but as a sovereign philosophy — rejecting platforms, reclaiming identity, and proving that we can publish from our own machines, without permission.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
+      <category>paid:false</category>
+    </item>
+  </channel>
+</rss>
