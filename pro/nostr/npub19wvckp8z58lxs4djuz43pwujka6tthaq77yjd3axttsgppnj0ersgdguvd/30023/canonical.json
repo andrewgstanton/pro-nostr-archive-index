@@ -2805,8 +2805,16 @@
     "latest_year": 2026
   },
   "engagement-draft-if-response--hope-for-all-fellowship-2026-02-19": {
-    "latest_event_id": "66c5d881db64b5bf8b5db1515200b44ea9f64a004cb9879bb768120e77e590b8",
+    "latest_event_id": "01784fb46d18dc6ca2ea494c35c265200091a5f6a8a672410df43205d760fd78",
     "latest_year": 2026,
     "published": false
+  },
+  "-buidling-continuum---chap-26---rules-that-do-not-bend-2026-02-24": {
+    "latest_event_id": "40bbeedb24b726fb7917007b5200cdefc13113ae10cbc22912d08c183de37655",
+    "latest_year": 2026
+  },
+  "-building-continuum---chapter-27--if-it-scales-unexpectedly-2026-02-24": {
+    "latest_event_id": "d36e251f636361260ef83c81e8b2239ccbb011a0acd4c2365e76cabd8f2494cb",
+    "latest_year": 2026
   }
 }
