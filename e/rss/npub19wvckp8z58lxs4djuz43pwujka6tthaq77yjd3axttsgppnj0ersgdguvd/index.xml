@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 23 Feb 2026 02:10:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 02:22:29 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Building Continuum - Chapter 27 — If It Scales Unexpectedly</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d36e251f636361260ef83c81e8b2239ccbb011a0acd4c2365e76cabd8f2494cb</link>
+      <guid isPermaLink="false">d36e251f636361260ef83c81e8b2239ccbb011a0acd4c2365e76cabd8f2494cb</guid>
+      <pubDate>Wed, 25 Feb 2026 01:19:38 GMT</pubDate>
+      <description><![CDATA[Obscurity tests conviction. Growth tests clarity. In this chapter, I explore what would happen if Continuum scaled faster than expected. The real danger would not be failure. It would be drift—convenience pressure, feature accumulation, and the quiet erosion of simplicity. If Continuum grows, it must remain understandable, constrained, and structurally coherent.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Buidling Continuum - Chap. 26 - Rules That Do Not Bend</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=40bbeedb24b726fb7917007b5200cdefc13113ae10cbc22912d08c183de37655</link>
+      <guid isPermaLink="false">40bbeedb24b726fb7917007b5200cdefc13113ae10cbc22912d08c183de37655</guid>
+      <pubDate>Wed, 25 Feb 2026 00:22:47 GMT</pubDate>
+      <description><![CDATA[Growth is welcome. But growth that fractures trust boundaries is corrosion. In this chapter, I confront the real temptation behind slow adoption—the shortcut of central hosting—and explain why Continuum rests on seven rules that do not bend. These rules are not aesthetic preferences; they are structural constraints designed to prevent leverage, inconsistency, and quiet self-betrayal. Ease is welcome. Dilution is not.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 ba8b75c655</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ba8b75c6557371dfc088ce18ba06bb06708cc32536aa06754a8717d965600709</link>
+      <guid isPermaLink="false">ba8b75c6557371dfc088ce18ba06bb06708cc32536aa06754a8717d965600709</guid>
+      <pubDate>Tue, 24 Feb 2026 17:42:23 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 e39039a72e</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=e39039a72e99d2e940ec9e8cc44a51fc9e76f661afc1e4080565d60087cc025c</link>
@@ -4971,36 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=b65576465377c1467472599e57081b2ab7e3f2152985b37c188612705cf16dc0</link>
       <guid isPermaLink="false">b65576465377c1467472599e57081b2ab7e3f2152985b37c188612705cf16dc0</guid>
       <pubDate>Thu, 25 Dec 2025 18:44:16 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 28d44d1521</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=28d44d15216c6e27df941f96e3c56c78874a39ec25a3eefff401d3ac23aa2abe</link>
-      <guid isPermaLink="false">28d44d15216c6e27df941f96e3c56c78874a39ec25a3eefff401d3ac23aa2abe</guid>
-      <pubDate>Thu, 25 Dec 2025 17:55:27 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 a625a768af</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a625a768af9689bfa8de1793bf139f8570a177c976064354fb4b7a33deb1f600</link>
-      <guid isPermaLink="false">a625a768af9689bfa8de1793bf139f8570a177c976064354fb4b7a33deb1f600</guid>
-      <pubDate>Thu, 25 Dec 2025 03:01:58 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Christmas Eve (Dec. 24, 2025) - Reflection IV — Faith, Technology, and Restraint</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c5374e503a6ca59613d2b5e73dd312119d05c5915b2f0822ff70247b8a1d6249</link>
-      <guid isPermaLink="false">c5374e503a6ca59613d2b5e73dd312119d05c5915b2f0822ff70247b8a1d6249</guid>
-      <pubDate>Thu, 25 Dec 2025 02:21:03 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>

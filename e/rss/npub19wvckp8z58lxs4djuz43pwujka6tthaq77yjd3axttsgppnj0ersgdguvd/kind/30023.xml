@@ -5,7 +5,27 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 23 Feb 2026 02:10:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 02:22:29 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Building Continuum - Chapter 27 — If It Scales Unexpectedly</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d36e251f636361260ef83c81e8b2239ccbb011a0acd4c2365e76cabd8f2494cb</link>
+      <guid isPermaLink="false">d36e251f636361260ef83c81e8b2239ccbb011a0acd4c2365e76cabd8f2494cb</guid>
+      <pubDate>Wed, 25 Feb 2026 01:19:38 GMT</pubDate>
+      <description><![CDATA[Obscurity tests conviction. Growth tests clarity. In this chapter, I explore what would happen if Continuum scaled faster than expected. The real danger would not be failure. It would be drift—convenience pressure, feature accumulation, and the quiet erosion of simplicity. If Continuum grows, it must remain understandable, constrained, and structurally coherent.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Buidling Continuum - Chap. 26 - Rules That Do Not Bend</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=40bbeedb24b726fb7917007b5200cdefc13113ae10cbc22912d08c183de37655</link>
+      <guid isPermaLink="false">40bbeedb24b726fb7917007b5200cdefc13113ae10cbc22912d08c183de37655</guid>
+      <pubDate>Wed, 25 Feb 2026 00:22:47 GMT</pubDate>
+      <description><![CDATA[Growth is welcome. But growth that fractures trust boundaries is corrosion. In this chapter, I confront the real temptation behind slow adoption—the shortcut of central hosting—and explain why Continuum rests on seven rules that do not bend. These rules are not aesthetic preferences; they are structural constraints designed to prevent leverage, inconsistency, and quiet self-betrayal. Ease is welcome. Dilution is not.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Building Continuum - Chapter 22 — AI and the Centralization Wave</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=2bfff4c812a4bed7f1fe0576f3cd579c5ed9ddcdd064e1859d90829bdaa27a23</link>
@@ -4982,26 +5002,6 @@
       <guid isPermaLink="false">f27fe66f8bd2928961a599d77139ada21b896181111b0d9926b468b4563860d4</guid>
       <pubDate>Fri, 14 Nov 2025 21:48:20 GMT</pubDate>
       <description><![CDATA[How small, messy experiments — like a YouTube kitchen channel or a random side gig — can become honest income streams without dragging you back into walled gardens or fake work.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 13, 2025): Real Work vs. Fake Work in a World That Runs on Optics</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=bf41de14222557c99d0e1e4900c68b14430da091cbdd41f087d5870f5eaf461b</link>
-      <guid isPermaLink="false">bf41de14222557c99d0e1e4900c68b14430da091cbdd41f087d5870f5eaf461b</guid>
-      <pubDate>Fri, 14 Nov 2025 05:01:20 GMT</pubDate>
-      <description><![CDATA[A personal look at the difference between “doing things that look like work” and doing work that actually moves the needle — in income, integrity, and long-term freedom.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 12, 2025): When the Noise Fades</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7cd0593757475b9422a5b61be41389a948a72138928fc4540d5ca3c0e0167e60</link>
-      <guid isPermaLink="false">7cd0593757475b9422a5b61be41389a948a72138928fc4540d5ca3c0e0167e60</guid>
-      <pubDate>Thu, 13 Nov 2025 04:37:44 GMT</pubDate>
-      <description><![CDATA[After the celebrations and the noise comes something deeper — a peace that reveals what truly matters and what was never needed in the first place.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
