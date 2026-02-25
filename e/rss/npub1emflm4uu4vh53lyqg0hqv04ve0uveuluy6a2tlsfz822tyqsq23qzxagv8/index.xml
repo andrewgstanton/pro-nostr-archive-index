@@ -5,14 +5,34 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8 (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 24 Feb 2026 06:45:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 20:01:36 GMT</lastBuildDate>
     <item>
-      <title>kind:30023 c3e0407b3d</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c3e0407b3d96e1ae18f8da91344c3a1ab42c14bd280c5b705d3c2a9981662eae</link>
-      <guid isPermaLink="false">c3e0407b3d96e1ae18f8da91344c3a1ab42c14bd280c5b705d3c2a9981662eae</guid>
-      <pubDate>Tue, 24 Feb 2026 06:38:10 GMT</pubDate>
+      <title>kind:30023 e660b13454</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e660b1345484cbfa29bbffa07485e89c163b49ef99db965d254b367e5bab763b</link>
+      <guid isPermaLink="false">e660b1345484cbfa29bbffa07485e89c163b49ef99db965d254b367e5bab763b</guid>
+      <pubDate>Wed, 25 Feb 2026 19:55:10 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:30023</category>
+      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:0 ccd2332ec6</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ccd2332ec6fec2ce57366d86ccfd9604a3b17dc2fd0389ddddd24eb2fb6c722f</link>
+      <guid isPermaLink="false">ccd2332ec6fec2ce57366d86ccfd9604a3b17dc2fd0389ddddd24eb2fb6c722f</guid>
+      <pubDate>Wed, 25 Feb 2026 19:53:30 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:0</category>
+      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 88d287592a</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=88d287592ae413c8351ca31af1f30d549fe0da0a9465b5d7959c82bbc9f22611</link>
+      <guid isPermaLink="false">88d287592ae413c8351ca31af1f30d549fe0da0a9465b5d7959c82bbc9f22611</guid>
+      <pubDate>Wed, 25 Feb 2026 19:52:03 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
       <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
       <category>paid:false</category>
     </item>
@@ -63,16 +83,6 @@
       <pubDate>Sat, 22 Nov 2025 03:43:18 GMT</pubDate>
       <description><![CDATA[Continuum Pro is a managed, sovereign archival service for Nostr long-form (kind:30023) events. It creates a permanent, relay-independent archive under nostr.mycontinuum.xyz, with year-based directories per npub, a static HTML viewer, a global index, and full access to all paid articles, plus the local Continuum app for unlimited identity management.]]></description>
       <category>kind:30023</category>
-      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:0 1b86063575</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=1b860635752c95d04dcd05f9735d273304b72e60cf180c702c0858d8197ee802</link>
-      <guid isPermaLink="false">1b860635752c95d04dcd05f9735d273304b72e60cf180c702c0858d8197ee802</guid>
-      <pubDate>Fri, 21 Nov 2025 18:09:23 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:0</category>
       <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
       <category>paid:false</category>
     </item>

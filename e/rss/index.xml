@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 25 Feb 2026 19:15:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 20:01:36 GMT</lastBuildDate>
+    <item>
+      <title>kind:30023 e660b13454</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e660b1345484cbfa29bbffa07485e89c163b49ef99db965d254b367e5bab763b</link>
+      <guid isPermaLink="false">e660b1345484cbfa29bbffa07485e89c163b49ef99db965d254b367e5bab763b</guid>
+      <pubDate>Wed, 25 Feb 2026 19:55:10 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:0 ccd2332ec6</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ccd2332ec6fec2ce57366d86ccfd9604a3b17dc2fd0389ddddd24eb2fb6c722f</link>
+      <guid isPermaLink="false">ccd2332ec6fec2ce57366d86ccfd9604a3b17dc2fd0389ddddd24eb2fb6c722f</guid>
+      <pubDate>Wed, 25 Feb 2026 19:53:30 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:0</category>
+      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 88d287592a</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=88d287592ae413c8351ca31af1f30d549fe0da0a9465b5d7959c82bbc9f22611</link>
+      <guid isPermaLink="false">88d287592ae413c8351ca31af1f30d549fe0da0a9465b5d7959c82bbc9f22611</guid>
+      <pubDate>Wed, 25 Feb 2026 19:52:03 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 423aad8e12</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=423aad8e12f7a41a303a2a8703da8717ddbd85e64eee28d72b793f3801dc3f34</link>
@@ -134,16 +164,6 @@
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum 1.6 - 2/23/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c3e0407b3d96e1ae18f8da91344c3a1ab42c14bd280c5b705d3c2a9981662eae</link>
-      <guid isPermaLink="false">c3e0407b3d96e1ae18f8da91344c3a1ab42c14bd280c5b705d3c2a9981662eae</guid>
-      <pubDate>Tue, 24 Feb 2026 06:38:10 GMT</pubDate>
-      <description><![CDATA[A local-first publishing and identity tool built on Nostr]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
       <category>paid:false</category>
     </item>
     <item>
@@ -4983,26 +5003,6 @@
       <pubDate>Thu, 01 Jan 2026 03:40:42 GMT</pubDate>
       <description><![CDATA[Not everything must be rebuilt. Some things only need to be protected. This piece closes the year with quiet resolve and blessing.]]></description>
       <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Standing at the Threshold</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=66419223551a17924fd08c27d86199884b346064528affb4383e403821f00367</link>
-      <guid isPermaLink="false">66419223551a17924fd08c27d86199884b346064528affb4383e403821f00367</guid>
-      <pubDate>Thu, 01 Jan 2026 03:38:58 GMT</pubDate>
-      <description><![CDATA[New Year’s Eve is not a launchpad but a doorway. This reflection invites stillness, honesty, and a gentler way of entering what comes next.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 4e60633d7e</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=4e60633d7eb22e990c61d783baa578778339e66992d93fd73e4e4858e1a58c1c</link>
-      <guid isPermaLink="false">4e60633d7eb22e990c61d783baa578778339e66992d93fd73e4e4858e1a58c1c</guid>
-      <pubDate>Wed, 31 Dec 2025 23:09:06 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>

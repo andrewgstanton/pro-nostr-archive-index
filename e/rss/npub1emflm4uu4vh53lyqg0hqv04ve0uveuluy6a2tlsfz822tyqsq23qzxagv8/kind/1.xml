@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8 filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 24 Feb 2026 06:45:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 20:01:36 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 88d287592a</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=88d287592ae413c8351ca31af1f30d549fe0da0a9465b5d7959c82bbc9f22611</link>
+      <guid isPermaLink="false">88d287592ae413c8351ca31af1f30d549fe0da0a9465b5d7959c82bbc9f22611</guid>
+      <pubDate>Wed, 25 Feb 2026 19:52:03 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Patron Support Continuum</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=43ebabcf63f1512d87fcdf64e0230613aaefe3498b629abd5afcd1190e704583</link>

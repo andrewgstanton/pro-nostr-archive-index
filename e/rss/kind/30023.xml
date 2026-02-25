@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 25 Feb 2026 19:15:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 20:01:36 GMT</lastBuildDate>
+    <item>
+      <title>kind:30023 e660b13454</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e660b1345484cbfa29bbffa07485e89c163b49ef99db965d254b367e5bab763b</link>
+      <guid isPermaLink="false">e660b1345484cbfa29bbffa07485e89c163b49ef99db965d254b367e5bab763b</guid>
+      <pubDate>Wed, 25 Feb 2026 19:55:10 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>A Clarification About Clients</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=ccd40ea96738122d6fd5925a3054dac7e24993958652fe84adf5a4aa63d125e1</link>
@@ -74,16 +84,6 @@
       <description><![CDATA[Growth is welcome. But growth that fractures trust boundaries is corrosion. In this chapter, I confront the real temptation behind slow adoption—the shortcut of central hosting—and explain why Continuum rests on seven rules that do not bend. These rules are not aesthetic preferences; they are structural constraints designed to prevent leverage, inconsistency, and quiet self-betrayal. Ease is welcome. Dilution is not.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum 1.6 - 2/23/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c3e0407b3d96e1ae18f8da91344c3a1ab42c14bd280c5b705d3c2a9981662eae</link>
-      <guid isPermaLink="false">c3e0407b3d96e1ae18f8da91344c3a1ab42c14bd280c5b705d3c2a9981662eae</guid>
-      <pubDate>Tue, 24 Feb 2026 06:38:10 GMT</pubDate>
-      <description><![CDATA[A local-first publishing and identity tool built on Nostr]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
       <category>paid:false</category>
     </item>
     <item>
