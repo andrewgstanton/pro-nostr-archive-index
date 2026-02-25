@@ -2,5 +2,10 @@
   "shipping-applications-without-funding-an-async-open-source--inspired-model-using-equity-hsd": {
     "latest_event_id": "a8ddd721b9602301d6d241cac2b75eef1acc1e542e67bc2b59ddca50f2b798dc",
     "latest_year": 2026
+  },
+  "hsd-concerns": {
+    "latest_event_id": "f4d14948ab22df678b71adbb9ee5d25cec0124704985815dabdb0c3989a8a4f8",
+    "latest_year": 2026,
+    "published": false
   }
 }
