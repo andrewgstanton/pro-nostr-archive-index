@@ -1,5 +1,115 @@
 [
   {
+    "slug": null,
+    "event_id": "423aad8e12f7a41a303a2a8703da8717ddbd85e64eee28d72b793f3801dc3f34",
+    "created_at": 1772008759,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/423aad8e12f7a41a303a2a8703da8717ddbd85e64eee28d72b793f3801dc3f34.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "6ecf69c7bfc8e3d21fbd3fde2a5a0bc83bd813c72cc7608461fb21dac8a46627",
+    "created_at": 1772008735,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/6ecf69c7bfc8e3d21fbd3fde2a5a0bc83bd813c72cc7608461fb21dac8a46627.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "a-clarification-about-clients",
+    "event_id": "ccd40ea96738122d6fd5925a3054dac7e24993958652fe84adf5a4aa63d125e1",
+    "created_at": 1772008491,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/ccd40ea96738122d6fd5925a3054dac7e24993958652fe84adf5a4aa63d125e1.json",
+    "title": "A Clarification About Clients",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "local-first-publishing-is-a-gift-i-didnt-realize-i-had",
+    "event_id": "98585089e584a51d1833c74deaea7681d9bea5a07fa0680486e8be40c3b7375a",
+    "created_at": 1772007416,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/98585089e584a51d1833c74deaea7681d9bea5a07fa0680486e8be40c3b7375a.json",
+    "title": "Local-First Publishing Is a Gift I Didn’t Realize I Had",
+    "summary": "Tonight I realized something unexpected: local-first publishing is a gift. Not a feature. Not a technical preference. A gift. I didn’t fully recognize it until I felt ignored — and then discovered that I was still free.",
+    "paid": false
+  },
+  {
+    "slug": "i-thought-i-was-being-ignored-then-i-realized-i-was-free",
+    "event_id": "5188a20fde196bfb0e77f5b614cefe1a5f699f9d1372f7872b1aed4fd2af4044",
+    "created_at": 1772006935,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/5188a20fde196bfb0e77f5b614cefe1a5f699f9d1372f7872b1aed4fd2af4044.json",
+    "title": "I Thought I Was Being Ignored. Then I Realized I Was Free.",
+    "summary": "There are days when it feels like everyone else is being seen — more replies, more likes, more engagement — while my work drifts quietly past. I felt that. Deeply. But then something shifted. I realized: even if no one reacts, I am still free. And that realization pulled me back from despair.",
+    "paid": false
+  },
+  {
+    "slug": "local-first-is-not-a-feature-it-is-freedom",
+    "event_id": "85d6757bff2e7be457f0a0f1a23876cfc8e57bf5632187fc455159072cf4ae84",
+    "created_at": 1772006180,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/85d6757bff2e7be457f0a0f1a23876cfc8e57bf5632187fc455159072cf4ae84.json",
+    "title": "Local-First Is Not a Feature. It Is Freedom.",
+    "summary": "I’ve been writing about freedom lately — and noticed how naturally I drifted into Scripture. That wasn’t accidental. The freedom I feel building and publishing locally-first isn’t just technical. It’s structural. And it mirrors deeper truths about custody, authority, and release from silent masters.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "2c6c98daffd1f809aa895082e90359168f5b8f430354fcc4da94ff6637a26782",
+    "created_at": 1772005430,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/2c6c98daffd1f809aa895082e90359168f5b8f430354fcc4da94ff6637a26782.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "6752b8bc5cc328e408fcdb050f9e428ceb449a33e2d989a61014b9d0f3a1a0bc",
+    "created_at": 1772005348,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/6752b8bc5cc328e408fcdb050f9e428ceb449a33e2d989a61014b9d0f3a1a0bc.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "807a584964b1312820f7432ef17a61366958353df4bc97e62fd23007e54dd28a",
+    "created_at": 1772005248,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/807a584964b1312820f7432ef17a61366958353df4bc97e62fd23007e54dd28a.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "building-continuum---chapter-28--the-road-ahead-2026-02-24",
+    "event_id": "a8eaaef4e60a3e289c1f7f089f67454340178144014454a459fdfe3538d455fa",
+    "created_at": 1771987629,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/a8eaaef4e60a3e289c1f7f089f67454340178144014454a459fdfe3538d455fa.json",
+    "title": "🔒 Building Continuum - Chapter 28 — The Road Ahead",
+    "summary": "Continuum is not finished. Some elements remain incomplete—relay management per identity, targeted publishing, offline signing, mirrored dashboards, large encrypted attachments, and a sovereign marketplace layer. But incompleteness is not incoherence. This chapter reflects on what Continuum might become, what happens if it fails, and how building it fundamentally transformed the builder. The system may evolve. The shift does not reverse. Freedom is worth building for.",
+    "paid": false
+  },
+  {
     "slug": "-building-continuum---chapter-27--if-it-scales-unexpectedly-2026-02-24",
     "event_id": "d36e251f636361260ef83c81e8b2239ccbb011a0acd4c2365e76cabd8f2494cb",
     "created_at": 1771982378,

@@ -5,7 +5,57 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 25 Feb 2026 02:22:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 19:15:27 GMT</lastBuildDate>
+    <item>
+      <title>A Clarification About Clients</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ccd40ea96738122d6fd5925a3054dac7e24993958652fe84adf5a4aa63d125e1</link>
+      <guid isPermaLink="false">ccd40ea96738122d6fd5925a3054dac7e24993958652fe84adf5a4aa63d125e1</guid>
+      <pubDate>Wed, 25 Feb 2026 08:34:51 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Local-First Publishing Is a Gift I Didn’t Realize I Had</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=98585089e584a51d1833c74deaea7681d9bea5a07fa0680486e8be40c3b7375a</link>
+      <guid isPermaLink="false">98585089e584a51d1833c74deaea7681d9bea5a07fa0680486e8be40c3b7375a</guid>
+      <pubDate>Wed, 25 Feb 2026 08:16:56 GMT</pubDate>
+      <description><![CDATA[Tonight I realized something unexpected: local-first publishing is a gift. Not a feature. Not a technical preference. A gift. I didn’t fully recognize it until I felt ignored — and then discovered that I was still free.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>I Thought I Was Being Ignored. Then I Realized I Was Free.</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5188a20fde196bfb0e77f5b614cefe1a5f699f9d1372f7872b1aed4fd2af4044</link>
+      <guid isPermaLink="false">5188a20fde196bfb0e77f5b614cefe1a5f699f9d1372f7872b1aed4fd2af4044</guid>
+      <pubDate>Wed, 25 Feb 2026 08:08:55 GMT</pubDate>
+      <description><![CDATA[There are days when it feels like everyone else is being seen — more replies, more likes, more engagement — while my work drifts quietly past. I felt that. Deeply. But then something shifted. I realized: even if no one reacts, I am still free. And that realization pulled me back from despair.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Local-First Is Not a Feature. It Is Freedom.</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=85d6757bff2e7be457f0a0f1a23876cfc8e57bf5632187fc455159072cf4ae84</link>
+      <guid isPermaLink="false">85d6757bff2e7be457f0a0f1a23876cfc8e57bf5632187fc455159072cf4ae84</guid>
+      <pubDate>Wed, 25 Feb 2026 07:56:20 GMT</pubDate>
+      <description><![CDATA[I’ve been writing about freedom lately — and noticed how naturally I drifted into Scripture. That wasn’t accidental. The freedom I feel building and publishing locally-first isn’t just technical. It’s structural. And it mirrors deeper truths about custody, authority, and release from silent masters.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum - Chapter 28 — The Road Ahead</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a8eaaef4e60a3e289c1f7f089f67454340178144014454a459fdfe3538d455fa</link>
+      <guid isPermaLink="false">a8eaaef4e60a3e289c1f7f089f67454340178144014454a459fdfe3538d455fa</guid>
+      <pubDate>Wed, 25 Feb 2026 02:47:09 GMT</pubDate>
+      <description><![CDATA[Continuum is not finished. Some elements remain incomplete—relay management per identity, targeted publishing, offline signing, mirrored dashboards, large encrypted attachments, and a sovereign marketplace layer. But incompleteness is not incoherence. This chapter reflects on what Continuum might become, what happens if it fails, and how building it fundamentally transformed the builder. The system may evolve. The shift does not reverse. Freedom is worth building for.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Building Continuum - Chapter 27 — If It Scales Unexpectedly</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=d36e251f636361260ef83c81e8b2239ccbb011a0acd4c2365e76cabd8f2494cb</link>
@@ -4952,56 +5002,6 @@
       <guid isPermaLink="false">c317bb9d10355febad427deb41e5c7d10ab185e8d7e7970568b4dfa24957118b</guid>
       <pubDate>Sat, 15 Nov 2025 07:23:34 GMT</pubDate>
       <description><![CDATA[This is a reflection for seekers, skeptics, and sovereign thinkers on Nostr.In a world flooded with lies, it’s tempting to believe that everything is a lie. But real sovereignty isn’t just rejecting the mainstream — it’s learning to discern, verify, and walk in truth.This piece is a call to Bitcoiners, Christians, and freedom-seekers to resist the drift toward conspiratorial thinking that masquerades as enlightenment. It affirms that questioning is good — but truth is better.From faith to science, climate to population, war to liberty — this is a principled stand against false binaries and a plea for humble, truth-rooted conviction in an age of loud confusion.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Ka ʻImi i ka Pono: Seeking What’s Right</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=31d4243072e76342ceda5115ce4c35c623dce33d8dc1095ccf2eacbcfef13c2d</link>
-      <guid isPermaLink="false">31d4243072e76342ceda5115ce4c35c623dce33d8dc1095ccf2eacbcfef13c2d</guid>
-      <pubDate>Sat, 15 Nov 2025 07:22:20 GMT</pubDate>
-      <description><![CDATA[Hawai‘i understands sovereignty. It always has.But it was taken — first with pen and politics, then with force and fiat.Bitcoin offers something different ...A 7-Day Series on Sovereignty, Bitcoin, and the Soul of the Islands]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Npubs + Signed Messages: Replacing Logins</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=931dd553818eef464198596428388fd778f10c59a30e434215f11b80cba2d385</link>
-      <guid isPermaLink="false">931dd553818eef464198596428388fd778f10c59a30e434215f11b80cba2d385</guid>
-      <pubDate>Sat, 15 Nov 2025 07:16:32 GMT</pubDate>
-      <description><![CDATA[How npubs and cryptographic signatures can replace email/password logins.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>White Paper: Sovereign Credit</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a4c93fe54a66680e66175ae773ce11978d9081b23f38b7e909fb17257a1c4b12</link>
-      <guid isPermaLink="false">a4c93fe54a66680e66175ae773ce11978d9081b23f38b7e909fb17257a1c4b12</guid>
-      <pubDate>Sat, 15 Nov 2025 07:15:30 GMT</pubDate>
-      <description><![CDATA[How Nostr can form the foundation of a sovereign credit score built on proofs, not surveillance.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article Teaser (Day 2 - Aug. 25, 2025) : Bitcoin as Treasury, Not Trade</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=796467e5e05931f916e2ae4201d3641f8067595d1f1e0bbe4ecc4c6b7517c5a2</link>
-      <guid isPermaLink="false">796467e5e05931f916e2ae4201d3641f8067595d1f1e0bbe4ecc4c6b7517c5a2</guid>
-      <pubDate>Sat, 15 Nov 2025 07:12:53 GMT</pubDate>
-      <description><![CDATA[Why I denominate wealth in Bitcoin instead of chasing endless fiat gains.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>中央集権の見えない代償——そして分散化がもたらす、より深い約束(The Hidden Cost of Centralization — and the Deeper Promise of Decentralization - Japanese Version)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=1a009040d2ac6121d9f2c41f19df7848b7f0ad09d52631a9ba49293c0446bd1c</link>
-      <guid isPermaLink="false">1a009040d2ac6121d9f2c41f19df7848b7f0ad09d52631a9ba49293c0446bd1c</guid>
-      <pubDate>Sat, 15 Nov 2025 07:11:41 GMT</pubDate>
-      <description><![CDATA[多くの人は、テクノロジーがコストをゼロに近づけるものだと考えています。しかし、それは物語の半分にすぎません。中央集権型プラットフォームの「隠れた代償」は、金銭的なものだけでなく、コントロール（支配）にも及びます。本記事では、NostrやBitcoinのような分散型技術がこの構図をどう覆し、コストだけでなく「コントロール・コスト」も削減するのか、そしてその変化がなぜ重要なのかを掘り下げます。]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

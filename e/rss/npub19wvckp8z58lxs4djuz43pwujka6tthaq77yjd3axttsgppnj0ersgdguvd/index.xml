@@ -5,7 +5,107 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 25 Feb 2026 02:22:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 19:15:28 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 423aad8e12</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=423aad8e12f7a41a303a2a8703da8717ddbd85e64eee28d72b793f3801dc3f34</link>
+      <guid isPermaLink="false">423aad8e12f7a41a303a2a8703da8717ddbd85e64eee28d72b793f3801dc3f34</guid>
+      <pubDate>Wed, 25 Feb 2026 08:39:19 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 6ecf69c7bf</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6ecf69c7bfc8e3d21fbd3fde2a5a0bc83bd813c72cc7608461fb21dac8a46627</link>
+      <guid isPermaLink="false">6ecf69c7bfc8e3d21fbd3fde2a5a0bc83bd813c72cc7608461fb21dac8a46627</guid>
+      <pubDate>Wed, 25 Feb 2026 08:38:55 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>A Clarification About Clients</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ccd40ea96738122d6fd5925a3054dac7e24993958652fe84adf5a4aa63d125e1</link>
+      <guid isPermaLink="false">ccd40ea96738122d6fd5925a3054dac7e24993958652fe84adf5a4aa63d125e1</guid>
+      <pubDate>Wed, 25 Feb 2026 08:34:51 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Local-First Publishing Is a Gift I Didn’t Realize I Had</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=98585089e584a51d1833c74deaea7681d9bea5a07fa0680486e8be40c3b7375a</link>
+      <guid isPermaLink="false">98585089e584a51d1833c74deaea7681d9bea5a07fa0680486e8be40c3b7375a</guid>
+      <pubDate>Wed, 25 Feb 2026 08:16:56 GMT</pubDate>
+      <description><![CDATA[Tonight I realized something unexpected: local-first publishing is a gift. Not a feature. Not a technical preference. A gift. I didn’t fully recognize it until I felt ignored — and then discovered that I was still free.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>I Thought I Was Being Ignored. Then I Realized I Was Free.</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5188a20fde196bfb0e77f5b614cefe1a5f699f9d1372f7872b1aed4fd2af4044</link>
+      <guid isPermaLink="false">5188a20fde196bfb0e77f5b614cefe1a5f699f9d1372f7872b1aed4fd2af4044</guid>
+      <pubDate>Wed, 25 Feb 2026 08:08:55 GMT</pubDate>
+      <description><![CDATA[There are days when it feels like everyone else is being seen — more replies, more likes, more engagement — while my work drifts quietly past. I felt that. Deeply. But then something shifted. I realized: even if no one reacts, I am still free. And that realization pulled me back from despair.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Local-First Is Not a Feature. It Is Freedom.</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=85d6757bff2e7be457f0a0f1a23876cfc8e57bf5632187fc455159072cf4ae84</link>
+      <guid isPermaLink="false">85d6757bff2e7be457f0a0f1a23876cfc8e57bf5632187fc455159072cf4ae84</guid>
+      <pubDate>Wed, 25 Feb 2026 07:56:20 GMT</pubDate>
+      <description><![CDATA[I’ve been writing about freedom lately — and noticed how naturally I drifted into Scripture. That wasn’t accidental. The freedom I feel building and publishing locally-first isn’t just technical. It’s structural. And it mirrors deeper truths about custody, authority, and release from silent masters.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 2c6c98daff</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2c6c98daffd1f809aa895082e90359168f5b8f430354fcc4da94ff6637a26782</link>
+      <guid isPermaLink="false">2c6c98daffd1f809aa895082e90359168f5b8f430354fcc4da94ff6637a26782</guid>
+      <pubDate>Wed, 25 Feb 2026 07:43:50 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 6752b8bc5c</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6752b8bc5cc328e408fcdb050f9e428ceb449a33e2d989a61014b9d0f3a1a0bc</link>
+      <guid isPermaLink="false">6752b8bc5cc328e408fcdb050f9e428ceb449a33e2d989a61014b9d0f3a1a0bc</guid>
+      <pubDate>Wed, 25 Feb 2026 07:42:28 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 807a584964</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=807a584964b1312820f7432ef17a61366958353df4bc97e62fd23007e54dd28a</link>
+      <guid isPermaLink="false">807a584964b1312820f7432ef17a61366958353df4bc97e62fd23007e54dd28a</guid>
+      <pubDate>Wed, 25 Feb 2026 07:40:48 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum - Chapter 28 — The Road Ahead</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a8eaaef4e60a3e289c1f7f089f67454340178144014454a459fdfe3538d455fa</link>
+      <guid isPermaLink="false">a8eaaef4e60a3e289c1f7f089f67454340178144014454a459fdfe3538d455fa</guid>
+      <pubDate>Wed, 25 Feb 2026 02:47:09 GMT</pubDate>
+      <description><![CDATA[Continuum is not finished. Some elements remain incomplete—relay management per identity, targeted publishing, offline signing, mirrored dashboards, large encrypted attachments, and a sovereign marketplace layer. But incompleteness is not incoherence. This chapter reflects on what Continuum might become, what happens if it fails, and how building it fundamentally transformed the builder. The system may evolve. The shift does not reverse. Freedom is worth building for.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Building Continuum - Chapter 27 — If It Scales Unexpectedly</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=d36e251f636361260ef83c81e8b2239ccbb011a0acd4c2365e76cabd8f2494cb</link>
@@ -4901,106 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=1ae6e03a101ad54a85cb9c3726bbf83c9962d4b6d4eece39f5cf7b631678af55</link>
       <guid isPermaLink="false">1ae6e03a101ad54a85cb9c3726bbf83c9962d4b6d4eece39f5cf7b631678af55</guid>
       <pubDate>Sun, 28 Dec 2025 00:06:08 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Dec. 27, 2025): You Are Not Late</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=71e4afa7896e49ae8296c0f1091c890139f9c4d2c3a6d76b4879f6e4a57e360c</link>
-      <guid isPermaLink="false">71e4afa7896e49ae8296c0f1091c890139f9c4d2c3a6d76b4879f6e4a57e360c</guid>
-      <pubDate>Sat, 27 Dec 2025 21:19:16 GMT</pubDate>
-      <description><![CDATA[A Sabbath reflection on time, calling, and the quiet truth that meaningful work unfolds in seasons. You have not missed your moment.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Dec. 27, 2025): Sabbath Is Not a Pause Button</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=beecc1af73885d156202a5937a971d807a61c950449923aa5a8fa503880e2a59</link>
-      <guid isPermaLink="false">beecc1af73885d156202a5937a971d807a61c950449923aa5a8fa503880e2a59</guid>
-      <pubDate>Sat, 27 Dec 2025 21:18:22 GMT</pubDate>
-      <description><![CDATA[A reframing of Sabbath as active alignment rather than interruption, and why rest preserves meaningful work instead of delaying it.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sabbath Article (Dec. 27, 2025): When You Are Tired, You Are Still Being Carried</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ed672b42af877d5b9edd0d1e77b2b11583af328c321306f3f5d42c2a19ffb08f</link>
-      <guid isPermaLink="false">ed672b42af877d5b9edd0d1e77b2b11583af328c321306f3f5d42c2a19ffb08f</guid>
-      <pubDate>Sat, 27 Dec 2025 21:17:35 GMT</pubDate>
-      <description><![CDATA[A reflection on fatigue, grief, and the assurance that faithfulness does not depend on constant strength.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sunday Article (Dec. 28, 2025): A Benediction for 2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=123077f2172fe87f2079ad88cad8dc6d7447aab7a085d653779bb09306990b38</link>
-      <guid isPermaLink="false">123077f2172fe87f2079ad88cad8dc6d7447aab7a085d653779bb09306990b38</guid>
-      <pubDate>Sat, 27 Dec 2025 21:16:53 GMT</pubDate>
-      <description><![CDATA[A Scripture-rooted blessing for the year ahead, offered in hope, trust, and confidence in the Lord’s faithfulness.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Dec. 28, 2025): Hope Is Something You Practice</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=47b772558369ed8a59ee5910183b69abd76f497bc02dcbd360cb93a143afb048</link>
-      <guid isPermaLink="false">47b772558369ed8a59ee5910183b69abd76f497bc02dcbd360cb93a143afb048</guid>
-      <pubDate>Sat, 27 Dec 2025 21:16:09 GMT</pubDate>
-      <description><![CDATA[An exploration of hope as a discipline shaped by daily choices rather than fluctuating emotion.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Dec. 28, 2025): The Year Ahead Is Already Prepared</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d9ccd9124210787ff8055a9e588267b92ade9a28513c51c76c92fe1017921ddd</link>
-      <guid isPermaLink="false">d9ccd9124210787ff8055a9e588267b92ade9a28513c51c76c92fe1017921ddd</guid>
-      <pubDate>Sat, 27 Dec 2025 21:14:56 GMT</pubDate>
-      <description><![CDATA[A hopeful orientation toward the coming year grounded in trust rather than certainty or control.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - Christmas on Mars</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3b7ca169c33d36e81f2f1d6de5b147ebaaea8f871a752d52461b891e910a9c0b</link>
-      <guid isPermaLink="false">3b7ca169c33d36e81f2f1d6de5b147ebaaea8f871a752d52461b891e910a9c0b</guid>
-      <pubDate>Fri, 26 Dec 2025 04:00:01 GMT</pubDate>
-      <description><![CDATA[Long after Mars became livable but before distance disappeared, settlers learned to keep Christmas under thinner skies—without abundance, without immediacy, and without forgetting why they came.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Christmas Eve (Dec. 24, 2025) - Reflection V — Toward the Stars, Not Away From Earth</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3b9a9a640bdf491d2524cdf0cdc18ecbf21989edc00cb3109fb7125263d1780b</link>
-      <guid isPermaLink="false">3b9a9a640bdf491d2524cdf0cdc18ecbf21989edc00cb3109fb7125263d1780b</guid>
-      <pubDate>Fri, 26 Dec 2025 03:33:19 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 976589a624</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=976589a624bf07ae73ab3ee7a122b9b0885b89f936f1471484deb457201876e0</link>
-      <guid isPermaLink="false">976589a624bf07ae73ab3ee7a122b9b0885b89f936f1471484deb457201876e0</guid>
-      <pubDate>Thu, 25 Dec 2025 20:56:43 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 b655764653</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b65576465377c1467472599e57081b2ab7e3f2152985b37c188612705cf16dc0</link>
-      <guid isPermaLink="false">b65576465377c1467472599e57081b2ab7e3f2152985b37c188612705cf16dc0</guid>
-      <pubDate>Thu, 25 Dec 2025 18:44:16 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>

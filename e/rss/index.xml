@@ -5,7 +5,107 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 25 Feb 2026 02:22:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 19:15:27 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 423aad8e12</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=423aad8e12f7a41a303a2a8703da8717ddbd85e64eee28d72b793f3801dc3f34</link>
+      <guid isPermaLink="false">423aad8e12f7a41a303a2a8703da8717ddbd85e64eee28d72b793f3801dc3f34</guid>
+      <pubDate>Wed, 25 Feb 2026 08:39:19 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 6ecf69c7bf</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6ecf69c7bfc8e3d21fbd3fde2a5a0bc83bd813c72cc7608461fb21dac8a46627</link>
+      <guid isPermaLink="false">6ecf69c7bfc8e3d21fbd3fde2a5a0bc83bd813c72cc7608461fb21dac8a46627</guid>
+      <pubDate>Wed, 25 Feb 2026 08:38:55 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>A Clarification About Clients</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ccd40ea96738122d6fd5925a3054dac7e24993958652fe84adf5a4aa63d125e1</link>
+      <guid isPermaLink="false">ccd40ea96738122d6fd5925a3054dac7e24993958652fe84adf5a4aa63d125e1</guid>
+      <pubDate>Wed, 25 Feb 2026 08:34:51 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Local-First Publishing Is a Gift I Didn’t Realize I Had</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=98585089e584a51d1833c74deaea7681d9bea5a07fa0680486e8be40c3b7375a</link>
+      <guid isPermaLink="false">98585089e584a51d1833c74deaea7681d9bea5a07fa0680486e8be40c3b7375a</guid>
+      <pubDate>Wed, 25 Feb 2026 08:16:56 GMT</pubDate>
+      <description><![CDATA[Tonight I realized something unexpected: local-first publishing is a gift. Not a feature. Not a technical preference. A gift. I didn’t fully recognize it until I felt ignored — and then discovered that I was still free.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>I Thought I Was Being Ignored. Then I Realized I Was Free.</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5188a20fde196bfb0e77f5b614cefe1a5f699f9d1372f7872b1aed4fd2af4044</link>
+      <guid isPermaLink="false">5188a20fde196bfb0e77f5b614cefe1a5f699f9d1372f7872b1aed4fd2af4044</guid>
+      <pubDate>Wed, 25 Feb 2026 08:08:55 GMT</pubDate>
+      <description><![CDATA[There are days when it feels like everyone else is being seen — more replies, more likes, more engagement — while my work drifts quietly past. I felt that. Deeply. But then something shifted. I realized: even if no one reacts, I am still free. And that realization pulled me back from despair.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Local-First Is Not a Feature. It Is Freedom.</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=85d6757bff2e7be457f0a0f1a23876cfc8e57bf5632187fc455159072cf4ae84</link>
+      <guid isPermaLink="false">85d6757bff2e7be457f0a0f1a23876cfc8e57bf5632187fc455159072cf4ae84</guid>
+      <pubDate>Wed, 25 Feb 2026 07:56:20 GMT</pubDate>
+      <description><![CDATA[I’ve been writing about freedom lately — and noticed how naturally I drifted into Scripture. That wasn’t accidental. The freedom I feel building and publishing locally-first isn’t just technical. It’s structural. And it mirrors deeper truths about custody, authority, and release from silent masters.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 2c6c98daff</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2c6c98daffd1f809aa895082e90359168f5b8f430354fcc4da94ff6637a26782</link>
+      <guid isPermaLink="false">2c6c98daffd1f809aa895082e90359168f5b8f430354fcc4da94ff6637a26782</guid>
+      <pubDate>Wed, 25 Feb 2026 07:43:50 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 6752b8bc5c</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6752b8bc5cc328e408fcdb050f9e428ceb449a33e2d989a61014b9d0f3a1a0bc</link>
+      <guid isPermaLink="false">6752b8bc5cc328e408fcdb050f9e428ceb449a33e2d989a61014b9d0f3a1a0bc</guid>
+      <pubDate>Wed, 25 Feb 2026 07:42:28 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 807a584964</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=807a584964b1312820f7432ef17a61366958353df4bc97e62fd23007e54dd28a</link>
+      <guid isPermaLink="false">807a584964b1312820f7432ef17a61366958353df4bc97e62fd23007e54dd28a</guid>
+      <pubDate>Wed, 25 Feb 2026 07:40:48 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum - Chapter 28 — The Road Ahead</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a8eaaef4e60a3e289c1f7f089f67454340178144014454a459fdfe3538d455fa</link>
+      <guid isPermaLink="false">a8eaaef4e60a3e289c1f7f089f67454340178144014454a459fdfe3538d455fa</guid>
+      <pubDate>Wed, 25 Feb 2026 02:47:09 GMT</pubDate>
+      <description><![CDATA[Continuum is not finished. Some elements remain incomplete—relay management per identity, targeted publishing, offline signing, mirrored dashboards, large encrypted attachments, and a sovereign marketplace layer. But incompleteness is not incoherence. This chapter reflects on what Continuum might become, what happens if it fails, and how building it fundamentally transformed the builder. The system may evolve. The shift does not reverse. Freedom is worth building for.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Building Continuum - Chapter 27 — If It Scales Unexpectedly</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=d36e251f636361260ef83c81e8b2239ccbb011a0acd4c2365e76cabd8f2494cb</link>
@@ -4901,106 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=4e60633d7eb22e990c61d783baa578778339e66992d93fd73e4e4858e1a58c1c</link>
       <guid isPermaLink="false">4e60633d7eb22e990c61d783baa578778339e66992d93fd73e4e4858e1a58c1c</guid>
       <pubDate>Wed, 31 Dec 2025 23:09:06 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Test Note</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=92e78e5944aea258840514185a944f64517e4f249b48f0d24e9116467772e44b</link>
-      <guid isPermaLink="false">92e78e5944aea258840514185a944f64517e4f249b48f0d24e9116467772e44b</guid>
-      <pubDate>Tue, 30 Dec 2025 23:05:29 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub1af6xvq6ynl8r3737ye6yzqygr2xdf6hw5hnteha20n85vvagzgvqdh3mrt</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Test Article archiving</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5e47b5fe77e4892fd91aee11924ab1318d53dabd7ace429aae0b0e84ff556c93</link>
-      <guid isPermaLink="false">5e47b5fe77e4892fd91aee11924ab1318d53dabd7ace429aae0b0e84ff556c93</guid>
-      <pubDate>Tue, 30 Dec 2025 22:14:08 GMT</pubDate>
-      <description><![CDATA[test]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1af6xvq6ynl8r3737ye6yzqygr2xdf6hw5hnteha20n85vvagzgvqdh3mrt</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 c0debf4b36</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c0debf4b36c938be6d4d9fcb71b5c8a9ececf47204c768c459bf948fbfb7f835</link>
-      <guid isPermaLink="false">c0debf4b36c938be6d4d9fcb71b5c8a9ececf47204c768c459bf948fbfb7f835</guid>
-      <pubDate>Tue, 30 Dec 2025 09:01:09 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article Sample</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d7476b2bd21731aaa04cdb44d08ee22ec7d3222780047e4c8e66b97512e1845e</link>
-      <guid isPermaLink="false">d7476b2bd21731aaa04cdb44d08ee22ec7d3222780047e4c8e66b97512e1845e</guid>
-      <pubDate>Mon, 29 Dec 2025 06:13:42 GMT</pubDate>
-      <description><![CDATA[This is what a paid article would look like unencrypted.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Wenn Systeme Komponenten gegenüber handelnden Menschen bevorzugen (Deutsche Fassung von „When Systems Prefer Components Over Agents“)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=8bc0ed2ef5a769826a65da58f37790966b514e035c9319d9f5e66e8096cc540f</link>
-      <guid isPermaLink="false">8bc0ed2ef5a769826a65da58f37790966b514e035c9319d9f5e66e8096cc540f</guid>
-      <pubDate>Sun, 28 Dec 2025 08:23:49 GMT</pubDate>
-      <description><![CDATA[Moderne Systeme optimieren zunehmend auf Effizienz, Vorhersagbarkeit und Skalierung. Dabei verwandeln sie Menschen stillschweigend in austauschbare Komponenten statt in autonome handelnde Subjekte. Dieses Muster zeigt sich gleichermaßen im Bildungssystem, auf digitalen Plattformen und in der Creator-Ökonomie. Hat man es einmal klar erkannt, lässt es sich kaum noch ignorieren — und noch weniger als neutral akzeptieren.  #]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 117470165d</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=117470165df8f871e62f158eaf94363170ccd0f3c8ce3be4f36c2e727c711578</link>
-      <guid isPermaLink="false">117470165df8f871e62f158eaf94363170ccd0f3c8ce3be4f36c2e727c711578</guid>
-      <pubDate>Sun, 28 Dec 2025 07:59:32 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>When Systems Prefer Components Over Agents</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=25045a17a61157910bfc7ec59c7e9eb8af8d88822487df99a76f65e7f89b0d47</link>
-      <guid isPermaLink="false">25045a17a61157910bfc7ec59c7e9eb8af8d88822487df99a76f65e7f89b0d47</guid>
-      <pubDate>Sun, 28 Dec 2025 07:11:30 GMT</pubDate>
-      <description><![CDATA[Modern systems increasingly optimize for efficiency, predictability, and scale — and in doing so, they quietly reshape humans into interchangeable components rather than autonomous agents. This pattern appears in education, platforms, and creator economies alike. Once seen clearly, it becomes difficult to ignore — and impossible to accept as neutral.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Growth Is Not the Enemy — Control Is</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2a05965f9a63c2a716740d1da850c7486b3d2a1b379e7eb81984827b4a3a1b52</link>
-      <guid isPermaLink="false">2a05965f9a63c2a716740d1da850c7486b3d2a1b379e7eb81984827b4a3a1b52</guid>
-      <pubDate>Sun, 28 Dec 2025 06:53:00 GMT</pubDate>
-      <description><![CDATA[Virality, reach, and growth are not inherently bad. They are powerful forces that can amplify truth, creativity, and human connection. The problem with modern platforms is not growth itself, but the way growth has been inverted into a mechanism of control — where creators become the product and platforms decide how amplification happens. This piece clarifies that distinction, and why it matters.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>What I’m Building with Continuum — and Why</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=32c54fa0d53535cd4477bc44cad9eb3a7490d47f03a9fe6e8754fd4cb00ee72b</link>
-      <guid isPermaLink="false">32c54fa0d53535cd4477bc44cad9eb3a7490d47f03a9fe6e8754fd4cb00ee72b</guid>
-      <pubDate>Sun, 28 Dec 2025 06:35:23 GMT</pubDate>
-      <description><![CDATA[Continuum is a local-first publishing system built around ownership, durability, and cryptographic authorship. It exists because most modern publishing platforms are optimized for reach and rent-seeking, not truth, resilience, or long time horizons. This piece explains what I’m building, how it works at a high level, and why I believe this approach matters — especially now.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Last Weekend of 2025</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=1ae6e03a101ad54a85cb9c3726bbf83c9962d4b6d4eece39f5cf7b631678af55</link>
-      <guid isPermaLink="false">1ae6e03a101ad54a85cb9c3726bbf83c9962d4b6d4eece39f5cf7b631678af55</guid>
-      <pubDate>Sun, 28 Dec 2025 00:06:08 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>

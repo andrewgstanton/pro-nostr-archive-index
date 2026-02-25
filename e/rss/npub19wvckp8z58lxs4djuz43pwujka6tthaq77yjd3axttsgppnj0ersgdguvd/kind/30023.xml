@@ -5,7 +5,57 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 25 Feb 2026 02:22:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 19:15:28 GMT</lastBuildDate>
+    <item>
+      <title>A Clarification About Clients</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ccd40ea96738122d6fd5925a3054dac7e24993958652fe84adf5a4aa63d125e1</link>
+      <guid isPermaLink="false">ccd40ea96738122d6fd5925a3054dac7e24993958652fe84adf5a4aa63d125e1</guid>
+      <pubDate>Wed, 25 Feb 2026 08:34:51 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Local-First Publishing Is a Gift I Didn’t Realize I Had</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=98585089e584a51d1833c74deaea7681d9bea5a07fa0680486e8be40c3b7375a</link>
+      <guid isPermaLink="false">98585089e584a51d1833c74deaea7681d9bea5a07fa0680486e8be40c3b7375a</guid>
+      <pubDate>Wed, 25 Feb 2026 08:16:56 GMT</pubDate>
+      <description><![CDATA[Tonight I realized something unexpected: local-first publishing is a gift. Not a feature. Not a technical preference. A gift. I didn’t fully recognize it until I felt ignored — and then discovered that I was still free.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>I Thought I Was Being Ignored. Then I Realized I Was Free.</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5188a20fde196bfb0e77f5b614cefe1a5f699f9d1372f7872b1aed4fd2af4044</link>
+      <guid isPermaLink="false">5188a20fde196bfb0e77f5b614cefe1a5f699f9d1372f7872b1aed4fd2af4044</guid>
+      <pubDate>Wed, 25 Feb 2026 08:08:55 GMT</pubDate>
+      <description><![CDATA[There are days when it feels like everyone else is being seen — more replies, more likes, more engagement — while my work drifts quietly past. I felt that. Deeply. But then something shifted. I realized: even if no one reacts, I am still free. And that realization pulled me back from despair.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Local-First Is Not a Feature. It Is Freedom.</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=85d6757bff2e7be457f0a0f1a23876cfc8e57bf5632187fc455159072cf4ae84</link>
+      <guid isPermaLink="false">85d6757bff2e7be457f0a0f1a23876cfc8e57bf5632187fc455159072cf4ae84</guid>
+      <pubDate>Wed, 25 Feb 2026 07:56:20 GMT</pubDate>
+      <description><![CDATA[I’ve been writing about freedom lately — and noticed how naturally I drifted into Scripture. That wasn’t accidental. The freedom I feel building and publishing locally-first isn’t just technical. It’s structural. And it mirrors deeper truths about custody, authority, and release from silent masters.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum - Chapter 28 — The Road Ahead</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a8eaaef4e60a3e289c1f7f089f67454340178144014454a459fdfe3538d455fa</link>
+      <guid isPermaLink="false">a8eaaef4e60a3e289c1f7f089f67454340178144014454a459fdfe3538d455fa</guid>
+      <pubDate>Wed, 25 Feb 2026 02:47:09 GMT</pubDate>
+      <description><![CDATA[Continuum is not finished. Some elements remain incomplete—relay management per identity, targeted publishing, offline signing, mirrored dashboards, large encrypted attachments, and a sovereign marketplace layer. But incompleteness is not incoherence. This chapter reflects on what Continuum might become, what happens if it fails, and how building it fundamentally transformed the builder. The system may evolve. The shift does not reverse. Freedom is worth building for.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Building Continuum - Chapter 27 — If It Scales Unexpectedly</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=d36e251f636361260ef83c81e8b2239ccbb011a0acd4c2365e76cabd8f2494cb</link>
@@ -4952,56 +5002,6 @@
       <guid isPermaLink="false">86d87ce54eda1949a63dea0c67a0bdd78b6cd6be0b3289f833e0e733acb631b2</guid>
       <pubDate>Sat, 15 Nov 2025 04:25:54 GMT</pubDate>
       <description><![CDATA[When hype fades, disposable tech leaves us with nothing. Bitcoin leaves us with property that endures.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Odd, and at Home in the Open Field</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=257afdd49bead4689a5fa61bc8b96a237c27f0cceaf7b62ec5aae4caa50bea31</link>
-      <guid isPermaLink="false">257afdd49bead4689a5fa61bc8b96a237c27f0cceaf7b62ec5aae4caa50bea31</guid>
-      <pubDate>Sat, 15 Nov 2025 02:51:53 GMT</pubDate>
-      <description><![CDATA[This article highlights how Nostr opened new ways of thinking for me.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Parable of Bitcoin</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e0b263fc5f6ba09cd88ed293829a395f50ed9c00011d453d27b17e0a1598e3a6</link>
-      <guid isPermaLink="false">e0b263fc5f6ba09cd88ed293829a395f50ed9c00011d453d27b17e0a1598e3a6</guid>
-      <pubDate>Sat, 15 Nov 2025 02:49:45 GMT</pubDate>
-      <description><![CDATA[The Parable of Bitcoin explores how Bitcoin functions not just as technology, but as a modern parable of truth, value, sacrifice, and incorruptibility. Like treasure hidden in a field or a mustard seed that grows into shelter, Bitcoin reveals deeper realities: freedom requires cost, truth cannot be counterfeited, and enduring conviction matters more than early fortune. It is not the Kingdom, but it points toward the Kingdom — a signpost of incorruptible truth in a world of lies.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Sept. 2, 2025): Web3’s Mirage — Tokens, Ownership, and the Return of Disposability</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=dd41c310ad561fbc65d6f8dbec27244364fcb3d850cdd4fbb30f69fa4ba52e5d</link>
-      <guid isPermaLink="false">dd41c310ad561fbc65d6f8dbec27244364fcb3d850cdd4fbb30f69fa4ba52e5d</guid>
-      <pubDate>Sat, 15 Nov 2025 02:45:17 GMT</pubDate>
-      <description><![CDATA[Web3 promised permanence but delivered disposability. From EOS to Terra/LUNA, FTX to OpenSea, its projects collapsed when the hype faded. The ownership it offered was a mirage. Bitcoin alone provides incorruptible property that endures.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Discord Wasn’t the Problem — Platform Dependence Was</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=17be3a3ecde8d518892d629f94e9b649606d0be95a1cdc7732f5f0951aab9cfa</link>
-      <guid isPermaLink="false">17be3a3ecde8d518892d629f94e9b649606d0be95a1cdc7732f5f0951aab9cfa</guid>
-      <pubDate>Sat, 15 Nov 2025 01:44:48 GMT</pubDate>
-      <description><![CDATA[After Microsoft shut down Skype in May 2025, I realized how fragile our workflows really are. Moving to Discord wasn’t the issue — it was the wakeup call. This post traces how that moment led me to build MyContinuum: a sovereign stack for publishing, coding, and communicating without renting my own signal.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 13, 2025): Tiny On-Ramps: Turning Little Experiments into Real Income</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f27fe66f8bd2928961a599d77139ada21b896181111b0d9926b468b4563860d4</link>
-      <guid isPermaLink="false">f27fe66f8bd2928961a599d77139ada21b896181111b0d9926b468b4563860d4</guid>
-      <pubDate>Fri, 14 Nov 2025 21:48:20 GMT</pubDate>
-      <description><![CDATA[How small, messy experiments — like a YouTube kitchen channel or a random side gig — can become honest income streams without dragging you back into walled gardens or fake work.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
