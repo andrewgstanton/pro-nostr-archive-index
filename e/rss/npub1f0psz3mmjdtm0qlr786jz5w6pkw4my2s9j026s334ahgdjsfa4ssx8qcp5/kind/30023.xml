@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Continuum Archive Index — npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5 (Articles)</title>
+    <link>https://nostr.mycontinuum.xyz/e/list.html</link>
+    <description>Index for npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5 filtered to articles (kind:30023), newest 500.</description>
+    <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5/kind/30023.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Feb 2026 22:44:17 GMT</lastBuildDate>
+    <item>
+      <title>Shipping applications without funding: an async, open-source- inspired model using equity (HSD)</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a8ddd721b9602301d6d241cac2b75eef1acc1e542e67bc2b59ddca50f2b798dc</link>
+      <guid isPermaLink="false">a8ddd721b9602301d6d241cac2b75eef1acc1e542e67bc2b59ddca50f2b798dc</guid>
+      <pubDate>Sat, 17 Jan 2026 22:27:10 GMT</pubDate>
+      <description><![CDATA[Indie Hacker original post on 1/12/2026]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5</category>
+      <category>paid:false</category>
+    </item>
+  </channel>
+</rss>

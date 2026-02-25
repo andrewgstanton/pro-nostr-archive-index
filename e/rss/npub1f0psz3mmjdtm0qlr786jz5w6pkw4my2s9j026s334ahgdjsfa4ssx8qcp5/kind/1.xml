@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Continuum Archive Index — npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5 (Notes)</title>
+    <link>https://nostr.mycontinuum.xyz/e/list.html</link>
+    <description>Index for npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5 filtered to notes (kind:1), newest 500.</description>
+    <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5/kind/1.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Feb 2026 22:44:17 GMT</lastBuildDate>
+    <item>
+      <title>Scaling Smarter: Our Vision for Remote Talent + AI-Driven Startups</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b0d6dc6e331808a69a3d9cdb0ae9e07d1c27b982a01f78861a7e1940ad7a7714</link>
+      <guid isPermaLink="false">b0d6dc6e331808a69a3d9cdb0ae9e07d1c27b982a01f78861a7e1940ad7a7714</guid>
+      <pubDate>Tue, 22 Jul 2025 23:39:50 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5</category>
+      <category>paid:false</category>
+    </item>
+  </channel>
+</rss>

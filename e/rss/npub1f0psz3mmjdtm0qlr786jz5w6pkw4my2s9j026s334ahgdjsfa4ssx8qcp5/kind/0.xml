@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Continuum Archive Index — npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5 (Profiles)</title>
+    <link>https://nostr.mycontinuum.xyz/e/list.html</link>
+    <description>Index for npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5 filtered to profiles (kind:0), newest 500.</description>
+    <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5/kind/0.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Feb 2026 22:44:17 GMT</lastBuildDate>
+    <item>
+      <title>kind:0 bdb6625578</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=bdb66255789a8b6b5c7f08f35f35d2dcd529701dc10d5d796e520dfb4623f74d</link>
+      <guid isPermaLink="false">bdb66255789a8b6b5c7f08f35f35d2dcd529701dc10d5d796e520dfb4623f74d</guid>
+      <pubDate>Tue, 09 Sep 2025 23:34:14 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:0</category>
+      <category>npub:npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5</category>
+      <category>paid:false</category>
+    </item>
+  </channel>
+</rss>

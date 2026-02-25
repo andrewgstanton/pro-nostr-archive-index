@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Continuum Archive Index — npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5</title>
+    <link>https://nostr.mycontinuum.xyz/e/list.html</link>
+    <description>Canonical chronological index for npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5 (newest 500).</description>
+    <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Feb 2026 22:44:17 GMT</lastBuildDate>
+    <item>
+      <title>Shipping applications without funding: an async, open-source- inspired model using equity (HSD)</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a8ddd721b9602301d6d241cac2b75eef1acc1e542e67bc2b59ddca50f2b798dc</link>
+      <guid isPermaLink="false">a8ddd721b9602301d6d241cac2b75eef1acc1e542e67bc2b59ddca50f2b798dc</guid>
+      <pubDate>Sat, 17 Jan 2026 22:27:10 GMT</pubDate>
+      <description><![CDATA[Indie Hacker original post on 1/12/2026]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:0 bdb6625578</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=bdb66255789a8b6b5c7f08f35f35d2dcd529701dc10d5d796e520dfb4623f74d</link>
+      <guid isPermaLink="false">bdb66255789a8b6b5c7f08f35f35d2dcd529701dc10d5d796e520dfb4623f74d</guid>
+      <pubDate>Tue, 09 Sep 2025 23:34:14 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:0</category>
+      <category>npub:npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Scaling Smarter: Our Vision for Remote Talent + AI-Driven Startups</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b0d6dc6e331808a69a3d9cdb0ae9e07d1c27b982a01f78861a7e1940ad7a7714</link>
+      <guid isPermaLink="false">b0d6dc6e331808a69a3d9cdb0ae9e07d1c27b982a01f78861a7e1940ad7a7714</guid>
+      <pubDate>Tue, 22 Jul 2025 23:39:50 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5</category>
+      <category>paid:false</category>
+    </item>
+  </channel>
+</rss>

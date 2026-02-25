@@ -1,13 +1,25 @@
 [
   {
+    "slug": "hsd-concerns",
+    "event_id": "f4d14948ab22df678b71adbb9ee5d25cec0124704985815dabdb0c3989a8a4f8",
+    "created_at": 1772057183,
+    "npub": "npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5/30023/f4d14948ab22df678b71adbb9ee5d25cec0124704985815dabdb0c3989a8a4f8.json",
+    "title": "",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
     "slug": "continuum-16---2232026",
     "event_id": "e660b1345484cbfa29bbffa07485e89c163b49ef99db965d254b367e5bab763b",
     "created_at": 1772049310,
     "npub": "npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8",
     "kind": 30023,
     "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8/30023/e660b1345484cbfa29bbffa07485e89c163b49ef99db965d254b367e5bab763b.json",
-    "title": "",
-    "summary": "",
+    "title": "Continuum 1.6",
+    "summary": "Continuum is a a local-first publishing and identity tool built on Nostr",
     "paid": false
   },
   {
