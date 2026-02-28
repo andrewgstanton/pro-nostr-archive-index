@@ -2789,15 +2789,15 @@
     "latest_year": 2026
   },
   "building-continuum---chapter-25--exit-as-structural-right-2026-02-19": {
-    "latest_event_id": "7379e1ed7abb64bcf70b504155698be50dc43ca32db892dff3bebbeab9a52805",
+    "latest_event_id": "3856c25aabfe605bf277b67142d9dd199ababfabf61b83c1178fdba898b8d6cd",
     "latest_year": 2026
   },
   "building-continuum---chapter-24--power-custody-and-authority-2026-02-19": {
-    "latest_event_id": "8010e372abde00a9250e3f82517806f36e5697dde087bbca2876a85b6a3e978e",
+    "latest_event_id": "8db04cf9eb2865686928ac6aa8e2140ee33beefd38488f52ac070129c1b68934",
     "latest_year": 2026
   },
   "building-continuum---chapter-23--local-first-as-moral-constraint-2026-02-19": {
-    "latest_event_id": "e2fcd097b32da40757fcef48dfd754ec0120d0da7bb3d341d1dc23e1eaf0092d",
+    "latest_event_id": "dcc0d7bc4bf73037bfd81e6ffa729e676c4178e635af55edd42404d0a91f4048",
     "latest_year": 2026
   },
   "building-continuum---chapter-22--ai-and-the-centralization-wave-2026-02-19": {
@@ -2810,31 +2810,68 @@
     "published": false
   },
   "-buidling-continuum---chap-26---rules-that-do-not-bend-2026-02-24": {
-    "latest_event_id": "40bbeedb24b726fb7917007b5200cdefc13113ae10cbc22912d08c183de37655",
+    "latest_event_id": "d546ac2b13b0f655419b9acc7cf717d7cb269777ec646687b36c5536488427e8",
     "latest_year": 2026
   },
   "-building-continuum---chapter-27--if-it-scales-unexpectedly-2026-02-24": {
-    "latest_event_id": "d36e251f636361260ef83c81e8b2239ccbb011a0acd4c2365e76cabd8f2494cb",
+    "latest_event_id": "c6f7650743512ddebf8669baeeb2796dc42acbc0426ee51a6babc9d1d0855346",
     "latest_year": 2026
   },
   "building-continuum---chapter-28--the-road-ahead-2026-02-24": {
-    "latest_event_id": "a8eaaef4e60a3e289c1f7f089f67454340178144014454a459fdfe3538d455fa",
+    "latest_event_id": "186003a789ea991d7c40b52e90693b16fbbe16522130819bca8bfcf3ad814ae2",
     "latest_year": 2026
   },
   "local-first-is-not-a-feature-it-is-freedom": {
-    "latest_event_id": "85d6757bff2e7be457f0a0f1a23876cfc8e57bf5632187fc455159072cf4ae84",
+    "latest_event_id": "cf3378c3cc2584358ed8a694fcaa9d6222231aef27f3c84732f2942df1242c65",
     "latest_year": 2026
   },
   "i-thought-i-was-being-ignored-then-i-realized-i-was-free": {
-    "latest_event_id": "5188a20fde196bfb0e77f5b614cefe1a5f699f9d1372f7872b1aed4fd2af4044",
+    "latest_event_id": "f45a702634a94f761392dce173df0f7a1fb32809a1d6cd226fe5e3476088614d",
     "latest_year": 2026
   },
   "local-first-publishing-is-a-gift-i-didnt-realize-i-had": {
-    "latest_event_id": "98585089e584a51d1833c74deaea7681d9bea5a07fa0680486e8be40c3b7375a",
+    "latest_event_id": "175576ba80644832549353fada89030bb1227c962027b27939052e36b05b5af1",
     "latest_year": 2026
   },
   "a-clarification-about-clients": {
-    "latest_event_id": "ccd40ea96738122d6fd5925a3054dac7e24993958652fe84adf5a4aa63d125e1",
+    "latest_event_id": "4dadaa778f9d731c9c315bdef317f429837fd8dde5e8862a187c70bccc87708d",
+    "latest_year": 2026
+  },
+  "next-phase-publish-ready-plan-building-continuum": {
+    "latest_event_id": "8bac6be5edcf0c5880cc2562b6184e84508b6b856e0b529d9dff5a9c2366230b",
+    "latest_year": 2026,
+    "published": false
+  },
+  "notes---continuum---2262026": {
+    "latest_event_id": "70bfd03950f0c2242cce60e384f4269454f397be9e55c952f9879dfe6aa058aa",
+    "latest_year": 2026,
+    "published": false
+  },
+  "recruiter-talking-points---for-322026---andrew-whiteside": {
+    "latest_event_id": "ef2f70ec4427ea1428040c4d88a9b09931aa1559b9dfcb1a23a0880188e4d8a7",
+    "latest_year": 2026,
+    "published": false
+  },
+  "simple-prep-15-minutes-max---kaiser-associates-eric-hang---392026": {
+    "latest_event_id": "3c093b167987052c80443b7828f1066a794dab80ff857ba73a5286f006f5f123",
+    "latest_year": 2026,
+    "published": false
+  },
+  "nostr-authentication--portable-identity": {
+    "latest_event_id": "fd3a68cb4bfd50d8349da908d237660c104d53c7986f6dfb32b76da5358fe8e9",
+    "latest_year": 2026,
+    "published": false
+  },
+  "the-courage-to-stop": {
+    "latest_event_id": "739d014a6ebf388993d11eae991b8baa11ce3fc3bd7bd31f568ceadf2198fa48",
+    "latest_year": 2026
+  },
+  "sabbath-is-not-laziness--it-is-authority": {
+    "latest_event_id": "759db80889edd2bafd406e815816bd6f9e3a514ec301fcd246c0b31eea94ccf9",
+    "latest_year": 2026
+  },
+  "freedom-requires-rhythm": {
+    "latest_event_id": "97f4ed4b474ae620b437db45064aacf7a3fa33168c7661bb602cd9395b333ee7",
     "latest_year": 2026
   }
 }
