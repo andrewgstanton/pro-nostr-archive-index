@@ -5,7 +5,67 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 25 Feb 2026 22:44:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 20:06:03 GMT</lastBuildDate>
+    <item>
+      <title>Freedom Requires Rhythm</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=97f4ed4b474ae620b437db45064aacf7a3fa33168c7661bb602cd9395b333ee7</link>
+      <guid isPermaLink="false">97f4ed4b474ae620b437db45064aacf7a3fa33168c7661bb602cd9395b333ee7</guid>
+      <pubDate>Sat, 28 Feb 2026 19:50:44 GMT</pubDate>
+      <description><![CDATA[Total freedom without rhythm becomes chaos. Sabbath is the rhythm that preserves strength, clarity, and long-term impact.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Sabbath Is Not Laziness — It Is Authority</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=759db80889edd2bafd406e815816bd6f9e3a514ec301fcd246c0b31eea94ccf9</link>
+      <guid isPermaLink="false">759db80889edd2bafd406e815816bd6f9e3a514ec301fcd246c0b31eea94ccf9</guid>
+      <pubDate>Sat, 28 Feb 2026 19:50:04 GMT</pubDate>
+      <description><![CDATA[Sabbath is not retreat from work. It is dominion over it. To rest intentionally is to declare that provision does not come from panic.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Courage to Stop</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=739d014a6ebf388993d11eae991b8baa11ce3fc3bd7bd31f568ceadf2198fa48</link>
+      <guid isPermaLink="false">739d014a6ebf388993d11eae991b8baa11ce3fc3bd7bd31f568ceadf2198fa48</guid>
+      <pubDate>Sat, 28 Feb 2026 19:49:40 GMT</pubDate>
+      <description><![CDATA[Stopping requires more faith than striving. Sabbath is trust enacted in time. It confronts anxiety, ambition, and identity — and restores clarity.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum - Chapter 23 — Local-First as Moral Constraint</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=dcc0d7bc4bf73037bfd81e6ffa729e676c4178e635af55edd42404d0a91f4048</link>
+      <guid isPermaLink="false">dcc0d7bc4bf73037bfd81e6ffa729e676c4178e635af55edd42404d0a91f4048</guid>
+      <pubDate>Thu, 26 Feb 2026 04:45:13 GMT</pubDate>
+      <description><![CDATA[Local-first architecture introduces friction by design. It limits seamlessness, slows certain workflows, and requires user awareness. These limitations are not regressions. They are constraints. This chapter explores how constraint functions as formative structure, why convenience culture erodes agency over time, and how local-first systems preserve dignity by requiring participation rather than passive tenancy.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum - Chapter 24 — Power, Custody, and Authority</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=8db04cf9eb2865686928ac6aa8e2140ee33beefd38488f52ac070129c1b68934</link>
+      <guid isPermaLink="false">8db04cf9eb2865686928ac6aa8e2140ee33beefd38488f52ac070129c1b68934</guid>
+      <pubDate>Thu, 26 Feb 2026 04:44:19 GMT</pubDate>
+      <description><![CDATA[Every digital system encodes an answer to a quiet question: who ultimately decides? Decisions about access, identity, publication, and record permanence are often treated as policy issues, but they are architectural first. This chapter explores how authority is embedded in infrastructure, how moderation and account systems concentrate control, and why custody redistributes baseline power without collapsing social order. Sovereignty here is defined not as isolation, but as structural dignity.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building Continuum - Chapter 25 — Exit as Structural Right</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3856c25aabfe605bf277b67142d9dd199ababfabf61b83c1178fdba898b8d6cd</link>
+      <guid isPermaLink="false">3856c25aabfe605bf277b67142d9dd199ababfabf61b83c1178fdba898b8d6cd</guid>
+      <pubDate>Thu, 26 Feb 2026 04:43:11 GMT</pubDate>
+      <description><![CDATA[Exit is often misunderstood as disloyalty or rebellion. In architectural terms, exit is the proof of voluntary participation. Systems that allow full data export, identity portability, and independent archival demonstrate confidence. Systems that complicate departure reveal dependency. This chapter explores exit as structural dignity — not hostility — and why portability must be embedded in design rather than promised in policy.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Continuum 1.6</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=e660b1345484cbfa29bbffa07485e89c163b49ef99db965d254b367e5bab763b</link>
@@ -17,71 +77,71 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>A Clarification About Clients</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ccd40ea96738122d6fd5925a3054dac7e24993958652fe84adf5a4aa63d125e1</link>
-      <guid isPermaLink="false">ccd40ea96738122d6fd5925a3054dac7e24993958652fe84adf5a4aa63d125e1</guid>
-      <pubDate>Wed, 25 Feb 2026 08:34:51 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Local-First Publishing Is a Gift I Didn’t Realize I Had</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=98585089e584a51d1833c74deaea7681d9bea5a07fa0680486e8be40c3b7375a</link>
-      <guid isPermaLink="false">98585089e584a51d1833c74deaea7681d9bea5a07fa0680486e8be40c3b7375a</guid>
-      <pubDate>Wed, 25 Feb 2026 08:16:56 GMT</pubDate>
-      <description><![CDATA[Tonight I realized something unexpected: local-first publishing is a gift. Not a feature. Not a technical preference. A gift. I didn’t fully recognize it until I felt ignored — and then discovered that I was still free.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>I Thought I Was Being Ignored. Then I Realized I Was Free.</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5188a20fde196bfb0e77f5b614cefe1a5f699f9d1372f7872b1aed4fd2af4044</link>
-      <guid isPermaLink="false">5188a20fde196bfb0e77f5b614cefe1a5f699f9d1372f7872b1aed4fd2af4044</guid>
-      <pubDate>Wed, 25 Feb 2026 08:08:55 GMT</pubDate>
-      <description><![CDATA[There are days when it feels like everyone else is being seen — more replies, more likes, more engagement — while my work drifts quietly past. I felt that. Deeply. But then something shifted. I realized: even if no one reacts, I am still free. And that realization pulled me back from despair.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Local-First Is Not a Feature. It Is Freedom.</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=85d6757bff2e7be457f0a0f1a23876cfc8e57bf5632187fc455159072cf4ae84</link>
-      <guid isPermaLink="false">85d6757bff2e7be457f0a0f1a23876cfc8e57bf5632187fc455159072cf4ae84</guid>
-      <pubDate>Wed, 25 Feb 2026 07:56:20 GMT</pubDate>
-      <description><![CDATA[I’ve been writing about freedom lately — and noticed how naturally I drifted into Scripture. That wasn’t accidental. The freedom I feel building and publishing locally-first isn’t just technical. It’s structural. And it mirrors deeper truths about custody, authority, and release from silent masters.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Building Continuum - Chapter 28 — The Road Ahead</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a8eaaef4e60a3e289c1f7f089f67454340178144014454a459fdfe3538d455fa</link>
-      <guid isPermaLink="false">a8eaaef4e60a3e289c1f7f089f67454340178144014454a459fdfe3538d455fa</guid>
-      <pubDate>Wed, 25 Feb 2026 02:47:09 GMT</pubDate>
-      <description><![CDATA[Continuum is not finished. Some elements remain incomplete—relay management per identity, targeted publishing, offline signing, mirrored dashboards, large encrypted attachments, and a sovereign marketplace layer. But incompleteness is not incoherence. This chapter reflects on what Continuum might become, what happens if it fails, and how building it fundamentally transformed the builder. The system may evolve. The shift does not reverse. Freedom is worth building for.]]></description>
+      <title>🔒 Buidling Continuum - Chap. 26 - Rules That Do Not Bend</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d546ac2b13b0f655419b9acc7cf717d7cb269777ec646687b36c5536488427e8</link>
+      <guid isPermaLink="false">d546ac2b13b0f655419b9acc7cf717d7cb269777ec646687b36c5536488427e8</guid>
+      <pubDate>Wed, 25 Feb 2026 19:47:45 GMT</pubDate>
+      <description><![CDATA[Growth is welcome. But growth that fractures trust boundaries is corrosion. In this chapter, I confront the real temptation behind slow adoption—the shortcut of central hosting—and explain why Continuum rests on seven rules that do not bend. These rules are not aesthetic preferences; they are structural constraints designed to prevent leverage, inconsistency, and quiet self-betrayal. Ease is welcome. Dilution is not.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
     <item>
       <title>🔒 Building Continuum - Chapter 27 — If It Scales Unexpectedly</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d36e251f636361260ef83c81e8b2239ccbb011a0acd4c2365e76cabd8f2494cb</link>
-      <guid isPermaLink="false">d36e251f636361260ef83c81e8b2239ccbb011a0acd4c2365e76cabd8f2494cb</guid>
-      <pubDate>Wed, 25 Feb 2026 01:19:38 GMT</pubDate>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c6f7650743512ddebf8669baeeb2796dc42acbc0426ee51a6babc9d1d0855346</link>
+      <guid isPermaLink="false">c6f7650743512ddebf8669baeeb2796dc42acbc0426ee51a6babc9d1d0855346</guid>
+      <pubDate>Wed, 25 Feb 2026 19:31:28 GMT</pubDate>
       <description><![CDATA[Obscurity tests conviction. Growth tests clarity. In this chapter, I explore what would happen if Continuum scaled faster than expected. The real danger would not be failure. It would be drift—convenience pressure, feature accumulation, and the quiet erosion of simplicity. If Continuum grows, it must remain understandable, constrained, and structurally coherent.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
     <item>
-      <title>🔒 Buidling Continuum - Chap. 26 - Rules That Do Not Bend</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=40bbeedb24b726fb7917007b5200cdefc13113ae10cbc22912d08c183de37655</link>
-      <guid isPermaLink="false">40bbeedb24b726fb7917007b5200cdefc13113ae10cbc22912d08c183de37655</guid>
-      <pubDate>Wed, 25 Feb 2026 00:22:47 GMT</pubDate>
-      <description><![CDATA[Growth is welcome. But growth that fractures trust boundaries is corrosion. In this chapter, I confront the real temptation behind slow adoption—the shortcut of central hosting—and explain why Continuum rests on seven rules that do not bend. These rules are not aesthetic preferences; they are structural constraints designed to prevent leverage, inconsistency, and quiet self-betrayal. Ease is welcome. Dilution is not.]]></description>
+      <title>🔒 Building Continuum - Chapter 28 — The Road Ahead</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=186003a789ea991d7c40b52e90693b16fbbe16522130819bca8bfcf3ad814ae2</link>
+      <guid isPermaLink="false">186003a789ea991d7c40b52e90693b16fbbe16522130819bca8bfcf3ad814ae2</guid>
+      <pubDate>Wed, 25 Feb 2026 19:28:50 GMT</pubDate>
+      <description><![CDATA[Continuum is not finished. Some elements remain incomplete—relay management per identity, targeted publishing, offline signing, mirrored dashboards, large encrypted attachments, and a sovereign marketplace layer. But incompleteness is not incoherence. This chapter reflects on what Continuum might become, what happens if it fails, and how building it fundamentally transformed the builder. The system may evolve. The shift does not reverse. Freedom is worth building for.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Local-First Is Not a Feature. It Is Freedom.</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=cf3378c3cc2584358ed8a694fcaa9d6222231aef27f3c84732f2942df1242c65</link>
+      <guid isPermaLink="false">cf3378c3cc2584358ed8a694fcaa9d6222231aef27f3c84732f2942df1242c65</guid>
+      <pubDate>Wed, 25 Feb 2026 19:26:53 GMT</pubDate>
+      <description><![CDATA[I’ve been writing about freedom lately — and noticed how naturally I drifted into Scripture. That wasn’t accidental. The freedom I feel building and publishing locally-first isn’t just technical. It’s structural. And it mirrors deeper truths about custody, authority, and release from silent masters.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>I Thought I Was Being Ignored. Then I Realized I Was Free.</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f45a702634a94f761392dce173df0f7a1fb32809a1d6cd226fe5e3476088614d</link>
+      <guid isPermaLink="false">f45a702634a94f761392dce173df0f7a1fb32809a1d6cd226fe5e3476088614d</guid>
+      <pubDate>Wed, 25 Feb 2026 19:26:21 GMT</pubDate>
+      <description><![CDATA[There are days when it feels like everyone else is being seen — more replies, more likes, more engagement — while my work drifts quietly past. I felt that. Deeply. But then something shifted. I realized: even if no one reacts, I am still free. And that realization pulled me back from despair.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Local-First Publishing Is a Gift I Didn’t Realize I Had</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=175576ba80644832549353fada89030bb1227c962027b27939052e36b05b5af1</link>
+      <guid isPermaLink="false">175576ba80644832549353fada89030bb1227c962027b27939052e36b05b5af1</guid>
+      <pubDate>Wed, 25 Feb 2026 19:25:52 GMT</pubDate>
+      <description><![CDATA[Tonight I realized something unexpected: local-first publishing is a gift. Not a feature. Not a technical preference. A gift. I didn’t fully recognize it until I felt ignored — and then discovered that I was still free.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>A Clarification About Clients</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4dadaa778f9d731c9c315bdef317f429837fd8dde5e8862a187c70bccc87708d</link>
+      <guid isPermaLink="false">4dadaa778f9d731c9c315bdef317f429837fd8dde5e8862a187c70bccc87708d</guid>
+      <pubDate>Wed, 25 Feb 2026 19:25:08 GMT</pubDate>
+      <description><![CDATA[]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
@@ -92,36 +152,6 @@
       <guid isPermaLink="false">2bfff4c812a4bed7f1fe0576f3cd579c5ed9ddcdd064e1859d90829bdaa27a23</guid>
       <pubDate>Fri, 20 Feb 2026 01:51:03 GMT</pubDate>
       <description><![CDATA[Artificial intelligence amplifies existing infrastructure concentration. Training large-scale models requires capital, data aggregation, and specialized hardware — conditions that naturally consolidate power. When AI inference is delivered exclusively via cloud APIs, access to cognition becomes mediated by identity and billing systems. This chapter explores how AI intensifies dependency dynamics, why the issue is structural rather than conspiratorial, and why identity portability becomes more critical as inference centralizes.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Building Continuum - Chapter 23 — Local-First as Moral Constraint</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e2fcd097b32da40757fcef48dfd754ec0120d0da7bb3d341d1dc23e1eaf0092d</link>
-      <guid isPermaLink="false">e2fcd097b32da40757fcef48dfd754ec0120d0da7bb3d341d1dc23e1eaf0092d</guid>
-      <pubDate>Fri, 20 Feb 2026 01:50:23 GMT</pubDate>
-      <description><![CDATA[Local-first architecture introduces friction by design. It limits seamlessness, slows certain workflows, and requires user awareness. These limitations are not regressions. They are constraints. This chapter explores how constraint functions as formative structure, why convenience culture erodes agency over time, and how local-first systems preserve dignity by requiring participation rather than passive tenancy.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Building Continuum - Chapter 24 — Power, Custody, and Authority</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=8010e372abde00a9250e3f82517806f36e5697dde087bbca2876a85b6a3e978e</link>
-      <guid isPermaLink="false">8010e372abde00a9250e3f82517806f36e5697dde087bbca2876a85b6a3e978e</guid>
-      <pubDate>Fri, 20 Feb 2026 01:49:27 GMT</pubDate>
-      <description><![CDATA[Every digital system encodes an answer to a quiet question: who ultimately decides? Decisions about access, identity, publication, and record permanence are often treated as policy issues, but they are architectural first. This chapter explores how authority is embedded in infrastructure, how moderation and account systems concentrate control, and why custody redistributes baseline power without collapsing social order. Sovereignty here is defined not as isolation, but as structural dignity.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Building Continuum - Chapter 25 — Exit as Structural Right</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7379e1ed7abb64bcf70b504155698be50dc43ca32db892dff3bebbeab9a52805</link>
-      <guid isPermaLink="false">7379e1ed7abb64bcf70b504155698be50dc43ca32db892dff3bebbeab9a52805</guid>
-      <pubDate>Fri, 20 Feb 2026 01:48:51 GMT</pubDate>
-      <description><![CDATA[Exit is often misunderstood as disloyalty or rebellion. In architectural terms, exit is the proof of voluntary participation. Systems that allow full data export, identity portability, and independent archival demonstrate confidence. Systems that complicate departure reveal dependency. This chapter explores exit as structural dignity — not hostility — and why portability must be embedded in design rather than promised in policy.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
@@ -4972,36 +5002,6 @@
       <guid isPermaLink="false">68531bc23f43a22fbcde7ac7929b4fbd1add36d67f9c6a07627c4af41896b01e</guid>
       <pubDate>Sat, 15 Nov 2025 20:11:45 GMT</pubDate>
       <description><![CDATA[After just a few weeks of focused building, I'm releasing v1.0.0 of Continuum — a fully self-hosted, Bitcoin-aligned publishing dashboard for Nostr. This milestone marks a shift away from reliance on centralized clients like Primal, giving users full local control over their notes and articles with Markdown editing, SQLite storage, and timezone-aware publishing. Built with Docker, tested across browsers and platforms, and designed with sovereignty in mind, Continuum is now live and free to clone. Hosted and paid-tier features will follow. This is what it looks like to build protocol-first.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🏗️ From Walled Gardens to Sovereign Stacks</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=08986f141968fde8b192b407524ff6ac48038c3b83fbf76193d34a5291d5f5df</link>
-      <guid isPermaLink="false">08986f141968fde8b192b407524ff6ac48038c3b83fbf76193d34a5291d5f5df</guid>
-      <pubDate>Sat, 15 Nov 2025 20:06:01 GMT</pubDate>
-      <description><![CDATA[A personal manifesto for breaking out of SaaS walled gardens — and building protocol-native, sovereign tools using Nostr and Bitcoin. From property registries to publishing, this is a blueprint for opting out and building free.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>GitHub Is Still Free — But You're the Product</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=92123002f567096c26e1a9f19210f3a92c9ed22d23e22c41a9bd8a563ea5ba8b</link>
-      <guid isPermaLink="false">92123002f567096c26e1a9f19210f3a92c9ed22d23e22c41a9bd8a563ea5ba8b</guid>
-      <pubDate>Sat, 15 Nov 2025 07:26:29 GMT</pubDate>
-      <description><![CDATA[GitHub remains free and widely used, but its acquisition by Microsoft has shifted its role from open-source steward to data-harvesting platform. As GitHub integrates more tightly with tools like Copilot and Azure, developers face growing risks of lock-in, surveillance, and platform dependency. This article explores the tradeoffs of “free” tools, the importance of digital sovereignty, and emerging alternatives like Cloudflare Pages, Nostr, and self-hosted Git platforms. It’s not just about cost—it’s about control.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Don’t Trade One False Narrative for Another</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c317bb9d10355febad427deb41e5c7d10ab185e8d7e7970568b4dfa24957118b</link>
-      <guid isPermaLink="false">c317bb9d10355febad427deb41e5c7d10ab185e8d7e7970568b4dfa24957118b</guid>
-      <pubDate>Sat, 15 Nov 2025 07:23:34 GMT</pubDate>
-      <description><![CDATA[This is a reflection for seekers, skeptics, and sovereign thinkers on Nostr.In a world flooded with lies, it’s tempting to believe that everything is a lie. But real sovereignty isn’t just rejecting the mainstream — it’s learning to discern, verify, and walk in truth.This piece is a call to Bitcoiners, Christians, and freedom-seekers to resist the drift toward conspiratorial thinking that masquerades as enlightenment. It affirms that questioning is good — but truth is better.From faith to science, climate to population, war to liberty — this is a principled stand against false binaries and a plea for humble, truth-rooted conviction in an age of loud confusion.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
