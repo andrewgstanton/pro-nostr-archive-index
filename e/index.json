@@ -181,6 +181,18 @@
     "paid": false
   },
   {
+    "slug": "rethinking-hsd-in-the-ai-era",
+    "event_id": "7a782f209ed30c6c38eb91a6cc30c6a46e9fbb68b306f6a49aa905b0f2c2f92a",
+    "created_at": 1772074163,
+    "npub": "npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5/30023/7a782f209ed30c6c38eb91a6cc30c6a46e9fbb68b306f6a49aa905b0f2c2f92a.json",
+    "title": "",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
     "slug": null,
     "event_id": "d467a07c095739d0625f8d1f8e74baf7008890dd83c533e7a48b31a0ffec3f69",
     "created_at": 1772070714,
