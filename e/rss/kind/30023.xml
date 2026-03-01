@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 28 Feb 2026 20:16:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 22:05:08 GMT</lastBuildDate>
+    <item>
+      <title>Victorious Grace and the End of Fear</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4d63f8a2926819d2ca48bcbd2900040ad628c4e2847129121abc857acdedd46f</link>
+      <guid isPermaLink="false">4d63f8a2926819d2ca48bcbd2900040ad628c4e2847129121abc857acdedd46f</guid>
+      <pubDate>Sun, 01 Mar 2026 20:08:10 GMT</pubDate>
+      <description><![CDATA[Fear is the hidden operating system of fallen structures. The victorious gospel removes fear at its root. If Christ is truly risen, then death, scarcity, and exclusion are not ultimate authorities.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Between Tribes: Building Bridges Without Compromise</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1ce46206cbf9e24da909e61053c9c2f6f4b49b44e6dee243f56d94d5e4251a5e</link>
+      <guid isPermaLink="false">1ce46206cbf9e24da909e61053c9c2f6f4b49b44e6dee243f56d94d5e4251a5e</guid>
+      <pubDate>Sun, 01 Mar 2026 19:36:02 GMT</pubDate>
+      <description><![CDATA[Some are called to strengthen tribes. Others are called to build bridges. Bridge-builders often feel displaced. But integrity across domains requires articulation that refuses simplification.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Kingdom That Cannot Be Engineered</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=28e6553e55911f6eaabbb777851ba6e9751172f262e9341f9abf8166ffdf32e6</link>
+      <guid isPermaLink="false">28e6553e55911f6eaabbb777851ba6e9751172f262e9341f9abf8166ffdf32e6</guid>
+      <pubDate>Sun, 01 Mar 2026 19:23:48 GMT</pubDate>
+      <description><![CDATA[Human systems gravitate toward control. The Kingdom of God does not. Where we attempt to engineer outcomes through leverage, the gospel reveals a structure rooted in surrender. Bitcoin, at the monetary layer, exposes the limits of manipulation. The gospel, at the human layer, exposes the limits of self-salvation.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Freedom Requires Rhythm</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=97f4ed4b474ae620b437db45064aacf7a3fa33168c7661bb602cd9395b333ee7</link>
@@ -4972,36 +5002,6 @@
       <guid isPermaLink="false">6c051a55ae20600d1cced1c01190571e5db5b5a4f58d4521bd7253f5771699f9</guid>
       <pubDate>Sat, 15 Nov 2025 20:19:37 GMT</pubDate>
       <description><![CDATA[No HTML + Markdown UGh!]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Day 4 - Aug. 27, 2025) : Latency: Living Beyond the Delay</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0c082b7bf7ad32e627a1d774f19a43e2f3f502cce11404bb78e3145dccf467a4</link>
-      <guid isPermaLink="false">0c082b7bf7ad32e627a1d774f19a43e2f3f502cce11404bb78e3145dccf467a4</guid>
-      <pubDate>Sat, 15 Nov 2025 20:17:18 GMT</pubDate>
-      <description><![CDATA[Latency isn’t just a technical hiccup — for Moon settlers it will reshape conversation, commerce, and trust. Learning to thrive with delay is as important for Earth’s fractured internet as it is for life off-world.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Testing Images Stored on mycontinuum.xyz</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f1960e376ee488f83d4f5bcad76d18357fdda61863534913be2e5e2d784ef7ae</link>
-      <guid isPermaLink="false">f1960e376ee488f83d4f5bcad76d18357fdda61863534913be2e5e2d784ef7ae</guid>
-      <pubDate>Sat, 15 Nov 2025 20:13:33 GMT</pubDate>
-      <description><![CDATA[Test displaying images saved on mycontinuum.xyz]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🚀 Introducing Continuum v1.0.0 — Your Self-Hosted Signal Dashboard</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=68531bc23f43a22fbcde7ac7929b4fbd1add36d67f9c6a07627c4af41896b01e</link>
-      <guid isPermaLink="false">68531bc23f43a22fbcde7ac7929b4fbd1add36d67f9c6a07627c4af41896b01e</guid>
-      <pubDate>Sat, 15 Nov 2025 20:11:45 GMT</pubDate>
-      <description><![CDATA[After just a few weeks of focused building, I'm releasing v1.0.0 of Continuum — a fully self-hosted, Bitcoin-aligned publishing dashboard for Nostr. This milestone marks a shift away from reliance on centralized clients like Primal, giving users full local control over their notes and articles with Markdown editing, SQLite storage, and timezone-aware publishing. Built with Docker, tested across browsers and platforms, and designed with sovereignty in mind, Continuum is now live and free to clone. Hosted and paid-tier features will follow. This is what it looks like to build protocol-first.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

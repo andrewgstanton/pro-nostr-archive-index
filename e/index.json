@@ -1,5 +1,38 @@
 [
   {
+    "slug": "victorious-grace-and-the-end-of-fear",
+    "event_id": "4d63f8a2926819d2ca48bcbd2900040ad628c4e2847129121abc857acdedd46f",
+    "created_at": 1772395690,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/4d63f8a2926819d2ca48bcbd2900040ad628c4e2847129121abc857acdedd46f.json",
+    "title": "Victorious Grace and the End of Fear",
+    "summary": "Fear is the hidden operating system of fallen structures. The victorious gospel removes fear at its root. If Christ is truly risen, then death, scarcity, and exclusion are not ultimate authorities.",
+    "paid": false
+  },
+  {
+    "slug": "between-tribes-building-bridges-without-compromise",
+    "event_id": "1ce46206cbf9e24da909e61053c9c2f6f4b49b44e6dee243f56d94d5e4251a5e",
+    "created_at": 1772393762,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/1ce46206cbf9e24da909e61053c9c2f6f4b49b44e6dee243f56d94d5e4251a5e.json",
+    "title": "Between Tribes: Building Bridges Without Compromise",
+    "summary": "Some are called to strengthen tribes. Others are called to build bridges. Bridge-builders often feel displaced. But integrity across domains requires articulation that refuses simplification.",
+    "paid": false
+  },
+  {
+    "slug": "the-kingdom-that-cannot-be-engineered",
+    "event_id": "28e6553e55911f6eaabbb777851ba6e9751172f262e9341f9abf8166ffdf32e6",
+    "created_at": 1772393028,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/28e6553e55911f6eaabbb777851ba6e9751172f262e9341f9abf8166ffdf32e6.json",
+    "title": "The Kingdom That Cannot Be Engineered",
+    "summary": "Human systems gravitate toward control. The Kingdom of God does not. Where we attempt to engineer outcomes through leverage, the gospel reveals a structure rooted in surrender. Bitcoin, at the monetary layer, exposes the limits of manipulation. The gospel, at the human layer, exposes the limits of self-salvation.",
+    "paid": false
+  },
+  {
     "slug": "freedom-requires-rhythm",
     "event_id": "97f4ed4b474ae620b437db45064aacf7a3fa33168c7661bb602cd9395b333ee7",
     "created_at": 1772308244,
@@ -187,8 +220,8 @@
     "npub": "npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5",
     "kind": 30023,
     "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5/30023/7a782f209ed30c6c38eb91a6cc30c6a46e9fbb68b306f6a49aa905b0f2c2f92a.json",
-    "title": "",
-    "summary": "",
+    "title": "Rethinking HSD in the AI Era",
+    "summary": "Hybrid Source Development (HSD) — defined as using a distributed global workforce compensated primarily in equity — made structural sense in a pre-AI world. In 2026, that model is under pressure. AI has dramatically increased individual leverage, reduced the need for large coding teams, and raised the opportunity cost for top builders.",
     "paid": false,
     "published": false
   },
