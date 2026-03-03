@@ -2858,7 +2858,7 @@
     "published": false
   },
   "nostr-authentication--portable-identity": {
-    "latest_event_id": "fd3a68cb4bfd50d8349da908d237660c104d53c7986f6dfb32b76da5358fe8e9",
+    "latest_event_id": "831ed9030ecb0772b2124b18fcefd8a539cfee70afcc1312f689fbe4fbe5e732",
     "latest_year": 2026,
     "published": false
   },
@@ -2884,6 +2884,23 @@
   },
   "victorious-grace-and-the-end-of-fear": {
     "latest_event_id": "4d63f8a2926819d2ca48bcbd2900040ad628c4e2847129121abc857acdedd46f",
+    "latest_year": 2026
+  },
+  "nostr-based-authentication--cryptographic-attestation": {
+    "latest_event_id": "142858a19bb03249f54ff33e02aec27173ff83d04bb17c98f846338ced5d885a",
+    "latest_year": 2026,
+    "published": false
+  },
+  "building-a-self-sovereign-client-portal-using-nostr-2026-03-02": {
+    "latest_event_id": "b9ebfac23c1d5df1a4535a142b0ef3eb4b2b4df6b6caf76248d56ee9f36d771c",
+    "latest_year": 2026
+  },
+  "replacing-oauth-with-nostr-in-enterprise-workflows-2026-03-02": {
+    "latest_event_id": "4c6b8663ff42dce9f3f351f82a43bd3c4e0f56a3cb40f355d3372f723bd9ac35",
+    "latest_year": 2026
+  },
+  "nostr-as-an-authentication-layer-for-consulting-engagements-2026-03-02": {
+    "latest_event_id": "738927bdb580ff5d319395ac7454e5cb10830d96f78042ba6ddbc870add786c9",
     "latest_year": 2026
   }
 }

@@ -1292,5 +1292,32 @@
     "event_id": "e28f43f6ba6d1aaa8818d40e1998c18266c25d01bdaa0817046b8f9703bde84e",
     "created_at": 1772479716,
     "published": false
+  },
+  {
+    "slug": "nostr-based-authentication--cryptographic-attestation",
+    "event_id": "142858a19bb03249f54ff33e02aec27173ff83d04bb17c98f846338ced5d885a",
+    "created_at": 1772504863,
+    "published": false
+  },
+  {
+    "slug": "nostr-authentication--portable-identity",
+    "event_id": "831ed9030ecb0772b2124b18fcefd8a539cfee70afcc1312f689fbe4fbe5e732",
+    "created_at": 1772506096,
+    "published": false
+  },
+  {
+    "slug": "building-a-self-sovereign-client-portal-using-nostr-2026-03-02",
+    "event_id": "b9ebfac23c1d5df1a4535a142b0ef3eb4b2b4df6b6caf76248d56ee9f36d771c",
+    "created_at": 1772508630
+  },
+  {
+    "slug": "replacing-oauth-with-nostr-in-enterprise-workflows-2026-03-02",
+    "event_id": "4c6b8663ff42dce9f3f351f82a43bd3c4e0f56a3cb40f355d3372f723bd9ac35",
+    "created_at": 1772508647
+  },
+  {
+    "slug": "nostr-as-an-authentication-layer-for-consulting-engagements-2026-03-02",
+    "event_id": "738927bdb580ff5d319395ac7454e5cb10830d96f78042ba6ddbc870add786c9",
+    "created_at": 1772508664
   }
 ]
