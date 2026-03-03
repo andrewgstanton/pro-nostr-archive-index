@@ -1,5 +1,117 @@
 [
   {
+    "slug": "nostr-as-an-authentication-layer-for-consulting-engagements-2026-03-02",
+    "event_id": "738927bdb580ff5d319395ac7454e5cb10830d96f78042ba6ddbc870add786c9",
+    "created_at": 1772508664,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/738927bdb580ff5d319395ac7454e5cb10830d96f78042ba6ddbc870add786c9.json",
+    "title": "🔒 Nostr as an Authentication Layer for Consulting Engagements",
+    "summary": "Email/password authentication is insecure and liability-heavy. This article outlines a practical model for implementing Nostr-based cryptographic login in consulting environments.",
+    "paid": false
+  },
+  {
+    "slug": "replacing-oauth-with-nostr-in-enterprise-workflows-2026-03-02",
+    "event_id": "4c6b8663ff42dce9f3f351f82a43bd3c4e0f56a3cb40f355d3372f723bd9ac35",
+    "created_at": 1772508647,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/4c6b8663ff42dce9f3f351f82a43bd3c4e0f56a3cb40f355d3372f723bd9ac35.json",
+    "title": "🔒 Replacing OAuth with Nostr in Enterprise Workflows",
+    "summary": "OAuth centralizes identity in Big Tech providers. Nostr decentralizes identity to the individual. This article explains how to integrate Nostr authentication without rewriting enterprise systems.",
+    "paid": false
+  },
+  {
+    "slug": "building-a-self-sovereign-client-portal-using-nostr-2026-03-02",
+    "event_id": "b9ebfac23c1d5df1a4535a142b0ef3eb4b2b4df6b6caf76248d56ee9f36d771c",
+    "created_at": 1772508630,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/b9ebfac23c1d5df1a4535a142b0ef3eb4b2b4df6b6caf76248d56ee9f36d771c.json",
+    "title": "🔒 Building a Self-Sovereign Client Portal Using Nostr",
+    "summary": "A practical guide to building a lightweight client portal using Nostr-based authentication and signed deliverables.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "4f72807f90aff257c37d94697cc5120e3ad8f7de9fa09b455122d0c2d0e869f7",
+    "created_at": 1772507851,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/4f72807f90aff257c37d94697cc5120e3ad8f7de9fa09b455122d0c2d0e869f7.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "821157cf127cf8ef0c030de9044072c5d25e07ed2bceff3efb981eaf302e9976",
+    "created_at": 1772507756,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/821157cf127cf8ef0c030de9044072c5d25e07ed2bceff3efb981eaf302e9976.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "bcecc13359de7928a6b2c631d07d7bfb05af756efd42fa9b14e0338702a729e0",
+    "created_at": 1772507550,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/bcecc13359de7928a6b2c631d07d7bfb05af756efd42fa9b14e0338702a729e0.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "64dd047d0add5a7b438f5d0fbb968b81f023758c0bbeeea667eec49cfb4706b4",
+    "created_at": 1772506731,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/64dd047d0add5a7b438f5d0fbb968b81f023758c0bbeeea667eec49cfb4706b4.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "ce08f4e8694173ae8a20b1f9500f7416f59cb3fcd9b50090230dee7ceb29db05",
+    "created_at": 1772506558,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/ce08f4e8694173ae8a20b1f9500f7416f59cb3fcd9b50090230dee7ceb29db05.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "nostr-authentication--portable-identity",
+    "event_id": "831ed9030ecb0772b2124b18fcefd8a539cfee70afcc1312f689fbe4fbe5e732",
+    "created_at": 1772506096,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/831ed9030ecb0772b2124b18fcefd8a539cfee70afcc1312f689fbe4fbe5e732.json",
+    "title": "Nostr Authentication & Portable Identity",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
+    "slug": "nostr-based-authentication--cryptographic-attestation",
+    "event_id": "142858a19bb03249f54ff33e02aec27173ff83d04bb17c98f846338ced5d885a",
+    "created_at": 1772504863,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/142858a19bb03249f54ff33e02aec27173ff83d04bb17c98f846338ced5d885a.json",
+    "title": "Nostr-Based Authentication & Cryptographic Attestation",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
     "slug": "recruiter-talking-points---for-322026---andrew-whiteside",
     "event_id": "e28f43f6ba6d1aaa8818d40e1998c18266c25d01bdaa0817046b8f9703bde84e",
     "created_at": 1772479716,
@@ -7927,8 +8039,8 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 30023,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/d411df34c9a34717862d11224cd1010acf99702672ceadedd8ef012f63f1f97b.json",
-    "title": "",
-    "summary": "",
+    "title": "The Sovereign Archive: The Canonical Bitcoin Chronicles Index",
+    "summary": "This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.",
     "paid": false
   },
   {

@@ -5,7 +5,87 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 02 Mar 2026 19:50:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 04:08:15 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Nostr as an Authentication Layer for Consulting Engagements</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=738927bdb580ff5d319395ac7454e5cb10830d96f78042ba6ddbc870add786c9</link>
+      <guid isPermaLink="false">738927bdb580ff5d319395ac7454e5cb10830d96f78042ba6ddbc870add786c9</guid>
+      <pubDate>Tue, 03 Mar 2026 03:31:04 GMT</pubDate>
+      <description><![CDATA[Email/password authentication is insecure and liability-heavy. This article outlines a practical model for implementing Nostr-based cryptographic login in consulting environments.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Replacing OAuth with Nostr in Enterprise Workflows</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4c6b8663ff42dce9f3f351f82a43bd3c4e0f56a3cb40f355d3372f723bd9ac35</link>
+      <guid isPermaLink="false">4c6b8663ff42dce9f3f351f82a43bd3c4e0f56a3cb40f355d3372f723bd9ac35</guid>
+      <pubDate>Tue, 03 Mar 2026 03:30:47 GMT</pubDate>
+      <description><![CDATA[OAuth centralizes identity in Big Tech providers. Nostr decentralizes identity to the individual. This article explains how to integrate Nostr authentication without rewriting enterprise systems.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building a Self-Sovereign Client Portal Using Nostr</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b9ebfac23c1d5df1a4535a142b0ef3eb4b2b4df6b6caf76248d56ee9f36d771c</link>
+      <guid isPermaLink="false">b9ebfac23c1d5df1a4535a142b0ef3eb4b2b4df6b6caf76248d56ee9f36d771c</guid>
+      <pubDate>Tue, 03 Mar 2026 03:30:30 GMT</pubDate>
+      <description><![CDATA[A practical guide to building a lightweight client portal using Nostr-based authentication and signed deliverables.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 4f72807f90</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4f72807f90aff257c37d94697cc5120e3ad8f7de9fa09b455122d0c2d0e869f7</link>
+      <guid isPermaLink="false">4f72807f90aff257c37d94697cc5120e3ad8f7de9fa09b455122d0c2d0e869f7</guid>
+      <pubDate>Tue, 03 Mar 2026 03:17:31 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 821157cf12</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=821157cf127cf8ef0c030de9044072c5d25e07ed2bceff3efb981eaf302e9976</link>
+      <guid isPermaLink="false">821157cf127cf8ef0c030de9044072c5d25e07ed2bceff3efb981eaf302e9976</guid>
+      <pubDate>Tue, 03 Mar 2026 03:15:56 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 bcecc13359</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=bcecc13359de7928a6b2c631d07d7bfb05af756efd42fa9b14e0338702a729e0</link>
+      <guid isPermaLink="false">bcecc13359de7928a6b2c631d07d7bfb05af756efd42fa9b14e0338702a729e0</guid>
+      <pubDate>Tue, 03 Mar 2026 03:12:30 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 64dd047d0a</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=64dd047d0add5a7b438f5d0fbb968b81f023758c0bbeeea667eec49cfb4706b4</link>
+      <guid isPermaLink="false">64dd047d0add5a7b438f5d0fbb968b81f023758c0bbeeea667eec49cfb4706b4</guid>
+      <pubDate>Tue, 03 Mar 2026 02:58:51 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 ce08f4e869</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ce08f4e8694173ae8a20b1f9500f7416f59cb3fcd9b50090230dee7ceb29db05</link>
+      <guid isPermaLink="false">ce08f4e8694173ae8a20b1f9500f7416f59cb3fcd9b50090230dee7ceb29db05</guid>
+      <pubDate>Tue, 03 Mar 2026 02:55:58 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Victorious Grace and the End of Fear</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=4d63f8a2926819d2ca48bcbd2900040ad628c4e2847129121abc857acdedd46f</link>
@@ -4923,86 +5003,6 @@
       <pubDate>Fri, 02 Jan 2026 04:08:04 GMT</pubDate>
       <description><![CDATA[Bitcoin does not judge, redeem, or forgive. It witnesses. For the first time in history, humanity lives under a record that cannot be persuaded, revised, or made to forget.]]></description>
       <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - A.0 - Book 0.7 - When Scarcity Became Moral</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5a90381bfbb1227257b0ceedc40663d4b7438eb6638fc61c21195c5d18322472</link>
-      <guid isPermaLink="false">5a90381bfbb1227257b0ceedc40663d4b7438eb6638fc61c21195c5d18322472</guid>
-      <pubDate>Fri, 02 Jan 2026 04:07:20 GMT</pubDate>
-      <description><![CDATA[Scarcity was never merely economic. It has always been the boundary that turns choice into responsibility. Bitcoin reintroduces scarcity not as punishment, but as moral structure.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Btcoin Chronicles - A.0 -  Book 0.6 - The First Ledger</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d2fdb9883b879a92ea1ccbc9eb983081e82fa0233de3965a996cf35f845774a5</link>
-      <guid isPermaLink="false">d2fdb9883b879a92ea1ccbc9eb983081e82fa0233de3965a996cf35f845774a5</guid>
-      <pubDate>Fri, 02 Jan 2026 04:05:54 GMT</pubDate>
-      <description><![CDATA[Before money, before markets, before empires — humanity learned to record truth. The Bitcoin Genesis Block marks the moment the ledger itself became sovereign.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Stepping Forward Toward Fruit</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=4ee1efeb39bb75ff39a52e2f208a2fb399b8e295ba47b8f05790760ac5228885</link>
-      <guid isPermaLink="false">4ee1efeb39bb75ff39a52e2f208a2fb399b8e295ba47b8f05790760ac5228885</guid>
-      <pubDate>Thu, 01 Jan 2026 20:32:53 GMT</pubDate>
-      <description><![CDATA[Moving forward without applause does not mean moving forward without expectation. This piece reframes courage not as silent endurance, but as alignment with fruit — visible, shared, and sustaining.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>On Writers</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=05a255b74652fbba0c91cdd490ee5db676577e437a879d3bb59ace2abdb70cde</link>
-      <guid isPermaLink="false">05a255b74652fbba0c91cdd490ee5db676577e437a879d3bb59ace2abdb70cde</guid>
-      <pubDate>Thu, 01 Jan 2026 20:31:02 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>On Builders</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=034d61f9c2d7330d006a35283eeaab34f4c28e9035a9528a667ad5508e784972</link>
-      <guid isPermaLink="false">034d61f9c2d7330d006a35283eeaab34f4c28e9035a9528a667ad5508e784972</guid>
-      <pubDate>Thu, 01 Jan 2026 20:30:03 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>On Discouragement</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=aa25c6d9d1cd4e36a0b3918f8f80e501da403f8417e12a2f287e63bcb47c02d3</link>
-      <guid isPermaLink="false">aa25c6d9d1cd4e36a0b3918f8f80e501da403f8417e12a2f287e63bcb47c02d3</guid>
-      <pubDate>Thu, 01 Jan 2026 20:29:03 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>On Perseverance</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9ff9b1673c26919a3fd7bad3c8a351f811c61d89db375cdbff40824935057bd3</link>
-      <guid isPermaLink="false">9ff9b1673c26919a3fd7bad3c8a351f811c61d89db375cdbff40824935057bd3</guid>
-      <pubDate>Thu, 01 Jan 2026 20:28:13 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>On Quiet Work</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ed7ddabef4ea18aeaa649665b5bbbbb5f72e88f66200ec8aa2155574675d8bff</link>
-      <guid isPermaLink="false">ed7ddabef4ea18aeaa649665b5bbbbb5f72e88f66200ec8aa2155574675d8bff</guid>
-      <pubDate>Thu, 01 Jan 2026 20:27:09 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>

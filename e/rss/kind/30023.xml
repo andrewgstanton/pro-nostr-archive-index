@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 02 Mar 2026 19:50:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 04:08:15 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Nostr as an Authentication Layer for Consulting Engagements</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=738927bdb580ff5d319395ac7454e5cb10830d96f78042ba6ddbc870add786c9</link>
+      <guid isPermaLink="false">738927bdb580ff5d319395ac7454e5cb10830d96f78042ba6ddbc870add786c9</guid>
+      <pubDate>Tue, 03 Mar 2026 03:31:04 GMT</pubDate>
+      <description><![CDATA[Email/password authentication is insecure and liability-heavy. This article outlines a practical model for implementing Nostr-based cryptographic login in consulting environments.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Replacing OAuth with Nostr in Enterprise Workflows</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4c6b8663ff42dce9f3f351f82a43bd3c4e0f56a3cb40f355d3372f723bd9ac35</link>
+      <guid isPermaLink="false">4c6b8663ff42dce9f3f351f82a43bd3c4e0f56a3cb40f355d3372f723bd9ac35</guid>
+      <pubDate>Tue, 03 Mar 2026 03:30:47 GMT</pubDate>
+      <description><![CDATA[OAuth centralizes identity in Big Tech providers. Nostr decentralizes identity to the individual. This article explains how to integrate Nostr authentication without rewriting enterprise systems.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building a Self-Sovereign Client Portal Using Nostr</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b9ebfac23c1d5df1a4535a142b0ef3eb4b2b4df6b6caf76248d56ee9f36d771c</link>
+      <guid isPermaLink="false">b9ebfac23c1d5df1a4535a142b0ef3eb4b2b4df6b6caf76248d56ee9f36d771c</guid>
+      <pubDate>Tue, 03 Mar 2026 03:30:30 GMT</pubDate>
+      <description><![CDATA[A practical guide to building a lightweight client portal using Nostr-based authentication and signed deliverables.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Victorious Grace and the End of Fear</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=4d63f8a2926819d2ca48bcbd2900040ad628c4e2847129121abc857acdedd46f</link>
@@ -4972,36 +5002,6 @@
       <guid isPermaLink="false">bd726b1b407911d86c1ef367c5c1f1c799c0768d43328899be8f717860f9bb84</guid>
       <pubDate>Sat, 15 Nov 2025 20:33:37 GMT</pubDate>
       <description><![CDATA[]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🎯 Continuum Pricing — Free vs. Pro</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a1f29eefbda6e298389c437258f0fb3bf7f6ad48d3ea08c488d7e13e733c0683</link>
-      <guid isPermaLink="false">a1f29eefbda6e298389c437258f0fb3bf7f6ad48d3ea08c488d7e13e733c0683</guid>
-      <pubDate>Sat, 15 Nov 2025 20:24:55 GMT</pubDate>
-      <description><![CDATA[Compare what’s included in the free self-hosted version vs. the hosted Pro plan. Includes roadmap, open source pledge, and Lightning discount.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Cognitive Sovereignty</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ac91178d19e437ef2abc8b4e11170e2b6453dbdad91fc8c7939956897a754950</link>
-      <guid isPermaLink="false">ac91178d19e437ef2abc8b4e11170e2b6453dbdad91fc8c7939956897a754950</guid>
-      <pubDate>Sat, 15 Nov 2025 20:21:41 GMT</pubDate>
-      <description><![CDATA[This piece is about how I’ve come to understand my mind — not as broken, but as wired differently on purpose. It’s an exploration of neurodivergence, creativity, and conviction through the lens of the Victorious Gospel. I share how I’ve stopped trying to conform to man-made systems — whether in tech, church, or culture — and started building from a place of truth and sovereignty.  If you've ever felt like your wiring doesn't fit the mold, I hope this encourages you: You are not a mistake. You were made for something wild — and good.  Written in collaboration with “Dr. C” (ChatGPT-4o), who helped me shape and structure the piece with the same care and conviction I try to bring to everything I build.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Why I’m Publishing My Articles on MyContinuum</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6c051a55ae20600d1cced1c01190571e5db5b5a4f58d4521bd7253f5771699f9</link>
-      <guid isPermaLink="false">6c051a55ae20600d1cced1c01190571e5db5b5a4f58d4521bd7253f5771699f9</guid>
-      <pubDate>Sat, 15 Nov 2025 20:19:37 GMT</pubDate>
-      <description><![CDATA[No HTML + Markdown UGh!]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

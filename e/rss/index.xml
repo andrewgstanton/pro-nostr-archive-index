@@ -5,7 +5,87 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 02 Mar 2026 19:50:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 04:08:15 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Nostr as an Authentication Layer for Consulting Engagements</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=738927bdb580ff5d319395ac7454e5cb10830d96f78042ba6ddbc870add786c9</link>
+      <guid isPermaLink="false">738927bdb580ff5d319395ac7454e5cb10830d96f78042ba6ddbc870add786c9</guid>
+      <pubDate>Tue, 03 Mar 2026 03:31:04 GMT</pubDate>
+      <description><![CDATA[Email/password authentication is insecure and liability-heavy. This article outlines a practical model for implementing Nostr-based cryptographic login in consulting environments.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Replacing OAuth with Nostr in Enterprise Workflows</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4c6b8663ff42dce9f3f351f82a43bd3c4e0f56a3cb40f355d3372f723bd9ac35</link>
+      <guid isPermaLink="false">4c6b8663ff42dce9f3f351f82a43bd3c4e0f56a3cb40f355d3372f723bd9ac35</guid>
+      <pubDate>Tue, 03 Mar 2026 03:30:47 GMT</pubDate>
+      <description><![CDATA[OAuth centralizes identity in Big Tech providers. Nostr decentralizes identity to the individual. This article explains how to integrate Nostr authentication without rewriting enterprise systems.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building a Self-Sovereign Client Portal Using Nostr</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b9ebfac23c1d5df1a4535a142b0ef3eb4b2b4df6b6caf76248d56ee9f36d771c</link>
+      <guid isPermaLink="false">b9ebfac23c1d5df1a4535a142b0ef3eb4b2b4df6b6caf76248d56ee9f36d771c</guid>
+      <pubDate>Tue, 03 Mar 2026 03:30:30 GMT</pubDate>
+      <description><![CDATA[A practical guide to building a lightweight client portal using Nostr-based authentication and signed deliverables.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 4f72807f90</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4f72807f90aff257c37d94697cc5120e3ad8f7de9fa09b455122d0c2d0e869f7</link>
+      <guid isPermaLink="false">4f72807f90aff257c37d94697cc5120e3ad8f7de9fa09b455122d0c2d0e869f7</guid>
+      <pubDate>Tue, 03 Mar 2026 03:17:31 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 821157cf12</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=821157cf127cf8ef0c030de9044072c5d25e07ed2bceff3efb981eaf302e9976</link>
+      <guid isPermaLink="false">821157cf127cf8ef0c030de9044072c5d25e07ed2bceff3efb981eaf302e9976</guid>
+      <pubDate>Tue, 03 Mar 2026 03:15:56 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 bcecc13359</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=bcecc13359de7928a6b2c631d07d7bfb05af756efd42fa9b14e0338702a729e0</link>
+      <guid isPermaLink="false">bcecc13359de7928a6b2c631d07d7bfb05af756efd42fa9b14e0338702a729e0</guid>
+      <pubDate>Tue, 03 Mar 2026 03:12:30 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 64dd047d0a</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=64dd047d0add5a7b438f5d0fbb968b81f023758c0bbeeea667eec49cfb4706b4</link>
+      <guid isPermaLink="false">64dd047d0add5a7b438f5d0fbb968b81f023758c0bbeeea667eec49cfb4706b4</guid>
+      <pubDate>Tue, 03 Mar 2026 02:58:51 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 ce08f4e869</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ce08f4e8694173ae8a20b1f9500f7416f59cb3fcd9b50090230dee7ceb29db05</link>
+      <guid isPermaLink="false">ce08f4e8694173ae8a20b1f9500f7416f59cb3fcd9b50090230dee7ceb29db05</guid>
+      <pubDate>Tue, 03 Mar 2026 02:55:58 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Victorious Grace and the End of Fear</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=4d63f8a2926819d2ca48bcbd2900040ad628c4e2847129121abc857acdedd46f</link>
@@ -4922,86 +5002,6 @@
       <guid isPermaLink="false">99c8957b4402aa2689911b1b87b18de0121c1bd23bee04de35c1620c19f80afd</guid>
       <pubDate>Sat, 03 Jan 2026 20:29:27 GMT</pubDate>
       <description><![CDATA[In the Belt, justice that arrives late is not justice. It is documentation.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.D.5 - The Price of Stability</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3f4deb01b65e635274f61d0974aa6d231726592a30f4e23562785e12683fa3c9</link>
-      <guid isPermaLink="false">3f4deb01b65e635274f61d0974aa6d231726592a30f4e23562785e12683fa3c9</guid>
-      <pubDate>Sat, 03 Jan 2026 20:28:21 GMT</pubDate>
-      <description><![CDATA[Insurance did not return to the Belt as control. It returned as comfort.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.D.4 - The Black Channels</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c965ab581a0bfedb35dd447017cb39f0cc61f6d12db911eb00083d03aeac7780</link>
-      <guid isPermaLink="false">c965ab581a0bfedb35dd447017cb39f0cc61f6d12db911eb00083d03aeac7780</guid>
-      <pubDate>Sat, 03 Jan 2026 20:27:24 GMT</pubDate>
-      <description><![CDATA[When arbitration arrives too late, settlement does not disappear. It goes underground.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.D.3 - Fuel is Law</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2b3b32a057d17f574253260082bfe141ed3c6b769c4641683a256206b2327622</link>
-      <guid isPermaLink="false">2b3b32a057d17f574253260082bfe141ed3c6b769c4641683a256206b2327622</guid>
-      <pubDate>Sat, 03 Jan 2026 20:26:13 GMT</pubDate>
-      <description><![CDATA[In the Belt, truth without logistics is still a lie. Arbitration learned this the hard way.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.E.1 - The Distance That Broke Agreement</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=8ab54074fc2c4e8947beca06f12b553f69834caf727d015b8d7e7444114f2c4d</link>
-      <guid isPermaLink="false">8ab54074fc2c4e8947beca06f12b553f69834caf727d015b8d7e7444114f2c4d</guid>
-      <pubDate>Sat, 03 Jan 2026 20:10:20 GMT</pubDate>
-      <description><![CDATA[When arbitration could no longer arrive in time, legitimacy had to survive without reply.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.E.2 - The Long Commit</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=93e233f7429406f147cc20f8a14247f13bef1fb936abe68d8951e5c87dd74ae4</link>
-      <guid isPermaLink="false">93e233f7429406f147cc20f8a14247f13bef1fb936abe68d8951e5c87dd74ae4</guid>
-      <pubDate>Sat, 03 Jan 2026 20:09:17 GMT</pubDate>
-      <description><![CDATA[Interplanetary legitimacy was not chosen. It was committed, time-locked, and later reconciled—if reconciliation arrived at all.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.E.3 - Authority Without Applause</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=63393a1d8dc9e8e51a4a268dc0cdd1ee8f14e683a858448a085e0891b9a307d5</link>
-      <guid isPermaLink="false">63393a1d8dc9e8e51a4a268dc0cdd1ee8f14e683a858448a085e0891b9a307d5</guid>
-      <pubDate>Sat, 03 Jan 2026 20:08:08 GMT</pubDate>
-      <description><![CDATA[Legitimacy no longer waited to be recognized. It acted, endured silence, and expired.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒The Bitcoin Chronicles - A.0 - Book 0.85 - The Day After Genesis</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2cbb1ff1afbf37055c8f93e75723b57cefe218124030e70d752fc5e84a224fdd</link>
-      <guid isPermaLink="false">2cbb1ff1afbf37055c8f93e75723b57cefe218124030e70d752fc5e84a224fdd</guid>
-      <pubDate>Fri, 02 Jan 2026 04:11:18 GMT</pubDate>
-      <description><![CDATA[Nothing visibly changed the day after the Bitcoin Genesis Block. And yet, everything had already become different.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - A.0 - Book 0.90 - Why The Old World Could Not Follow</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b21192176072b50ef21ff56c72e8ee81fd726d577a3c02d499aeccc2b92c1449</link>
-      <guid isPermaLink="false">b21192176072b50ef21ff56c72e8ee81fd726d577a3c02d499aeccc2b92c1449</guid>
-      <pubDate>Fri, 02 Jan 2026 04:10:23 GMT</pubDate>
-      <description><![CDATA[The world did not reject the Genesis Block out of ignorance or malice. It could not follow because it was built on assumptions the new ledger quietly invalidated.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 02 Mar 2026 19:50:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 04:08:15 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Nostr as an Authentication Layer for Consulting Engagements</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=738927bdb580ff5d319395ac7454e5cb10830d96f78042ba6ddbc870add786c9</link>
+      <guid isPermaLink="false">738927bdb580ff5d319395ac7454e5cb10830d96f78042ba6ddbc870add786c9</guid>
+      <pubDate>Tue, 03 Mar 2026 03:31:04 GMT</pubDate>
+      <description><![CDATA[Email/password authentication is insecure and liability-heavy. This article outlines a practical model for implementing Nostr-based cryptographic login in consulting environments.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Replacing OAuth with Nostr in Enterprise Workflows</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4c6b8663ff42dce9f3f351f82a43bd3c4e0f56a3cb40f355d3372f723bd9ac35</link>
+      <guid isPermaLink="false">4c6b8663ff42dce9f3f351f82a43bd3c4e0f56a3cb40f355d3372f723bd9ac35</guid>
+      <pubDate>Tue, 03 Mar 2026 03:30:47 GMT</pubDate>
+      <description><![CDATA[OAuth centralizes identity in Big Tech providers. Nostr decentralizes identity to the individual. This article explains how to integrate Nostr authentication without rewriting enterprise systems.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Building a Self-Sovereign Client Portal Using Nostr</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b9ebfac23c1d5df1a4535a142b0ef3eb4b2b4df6b6caf76248d56ee9f36d771c</link>
+      <guid isPermaLink="false">b9ebfac23c1d5df1a4535a142b0ef3eb4b2b4df6b6caf76248d56ee9f36d771c</guid>
+      <pubDate>Tue, 03 Mar 2026 03:30:30 GMT</pubDate>
+      <description><![CDATA[A practical guide to building a lightweight client portal using Nostr-based authentication and signed deliverables.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Victorious Grace and the End of Fear</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=4d63f8a2926819d2ca48bcbd2900040ad628c4e2847129121abc857acdedd46f</link>
@@ -4972,36 +5002,6 @@
       <guid isPermaLink="false">0aeef34d6cabd4f1a1873d70a1e1acb1a6a17f6e74066c427302117e367da3b0</guid>
       <pubDate>Sat, 15 Nov 2025 06:30:12 GMT</pubDate>
       <description><![CDATA[In an age of polarization, this reflection explores what true freedom looks like: not agreement at all costs, but the capacity to honor people — even when we profoundly disagree. From Chelsea Manning and Edward Snowden to Ross Ulbricht and Donald Trump, the piece wrestles with moral complexity, hypocrisy, and the double-edged sword of modern power. It closes with a hopeful look at Bitcoin — a system built on neutrality and permissionlessness — as a model for principled freedom that transcends party lines and culture wars.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Memorial Day Reflections → Walking into Bitcoin 2025</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=09638314d39e24c57a2cccc1aef912e290b098950269756f8b944846575d14ba</link>
-      <guid isPermaLink="false">09638314d39e24c57a2cccc1aef912e290b098950269756f8b944846575d14ba</guid>
-      <pubDate>Sat, 15 Nov 2025 06:28:38 GMT</pubDate>
-      <description><![CDATA[As Memorial Day invites sober reflection on freedom and sacrifice, I pause to honor what was given — and consider what I’m building toward. This week I head to Bitcoin 2025 not just as a Bitcoiner, but as someone seeking to live with conviction. This is a call to remember the cost of liberty and to build systems rooted in truth, transparency, and work that lasts.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Bitcoin Chronicles: Toward the Stars - Full Series</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=25080f88384720bfbac83b69bd3a4570c8fae0b2ec833ac814b9121b3e29299d</link>
-      <guid isPermaLink="false">25080f88384720bfbac83b69bd3a4570c8fae0b2ec833ac814b9121b3e29299d</guid>
-      <pubDate>Sat, 15 Nov 2025 06:26:44 GMT</pubDate>
-      <description><![CDATA[The Bitcoin Chronicles: Toward the Stars is a six-part exploration of how Bitcoin could evolve as humanity expands beyond Earth — to the Moon, Mars, the asteroid belt, and the far edges of the solar system. Each part imagines the challenges of latency, energy, and trust in interplanetary life, and shows how Bitcoin’s unique design makes it more than money: a civilizational memory system that binds scattered colonies across ages and worlds, not by empire or fiat, but by physics and time.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Why Trading Still Matters — And What Most People Get Wrong</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2b8a82d6e420e8d07ccadc530a6082b4504c6bbad6d446918bb8aa83cefb8edf</link>
-      <guid isPermaLink="false">2b8a82d6e420e8d07ccadc530a6082b4504c6bbad6d446918bb8aa83cefb8edf</guid>
-      <pubDate>Sat, 15 Nov 2025 06:24:32 GMT</pubDate>
-      <description><![CDATA[Short-term trading is often dismissed as a zero-sum game, driven by hype and luck. But for those who approach it with discipline and conviction, trading can be a meaningful craft — a way to fund deeper work, align with values, and sharpen focus. In this piece, I share why I only trade equities (not crypto or forex), how I avoid signal-following hype, and why consistent, small gains often matter more than chasing spikes. This isn’t gambling — it’s Proof of Work.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
