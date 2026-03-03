@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 03 Mar 2026 04:08:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 04:17:03 GMT</lastBuildDate>
+    <item>
+      <title>kind:30023 5e5aad449e</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5e5aad449ea610ea0fcfda5dd4c033b8d0fb45de0588520626360525da57487d</link>
+      <guid isPermaLink="false">5e5aad449ea610ea0fcfda5dd4c033b8d0fb45de0588520626360525da57487d</guid>
+      <pubDate>Tue, 03 Mar 2026 03:55:07 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Nostr as an Authentication Layer for Consulting Engagements</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=738927bdb580ff5d319395ac7454e5cb10830d96f78042ba6ddbc870add786c9</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">87ab5adc45fcd339f43ad5fd20cf4fc52e39e6074f6507dfc7c0de64e4e6dd2f</guid>
       <pubDate>Sat, 03 Jan 2026 20:30:29 GMT</pubDate>
       <description><![CDATA[When law moves, participants learn how to chase outcomes.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.D.6 - Too Late to Matter</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=99c8957b4402aa2689911b1b87b18de0121c1bd23bee04de35c1620c19f80afd</link>
-      <guid isPermaLink="false">99c8957b4402aa2689911b1b87b18de0121c1bd23bee04de35c1620c19f80afd</guid>
-      <pubDate>Sat, 03 Jan 2026 20:29:27 GMT</pubDate>
-      <description><![CDATA[In the Belt, justice that arrives late is not justice. It is documentation.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

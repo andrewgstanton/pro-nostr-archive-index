@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 03 Mar 2026 04:08:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 04:17:03 GMT</lastBuildDate>
+    <item>
+      <title>kind:30023 5e5aad449e</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5e5aad449ea610ea0fcfda5dd4c033b8d0fb45de0588520626360525da57487d</link>
+      <guid isPermaLink="false">5e5aad449ea610ea0fcfda5dd4c033b8d0fb45de0588520626360525da57487d</guid>
+      <pubDate>Tue, 03 Mar 2026 03:55:07 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Nostr as an Authentication Layer for Consulting Engagements</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=738927bdb580ff5d319395ac7454e5cb10830d96f78042ba6ddbc870add786c9</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">4cfda57b27983e68e71e07769162096b27eafefd85b776c9f0676ea2e3307819</guid>
       <pubDate>Sat, 15 Nov 2025 20:45:00 GMT</pubDate>
       <description><![CDATA[In Continuum v1.4, I successfully imported my LinkedIn profile into a sovereign Nostr identity. This article walks through how a LinkedIn export was transformed into a signed kind:0 event — published to relays and viewable inside the Continuum dashboard. It's a major milestone in bridging centralized platforms with decentralized identity.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Whitepaper: Continuum</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=bd726b1b407911d86c1ef367c5c1f1c799c0768d43328899be8f717860f9bb84</link>
-      <guid isPermaLink="false">bd726b1b407911d86c1ef367c5c1f1c799c0768d43328899be8f717860f9bb84</guid>
-      <pubDate>Sat, 15 Nov 2025 20:33:37 GMT</pubDate>
-      <description><![CDATA[]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

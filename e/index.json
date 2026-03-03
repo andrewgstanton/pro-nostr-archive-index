@@ -1,5 +1,16 @@
 [
   {
+    "slug": "sovereign-architecture-as-a-service",
+    "event_id": "5e5aad449ea610ea0fcfda5dd4c033b8d0fb45de0588520626360525da57487d",
+    "created_at": 1772510107,
+    "npub": "npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8/30023/5e5aad449ea610ea0fcfda5dd4c033b8d0fb45de0588520626360525da57487d.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "nostr-as-an-authentication-layer-for-consulting-engagements-2026-03-02",
     "event_id": "738927bdb580ff5d319395ac7454e5cb10830d96f78042ba6ddbc870add786c9",
     "created_at": 1772508664,
