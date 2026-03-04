@@ -2902,5 +2902,42 @@
   "nostr-as-an-authentication-layer-for-consulting-engagements-2026-03-02": {
     "latest_event_id": "738927bdb580ff5d319395ac7454e5cb10830d96f78042ba6ddbc870add786c9",
     "latest_year": 2026
+  },
+  "continuum-tiers": {
+    "latest_event_id": "5a151441906a8c52afbd4eaec906dbbfc97c16e97e299d3d37127a9862aa38c3",
+    "latest_year": 2026,
+    "published": false
+  },
+  "the-consulting-layer-how-nostr-authentication-becomes-revenue": {
+    "latest_event_id": "1ac8b0cc44a0f9b520c8d9866c46ff2e0a47dbb19ed8f2b3cdd0fe930f5b07cf",
+    "latest_year": 2026
+  },
+  "sovereign-identity-and-the-end-of-account-lock-in": {
+    "latest_event_id": "310b68066f02a54b1d845877d575f8092bed56ed6e4c793b10d6846b4daa45e8",
+    "latest_year": 2026
+  },
+  "building-with-keys-a-practical-roadmap-for-sovereign-systems": {
+    "latest_event_id": "3b911e28c8e55fe337af208302fb111e260f5ad8742da65a7dfe3c64d0f10b07",
+    "latest_year": 2026
+  },
+  "ministry-offering--private-positioning-note": {
+    "latest_event_id": "7e52efa0bda8432e59cc9c8b1a1af16bc23ae698f3db4cfaf7a45e622b8039c8",
+    "latest_year": 2026,
+    "published": false
+  },
+  "ministry-sovereign-identity-onboarding-package": {
+    "latest_event_id": "440a57d0c52df2dd980e3d55f1dab4e2cde2e5f9f2cb2db57a8b687f466525e5",
+    "latest_year": 2026,
+    "published": false
+  },
+  "continuum-overview": {
+    "latest_event_id": "49d3308ac731343bc29ab8e04b0c4b6c25ef55f79a8cd7b44a625e5707a420a6",
+    "latest_year": 2026,
+    "published": false
+  },
+  "work-with-andrew--sovereign-identity--ai-native-architecture": {
+    "latest_event_id": "8b488a66f55d5f31d8e7d1fca6e505000e3ed0fe2b0b4f2013e65ea194eac8dd",
+    "latest_year": 2026,
+    "published": false
   }
 }
