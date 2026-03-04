@@ -5,7 +5,87 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 03 Mar 2026 04:08:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 19:46:28 GMT</lastBuildDate>
+    <item>
+      <title>Building With Keys: A Practical Roadmap for Sovereign Systems</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3b911e28c8e55fe337af208302fb111e260f5ad8742da65a7dfe3c64d0f10b07</link>
+      <guid isPermaLink="false">3b911e28c8e55fe337af208302fb111e260f5ad8742da65a7dfe3c64d0f10b07</guid>
+      <pubDate>Wed, 04 Mar 2026 18:34:18 GMT</pubDate>
+      <description><![CDATA[A practical guide for founders, consultants, and technologists who want to implement cryptographic identity into real-world systems without rebuilding everything from scratch.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Sovereign Identity and the End of Account Lock-In</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=310b68066f02a54b1d845877d575f8092bed56ed6e4c793b10d6846b4daa45e8</link>
+      <guid isPermaLink="false">310b68066f02a54b1d845877d575f8092bed56ed6e4c793b10d6846b4daa45e8</guid>
+      <pubDate>Wed, 04 Mar 2026 18:29:55 GMT</pubDate>
+      <description><![CDATA[Account-based platforms create dependency. Sovereign identity dissolves that dependency by separating identity from platform. This article explores the structural implications of portable cryptographic identity and why this changes how software businesses should think about user relationships.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Consulting Layer: How Nostr Authentication Becomes Revenue</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1ac8b0cc44a0f9b520c8d9866c46ff2e0a47dbb19ed8f2b3cdd0fe930f5b07cf</link>
+      <guid isPermaLink="false">1ac8b0cc44a0f9b520c8d9866c46ff2e0a47dbb19ed8f2b3cdd0fe930f5b07cf</guid>
+      <pubDate>Wed, 04 Mar 2026 18:26:03 GMT</pubDate>
+      <description><![CDATA[Nostr authentication is not merely a philosophical alternative to email/password systems. It is a structural shift that opens practical consulting pathways. This article outlines how cryptographic identity, when implemented correctly, becomes a revenue-generating architecture for businesses that want lower friction, stronger security, and long-term digital sovereignty.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 ff0e1b3f0c</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ff0e1b3f0ce356a9bca999a0821a446408a3c3c3613aaa6fb67b2eb50efd8c79</link>
+      <guid isPermaLink="false">ff0e1b3f0ce356a9bca999a0821a446408a3c3c3613aaa6fb67b2eb50efd8c79</guid>
+      <pubDate>Wed, 04 Mar 2026 18:22:30 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 ba064dfa4c</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ba064dfa4c660e86c0f5de7ab9393db07763822677ad57a32908c46c55e837c2</link>
+      <guid isPermaLink="false">ba064dfa4c660e86c0f5de7ab9393db07763822677ad57a32908c46c55e837c2</guid>
+      <pubDate>Wed, 04 Mar 2026 18:21:54 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 e9c73b7ed0</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e9c73b7ed0b70c3f9fa24369c9bdfce47de69f53f5c18622823906f9b5ff6a06</link>
+      <guid isPermaLink="false">e9c73b7ed0b70c3f9fa24369c9bdfce47de69f53f5c18622823906f9b5ff6a06</guid>
+      <pubDate>Wed, 04 Mar 2026 18:19:12 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 f1320769a1</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f1320769a17a4169971cf21de30cd9c314c4c426244e36f3e1395de41bdb95f3</link>
+      <guid isPermaLink="false">f1320769a17a4169971cf21de30cd9c314c4c426244e36f3e1395de41bdb95f3</guid>
+      <pubDate>Wed, 04 Mar 2026 18:17:32 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 59614d1844</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=59614d1844d62ac089cd5f268981f8d2c195441253dea2af5c741b833d23f7eb</link>
+      <guid isPermaLink="false">59614d1844d62ac089cd5f268981f8d2c195441253dea2af5c741b833d23f7eb</guid>
+      <pubDate>Wed, 04 Mar 2026 18:16:46 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Nostr as an Authentication Layer for Consulting Engagements</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=738927bdb580ff5d319395ac7454e5cb10830d96f78042ba6ddbc870add786c9</link>
@@ -4922,86 +5002,6 @@
       <guid isPermaLink="false">c965ab581a0bfedb35dd447017cb39f0cc61f6d12db911eb00083d03aeac7780</guid>
       <pubDate>Sat, 03 Jan 2026 20:27:24 GMT</pubDate>
       <description><![CDATA[When arbitration arrives too late, settlement does not disappear. It goes underground.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.D.3 - Fuel is Law</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2b3b32a057d17f574253260082bfe141ed3c6b769c4641683a256206b2327622</link>
-      <guid isPermaLink="false">2b3b32a057d17f574253260082bfe141ed3c6b769c4641683a256206b2327622</guid>
-      <pubDate>Sat, 03 Jan 2026 20:26:13 GMT</pubDate>
-      <description><![CDATA[In the Belt, truth without logistics is still a lie. Arbitration learned this the hard way.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.E.1 - The Distance That Broke Agreement</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=8ab54074fc2c4e8947beca06f12b553f69834caf727d015b8d7e7444114f2c4d</link>
-      <guid isPermaLink="false">8ab54074fc2c4e8947beca06f12b553f69834caf727d015b8d7e7444114f2c4d</guid>
-      <pubDate>Sat, 03 Jan 2026 20:10:20 GMT</pubDate>
-      <description><![CDATA[When arbitration could no longer arrive in time, legitimacy had to survive without reply.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.E.2 - The Long Commit</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=93e233f7429406f147cc20f8a14247f13bef1fb936abe68d8951e5c87dd74ae4</link>
-      <guid isPermaLink="false">93e233f7429406f147cc20f8a14247f13bef1fb936abe68d8951e5c87dd74ae4</guid>
-      <pubDate>Sat, 03 Jan 2026 20:09:17 GMT</pubDate>
-      <description><![CDATA[Interplanetary legitimacy was not chosen. It was committed, time-locked, and later reconciled—if reconciliation arrived at all.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.E.3 - Authority Without Applause</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=63393a1d8dc9e8e51a4a268dc0cdd1ee8f14e683a858448a085e0891b9a307d5</link>
-      <guid isPermaLink="false">63393a1d8dc9e8e51a4a268dc0cdd1ee8f14e683a858448a085e0891b9a307d5</guid>
-      <pubDate>Sat, 03 Jan 2026 20:08:08 GMT</pubDate>
-      <description><![CDATA[Legitimacy no longer waited to be recognized. It acted, endured silence, and expired.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒The Bitcoin Chronicles - A.0 - Book 0.85 - The Day After Genesis</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2cbb1ff1afbf37055c8f93e75723b57cefe218124030e70d752fc5e84a224fdd</link>
-      <guid isPermaLink="false">2cbb1ff1afbf37055c8f93e75723b57cefe218124030e70d752fc5e84a224fdd</guid>
-      <pubDate>Fri, 02 Jan 2026 04:11:18 GMT</pubDate>
-      <description><![CDATA[Nothing visibly changed the day after the Bitcoin Genesis Block. And yet, everything had already become different.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - A.0 - Book 0.90 - Why The Old World Could Not Follow</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b21192176072b50ef21ff56c72e8ee81fd726d577a3c02d499aeccc2b92c1449</link>
-      <guid isPermaLink="false">b21192176072b50ef21ff56c72e8ee81fd726d577a3c02d499aeccc2b92c1449</guid>
-      <pubDate>Fri, 02 Jan 2026 04:10:23 GMT</pubDate>
-      <description><![CDATA[The world did not reject the Genesis Block out of ignorance or malice. It could not follow because it was built on assumptions the new ledger quietly invalidated.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - A.0 - Book 0.95 - The Long Delay/Quiet Continuity</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=8381f881e2e23e1aff8a572c0b448057da95a8737d79bec53e7a8a6963b930be</link>
-      <guid isPermaLink="false">8381f881e2e23e1aff8a572c0b448057da95a8737d79bec53e7a8a6963b930be</guid>
-      <pubDate>Fri, 02 Jan 2026 04:09:23 GMT</pubDate>
-      <description><![CDATA[Between truth and transformation lies delay. The ledger ran. The world continued. And history waited.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - A.0 - Book 0.8 - The Incorruptible Witness</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=cdd23390c74ea2c12319346295e436133f2a95b97ef233d7291a7e566a63bc71</link>
-      <guid isPermaLink="false">cdd23390c74ea2c12319346295e436133f2a95b97ef233d7291a7e566a63bc71</guid>
-      <pubDate>Fri, 02 Jan 2026 04:08:04 GMT</pubDate>
-      <description><![CDATA[Bitcoin does not judge, redeem, or forgive. It witnesses. For the first time in history, humanity lives under a record that cannot be persuaded, revised, or made to forget.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

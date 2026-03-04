@@ -5,13 +5,93 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 03 Mar 2026 04:17:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 19:46:28 GMT</lastBuildDate>
     <item>
-      <title>kind:30023 5e5aad449e</title>
+      <title>Building With Keys: A Practical Roadmap for Sovereign Systems</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3b911e28c8e55fe337af208302fb111e260f5ad8742da65a7dfe3c64d0f10b07</link>
+      <guid isPermaLink="false">3b911e28c8e55fe337af208302fb111e260f5ad8742da65a7dfe3c64d0f10b07</guid>
+      <pubDate>Wed, 04 Mar 2026 18:34:18 GMT</pubDate>
+      <description><![CDATA[A practical guide for founders, consultants, and technologists who want to implement cryptographic identity into real-world systems without rebuilding everything from scratch.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Sovereign Identity and the End of Account Lock-In</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=310b68066f02a54b1d845877d575f8092bed56ed6e4c793b10d6846b4daa45e8</link>
+      <guid isPermaLink="false">310b68066f02a54b1d845877d575f8092bed56ed6e4c793b10d6846b4daa45e8</guid>
+      <pubDate>Wed, 04 Mar 2026 18:29:55 GMT</pubDate>
+      <description><![CDATA[Account-based platforms create dependency. Sovereign identity dissolves that dependency by separating identity from platform. This article explores the structural implications of portable cryptographic identity and why this changes how software businesses should think about user relationships.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Consulting Layer: How Nostr Authentication Becomes Revenue</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1ac8b0cc44a0f9b520c8d9866c46ff2e0a47dbb19ed8f2b3cdd0fe930f5b07cf</link>
+      <guid isPermaLink="false">1ac8b0cc44a0f9b520c8d9866c46ff2e0a47dbb19ed8f2b3cdd0fe930f5b07cf</guid>
+      <pubDate>Wed, 04 Mar 2026 18:26:03 GMT</pubDate>
+      <description><![CDATA[Nostr authentication is not merely a philosophical alternative to email/password systems. It is a structural shift that opens practical consulting pathways. This article outlines how cryptographic identity, when implemented correctly, becomes a revenue-generating architecture for businesses that want lower friction, stronger security, and long-term digital sovereignty.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 ff0e1b3f0c</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ff0e1b3f0ce356a9bca999a0821a446408a3c3c3613aaa6fb67b2eb50efd8c79</link>
+      <guid isPermaLink="false">ff0e1b3f0ce356a9bca999a0821a446408a3c3c3613aaa6fb67b2eb50efd8c79</guid>
+      <pubDate>Wed, 04 Mar 2026 18:22:30 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 ba064dfa4c</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ba064dfa4c660e86c0f5de7ab9393db07763822677ad57a32908c46c55e837c2</link>
+      <guid isPermaLink="false">ba064dfa4c660e86c0f5de7ab9393db07763822677ad57a32908c46c55e837c2</guid>
+      <pubDate>Wed, 04 Mar 2026 18:21:54 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 e9c73b7ed0</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e9c73b7ed0b70c3f9fa24369c9bdfce47de69f53f5c18622823906f9b5ff6a06</link>
+      <guid isPermaLink="false">e9c73b7ed0b70c3f9fa24369c9bdfce47de69f53f5c18622823906f9b5ff6a06</guid>
+      <pubDate>Wed, 04 Mar 2026 18:19:12 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 f1320769a1</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f1320769a17a4169971cf21de30cd9c314c4c426244e36f3e1395de41bdb95f3</link>
+      <guid isPermaLink="false">f1320769a17a4169971cf21de30cd9c314c4c426244e36f3e1395de41bdb95f3</guid>
+      <pubDate>Wed, 04 Mar 2026 18:17:32 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 59614d1844</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=59614d1844d62ac089cd5f268981f8d2c195441253dea2af5c741b833d23f7eb</link>
+      <guid isPermaLink="false">59614d1844d62ac089cd5f268981f8d2c195441253dea2af5c741b833d23f7eb</guid>
+      <pubDate>Wed, 04 Mar 2026 18:16:46 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Sovereign Architecture as a Service</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=5e5aad449ea610ea0fcfda5dd4c033b8d0fb45de0588520626360525da57487d</link>
       <guid isPermaLink="false">5e5aad449ea610ea0fcfda5dd4c033b8d0fb45de0588520626360525da57487d</guid>
       <pubDate>Tue, 03 Mar 2026 03:55:07 GMT</pubDate>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[Most consultants sell advice layered on fragile infrastructure. This piece explains how a self-sovereign identity model — built on Nostr authentication and cryptographic signing — can become the backbone of a high-trust consulting practice. This is not theory. It is a practical blueprint for turning architecture into revenue.]]></description>
       <category>kind:30023</category>
       <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
       <category>paid:false</category>
@@ -4923,86 +5003,6 @@
       <pubDate>Sat, 03 Jan 2026 21:22:33 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Today - 1/3/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3ac061c4b10fcc5d89e0e403281d6f561d0bb9549dc6cb3a4cf4af11d59c39a7</link>
-      <guid isPermaLink="false">3ac061c4b10fcc5d89e0e403281d6f561d0bb9549dc6cb3a4cf4af11d59c39a7</guid>
-      <pubDate>Sat, 03 Jan 2026 21:21:28 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Immediate Fruit - 1/2/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5a026f8bac099a1a3e7cadf5556e7ec627c2a4cdf464a2963c8002dafffa8d3f</link>
-      <guid isPermaLink="false">5a026f8bac099a1a3e7cadf5556e7ec627c2a4cdf464a2963c8002dafffa8d3f</guid>
-      <pubDate>Sat, 03 Jan 2026 21:19:00 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Courage - 1/2/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b861d8a1adb3a29e4f25b2a11a56fab862211e65e0e680dfd8d60cb9375d5474</link>
-      <guid isPermaLink="false">b861d8a1adb3a29e4f25b2a11a56fab862211e65e0e680dfd8d60cb9375d5474</guid>
-      <pubDate>Sat, 03 Jan 2026 21:16:48 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Feeling Tired - 1/2/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9aefdd37bba0171163567d9c103f15b01a4aa440844fb7e932a34e7d2acc1894</link>
-      <guid isPermaLink="false">9aefdd37bba0171163567d9c103f15b01a4aa440844fb7e932a34e7d2acc1894</guid>
-      <pubDate>Sat, 03 Jan 2026 21:14:40 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Quiet Days - 1/2/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=4e1fb4983179b1772767eea1596b51c1d947a16f0019ed9eb296cd6c8384a038</link>
-      <guid isPermaLink="false">4e1fb4983179b1772767eea1596b51c1d947a16f0019ed9eb296cd6c8384a038</guid>
-      <pubDate>Sat, 03 Jan 2026 21:11:39 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Progress - 1/2/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=10c04db0a8619653c9037bf6f89a87c9131aec3ead7cbb0b999ccc23fee7d84f</link>
-      <guid isPermaLink="false">10c04db0a8619653c9037bf6f89a87c9131aec3ead7cbb0b999ccc23fee7d84f</guid>
-      <pubDate>Sat, 03 Jan 2026 21:07:51 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.D.8 - The Cost of Saying No</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e70b87d15e7ea34602afc69f2e17cba25bcbd8cd694894f4a2d9a5c069d346ac</link>
-      <guid isPermaLink="false">e70b87d15e7ea34602afc69f2e17cba25bcbd8cd694894f4a2d9a5c069d346ac</guid>
-      <pubDate>Sat, 03 Jan 2026 20:31:39 GMT</pubDate>
-      <description><![CDATA[Refusing jurisdiction is simple. Living without its protection is not.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.D.7 - Forum Shopping</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=87ab5adc45fcd339f43ad5fd20cf4fc52e39e6074f6507dfc7c0de64e4e6dd2f</link>
-      <guid isPermaLink="false">87ab5adc45fcd339f43ad5fd20cf4fc52e39e6074f6507dfc7c0de64e4e6dd2f</guid>
-      <pubDate>Sat, 03 Jan 2026 20:30:29 GMT</pubDate>
-      <description><![CDATA[When law moves, participants learn how to chase outcomes.]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>

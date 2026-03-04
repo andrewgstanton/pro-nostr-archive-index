@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 03 Mar 2026 04:08:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 19:46:28 GMT</lastBuildDate>
+    <item>
+      <title>Building With Keys: A Practical Roadmap for Sovereign Systems</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3b911e28c8e55fe337af208302fb111e260f5ad8742da65a7dfe3c64d0f10b07</link>
+      <guid isPermaLink="false">3b911e28c8e55fe337af208302fb111e260f5ad8742da65a7dfe3c64d0f10b07</guid>
+      <pubDate>Wed, 04 Mar 2026 18:34:18 GMT</pubDate>
+      <description><![CDATA[A practical guide for founders, consultants, and technologists who want to implement cryptographic identity into real-world systems without rebuilding everything from scratch.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Sovereign Identity and the End of Account Lock-In</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=310b68066f02a54b1d845877d575f8092bed56ed6e4c793b10d6846b4daa45e8</link>
+      <guid isPermaLink="false">310b68066f02a54b1d845877d575f8092bed56ed6e4c793b10d6846b4daa45e8</guid>
+      <pubDate>Wed, 04 Mar 2026 18:29:55 GMT</pubDate>
+      <description><![CDATA[Account-based platforms create dependency. Sovereign identity dissolves that dependency by separating identity from platform. This article explores the structural implications of portable cryptographic identity and why this changes how software businesses should think about user relationships.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Consulting Layer: How Nostr Authentication Becomes Revenue</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1ac8b0cc44a0f9b520c8d9866c46ff2e0a47dbb19ed8f2b3cdd0fe930f5b07cf</link>
+      <guid isPermaLink="false">1ac8b0cc44a0f9b520c8d9866c46ff2e0a47dbb19ed8f2b3cdd0fe930f5b07cf</guid>
+      <pubDate>Wed, 04 Mar 2026 18:26:03 GMT</pubDate>
+      <description><![CDATA[Nostr authentication is not merely a philosophical alternative to email/password systems. It is a structural shift that opens practical consulting pathways. This article outlines how cryptographic identity, when implemented correctly, becomes a revenue-generating architecture for businesses that want lower friction, stronger security, and long-term digital sovereignty.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Nostr as an Authentication Layer for Consulting Engagements</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=738927bdb580ff5d319395ac7454e5cb10830d96f78042ba6ddbc870add786c9</link>
@@ -4972,36 +5002,6 @@
       <guid isPermaLink="false">64022bc7694b63d9ccc2e6b335d285c974126a469bf79cd71f6a3c86848fc2aa</guid>
       <pubDate>Sat, 15 Nov 2025 06:35:38 GMT</pubDate>
       <description><![CDATA[This article walks through how I built a fully decentralized blog using Nostr as the backend CMS, GitHub Actions for automation, and GitHub Pages for free global hosting. No servers, no logins — just sovereign publishing on open protocols.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Solzhenitsyn Would Have Loved Bitcoin</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=dd6a2d49dd07579ccc107166c4108fc7a55ec916f9915aed5e179b1c536d4956</link>
-      <guid isPermaLink="false">dd6a2d49dd07579ccc107166c4108fc7a55ec916f9915aed5e179b1c536d4956</guid>
-      <pubDate>Sat, 15 Nov 2025 06:34:22 GMT</pubDate>
-      <description><![CDATA[Inspired by a comment from @HODL, this article explores why Aleksandr Solzhenitsyn — Soviet dissident, truth-teller, and moral philosopher — would have seen Bitcoin not as a mere technology, but as a stand against coercion, deception, and spiritual decay. Bitcoin reflects the same principles he lived and wrote by: personal responsibility, incorruptible memory, and resistance through truth. This is not about price — it's about proof of alignment.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Something Is Alive Here @ Bitcoin 2025</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b434ff6febb0abfbf3b82583640cd29179f56bc35cd1248a8b492fc5dbc53f00</link>
-      <guid isPermaLink="false">b434ff6febb0abfbf3b82583640cd29179f56bc35cd1248a8b492fc5dbc53f00</guid>
-      <pubDate>Sat, 15 Nov 2025 06:32:39 GMT</pubDate>
-      <description><![CDATA[At Bitcoin 2025 and on Nostr, I’ve rediscovered what decentralization really means — not just as a technical design, but as a lived experience of freedom. This article reflects on how alive and tangible that freedom feels: owning your identity, zapping freely, publishing without permission, and building outside institutional control. It’s not about hype — it’s about sovereignty, trust, and conviction. For the first time in a long time, freedom doesn’t feel like a slogan. It feels real. It feels alive.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Freedom Means Honoring People — Even When We Disagree</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0aeef34d6cabd4f1a1873d70a1e1acb1a6a17f6e74066c427302117e367da3b0</link>
-      <guid isPermaLink="false">0aeef34d6cabd4f1a1873d70a1e1acb1a6a17f6e74066c427302117e367da3b0</guid>
-      <pubDate>Sat, 15 Nov 2025 06:30:12 GMT</pubDate>
-      <description><![CDATA[In an age of polarization, this reflection explores what true freedom looks like: not agreement at all costs, but the capacity to honor people — even when we profoundly disagree. From Chelsea Manning and Edward Snowden to Ross Ulbricht and Donald Trump, the piece wrestles with moral complexity, hypocrisy, and the double-edged sword of modern power. It closes with a hopeful look at Bitcoin — a system built on neutrality and permissionlessness — as a model for principled freedom that transcends party lines and culture wars.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
