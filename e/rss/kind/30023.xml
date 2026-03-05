@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 05 Mar 2026 03:23:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 18:00:42 GMT</lastBuildDate>
+    <item>
+      <title>Gratitude and the Quiet Work of God</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=81f51416eb18840bfbb8d58e37dd6d1e0820ebb9070443bf9e3188f7f084eb8f</link>
+      <guid isPermaLink="false">81f51416eb18840bfbb8d58e37dd6d1e0820ebb9070443bf9e3188f7f084eb8f</guid>
+      <pubDate>Thu, 05 Mar 2026 17:43:12 GMT</pubDate>
+      <description><![CDATA[Gratitude often reveals the subtle ways God is working through ordinary moments that might otherwise pass unnoticed.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Discipline of Gratitude</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=0a3c3ab5b0e459c065f17f7b7ed8021d0d3eb5d7367a785c612c6c4999b96529</link>
+      <guid isPermaLink="false">0a3c3ab5b0e459c065f17f7b7ed8021d0d3eb5d7367a785c612c6c4999b96529</guid>
+      <pubDate>Thu, 05 Mar 2026 17:41:17 GMT</pubDate>
+      <description><![CDATA[Gratitude is not merely an emotion but a discipline that trains the heart to recognize goodness even during uncertain seasons.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Gratitude Changes the Shape of the Day</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e8ad70ede423b823c80d5266017998a70d9db817e3b76e45c97a6267be19fa64</link>
+      <guid isPermaLink="false">e8ad70ede423b823c80d5266017998a70d9db817e3b76e45c97a6267be19fa64</guid>
+      <pubDate>Thu, 05 Mar 2026 17:38:58 GMT</pubDate>
+      <description><![CDATA[Gratitude does not erase difficulty, but it changes how we experience the day by revealing quiet moments of grace that are easy to overlook.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Nostr Authentication Is Simpler Than OAuth</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=1b7fb231cd720a929fbd0cf38cd6511fc40061a103018ba0ff3eddcbeb5f84c7</link>
@@ -4972,36 +5002,6 @@
       <guid isPermaLink="false">bc27e0751b6f4954ea00eb27b50a513959b4ba2ca20d0bd028ac96885027e18b</guid>
       <pubDate>Sat, 15 Nov 2025 21:59:14 GMT</pubDate>
       <description><![CDATA[Nostr ia a truly decentralized open protocol for publishing signed events.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Bitcoin: Property, Not a Security — Why the Distinction Matters (full version)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d4a33c8df2710b51cb0cb343baf270fcef6ca92034b46890513963d60ac08906</link>
-      <guid isPermaLink="false">d4a33c8df2710b51cb0cb343baf270fcef6ca92034b46890513963d60ac08906</guid>
-      <pubDate>Sat, 15 Nov 2025 21:51:43 GMT</pubDate>
-      <description><![CDATA[Understanding the differerence between a property and a security is crucial to understanding why bitcoin should not be considered just another "crypto" asset.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Bitcoin: Property, Not a Security — Why It Matters (condensed)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0562c45908407f98fe487be3051454fdcdbd5ce6a5521f43c39f9fc344405ed3</link>
-      <guid isPermaLink="false">0562c45908407f98fe487be3051454fdcdbd5ce6a5521f43c39f9fc344405ed3</guid>
-      <pubDate>Sat, 15 Nov 2025 21:50:26 GMT</pubDate>
-      <description><![CDATA[Most altcoins, tokens, and NFTs are **securities** under the Howey Test. The crypto industry blurs this line to ride Bitcoin’s credibility without earning it.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🛠️ Continuum: The First 60 Days</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=12733d2fc50ebc4341fa1ec938a26579c2237420a77fa6496fe9d5259d347be4</link>
-      <guid isPermaLink="false">12733d2fc50ebc4341fa1ec938a26579c2237420a77fa6496fe9d5259d347be4</guid>
-      <pubDate>Sat, 15 Nov 2025 21:47:42 GMT</pubDate>
-      <description><![CDATA[From a simple README to a fully sovereign publishing stack — this is the story of how Continuum was born. In just 60 days, we’ve built a local-first Nostr app with multi-identity support, publishing tools, and hosted dashboards — all without relying on logins, tokens, or platform permissions.  This was built with the help of AI — not to impress, but to liberate. Continuum is a sovereign publishing stack that puts control, identity, and freedom back where it belongs: with you.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

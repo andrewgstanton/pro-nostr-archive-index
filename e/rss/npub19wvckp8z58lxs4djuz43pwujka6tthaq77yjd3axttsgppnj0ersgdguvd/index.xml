@@ -5,7 +5,87 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 05 Mar 2026 00:42:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 18:00:42 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 70beb0fa36</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=70beb0fa36af1f159389165887641698f36735608441b4dfc745fc766f084473</link>
+      <guid isPermaLink="false">70beb0fa36af1f159389165887641698f36735608441b4dfc745fc766f084473</guid>
+      <pubDate>Thu, 05 Mar 2026 17:52:23 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 fb502013a5</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=fb502013a5832c0f1e4edff43f0ec5c27b9315558e6e25956b58f9c74c37c2a3</link>
+      <guid isPermaLink="false">fb502013a5832c0f1e4edff43f0ec5c27b9315558e6e25956b58f9c74c37c2a3</guid>
+      <pubDate>Thu, 05 Mar 2026 17:51:04 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 40cb869c6b</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=40cb869c6bb267b23b682194197405f6e3f977032f0192a8e51ff5ac06695695</link>
+      <guid isPermaLink="false">40cb869c6bb267b23b682194197405f6e3f977032f0192a8e51ff5ac06695695</guid>
+      <pubDate>Thu, 05 Mar 2026 17:49:59 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 ba6b7c13de</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ba6b7c13de42e4eb2eb1b49f3d7c69beb67a75af78358ac04d20c0fb0ebd3b8f</link>
+      <guid isPermaLink="false">ba6b7c13de42e4eb2eb1b49f3d7c69beb67a75af78358ac04d20c0fb0ebd3b8f</guid>
+      <pubDate>Thu, 05 Mar 2026 17:47:35 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 7fe65e394a</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7fe65e394ab0916411f60bcbabb81f56f858cea195f65361bdffa51b8b71e1d5</link>
+      <guid isPermaLink="false">7fe65e394ab0916411f60bcbabb81f56f858cea195f65361bdffa51b8b71e1d5</guid>
+      <pubDate>Thu, 05 Mar 2026 17:46:13 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Gratitude and the Quiet Work of God</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=81f51416eb18840bfbb8d58e37dd6d1e0820ebb9070443bf9e3188f7f084eb8f</link>
+      <guid isPermaLink="false">81f51416eb18840bfbb8d58e37dd6d1e0820ebb9070443bf9e3188f7f084eb8f</guid>
+      <pubDate>Thu, 05 Mar 2026 17:43:12 GMT</pubDate>
+      <description><![CDATA[Gratitude often reveals the subtle ways God is working through ordinary moments that might otherwise pass unnoticed.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Discipline of Gratitude</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=0a3c3ab5b0e459c065f17f7b7ed8021d0d3eb5d7367a785c612c6c4999b96529</link>
+      <guid isPermaLink="false">0a3c3ab5b0e459c065f17f7b7ed8021d0d3eb5d7367a785c612c6c4999b96529</guid>
+      <pubDate>Thu, 05 Mar 2026 17:41:17 GMT</pubDate>
+      <description><![CDATA[Gratitude is not merely an emotion but a discipline that trains the heart to recognize goodness even during uncertain seasons.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Gratitude Changes the Shape of the Day</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e8ad70ede423b823c80d5266017998a70d9db817e3b76e45c97a6267be19fa64</link>
+      <guid isPermaLink="false">e8ad70ede423b823c80d5266017998a70d9db817e3b76e45c97a6267be19fa64</guid>
+      <pubDate>Thu, 05 Mar 2026 17:38:58 GMT</pubDate>
+      <description><![CDATA[Gratitude does not erase difficulty, but it changes how we experience the day by revealing quiet moments of grace that are easy to overlook.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 4d17aad03b</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=4d17aad03bfe5256a93eea285981b28778c00865554611ee7a3a0565f39cbfad</link>
@@ -4923,86 +5003,6 @@
       <pubDate>Sat, 03 Jan 2026 21:59:09 GMT</pubDate>
       <description><![CDATA[Modern entrepreneurial culture excels at speed, reach, and motivation — but often at the cost of meaning, endurance, and truth. This essay explores “fast-food capitalism”: a system optimized for attention and momentum rather than nourishment, formation, or permanence — and why many builders increasingly feel empty inside it.]]></description>
       <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Jan. 3, 2026): Bitcoin, Nostr, and the Structure of Sovereignty</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a8395b6f8cb386567e148cb8613444d1e8035c5c996fb1f9ba6415be11e3253b</link>
-      <guid isPermaLink="false">a8395b6f8cb386567e148cb8613444d1e8035c5c996fb1f9ba6415be11e3253b</guid>
-      <pubDate>Sat, 03 Jan 2026 21:58:13 GMT</pubDate>
-      <description><![CDATA[What if sovereignty isn’t an ideology, but an emergent property of systems that tell the truth? This essay lays out a simple structure: Bitcoin as truthful money, Nostr as truthful communication, and sovereignty as the natural result when neither value nor identity can be manipulated.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Consistency - 1/3/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=422b1303cb232c83cd7488bb81009ef5934cb728dbf791766299fdd4d87eb5f1</link>
-      <guid isPermaLink="false">422b1303cb232c83cd7488bb81009ef5934cb728dbf791766299fdd4d87eb5f1</guid>
-      <pubDate>Sat, 03 Jan 2026 21:24:55 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Not Ordinary - 1/3/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=930967d2585b7b592ee209eed9c014dbbf2368e3f3f476358f77e725547e491f</link>
-      <guid isPermaLink="false">930967d2585b7b592ee209eed9c014dbbf2368e3f3f476358f77e725547e491f</guid>
-      <pubDate>Sat, 03 Jan 2026 21:24:13 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Build - 1/3/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e1cd68b4139eb6c57648f5f1109e8a6a2561cab52f7c1e95b87160f4a201654c</link>
-      <guid isPermaLink="false">e1cd68b4139eb6c57648f5f1109e8a6a2561cab52f7c1e95b87160f4a201654c</guid>
-      <pubDate>Sat, 03 Jan 2026 21:23:21 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>No Permission Needed - 1/3/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e45ca8f8cb891b12ed4ce133d7c93701029f866d9791d9a0662c7c8033ed51b1</link>
-      <guid isPermaLink="false">e45ca8f8cb891b12ed4ce133d7c93701029f866d9791d9a0662c7c8033ed51b1</guid>
-      <pubDate>Sat, 03 Jan 2026 21:22:33 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Today - 1/3/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3ac061c4b10fcc5d89e0e403281d6f561d0bb9549dc6cb3a4cf4af11d59c39a7</link>
-      <guid isPermaLink="false">3ac061c4b10fcc5d89e0e403281d6f561d0bb9549dc6cb3a4cf4af11d59c39a7</guid>
-      <pubDate>Sat, 03 Jan 2026 21:21:28 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Immediate Fruit - 1/2/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5a026f8bac099a1a3e7cadf5556e7ec627c2a4cdf464a2963c8002dafffa8d3f</link>
-      <guid isPermaLink="false">5a026f8bac099a1a3e7cadf5556e7ec627c2a4cdf464a2963c8002dafffa8d3f</guid>
-      <pubDate>Sat, 03 Jan 2026 21:19:00 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Courage - 1/2/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b861d8a1adb3a29e4f25b2a11a56fab862211e65e0e680dfd8d60cb9375d5474</link>
-      <guid isPermaLink="false">b861d8a1adb3a29e4f25b2a11a56fab862211e65e0e680dfd8d60cb9375d5474</guid>
-      <pubDate>Sat, 03 Jan 2026 21:16:48 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
