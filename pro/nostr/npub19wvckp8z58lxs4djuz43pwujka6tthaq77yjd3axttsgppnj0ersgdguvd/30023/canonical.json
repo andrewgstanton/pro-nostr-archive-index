@@ -2931,7 +2931,7 @@
     "published": false
   },
   "continuum-overview": {
-    "latest_event_id": "49d3308ac731343bc29ab8e04b0c4b6c25ef55f79a8cd7b44a625e5707a420a6",
+    "latest_event_id": "12454ae8090859b5395d37b68a210539ef31cb92b3d9c68a2dad54afa80d754f",
     "latest_year": 2026,
     "published": false
   },
@@ -2939,5 +2939,27 @@
     "latest_event_id": "8b488a66f55d5f31d8e7d1fca6e505000e3ed0fe2b0b4f2013e65ea194eac8dd",
     "latest_year": 2026,
     "published": false
+  },
+  "steps-to-prepare-a-download-release-served-on-google-drive-folder-continuum-pro-test": {
+    "latest_event_id": "c727aa9d8d20a0331688931bc6c3b513396453861c3f7f6293c18b92c66080aa",
+    "latest_year": 2026,
+    "published": false
+  },
+  "weekly-operating-rythm": {
+    "latest_event_id": "4753c9700a0d4d30f2577728a85f466ca0465917d5aeb31b84a7c5c699e8fdfe",
+    "latest_year": 2026,
+    "published": false
+  },
+  "the-identity-layer-is-the-next-infrastructure-war": {
+    "latest_event_id": "e6f762d902ccb4bd7903a033cdb43a5f8d1f214e89b3c4582a55a8a90428dfdd",
+    "latest_year": 2026
+  },
+  "building-continuum": {
+    "latest_event_id": "939fc17f94718f7be4540b482666ccf7a5ced0be26b8c70ed30cda69ed632fa3",
+    "latest_year": 2026
+  },
+  "nostr-authentication-is-simpler-than-oauth": {
+    "latest_event_id": "1b7fb231cd720a929fbd0cf38cd6511fc40061a103018ba0ff3eddcbeb5f84c7",
+    "latest_year": 2026
   }
 }
