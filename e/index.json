@@ -1,5 +1,29 @@
 [
   {
+    "slug": "startnation-strategic-discussion",
+    "event_id": "106a0a2a7356fa2b2fa19dd1af051c5fcd5d303d42ebc5b4ba09546415b5c50e",
+    "created_at": 1772680422,
+    "npub": "npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5/30023/106a0a2a7356fa2b2fa19dd1af051c5fcd5d303d42ebc5b4ba09546415b5c50e.json",
+    "title": "",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
+    "slug": "startnation-micro-startup-operations-setup",
+    "event_id": "b8764845468078fe8f4cb05cb1d917bf1294b087bc90e6ed040216882a10e418",
+    "created_at": 1772680160,
+    "npub": "npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5/30023/b8764845468078fe8f4cb05cb1d917bf1294b087bc90e6ed040216882a10e418.json",
+    "title": "",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
     "slug": null,
     "event_id": "631dc368bc310b55f0ae3e0756adf008f6b297978ca03f6ae50f31b4af8cbe01",
     "created_at": 1772671619,
@@ -449,6 +473,30 @@
     "title": "The Kingdom That Cannot Be Engineered",
     "summary": "Human systems gravitate toward control. The Kingdom of God does not. Where we attempt to engineer outcomes through leverage, the gospel reveals a structure rooted in surrender. Bitcoin, at the monetary layer, exposes the limits of manipulation. The gospel, at the human layer, exposes the limits of self-salvation.",
     "paid": false
+  },
+  {
+    "slug": "rethinking-hsd-in-the-ai-era",
+    "event_id": "105a0786358980312bc0b785f15e58fd38a65a039407f284181a7be7cf125f6f",
+    "created_at": 1772330290,
+    "npub": "npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5/30023/105a0786358980312bc0b785f15e58fd38a65a039407f284181a7be7cf125f6f.json",
+    "title": "",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
+    "slug": "rethinking-hsd-in-the-ai-era",
+    "event_id": "da7067ac8d002d22f49064b1b22f89ceb8c8d4110acca3d534440819b56cea0c",
+    "created_at": 1772327697,
+    "npub": "npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5/30023/da7067ac8d002d22f49064b1b22f89ceb8c8d4110acca3d534440819b56cea0c.json",
+    "title": "",
+    "summary": "",
+    "paid": false,
+    "published": false
   },
   {
     "slug": "freedom-requires-rhythm",

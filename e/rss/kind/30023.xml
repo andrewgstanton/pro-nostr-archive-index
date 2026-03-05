@@ -5,7 +5,7 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 05 Mar 2026 00:53:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 03:23:56 GMT</lastBuildDate>
     <item>
       <title>Nostr Authentication Is Simpler Than OAuth</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=1b7fb231cd720a929fbd0cf38cd6511fc40061a103018ba0ff3eddcbeb5f84c7</link>
