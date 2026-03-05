@@ -5,7 +5,87 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 04 Mar 2026 19:46:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 00:42:17 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 4d17aad03b</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4d17aad03bfe5256a93eea285981b28778c00865554611ee7a3a0565f39cbfad</link>
+      <guid isPermaLink="false">4d17aad03bfe5256a93eea285981b28778c00865554611ee7a3a0565f39cbfad</guid>
+      <pubDate>Thu, 05 Mar 2026 00:34:24 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 2eddc1fcd7</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2eddc1fcd7fa52b4c4b68311e603bfd8d4112aa96620b0288573f1a233f5bf69</link>
+      <guid isPermaLink="false">2eddc1fcd7fa52b4c4b68311e603bfd8d4112aa96620b0288573f1a233f5bf69</guid>
+      <pubDate>Thu, 05 Mar 2026 00:33:28 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 9dfd9841d4</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9dfd9841d4dcca3df860d92cf55cabf3ac054e23ad93ae180f91777c10c9a902</link>
+      <guid isPermaLink="false">9dfd9841d4dcca3df860d92cf55cabf3ac054e23ad93ae180f91777c10c9a902</guid>
+      <pubDate>Thu, 05 Mar 2026 00:32:12 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 57453041de</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=57453041de3936d296bc3d933d68a7bfc71b8cee492d16b90c45f220afce91d9</link>
+      <guid isPermaLink="false">57453041de3936d296bc3d933d68a7bfc71b8cee492d16b90c45f220afce91d9</guid>
+      <pubDate>Thu, 05 Mar 2026 00:31:20 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 1e28afab5b</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1e28afab5b6f60b2eaeda2ad43950119d446ef72e2350d97b1f31d1501756865</link>
+      <guid isPermaLink="false">1e28afab5b6f60b2eaeda2ad43950119d446ef72e2350d97b1f31d1501756865</guid>
+      <pubDate>Thu, 05 Mar 2026 00:30:28 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Nostr Authentication Is Simpler Than OAuth</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1b7fb231cd720a929fbd0cf38cd6511fc40061a103018ba0ff3eddcbeb5f84c7</link>
+      <guid isPermaLink="false">1b7fb231cd720a929fbd0cf38cd6511fc40061a103018ba0ff3eddcbeb5f84c7</guid>
+      <pubDate>Thu, 05 Mar 2026 00:29:30 GMT</pubDate>
+      <description><![CDATA[Modern authentication systems have become extremely complex. Nostr-based authentication offers a radically simpler approach built on cryptographic signatures.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Building Continuum</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=939fc17f94718f7be4540b482666ccf7a5ced0be26b8c70ed30cda69ed632fa3</link>
+      <guid isPermaLink="false">939fc17f94718f7be4540b482666ccf7a5ced0be26b8c70ed30cda69ed632fa3</guid>
+      <pubDate>Thu, 05 Mar 2026 00:25:36 GMT</pubDate>
+      <description><![CDATA[Continuum explores a local-first environment for managing Nostr identities, signing events, and preserving durable authorship.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Identity Layer Is the Next Infrastructure War</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e6f762d902ccb4bd7903a033cdb43a5f8d1f214e89b3c4582a55a8a90428dfdd</link>
+      <guid isPermaLink="false">e6f762d902ccb4bd7903a033cdb43a5f8d1f214e89b3c4582a55a8a90428dfdd</guid>
+      <pubDate>Thu, 05 Mar 2026 00:22:00 GMT</pubDate>
+      <description><![CDATA[Identity is quietly becoming the most important infrastructure layer of the internet. Password systems and platform-controlled identity models have reached structural limits. Cryptographic identity — especially systems like Nostr — introduces a fundamentally different approach where users control keys and services verify signatures rather than storing credentials.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Building With Keys: A Practical Roadmap for Sovereign Systems</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=3b911e28c8e55fe337af208302fb111e260f5ad8742da65a7dfe3c64d0f10b07</link>
@@ -4923,86 +5003,6 @@
       <pubDate>Sun, 04 Jan 2026 07:47:23 GMT</pubDate>
       <description><![CDATA[Freedom grows quietly — one sustainable choice at a time.]]></description>
       <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>How I Publish Long-Form Sovereign Work — and Why I Also Use Substack</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c6fcc3e17961bb9028ab217e60d47d54add675338783b395819153eae8683186</link>
-      <guid isPermaLink="false">c6fcc3e17961bb9028ab217e60d47d54add675338783b395819153eae8683186</guid>
-      <pubDate>Sun, 04 Jan 2026 01:18:00 GMT</pubDate>
-      <description><![CDATA[I have published hundreds of long-form essays using my own sovereign publishing stack on Continuum and Nostr. Substack is not where this work began. This post explains how and why I am selectively using Substack as a distribution surface—without abandoning long-form depth, ownership, or coherence.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sabbath Article (Jan. 3, 2026): The First Sabbath of 2026 Is a Line in Time</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=cf416a074ea386507d4d32e94d646d7f3be50cca9006620f778e854a6c87c998</link>
-      <guid isPermaLink="false">cf416a074ea386507d4d32e94d646d7f3be50cca9006620f778e854a6c87c998</guid>
-      <pubDate>Sat, 03 Jan 2026 22:02:49 GMT</pubDate>
-      <description><![CDATA[in time — a quiet declaration about how the year will be inhabited. In a culture addicted to optimization and urgency, beginning 2026 with Sabbath is an act of sovereignty. This essay reflects on Sabbath as boundary, trust, and orientation, and why starting the year with rest may be the most faithful and future-oriented choice we can make.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Jan. 3, 2026: Fast-Food Capitalism and the Hunger It Cannot Satisfy</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=637dcf194af3197974b49aa4fa60f726b3219b0823db6bc48cadd42c76ddee2a</link>
-      <guid isPermaLink="false">637dcf194af3197974b49aa4fa60f726b3219b0823db6bc48cadd42c76ddee2a</guid>
-      <pubDate>Sat, 03 Jan 2026 21:59:09 GMT</pubDate>
-      <description><![CDATA[Modern entrepreneurial culture excels at speed, reach, and motivation — but often at the cost of meaning, endurance, and truth. This essay explores “fast-food capitalism”: a system optimized for attention and momentum rather than nourishment, formation, or permanence — and why many builders increasingly feel empty inside it.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Jan. 3, 2026): Bitcoin, Nostr, and the Structure of Sovereignty</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a8395b6f8cb386567e148cb8613444d1e8035c5c996fb1f9ba6415be11e3253b</link>
-      <guid isPermaLink="false">a8395b6f8cb386567e148cb8613444d1e8035c5c996fb1f9ba6415be11e3253b</guid>
-      <pubDate>Sat, 03 Jan 2026 21:58:13 GMT</pubDate>
-      <description><![CDATA[What if sovereignty isn’t an ideology, but an emergent property of systems that tell the truth? This essay lays out a simple structure: Bitcoin as truthful money, Nostr as truthful communication, and sovereignty as the natural result when neither value nor identity can be manipulated.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Consistency - 1/3/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=422b1303cb232c83cd7488bb81009ef5934cb728dbf791766299fdd4d87eb5f1</link>
-      <guid isPermaLink="false">422b1303cb232c83cd7488bb81009ef5934cb728dbf791766299fdd4d87eb5f1</guid>
-      <pubDate>Sat, 03 Jan 2026 21:24:55 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Not Ordinary - 1/3/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=930967d2585b7b592ee209eed9c014dbbf2368e3f3f476358f77e725547e491f</link>
-      <guid isPermaLink="false">930967d2585b7b592ee209eed9c014dbbf2368e3f3f476358f77e725547e491f</guid>
-      <pubDate>Sat, 03 Jan 2026 21:24:13 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Build - 1/3/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e1cd68b4139eb6c57648f5f1109e8a6a2561cab52f7c1e95b87160f4a201654c</link>
-      <guid isPermaLink="false">e1cd68b4139eb6c57648f5f1109e8a6a2561cab52f7c1e95b87160f4a201654c</guid>
-      <pubDate>Sat, 03 Jan 2026 21:23:21 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>No Permission Needed - 1/3/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e45ca8f8cb891b12ed4ce133d7c93701029f866d9791d9a0662c7c8033ed51b1</link>
-      <guid isPermaLink="false">e45ca8f8cb891b12ed4ce133d7c93701029f866d9791d9a0662c7c8033ed51b1</guid>
-      <pubDate>Sat, 03 Jan 2026 21:22:33 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>

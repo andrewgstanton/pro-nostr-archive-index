@@ -5,7 +5,87 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 04 Mar 2026 19:46:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 00:42:17 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 4d17aad03b</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4d17aad03bfe5256a93eea285981b28778c00865554611ee7a3a0565f39cbfad</link>
+      <guid isPermaLink="false">4d17aad03bfe5256a93eea285981b28778c00865554611ee7a3a0565f39cbfad</guid>
+      <pubDate>Thu, 05 Mar 2026 00:34:24 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 2eddc1fcd7</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2eddc1fcd7fa52b4c4b68311e603bfd8d4112aa96620b0288573f1a233f5bf69</link>
+      <guid isPermaLink="false">2eddc1fcd7fa52b4c4b68311e603bfd8d4112aa96620b0288573f1a233f5bf69</guid>
+      <pubDate>Thu, 05 Mar 2026 00:33:28 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 9dfd9841d4</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9dfd9841d4dcca3df860d92cf55cabf3ac054e23ad93ae180f91777c10c9a902</link>
+      <guid isPermaLink="false">9dfd9841d4dcca3df860d92cf55cabf3ac054e23ad93ae180f91777c10c9a902</guid>
+      <pubDate>Thu, 05 Mar 2026 00:32:12 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 57453041de</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=57453041de3936d296bc3d933d68a7bfc71b8cee492d16b90c45f220afce91d9</link>
+      <guid isPermaLink="false">57453041de3936d296bc3d933d68a7bfc71b8cee492d16b90c45f220afce91d9</guid>
+      <pubDate>Thu, 05 Mar 2026 00:31:20 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 1e28afab5b</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1e28afab5b6f60b2eaeda2ad43950119d446ef72e2350d97b1f31d1501756865</link>
+      <guid isPermaLink="false">1e28afab5b6f60b2eaeda2ad43950119d446ef72e2350d97b1f31d1501756865</guid>
+      <pubDate>Thu, 05 Mar 2026 00:30:28 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Nostr Authentication Is Simpler Than OAuth</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1b7fb231cd720a929fbd0cf38cd6511fc40061a103018ba0ff3eddcbeb5f84c7</link>
+      <guid isPermaLink="false">1b7fb231cd720a929fbd0cf38cd6511fc40061a103018ba0ff3eddcbeb5f84c7</guid>
+      <pubDate>Thu, 05 Mar 2026 00:29:30 GMT</pubDate>
+      <description><![CDATA[Modern authentication systems have become extremely complex. Nostr-based authentication offers a radically simpler approach built on cryptographic signatures.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Building Continuum</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=939fc17f94718f7be4540b482666ccf7a5ced0be26b8c70ed30cda69ed632fa3</link>
+      <guid isPermaLink="false">939fc17f94718f7be4540b482666ccf7a5ced0be26b8c70ed30cda69ed632fa3</guid>
+      <pubDate>Thu, 05 Mar 2026 00:25:36 GMT</pubDate>
+      <description><![CDATA[Continuum explores a local-first environment for managing Nostr identities, signing events, and preserving durable authorship.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Identity Layer Is the Next Infrastructure War</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e6f762d902ccb4bd7903a033cdb43a5f8d1f214e89b3c4582a55a8a90428dfdd</link>
+      <guid isPermaLink="false">e6f762d902ccb4bd7903a033cdb43a5f8d1f214e89b3c4582a55a8a90428dfdd</guid>
+      <pubDate>Thu, 05 Mar 2026 00:22:00 GMT</pubDate>
+      <description><![CDATA[Identity is quietly becoming the most important infrastructure layer of the internet. Password systems and platform-controlled identity models have reached structural limits. Cryptographic identity — especially systems like Nostr — introduces a fundamentally different approach where users control keys and services verify signatures rather than storing credentials.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Building With Keys: A Practical Roadmap for Sovereign Systems</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=3b911e28c8e55fe337af208302fb111e260f5ad8742da65a7dfe3c64d0f10b07</link>
@@ -4923,86 +5003,6 @@
       <pubDate>Sat, 03 Jan 2026 21:16:48 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Feeling Tired - 1/2/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9aefdd37bba0171163567d9c103f15b01a4aa440844fb7e932a34e7d2acc1894</link>
-      <guid isPermaLink="false">9aefdd37bba0171163567d9c103f15b01a4aa440844fb7e932a34e7d2acc1894</guid>
-      <pubDate>Sat, 03 Jan 2026 21:14:40 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Quiet Days - 1/2/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=4e1fb4983179b1772767eea1596b51c1d947a16f0019ed9eb296cd6c8384a038</link>
-      <guid isPermaLink="false">4e1fb4983179b1772767eea1596b51c1d947a16f0019ed9eb296cd6c8384a038</guid>
-      <pubDate>Sat, 03 Jan 2026 21:11:39 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Progress - 1/2/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=10c04db0a8619653c9037bf6f89a87c9131aec3ead7cbb0b999ccc23fee7d84f</link>
-      <guid isPermaLink="false">10c04db0a8619653c9037bf6f89a87c9131aec3ead7cbb0b999ccc23fee7d84f</guid>
-      <pubDate>Sat, 03 Jan 2026 21:07:51 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.D.8 - The Cost of Saying No</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e70b87d15e7ea34602afc69f2e17cba25bcbd8cd694894f4a2d9a5c069d346ac</link>
-      <guid isPermaLink="false">e70b87d15e7ea34602afc69f2e17cba25bcbd8cd694894f4a2d9a5c069d346ac</guid>
-      <pubDate>Sat, 03 Jan 2026 20:31:39 GMT</pubDate>
-      <description><![CDATA[Refusing jurisdiction is simple. Living without its protection is not.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.D.7 - Forum Shopping</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=87ab5adc45fcd339f43ad5fd20cf4fc52e39e6074f6507dfc7c0de64e4e6dd2f</link>
-      <guid isPermaLink="false">87ab5adc45fcd339f43ad5fd20cf4fc52e39e6074f6507dfc7c0de64e4e6dd2f</guid>
-      <pubDate>Sat, 03 Jan 2026 20:30:29 GMT</pubDate>
-      <description><![CDATA[When law moves, participants learn how to chase outcomes.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.D.6 - Too Late to Matter</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=99c8957b4402aa2689911b1b87b18de0121c1bd23bee04de35c1620c19f80afd</link>
-      <guid isPermaLink="false">99c8957b4402aa2689911b1b87b18de0121c1bd23bee04de35c1620c19f80afd</guid>
-      <pubDate>Sat, 03 Jan 2026 20:29:27 GMT</pubDate>
-      <description><![CDATA[In the Belt, justice that arrives late is not justice. It is documentation.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.D.5 - The Price of Stability</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3f4deb01b65e635274f61d0974aa6d231726592a30f4e23562785e12683fa3c9</link>
-      <guid isPermaLink="false">3f4deb01b65e635274f61d0974aa6d231726592a30f4e23562785e12683fa3c9</guid>
-      <pubDate>Sat, 03 Jan 2026 20:28:21 GMT</pubDate>
-      <description><![CDATA[Insurance did not return to the Belt as control. It returned as comfort.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.D.4 - The Black Channels</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c965ab581a0bfedb35dd447017cb39f0cc61f6d12db911eb00083d03aeac7780</link>
-      <guid isPermaLink="false">c965ab581a0bfedb35dd447017cb39f0cc61f6d12db911eb00083d03aeac7780</guid>
-      <pubDate>Sat, 03 Jan 2026 20:27:24 GMT</pubDate>
-      <description><![CDATA[When arbitration arrives too late, settlement does not disappear. It goes underground.]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>

@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 04 Mar 2026 19:46:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 00:42:17 GMT</lastBuildDate>
+    <item>
+      <title>Nostr Authentication Is Simpler Than OAuth</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1b7fb231cd720a929fbd0cf38cd6511fc40061a103018ba0ff3eddcbeb5f84c7</link>
+      <guid isPermaLink="false">1b7fb231cd720a929fbd0cf38cd6511fc40061a103018ba0ff3eddcbeb5f84c7</guid>
+      <pubDate>Thu, 05 Mar 2026 00:29:30 GMT</pubDate>
+      <description><![CDATA[Modern authentication systems have become extremely complex. Nostr-based authentication offers a radically simpler approach built on cryptographic signatures.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Building Continuum</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=939fc17f94718f7be4540b482666ccf7a5ced0be26b8c70ed30cda69ed632fa3</link>
+      <guid isPermaLink="false">939fc17f94718f7be4540b482666ccf7a5ced0be26b8c70ed30cda69ed632fa3</guid>
+      <pubDate>Thu, 05 Mar 2026 00:25:36 GMT</pubDate>
+      <description><![CDATA[Continuum explores a local-first environment for managing Nostr identities, signing events, and preserving durable authorship.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Identity Layer Is the Next Infrastructure War</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e6f762d902ccb4bd7903a033cdb43a5f8d1f214e89b3c4582a55a8a90428dfdd</link>
+      <guid isPermaLink="false">e6f762d902ccb4bd7903a033cdb43a5f8d1f214e89b3c4582a55a8a90428dfdd</guid>
+      <pubDate>Thu, 05 Mar 2026 00:22:00 GMT</pubDate>
+      <description><![CDATA[Identity is quietly becoming the most important infrastructure layer of the internet. Password systems and platform-controlled identity models have reached structural limits. Cryptographic identity — especially systems like Nostr — introduces a fundamentally different approach where users control keys and services verify signatures rather than storing credentials.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Building With Keys: A Practical Roadmap for Sovereign Systems</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=3b911e28c8e55fe337af208302fb111e260f5ad8742da65a7dfe3c64d0f10b07</link>
@@ -4972,36 +5002,6 @@
       <guid isPermaLink="false">65e4991ab079fe3edce13389714d95ae971618b4fe2a4ac668a23f9e210b3808</guid>
       <pubDate>Sat, 15 Nov 2025 06:53:45 GMT</pubDate>
       <description><![CDATA[Refinements, resilience, and real-world usage. In this follow-up to Part 1, I document how I styled and streamlined my Nostr-based CMS — including relay deduplication, HTML fixes, GitHub Actions automation, and thoughtful publishing defaults — all running on free infrastructure I control.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Bitcoin Offsets Depreciation: A Long-Term Thesis for Business Owners and Builders</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=bda07608ff52a5f427e1f5d008ffedc18ca4d0a6c2c7ea0c47842f0262d67bb5</link>
-      <guid isPermaLink="false">bda07608ff52a5f427e1f5d008ffedc18ca4d0a6c2c7ea0c47842f0262d67bb5</guid>
-      <pubDate>Sat, 15 Nov 2025 06:49:53 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Part 4: Judgment as Purification, Not Final Defeat</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=43361c86292371780b37fdaf72d0b97e362c16eac57185f315c20bf62f5a6dd3</link>
-      <guid isPermaLink="false">43361c86292371780b37fdaf72d0b97e362c16eac57185f315c20bf62f5a6dd3</guid>
-      <pubDate>Sat, 15 Nov 2025 06:40:14 GMT</pubDate>
-      <description><![CDATA[This is part 4 and the final part of our series.  Judgment in Scripture is real and severe, but never final defeat. Its purpose is purification, not endless torment. The fire burns away what cannot last, so that reconciliation and restoration may come.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>How I Built a Decentralized CMS with Nostr + GitHub Actions</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=64022bc7694b63d9ccc2e6b335d285c974126a469bf79cd71f6a3c86848fc2aa</link>
-      <guid isPermaLink="false">64022bc7694b63d9ccc2e6b335d285c974126a469bf79cd71f6a3c86848fc2aa</guid>
-      <pubDate>Sat, 15 Nov 2025 06:35:38 GMT</pubDate>
-      <description><![CDATA[This article walks through how I built a fully decentralized blog using Nostr as the backend CMS, GitHub Actions for automation, and GitHub Pages for free global hosting. No servers, no logins — just sovereign publishing on open protocols.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
