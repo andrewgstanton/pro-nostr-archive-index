@@ -5,13 +5,23 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8 (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 03 Mar 2026 04:17:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 00:53:22 GMT</lastBuildDate>
     <item>
-      <title>kind:30023 5e5aad449e</title>
+      <title>kind:1 631dc368bc</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=631dc368bc310b55f0ae3e0756adf008f6b297978ca03f6ae50f31b4af8cbe01</link>
+      <guid isPermaLink="false">631dc368bc310b55f0ae3e0756adf008f6b297978ca03f6ae50f31b4af8cbe01</guid>
+      <pubDate>Thu, 05 Mar 2026 00:46:59 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Sovereign Architecture as a Service</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=5e5aad449ea610ea0fcfda5dd4c033b8d0fb45de0588520626360525da57487d</link>
       <guid isPermaLink="false">5e5aad449ea610ea0fcfda5dd4c033b8d0fb45de0588520626360525da57487d</guid>
       <pubDate>Tue, 03 Mar 2026 03:55:07 GMT</pubDate>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[Most consultants sell advice layered on fragile infrastructure. This piece explains how a self-sovereign identity model — built on Nostr authentication and cryptographic signing — can become the backbone of a high-trust consulting practice. This is not theory. It is a practical blueprint for turning architecture into revenue.]]></description>
       <category>kind:30023</category>
       <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
       <category>paid:false</category>
