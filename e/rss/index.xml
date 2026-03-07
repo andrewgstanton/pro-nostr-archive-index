@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 07 Mar 2026 00:42:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 00:52:10 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 08dbd3ff6b</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=08dbd3ff6b9e6bd3705f6718a8c91fb6a7429e97e651d6351920eaac889ce695</link>
+      <guid isPermaLink="false">08dbd3ff6b9e6bd3705f6718a8c91fb6a7429e97e651d6351920eaac889ce695</guid>
+      <pubDate>Fri, 06 Mar 2026 06:15:42 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 ab480477fd</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=ab480477fd65bd067b3b2f217ebdbb9a4b1d88ed86d24b920a8fe6ae8c90bd57</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">623c4865bd80caea11d74714fd597457e541f1f77d19cf9faa82ab992af3a22c</guid>
       <pubDate>Mon, 05 Jan 2026 19:50:04 GMT</pubDate>
       <description><![CDATA[Before entanglement narrowed the Solar System again, distance forced humanity to become many civilizations in practice. This essay explores how that divergence formed, and why later simultaneity could reconnect infrastructure without erasing what delay had already written into culture.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.F.4 - The Long Silence</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5ea14f191a19c75abde76c54fd8a838dd2ba3801892359a5851b97d6bb2c101d</link>
-      <guid isPermaLink="false">5ea14f191a19c75abde76c54fd8a838dd2ba3801892359a5851b97d6bb2c101d</guid>
-      <pubDate>Mon, 05 Jan 2026 19:48:59 GMT</pubDate>
-      <description><![CDATA[For more than a century, humanity lived without reply. This essay examines the generation shaped by delay—not as deprivation, but as discipline—and how silence formed the moral substrate that later made entanglement feel destabilizing rather than liberating.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
