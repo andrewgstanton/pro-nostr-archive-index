@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 07 Mar 2026 00:52:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 07:43:20 GMT</lastBuildDate>
+    <item>
+      <title>Identity Before Platforms</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=637b32bf97dda7bc53fb065f1df58774af1e55748d4f586163fc3d044e2259fa</link>
+      <guid isPermaLink="false">637b32bf97dda7bc53fb065f1df58774af1e55748d4f586163fc3d044e2259fa</guid>
+      <pubDate>Sat, 07 Mar 2026 03:12:40 GMT</pubDate>
+      <description><![CDATA[Platform accounts have dominated the internet for decades. Cryptographic identity offers a fundamentally different model where individuals control their own digital identity.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Return of Personal Computing</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2bb143a8935def3f0820530651b6a3cb17251fa4e55f8de5f9233b817cb60be6</link>
+      <guid isPermaLink="false">2bb143a8935def3f0820530651b6a3cb17251fa4e55f8de5f9233b817cb60be6</guid>
+      <pubDate>Sat, 07 Mar 2026 03:10:21 GMT</pubDate>
+      <description><![CDATA[Modern software has gradually shifted control away from users toward platforms. Local-first architecture and cryptographic identity may represent a return to the original promise of personal computing.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Quiet Infrastructure Wins</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4db3df26a5d6602ce010a53eef50f6c493db7e19c8f01ee80dcfe69b3244ef5a</link>
+      <guid isPermaLink="false">4db3df26a5d6602ce010a53eef50f6c493db7e19c8f01ee80dcfe69b3244ef5a</guid>
+      <pubDate>Sat, 07 Mar 2026 03:07:16 GMT</pubDate>
+      <description><![CDATA[Durable technology rarely arrives through hype cycles. The most important infrastructure is often quiet, simple, and built for long-term reliability rather than spectacle.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Gratitude and the Quiet Work of God</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=81f51416eb18840bfbb8d58e37dd6d1e0820ebb9070443bf9e3188f7f084eb8f</link>
@@ -4972,36 +5002,6 @@
       <guid isPermaLink="false">0e35cb1d517f27cf70481c6b33435cc79c63c579b7c504a8350a3c76fd1a7d0e</guid>
       <pubDate>Sun, 16 Nov 2025 00:45:07 GMT</pubDate>
       <description><![CDATA[In the late 1980s and early 1990s, while finishing my Physics/Math degree and beginning graduate studies in Electrical Engineering at the University of Hawai‘i, I encountered the Hawaiian sovereignty movement firsthand. I listened to Haunani-Kay Trask’s fiery speeches, read Thurston Twigg-Smith’s *Sovereignty: Do the Facts Matter?*, and felt caught between anger without blueprint and caution without vision.    At the same time, the cypherpunks were beginning to write about cryptography and freedom on obscure mailing lists. Their words were abstract then — but decades later, Bitcoin transformed them into proof.    This essay traces my journey from those days at U.H. to the present, showing how Bitcoin unites Trask’s cry, Twigg-Smith’s caution, and the cypherpunks’ math — turning anger into proof and sovereignty into something we can finally live.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Bitcoin Sovereignty Manifesto for Native Nations</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f8ba848c10d338e26a83946bf97a7722fa0c4ffa4e844aecf389f4236363ec88</link>
-      <guid isPermaLink="false">f8ba848c10d338e26a83946bf97a7722fa0c4ffa4e844aecf389f4236363ec88</guid>
-      <pubDate>Sun, 16 Nov 2025 00:43:12 GMT</pubDate>
-      <description><![CDATA[This manifesto is written in solidarity, not appropriation. As a descendant of Mayflower settlers who grew up in the Pacific, I have long resonated with displaced peoples — Jews, Hawaiians, Native Nations — whose sovereignty was denied but never erased.  The message is simple: sovereignty matters for all of us. What was once taken openly from Native Nations is now being eroded quietly from everyone through fiat money, surveillance, and dependency.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>First Fruits: How the Victorious Gospel and Bitcoin Share the Same Story</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=99468f1b191ac2f83cd9994c4c31351b4a46909324d557b18b7a7f1cfa843c97</link>
-      <guid isPermaLink="false">99468f1b191ac2f83cd9994c4c31351b4a46909324d557b18b7a7f1cfa843c97</guid>
-      <pubDate>Sat, 15 Nov 2025 22:10:55 GMT</pubDate>
-      <description><![CDATA[This article draws a parallel between the Victorious Gospel’s teaching of “first fruits” and the emergence of Bitcoin, showing how both follow a pattern of unshakable foundation, early adopters, and inevitable full reach. It explores the role of the “elect” as living witnesses, warns against modern forms of idolatry — from image management to AI worship — and grounds the whole message in humility, giving all glory to Christ.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Nostr: The Neutral Protocol With a Bitcoin Gravity Well</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=bc27e0751b6f4954ea00eb27b50a513959b4ba2ca20d0bd028ac96885027e18b</link>
-      <guid isPermaLink="false">bc27e0751b6f4954ea00eb27b50a513959b4ba2ca20d0bd028ac96885027e18b</guid>
-      <pubDate>Sat, 15 Nov 2025 21:59:14 GMT</pubDate>
-      <description><![CDATA[Nostr ia a truly decentralized open protocol for publishing signed events.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

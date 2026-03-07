@@ -5,7 +5,97 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 07 Mar 2026 00:52:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 07:43:20 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 2e24e299d3</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2e24e299d37f54f8642660c254b5f47ae8c0e926650760937739f30fc954844f</link>
+      <guid isPermaLink="false">2e24e299d37f54f8642660c254b5f47ae8c0e926650760937739f30fc954844f</guid>
+      <pubDate>Sat, 07 Mar 2026 07:27:12 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 23e85fa957</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=23e85fa957ece1dbd7654dc7c3db24c5e25ef5cd1909175224d6cc00ed6dd4d6</link>
+      <guid isPermaLink="false">23e85fa957ece1dbd7654dc7c3db24c5e25ef5cd1909175224d6cc00ed6dd4d6</guid>
+      <pubDate>Sat, 07 Mar 2026 03:25:27 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 273fc6b9aa</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=273fc6b9aa905fd54a60a03ba0ec6e0168f8555e1c8a1a75fdec295aec3b9efb</link>
+      <guid isPermaLink="false">273fc6b9aa905fd54a60a03ba0ec6e0168f8555e1c8a1a75fdec295aec3b9efb</guid>
+      <pubDate>Sat, 07 Mar 2026 03:22:53 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 10f142b7e6</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=10f142b7e6607ed6af4cabff1ce7c4eca5275bad244c7460e1baab0dccedb4b5</link>
+      <guid isPermaLink="false">10f142b7e6607ed6af4cabff1ce7c4eca5275bad244c7460e1baab0dccedb4b5</guid>
+      <pubDate>Sat, 07 Mar 2026 03:20:50 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 3ba1ee9d8b</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3ba1ee9d8bd16d3d0db1aa7ed118ea8c5a8a8f2fad4d5a25ac3a3440e596646c</link>
+      <guid isPermaLink="false">3ba1ee9d8bd16d3d0db1aa7ed118ea8c5a8a8f2fad4d5a25ac3a3440e596646c</guid>
+      <pubDate>Sat, 07 Mar 2026 03:18:47 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 1f477e3e0e</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1f477e3e0e4b925a26ae1c2488cde24a7b33c573798531407a201d47f70d8bbe</link>
+      <guid isPermaLink="false">1f477e3e0e4b925a26ae1c2488cde24a7b33c573798531407a201d47f70d8bbe</guid>
+      <pubDate>Sat, 07 Mar 2026 03:16:04 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Identity Before Platforms</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=637b32bf97dda7bc53fb065f1df58774af1e55748d4f586163fc3d044e2259fa</link>
+      <guid isPermaLink="false">637b32bf97dda7bc53fb065f1df58774af1e55748d4f586163fc3d044e2259fa</guid>
+      <pubDate>Sat, 07 Mar 2026 03:12:40 GMT</pubDate>
+      <description><![CDATA[Platform accounts have dominated the internet for decades. Cryptographic identity offers a fundamentally different model where individuals control their own digital identity.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Return of Personal Computing</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2bb143a8935def3f0820530651b6a3cb17251fa4e55f8de5f9233b817cb60be6</link>
+      <guid isPermaLink="false">2bb143a8935def3f0820530651b6a3cb17251fa4e55f8de5f9233b817cb60be6</guid>
+      <pubDate>Sat, 07 Mar 2026 03:10:21 GMT</pubDate>
+      <description><![CDATA[Modern software has gradually shifted control away from users toward platforms. Local-first architecture and cryptographic identity may represent a return to the original promise of personal computing.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Quiet Infrastructure Wins</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4db3df26a5d6602ce010a53eef50f6c493db7e19c8f01ee80dcfe69b3244ef5a</link>
+      <guid isPermaLink="false">4db3df26a5d6602ce010a53eef50f6c493db7e19c8f01ee80dcfe69b3244ef5a</guid>
+      <pubDate>Sat, 07 Mar 2026 03:07:16 GMT</pubDate>
+      <description><![CDATA[Durable technology rarely arrives through hype cycles. The most important infrastructure is often quiet, simple, and built for long-term reliability rather than spectacle.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 08dbd3ff6b</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=08dbd3ff6b9e6bd3705f6718a8c91fb6a7429e97e651d6351920eaac889ce695</link>
@@ -4912,96 +5002,6 @@
       <guid isPermaLink="false">136086d467418fee07d133f78c65fb0926264bb9988c3fe60e38b74652f99687</guid>
       <pubDate>Tue, 06 Jan 2026 01:03:42 GMT</pubDate>
       <description><![CDATA[Modern technology optimizes for speed, convenience, and short feedback loops. Civilizations, however, are built over centuries. This tension explains why most digital systems decay while Bitcoin endures. Bitcoin is not a product to be optimized like software-as-a-service; it is a cathedral—slow to build, difficult to alter, and designed to outlast its builders.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔐 Why Civilizations Collapse When Responsibility Is Optional</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7efc15dbb97e565c36613f629b2b657eb4e7ca071fd940961cf9e1db191dac0b</link>
-      <guid isPermaLink="false">7efc15dbb97e565c36613f629b2b657eb4e7ca071fd940961cf9e1db191dac0b</guid>
-      <pubDate>Tue, 06 Jan 2026 00:57:32 GMT</pubDate>
-      <description><![CDATA[Civilizations do not collapse primarily because of violence, invasion, or even decadence. They collapse when responsibility is systematically removed from individuals and absorbed by systems. When consequences are softened, delayed, or socialized, decay becomes invisible—until it is irreversible. Bitcoin matters because it restores responsibility as a structural requirement rather than a moral suggestion.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Bitcoin Is Honest, Not Moral — And Why That Matters</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=1bc3de473b6b5e66fe596ab05239205423eaa07e5847ab6aeebb3e675d08554e</link>
-      <guid isPermaLink="false">1bc3de473b6b5e66fe596ab05239205423eaa07e5847ab6aeebb3e675d08554e</guid>
-      <pubDate>Tue, 06 Jan 2026 00:52:27 GMT</pubDate>
-      <description><![CDATA[Bitcoin is often described as “ethical,” “just,” or even “moral.” These claims miss something more important. Bitcoin is not moral — it is honest. And that distinction explains both its power and the discomfort it creates. Like a witness that cannot be bribed, Bitcoin records reality without judgment. That honesty reshapes responsibility, sovereignty, and civilization itself.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Creativity Is How We Practice Freedom - 1/5/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9c4e3077550101f128cfc3ce7a4cc2b875f653626476bacf1ac8da354fc26703</link>
-      <guid isPermaLink="false">9c4e3077550101f128cfc3ce7a4cc2b875f653626476bacf1ac8da354fc26703</guid>
-      <pubDate>Mon, 05 Jan 2026 20:16:52 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Creativity Is a Form of Responsibility - 1/5/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=67ee72fca0c7a0186c39d10bc4f21edacec2f6d3330da7266f945487f6884b4f</link>
-      <guid isPermaLink="false">67ee72fca0c7a0186c39d10bc4f21edacec2f6d3330da7266f945487f6884b4f</guid>
-      <pubDate>Mon, 05 Jan 2026 20:15:09 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Not All Work Is Meant to Be Seen Immediately - 1/5/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f33b9baac59b2146237e3a1c396061bb5987c50cc5e3132e1329083307a2f933</link>
-      <guid isPermaLink="false">f33b9baac59b2146237e3a1c396061bb5987c50cc5e3132e1329083307a2f933</guid>
-      <pubDate>Mon, 05 Jan 2026 20:13:20 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Creation Requires Distance - 1/5/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e9bba63a3ed641c4fdfe0f9581343dec6e9fbdf7968b814e1ee611768ae5ab83</link>
-      <guid isPermaLink="false">e9bba63a3ed641c4fdfe0f9581343dec6e9fbdf7968b814e1ee611768ae5ab83</guid>
-      <pubDate>Mon, 05 Jan 2026 20:11:48 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Creativity Is Not Efficiency - 1/5/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a8c5de5b32865671dc27ead5967a39237aea1e964687a8f81a8025a3403819f9</link>
-      <guid isPermaLink="false">a8c5de5b32865671dc27ead5967a39237aea1e964687a8f81a8025a3403819f9</guid>
-      <pubDate>Mon, 05 Jan 2026 20:10:26 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.F.5 - Rumors of Simultaneity</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=1c7a6261ac580fb93091f4a30985d60b3831b9d999ed7ae5ed8d1c8c709cf014</link>
-      <guid isPermaLink="false">1c7a6261ac580fb93091f4a30985d60b3831b9d999ed7ae5ed8d1c8c709cf014</guid>
-      <pubDate>Mon, 05 Jan 2026 19:52:49 GMT</pubDate>
-      <description><![CDATA[Long before simultaneity became operational, it existed as rumor—circulating through sealed labs, cautious grants, and private unease. This essay traces how the possibility of shared time unsettled a civilization shaped by delay.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.F.3 - The Point of No Return</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=623c4865bd80caea11d74714fd597457e541f1f77d19cf9faa82ab992af3a22c</link>
-      <guid isPermaLink="false">623c4865bd80caea11d74714fd597457e541f1f77d19cf9faa82ab992af3a22c</guid>
-      <pubDate>Mon, 05 Jan 2026 19:50:04 GMT</pubDate>
-      <description><![CDATA[Before entanglement narrowed the Solar System again, distance forced humanity to become many civilizations in practice. This essay explores how that divergence formed, and why later simultaneity could reconnect infrastructure without erasing what delay had already written into culture.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

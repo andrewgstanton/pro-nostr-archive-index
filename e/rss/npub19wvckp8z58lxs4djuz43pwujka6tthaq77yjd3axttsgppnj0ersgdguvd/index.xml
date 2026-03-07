@@ -5,7 +5,97 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 07 Mar 2026 00:42:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 07:43:20 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 2e24e299d3</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2e24e299d37f54f8642660c254b5f47ae8c0e926650760937739f30fc954844f</link>
+      <guid isPermaLink="false">2e24e299d37f54f8642660c254b5f47ae8c0e926650760937739f30fc954844f</guid>
+      <pubDate>Sat, 07 Mar 2026 07:27:12 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 23e85fa957</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=23e85fa957ece1dbd7654dc7c3db24c5e25ef5cd1909175224d6cc00ed6dd4d6</link>
+      <guid isPermaLink="false">23e85fa957ece1dbd7654dc7c3db24c5e25ef5cd1909175224d6cc00ed6dd4d6</guid>
+      <pubDate>Sat, 07 Mar 2026 03:25:27 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 273fc6b9aa</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=273fc6b9aa905fd54a60a03ba0ec6e0168f8555e1c8a1a75fdec295aec3b9efb</link>
+      <guid isPermaLink="false">273fc6b9aa905fd54a60a03ba0ec6e0168f8555e1c8a1a75fdec295aec3b9efb</guid>
+      <pubDate>Sat, 07 Mar 2026 03:22:53 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 10f142b7e6</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=10f142b7e6607ed6af4cabff1ce7c4eca5275bad244c7460e1baab0dccedb4b5</link>
+      <guid isPermaLink="false">10f142b7e6607ed6af4cabff1ce7c4eca5275bad244c7460e1baab0dccedb4b5</guid>
+      <pubDate>Sat, 07 Mar 2026 03:20:50 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 3ba1ee9d8b</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3ba1ee9d8bd16d3d0db1aa7ed118ea8c5a8a8f2fad4d5a25ac3a3440e596646c</link>
+      <guid isPermaLink="false">3ba1ee9d8bd16d3d0db1aa7ed118ea8c5a8a8f2fad4d5a25ac3a3440e596646c</guid>
+      <pubDate>Sat, 07 Mar 2026 03:18:47 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 1f477e3e0e</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1f477e3e0e4b925a26ae1c2488cde24a7b33c573798531407a201d47f70d8bbe</link>
+      <guid isPermaLink="false">1f477e3e0e4b925a26ae1c2488cde24a7b33c573798531407a201d47f70d8bbe</guid>
+      <pubDate>Sat, 07 Mar 2026 03:16:04 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Identity Before Platforms</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=637b32bf97dda7bc53fb065f1df58774af1e55748d4f586163fc3d044e2259fa</link>
+      <guid isPermaLink="false">637b32bf97dda7bc53fb065f1df58774af1e55748d4f586163fc3d044e2259fa</guid>
+      <pubDate>Sat, 07 Mar 2026 03:12:40 GMT</pubDate>
+      <description><![CDATA[Platform accounts have dominated the internet for decades. Cryptographic identity offers a fundamentally different model where individuals control their own digital identity.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Return of Personal Computing</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2bb143a8935def3f0820530651b6a3cb17251fa4e55f8de5f9233b817cb60be6</link>
+      <guid isPermaLink="false">2bb143a8935def3f0820530651b6a3cb17251fa4e55f8de5f9233b817cb60be6</guid>
+      <pubDate>Sat, 07 Mar 2026 03:10:21 GMT</pubDate>
+      <description><![CDATA[Modern software has gradually shifted control away from users toward platforms. Local-first architecture and cryptographic identity may represent a return to the original promise of personal computing.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Quiet Infrastructure Wins</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4db3df26a5d6602ce010a53eef50f6c493db7e19c8f01ee80dcfe69b3244ef5a</link>
+      <guid isPermaLink="false">4db3df26a5d6602ce010a53eef50f6c493db7e19c8f01ee80dcfe69b3244ef5a</guid>
+      <pubDate>Sat, 07 Mar 2026 03:07:16 GMT</pubDate>
+      <description><![CDATA[Durable technology rarely arrives through hype cycles. The most important infrastructure is often quiet, simple, and built for long-term reliability rather than spectacle.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 ab480477fd</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=ab480477fd65bd067b3b2f217ebdbb9a4b1d88ed86d24b920a8fe6ae8c90bd57</link>
@@ -4912,96 +5002,6 @@
       <guid isPermaLink="false">35b6f1c6da00b65942f32640e53bb69636048ddf364d145bee3f4775a2b9748c</guid>
       <pubDate>Mon, 05 Jan 2026 04:36:08 GMT</pubDate>
       <description><![CDATA[The New Year often pressures us to reinvent ourselves. But renewal is not reinvention—it is remembering who we already are, and shedding what no longer belongs.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sunday Article (Jan. 4, 2026): Renewal Is Not Urgency</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d6bd7993f7731368bc77ccbb248c6c6bc0b6aa58836aff3e9e69fe087232917f</link>
-      <guid isPermaLink="false">d6bd7993f7731368bc77ccbb248c6c6bc0b6aa58836aff3e9e69fe087232917f</guid>
-      <pubDate>Mon, 05 Jan 2026 04:35:03 GMT</pubDate>
-      <description><![CDATA[Urgency is often mistaken for purpose. But true renewal unfolds slowly, faithfully, and without panic. The first Sunday of the year invites us into a different rhythm—one rooted in trust rather than pressure.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Walking Slowly - 1/4/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=79f169abf7b3cde0a1569389bdb947dd925909794695910254fe616f5611cb3a</link>
-      <guid isPermaLink="false">79f169abf7b3cde0a1569389bdb947dd925909794695910254fe616f5611cb3a</guid>
-      <pubDate>Mon, 05 Jan 2026 04:24:13 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Remembering - 1/4/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5fb6ccf2be44f7658f5a96860de03b111b87286e514dfd7a1b17df6065267e29</link>
-      <guid isPermaLink="false">5fb6ccf2be44f7658f5a96860de03b111b87286e514dfd7a1b17df6065267e29</guid>
-      <pubDate>Mon, 05 Jan 2026 04:22:54 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Urgency vs Renewal - 1/4/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=26a9d4cc5b8192d4a769d491c3147409882a086c90bc45d25875524f62dd47af</link>
-      <guid isPermaLink="false">26a9d4cc5b8192d4a769d491c3147409882a086c90bc45d25875524f62dd47af</guid>
-      <pubDate>Mon, 05 Jan 2026 04:21:22 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Identity - 1/42026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=be4e759ef9101ebdc77718b0103c8a1c099caccac6f201eeb7b2961b78d418de</link>
-      <guid isPermaLink="false">be4e759ef9101ebdc77718b0103c8a1c099caccac6f201eeb7b2961b78d418de</guid>
-      <pubDate>Mon, 05 Jan 2026 04:19:46 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Renewal - 1/4/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=8347a6983080b06285f6d644bcbc27b0c70296d69cbf49ad79269d4b0aec39b7</link>
-      <guid isPermaLink="false">8347a6983080b06285f6d644bcbc27b0c70296d69cbf49ad79269d4b0aec39b7</guid>
-      <pubDate>Mon, 05 Jan 2026 04:18:36 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Small Steps Still Count</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=90368a64b2e0c120d2498cbbb3fc32ad468477d4514f3c2a2b22890415db5eab</link>
-      <guid isPermaLink="false">90368a64b2e0c120d2498cbbb3fc32ad468477d4514f3c2a2b22890415db5eab</guid>
-      <pubDate>Sun, 04 Jan 2026 07:47:23 GMT</pubDate>
-      <description><![CDATA[Freedom grows quietly — one sustainable choice at a time.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>How I Publish Long-Form Sovereign Work — and Why I Also Use Substack</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c6fcc3e17961bb9028ab217e60d47d54add675338783b395819153eae8683186</link>
-      <guid isPermaLink="false">c6fcc3e17961bb9028ab217e60d47d54add675338783b395819153eae8683186</guid>
-      <pubDate>Sun, 04 Jan 2026 01:18:00 GMT</pubDate>
-      <description><![CDATA[I have published hundreds of long-form essays using my own sovereign publishing stack on Continuum and Nostr. Substack is not where this work began. This post explains how and why I am selectively using Substack as a distribution surface—without abandoning long-form depth, ownership, or coherence.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sabbath Article (Jan. 3, 2026): The First Sabbath of 2026 Is a Line in Time</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=cf416a074ea386507d4d32e94d646d7f3be50cca9006620f778e854a6c87c998</link>
-      <guid isPermaLink="false">cf416a074ea386507d4d32e94d646d7f3be50cca9006620f778e854a6c87c998</guid>
-      <pubDate>Sat, 03 Jan 2026 22:02:49 GMT</pubDate>
-      <description><![CDATA[in time — a quiet declaration about how the year will be inhabited. In a culture addicted to optimization and urgency, beginning 2026 with Sabbath is an act of sovereignty. This essay reflects on Sabbath as boundary, trust, and orientation, and why starting the year with rest may be the most faithful and future-oriented choice we can make.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

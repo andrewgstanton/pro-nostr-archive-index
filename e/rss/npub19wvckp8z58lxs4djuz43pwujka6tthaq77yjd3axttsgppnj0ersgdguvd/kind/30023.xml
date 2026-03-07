@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 07 Mar 2026 00:42:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 07:43:20 GMT</lastBuildDate>
+    <item>
+      <title>Identity Before Platforms</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=637b32bf97dda7bc53fb065f1df58774af1e55748d4f586163fc3d044e2259fa</link>
+      <guid isPermaLink="false">637b32bf97dda7bc53fb065f1df58774af1e55748d4f586163fc3d044e2259fa</guid>
+      <pubDate>Sat, 07 Mar 2026 03:12:40 GMT</pubDate>
+      <description><![CDATA[Platform accounts have dominated the internet for decades. Cryptographic identity offers a fundamentally different model where individuals control their own digital identity.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Return of Personal Computing</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2bb143a8935def3f0820530651b6a3cb17251fa4e55f8de5f9233b817cb60be6</link>
+      <guid isPermaLink="false">2bb143a8935def3f0820530651b6a3cb17251fa4e55f8de5f9233b817cb60be6</guid>
+      <pubDate>Sat, 07 Mar 2026 03:10:21 GMT</pubDate>
+      <description><![CDATA[Modern software has gradually shifted control away from users toward platforms. Local-first architecture and cryptographic identity may represent a return to the original promise of personal computing.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Quiet Infrastructure Wins</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4db3df26a5d6602ce010a53eef50f6c493db7e19c8f01ee80dcfe69b3244ef5a</link>
+      <guid isPermaLink="false">4db3df26a5d6602ce010a53eef50f6c493db7e19c8f01ee80dcfe69b3244ef5a</guid>
+      <pubDate>Sat, 07 Mar 2026 03:07:16 GMT</pubDate>
+      <description><![CDATA[Durable technology rarely arrives through hype cycles. The most important infrastructure is often quiet, simple, and built for long-term reliability rather than spectacle.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Gratitude and the Quiet Work of God</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=81f51416eb18840bfbb8d58e37dd6d1e0820ebb9070443bf9e3188f7f084eb8f</link>
@@ -4972,36 +5002,6 @@
       <guid isPermaLink="false">1a009040d2ac6121d9f2c41f19df7848b7f0ad09d52631a9ba49293c0446bd1c</guid>
       <pubDate>Sat, 15 Nov 2025 07:11:41 GMT</pubDate>
       <description><![CDATA[多くの人は、テクノロジーがコストをゼロに近づけるものだと考えています。しかし、それは物語の半分にすぎません。中央集権型プラットフォームの「隠れた代償」は、金銭的なものだけでなく、コントロール（支配）にも及びます。本記事では、NostrやBitcoinのような分散型技術がこの構図をどう覆し、コストだけでなく「コントロール・コスト」も削減するのか、そしてその変化がなぜ重要なのかを掘り下げます。]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Hidden Cost of Centralization — and the Deeper Promise of Decentralization</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=42fcff76a0a992b5abfa769f813483d5c5edf5b02beb5d0cbc2fc36624b1b05a</link>
-      <guid isPermaLink="false">42fcff76a0a992b5abfa769f813483d5c5edf5b02beb5d0cbc2fc36624b1b05a</guid>
-      <pubDate>Sat, 15 Nov 2025 07:10:03 GMT</pubDate>
-      <description><![CDATA[Most people think technology drives costs to zero. But that only tells half the story. The hidden toll of centralized platforms isn't just financial — it's about control. This article explores how decentralization, especially through Nostr and Bitcoin, flips the equation by reducing not just price but control cost — and why that shift matters.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Why Bitcoin and Proof of Work Align with Christianity — and the Victorious Gospel</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=62925d38f0b3cdcb318583cfd25b71f029e85585fb3816d288241008492083e9</link>
-      <guid isPermaLink="false">62925d38f0b3cdcb318583cfd25b71f029e85585fb3816d288241008492083e9</guid>
-      <pubDate>Sat, 15 Nov 2025 07:00:36 GMT</pubDate>
-      <description><![CDATA[Bitcoin is not just “internet money.” It’s a response to a broken system.Proof of Work means truth is earned, not claimed.Fiat money is manipulable and inflationary; Bitcoin is fixed and fair.Bitcoin is the hardest money in history — with a supply cap of 21 million.It appreciates over time, acting as a new form of digital property.Christianity calls us to honest scales, faithful stewardship, and dignified work.And the Victorious Gospel declares that Jesus is restoring all things — including how we steward value, time, and trust.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Turning 60</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=853df05fdd04182a5c10f2f165103d21a389d2dddc7e9b3b4dcb95556b968402</link>
-      <guid isPermaLink="false">853df05fdd04182a5c10f2f165103d21a389d2dddc7e9b3b4dcb95556b968402</guid>
-      <pubDate>Sat, 15 Nov 2025 06:59:05 GMT</pubDate>
-      <description><![CDATA[A personal reflection on turning 60—looking back at a decade of transformation from dismissing Bitcoin as “tech for tech’s sake” to embracing it as a framework for truth, alignment, and intentional living. The post traces a journey of pruning, repentance, and recommitment to building a life rooted in faith, purpose, and conviction. It speaks to those in transition, encouraging them that the second half of life can be the truest chapter yet.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
