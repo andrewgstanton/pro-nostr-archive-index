@@ -1,6 +1,29 @@
 [
   {
     "slug": null,
+    "event_id": "ab480477fd65bd067b3b2f217ebdbb9a4b1d88ed86d24b920a8fe6ae8c90bd57",
+    "created_at": 1772777436,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/ab480477fd65bd067b3b2f217ebdbb9a4b1d88ed86d24b920a8fe6ae8c90bd57.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "builder-journal---march-5-2026--progress-friction-and-staying-the-course",
+    "event_id": "472434e7f2eb52774ceccc7ee8c5c26d1f855708f94d2362628c0788ee641ddf",
+    "created_at": 1772776916,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/472434e7f2eb52774ceccc7ee8c5c26d1f855708f94d2362628c0788ee641ddf.json",
+    "title": "Builder Journal - March 5, 2026 — Progress, Friction, and Staying the Course",
+    "summary": "A day of refining Continuum architecture, reflecting on relationships and reciprocity, and confronting the emotional realities of building something largely alone.",
+    "paid": false,
+    "published": false
+  },
+  {
+    "slug": null,
     "event_id": "7a391359d8ca69f3a54253ed78fd8d37249ad199e05c4ef43fa6e1d2e5718198",
     "created_at": 1772734197,
     "npub": "npub17yzvxpkdkmcwjzdsc7th8n32e5863qgn6c60kru33asghvwd6e5sa2qww9",

@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 05 Mar 2026 18:16:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 00:42:22 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 ab480477fd</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ab480477fd65bd067b3b2f217ebdbb9a4b1d88ed86d24b920a8fe6ae8c90bd57</link>
+      <guid isPermaLink="false">ab480477fd65bd067b3b2f217ebdbb9a4b1d88ed86d24b920a8fe6ae8c90bd57</guid>
+      <pubDate>Fri, 06 Mar 2026 06:10:36 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 70beb0fa36</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=70beb0fa36af1f159389165887641698f36735608441b4dfc745fc766f084473</link>
@@ -4993,16 +5003,6 @@
       <pubDate>Mon, 05 Jan 2026 19:48:59 GMT</pubDate>
       <description><![CDATA[For more than a century, humanity lived without reply. This essay examines the generation shaped by delay—not as deprivation, but as discipline—and how silence formed the moral substrate that later made entanglement feel destabilizing rather than liberating.]]></description>
       <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 07732968c9</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=07732968c9aef521acd7492b6614c0e11da2bbb1cba908643e621ab98abf25f0</link>
-      <guid isPermaLink="false">07732968c9aef521acd7492b6614c0e11da2bbb1cba908643e621ab98abf25f0</guid>
-      <pubDate>Mon, 05 Jan 2026 08:09:07 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>

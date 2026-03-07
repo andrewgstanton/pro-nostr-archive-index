@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 05 Mar 2026 18:00:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 00:42:22 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 ab480477fd</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ab480477fd65bd067b3b2f217ebdbb9a4b1d88ed86d24b920a8fe6ae8c90bd57</link>
+      <guid isPermaLink="false">ab480477fd65bd067b3b2f217ebdbb9a4b1d88ed86d24b920a8fe6ae8c90bd57</guid>
+      <pubDate>Fri, 06 Mar 2026 06:10:36 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 70beb0fa36</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=70beb0fa36af1f159389165887641698f36735608441b4dfc745fc766f084473</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">cf416a074ea386507d4d32e94d646d7f3be50cca9006620f778e854a6c87c998</guid>
       <pubDate>Sat, 03 Jan 2026 22:02:49 GMT</pubDate>
       <description><![CDATA[in time — a quiet declaration about how the year will be inhabited. In a culture addicted to optimization and urgency, beginning 2026 with Sabbath is an act of sovereignty. This essay reflects on Sabbath as boundary, trust, and orientation, and why starting the year with rest may be the most faithful and future-oriented choice we can make.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Jan. 3, 2026: Fast-Food Capitalism and the Hunger It Cannot Satisfy</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=637dcf194af3197974b49aa4fa60f726b3219b0823db6bc48cadd42c76ddee2a</link>
-      <guid isPermaLink="false">637dcf194af3197974b49aa4fa60f726b3219b0823db6bc48cadd42c76ddee2a</guid>
-      <pubDate>Sat, 03 Jan 2026 21:59:09 GMT</pubDate>
-      <description><![CDATA[Modern entrepreneurial culture excels at speed, reach, and motivation — but often at the cost of meaning, endurance, and truth. This essay explores “fast-food capitalism”: a system optimized for attention and momentum rather than nourishment, formation, or permanence — and why many builders increasingly feel empty inside it.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
