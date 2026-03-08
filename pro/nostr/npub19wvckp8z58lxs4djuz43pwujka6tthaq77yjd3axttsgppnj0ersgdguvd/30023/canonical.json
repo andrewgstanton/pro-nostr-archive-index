@@ -3012,5 +3012,15 @@
   "a-good-day-of-building": {
     "latest_event_id": "182405a1b8e3dfba73f77bd4013954274e65e8a507d3c9313d9d4ba223b767ed",
     "latest_year": 2026
+  },
+  "builders-journal--march-8-2026": {
+    "latest_event_id": "d03fb854f6b381d5b8fac8702e4a93ec56d13ffcb39cc6fa39f8cb69b6257af3",
+    "latest_year": 2026,
+    "published": false
+  },
+  "the-emerging-shape-of-continuum": {
+    "latest_event_id": "9e5526d46b8933185d405965d28eaff327174ec11d87115e25a988aed0d0fe26",
+    "latest_year": 2026,
+    "published": false
   }
 }
