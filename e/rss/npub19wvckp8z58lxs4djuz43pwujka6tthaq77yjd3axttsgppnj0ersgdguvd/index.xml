@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 07 Mar 2026 07:43:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 00:03:56 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 627b652c3f</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=627b652c3f78dce9d849fc450d4180384ea3a03f2e1e4f9a74b1f308777735e3</link>
+      <guid isPermaLink="false">627b652c3f78dce9d849fc450d4180384ea3a03f2e1e4f9a74b1f308777735e3</guid>
+      <pubDate>Sat, 07 Mar 2026 23:48:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 2e24e299d3</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=2e24e299d37f54f8642660c254b5f47ae8c0e926650760937739f30fc954844f</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">d8b22c9d14642e9262092a6f0ba48cfbf5ee85093b6e8efb2859d9105d5c3191</guid>
       <pubDate>Mon, 05 Jan 2026 04:37:02 GMT</pubDate>
       <description><![CDATA[True renewal does not begin with ambition, planning, or self-improvement. It begins with rest. The first Sunday of the New Year invites us to stop striving and remember who we are before we try to become anything else.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Jan. 4, 2026): You Do Not Have to Become Someone New</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=35b6f1c6da00b65942f32640e53bb69636048ddf364d145bee3f4775a2b9748c</link>
-      <guid isPermaLink="false">35b6f1c6da00b65942f32640e53bb69636048ddf364d145bee3f4775a2b9748c</guid>
-      <pubDate>Mon, 05 Jan 2026 04:36:08 GMT</pubDate>
-      <description><![CDATA[The New Year often pressures us to reinvent ourselves. But renewal is not reinvention—it is remembering who we already are, and shedding what no longer belongs.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

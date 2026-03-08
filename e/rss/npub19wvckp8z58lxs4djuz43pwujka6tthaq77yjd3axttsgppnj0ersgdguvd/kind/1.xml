@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 07 Mar 2026 07:43:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 00:03:56 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 627b652c3f</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=627b652c3f78dce9d849fc450d4180384ea3a03f2e1e4f9a74b1f308777735e3</link>
+      <guid isPermaLink="false">627b652c3f78dce9d849fc450d4180384ea3a03f2e1e4f9a74b1f308777735e3</guid>
+      <pubDate>Sat, 07 Mar 2026 23:48:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 2e24e299d3</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=2e24e299d37f54f8642660c254b5f47ae8c0e926650760937739f30fc954844f</link>
@@ -4991,16 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=7e2e097ec73d7723f2826f0aedd5ab676f7f904a60c08e2c7a20231929702b9b</link>
       <guid isPermaLink="false">7e2e097ec73d7723f2826f0aedd5ab676f7f904a60c08e2c7a20231929702b9b</guid>
       <pubDate>Sat, 31 May 2025 15:46:56 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 2ed86a2992</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2ed86a29928006a9c27cd325b1f2f3474df8f9b1612af1046b59e2865dac5f41</link>
-      <guid isPermaLink="false">2ed86a29928006a9c27cd325b1f2f3474df8f9b1612af1046b59e2865dac5f41</guid>
-      <pubDate>Sat, 31 May 2025 03:32:12 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>

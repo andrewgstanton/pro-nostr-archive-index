@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 07 Mar 2026 07:43:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 00:03:56 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 627b652c3f</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=627b652c3f78dce9d849fc450d4180384ea3a03f2e1e4f9a74b1f308777735e3</link>
+      <guid isPermaLink="false">627b652c3f78dce9d849fc450d4180384ea3a03f2e1e4f9a74b1f308777735e3</guid>
+      <pubDate>Sat, 07 Mar 2026 23:48:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 2e24e299d3</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=2e24e299d37f54f8642660c254b5f47ae8c0e926650760937739f30fc954844f</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">af1ed642ca97b66136c30233c22a36f30b4d17f94445c2776b0d87ac4915439d</guid>
       <pubDate>Tue, 06 Jan 2026 01:07:54 GMT</pubDate>
       <description><![CDATA[Immutability is often framed as a technical feature of Bitcoin. In reality, it is a civilizational constraint—one that forces honesty, responsibility, and long-term thinking. Systems that can rewrite their past eventually lose their future. Bitcoin’s immutability matters because it restores memory where modern civilization has learned to forget.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔐 The Cathedral vs. the SaaS: Bitcoin and Long-Term Human Systems</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=136086d467418fee07d133f78c65fb0926264bb9988c3fe60e38b74652f99687</link>
-      <guid isPermaLink="false">136086d467418fee07d133f78c65fb0926264bb9988c3fe60e38b74652f99687</guid>
-      <pubDate>Tue, 06 Jan 2026 01:03:42 GMT</pubDate>
-      <description><![CDATA[Modern technology optimizes for speed, convenience, and short feedback loops. Civilizations, however, are built over centuries. This tension explains why most digital systems decay while Bitcoin endures. Bitcoin is not a product to be optimized like software-as-a-service; it is a cathedral—slow to build, difficult to alter, and designed to outlast its builders.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
