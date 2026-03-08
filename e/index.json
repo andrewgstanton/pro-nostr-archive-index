@@ -1,5 +1,40 @@
 [
   {
+    "slug": "the-emerging-shape-of-continuum",
+    "event_id": "9e5526d46b8933185d405965d28eaff327174ec11d87115e25a988aed0d0fe26",
+    "created_at": 1772996295,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/9e5526d46b8933185d405965d28eaff327174ec11d87115e25a988aed0d0fe26.json",
+    "title": "The Emerging Shape of Continuum",
+    "summary": "A private reflection on how recent work—offline publishing safeguards, personal relay infrastructure, and local AI agents—are converging into a single architectural direction for Continuum: a sovereign personal publishing node.",
+    "paid": false,
+    "published": false
+  },
+  {
+    "slug": "builders-journal--march-8-2026",
+    "event_id": "d03fb854f6b381d5b8fac8702e4a93ec56d13ffcb39cc6fa39f8cb69b6257af3",
+    "created_at": 1772995440,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/d03fb854f6b381d5b8fac8702e4a93ec56d13ffcb39cc6fa39f8cb69b6257af3.json",
+    "title": "Builder’s Journal — March 8, 2026",
+    "summary": "Today was a mix of community conversation and practical engineering improvements to Continuum.  The morning began at the Cornerstone men’s breakfast, including a meaningful conversation with Sean about service and the potential role Bitcoin might play in helping people on the margins.  The afternoon was focused on improving Continuum’s behavior when relays or network connectivity are unavailable — specifically by disabling publish-related actions in the UI so users are not attempting operations that cannot succeed.  I also spent some time brainstorming the next phase of tooling around Continuum’s growing body of content and infrastructure.",
+    "paid": false,
+    "published": false
+  },
+  {
+    "slug": null,
+    "event_id": "d890abe2b5137e6d4997ed2df4ed414a0b107247381b2995dbe989bb7d7e20de",
+    "created_at": 1772943897,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/d890abe2b5137e6d4997ed2df4ed414a0b107247381b2995dbe989bb7d7e20de.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "a-good-day-of-building",
     "event_id": "182405a1b8e3dfba73f77bd4013954274e65e8a507d3c9313d9d4ba223b767ed",
     "created_at": 1772931329,

@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 08 Mar 2026 03:58:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 21:38:46 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 d890abe2b5</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d890abe2b5137e6d4997ed2df4ed414a0b107247381b2995dbe989bb7d7e20de</link>
+      <guid isPermaLink="false">d890abe2b5137e6d4997ed2df4ed414a0b107247381b2995dbe989bb7d7e20de</guid>
+      <pubDate>Sun, 08 Mar 2026 04:24:57 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>A Good Day of Building</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=182405a1b8e3dfba73f77bd4013954274e65e8a507d3c9313d9d4ba223b767ed</link>
@@ -4991,16 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=9c4e3077550101f128cfc3ce7a4cc2b875f653626476bacf1ac8da354fc26703</link>
       <guid isPermaLink="false">9c4e3077550101f128cfc3ce7a4cc2b875f653626476bacf1ac8da354fc26703</guid>
       <pubDate>Mon, 05 Jan 2026 20:16:52 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Creativity Is a Form of Responsibility - 1/5/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=67ee72fca0c7a0186c39d10bc4f21edacec2f6d3330da7266f945487f6884b4f</link>
-      <guid isPermaLink="false">67ee72fca0c7a0186c39d10bc4f21edacec2f6d3330da7266f945487f6884b4f</guid>
-      <pubDate>Mon, 05 Jan 2026 20:15:09 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
