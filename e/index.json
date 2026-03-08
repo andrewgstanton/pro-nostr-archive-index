@@ -1,5 +1,93 @@
 [
   {
+    "slug": "a-good-day-of-building",
+    "event_id": "182405a1b8e3dfba73f77bd4013954274e65e8a507d3c9313d9d4ba223b767ed",
+    "created_at": 1772931329,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/182405a1b8e3dfba73f77bd4013954274e65e8a507d3c9313d9d4ba223b767ed.json",
+    "title": "A Good Day of Building",
+    "summary": "Reflecting on a day of calm progress, small improvements, and the quiet satisfaction of building something meaningful.",
+    "paid": false
+  },
+  {
+    "slug": "local-first-software-and-the-rhythm-of-rest",
+    "event_id": "f06a8c40fc6f0756a2f909b515fead7b8d09d1edbf5b796c8bf29db6b81f5209",
+    "created_at": 1772931040,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/f06a8c40fc6f0756a2f909b515fead7b8d09d1edbf5b796c8bf29db6b81f5209.json",
+    "title": "Local-First Software and the Rhythm of Rest",
+    "summary": "Exploring how local-first architecture reflects deeper principles about independence, resilience, and rest.",
+    "paid": false
+  },
+  {
+    "slug": "the-sabbath-and-the-joy-of-building",
+    "event_id": "eeb712eea59a4398f9f001fcea95a1a5bbedcd7c72d2b31f16b7aab9e230571e",
+    "created_at": 1772930676,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/eeb712eea59a4398f9f001fcea95a1a5bbedcd7c72d2b31f16b7aab9e230571e.json",
+    "title": "The Sabbath and the Joy of Building",
+    "summary": "Reflecting on how meaningful work can sometimes feel like rest when it aligns with purpose and calling.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "d3027205961f7985a04a8d504739bc3e8bfa2aa285e374c7f9c404d0f2c6e81c",
+    "created_at": 1772929778,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/d3027205961f7985a04a8d504739bc3e8bfa2aa285e374c7f9c404d0f2c6e81c.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "a1fdd56c14d2fb13d8fcaa8379ac4f0ffa0635544cb6a92704ee88c0f5c03355",
+    "created_at": 1772929669,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/a1fdd56c14d2fb13d8fcaa8379ac4f0ffa0635544cb6a92704ee88c0f5c03355.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "4587f067f55aa540e5d438c5bbf029179f78792614009c7c9c633486ba6887ab",
+    "created_at": 1772929443,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/4587f067f55aa540e5d438c5bbf029179f78792614009c7c9c633486ba6887ab.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "82197e7f0b5990030b88efd625df56b478e39d6ad7647a32b6455b9a6b634ff4",
+    "created_at": 1772929280,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/82197e7f0b5990030b88efd625df56b478e39d6ad7647a32b6455b9a6b634ff4.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "12849b81a7570f0a0d08812e0972924300e29a89e2a248ed07163b5c849749ad",
+    "created_at": 1772929159,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/12849b81a7570f0a0d08812e0972924300e29a89e2a248ed07163b5c849749ad.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": null,
     "event_id": "627b652c3f78dce9d849fc450d4180384ea3a03f2e1e4f9a74b1f308777735e3",
     "created_at": 1772927280,

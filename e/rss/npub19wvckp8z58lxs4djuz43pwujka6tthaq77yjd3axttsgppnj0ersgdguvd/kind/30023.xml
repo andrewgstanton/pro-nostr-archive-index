@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 08 Mar 2026 00:03:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 03:58:02 GMT</lastBuildDate>
+    <item>
+      <title>A Good Day of Building</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=182405a1b8e3dfba73f77bd4013954274e65e8a507d3c9313d9d4ba223b767ed</link>
+      <guid isPermaLink="false">182405a1b8e3dfba73f77bd4013954274e65e8a507d3c9313d9d4ba223b767ed</guid>
+      <pubDate>Sun, 08 Mar 2026 00:55:29 GMT</pubDate>
+      <description><![CDATA[Reflecting on a day of calm progress, small improvements, and the quiet satisfaction of building something meaningful.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Local-First Software and the Rhythm of Rest</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f06a8c40fc6f0756a2f909b515fead7b8d09d1edbf5b796c8bf29db6b81f5209</link>
+      <guid isPermaLink="false">f06a8c40fc6f0756a2f909b515fead7b8d09d1edbf5b796c8bf29db6b81f5209</guid>
+      <pubDate>Sun, 08 Mar 2026 00:50:40 GMT</pubDate>
+      <description><![CDATA[Exploring how local-first architecture reflects deeper principles about independence, resilience, and rest.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Sabbath and the Joy of Building</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=eeb712eea59a4398f9f001fcea95a1a5bbedcd7c72d2b31f16b7aab9e230571e</link>
+      <guid isPermaLink="false">eeb712eea59a4398f9f001fcea95a1a5bbedcd7c72d2b31f16b7aab9e230571e</guid>
+      <pubDate>Sun, 08 Mar 2026 00:44:36 GMT</pubDate>
+      <description><![CDATA[Reflecting on how meaningful work can sometimes feel like rest when it aligns with purpose and calling.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Identity Before Platforms</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=637b32bf97dda7bc53fb065f1df58774af1e55748d4f586163fc3d044e2259fa</link>
@@ -4972,36 +5002,6 @@
       <guid isPermaLink="false">931dd553818eef464198596428388fd778f10c59a30e434215f11b80cba2d385</guid>
       <pubDate>Sat, 15 Nov 2025 07:16:32 GMT</pubDate>
       <description><![CDATA[How npubs and cryptographic signatures can replace email/password logins.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>White Paper: Sovereign Credit</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a4c93fe54a66680e66175ae773ce11978d9081b23f38b7e909fb17257a1c4b12</link>
-      <guid isPermaLink="false">a4c93fe54a66680e66175ae773ce11978d9081b23f38b7e909fb17257a1c4b12</guid>
-      <pubDate>Sat, 15 Nov 2025 07:15:30 GMT</pubDate>
-      <description><![CDATA[How Nostr can form the foundation of a sovereign credit score built on proofs, not surveillance.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article Teaser (Day 2 - Aug. 25, 2025) : Bitcoin as Treasury, Not Trade</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=796467e5e05931f916e2ae4201d3641f8067595d1f1e0bbe4ecc4c6b7517c5a2</link>
-      <guid isPermaLink="false">796467e5e05931f916e2ae4201d3641f8067595d1f1e0bbe4ecc4c6b7517c5a2</guid>
-      <pubDate>Sat, 15 Nov 2025 07:12:53 GMT</pubDate>
-      <description><![CDATA[Why I denominate wealth in Bitcoin instead of chasing endless fiat gains.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>中央集権の見えない代償——そして分散化がもたらす、より深い約束(The Hidden Cost of Centralization — and the Deeper Promise of Decentralization - Japanese Version)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=1a009040d2ac6121d9f2c41f19df7848b7f0ad09d52631a9ba49293c0446bd1c</link>
-      <guid isPermaLink="false">1a009040d2ac6121d9f2c41f19df7848b7f0ad09d52631a9ba49293c0446bd1c</guid>
-      <pubDate>Sat, 15 Nov 2025 07:11:41 GMT</pubDate>
-      <description><![CDATA[多くの人は、テクノロジーがコストをゼロに近づけるものだと考えています。しかし、それは物語の半分にすぎません。中央集権型プラットフォームの「隠れた代償」は、金銭的なものだけでなく、コントロール（支配）にも及びます。本記事では、NostrやBitcoinのような分散型技術がこの構図をどう覆し、コストだけでなく「コントロール・コスト」も削減するのか、そしてその変化がなぜ重要なのかを掘り下げます。]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

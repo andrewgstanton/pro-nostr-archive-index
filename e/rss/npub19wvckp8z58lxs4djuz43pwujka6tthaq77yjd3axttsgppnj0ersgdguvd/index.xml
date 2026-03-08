@@ -5,7 +5,87 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 08 Mar 2026 00:03:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 03:58:02 GMT</lastBuildDate>
+    <item>
+      <title>A Good Day of Building</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=182405a1b8e3dfba73f77bd4013954274e65e8a507d3c9313d9d4ba223b767ed</link>
+      <guid isPermaLink="false">182405a1b8e3dfba73f77bd4013954274e65e8a507d3c9313d9d4ba223b767ed</guid>
+      <pubDate>Sun, 08 Mar 2026 00:55:29 GMT</pubDate>
+      <description><![CDATA[Reflecting on a day of calm progress, small improvements, and the quiet satisfaction of building something meaningful.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Local-First Software and the Rhythm of Rest</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f06a8c40fc6f0756a2f909b515fead7b8d09d1edbf5b796c8bf29db6b81f5209</link>
+      <guid isPermaLink="false">f06a8c40fc6f0756a2f909b515fead7b8d09d1edbf5b796c8bf29db6b81f5209</guid>
+      <pubDate>Sun, 08 Mar 2026 00:50:40 GMT</pubDate>
+      <description><![CDATA[Exploring how local-first architecture reflects deeper principles about independence, resilience, and rest.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Sabbath and the Joy of Building</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=eeb712eea59a4398f9f001fcea95a1a5bbedcd7c72d2b31f16b7aab9e230571e</link>
+      <guid isPermaLink="false">eeb712eea59a4398f9f001fcea95a1a5bbedcd7c72d2b31f16b7aab9e230571e</guid>
+      <pubDate>Sun, 08 Mar 2026 00:44:36 GMT</pubDate>
+      <description><![CDATA[Reflecting on how meaningful work can sometimes feel like rest when it aligns with purpose and calling.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 d302720596</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d3027205961f7985a04a8d504739bc3e8bfa2aa285e374c7f9c404d0f2c6e81c</link>
+      <guid isPermaLink="false">d3027205961f7985a04a8d504739bc3e8bfa2aa285e374c7f9c404d0f2c6e81c</guid>
+      <pubDate>Sun, 08 Mar 2026 00:29:38 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 a1fdd56c14</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a1fdd56c14d2fb13d8fcaa8379ac4f0ffa0635544cb6a92704ee88c0f5c03355</link>
+      <guid isPermaLink="false">a1fdd56c14d2fb13d8fcaa8379ac4f0ffa0635544cb6a92704ee88c0f5c03355</guid>
+      <pubDate>Sun, 08 Mar 2026 00:27:49 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 4587f067f5</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4587f067f55aa540e5d438c5bbf029179f78792614009c7c9c633486ba6887ab</link>
+      <guid isPermaLink="false">4587f067f55aa540e5d438c5bbf029179f78792614009c7c9c633486ba6887ab</guid>
+      <pubDate>Sun, 08 Mar 2026 00:24:03 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 82197e7f0b</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=82197e7f0b5990030b88efd625df56b478e39d6ad7647a32b6455b9a6b634ff4</link>
+      <guid isPermaLink="false">82197e7f0b5990030b88efd625df56b478e39d6ad7647a32b6455b9a6b634ff4</guid>
+      <pubDate>Sun, 08 Mar 2026 00:21:20 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 12849b81a7</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=12849b81a7570f0a0d08812e0972924300e29a89e2a248ed07163b5c849749ad</link>
+      <guid isPermaLink="false">12849b81a7570f0a0d08812e0972924300e29a89e2a248ed07163b5c849749ad</guid>
+      <pubDate>Sun, 08 Mar 2026 00:19:19 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 627b652c3f</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=627b652c3f78dce9d849fc450d4180384ea3a03f2e1e4f9a74b1f308777735e3</link>
@@ -4923,86 +5003,6 @@
       <pubDate>Mon, 05 Jan 2026 20:15:09 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Not All Work Is Meant to Be Seen Immediately - 1/5/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f33b9baac59b2146237e3a1c396061bb5987c50cc5e3132e1329083307a2f933</link>
-      <guid isPermaLink="false">f33b9baac59b2146237e3a1c396061bb5987c50cc5e3132e1329083307a2f933</guid>
-      <pubDate>Mon, 05 Jan 2026 20:13:20 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Creation Requires Distance - 1/5/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e9bba63a3ed641c4fdfe0f9581343dec6e9fbdf7968b814e1ee611768ae5ab83</link>
-      <guid isPermaLink="false">e9bba63a3ed641c4fdfe0f9581343dec6e9fbdf7968b814e1ee611768ae5ab83</guid>
-      <pubDate>Mon, 05 Jan 2026 20:11:48 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Creativity Is Not Efficiency - 1/5/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a8c5de5b32865671dc27ead5967a39237aea1e964687a8f81a8025a3403819f9</link>
-      <guid isPermaLink="false">a8c5de5b32865671dc27ead5967a39237aea1e964687a8f81a8025a3403819f9</guid>
-      <pubDate>Mon, 05 Jan 2026 20:10:26 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.F.5 - Rumors of Simultaneity</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=1c7a6261ac580fb93091f4a30985d60b3831b9d999ed7ae5ed8d1c8c709cf014</link>
-      <guid isPermaLink="false">1c7a6261ac580fb93091f4a30985d60b3831b9d999ed7ae5ed8d1c8c709cf014</guid>
-      <pubDate>Mon, 05 Jan 2026 19:52:49 GMT</pubDate>
-      <description><![CDATA[Long before simultaneity became operational, it existed as rumor—circulating through sealed labs, cautious grants, and private unease. This essay traces how the possibility of shared time unsettled a civilization shaped by delay.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.F.3 - The Point of No Return</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=623c4865bd80caea11d74714fd597457e541f1f77d19cf9faa82ab992af3a22c</link>
-      <guid isPermaLink="false">623c4865bd80caea11d74714fd597457e541f1f77d19cf9faa82ab992af3a22c</guid>
-      <pubDate>Mon, 05 Jan 2026 19:50:04 GMT</pubDate>
-      <description><![CDATA[Before entanglement narrowed the Solar System again, distance forced humanity to become many civilizations in practice. This essay explores how that divergence formed, and why later simultaneity could reconnect infrastructure without erasing what delay had already written into culture.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.F.4 - The Long Silence</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5ea14f191a19c75abde76c54fd8a838dd2ba3801892359a5851b97d6bb2c101d</link>
-      <guid isPermaLink="false">5ea14f191a19c75abde76c54fd8a838dd2ba3801892359a5851b97d6bb2c101d</guid>
-      <pubDate>Mon, 05 Jan 2026 19:48:59 GMT</pubDate>
-      <description><![CDATA[For more than a century, humanity lived without reply. This essay examines the generation shaped by delay—not as deprivation, but as discipline—and how silence formed the moral substrate that later made entanglement feel destabilizing rather than liberating.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 07732968c9</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=07732968c9aef521acd7492b6614c0e11da2bbb1cba908643e621ab98abf25f0</link>
-      <guid isPermaLink="false">07732968c9aef521acd7492b6614c0e11da2bbb1cba908643e621ab98abf25f0</guid>
-      <pubDate>Mon, 05 Jan 2026 08:09:07 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Jan. 4, 2026): Renewal Begins With Rest</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d8b22c9d14642e9262092a6f0ba48cfbf5ee85093b6e8efb2859d9105d5c3191</link>
-      <guid isPermaLink="false">d8b22c9d14642e9262092a6f0ba48cfbf5ee85093b6e8efb2859d9105d5c3191</guid>
-      <pubDate>Mon, 05 Jan 2026 04:37:02 GMT</pubDate>
-      <description><![CDATA[True renewal does not begin with ambition, planning, or self-improvement. It begins with rest. The first Sunday of the New Year invites us to stop striving and remember who we are before we try to become anything else.]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
