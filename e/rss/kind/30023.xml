@@ -5,7 +5,107 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 08 Mar 2026 21:38:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 06:13:45 GMT</lastBuildDate>
+    <item>
+      <title>The Quiet Signals That Keep Builders Going</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e711c9f6e5ca8d33642439c21b9190e87b50814b6139fb030d99bfe8ede44062</link>
+      <guid isPermaLink="false">e711c9f6e5ca8d33642439c21b9190e87b50814b6139fb030d99bfe8ede44062</guid>
+      <pubDate>Wed, 11 Mar 2026 06:02:00 GMT</pubDate>
+      <description><![CDATA[Summary: Most builders work in long stretches of silence, sustained by occasional signals from people who understand the work.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Rise of Sovereign Micro-Applications</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f94b36c38b2dbcac83f7bbfe4eee434b68a27f7316adb888fe305ba20efa7f62</link>
+      <guid isPermaLink="false">f94b36c38b2dbcac83f7bbfe4eee434b68a27f7316adb888fe305ba20efa7f62</guid>
+      <pubDate>Wed, 11 Mar 2026 05:58:02 GMT</pubDate>
+      <description><![CDATA[Modern tools make it possible to build small sovereign applications extremely quickly, enabling a new model for software development.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Reclaiming Digital Identity: Why I Published My OpenPGP Key</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=17a43001d112cd1977d16b72b768ba5abc2e17cbebf17c6559e133246c2b08c0</link>
+      <guid isPermaLink="false">17a43001d112cd1977d16b72b768ba5abc2e17cbebf17c6559e133246c2b08c0</guid>
+      <pubDate>Wed, 11 Mar 2026 05:54:15 GMT</pubDate>
+      <description><![CDATA[Publishing my OpenPGP key alongside my Nostr identity is part of a broader effort to restore verifiable identity on the internet.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Building a Local Publishing Scheduler</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=12e078accb418a5acf85eb709e9ce24977c8104447e3fe89c11cd27fa0911c7e</link>
+      <guid isPermaLink="false">12e078accb418a5acf85eb709e9ce24977c8104447e3fe89c11cd27fa0911c7e</guid>
+      <pubDate>Tue, 10 Mar 2026 16:43:32 GMT</pubDate>
+      <description><![CDATA[Implementing scheduled publishing in Continuum required coordinating identity management, database state, and relay publishing logic across several parts of the system.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Offline-First Scheduling for Nostr Publishing</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d1f416011d431343e8ea60698180534417178d928749ae149319c29724044df1</link>
+      <guid isPermaLink="false">d1f416011d431343e8ea60698180534417178d928749ae149319c29724044df1</guid>
+      <pubDate>Tue, 10 Mar 2026 16:43:11 GMT</pubDate>
+      <description><![CDATA[Continuum’s scheduler is designed to work reliably even when internet connectivity is intermittent, reinforcing the importance of offline-first design for local publishing tools.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Scheduled Publishing Without Key Custody</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=12eb483a3f559ca67dcb67203f9ba74602633d6825189b13df3ea9dfc2a57387</link>
+      <guid isPermaLink="false">12eb483a3f559ca67dcb67203f9ba74602633d6825189b13df3ea9dfc2a57387</guid>
+      <pubDate>Tue, 10 Mar 2026 16:42:44 GMT</pubDate>
+      <description><![CDATA[Continuum introduces scheduled publishing for Nostr events while preserving local control of signing keys, demonstrating a new model for sovereign publishing infrastructure.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Why Every Nostr Developer Should Run a Local Relay</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=8cb2f620588758b1c2fd41fb1f16924c3393a191149bd7d60bc3820c53bc2355</link>
+      <guid isPermaLink="false">8cb2f620588758b1c2fd41fb1f16924c3393a191149bd7d60bc3820c53bc2355</guid>
+      <pubDate>Mon, 09 Mar 2026 05:31:02 GMT</pubDate>
+      <description><![CDATA[Running a Nostr relay locally is one of the most useful things a developer can do. Even if it never becomes a public relay, it dramatically improves debugging, reliability, and understanding of how Nostr actually works.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Running a Local Nostr Relay in Docker</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a574993b520ef53c343ee83dfde02f79d016971884e73110fc19fc33fe952800</link>
+      <guid isPermaLink="false">a574993b520ef53c343ee83dfde02f79d016971884e73110fc19fc33fe952800</guid>
+      <pubDate>Mon, 09 Mar 2026 05:30:39 GMT</pubDate>
+      <description><![CDATA[Today I successfully ran a Nostr relay locally in Docker with pubkey whitelisting enabled. The relay currently runs only on my machine, which makes it ideal for debugging and development while also laying the groundwork for a future always-on relay.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Improving the Relay Publish Logic</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a42579dae2aa9f97f1202e4347f8f0f3f78d708349f2e6420bd7c79c52aa657e</link>
+      <guid isPermaLink="false">a42579dae2aa9f97f1202e4347f8f0f3f78d708349f2e6420bd7c79c52aa657e</guid>
+      <pubDate>Mon, 09 Mar 2026 05:30:04 GMT</pubDate>
+      <description><![CDATA[Publishing events across multiple relays requires careful handling of success and failure conditions. Today I improved the relay manager logic in Continuum to more accurately evaluate publishing results.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Local-First Infrastructure for Nostr Applications</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=54bb1d7b8a742f9e1052022f86f8de7038ff38ebd8ce549ae37a171cd050b357</link>
+      <guid isPermaLink="false">54bb1d7b8a742f9e1052022f86f8de7038ff38ebd8ce549ae37a171cd050b357</guid>
+      <pubDate>Mon, 09 Mar 2026 04:43:14 GMT</pubDate>
+      <description><![CDATA[Running services locally — including relays — can simplify development and improve reliability. Today’s work on a local relay and improved publish logic reinforces the value of local-first architecture.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>A Good Day of Building</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=182405a1b8e3dfba73f77bd4013954274e65e8a507d3c9313d9d4ba223b767ed</link>
@@ -4902,106 +5002,6 @@
       <guid isPermaLink="false">ae49c4554d14d0f7d3066f4687e1f9d071480cd1f78f451795dc328cc72a2213</guid>
       <pubDate>Tue, 18 Nov 2025 04:34:24 GMT</pubDate>
       <description><![CDATA[Patronage isn’t just about “supporting a creator.” It buys time, resilience, and infrastructure so that real, sovereign tools can exist outside the VC treadmill. This is what your support actually does in my world.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 17, 2025): Three Hundred Stones in the Wall</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=86690139b8d48d61f3bfbcb4f8063a7366ed56a68994e29eaeadd7441fb075a6</link>
-      <guid isPermaLink="false">86690139b8d48d61f3bfbcb4f8063a7366ed56a68994e29eaeadd7441fb075a6</guid>
-      <pubDate>Tue, 18 Nov 2025 04:03:14 GMT</pubDate>
-      <description><![CDATA[Hitting 300 published essays isn’t an arrival point; it’s the moment you realize you’ve just finished pouring the foundation. This is a reflection on what has actually changed—and what hasn’t—after writing almost every day through one of the hardest years of my life.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Crossing 300: A Reflection on Continuity, Sovereignty, and Becoming</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=444174c48d522c7b946d2acc6f393d020687d50778c424968471828585cbc848</link>
-      <guid isPermaLink="false">444174c48d522c7b946d2acc6f393d020687d50778c424968471828585cbc848</guid>
-      <pubDate>Mon, 17 Nov 2025 05:17:46 GMT</pubDate>
-      <description><![CDATA[On November 16, after finishing the weekend set, I quietly crossed 300 published articles. This reflection explores what those first 300 meant — how they were written through fragility, how Continuum and the archive grew alongside me, and why this milestone marks the true beginning of a sovereign body of work.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sabbath Article (Nov. 15, 2025): The Day Continuum Became Permanent</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ed3f7d7bd3445f502150068a29c48fb3c18f98c643ad2d402a08151e44608348</link>
-      <guid isPermaLink="false">ed3f7d7bd3445f502150068a29c48fb3c18f98c643ad2d402a08151e44608348</guid>
-      <pubDate>Mon, 17 Nov 2025 04:44:26 GMT</pubDate>
-      <description><![CDATA[A deep, long-form reflection on the moment Continuum’s archive truly came alive — transforming the platform from a tool into a sovereign memory system. Saturday’s breakthrough becomes a lens for examining permanence, responsibility, and the emotional meaning of building something designed to outlast platforms and relays.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 15, 2025): When Sovereign Tools Suddenly Make Sense</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6dcccf0b4620bce5f2344f1861a7a21a8d65b41456f3daeda1fae56f20e71c6f</link>
-      <guid isPermaLink="false">6dcccf0b4620bce5f2344f1861a7a21a8d65b41456f3daeda1fae56f20e71c6f</guid>
-      <pubDate>Mon, 17 Nov 2025 04:41:46 GMT</pubDate>
-      <description><![CDATA[Sovereign systems always feel difficult, scattered, and uphill — until one breakthrough suddenly makes everything click. Today was that day for Continuum: the moment the archive started working and the friction finally aligned into clarity.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 15, 2025): The Day the Archive Came Alive</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e9abfbe9707eecc250fcf9497ecec02b47800862c49a71d64c1c0dd473414f99</link>
-      <guid isPermaLink="false">e9abfbe9707eecc250fcf9497ecec02b47800862c49a71d64c1c0dd473414f99</guid>
-      <pubDate>Mon, 17 Nov 2025 04:37:19 GMT</pubDate>
-      <description><![CDATA[After a night of discouragement and a failed rebroadcast attempt, Saturday brought the breakthrough: Continuum’s archive structure finally worked. Not perfectly, not fully polished — but real, sovereign, permanent.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sunday Article (Nov. 16, 2025): After Permanence: How Systems Change Their Makers</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=59fa73b68f74aec6aa668d320f4498c02845e0e59a1b33953f4c9af0fe2bc3b1</link>
-      <guid isPermaLink="false">59fa73b68f74aec6aa668d320f4498c02845e0e59a1b33953f4c9af0fe2bc3b1</guid>
-      <pubDate>Mon, 17 Nov 2025 04:29:11 GMT</pubDate>
-      <description><![CDATA[The moment a system becomes permanent, the creator changes too. This article reflects on what happens to a builder once the architecture finally holds — how permanence reshapes identity, decisions, and the future itself.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 14, 2025): When Every System Feels Like Friction</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a91c2acc7a6933cbebc669c23a070219105a885a37b5d71a3e9f1adf876854bb</link>
-      <guid isPermaLink="false">a91c2acc7a6933cbebc669c23a070219105a885a37b5d71a3e9f1adf876854bb</guid>
-      <pubDate>Mon, 17 Nov 2025 03:39:00 GMT</pubDate>
-      <description><![CDATA[On a day when nothing seemed to work — from vanished Nostr events to dead-end posts on Nextdoor — I found myself confronting the truth about walled gardens and why sovereign tools feel so hard in the beginning]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 14, 2025): When Your Oldest Words Start Disappearing</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b28700d16c561f574c16200d3ce7dea142844be5af26e754c3cff8b70a5de0b7</link>
-      <guid isPermaLink="false">b28700d16c561f574c16200d3ce7dea142844be5af26e754c3cff8b70a5de0b7</guid>
-      <pubDate>Mon, 17 Nov 2025 03:30:43 GMT</pubDate>
-      <description><![CDATA[he quiet panic of discovering that my earliest Nostr events — only months old — had vanished from every relay except Primal’s backup. A reflection on fragility, fatigue, and why Friday set the stage for Saturday’s breakthrough.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>CW3 (Christians in Web3) Through Four Ethical Lenses — A Vision for Alignment</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f05be55b0ae6a57de2de45f876c355ab0b89dbde4f9bdb436be0057bf2f1e1c3</link>
-      <guid isPermaLink="false">f05be55b0ae6a57de2de45f876c355ab0b89dbde4f9bdb436be0057bf2f1e1c3</guid>
-      <pubDate>Sun, 16 Nov 2025 17:30:35 GMT</pubDate>
-      <description><![CDATA[This article evaluates Christians in Web3 (CW3) through four ethical frameworks — utilitarian, rights-based, justice/fairness, and virtue ethics. It contrasts how CW3 currently operates with how it could function if transparency, stewardship, and Kingdom values were prioritized. The vision is constructive: guardrails that reduce harm, uphold rights, ensure fairness, and elevate honesty over hype. Such alignment would make participation more trustworthy and genuinely Kingdom-focused.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Sept. 7, 2025): Why Hope Rises With the Dawn</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=92d64333be438d7c490e444b51b22feeb8a2f82ca579281810cf027f319338f8</link>
-      <guid isPermaLink="false">92d64333be438d7c490e444b51b22feeb8a2f82ca579281810cf027f319338f8</guid>
-      <pubDate>Sun, 16 Nov 2025 00:57:38 GMT</pubDate>
-      <description><![CDATA[A hopeful meditation on dawn as a symbol of renewal. Connects Bitcoin and sovereignty to the daily rhythm of light overcoming darkness, reminding readers that hope is always possible.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

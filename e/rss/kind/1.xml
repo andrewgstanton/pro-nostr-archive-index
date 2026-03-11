@@ -5,7 +5,177 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 08 Mar 2026 21:38:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 06:13:45 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 3dd26e46f6</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3dd26e46f6ccc9bc6e28cf64f4d539340abf10e79509114925aca920bcf9530f</link>
+      <guid isPermaLink="false">3dd26e46f6ccc9bc6e28cf64f4d539340abf10e79509114925aca920bcf9530f</guid>
+      <pubDate>Wed, 11 Mar 2026 05:27:32 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 cb3837f49a</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=cb3837f49ab4f57c3a591d1cecaa02ccf31147c9b0505e452df888b7fa525d84</link>
+      <guid isPermaLink="false">cb3837f49ab4f57c3a591d1cecaa02ccf31147c9b0505e452df888b7fa525d84</guid>
+      <pubDate>Wed, 11 Mar 2026 05:26:39 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 3e37b3dc06</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3e37b3dc06fc616ca824ab1ea14be547e0ce0ea48b36131fef8bb20f8b4103c3</link>
+      <guid isPermaLink="false">3e37b3dc06fc616ca824ab1ea14be547e0ce0ea48b36131fef8bb20f8b4103c3</guid>
+      <pubDate>Wed, 11 Mar 2026 05:25:45 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 b15846d41a</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b15846d41a7cf6a78dd90ae9976a7d56d03a71da51ed3c08ef82c622e97eb0d5</link>
+      <guid isPermaLink="false">b15846d41a7cf6a78dd90ae9976a7d56d03a71da51ed3c08ef82c622e97eb0d5</guid>
+      <pubDate>Wed, 11 Mar 2026 05:22:41 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 ae12f1763e</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ae12f1763e075a45e7ce4ef6348a00a61909b9e983111fef4601adb6549c4d73</link>
+      <guid isPermaLink="false">ae12f1763e075a45e7ce4ef6348a00a61909b9e983111fef4601adb6549c4d73</guid>
+      <pubDate>Wed, 11 Mar 2026 05:19:02 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 ed06f13573</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ed06f13573fa0a6cd35ba6abbefb2034349da051fbfa218ea8c95f719461d8e8</link>
+      <guid isPermaLink="false">ed06f13573fa0a6cd35ba6abbefb2034349da051fbfa218ea8c95f719461d8e8</guid>
+      <pubDate>Wed, 11 Mar 2026 05:18:24 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 d0256370b0</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d0256370b0dbcb4edcfd0f56e86fcf1af816588f772c3b91c98e5efb3eecd301</link>
+      <guid isPermaLink="false">d0256370b0dbcb4edcfd0f56e86fcf1af816588f772c3b91c98e5efb3eecd301</guid>
+      <pubDate>Wed, 11 Mar 2026 01:32:12 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 677eecbdd8</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=677eecbdd83d2c359213d42b68f77a33cd28cda9acf41e28009b0accc0e1fba3</link>
+      <guid isPermaLink="false">677eecbdd83d2c359213d42b68f77a33cd28cda9acf41e28009b0accc0e1fba3</guid>
+      <pubDate>Tue, 10 Mar 2026 01:45:06 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 faf123e504</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=faf123e504bbf948b46162f220c9c3ceab2c3a4c5b0fb6fd4aadb305f006e12b</link>
+      <guid isPermaLink="false">faf123e504bbf948b46162f220c9c3ceab2c3a4c5b0fb6fd4aadb305f006e12b</guid>
+      <pubDate>Tue, 10 Mar 2026 01:42:53 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 3c386129cd</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3c386129cde1ee3ce3a574b8263999c84861bf1f150af2ec9bfc5ad6a38ba516</link>
+      <guid isPermaLink="false">3c386129cde1ee3ce3a574b8263999c84861bf1f150af2ec9bfc5ad6a38ba516</guid>
+      <pubDate>Tue, 10 Mar 2026 01:40:59 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 967374ee97</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=967374ee9736ae18307f3a9e79b93258df569bd8209d08901520e355d5b054e8</link>
+      <guid isPermaLink="false">967374ee9736ae18307f3a9e79b93258df569bd8209d08901520e355d5b054e8</guid>
+      <pubDate>Tue, 10 Mar 2026 01:39:10 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 d1eccddba6</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d1eccddba608f316d5bd6ea6706d6a902ae28acba1104fdeb2b3c46f9331c7de</link>
+      <guid isPermaLink="false">d1eccddba608f316d5bd6ea6706d6a902ae28acba1104fdeb2b3c46f9331c7de</guid>
+      <pubDate>Tue, 10 Mar 2026 01:33:50 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 28cf669762</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=28cf66976289b666c9250054a76314fc307c4a63daeb3ca45fc8f899786c9842</link>
+      <guid isPermaLink="false">28cf66976289b666c9250054a76314fc307c4a63daeb3ca45fc8f899786c9842</guid>
+      <pubDate>Mon, 09 Mar 2026 04:51:31 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 6baf950e1f</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6baf950e1ffa58799bcfb1332ee304d694396262fc877e5bb4c5c083b2ec2135</link>
+      <guid isPermaLink="false">6baf950e1ffa58799bcfb1332ee304d694396262fc877e5bb4c5c083b2ec2135</guid>
+      <pubDate>Mon, 09 Mar 2026 04:49:41 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 b724c47710</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b724c47710fcb3573c575eaaf7b21e2ddcffa33f59a64bc3d54f40223eddc078</link>
+      <guid isPermaLink="false">b724c47710fcb3573c575eaaf7b21e2ddcffa33f59a64bc3d54f40223eddc078</guid>
+      <pubDate>Mon, 09 Mar 2026 04:48:46 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 46b8e7e1cd</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=46b8e7e1cd0c0a7b79d850512f2bd8c4e5670b51a5a77301e3d0616cabfd8b13</link>
+      <guid isPermaLink="false">46b8e7e1cd0c0a7b79d850512f2bd8c4e5670b51a5a77301e3d0616cabfd8b13</guid>
+      <pubDate>Mon, 09 Mar 2026 04:47:36 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 7c690d276e</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7c690d276ed5574256ae675953e88d98e509981d1b948c0f26f48657e2ab9ec2</link>
+      <guid isPermaLink="false">7c690d276ed5574256ae675953e88d98e509981d1b948c0f26f48657e2ab9ec2</guid>
+      <pubDate>Mon, 09 Mar 2026 04:46:36 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 d890abe2b5</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=d890abe2b5137e6d4997ed2df4ed414a0b107247381b2995dbe989bb7d7e20de</link>
@@ -4834,176 +5004,6 @@
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Built Continuum because I needed it — now I want to keep it independent.</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a9630bb81d86c1072909a390c12ef822c17c4846f392471bd523b1db05d8d15d</link>
-      <guid isPermaLink="false">a9630bb81d86c1072909a390c12ef822c17c4846f392471bd523b1db05d8d15d</guid>
-      <pubDate>Sat, 12 Jul 2025 19:42:44 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>test</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5a72f886ba79c9f301b9d91e74ba281f05c60117d907f15348b97b7dd2240953</link>
-      <guid isPermaLink="false">5a72f886ba79c9f301b9d91e74ba281f05c60117d907f15348b97b7dd2240953</guid>
-      <pubDate>Fri, 11 Jul 2025 02:06:13 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>NEW Short!!</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=1603cae2889d32527883c1d03deb330ea06c1fe84d7aaeb1b35ab5d09de23c3d</link>
-      <guid isPermaLink="false">1603cae2889d32527883c1d03deb330ea06c1fe84d7aaeb1b35ab5d09de23c3d</guid>
-      <pubDate>Wed, 09 Jul 2025 04:22:05 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Just published Continuum’s pricing + roadmap breakdown.</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=da2581884d9795824f06558a824b5fd737553cc7cc7d7ad807f6644b8ccf9497</link>
-      <guid isPermaLink="false">da2581884d9795824f06558a824b5fd737553cc7cc7d7ad807f6644b8ccf9497</guid>
-      <pubDate>Wed, 09 Jul 2025 04:12:51 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>published continuum's pricing + roadmap breakdown</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=816fec5dfc729f5fab3a3814693873e6f4abbe9792ee750d87efd63eb71ed31a</link>
-      <guid isPermaLink="false">816fec5dfc729f5fab3a3814693873e6f4abbe9792ee750d87efd63eb71ed31a</guid>
-      <pubDate>Wed, 09 Jul 2025 04:07:49 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 5c94a14891</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5c94a148910dd55c3ca8b8d1831b48509381ff6761a53ca8a4b0b02166a0156a</link>
-      <guid isPermaLink="false">5c94a148910dd55c3ca8b8d1831b48509381ff6761a53ca8a4b0b02166a0156a</guid>
-      <pubDate>Wed, 09 Jul 2025 00:22:10 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub1nxq3v0mr2656ykdw550uq6s0hjpjuufkdhx2ysk0789kjq5xu7ns8aunx4</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>test w no short url</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e3f5ef673d4f68e51a09d5bdf0b43f3ca709efc3a229621986777b2dd415f22d</link>
-      <guid isPermaLink="false">e3f5ef673d4f68e51a09d5bdf0b43f3ca709efc3a229621986777b2dd415f22d</guid>
-      <pubDate>Tue, 08 Jul 2025 03:33:38 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>test</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=598e5ff275acd36434730e943fbdad4c114eb45f458e0c35c4165964b99f441f</link>
-      <guid isPermaLink="false">598e5ff275acd36434730e943fbdad4c114eb45f458e0c35c4165964b99f441f</guid>
-      <pubDate>Tue, 08 Jul 2025 03:29:04 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 1511d01b4c</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=1511d01b4ce919749e86b889fbf8d8f6029430a21ccb885d2d9845baf87b9b51</link>
-      <guid isPermaLink="false">1511d01b4ce919749e86b889fbf8d8f6029430a21ccb885d2d9845baf87b9b51</guid>
-      <pubDate>Sun, 06 Jul 2025 22:21:08 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Posting on continuum</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c776f02240724f531ba0d8d7ea2bb44302174ee909cde27b8cc3292929702f2a</link>
-      <guid isPermaLink="false">c776f02240724f531ba0d8d7ea2bb44302174ee909cde27b8cc3292929702f2a</guid>
-      <pubDate>Sat, 05 Jul 2025 19:40:34 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>test w/ multipub (a different npub</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=1ee49b636b0e968bd51670f64edc85cc4611213b5ae5a9e49984ebc9e5ec69b9</link>
-      <guid isPermaLink="false">1ee49b636b0e968bd51670f64edc85cc4611213b5ae5a9e49984ebc9e5ec69b9</guid>
-      <pubDate>Sat, 05 Jul 2025 05:26:51 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>test</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6caf8d54a00720f541b9acb280960fbdd8ec9a6db3cd1a49228cc01d65a1b51f</link>
-      <guid isPermaLink="false">6caf8d54a00720f541b9acb280960fbdd8ec9a6db3cd1a49228cc01d65a1b51f</guid>
-      <pubDate>Sat, 05 Jul 2025 05:22:00 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>test</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=8c752d17d66b303ee0579ded8bc0dcea97401b3ac8e0a56e1341b3439de8b8e5</link>
-      <guid isPermaLink="false">8c752d17d66b303ee0579ded8bc0dcea97401b3ac8e0a56e1341b3439de8b8e5</guid>
-      <pubDate>Sat, 05 Jul 2025 05:20:53 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>July 4,  2025  -  A Declaration of Digital Independence</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=79fed267ab048ed5b8ae7a473b4a474eac922b59e48b77d2627cef6a2822b338</link>
-      <guid isPermaLink="false">79fed267ab048ed5b8ae7a473b4a474eac922b59e48b77d2627cef6a2822b338</guid>
-      <pubDate>Fri, 04 Jul 2025 16:41:05 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>test</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=1f2a2c801bb9ed278ca3806499c46af55f2dcc65e1be852a966f8fb29bec4068</link>
-      <guid isPermaLink="false">1f2a2c801bb9ed278ca3806499c46af55f2dcc65e1be852a966f8fb29bec4068</guid>
-      <pubDate>Wed, 02 Jul 2025 21:14:38 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🚀 Continuum v1.0.0 is live</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=56e713d5aa0108ef808992aa7ec270482528368d4084d22706f7231f01ef632d</link>
-      <guid isPermaLink="false">56e713d5aa0108ef808992aa7ec270482528368d4084d22706f7231f01ef632d</guid>
-      <pubDate>Wed, 02 Jul 2025 00:37:17 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 e5357aafb3</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e5357aafb3bcac614f50f7d712d1abee2fdb7748a553b65ac7ec6b8cbcafc67c</link>
-      <guid isPermaLink="false">e5357aafb3bcac614f50f7d712d1abee2fdb7748a553b65ac7ec6b8cbcafc67c</guid>
-      <pubDate>Sat, 21 Jun 2025 20:29:08 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
   </channel>
