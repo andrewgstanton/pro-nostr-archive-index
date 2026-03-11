@@ -3090,7 +3090,15 @@
     "latest_year": 2026
   },
   "the-quiet-signals-that-keep-builders-going": {
-    "latest_event_id": "e711c9f6e5ca8d33642439c21b9190e87b50814b6139fb030d99bfe8ede44062",
+    "latest_event_id": "e4a31dbdfe0a63bc78b00cd6e53fe7dc78a678454b1d86818deecfaaac1093bf",
+    "latest_year": 2026
+  },
+  "who-continuum-is-for": {
+    "latest_event_id": "a353bcb5dce0ee671f60f4218dd3df55df61187d5b255fc5f5049470eb6874cf",
+    "latest_year": 2026
+  },
+  "local-files-vs-local-first-why-continuum-exists": {
+    "latest_event_id": "74c96cc64e4f399dbf08bef3696e9b696060c90a54ff01954ad9a2a703954cc9",
     "latest_year": 2026
   }
 }
