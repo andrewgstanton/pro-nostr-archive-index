@@ -3090,15 +3090,24 @@
     "latest_year": 2026
   },
   "the-quiet-signals-that-keep-builders-going": {
-    "latest_event_id": "e4a31dbdfe0a63bc78b00cd6e53fe7dc78a678454b1d86818deecfaaac1093bf",
+    "latest_event_id": "9a05cc11ece1c7158332cf56f7844f980ef81f352df83c211ad51edc3ebe2f15",
     "latest_year": 2026
   },
   "who-continuum-is-for": {
-    "latest_event_id": "a353bcb5dce0ee671f60f4218dd3df55df61187d5b255fc5f5049470eb6874cf",
+    "latest_event_id": "30d20c7f8f6c4664cc9b24422040db1c0eaa28b23803bbb4f6944b3de05c7bce",
     "latest_year": 2026
   },
   "local-files-vs-local-first-why-continuum-exists": {
-    "latest_event_id": "74c96cc64e4f399dbf08bef3696e9b696060c90a54ff01954ad9a2a703954cc9",
+    "latest_event_id": "303be15d9616be8276e6d00694037637922484e5f2b1b3c466b4cfcb3002d314",
     "latest_year": 2026
+  },
+  "why-a-local-relay-changes-the-game-for-nostr-builders": {
+    "latest_event_id": "ffb5c545e4bf0e20be174f0f3b3aaaad9aeabb64c15e629e4bec0503e750e23b",
+    "latest_year": 2026
+  },
+  "builders-log--march-11-2026": {
+    "latest_event_id": "85c2ef8d6caba3571b88b0e873dc3ab3d4cdc1c54b85a8fd4c9fec7fa3f21c07",
+    "latest_year": 2026,
+    "published": false
   }
 }
