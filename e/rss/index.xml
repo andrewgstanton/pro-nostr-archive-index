@@ -5,12 +5,32 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 11 Mar 2026 06:13:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 00:04:19 GMT</lastBuildDate>
+    <item>
+      <title>Local Files vs Local-First: Why Continuum Exists</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=74c96cc64e4f399dbf08bef3696e9b696060c90a54ff01954ad9a2a703954cc9</link>
+      <guid isPermaLink="false">74c96cc64e4f399dbf08bef3696e9b696060c90a54ff01954ad9a2a703954cc9</guid>
+      <pubDate>Wed, 11 Mar 2026 23:39:52 GMT</pubDate>
+      <description><![CDATA[At first glance, Continuum may appear unnecessary to people who already write documents locally on their computers. After all, anyone can open Word, Markdown, or a text editor and save files in a folder. But Continuum is not merely a place to store documents. It is a local-first authorship and publishing system built around identity, verifiable authorship, durable archives, and intentional distribution. This article explains why the difference matters.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Who Continuum Is For</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a353bcb5dce0ee671f60f4218dd3df55df61187d5b255fc5f5049470eb6874cf</link>
+      <guid isPermaLink="false">a353bcb5dce0ee671f60f4218dd3df55df61187d5b255fc5f5049470eb6874cf</guid>
+      <pubDate>Wed, 11 Mar 2026 23:06:30 GMT</pubDate>
+      <description><![CDATA[Continuum is for people and organizations who need durable authorship, self-custodied identity, and a local-first publishing workflow. It is especially well suited for writers, journalists, researchers, human rights activists, ministries, and developers who want to create, preserve, and publish work without depending entirely on centralized platforms.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>The Quiet Signals That Keep Builders Going</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e711c9f6e5ca8d33642439c21b9190e87b50814b6139fb030d99bfe8ede44062</link>
-      <guid isPermaLink="false">e711c9f6e5ca8d33642439c21b9190e87b50814b6139fb030d99bfe8ede44062</guid>
-      <pubDate>Wed, 11 Mar 2026 06:02:00 GMT</pubDate>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e4a31dbdfe0a63bc78b00cd6e53fe7dc78a678454b1d86818deecfaaac1093bf</link>
+      <guid isPermaLink="false">e4a31dbdfe0a63bc78b00cd6e53fe7dc78a678454b1d86818deecfaaac1093bf</guid>
+      <pubDate>Wed, 11 Mar 2026 23:06:06 GMT</pubDate>
       <description><![CDATA[Summary: Most builders work in long stretches of silence, sustained by occasional signals from people who understand the work.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
@@ -4981,26 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=0c218c1874ba5dbe55e7212dfa78119a12165a2e46a4239d62f3d74b317d5a30</link>
       <guid isPermaLink="false">0c218c1874ba5dbe55e7212dfa78119a12165a2e46a4239d62f3d74b317d5a30</guid>
       <pubDate>Mon, 12 Jan 2026 05:21:26 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 1 — Durability - 1/11/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=95b34a888f532bc4ff3d4827a9da1904313861c6039b8f6cff7dc35e3a085817</link>
-      <guid isPermaLink="false">95b34a888f532bc4ff3d4827a9da1904313861c6039b8f6cff7dc35e3a085817</guid>
-      <pubDate>Mon, 12 Jan 2026 05:19:39 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 3530192b68</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3530192b6852974fc11dae3d674f1fb7ca7f0d1823945294529590ee3d796736</link>
-      <guid isPermaLink="false">3530192b6852974fc11dae3d674f1fb7ca7f0d1823945294529590ee3d796736</guid>
-      <pubDate>Sat, 10 Jan 2026 19:16:39 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>

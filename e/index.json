@@ -1,5 +1,38 @@
 [
   {
+    "slug": "local-files-vs-local-first-why-continuum-exists",
+    "event_id": "74c96cc64e4f399dbf08bef3696e9b696060c90a54ff01954ad9a2a703954cc9",
+    "created_at": 1773272392,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/74c96cc64e4f399dbf08bef3696e9b696060c90a54ff01954ad9a2a703954cc9.json",
+    "title": "Local Files vs Local-First: Why Continuum Exists",
+    "summary": "At first glance, Continuum may appear unnecessary to people who already write documents locally on their computers. After all, anyone can open Word, Markdown, or a text editor and save files in a folder. But Continuum is not merely a place to store documents. It is a local-first authorship and publishing system built around identity, verifiable authorship, durable archives, and intentional distribution. This article explains why the difference matters.",
+    "paid": false
+  },
+  {
+    "slug": "who-continuum-is-for",
+    "event_id": "a353bcb5dce0ee671f60f4218dd3df55df61187d5b255fc5f5049470eb6874cf",
+    "created_at": 1773270390,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/a353bcb5dce0ee671f60f4218dd3df55df61187d5b255fc5f5049470eb6874cf.json",
+    "title": "Who Continuum Is For",
+    "summary": "Continuum is for people and organizations who need durable authorship, self-custodied identity, and a local-first publishing workflow. It is especially well suited for writers, journalists, researchers, human rights activists, ministries, and developers who want to create, preserve, and publish work without depending entirely on centralized platforms.",
+    "paid": false
+  },
+  {
+    "slug": "the-quiet-signals-that-keep-builders-going",
+    "event_id": "e4a31dbdfe0a63bc78b00cd6e53fe7dc78a678454b1d86818deecfaaac1093bf",
+    "created_at": 1773270366,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/e4a31dbdfe0a63bc78b00cd6e53fe7dc78a678454b1d86818deecfaaac1093bf.json",
+    "title": "The Quiet Signals That Keep Builders Going",
+    "summary": "Summary: Most builders work in long stretches of silence, sustained by occasional signals from people who understand the work.",
+    "paid": false
+  },
+  {
     "slug": "the-quiet-signals-that-keep-builders-going",
     "event_id": "e711c9f6e5ca8d33642439c21b9190e87b50814b6139fb030d99bfe8ede44062",
     "created_at": 1773208920,

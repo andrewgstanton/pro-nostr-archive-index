@@ -5,12 +5,32 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 11 Mar 2026 06:13:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 00:04:20 GMT</lastBuildDate>
+    <item>
+      <title>Local Files vs Local-First: Why Continuum Exists</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=74c96cc64e4f399dbf08bef3696e9b696060c90a54ff01954ad9a2a703954cc9</link>
+      <guid isPermaLink="false">74c96cc64e4f399dbf08bef3696e9b696060c90a54ff01954ad9a2a703954cc9</guid>
+      <pubDate>Wed, 11 Mar 2026 23:39:52 GMT</pubDate>
+      <description><![CDATA[At first glance, Continuum may appear unnecessary to people who already write documents locally on their computers. After all, anyone can open Word, Markdown, or a text editor and save files in a folder. But Continuum is not merely a place to store documents. It is a local-first authorship and publishing system built around identity, verifiable authorship, durable archives, and intentional distribution. This article explains why the difference matters.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Who Continuum Is For</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a353bcb5dce0ee671f60f4218dd3df55df61187d5b255fc5f5049470eb6874cf</link>
+      <guid isPermaLink="false">a353bcb5dce0ee671f60f4218dd3df55df61187d5b255fc5f5049470eb6874cf</guid>
+      <pubDate>Wed, 11 Mar 2026 23:06:30 GMT</pubDate>
+      <description><![CDATA[Continuum is for people and organizations who need durable authorship, self-custodied identity, and a local-first publishing workflow. It is especially well suited for writers, journalists, researchers, human rights activists, ministries, and developers who want to create, preserve, and publish work without depending entirely on centralized platforms.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>The Quiet Signals That Keep Builders Going</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e711c9f6e5ca8d33642439c21b9190e87b50814b6139fb030d99bfe8ede44062</link>
-      <guid isPermaLink="false">e711c9f6e5ca8d33642439c21b9190e87b50814b6139fb030d99bfe8ede44062</guid>
-      <pubDate>Wed, 11 Mar 2026 06:02:00 GMT</pubDate>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e4a31dbdfe0a63bc78b00cd6e53fe7dc78a678454b1d86818deecfaaac1093bf</link>
+      <guid isPermaLink="false">e4a31dbdfe0a63bc78b00cd6e53fe7dc78a678454b1d86818deecfaaac1093bf</guid>
+      <pubDate>Wed, 11 Mar 2026 23:06:06 GMT</pubDate>
       <description><![CDATA[Summary: Most builders work in long stretches of silence, sustained by occasional signals from people who understand the work.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
@@ -4982,26 +5002,6 @@
       <guid isPermaLink="false">b5fd1c034b1e3ea9cc18e244a5915bd12df671821a01de68928045ec95de127f</guid>
       <pubDate>Tue, 18 Nov 2025 17:42:51 GMT</pubDate>
       <description><![CDATA[A satirical but honest look at how modern platforms control the pace of our lives — from Rover’s 20% skim to Amazon’s non-clickable links — and why true sovereignty feels like trying to walk three dogs that refuse to agree on a speed.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 18, 2025): The Luxury of Exhaustion — And Why We Keep Building Anyway</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5eb8f89529869294737428be4c9cb75ad7b8ab2112d3477733cabe0036595b4f</link>
-      <guid isPermaLink="false">5eb8f89529869294737428be4c9cb75ad7b8ab2112d3477733cabe0036595b4f</guid>
-      <pubDate>Tue, 18 Nov 2025 17:40:39 GMT</pubDate>
-      <description><![CDATA[A reflection on physical exhaustion, quiet responsibilities, and the strange form of resilience required to build something sovereign in a world of platforms that want to drain every ounce of energy you have.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 17, 2025): What Patronage Really Buys</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ae49c4554d14d0f7d3066f4687e1f9d071480cd1f78f451795dc328cc72a2213</link>
-      <guid isPermaLink="false">ae49c4554d14d0f7d3066f4687e1f9d071480cd1f78f451795dc328cc72a2213</guid>
-      <pubDate>Tue, 18 Nov 2025 04:34:24 GMT</pubDate>
-      <description><![CDATA[Patronage isn’t just about “supporting a creator.” It buys time, resilience, and infrastructure so that real, sovereign tools can exist outside the VC treadmill. This is what your support actually does in my world.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

@@ -5,12 +5,32 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 11 Mar 2026 06:13:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 00:04:20 GMT</lastBuildDate>
+    <item>
+      <title>Local Files vs Local-First: Why Continuum Exists</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=74c96cc64e4f399dbf08bef3696e9b696060c90a54ff01954ad9a2a703954cc9</link>
+      <guid isPermaLink="false">74c96cc64e4f399dbf08bef3696e9b696060c90a54ff01954ad9a2a703954cc9</guid>
+      <pubDate>Wed, 11 Mar 2026 23:39:52 GMT</pubDate>
+      <description><![CDATA[At first glance, Continuum may appear unnecessary to people who already write documents locally on their computers. After all, anyone can open Word, Markdown, or a text editor and save files in a folder. But Continuum is not merely a place to store documents. It is a local-first authorship and publishing system built around identity, verifiable authorship, durable archives, and intentional distribution. This article explains why the difference matters.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Who Continuum Is For</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a353bcb5dce0ee671f60f4218dd3df55df61187d5b255fc5f5049470eb6874cf</link>
+      <guid isPermaLink="false">a353bcb5dce0ee671f60f4218dd3df55df61187d5b255fc5f5049470eb6874cf</guid>
+      <pubDate>Wed, 11 Mar 2026 23:06:30 GMT</pubDate>
+      <description><![CDATA[Continuum is for people and organizations who need durable authorship, self-custodied identity, and a local-first publishing workflow. It is especially well suited for writers, journalists, researchers, human rights activists, ministries, and developers who want to create, preserve, and publish work without depending entirely on centralized platforms.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>The Quiet Signals That Keep Builders Going</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e711c9f6e5ca8d33642439c21b9190e87b50814b6139fb030d99bfe8ede44062</link>
-      <guid isPermaLink="false">e711c9f6e5ca8d33642439c21b9190e87b50814b6139fb030d99bfe8ede44062</guid>
-      <pubDate>Wed, 11 Mar 2026 06:02:00 GMT</pubDate>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e4a31dbdfe0a63bc78b00cd6e53fe7dc78a678454b1d86818deecfaaac1093bf</link>
+      <guid isPermaLink="false">e4a31dbdfe0a63bc78b00cd6e53fe7dc78a678454b1d86818deecfaaac1093bf</guid>
+      <pubDate>Wed, 11 Mar 2026 23:06:06 GMT</pubDate>
       <description><![CDATA[Summary: Most builders work in long stretches of silence, sustained by occasional signals from people who understand the work.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
@@ -4982,26 +5002,6 @@
       <guid isPermaLink="false">4cfda57b27983e68e71e07769162096b27eafefd85b776c9f0676ea2e3307819</guid>
       <pubDate>Sat, 15 Nov 2025 20:45:00 GMT</pubDate>
       <description><![CDATA[In Continuum v1.4, I successfully imported my LinkedIn profile into a sovereign Nostr identity. This article walks through how a LinkedIn export was transformed into a signed kind:0 event — published to relays and viewable inside the Continuum dashboard. It's a major milestone in bridging centralized platforms with decentralized identity.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Whitepaper: Continuum</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=bd726b1b407911d86c1ef367c5c1f1c799c0768d43328899be8f717860f9bb84</link>
-      <guid isPermaLink="false">bd726b1b407911d86c1ef367c5c1f1c799c0768d43328899be8f717860f9bb84</guid>
-      <pubDate>Sat, 15 Nov 2025 20:33:37 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🎯 Continuum Pricing — Free vs. Pro</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a1f29eefbda6e298389c437258f0fb3bf7f6ad48d3ea08c488d7e13e733c0683</link>
-      <guid isPermaLink="false">a1f29eefbda6e298389c437258f0fb3bf7f6ad48d3ea08c488d7e13e733c0683</guid>
-      <pubDate>Sat, 15 Nov 2025 20:24:55 GMT</pubDate>
-      <description><![CDATA[Compare what’s included in the free self-hosted version vs. the hosted Pro plan. Includes roadmap, open source pledge, and Lightning discount.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
