@@ -5,33 +5,43 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 12 Mar 2026 00:04:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 22:37:28 GMT</lastBuildDate>
     <item>
-      <title>Local Files vs Local-First: Why Continuum Exists</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=74c96cc64e4f399dbf08bef3696e9b696060c90a54ff01954ad9a2a703954cc9</link>
-      <guid isPermaLink="false">74c96cc64e4f399dbf08bef3696e9b696060c90a54ff01954ad9a2a703954cc9</guid>
-      <pubDate>Wed, 11 Mar 2026 23:39:52 GMT</pubDate>
-      <description><![CDATA[At first glance, Continuum may appear unnecessary to people who already write documents locally on their computers. After all, anyone can open Word, Markdown, or a text editor and save files in a folder. But Continuum is not merely a place to store documents. It is a local-first authorship and publishing system built around identity, verifiable authorship, durable archives, and intentional distribution. This article explains why the difference matters.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Who Continuum Is For</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a353bcb5dce0ee671f60f4218dd3df55df61187d5b255fc5f5049470eb6874cf</link>
-      <guid isPermaLink="false">a353bcb5dce0ee671f60f4218dd3df55df61187d5b255fc5f5049470eb6874cf</guid>
-      <pubDate>Wed, 11 Mar 2026 23:06:30 GMT</pubDate>
-      <description><![CDATA[Continuum is for people and organizations who need durable authorship, self-custodied identity, and a local-first publishing workflow. It is especially well suited for writers, journalists, researchers, human rights activists, ministries, and developers who want to create, preserve, and publish work without depending entirely on centralized platforms.]]></description>
+      <title>Why a Local Relay Changes the Game for Nostr Builders</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ffb5c545e4bf0e20be174f0f3b3aaaad9aeabb64c15e629e4bec0503e750e23b</link>
+      <guid isPermaLink="false">ffb5c545e4bf0e20be174f0f3b3aaaad9aeabb64c15e629e4bec0503e750e23b</guid>
+      <pubDate>Thu, 12 Mar 2026 04:24:54 GMT</pubDate>
+      <description><![CDATA[Running a local Nostr relay might seem unnecessary at first. After all, the Nostr network already provides dozens of public relays capable of storing and distributing events.  But for builders — especially those working on tools like Continuum — a local relay can fundamentally change the development experience.  It turns the network into something predictable, testable, and much easier to reason about.  Today I began exploring what it would mean to treat a local relay not just as a debugging tool, but as a permanent part of the architecture.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
     <item>
       <title>The Quiet Signals That Keep Builders Going</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e4a31dbdfe0a63bc78b00cd6e53fe7dc78a678454b1d86818deecfaaac1093bf</link>
-      <guid isPermaLink="false">e4a31dbdfe0a63bc78b00cd6e53fe7dc78a678454b1d86818deecfaaac1093bf</guid>
-      <pubDate>Wed, 11 Mar 2026 23:06:06 GMT</pubDate>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9a05cc11ece1c7158332cf56f7844f980ef81f352df83c211ad51edc3ebe2f15</link>
+      <guid isPermaLink="false">9a05cc11ece1c7158332cf56f7844f980ef81f352df83c211ad51edc3ebe2f15</guid>
+      <pubDate>Thu, 12 Mar 2026 00:06:03 GMT</pubDate>
       <description><![CDATA[Summary: Most builders work in long stretches of silence, sustained by occasional signals from people who understand the work.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Who Continuum Is For</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=30d20c7f8f6c4664cc9b24422040db1c0eaa28b23803bbb4f6944b3de05c7bce</link>
+      <guid isPermaLink="false">30d20c7f8f6c4664cc9b24422040db1c0eaa28b23803bbb4f6944b3de05c7bce</guid>
+      <pubDate>Thu, 12 Mar 2026 00:05:46 GMT</pubDate>
+      <description><![CDATA[Continuum is for people and organizations who need durable authorship, self-custodied identity, and a local-first publishing workflow. It is especially well suited for writers, journalists, researchers, human rights activists, ministries, and developers who want to create, preserve, and publish work without depending entirely on centralized platforms.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Local Files vs Local-First: Why Continuum Exists</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=303be15d9616be8276e6d00694037637922484e5f2b1b3c466b4cfcb3002d314</link>
+      <guid isPermaLink="false">303be15d9616be8276e6d00694037637922484e5f2b1b3c466b4cfcb3002d314</guid>
+      <pubDate>Thu, 12 Mar 2026 00:05:32 GMT</pubDate>
+      <description><![CDATA[At first glance, Continuum may appear unnecessary to people who already write documents locally on their computers. After all, anyone can open Word, Markdown, or a text editor and save files in a folder. But Continuum is not merely a place to store documents. It is a local-first authorship and publishing system built around identity, verifiable authorship, durable archives, and intentional distribution. This article explains why the difference matters.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">9823063b0aa49e35fd5cf53d07a0396de3e3db3e3d56c80377fa4799e8aafe89</guid>
       <pubDate>Sat, 15 Nov 2025 20:47:53 GMT</pubDate>
       <description><![CDATA[This is more than a critique — it’s a ledger. A personal and global accounting of what happens when you build on protocols designed for hype, not truth. The losses aren’t accidental — they’re inevitable. Bitcoin offers a different foundation.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Turning LinkedIn Data into a Nostr Identity — Milestone v1.4</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=4cfda57b27983e68e71e07769162096b27eafefd85b776c9f0676ea2e3307819</link>
-      <guid isPermaLink="false">4cfda57b27983e68e71e07769162096b27eafefd85b776c9f0676ea2e3307819</guid>
-      <pubDate>Sat, 15 Nov 2025 20:45:00 GMT</pubDate>
-      <description><![CDATA[In Continuum v1.4, I successfully imported my LinkedIn profile into a sovereign Nostr identity. This article walks through how a LinkedIn export was transformed into a signed kind:0 event — published to relays and viewable inside the Continuum dashboard. It's a major milestone in bridging centralized platforms with decentralized identity.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

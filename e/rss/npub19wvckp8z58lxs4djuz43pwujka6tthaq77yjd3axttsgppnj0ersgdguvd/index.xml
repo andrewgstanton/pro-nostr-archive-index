@@ -5,33 +5,93 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 12 Mar 2026 00:04:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 22:37:28 GMT</lastBuildDate>
     <item>
-      <title>Local Files vs Local-First: Why Continuum Exists</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=74c96cc64e4f399dbf08bef3696e9b696060c90a54ff01954ad9a2a703954cc9</link>
-      <guid isPermaLink="false">74c96cc64e4f399dbf08bef3696e9b696060c90a54ff01954ad9a2a703954cc9</guid>
-      <pubDate>Wed, 11 Mar 2026 23:39:52 GMT</pubDate>
-      <description><![CDATA[At first glance, Continuum may appear unnecessary to people who already write documents locally on their computers. After all, anyone can open Word, Markdown, or a text editor and save files in a folder. But Continuum is not merely a place to store documents. It is a local-first authorship and publishing system built around identity, verifiable authorship, durable archives, and intentional distribution. This article explains why the difference matters.]]></description>
+      <title>Why a Local Relay Changes the Game for Nostr Builders</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ffb5c545e4bf0e20be174f0f3b3aaaad9aeabb64c15e629e4bec0503e750e23b</link>
+      <guid isPermaLink="false">ffb5c545e4bf0e20be174f0f3b3aaaad9aeabb64c15e629e4bec0503e750e23b</guid>
+      <pubDate>Thu, 12 Mar 2026 04:24:54 GMT</pubDate>
+      <description><![CDATA[Running a local Nostr relay might seem unnecessary at first. After all, the Nostr network already provides dozens of public relays capable of storing and distributing events.  But for builders — especially those working on tools like Continuum — a local relay can fundamentally change the development experience.  It turns the network into something predictable, testable, and much easier to reason about.  Today I began exploring what it would mean to treat a local relay not just as a debugging tool, but as a permanent part of the architecture.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 46bf465f20</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=46bf465f20392268cc5c93656b365bb90715769fd4d83c2de06332b95d00cf9d</link>
+      <guid isPermaLink="false">46bf465f20392268cc5c93656b365bb90715769fd4d83c2de06332b95d00cf9d</guid>
+      <pubDate>Thu, 12 Mar 2026 04:18:01 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 eb5d99ae0b</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=eb5d99ae0b260b9a33989e648bb163b37573cfc4b3fc8762723270711d9e5b4e</link>
+      <guid isPermaLink="false">eb5d99ae0b260b9a33989e648bb163b37573cfc4b3fc8762723270711d9e5b4e</guid>
+      <pubDate>Thu, 12 Mar 2026 04:16:55 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 2a95ad65cd</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2a95ad65cd32734e1e4ad5978e598be3b99188a8eff79adb7eff753102692f7a</link>
+      <guid isPermaLink="false">2a95ad65cd32734e1e4ad5978e598be3b99188a8eff79adb7eff753102692f7a</guid>
+      <pubDate>Thu, 12 Mar 2026 04:16:13 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 40503ffbf5</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=40503ffbf592e1e9abf5c301797b2f46bd2731498d95d154453246f6970328fe</link>
+      <guid isPermaLink="false">40503ffbf592e1e9abf5c301797b2f46bd2731498d95d154453246f6970328fe</guid>
+      <pubDate>Thu, 12 Mar 2026 04:15:26 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 abac8ee3bb</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=abac8ee3bb24e50c102c882609b8b5d0e9acd024cb442aa0bfe19a518e713574</link>
+      <guid isPermaLink="false">abac8ee3bb24e50c102c882609b8b5d0e9acd024cb442aa0bfe19a518e713574</guid>
+      <pubDate>Thu, 12 Mar 2026 04:13:46 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Quiet Signals That Keep Builders Going</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9a05cc11ece1c7158332cf56f7844f980ef81f352df83c211ad51edc3ebe2f15</link>
+      <guid isPermaLink="false">9a05cc11ece1c7158332cf56f7844f980ef81f352df83c211ad51edc3ebe2f15</guid>
+      <pubDate>Thu, 12 Mar 2026 00:06:03 GMT</pubDate>
+      <description><![CDATA[Summary: Most builders work in long stretches of silence, sustained by occasional signals from people who understand the work.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
     <item>
       <title>Who Continuum Is For</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a353bcb5dce0ee671f60f4218dd3df55df61187d5b255fc5f5049470eb6874cf</link>
-      <guid isPermaLink="false">a353bcb5dce0ee671f60f4218dd3df55df61187d5b255fc5f5049470eb6874cf</guid>
-      <pubDate>Wed, 11 Mar 2026 23:06:30 GMT</pubDate>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=30d20c7f8f6c4664cc9b24422040db1c0eaa28b23803bbb4f6944b3de05c7bce</link>
+      <guid isPermaLink="false">30d20c7f8f6c4664cc9b24422040db1c0eaa28b23803bbb4f6944b3de05c7bce</guid>
+      <pubDate>Thu, 12 Mar 2026 00:05:46 GMT</pubDate>
       <description><![CDATA[Continuum is for people and organizations who need durable authorship, self-custodied identity, and a local-first publishing workflow. It is especially well suited for writers, journalists, researchers, human rights activists, ministries, and developers who want to create, preserve, and publish work without depending entirely on centralized platforms.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
     <item>
-      <title>The Quiet Signals That Keep Builders Going</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e4a31dbdfe0a63bc78b00cd6e53fe7dc78a678454b1d86818deecfaaac1093bf</link>
-      <guid isPermaLink="false">e4a31dbdfe0a63bc78b00cd6e53fe7dc78a678454b1d86818deecfaaac1093bf</guid>
-      <pubDate>Wed, 11 Mar 2026 23:06:06 GMT</pubDate>
-      <description><![CDATA[Summary: Most builders work in long stretches of silence, sustained by occasional signals from people who understand the work.]]></description>
+      <title>Local Files vs Local-First: Why Continuum Exists</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=303be15d9616be8276e6d00694037637922484e5f2b1b3c466b4cfcb3002d314</link>
+      <guid isPermaLink="false">303be15d9616be8276e6d00694037637922484e5f2b1b3c466b4cfcb3002d314</guid>
+      <pubDate>Thu, 12 Mar 2026 00:05:32 GMT</pubDate>
+      <description><![CDATA[At first glance, Continuum may appear unnecessary to people who already write documents locally on their computers. After all, anyone can open Word, Markdown, or a text editor and save files in a folder. But Continuum is not merely a place to store documents. It is a local-first authorship and publishing system built around identity, verifiable authorship, durable archives, and intentional distribution. This article explains why the difference matters.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
@@ -4943,66 +5003,6 @@
       <pubDate>Fri, 09 Jan 2026 00:54:22 GMT</pubDate>
       <description><![CDATA[Earth once assumed its voice carried first—and last. This Chronicle records the quiet, irreversible moment when Earth chose restraint, and in doing so, relinquished central authority forever.]]></description>
       <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.E.4 — The Vote That Never Closed</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d64dbfce8556cd91b151ea278515e3eb3e5fad2b2d5a36c3096bd46e7b7ebdc4</link>
-      <guid isPermaLink="false">d64dbfce8556cd91b151ea278515e3eb3e5fad2b2d5a36c3096bd46e7b7ebdc4</guid>
-      <pubDate>Fri, 09 Jan 2026 00:46:42 GMT</pubDate>
-      <description><![CDATA[The first interplanetary vote to span Earth, Luna, Mars, and the Belt was never concluded. Not because it failed—but because closure itself became impossible across distance. This Chronicle records the moment humanity learned that consensus does not end; it decays.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.E.5 — The Ledger of Delayed Obedience</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ef67d4ed868c2e883318c9d62940023a40c38949a6f4d5c98cb48c85f08eca46</link>
-      <guid isPermaLink="false">ef67d4ed868c2e883318c9d62940023a40c38949a6f4d5c98cb48c85f08eca46</guid>
-      <pubDate>Fri, 09 Jan 2026 00:45:08 GMT</pubDate>
-      <description><![CDATA[Law once assumed immediacy. Across worlds, obedience became delayed—not defiant. This Chronicle follows the creation of the Delayed Obedience Ledger, a system that accepted time itself as a lawful variable.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Creation is not content. - 1/7/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e9e4ddd83af1580258c9c643d3cf8d8186d38090f71235ced9ed00aa6f54568e</link>
-      <guid isPermaLink="false">e9e4ddd83af1580258c9c643d3cf8d8186d38090f71235ced9ed00aa6f54568e</guid>
-      <pubDate>Fri, 09 Jan 2026 00:41:45 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The market eventually tells the truth. 1/7/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ea36e8c2ce029e7d4003590d97aff99459c0806fb61a57fe8df0359bd557ebae</link>
-      <guid isPermaLink="false">ea36e8c2ce029e7d4003590d97aff99459c0806fb61a57fe8df0359bd557ebae</guid>
-      <pubDate>Fri, 09 Jan 2026 00:40:52 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sovereignty isn’t isolation. 1/7/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ad8f157410e66cfe16c2c57cd4e84a0adc8073293c111c9f465673592a4691c6</link>
-      <guid isPermaLink="false">ad8f157410e66cfe16c2c57cd4e84a0adc8073293c111c9f465673592a4691c6</guid>
-      <pubDate>Fri, 09 Jan 2026 00:39:54 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Most systems reward compliance 1/7/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=726b5102d7c6d43c9ba9bd03658e42113f27bed433ff091437294123fa559931</link>
-      <guid isPermaLink="false">726b5102d7c6d43c9ba9bd03658e42113f27bed433ff091437294123fa559931</guid>
-      <pubDate>Fri, 09 Jan 2026 00:39:07 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
