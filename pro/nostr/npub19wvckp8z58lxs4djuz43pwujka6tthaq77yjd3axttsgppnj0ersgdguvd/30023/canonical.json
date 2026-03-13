@@ -2936,9 +2936,8 @@
     "published": false
   },
   "work-with-andrew--sovereign-identity--ai-native-architecture": {
-    "latest_event_id": "8b488a66f55d5f31d8e7d1fca6e505000e3ed0fe2b0b4f2013e65ea194eac8dd",
-    "latest_year": 2026,
-    "published": false
+    "latest_event_id": "6b176467115b10c7dfc7a09acb93abdfa453f53ca4e96d89d043124e1d9614e1",
+    "latest_year": 2026
   },
   "steps-to-prepare-a-download-release-served-on-google-drive-folder-continuum-pro-test": {
     "latest_event_id": "c727aa9d8d20a0331688931bc6c3b513396453861c3f7f6293c18b92c66080aa",
@@ -3107,6 +3106,23 @@
   },
   "builders-log--march-11-2026": {
     "latest_event_id": "85c2ef8d6caba3571b88b0e873dc3ab3d4cdc1c54b85a8fd4c9fec7fa3f21c07",
+    "latest_year": 2026,
+    "published": false
+  },
+  "the-illusion-of-local-software": {
+    "latest_event_id": "1ef5dbde012625df1eb8e7cbd0ce4ac4977cb228949ea8efd8ccfdf5a791da6d",
+    "latest_year": 2026
+  },
+  "sovereign-custody-as-a-design-principle": {
+    "latest_event_id": "4433b1b1bf30589ca6f95814c52b372d5f65d458f7d75d0c3516d86de14fa3ee",
+    "latest_year": 2026
+  },
+  "local-generation-is-not-the-same-as-local-sovereignty": {
+    "latest_event_id": "7fbf0367c4ca5327417481fd0543e6c2a693327a5fc3bd3028e43b9929a7f83b",
+    "latest_year": 2026
+  },
+  "builders-journal--march-12-2026": {
+    "latest_event_id": "7f54328f291f9287f345955e90174c9389d32f91a10bc609423403d33c843c1c",
     "latest_year": 2026,
     "published": false
   }
