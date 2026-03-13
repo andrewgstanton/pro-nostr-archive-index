@@ -5,7 +5,47 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 12 Mar 2026 22:37:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 04:53:35 GMT</lastBuildDate>
+    <item>
+      <title>kind:30023 6b17646711</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6b176467115b10c7dfc7a09acb93abdfa453f53ca4e96d89d043124e1d9614e1</link>
+      <guid isPermaLink="false">6b176467115b10c7dfc7a09acb93abdfa453f53ca4e96d89d043124e1d9614e1</guid>
+      <pubDate>Fri, 13 Mar 2026 04:32:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:30023 7fbf0367c4</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7fbf0367c4ca5327417481fd0543e6c2a693327a5fc3bd3028e43b9929a7f83b</link>
+      <guid isPermaLink="false">7fbf0367c4ca5327417481fd0543e6c2a693327a5fc3bd3028e43b9929a7f83b</guid>
+      <pubDate>Fri, 13 Mar 2026 04:08:53 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:30023 4433b1b1bf</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4433b1b1bf30589ca6f95814c52b372d5f65d458f7d75d0c3516d86de14fa3ee</link>
+      <guid isPermaLink="false">4433b1b1bf30589ca6f95814c52b372d5f65d458f7d75d0c3516d86de14fa3ee</guid>
+      <pubDate>Fri, 13 Mar 2026 04:07:55 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:30023 1ef5dbde01</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1ef5dbde012625df1eb8e7cbd0ce4ac4977cb228949ea8efd8ccfdf5a791da6d</link>
+      <guid isPermaLink="false">1ef5dbde012625df1eb8e7cbd0ce4ac4977cb228949ea8efd8ccfdf5a791da6d</guid>
+      <pubDate>Fri, 13 Mar 2026 04:07:35 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Why a Local Relay Changes the Game for Nostr Builders</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=ffb5c545e4bf0e20be174f0f3b3aaaad9aeabb64c15e629e4bec0503e750e23b</link>
@@ -4962,46 +5002,6 @@
       <guid isPermaLink="false">7f3a46343a1d9874da4b76447123a91ad9e1119a9ab7aafb5d654ec0cbee3364</guid>
       <pubDate>Thu, 20 Nov 2025 18:02:04 GMT</pubDate>
       <description><![CDATA[Most people wait for perfect conditions before pursuing sovereignty. But the real transformation begins through small, steady habits that rewire your mindset, reduce dependency, and slowly shift your life in a different direction.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 19, 2025): The First Exit Is Internal — Breaking Babylon’s Logic Before Breaking Its Chains</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c74971683d1a6d58f92f5724595eb2d2453491342b2c062471c7393de54e385e</link>
-      <guid isPermaLink="false">c74971683d1a6d58f92f5724595eb2d2453491342b2c062471c7393de54e385e</guid>
-      <pubDate>Wed, 19 Nov 2025 20:59:34 GMT</pubDate>
-      <description><![CDATA[Before we can leave any external system, we must leave its internal logic. This piece explores the mindset shifts around money, identity, time, and value that begin freeing us from the debt-based order even before we make lifestyle changes.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 19, 2025): Micro-Sovereignty — Why Small Actions Matter More Than “Total Revolution”</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b4814805863081b1fdf6c56d5c1a97725e44c11a269f48b99a890395bfbbc4d2</link>
-      <guid isPermaLink="false">b4814805863081b1fdf6c56d5c1a97725e44c11a269f48b99a890395bfbbc4d2</guid>
-      <pubDate>Wed, 19 Nov 2025 20:55:31 GMT</pubDate>
-      <description><![CDATA[Sovereignty isn’t achieved through dramatic gestures or complete system abandonment. It grows through small, steady, cumulative actions. This piece explains why “micro-sovereignty” is more powerful than radical breaks and offers practical examples anyone can begin today.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Babylonian Operating System</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0e68863b924bae95915ae72e6af6309219b489b92c451b9f0b08a1f3f24ff97d</link>
-      <guid isPermaLink="false">0e68863b924bae95915ae72e6af6309219b489b92c451b9f0b08a1f3f24ff97d</guid>
-      <pubDate>Wed, 19 Nov 2025 19:14:03 GMT</pubDate>
-      <description><![CDATA[A 1500-word exploration of “Mystery Babylon” not as a nation or conspiracy, but as a civilizational operating system built on debt, centralization, and narrative control. This ancient pattern reappears in every empire — including our modern fiat-credit world. And for the first time in centuries, new sovereign tools offer a way out.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🍏📱 The iPhone Sock — Fiat Culture’s Final Form</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c527dfe52d53e96f74646259312c0605d6c2af18de2af7a8fdb52d1b433aeddc</link>
-      <guid isPermaLink="false">c527dfe52d53e96f74646259312c0605d6c2af18de2af7a8fdb52d1b433aeddc</guid>
-      <pubDate>Tue, 18 Nov 2025 18:01:21 GMT</pubDate>
-      <description><![CDATA[Apple is now selling a $230 “iPhone pocket,” a luxury cloth pouch that perfectly captures the absurdity of late-fiat consumer psychology. This satirical meme-style piece explores how a branded sock became a symbol of economic decay, corporate incentives, and the theatre of prestige in a world losing touch with value.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

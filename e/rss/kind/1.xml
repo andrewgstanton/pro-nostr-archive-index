@@ -5,7 +5,57 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 12 Mar 2026 22:37:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 04:53:34 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 d6e27f1e21</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d6e27f1e21d5423fd9f4d74928f7bfc48df22c30c1d0a8db30cb2953f71a9248</link>
+      <guid isPermaLink="false">d6e27f1e21d5423fd9f4d74928f7bfc48df22c30c1d0a8db30cb2953f71a9248</guid>
+      <pubDate>Fri, 13 Mar 2026 04:03:32 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 cd371ef2c5</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=cd371ef2c57ce613912a6c273acaf9a6c06f011575691d95eb7f25807c4b792d</link>
+      <guid isPermaLink="false">cd371ef2c57ce613912a6c273acaf9a6c06f011575691d95eb7f25807c4b792d</guid>
+      <pubDate>Fri, 13 Mar 2026 04:02:41 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 2c901ad34b</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2c901ad34b3826ab5dcfa5353fe52f766882d1cadfd800f83975f446c844766c</link>
+      <guid isPermaLink="false">2c901ad34b3826ab5dcfa5353fe52f766882d1cadfd800f83975f446c844766c</guid>
+      <pubDate>Fri, 13 Mar 2026 04:01:47 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 bb6fae49a4</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=bb6fae49a418a5d189e1fe5256624821492664ff969fbd9817ecaefcafd7a9ac</link>
+      <guid isPermaLink="false">bb6fae49a418a5d189e1fe5256624821492664ff969fbd9817ecaefcafd7a9ac</guid>
+      <pubDate>Fri, 13 Mar 2026 04:00:45 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 abd221a3b2</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=abd221a3b21deadd595014ab6010c456d992e0c365ef83cf7b2d952bd54bb3c6</link>
+      <guid isPermaLink="false">abd221a3b21deadd595014ab6010c456d992e0c365ef83cf7b2d952bd54bb3c6</guid>
+      <pubDate>Fri, 13 Mar 2026 03:58:28 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 46bf465f20</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=46bf465f20392268cc5c93656b365bb90715769fd4d83c2de06332b95d00cf9d</link>
@@ -4954,56 +5004,6 @@
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>New Short - Salmon with Yuzu Pepper Paste - 8/14/2025</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=23bb6b5b946db848a92ca59cc8b8f2c96fd8967b4d32b3ee9e4bf50c3508a99a</link>
-      <guid isPermaLink="false">23bb6b5b946db848a92ca59cc8b8f2c96fd8967b4d32b3ee9e4bf50c3508a99a</guid>
-      <pubDate>Sat, 16 Aug 2025 04:07:51 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 8f04c66b52</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=8f04c66b52dc36a2aad40c628e0f175470192aa4c9be0753c9354bb4cebfe1ea</link>
-      <guid isPermaLink="false">8f04c66b52dc36a2aad40c628e0f175470192aa4c9be0753c9354bb4cebfe1ea</guid>
-      <pubDate>Thu, 14 Aug 2025 05:32:51 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 0f274618ad</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0f274618adeffa64336f66012ca25a95ef97008ac70f43cf2a5320b3559f4992</link>
-      <guid isPermaLink="false">0f274618adeffa64336f66012ca25a95ef97008ac70f43cf2a5320b3559f4992</guid>
-      <pubDate>Sat, 26 Jul 2025 04:38:58 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 b54bd57893</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b54bd57893272f023034c80de54733874d2e34de9bc8c58e6b9a4b100eab48ee</link>
-      <guid isPermaLink="false">b54bd57893272f023034c80de54733874d2e34de9bc8c58e6b9a4b100eab48ee</guid>
-      <pubDate>Wed, 23 Jul 2025 17:15:41 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Scaling Smarter: Our Vision for Remote Talent + AI-Driven Startups</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b0d6dc6e331808a69a3d9cdb0ae9e07d1c27b982a01f78861a7e1940ad7a7714</link>
-      <guid isPermaLink="false">b0d6dc6e331808a69a3d9cdb0ae9e07d1c27b982a01f78861a7e1940ad7a7714</guid>
-      <pubDate>Tue, 22 Jul 2025 23:39:50 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5</category>
       <category>paid:false</category>
     </item>
   </channel>

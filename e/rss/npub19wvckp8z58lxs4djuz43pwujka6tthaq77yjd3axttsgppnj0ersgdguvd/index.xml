@@ -5,7 +5,97 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 12 Mar 2026 22:37:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 04:53:35 GMT</lastBuildDate>
+    <item>
+      <title>kind:30023 6b17646711</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6b176467115b10c7dfc7a09acb93abdfa453f53ca4e96d89d043124e1d9614e1</link>
+      <guid isPermaLink="false">6b176467115b10c7dfc7a09acb93abdfa453f53ca4e96d89d043124e1d9614e1</guid>
+      <pubDate>Fri, 13 Mar 2026 04:32:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:30023 7fbf0367c4</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7fbf0367c4ca5327417481fd0543e6c2a693327a5fc3bd3028e43b9929a7f83b</link>
+      <guid isPermaLink="false">7fbf0367c4ca5327417481fd0543e6c2a693327a5fc3bd3028e43b9929a7f83b</guid>
+      <pubDate>Fri, 13 Mar 2026 04:08:53 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:30023 4433b1b1bf</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4433b1b1bf30589ca6f95814c52b372d5f65d458f7d75d0c3516d86de14fa3ee</link>
+      <guid isPermaLink="false">4433b1b1bf30589ca6f95814c52b372d5f65d458f7d75d0c3516d86de14fa3ee</guid>
+      <pubDate>Fri, 13 Mar 2026 04:07:55 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:30023 1ef5dbde01</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1ef5dbde012625df1eb8e7cbd0ce4ac4977cb228949ea8efd8ccfdf5a791da6d</link>
+      <guid isPermaLink="false">1ef5dbde012625df1eb8e7cbd0ce4ac4977cb228949ea8efd8ccfdf5a791da6d</guid>
+      <pubDate>Fri, 13 Mar 2026 04:07:35 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 d6e27f1e21</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d6e27f1e21d5423fd9f4d74928f7bfc48df22c30c1d0a8db30cb2953f71a9248</link>
+      <guid isPermaLink="false">d6e27f1e21d5423fd9f4d74928f7bfc48df22c30c1d0a8db30cb2953f71a9248</guid>
+      <pubDate>Fri, 13 Mar 2026 04:03:32 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 cd371ef2c5</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=cd371ef2c57ce613912a6c273acaf9a6c06f011575691d95eb7f25807c4b792d</link>
+      <guid isPermaLink="false">cd371ef2c57ce613912a6c273acaf9a6c06f011575691d95eb7f25807c4b792d</guid>
+      <pubDate>Fri, 13 Mar 2026 04:02:41 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 2c901ad34b</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2c901ad34b3826ab5dcfa5353fe52f766882d1cadfd800f83975f446c844766c</link>
+      <guid isPermaLink="false">2c901ad34b3826ab5dcfa5353fe52f766882d1cadfd800f83975f446c844766c</guid>
+      <pubDate>Fri, 13 Mar 2026 04:01:47 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 bb6fae49a4</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=bb6fae49a418a5d189e1fe5256624821492664ff969fbd9817ecaefcafd7a9ac</link>
+      <guid isPermaLink="false">bb6fae49a418a5d189e1fe5256624821492664ff969fbd9817ecaefcafd7a9ac</guid>
+      <pubDate>Fri, 13 Mar 2026 04:00:45 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 abd221a3b2</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=abd221a3b21deadd595014ab6010c456d992e0c365ef83cf7b2d952bd54bb3c6</link>
+      <guid isPermaLink="false">abd221a3b21deadd595014ab6010c456d992e0c365ef83cf7b2d952bd54bb3c6</guid>
+      <pubDate>Fri, 13 Mar 2026 03:58:28 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Why a Local Relay Changes the Game for Nostr Builders</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=ffb5c545e4bf0e20be174f0f3b3aaaad9aeabb64c15e629e4bec0503e750e23b</link>
@@ -4913,96 +5003,6 @@
       <pubDate>Mon, 12 Jan 2026 05:23:58 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 3 — Builders - 1/11/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=8b7f04a1085dcc9af90227fbada71640e39cdf3e2587bb7a5e331e71c5be97b7</link>
-      <guid isPermaLink="false">8b7f04a1085dcc9af90227fbada71640e39cdf3e2587bb7a5e331e71c5be97b7</guid>
-      <pubDate>Mon, 12 Jan 2026 05:22:38 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 2 — Archives - 1/11/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0c218c1874ba5dbe55e7212dfa78119a12165a2e46a4239d62f3d74b317d5a30</link>
-      <guid isPermaLink="false">0c218c1874ba5dbe55e7212dfa78119a12165a2e46a4239d62f3d74b317d5a30</guid>
-      <pubDate>Mon, 12 Jan 2026 05:21:26 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 1 — Durability - 1/11/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=95b34a888f532bc4ff3d4827a9da1904313861c6039b8f6cff7dc35e3a085817</link>
-      <guid isPermaLink="false">95b34a888f532bc4ff3d4827a9da1904313861c6039b8f6cff7dc35e3a085817</guid>
-      <pubDate>Mon, 12 Jan 2026 05:19:39 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 3530192b68</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3530192b6852974fc11dae3d674f1fb7ca7f0d1823945294529590ee3d796736</link>
-      <guid isPermaLink="false">3530192b6852974fc11dae3d674f1fb7ca7f0d1823945294529590ee3d796736</guid>
-      <pubDate>Sat, 10 Jan 2026 19:16:39 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 c8d6b1254c</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c8d6b1254c8df987439c63d33535770c4963517425fa921f539de4b1b1d3d689</link>
-      <guid isPermaLink="false">c8d6b1254c8df987439c63d33535770c4963517425fa921f539de4b1b1d3d689</guid>
-      <pubDate>Sat, 10 Jan 2026 03:53:55 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.C.9 — Children of the Cold Ledger</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=aa45236e3844bdd8505efe540dd1d9c9afa8939e77daece61f7e7dacb12972e2</link>
-      <guid isPermaLink="false">aa45236e3844bdd8505efe540dd1d9c9afa8939e77daece61f7e7dacb12972e2</guid>
-      <pubDate>Fri, 09 Jan 2026 01:00:14 GMT</pubDate>
-      <description><![CDATA[The first generation born entirely under Bitcoin does not remember inflation, bailouts, or negotiated truth. To them, money has always been final, transparent, and impersonal. This essay explores how that quiet inheritance reshaped Martian culture—not through slogans or struggle, but through instinct—and why those who remembered Earth sometimes found the new normal unsettling.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.C.8 — The Last Earth Loan</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ec6b40e2726b66c48b6d58b3d48c9ee62edbc425b2204fb9acd4d4bc8eedb8a6</link>
-      <guid isPermaLink="false">ec6b40e2726b66c48b6d58b3d48c9ee62edbc425b2204fb9acd4d4bc8eedb8a6</guid>
-      <pubDate>Fri, 09 Jan 2026 00:58:50 GMT</pubDate>
-      <description><![CDATA[Mars does not reject Earth out of hatred or pride. It rejects Earth because dependency, once accepted, never leaves quietly. When a powerful consortium offers Mars a temporary financial bridge “with no strings attached,” the colony must confront its own fear—not of collapse, but of relief. This essay chronicles the final moment when Mars could have compromised its monetary sovereignty, and why it chose not to.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.C.7 — Dust and Finality</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=97189598cd54c84d75dca3aca862b8d899828053fb0011909666137f7b5de9f3</link>
-      <guid isPermaLink="false">97189598cd54c84d75dca3aca862b8d899828053fb0011909666137f7b5de9f3</guid>
-      <pubDate>Fri, 09 Jan 2026 00:57:58 GMT</pubDate>
-      <description><![CDATA[On Mars, survival depends on precision, honesty, and irreversible consequences. When a young systems engineer makes a mistake that cannot be undone, Bitcoin does not intervene, forgive, or soften the outcome. It records. This essay explores how finality reshaped Martian ethics—not as punishment, but as clarity—and why a civilization that cannot rely on mercy by abstraction learned to practice responsibility in full daylight.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.E.6 — When Earth Spoke Last</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7a1365310f48986db2bc6c3d4e97d2d26d3d1951cd15b936bda00cadec64a179</link>
-      <guid isPermaLink="false">7a1365310f48986db2bc6c3d4e97d2d26d3d1951cd15b936bda00cadec64a179</guid>
-      <pubDate>Fri, 09 Jan 2026 00:54:22 GMT</pubDate>
-      <description><![CDATA[Earth once assumed its voice carried first—and last. This Chronicle records the quiet, irreversible moment when Earth chose restraint, and in doing so, relinquished central authority forever.]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>

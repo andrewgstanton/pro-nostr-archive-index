@@ -5,7 +5,47 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 12 Mar 2026 22:37:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 04:53:35 GMT</lastBuildDate>
+    <item>
+      <title>kind:30023 6b17646711</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6b176467115b10c7dfc7a09acb93abdfa453f53ca4e96d89d043124e1d9614e1</link>
+      <guid isPermaLink="false">6b176467115b10c7dfc7a09acb93abdfa453f53ca4e96d89d043124e1d9614e1</guid>
+      <pubDate>Fri, 13 Mar 2026 04:32:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:30023 7fbf0367c4</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7fbf0367c4ca5327417481fd0543e6c2a693327a5fc3bd3028e43b9929a7f83b</link>
+      <guid isPermaLink="false">7fbf0367c4ca5327417481fd0543e6c2a693327a5fc3bd3028e43b9929a7f83b</guid>
+      <pubDate>Fri, 13 Mar 2026 04:08:53 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:30023 4433b1b1bf</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4433b1b1bf30589ca6f95814c52b372d5f65d458f7d75d0c3516d86de14fa3ee</link>
+      <guid isPermaLink="false">4433b1b1bf30589ca6f95814c52b372d5f65d458f7d75d0c3516d86de14fa3ee</guid>
+      <pubDate>Fri, 13 Mar 2026 04:07:55 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:30023 1ef5dbde01</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1ef5dbde012625df1eb8e7cbd0ce4ac4977cb228949ea8efd8ccfdf5a791da6d</link>
+      <guid isPermaLink="false">1ef5dbde012625df1eb8e7cbd0ce4ac4977cb228949ea8efd8ccfdf5a791da6d</guid>
+      <pubDate>Fri, 13 Mar 2026 04:07:35 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Why a Local Relay Changes the Game for Nostr Builders</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=ffb5c545e4bf0e20be174f0f3b3aaaad9aeabb64c15e629e4bec0503e750e23b</link>
@@ -4962,46 +5002,6 @@
       <guid isPermaLink="false">ed5e9cde5ab46aabbb565e5b6b86505bf8d3034c774ee591a34dd19e64826f21</guid>
       <pubDate>Sat, 15 Nov 2025 21:46:31 GMT</pubDate>
       <description><![CDATA[A new path to real wealth: Instead of chasing unicorns, I’m acquiring overlooked, profitable businesses — and transforming them into Bitcoin-native operations. This model anchors cashflow to sovereignty, replacing fiat rails and rented identity with Bitcoin, Lightning, and Nostr. It’s not about hype. It’s about freedom — one business at a time.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Bitcoin, the Scientific Method, and the Gospel</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=8ccfd7b918112801631f97066e398b7744e858d6e2215089d0218543412e15f2</link>
-      <guid isPermaLink="false">8ccfd7b918112801631f97066e398b7744e858d6e2215089d0218543412e15f2</guid>
-      <pubDate>Sat, 15 Nov 2025 21:43:53 GMT</pubDate>
-      <description><![CDATA[This article explores how Bitcoin, the scientific method, and the Gospel all point to the same foundational principle:  Truth has structure.  Each resists manipulation by design, invites scrutiny, and rewards integrity over influence. Bitcoin encodes it. Science tests it. The Gospel reveals it. Together, they expose the difference between systems built to enlighten — and those built to control.  This isn’t about ideology or tribalism. It’s about the pursuit of what’s real, no matter the cost.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Bitcoin Doesn’t Need Proprietary “Quantum Protection”</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a8f30f6d777152e95e298eff9235f52c60f41802962e0e0e106e5063120bec63</link>
-      <guid isPermaLink="false">a8f30f6d777152e95e298eff9235f52c60f41802962e0e0e106e5063120bec63</guid>
-      <pubDate>Sat, 15 Nov 2025 21:36:02 GMT</pubDate>
-      <description><![CDATA[This article examines recent claims about proprietary “quantum-resistant” custody solutions for Bitcoin, highlighting why such approaches contradict Bitcoin’s open-source ethos and overstate current quantum threats. It argues that real security comes from protocol-level upgrades, not closed, patent-protected tools — and calls for builders to focus on open, auditable, and sovereign solutions that align with Bitcoin’s core principles.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Cost of Fiat: A System Built to Steal</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ae4119e9c96703c5d09ebb77893a5f2ab5a3099090b2ebb4646be62d164f879c</link>
-      <guid isPermaLink="false">ae4119e9c96703c5d09ebb77893a5f2ab5a3099090b2ebb4646be62d164f879c</guid>
-      <pubDate>Sat, 15 Nov 2025 21:31:49 GMT</pubDate>
-      <description><![CDATA[This article exposes the hidden cost of the fiat system — a $28 trillion loss over the past five years through inflation, censorship, and structural theft. These aren't accidents. They're baked into the design.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Cost of Compromise: Bitcoin Vs. Web3</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9823063b0aa49e35fd5cf53d07a0396de3e3db3e3d56c80377fa4799e8aafe89</link>
-      <guid isPermaLink="false">9823063b0aa49e35fd5cf53d07a0396de3e3db3e3d56c80377fa4799e8aafe89</guid>
-      <pubDate>Sat, 15 Nov 2025 20:47:53 GMT</pubDate>
-      <description><![CDATA[This is more than a critique — it’s a ledger. A personal and global accounting of what happens when you build on protocols designed for hype, not truth. The losses aren’t accidental — they’re inevitable. Bitcoin offers a different foundation.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
