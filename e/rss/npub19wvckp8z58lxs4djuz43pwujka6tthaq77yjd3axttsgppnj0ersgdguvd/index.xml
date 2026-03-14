@@ -5,7 +5,77 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 14 Mar 2026 22:07:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 22:21:15 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 0746407623</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=07464076232d1943595ee82e428af47c3bee62935483310180f1061311a379ae</link>
+      <guid isPermaLink="false">07464076232d1943595ee82e428af47c3bee62935483310180f1061311a379ae</guid>
+      <pubDate>Sat, 14 Mar 2026 22:10:55 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 3fd8391247</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3fd839124778fd24c48d329bd144b1a0f7dbab683bc84010a182921dea68c069</link>
+      <guid isPermaLink="false">3fd839124778fd24c48d329bd144b1a0f7dbab683bc84010a182921dea68c069</guid>
+      <pubDate>Sat, 14 Mar 2026 22:10:41 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 a457c40acb</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a457c40acb865cd42a9fec9afd0a009402e1e08ffd3f428951e9a36577e2ff83</link>
+      <guid isPermaLink="false">a457c40acb865cd42a9fec9afd0a009402e1e08ffd3f428951e9a36577e2ff83</guid>
+      <pubDate>Sat, 14 Mar 2026 22:10:26 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 acce1212b1</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=acce1212b1456d14ea005a16803c47faf7a8a6d5ac383da8133921df6e22cf70</link>
+      <guid isPermaLink="false">acce1212b1456d14ea005a16803c47faf7a8a6d5ac383da8133921df6e22cf70</guid>
+      <pubDate>Sat, 14 Mar 2026 22:10:09 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 7a78cd25e4</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7a78cd25e4d17f609a237bc55eb405c586dba0480cb6539026fe20cf9d822a60</link>
+      <guid isPermaLink="false">7a78cd25e4d17f609a237bc55eb405c586dba0480cb6539026fe20cf9d822a60</guid>
+      <pubDate>Sat, 14 Mar 2026 22:09:53 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 a9a2337c11</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a9a2337c11126eac8962cc48deb45d26136a73118f439f644faeab7b96ea6b3e</link>
+      <guid isPermaLink="false">a9a2337c11126eac8962cc48deb45d26136a73118f439f644faeab7b96ea6b3e</guid>
+      <pubDate>Sat, 14 Mar 2026 22:09:30 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 640ad3eaeb</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=640ad3eaeb573b76643293ff85b8715f5bbdc286fbff3818bf192a44b7655a9f</link>
+      <guid isPermaLink="false">640ad3eaeb573b76643293ff85b8715f5bbdc286fbff3818bf192a44b7655a9f</guid>
+      <pubDate>Sat, 14 Mar 2026 22:08:56 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:30023 4fbd504b8d</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=4fbd504b8d578a251532532a38e43594ce92f170b1c9551da142720f2045eb55</link>
@@ -4933,76 +5003,6 @@
       <pubDate>Thu, 15 Jan 2026 05:22:32 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>📝 Note 4 — Modern slavery - 1/14/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3040ceeb7553da92f816a963b2e3f11a865fbc4cbe3a65a29ca0263ed2fa3a9c</link>
-      <guid isPermaLink="false">3040ceeb7553da92f816a963b2e3f11a865fbc4cbe3a65a29ca0263ed2fa3a9c</guid>
-      <pubDate>Thu, 15 Jan 2026 05:21:45 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>📝 Note 3 — Bitcoin clarification - 1/14/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=14ff4694e0662cb00794ff35e9ba89e68630c70c055fbb0d718d9592f34f6183</link>
-      <guid isPermaLink="false">14ff4694e0662cb00794ff35e9ba89e68630c70c055fbb0d718d9592f34f6183</guid>
-      <pubDate>Thu, 15 Jan 2026 05:21:00 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>📝 Note 2 — Fiat &amp; responsibility - 1/14/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5df35c5c2341f583c7279148f14d18e39d245549ec04c421f55e07acb0866364</link>
-      <guid isPermaLink="false">5df35c5c2341f583c7279148f14d18e39d245549ec04c421f55e07acb0866364</guid>
-      <pubDate>Thu, 15 Jan 2026 05:20:12 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>📝 Note 1 — Revival &amp; visibility - 1/14/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3338f306c27fd3e46ddadc5e54d6ea2ab28ab225d8128ac0af7f9236c6776516</link>
-      <guid isPermaLink="false">3338f306c27fd3e46ddadc5e54d6ea2ab28ab225d8128ac0af7f9236c6776516</guid>
-      <pubDate>Thu, 15 Jan 2026 05:19:30 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The False Dichotomy: Revival *and* Honest Money</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d962b93d35a29544493ce2ef600dbe3c65beab2dd34585e8cf548e3ffceac7c9</link>
-      <guid isPermaLink="false">d962b93d35a29544493ce2ef600dbe3c65beab2dd34585e8cf548e3ffceac7c9</guid>
-      <pubDate>Thu, 15 Jan 2026 05:12:37 GMT</pubDate>
-      <description><![CDATA[Christians are often told they must choose between spiritual revival and systemic reform — between changed hearts or changed structures. History suggests this is a false choice. Revival without honest money stalls, and honest money without moral formation hardens. This essay argues that the work ahead requires holding both together, without confusing witness for virtue or systems for salvation.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Bitcoin Is Not Moral — It Is Honest</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=441a2a7e7141c3641fd55d6488170e22a9ca0d3313e99e6f223dc17b651c6015</link>
-      <guid isPermaLink="false">441a2a7e7141c3641fd55d6488170e22a9ca0d3313e99e6f223dc17b651c6015</guid>
-      <pubDate>Thu, 15 Jan 2026 05:11:46 GMT</pubDate>
-      <description><![CDATA[Bitcoin does not redeem people or sanctify systems. It removes the ability to lie quietly. This essay explores the difference between morality and honesty, why dishonest money enables hidden injustice at scale, and why a system that enforces truth feels threatening to institutions — and individuals — accustomed to moral distance.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Revival Without Reckoning Is Theater</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2284a915db5c57f280c7491657c57c8e4f3c2380dc457cb8d129d7a97723d65a</link>
-      <guid isPermaLink="false">2284a915db5c57f280c7491657c57c8e4f3c2380dc457cb8d129d7a97723d65a</guid>
-      <pubDate>Thu, 15 Jan 2026 05:10:48 GMT</pubDate>
-      <description><![CDATA[Christian revival has changed hearts and ended visible evils like slavery, but it has never fully confronted the monetary systems that quietly reproduce coercion through abstraction and debt. This essay is written for Christians who care about sovereignty and truth, arguing that revival and monetary honesty are not alternatives — and that history shows we have never seriously attempted them together.]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
