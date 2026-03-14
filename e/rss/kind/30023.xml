@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 13 Mar 2026 04:53:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 21:56:05 GMT</lastBuildDate>
+    <item>
+      <title>kind:30023 4fbd504b8d</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4fbd504b8d578a251532532a38e43594ce92f170b1c9551da142720f2045eb55</link>
+      <guid isPermaLink="false">4fbd504b8d578a251532532a38e43594ce92f170b1c9551da142720f2045eb55</guid>
+      <pubDate>Fri, 13 Mar 2026 19:59:58 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:30023 6b17646711</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=6b176467115b10c7dfc7a09acb93abdfa453f53ca4e96d89d043124e1d9614e1</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">13eca7ca9028bdf007993baa13ee99170163f374b6b36318b0cbc345f6746175</guid>
       <pubDate>Thu, 20 Nov 2025 18:04:00 GMT</pubDate>
       <description><![CDATA[Sovereignty isn’t built on perfect days—it’s built on the days you feel exhausted, overwhelmed, or discouraged. This piece offers practical strategies for maintaining direction and dignity even when you have very little energy to give.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 20, 2025): Why Small Sovereign Habits Matter More Than Big Plans</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7f3a46343a1d9874da4b76447123a91ad9e1119a9ab7aafb5d654ec0cbee3364</link>
-      <guid isPermaLink="false">7f3a46343a1d9874da4b76447123a91ad9e1119a9ab7aafb5d654ec0cbee3364</guid>
-      <pubDate>Thu, 20 Nov 2025 18:02:04 GMT</pubDate>
-      <description><![CDATA[Most people wait for perfect conditions before pursuing sovereignty. But the real transformation begins through small, steady habits that rewire your mindset, reduce dependency, and slowly shift your life in a different direction.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

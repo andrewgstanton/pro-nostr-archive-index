@@ -5,7 +5,47 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 13 Mar 2026 04:53:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 21:56:05 GMT</lastBuildDate>
+    <item>
+      <title>kind:30023 4fbd504b8d</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4fbd504b8d578a251532532a38e43594ce92f170b1c9551da142720f2045eb55</link>
+      <guid isPermaLink="false">4fbd504b8d578a251532532a38e43594ce92f170b1c9551da142720f2045eb55</guid>
+      <pubDate>Fri, 13 Mar 2026 19:59:58 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 afee11b242</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=afee11b242e1fc84ccbc3d01fd66d74b46a7031ab45eb60088b6c57f2c959b65</link>
+      <guid isPermaLink="false">afee11b242e1fc84ccbc3d01fd66d74b46a7031ab45eb60088b6c57f2c959b65</guid>
+      <pubDate>Fri, 13 Mar 2026 16:09:39 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 fad2709c94</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=fad2709c947716e90cb80193192495a9c444700aab6061f9cfdf70c20291a1c0</link>
+      <guid isPermaLink="false">fad2709c947716e90cb80193192495a9c444700aab6061f9cfdf70c20291a1c0</guid>
+      <pubDate>Fri, 13 Mar 2026 05:24:26 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 ad737c610f</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ad737c610fc1b808d49acbf74dc8482918c2c972abd7cbb11bc989b34d7e974e</link>
+      <guid isPermaLink="false">ad737c610fc1b808d49acbf74dc8482918c2c972abd7cbb11bc989b34d7e974e</guid>
+      <pubDate>Fri, 13 Mar 2026 04:58:32 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:30023 6b17646711</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=6b176467115b10c7dfc7a09acb93abdfa453f53ca4e96d89d043124e1d9614e1</link>
@@ -4961,46 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=7f9395f8678595d84fc32294d07f67e8761a4d2b24c881703e016382476a78f6</link>
       <guid isPermaLink="false">7f9395f8678595d84fc32294d07f67e8761a4d2b24c881703e016382476a78f6</guid>
       <pubDate>Sat, 17 Jan 2026 02:41:15 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>📝 Note 1 - 1/16/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=00a0b18339f298501408fbea79506cf925fe59046ec58948bfa2cf6ceb9b8048</link>
-      <guid isPermaLink="false">00a0b18339f298501408fbea79506cf925fe59046ec58948bfa2cf6ceb9b8048</guid>
-      <pubDate>Sat, 17 Jan 2026 02:39:49 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 c02a6ccdcb</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c02a6ccdcbfcd0f8c0c5e2a5ce8168855afa9fc334e072525e9a1e46159af5af</link>
-      <guid isPermaLink="false">c02a6ccdcbfcd0f8c0c5e2a5ce8168855afa9fc334e072525e9a1e46159af5af</guid>
-      <pubDate>Fri, 16 Jan 2026 17:53:16 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Sovereign Publishing: Why Ownership Matters More Than Reach</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=60f76d015471167c6e19e3b7ffe49939a9850966c7dbe0e32eeb407efc133e00</link>
-      <guid isPermaLink="false">60f76d015471167c6e19e3b7ffe49939a9850966c7dbe0e32eeb407efc133e00</guid>
-      <pubDate>Thu, 15 Jan 2026 21:58:10 GMT</pubDate>
-      <description><![CDATA[Sovereign publishing is the practice of creating, preserving, and distributing your work in a way that maintains ownership, identity, and continuity independent of platforms, algorithms, or business models you do not control. In an era dominated by rented attention and subscription-driven content churn, sovereign publishing offers a slower but far more durable path: the creation of intellectual artifacts that outlive platforms and remain legible across time.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>📝 Note 5 — The false choice - 1/14/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d7fc6cc8a978f41bbe3203d73be47a61f83105fbb8c2a0bf4e5c6de1f0ba0818</link>
-      <guid isPermaLink="false">d7fc6cc8a978f41bbe3203d73be47a61f83105fbb8c2a0bf4e5c6de1f0ba0818</guid>
-      <pubDate>Thu, 15 Jan 2026 05:22:32 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>

@@ -5,7 +5,47 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 13 Mar 2026 04:53:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 21:56:05 GMT</lastBuildDate>
+    <item>
+      <title>kind:30023 4fbd504b8d</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4fbd504b8d578a251532532a38e43594ce92f170b1c9551da142720f2045eb55</link>
+      <guid isPermaLink="false">4fbd504b8d578a251532532a38e43594ce92f170b1c9551da142720f2045eb55</guid>
+      <pubDate>Fri, 13 Mar 2026 19:59:58 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 afee11b242</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=afee11b242e1fc84ccbc3d01fd66d74b46a7031ab45eb60088b6c57f2c959b65</link>
+      <guid isPermaLink="false">afee11b242e1fc84ccbc3d01fd66d74b46a7031ab45eb60088b6c57f2c959b65</guid>
+      <pubDate>Fri, 13 Mar 2026 16:09:39 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 fad2709c94</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=fad2709c947716e90cb80193192495a9c444700aab6061f9cfdf70c20291a1c0</link>
+      <guid isPermaLink="false">fad2709c947716e90cb80193192495a9c444700aab6061f9cfdf70c20291a1c0</guid>
+      <pubDate>Fri, 13 Mar 2026 05:24:26 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 ad737c610f</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ad737c610fc1b808d49acbf74dc8482918c2c972abd7cbb11bc989b34d7e974e</link>
+      <guid isPermaLink="false">ad737c610fc1b808d49acbf74dc8482918c2c972abd7cbb11bc989b34d7e974e</guid>
+      <pubDate>Fri, 13 Mar 2026 04:58:32 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:30023 6b17646711</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=6b176467115b10c7dfc7a09acb93abdfa453f53ca4e96d89d043124e1d9614e1</link>
@@ -4963,46 +5003,6 @@
       <pubDate>Thu, 15 Jan 2026 05:10:48 GMT</pubDate>
       <description><![CDATA[Christian revival has changed hearts and ended visible evils like slavery, but it has never fully confronted the monetary systems that quietly reproduce coercion through abstraction and debt. This essay is written for Christians who care about sovereignty and truth, arguing that revival and monetary honesty are not alternatives — and that history shows we have never seriously attempted them together.]]></description>
       <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 40085d8d36</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=40085d8d3661aa41b2ba3e2ebc16b5832c234ea34beff782d55ec71ad6887f2e</link>
-      <guid isPermaLink="false">40085d8d3661aa41b2ba3e2ebc16b5832c234ea34beff782d55ec71ad6887f2e</guid>
-      <pubDate>Mon, 12 Jan 2026 07:57:05 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Protocols - 1/11/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e3d2893e607d56af1b2fc81dbafe3959d373b8cdd6dfd389ff81a0214c933cde</link>
-      <guid isPermaLink="false">e3d2893e607d56af1b2fc81dbafe3959d373b8cdd6dfd389ff81a0214c933cde</guid>
-      <pubDate>Mon, 12 Jan 2026 07:02:14 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 5 — Quiet Confidence - 1/11/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a4f9f6b8eedb101975697d21421ec91c5a81e1c33f74b0eb90c9c44d52729333</link>
-      <guid isPermaLink="false">a4f9f6b8eedb101975697d21421ec91c5a81e1c33f74b0eb90c9c44d52729333</guid>
-      <pubDate>Mon, 12 Jan 2026 05:30:46 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 4 — Publishing - 1/11/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=97e4d932168cd00099cbf669c2bb1655de28bb59955a82c0e7bda8db8d0a1b60</link>
-      <guid isPermaLink="false">97e4d932168cd00099cbf669c2bb1655de28bb59955a82c0e7bda8db8d0a1b60</guid>
-      <pubDate>Mon, 12 Jan 2026 05:23:58 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>

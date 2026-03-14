@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 13 Mar 2026 04:53:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 21:56:05 GMT</lastBuildDate>
+    <item>
+      <title>kind:30023 4fbd504b8d</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4fbd504b8d578a251532532a38e43594ce92f170b1c9551da142720f2045eb55</link>
+      <guid isPermaLink="false">4fbd504b8d578a251532532a38e43594ce92f170b1c9551da142720f2045eb55</guid>
+      <pubDate>Fri, 13 Mar 2026 19:59:58 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:30023 6b17646711</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=6b176467115b10c7dfc7a09acb93abdfa453f53ca4e96d89d043124e1d9614e1</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">12733d2fc50ebc4341fa1ec938a26579c2237420a77fa6496fe9d5259d347be4</guid>
       <pubDate>Sat, 15 Nov 2025 21:47:42 GMT</pubDate>
       <description><![CDATA[From a simple README to a fully sovereign publishing stack — this is the story of how Continuum was born. In just 60 days, we’ve built a local-first Nostr app with multi-identity support, publishing tools, and hosted dashboards — all without relying on logins, tokens, or platform permissions.  This was built with the help of AI — not to impress, but to liberate. Continuum is a sovereign publishing stack that puts control, identity, and freedom back where it belongs: with you.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🟠 Bitcoin-Native Business Model: A New Path to Real Wealth</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ed5e9cde5ab46aabbb565e5b6b86505bf8d3034c774ee591a34dd19e64826f21</link>
-      <guid isPermaLink="false">ed5e9cde5ab46aabbb565e5b6b86505bf8d3034c774ee591a34dd19e64826f21</guid>
-      <pubDate>Sat, 15 Nov 2025 21:46:31 GMT</pubDate>
-      <description><![CDATA[A new path to real wealth: Instead of chasing unicorns, I’m acquiring overlooked, profitable businesses — and transforming them into Bitcoin-native operations. This model anchors cashflow to sovereignty, replacing fiat rails and rented identity with Bitcoin, Lightning, and Nostr. It’s not about hype. It’s about freedom — one business at a time.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
