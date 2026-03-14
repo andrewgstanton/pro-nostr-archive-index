@@ -5,7 +5,7 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 14 Mar 2026 21:56:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 22:02:18 GMT</lastBuildDate>
     <item>
       <title>kind:1 afee11b242</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=afee11b242e1fc84ccbc3d01fd66d74b46a7031ab45eb60088b6c57f2c959b65</link>
