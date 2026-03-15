@@ -1,6 +1,18 @@
 [
   {
     "slug": "building-continuum---manuscript-draft-march-15-2026",
+    "event_id": "bad2d33be776c3de033b759b883f1838c6fbf385e1a1fa7a2415842bf402c76b",
+    "created_at": 1773611841,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/bad2d33be776c3de033b759b883f1838c6fbf385e1a1fa7a2415842bf402c76b.json",
+    "title": "Building Continuum - Manuscript Draft (March 15, 2026)",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
+    "slug": "building-continuum---manuscript-draft-march-15-2026",
     "event_id": "00fb25c04be6c4b3de8a1cfaddc90696454012ee236f549d7ce9e90f37cb46cf",
     "created_at": 1773608399,
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
