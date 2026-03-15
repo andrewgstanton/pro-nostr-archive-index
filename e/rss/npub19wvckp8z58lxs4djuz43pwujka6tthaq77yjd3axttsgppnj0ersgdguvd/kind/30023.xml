@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 15 Mar 2026 04:57:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 05:26:05 GMT</lastBuildDate>
+    <item>
+      <title>Sabbath and the Promise of the New Creation</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=8d215e561adeaf90524c5a8aadef132d6c89689ef41a1f1712de0b3514e36a5e</link>
+      <guid isPermaLink="false">8d215e561adeaf90524c5a8aadef132d6c89689ef41a1f1712de0b3514e36a5e</guid>
+      <pubDate>Sun, 15 Mar 2026 05:06:43 GMT</pubDate>
+      <description><![CDATA[The Sabbath is not only a command about rest; it is a sign pointing toward the future restoration of all things. Each Sabbath serves as a small foretaste of the New Creation, when the broken rhythms of the present world will finally be healed.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Taxes, Labor, and the Limits of the State</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=d98d1d7b3d8f9f454a9ed7b159445d2340611a848789dea0496c63388c65dd0f</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">99468f1b191ac2f83cd9994c4c31351b4a46909324d557b18b7a7f1cfa843c97</guid>
       <pubDate>Sat, 15 Nov 2025 22:10:55 GMT</pubDate>
       <description><![CDATA[This article draws a parallel between the Victorious Gospel’s teaching of “first fruits” and the emergence of Bitcoin, showing how both follow a pattern of unshakable foundation, early adopters, and inevitable full reach. It explores the role of the “elect” as living witnesses, warns against modern forms of idolatry — from image management to AI worship — and grounds the whole message in humility, giving all glory to Christ.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Nostr: The Neutral Protocol With a Bitcoin Gravity Well</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=bc27e0751b6f4954ea00eb27b50a513959b4ba2ca20d0bd028ac96885027e18b</link>
-      <guid isPermaLink="false">bc27e0751b6f4954ea00eb27b50a513959b4ba2ca20d0bd028ac96885027e18b</guid>
-      <pubDate>Sat, 15 Nov 2025 21:59:14 GMT</pubDate>
-      <description><![CDATA[Nostr ia a truly decentralized open protocol for publishing signed events.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

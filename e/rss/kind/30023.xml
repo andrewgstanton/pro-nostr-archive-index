@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 15 Mar 2026 04:57:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 05:26:05 GMT</lastBuildDate>
+    <item>
+      <title>Sabbath and the Promise of the New Creation</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=8d215e561adeaf90524c5a8aadef132d6c89689ef41a1f1712de0b3514e36a5e</link>
+      <guid isPermaLink="false">8d215e561adeaf90524c5a8aadef132d6c89689ef41a1f1712de0b3514e36a5e</guid>
+      <pubDate>Sun, 15 Mar 2026 05:06:43 GMT</pubDate>
+      <description><![CDATA[The Sabbath is not only a command about rest; it is a sign pointing toward the future restoration of all things. Each Sabbath serves as a small foretaste of the New Creation, when the broken rhythms of the present world will finally be healed.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Taxes, Labor, and the Limits of the State</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=d98d1d7b3d8f9f454a9ed7b159445d2340611a848789dea0496c63388c65dd0f</link>
@@ -4994,16 +5004,6 @@
       <description><![CDATA[This editorial introduces Continuum Pro as a sovereign archive layer for Nostr’s builders and writers. It explains why relays and clients are not true memory, and how Continuum Pro preserves long-form work in open, portable structures with a public viewer, per-npub library pages, and long-term stewardship for creators who want their work to outlive feeds and client churn.]]></description>
       <category>kind:30023</category>
       <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Pro — Sovereign Publishing, Permanently Archived Under Continuum Stewardship</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=36ca6f765409dd5fa947e5bd85fb4f09b0fcfb61daafc02b66f4f5f201b897bd</link>
-      <guid isPermaLink="false">36ca6f765409dd5fa947e5bd85fb4f09b0fcfb61daafc02b66f4f5f201b897bd</guid>
-      <pubDate>Sat, 22 Nov 2025 03:43:18 GMT</pubDate>
-      <description><![CDATA[Continuum Pro is a managed, sovereign archival service for Nostr long-form (kind:30023) events. It creates a permanent, relay-independent archive under nostr.mycontinuum.xyz, with year-based directories per npub, a static HTML viewer, a global index, and full access to all paid articles, plus the local Continuum app for unlimited identity management.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
       <category>paid:false</category>
     </item>
   </channel>

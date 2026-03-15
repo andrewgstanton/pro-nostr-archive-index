@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 15 Mar 2026 04:57:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 05:26:05 GMT</lastBuildDate>
+    <item>
+      <title>Sabbath and the Promise of the New Creation</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=8d215e561adeaf90524c5a8aadef132d6c89689ef41a1f1712de0b3514e36a5e</link>
+      <guid isPermaLink="false">8d215e561adeaf90524c5a8aadef132d6c89689ef41a1f1712de0b3514e36a5e</guid>
+      <pubDate>Sun, 15 Mar 2026 05:06:43 GMT</pubDate>
+      <description><![CDATA[The Sabbath is not only a command about rest; it is a sign pointing toward the future restoration of all things. Each Sabbath serves as a small foretaste of the New Creation, when the broken rhythms of the present world will finally be healed.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Taxes, Labor, and the Limits of the State</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=d98d1d7b3d8f9f454a9ed7b159445d2340611a848789dea0496c63388c65dd0f</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">318da919fac16186daae29edc24ff3613d31c878aeb292d9f7cd1309019c43fb</guid>
       <pubDate>Sat, 17 Jan 2026 06:04:15 GMT</pubDate>
       <description><![CDATA[Audiences fluctuate. Platforms decay. Timelines endure. This essay explains why a complete, verifiable personal archive is more valuable than any follower count—and why future-you is the most important reader you will ever have.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 You Can Rebuild Everything From Public Memory — That Changes the Game</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=811ffd34e6f9f1f3e19545822068067e9b501642e5025e2f3c2738328ec640fd</link>
-      <guid isPermaLink="false">811ffd34e6f9f1f3e19545822068067e9b501642e5025e2f3c2738328ec640fd</guid>
-      <pubDate>Sat, 17 Jan 2026 06:03:33 GMT</pubDate>
-      <description><![CDATA[What happens when your entire publishing system can be erased—and rebuilt—from public memory alone? This essay explores why true durability is not about backups, platforms, or promises of permanence, but about regenerability. Rehydration changes the power dynamics of publishing, identity, and creative ownership in a way most people still don’t see.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

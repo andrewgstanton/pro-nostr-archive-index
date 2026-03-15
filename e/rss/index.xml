@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 15 Mar 2026 04:57:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 05:26:05 GMT</lastBuildDate>
+    <item>
+      <title>Sabbath and the Promise of the New Creation</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=8d215e561adeaf90524c5a8aadef132d6c89689ef41a1f1712de0b3514e36a5e</link>
+      <guid isPermaLink="false">8d215e561adeaf90524c5a8aadef132d6c89689ef41a1f1712de0b3514e36a5e</guid>
+      <pubDate>Sun, 15 Mar 2026 05:06:43 GMT</pubDate>
+      <description><![CDATA[The Sabbath is not only a command about rest; it is a sign pointing toward the future restoration of all things. Each Sabbath serves as a small foretaste of the New Creation, when the broken rhythms of the present world will finally be healed.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Taxes, Labor, and the Limits of the State</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=d98d1d7b3d8f9f454a9ed7b159445d2340611a848789dea0496c63388c65dd0f</link>
@@ -4994,16 +5004,6 @@
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Shipping applications without funding: an async, open-source- inspired model using equity (HSD)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a8ddd721b9602301d6d241cac2b75eef1acc1e542e67bc2b59ddca50f2b798dc</link>
-      <guid isPermaLink="false">a8ddd721b9602301d6d241cac2b75eef1acc1e542e67bc2b59ddca50f2b798dc</guid>
-      <pubDate>Sat, 17 Jan 2026 22:27:10 GMT</pubDate>
-      <description><![CDATA[Indie Hacker original post on 1/12/2026]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1f0psz3mmjdtm0qlr786jz5w6pkw4my2s9j026s334ahgdjsfa4ssx8qcp5</category>
       <category>paid:false</category>
     </item>
   </channel>
