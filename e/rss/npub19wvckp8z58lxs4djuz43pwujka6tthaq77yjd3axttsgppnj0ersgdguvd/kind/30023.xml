@@ -5,9 +5,39 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 14 Mar 2026 22:21:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 03:52:51 GMT</lastBuildDate>
     <item>
-      <title>kind:30023 4fbd504b8d</title>
+      <title>Fiat Money and the Acceleration of Time</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a618f91e91df209bcec7dc4aae7880c8fc301baec5f3711ee3402897c327352a</link>
+      <guid isPermaLink="false">a618f91e91df209bcec7dc4aae7880c8fc301baec5f3711ee3402897c327352a</guid>
+      <pubDate>Sun, 15 Mar 2026 03:41:33 GMT</pubDate>
+      <description><![CDATA[Monetary systems influence how societies perceive time. Inflationary fiat systems encourage acceleration and short-term thinking, while the Sabbath rhythm introduces a counter-pattern that restores patience and perspective.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Taxes, Labor, and the Limits of the State</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c165ee999263444ba431ba1a173d10861a5670eec0d69ed77365517a47223ffa</link>
+      <guid isPermaLink="false">c165ee999263444ba431ba1a173d10861a5670eec0d69ed77365517a47223ffa</guid>
+      <pubDate>Sun, 15 Mar 2026 03:21:34 GMT</pubDate>
+      <description><![CDATA[Throughout history, taxation has expanded alongside state power. From a libertarian perspective, much of modern taxation resembles a form of compelled labor. The biblical concept of Sabbath introduces a powerful counter-principle: human time ultimately belongs to God, not to political authorities.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Sabbath in an Inflationary World</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3e3630bc33f51504cd21a08f4f5de073cd6c6b1ea3c2ac183426d2abc7b2f4c9</link>
+      <guid isPermaLink="false">3e3630bc33f51504cd21a08f4f5de073cd6c6b1ea3c2ac183426d2abc7b2f4c9</guid>
+      <pubDate>Sun, 15 Mar 2026 02:23:41 GMT</pubDate>
+      <description><![CDATA[Inflation reshapes how people think about time, labor, and security. When money loses value, the system quietly pressures individuals toward constant activity and acceleration. The biblical rhythm of Sabbath interrupts that pressure by reminding us that provision does not ultimately come from endless economic striving.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Running Continuum — Common Questions</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=4fbd504b8d578a251532532a38e43594ce92f170b1c9551da142720f2045eb55</link>
       <guid isPermaLink="false">4fbd504b8d578a251532532a38e43594ce92f170b1c9551da142720f2045eb55</guid>
       <pubDate>Fri, 13 Mar 2026 19:59:58 GMT</pubDate>
@@ -17,7 +47,7 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>kind:30023 6b17646711</title>
+      <title>Work With Andrew — Sovereign Identity + AI-Native Architecture</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=6b176467115b10c7dfc7a09acb93abdfa453f53ca4e96d89d043124e1d9614e1</link>
       <guid isPermaLink="false">6b176467115b10c7dfc7a09acb93abdfa453f53ca4e96d89d043124e1d9614e1</guid>
       <pubDate>Fri, 13 Mar 2026 04:32:00 GMT</pubDate>
@@ -27,31 +57,31 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>kind:30023 7fbf0367c4</title>
+      <title>Local Generation Is Not the Same as Local Sovereignty</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=7fbf0367c4ca5327417481fd0543e6c2a693327a5fc3bd3028e43b9929a7f83b</link>
       <guid isPermaLink="false">7fbf0367c4ca5327417481fd0543e6c2a693327a5fc3bd3028e43b9929a7f83b</guid>
       <pubDate>Fri, 13 Mar 2026 04:08:53 GMT</pubDate>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[AI tools can now generate entire applications locally, but generation alone does not guarantee sovereignty. True local-first systems preserve custody of identity, data, and history.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
     <item>
-      <title>kind:30023 4433b1b1bf</title>
+      <title>Sovereign Custody as a Design Principle</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=4433b1b1bf30589ca6f95814c52b372d5f65d458f7d75d0c3516d86de14fa3ee</link>
       <guid isPermaLink="false">4433b1b1bf30589ca6f95814c52b372d5f65d458f7d75d0c3516d86de14fa3ee</guid>
       <pubDate>Fri, 13 Mar 2026 04:07:55 GMT</pubDate>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[As AI accelerates software development, the most important architectural question may become who holds custody of identity and data.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
     <item>
-      <title>kind:30023 1ef5dbde01</title>
+      <title>The Illusion of Local Software</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=1ef5dbde012625df1eb8e7cbd0ce4ac4977cb228949ea8efd8ccfdf5a791da6d</link>
       <guid isPermaLink="false">1ef5dbde012625df1eb8e7cbd0ce4ac4977cb228949ea8efd8ccfdf5a791da6d</guid>
       <pubDate>Fri, 13 Mar 2026 04:07:35 GMT</pubDate>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[Many tools appear local but still depend on external infrastructure. True local-first architecture ensures users retain custody of their work.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
@@ -4972,36 +5002,6 @@
       <guid isPermaLink="false">bc27e0751b6f4954ea00eb27b50a513959b4ba2ca20d0bd028ac96885027e18b</guid>
       <pubDate>Sat, 15 Nov 2025 21:59:14 GMT</pubDate>
       <description><![CDATA[Nostr ia a truly decentralized open protocol for publishing signed events.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Bitcoin: Property, Not a Security — Why the Distinction Matters (full version)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d4a33c8df2710b51cb0cb343baf270fcef6ca92034b46890513963d60ac08906</link>
-      <guid isPermaLink="false">d4a33c8df2710b51cb0cb343baf270fcef6ca92034b46890513963d60ac08906</guid>
-      <pubDate>Sat, 15 Nov 2025 21:51:43 GMT</pubDate>
-      <description><![CDATA[Understanding the differerence between a property and a security is crucial to understanding why bitcoin should not be considered just another "crypto" asset.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Bitcoin: Property, Not a Security — Why It Matters (condensed)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0562c45908407f98fe487be3051454fdcdbd5ce6a5521f43c39f9fc344405ed3</link>
-      <guid isPermaLink="false">0562c45908407f98fe487be3051454fdcdbd5ce6a5521f43c39f9fc344405ed3</guid>
-      <pubDate>Sat, 15 Nov 2025 21:50:26 GMT</pubDate>
-      <description><![CDATA[Most altcoins, tokens, and NFTs are **securities** under the Howey Test. The crypto industry blurs this line to ride Bitcoin’s credibility without earning it.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🛠️ Continuum: The First 60 Days</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=12733d2fc50ebc4341fa1ec938a26579c2237420a77fa6496fe9d5259d347be4</link>
-      <guid isPermaLink="false">12733d2fc50ebc4341fa1ec938a26579c2237420a77fa6496fe9d5259d347be4</guid>
-      <pubDate>Sat, 15 Nov 2025 21:47:42 GMT</pubDate>
-      <description><![CDATA[From a simple README to a fully sovereign publishing stack — this is the story of how Continuum was born. In just 60 days, we’ve built a local-first Nostr app with multi-identity support, publishing tools, and hosted dashboards — all without relying on logins, tokens, or platform permissions.  This was built with the help of AI — not to impress, but to liberate. Continuum is a sovereign publishing stack that puts control, identity, and freedom back where it belongs: with you.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
