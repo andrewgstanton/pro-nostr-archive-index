@@ -5,7 +5,7 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 15 Mar 2026 19:49:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 20:40:35 GMT</lastBuildDate>
     <item>
       <title>Sabbath and the Promise of the New Creation</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=8d215e561adeaf90524c5a8aadef132d6c89689ef41a1f1712de0b3514e36a5e</link>
@@ -2727,11 +2727,11 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>Free Article 2 (Dec. 22, 2025): The Bitcoin Chronicles - 1.A.1.1.2 - Exit Velocity</title>
+      <title>kind:30023 a380946e24</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=a380946e2455660f7b124c2dffec869a12cce48df3e79de114b7c2c60fe0857d</link>
       <guid isPermaLink="false">a380946e2455660f7b124c2dffec869a12cce48df3e79de114b7c2c60fe0857d</guid>
       <pubDate>Mon, 22 Dec 2025 23:11:26 GMT</pubDate>
-      <description><![CDATA[As Earth’s launch controls tighten, Commander Isaac Bell encounters a departure request that is flawless in every technical sense. The problem is not safety, risk, or compliance — it is timing. Approval would signal that coordinated exit is still possible.  *Exit Velocity* explores the moment Bell realizes that enforcement is no longer preserving order, but postponing its reckoning. What he denies is not a launch, but a future he can no longer imagine surviving intact.]]></description>
+      <description><![CDATA[]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
