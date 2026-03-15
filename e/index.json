@@ -1,5 +1,17 @@
 [
   {
+    "slug": "building-continuum---manuscript-draft-march-15-2026",
+    "event_id": "b47e1db82a0a4bcc6e8d2d3bc2ae3663fabeaf1fab0cde69e672fd7ac9b6f3dc",
+    "created_at": 1773607749,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/b47e1db82a0a4bcc6e8d2d3bc2ae3663fabeaf1fab0cde69e672fd7ac9b6f3dc.json",
+    "title": "Building Continuum - Manuscript Draft (March 15, 2026)",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
     "slug": "continuum-outline-revised---2262026",
     "event_id": "b931912ec5362d7b26bd4a7ecccc8926962375dc4027f9cc2924bc39acd67610",
     "created_at": 1773606793,
@@ -9366,8 +9378,8 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 30023,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/a380946e2455660f7b124c2dffec869a12cce48df3e79de114b7c2c60fe0857d.json",
-    "title": "",
-    "summary": "",
+    "title": "Free Article 2 (Dec. 22, 2025): The Bitcoin Chronicles - 1.A.1.1.2 - Exit Velocity",
+    "summary": "As Earth’s launch controls tighten, Commander Isaac Bell encounters a departure request that is flawless in every technical sense. The problem is not safety, risk, or compliance — it is timing. Approval would signal that coordinated exit is still possible.  *Exit Velocity* explores the moment Bell realizes that enforcement is no longer preserving order, but postponing its reckoning. What he denies is not a launch, but a future he can no longer imagine surviving intact.",
     "paid": false
   },
   {
