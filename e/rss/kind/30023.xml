@@ -5,7 +5,7 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 15 Mar 2026 08:24:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 18:47:42 GMT</lastBuildDate>
     <item>
       <title>Sabbath and the Promise of the New Creation</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=8d215e561adeaf90524c5a8aadef132d6c89689ef41a1f1712de0b3514e36a5e</link>
@@ -3567,11 +3567,11 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>Continuum Magazine - Issue #9 (Oct. 27-Nov. 2, 2025)</title>
+      <title>kind:30023 26b86b7c3d</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=26b86b7c3d78c39435ac3fa159006947c956ea8f5a580b6d90f7082bcda75a41</link>
       <guid isPermaLink="false">26b86b7c3d78c39435ac3fa159006947c956ea8f5a580b6d90f7082bcda75a41</guid>
       <pubDate>Sat, 13 Dec 2025 05:14:38 GMT</pubDate>
-      <description><![CDATA[# 9.  This issue of Continuum Magazine brings together the Oct.27-Nov.2, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction.]]></description>
+      <description><![CDATA[]]></description>
       <category>kind:30023</category>
       <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
       <category>paid:false</category>
