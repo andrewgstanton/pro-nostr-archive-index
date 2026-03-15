@@ -1,5 +1,29 @@
 [
   {
+    "slug": "continuum-outline-revised---2262026",
+    "event_id": "4007c5ec903de92589d65731633e2b9329f1edc759dc9690d425e479317662ff",
+    "created_at": 1773613104,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/4007c5ec903de92589d65731633e2b9329f1edc759dc9690d425e479317662ff.json",
+    "title": "Continuum Outline (Revised - 3/15/2026)",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
+    "slug": "building-continuum---manuscript-draft-march-15-2026",
+    "event_id": "01709577449aa8e0ec667d46c0272a6f2cd46c5e5e68d9f2e898dc81c4bedfe5",
+    "created_at": 1773613082,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/01709577449aa8e0ec667d46c0272a6f2cd46c5e5e68d9f2e898dc81c4bedfe5.json",
+    "title": "Building Continuum - Manuscript Draft (March 15, 2026)",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
     "slug": "building-continuum---manuscript-draft-march-15-2026",
     "event_id": "bad2d33be776c3de033b759b883f1838c6fbf385e1a1fa7a2415842bf402c76b",
     "created_at": 1773611841,
