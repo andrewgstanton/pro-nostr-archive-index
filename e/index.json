@@ -1,6 +1,18 @@
 [
   {
     "slug": "building-continuum---manuscript-draft-march-15-2026",
+    "event_id": "30c94f367336e8be4296624d88acfdcf5ea78571f14da809e45f81e66174d023",
+    "created_at": 1773620092,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/30c94f367336e8be4296624d88acfdcf5ea78571f14da809e45f81e66174d023.json",
+    "title": "Building Continuum - Manuscript Draft (March 15, 2026)",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
+    "slug": "building-continuum---manuscript-draft-march-15-2026",
     "event_id": "a88f3edcd32c00a5127a67c90e21c51ffc5fc44c11405a7fe31773fa9fd6f3b0",
     "created_at": 1773616641,
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
@@ -3719,8 +3731,8 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 30023,
     "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/18d0fc1559eab80f170e13f03f868851264495ae8bb3e278422d38d526277f30.json",
-    "title": "🔒 The Bitcoin Chroncles - Arc 2.F.1 - The Custodians of Delay",
-    "summary": "Entanglement did not eliminate distance — it eliminated delay once infrastructure was seeded. After sub-light pioneers carried the first entangled bridges outward, simultaneity became operational between worlds. But institutions built on latency began to resist. This installment explores how delay once structured power, why instant settlement destabilizes hierarchy, and how the struggle over finality reshapes interplanetary sovereignty.",
+    "title": "",
+    "summary": "",
     "paid": false
   },
   {
