@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 16 Mar 2026 19:29:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 02:21:23 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 88eb751951</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=88eb751951a1b3ffe68f66b87c1458ea3db349c2a86eeb074366edd9030e9a50</link>
+      <guid isPermaLink="false">88eb751951a1b3ffe68f66b87c1458ea3db349c2a86eeb074366edd9030e9a50</guid>
+      <pubDate>Mon, 16 Mar 2026 16:53:17 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Sabbath and the Promise of the New Creation</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=8d215e561adeaf90524c5a8aadef132d6c89689ef41a1f1712de0b3514e36a5e</link>
@@ -4991,16 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=a7d256a04c9c4cddcb6452859f6d80bdca26a0f6b5b0f335fe4c0c719d546908</link>
       <guid isPermaLink="false">a7d256a04c9c4cddcb6452859f6d80bdca26a0f6b5b0f335fe4c0c719d546908</guid>
       <pubDate>Sun, 18 Jan 2026 00:05:45 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Archiving Service</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=edc76d3b7ef727dea449153f0627391bf4c1578c2d08102379f206ccfa95b7cd</link>
-      <guid isPermaLink="false">edc76d3b7ef727dea449153f0627391bf4c1578c2d08102379f206ccfa95b7cd</guid>
-      <pubDate>Sat, 17 Jan 2026 23:34:39 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>

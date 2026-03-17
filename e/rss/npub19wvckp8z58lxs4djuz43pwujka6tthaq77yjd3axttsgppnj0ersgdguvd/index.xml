@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 16 Mar 2026 19:29:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 02:21:23 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 88eb751951</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=88eb751951a1b3ffe68f66b87c1458ea3db349c2a86eeb074366edd9030e9a50</link>
+      <guid isPermaLink="false">88eb751951a1b3ffe68f66b87c1458ea3db349c2a86eeb074366edd9030e9a50</guid>
+      <pubDate>Mon, 16 Mar 2026 16:53:17 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Sabbath and the Promise of the New Creation</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=8d215e561adeaf90524c5a8aadef132d6c89689ef41a1f1712de0b3514e36a5e</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">1c8d72f9b161619ab40e6cbc961861f880af0624a0dc35b41fe5ff030efc1cd9</guid>
       <pubDate>Sat, 17 Jan 2026 19:40:44 GMT</pubDate>
       <description><![CDATA[Not everything needs to be measured, improved, or shipped. Some of the most important work happens when we stop adjusting the dials and allow ideas — and ourselves — to rest. This is a reflection on choosing slowness, limits, and unfinishedness, especially when the world keeps nudging us to do more.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Owning the Timeline: Why My Archive Matters More Than My Audience</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=318da919fac16186daae29edc24ff3613d31c878aeb292d9f7cd1309019c43fb</link>
-      <guid isPermaLink="false">318da919fac16186daae29edc24ff3613d31c878aeb292d9f7cd1309019c43fb</guid>
-      <pubDate>Sat, 17 Jan 2026 06:04:15 GMT</pubDate>
-      <description><![CDATA[Audiences fluctuate. Platforms decay. Timelines endure. This essay explains why a complete, verifiable personal archive is more valuable than any follower count—and why future-you is the most important reader you will ever have.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
