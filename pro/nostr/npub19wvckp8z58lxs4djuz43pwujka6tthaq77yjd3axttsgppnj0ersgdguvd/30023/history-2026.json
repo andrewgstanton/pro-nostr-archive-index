@@ -1823,5 +1823,50 @@
     "event_id": "fc409958545799c25f6555e5b25adec65af7e8e24e5d4a37e5fb000f3b2e49fd",
     "created_at": 1773774870,
     "published": false
+  },
+  {
+    "slug": "working-through-resistance",
+    "event_id": "cc7a9904cbcb066b37565452801545f876382acb67a4189f2517820fc70cd141",
+    "created_at": 1773790838
+  },
+  {
+    "slug": "when-momentum-feels-fragile",
+    "event_id": "8c156bed63ab78f9a84dab2de172ad1bbb8e2e69183e515898eb61f4592b8e23",
+    "created_at": 1773790882
+  },
+  {
+    "slug": "choosing-depth-over-noise",
+    "event_id": "fc862b7456f82aef8784d559ead05615d4d4de12a0de467aa9c2f12a2b9d435d",
+    "created_at": 1773790939
+  },
+  {
+    "slug": "the-weight-of-finishing-something-real",
+    "event_id": "112ab201aa6c76bc1b4fbbc85ec738cae6a4725c99d2a3c8635e40911d8de24b",
+    "created_at": 1773791121
+  },
+  {
+    "slug": "clearing-space-to-continue",
+    "event_id": "d39ec2332177182464eda302cc71c07a9fc364209683a114c205f47fe4be6a32",
+    "created_at": 1773791322
+  },
+  {
+    "slug": "when-the-work-becomes-cohesive",
+    "event_id": "593adec2b8b45941fe723e7f86194017badb22738153c259b802f045844ff144",
+    "created_at": 1773791602
+  },
+  {
+    "slug": "finishing-without-applause",
+    "event_id": "cebb2e9d593e402c3aa19c67e3c389d7b5d4084e75953d0a0131d3f92ba0f177",
+    "created_at": 1773791743
+  },
+  {
+    "slug": "systems-that-outlast-attention",
+    "event_id": "a0e9457fb744a55feaabe03b52d77348a50512957792854dc9e231289aefbb32",
+    "created_at": 1773791773
+  },
+  {
+    "slug": "quiet-completion-vs-public-validation",
+    "event_id": "6d1e0a3b2e9d7a634f954bdcf02506760ae78f2bde9fd70eba9f336980a6576e",
+    "created_at": 1773791806
   }
 ]
