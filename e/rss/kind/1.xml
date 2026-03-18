@@ -5,7 +5,57 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 17 Mar 2026 22:39:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 17:25:49 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 085601b1fc</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=085601b1fc204b9e6f037bb7037e4a6355f8aec760e16d820d50a169ce9b9c08</link>
+      <guid isPermaLink="false">085601b1fc204b9e6f037bb7037e4a6355f8aec760e16d820d50a169ce9b9c08</guid>
+      <pubDate>Tue, 17 Mar 2026 23:20:36 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 45b8fd6fda</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=45b8fd6fda1c7ee3fb02323f8c97ecf1f96c02378e76ecf3822a9e560c373250</link>
+      <guid isPermaLink="false">45b8fd6fda1c7ee3fb02323f8c97ecf1f96c02378e76ecf3822a9e560c373250</guid>
+      <pubDate>Tue, 17 Mar 2026 23:20:02 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 914d859a64</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=914d859a641f8b7af425e01999c6b9491ad5c380551da7b3f1930093cea5b7d3</link>
+      <guid isPermaLink="false">914d859a641f8b7af425e01999c6b9491ad5c380551da7b3f1930093cea5b7d3</guid>
+      <pubDate>Tue, 17 Mar 2026 23:19:17 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 fc128e68c9</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=fc128e68c9d605946169fe44e8a3dce4fb554242a9775347f628a9cb27650ce6</link>
+      <guid isPermaLink="false">fc128e68c9d605946169fe44e8a3dce4fb554242a9775347f628a9cb27650ce6</guid>
+      <pubDate>Tue, 17 Mar 2026 23:17:47 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 5939ecebfb</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5939ecebfbde5b3c7ce8ec14ba727e3731896246f61c5ce4871c3c76f99ae12d</link>
+      <guid isPermaLink="false">5939ecebfbde5b3c7ce8ec14ba727e3731896246f61c5ce4871c3c76f99ae12d</guid>
+      <pubDate>Tue, 17 Mar 2026 23:17:01 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 af2fd0483d</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=af2fd0483d1a07adc0de798f3c25a3f8ad2f7d8f5ab5a3ee0ec886873ff2d1e0</link>
@@ -4951,56 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=16c4fbae0d14df8068077f1509f14889690bdcdd5737245b672c0dbc4d4e313b</link>
       <guid isPermaLink="false">16c4fbae0d14df8068077f1509f14889690bdcdd5737245b672c0dbc4d4e313b</guid>
       <pubDate>Sun, 14 Sep 2025 21:05:04 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>MLM and Web3: Two Sides of the Same Pyramid</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=556f365160619a506452723c651967a1a58dae3f8810eb31887fdae57aa641f9</link>
-      <guid isPermaLink="false">556f365160619a506452723c651967a1a58dae3f8810eb31887fdae57aa641f9</guid>
-      <pubDate>Sat, 13 Sep 2025 19:48:39 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Magazine — Issue #1 (Sept 1–7, 2025)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6bceab8e077eecaca106bdaa5d382cea1a813628d5cd9005852fbe881277bf12</link>
-      <guid isPermaLink="false">6bceab8e077eecaca106bdaa5d382cea1a813628d5cd9005852fbe881277bf12</guid>
-      <pubDate>Fri, 12 Sep 2025 21:05:10 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Magazine — Issue #1 (Sept 1–7, 2025)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=8c59f2c0e3926e26ac53e29d21f92d903d9b83c6a58b789c8e7213bd6ded1b0b</link>
-      <guid isPermaLink="false">8c59f2c0e3926e26ac53e29d21f92d903d9b83c6a58b789c8e7213bd6ded1b0b</guid>
-      <pubDate>Fri, 12 Sep 2025 21:03:37 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sept. 9, 2025</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c9245928510ddb7ee69916b7efb5fec7e43977034a15c7b8eab037d6eccc466d</link>
-      <guid isPermaLink="false">c9245928510ddb7ee69916b7efb5fec7e43977034a15c7b8eab037d6eccc466d</guid>
-      <pubDate>Fri, 12 Sep 2025 03:45:39 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sept. 10, 2025 - Charlie Kirk</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b74a1613e05819d4edac83a0d468c96bcf6a9377158f8afdb8c394cd637d26dc</link>
-      <guid isPermaLink="false">b74a1613e05819d4edac83a0d468c96bcf6a9377158f8afdb8c394cd637d26dc</guid>
-      <pubDate>Fri, 12 Sep 2025 03:40:27 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>

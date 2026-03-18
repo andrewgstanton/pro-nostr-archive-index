@@ -5,7 +5,97 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 17 Mar 2026 22:39:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 17:25:49 GMT</lastBuildDate>
+    <item>
+      <title>Quiet Completion vs Public Validation</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6d1e0a3b2e9d7a634f954bdcf02506760ae78f2bde9fd70eba9f336980a6576e</link>
+      <guid isPermaLink="false">6d1e0a3b2e9d7a634f954bdcf02506760ae78f2bde9fd70eba9f336980a6576e</guid>
+      <pubDate>Tue, 17 Mar 2026 23:56:46 GMT</pubDate>
+      <description><![CDATA[This piece contrasts the internal act of finishing meaningful work with the external desire for validation, and why the former must come first.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Systems That Outlast Attention</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a0e9457fb744a55feaabe03b52d77348a50512957792854dc9e231289aefbb32</link>
+      <guid isPermaLink="false">a0e9457fb744a55feaabe03b52d77348a50512957792854dc9e231289aefbb32</guid>
+      <pubDate>Tue, 17 Mar 2026 23:56:13 GMT</pubDate>
+      <description><![CDATA[Attention is fleeting, but systems endure. This article reflects on the difference between producing content for visibility and building structures that persist beyond the moment.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Finishing Without Applause</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=cebb2e9d593e402c3aa19c67e3c389d7b5d4084e75953d0a0131d3f92ba0f177</link>
+      <guid isPermaLink="false">cebb2e9d593e402c3aa19c67e3c389d7b5d4084e75953d0a0131d3f92ba0f177</guid>
+      <pubDate>Tue, 17 Mar 2026 23:55:43 GMT</pubDate>
+      <description><![CDATA[What does it mean to complete something without recognition? This piece explores the discipline of finishing work in silence, where validation is absent and conviction becomes the only guide.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>When the Work Becomes Cohesive</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=593adec2b8b45941fe723e7f86194017badb22738153c259b802f045844ff144</link>
+      <guid isPermaLink="false">593adec2b8b45941fe723e7f86194017badb22738153c259b802f045844ff144</guid>
+      <pubDate>Tue, 17 Mar 2026 23:53:22 GMT</pubDate>
+      <description><![CDATA[There is a point where scattered efforts begin to form a unified whole. This article explores the transition from fragmented output to cohesive structure.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Clearing Space to Continue</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d39ec2332177182464eda302cc71c07a9fc364209683a114c205f47fe4be6a32</link>
+      <guid isPermaLink="false">d39ec2332177182464eda302cc71c07a9fc364209683a114c205f47fe4be6a32</guid>
+      <pubDate>Tue, 17 Mar 2026 23:48:42 GMT</pubDate>
+      <description><![CDATA[Sometimes progress requires removing friction rather than adding effort. This article reflects on clearing space—physically and mentally—to enable forward movement.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Weight of Finishing Something Real</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=112ab201aa6c76bc1b4fbbc85ec738cae6a4725c99d2a3c8635e40911d8de24b</link>
+      <guid isPermaLink="false">112ab201aa6c76bc1b4fbbc85ec738cae6a4725c99d2a3c8635e40911d8de24b</guid>
+      <pubDate>Tue, 17 Mar 2026 23:45:21 GMT</pubDate>
+      <description><![CDATA[Finishing meaningful work carries a different kind of weight than starting. This article explores the quiet gravity of completion, especially when the work represents more than output—it represents endurance, clarity, and alignment.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Choosing Depth Over Noise</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=fc862b7456f82aef8784d559ead05615d4d4de12a0de467aa9c2f12a2b9d435d</link>
+      <guid isPermaLink="false">fc862b7456f82aef8784d559ead05615d4d4de12a0de467aa9c2f12a2b9d435d</guid>
+      <pubDate>Tue, 17 Mar 2026 23:42:19 GMT</pubDate>
+      <description><![CDATA[In a world saturated with information, depth becomes a deliberate choice. This article reflects on the decision to focus deeply rather than react constantly.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>When Momentum Feels Fragile</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=8c156bed63ab78f9a84dab2de172ad1bbb8e2e69183e515898eb61f4592b8e23</link>
+      <guid isPermaLink="false">8c156bed63ab78f9a84dab2de172ad1bbb8e2e69183e515898eb61f4592b8e23</guid>
+      <pubDate>Tue, 17 Mar 2026 23:41:22 GMT</pubDate>
+      <description><![CDATA[Momentum can feel powerful, but it is often more fragile than it appears. This article examines how easily progress can be disrupted—and how to stabilize it.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Working Through Resistance</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=cc7a9904cbcb066b37565452801545f876382acb67a4189f2517820fc70cd141</link>
+      <guid isPermaLink="false">cc7a9904cbcb066b37565452801545f876382acb67a4189f2517820fc70cd141</guid>
+      <pubDate>Tue, 17 Mar 2026 23:40:38 GMT</pubDate>
+      <description><![CDATA[Resistance often appears when work begins to matter. This article explores the nature of internal friction—not as a signal to stop, but as a signal that something meaningful is being formed.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Sabbath and the Promise of the New Creation</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=8d215e561adeaf90524c5a8aadef132d6c89689ef41a1f1712de0b3514e36a5e</link>
@@ -4912,96 +5002,6 @@
       <guid isPermaLink="false">59fa73b68f74aec6aa668d320f4498c02845e0e59a1b33953f4c9af0fe2bc3b1</guid>
       <pubDate>Mon, 17 Nov 2025 04:29:11 GMT</pubDate>
       <description><![CDATA[The moment a system becomes permanent, the creator changes too. This article reflects on what happens to a builder once the architecture finally holds — how permanence reshapes identity, decisions, and the future itself.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 14, 2025): When Every System Feels Like Friction</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a91c2acc7a6933cbebc669c23a070219105a885a37b5d71a3e9f1adf876854bb</link>
-      <guid isPermaLink="false">a91c2acc7a6933cbebc669c23a070219105a885a37b5d71a3e9f1adf876854bb</guid>
-      <pubDate>Mon, 17 Nov 2025 03:39:00 GMT</pubDate>
-      <description><![CDATA[On a day when nothing seemed to work — from vanished Nostr events to dead-end posts on Nextdoor — I found myself confronting the truth about walled gardens and why sovereign tools feel so hard in the beginning]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 14, 2025): When Your Oldest Words Start Disappearing</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b28700d16c561f574c16200d3ce7dea142844be5af26e754c3cff8b70a5de0b7</link>
-      <guid isPermaLink="false">b28700d16c561f574c16200d3ce7dea142844be5af26e754c3cff8b70a5de0b7</guid>
-      <pubDate>Mon, 17 Nov 2025 03:30:43 GMT</pubDate>
-      <description><![CDATA[he quiet panic of discovering that my earliest Nostr events — only months old — had vanished from every relay except Primal’s backup. A reflection on fragility, fatigue, and why Friday set the stage for Saturday’s breakthrough.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>CW3 (Christians in Web3) Through Four Ethical Lenses — A Vision for Alignment</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f05be55b0ae6a57de2de45f876c355ab0b89dbde4f9bdb436be0057bf2f1e1c3</link>
-      <guid isPermaLink="false">f05be55b0ae6a57de2de45f876c355ab0b89dbde4f9bdb436be0057bf2f1e1c3</guid>
-      <pubDate>Sun, 16 Nov 2025 17:30:35 GMT</pubDate>
-      <description><![CDATA[This article evaluates Christians in Web3 (CW3) through four ethical frameworks — utilitarian, rights-based, justice/fairness, and virtue ethics. It contrasts how CW3 currently operates with how it could function if transparency, stewardship, and Kingdom values were prioritized. The vision is constructive: guardrails that reduce harm, uphold rights, ensure fairness, and elevate honesty over hype. Such alignment would make participation more trustworthy and genuinely Kingdom-focused.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Sept. 7, 2025): Why Hope Rises With the Dawn</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=92d64333be438d7c490e444b51b22feeb8a2f82ca579281810cf027f319338f8</link>
-      <guid isPermaLink="false">92d64333be438d7c490e444b51b22feeb8a2f82ca579281810cf027f319338f8</guid>
-      <pubDate>Sun, 16 Nov 2025 00:57:38 GMT</pubDate>
-      <description><![CDATA[A hopeful meditation on dawn as a symbol of renewal. Connects Bitcoin and sovereignty to the daily rhythm of light overcoming darkness, reminding readers that hope is always possible.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Truth Reveals Itself in Paradoxes</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=68239647fa98468de67c35ba5969c876bcfb7ce8ed0eeb2de282bb549adcc870</link>
-      <guid isPermaLink="false">68239647fa98468de67c35ba5969c876bcfb7ce8ed0eeb2de282bb549adcc870</guid>
-      <pubDate>Sun, 16 Nov 2025 00:49:01 GMT</pubDate>
-      <description><![CDATA[This article explores how truth often reveals itself in paradox — from the paradoxes of creation and physics, to theology, history, and human innovation. From light being both particle and wave, to the Internet’s origins as a Cold War project of centralization that birthed global decentralization, paradoxes point us to a higher logic beyond human categories. Ultimately, the Cross remains the greatest paradox of all: death that gives life, defeat that is victory.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Case for a Bitcoin Sovereignty Zone in San Francisco</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=8a29a43afdb88c1877d1e5acf6826b00553b6376c43be0ecb406797f1f397072</link>
-      <guid isPermaLink="false">8a29a43afdb88c1877d1e5acf6826b00553b6376c43be0ecb406797f1f397072</guid>
-      <pubDate>Sun, 16 Nov 2025 00:46:25 GMT</pubDate>
-      <description><![CDATA[San Francisco sits on the ancestral lands of the Ohlone people, yet both Native sovereignty and true property ownership have long been denied. This article proposes a **Bitcoin Sovereignty Zone** — even a single city block — where property taxes are suspended or returned locally, residents keep real ownership, and the economy runs on Bitcoin.    Anchored in Ohlone leadership, such a zone would not be reparations or dependency, but **sovereignty in practice**: wealth retained locally, energy turned into freedom, and ownership protected from endless extraction.    Bitcoin makes it possible. The Ohlone make it legitimate. San Francisco makes it visible. (*Written with the help of Dr. C, my AI collaborator and sounding board.*)]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>From Anger to Proof: A Journey with Sovereignty, Hawai‘i, and Bitcoin</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0e35cb1d517f27cf70481c6b33435cc79c63c579b7c504a8350a3c76fd1a7d0e</link>
-      <guid isPermaLink="false">0e35cb1d517f27cf70481c6b33435cc79c63c579b7c504a8350a3c76fd1a7d0e</guid>
-      <pubDate>Sun, 16 Nov 2025 00:45:07 GMT</pubDate>
-      <description><![CDATA[In the late 1980s and early 1990s, while finishing my Physics/Math degree and beginning graduate studies in Electrical Engineering at the University of Hawai‘i, I encountered the Hawaiian sovereignty movement firsthand. I listened to Haunani-Kay Trask’s fiery speeches, read Thurston Twigg-Smith’s *Sovereignty: Do the Facts Matter?*, and felt caught between anger without blueprint and caution without vision.    At the same time, the cypherpunks were beginning to write about cryptography and freedom on obscure mailing lists. Their words were abstract then — but decades later, Bitcoin transformed them into proof.    This essay traces my journey from those days at U.H. to the present, showing how Bitcoin unites Trask’s cry, Twigg-Smith’s caution, and the cypherpunks’ math — turning anger into proof and sovereignty into something we can finally live.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Bitcoin Sovereignty Manifesto for Native Nations</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f8ba848c10d338e26a83946bf97a7722fa0c4ffa4e844aecf389f4236363ec88</link>
-      <guid isPermaLink="false">f8ba848c10d338e26a83946bf97a7722fa0c4ffa4e844aecf389f4236363ec88</guid>
-      <pubDate>Sun, 16 Nov 2025 00:43:12 GMT</pubDate>
-      <description><![CDATA[This manifesto is written in solidarity, not appropriation. As a descendant of Mayflower settlers who grew up in the Pacific, I have long resonated with displaced peoples — Jews, Hawaiians, Native Nations — whose sovereignty was denied but never erased.  The message is simple: sovereignty matters for all of us. What was once taken openly from Native Nations is now being eroded quietly from everyone through fiat money, surveillance, and dependency.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>First Fruits: How the Victorious Gospel and Bitcoin Share the Same Story</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=99468f1b191ac2f83cd9994c4c31351b4a46909324d557b18b7a7f1cfa843c97</link>
-      <guid isPermaLink="false">99468f1b191ac2f83cd9994c4c31351b4a46909324d557b18b7a7f1cfa843c97</guid>
-      <pubDate>Sat, 15 Nov 2025 22:10:55 GMT</pubDate>
-      <description><![CDATA[This article draws a parallel between the Victorious Gospel’s teaching of “first fruits” and the emergence of Bitcoin, showing how both follow a pattern of unshakable foundation, early adopters, and inevitable full reach. It explores the role of the “elect” as living witnesses, warns against modern forms of idolatry — from image management to AI worship — and grounds the whole message in humility, giving all glory to Christ.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

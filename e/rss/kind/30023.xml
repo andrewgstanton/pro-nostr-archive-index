@@ -5,7 +5,97 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 17 Mar 2026 22:39:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 17:25:49 GMT</lastBuildDate>
+    <item>
+      <title>Quiet Completion vs Public Validation</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6d1e0a3b2e9d7a634f954bdcf02506760ae78f2bde9fd70eba9f336980a6576e</link>
+      <guid isPermaLink="false">6d1e0a3b2e9d7a634f954bdcf02506760ae78f2bde9fd70eba9f336980a6576e</guid>
+      <pubDate>Tue, 17 Mar 2026 23:56:46 GMT</pubDate>
+      <description><![CDATA[This piece contrasts the internal act of finishing meaningful work with the external desire for validation, and why the former must come first.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Systems That Outlast Attention</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a0e9457fb744a55feaabe03b52d77348a50512957792854dc9e231289aefbb32</link>
+      <guid isPermaLink="false">a0e9457fb744a55feaabe03b52d77348a50512957792854dc9e231289aefbb32</guid>
+      <pubDate>Tue, 17 Mar 2026 23:56:13 GMT</pubDate>
+      <description><![CDATA[Attention is fleeting, but systems endure. This article reflects on the difference between producing content for visibility and building structures that persist beyond the moment.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Finishing Without Applause</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=cebb2e9d593e402c3aa19c67e3c389d7b5d4084e75953d0a0131d3f92ba0f177</link>
+      <guid isPermaLink="false">cebb2e9d593e402c3aa19c67e3c389d7b5d4084e75953d0a0131d3f92ba0f177</guid>
+      <pubDate>Tue, 17 Mar 2026 23:55:43 GMT</pubDate>
+      <description><![CDATA[What does it mean to complete something without recognition? This piece explores the discipline of finishing work in silence, where validation is absent and conviction becomes the only guide.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>When the Work Becomes Cohesive</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=593adec2b8b45941fe723e7f86194017badb22738153c259b802f045844ff144</link>
+      <guid isPermaLink="false">593adec2b8b45941fe723e7f86194017badb22738153c259b802f045844ff144</guid>
+      <pubDate>Tue, 17 Mar 2026 23:53:22 GMT</pubDate>
+      <description><![CDATA[There is a point where scattered efforts begin to form a unified whole. This article explores the transition from fragmented output to cohesive structure.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Clearing Space to Continue</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d39ec2332177182464eda302cc71c07a9fc364209683a114c205f47fe4be6a32</link>
+      <guid isPermaLink="false">d39ec2332177182464eda302cc71c07a9fc364209683a114c205f47fe4be6a32</guid>
+      <pubDate>Tue, 17 Mar 2026 23:48:42 GMT</pubDate>
+      <description><![CDATA[Sometimes progress requires removing friction rather than adding effort. This article reflects on clearing space—physically and mentally—to enable forward movement.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Weight of Finishing Something Real</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=112ab201aa6c76bc1b4fbbc85ec738cae6a4725c99d2a3c8635e40911d8de24b</link>
+      <guid isPermaLink="false">112ab201aa6c76bc1b4fbbc85ec738cae6a4725c99d2a3c8635e40911d8de24b</guid>
+      <pubDate>Tue, 17 Mar 2026 23:45:21 GMT</pubDate>
+      <description><![CDATA[Finishing meaningful work carries a different kind of weight than starting. This article explores the quiet gravity of completion, especially when the work represents more than output—it represents endurance, clarity, and alignment.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Choosing Depth Over Noise</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=fc862b7456f82aef8784d559ead05615d4d4de12a0de467aa9c2f12a2b9d435d</link>
+      <guid isPermaLink="false">fc862b7456f82aef8784d559ead05615d4d4de12a0de467aa9c2f12a2b9d435d</guid>
+      <pubDate>Tue, 17 Mar 2026 23:42:19 GMT</pubDate>
+      <description><![CDATA[In a world saturated with information, depth becomes a deliberate choice. This article reflects on the decision to focus deeply rather than react constantly.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>When Momentum Feels Fragile</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=8c156bed63ab78f9a84dab2de172ad1bbb8e2e69183e515898eb61f4592b8e23</link>
+      <guid isPermaLink="false">8c156bed63ab78f9a84dab2de172ad1bbb8e2e69183e515898eb61f4592b8e23</guid>
+      <pubDate>Tue, 17 Mar 2026 23:41:22 GMT</pubDate>
+      <description><![CDATA[Momentum can feel powerful, but it is often more fragile than it appears. This article examines how easily progress can be disrupted—and how to stabilize it.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Working Through Resistance</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=cc7a9904cbcb066b37565452801545f876382acb67a4189f2517820fc70cd141</link>
+      <guid isPermaLink="false">cc7a9904cbcb066b37565452801545f876382acb67a4189f2517820fc70cd141</guid>
+      <pubDate>Tue, 17 Mar 2026 23:40:38 GMT</pubDate>
+      <description><![CDATA[Resistance often appears when work begins to matter. This article explores the nature of internal friction—not as a signal to stop, but as a signal that something meaningful is being formed.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Sabbath and the Promise of the New Creation</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=8d215e561adeaf90524c5a8aadef132d6c89689ef41a1f1712de0b3514e36a5e</link>
@@ -4914,96 +5004,6 @@
       <description><![CDATA[Both multi-level marketing (MLM) and Web3 projects sell the same dream: financial freedom, lifestyle independence, and passive income. My short stint inside World Financial Group in 2023–2024 helped me recognize the same structural flaws now playing out across Web3. The names and technology change. The math doesn’t.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sunday Article (Nov. 23, 2025): The Resurrection of Ownership: How Bitcoin Rebuilds Credit, Trust, and Real Wealth</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=86279d58af5666db5f37377bc15d617c8cb0724f9caa4ff8639db554305eb703</link>
-      <guid isPermaLink="false">86279d58af5666db5f37377bc15d617c8cb0724f9caa4ff8639db554305eb703</guid>
-      <pubDate>Sat, 22 Nov 2025 21:57:14 GMT</pubDate>
-      <description><![CDATA[A Sunday reflection on renewal — how the pattern of resurrection illuminates the rebirth of ownership in a world shifting from fiat to Bitcoin. This piece explores why ownership has been hollowed out by inflation, debt, and extraction; how hard money restores foundations; how trust re-emerges in communities; and how a Bitcoin economy gives individuals, families, and nations the ability to rise again.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 23, 2025): The End of Forever-Debt: Why 50-Year Mortgages Cannot Exist in a Hard-Money Economy</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0f4298dc2a41c1fffd450de3e1fb249f15e397823c9217d6e4cff75882654a8f</link>
-      <guid isPermaLink="false">0f4298dc2a41c1fffd450de3e1fb249f15e397823c9217d6e4cff75882654a8f</guid>
-      <pubDate>Sat, 22 Nov 2025 21:55:15 GMT</pubDate>
-      <description><![CDATA[A clear, practical explanation of why ultra-long mortgages (40–50 years) are only possible in a fiat system where money can be endlessly created. This article breaks down how inflation subsidizes lenders, how credit distorts home prices, how risk is hidden in securitization, and why a Bitcoin standard forces mortgages to shrink back into reality — shorter, saner, and actually payable within a working lifetime.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 23, 2025): Credit Without Chains: How Trust Re-Forms on a Bitcoin Ledger</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=fca3bd6372e8ec6d4af04528fa004d78a7bd1f7644e369522bcaee0a7ed27c20</link>
-      <guid isPermaLink="false">fca3bd6372e8ec6d4af04528fa004d78a7bd1f7644e369522bcaee0a7ed27c20</guid>
-      <pubDate>Sat, 22 Nov 2025 21:53:40 GMT</pubDate>
-      <description><![CDATA[A practical exploration of how credit evolves in a Bitcoin-denominated economy. This article shows how trust becomes measurable, risks become transparent, lenders regain discipline, and communities regain agency. Instead of FICO scores, predatory interest, and unpayable liabilities, Bitcoin enables small, reputation-based, collateral-light credit systems that strengthen people rather than enslaving them.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 22, 2025): The Extraction Engine: Why Rent-Seeking Built the Modern World</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=515caf550f109a269fe611dac19e45c656fbf658c91448bf78e64a392705c707</link>
-      <guid isPermaLink="false">515caf550f109a269fe611dac19e45c656fbf658c91448bf78e64a392705c707</guid>
-      <pubDate>Sat, 22 Nov 2025 21:51:49 GMT</pubDate>
-      <description><![CDATA[A clear, near-future reflection on how rent-seeking—not production—became the hidden operating system of modern economies. This article examines property taxes, 50-year mortgages, debt spirals, artificial scarcity, and the illusion of ownership, then contrasts it with the emerging Bitcoin paradigm where extraction breaks down and sovereignty returns to individuals.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 22, 2025): Imagining Mortgages in a Bitcoin Standard</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=80418cd99201747592f55223207f17d3ae3540070a574a215eecb7ceaeeef70f</link>
-      <guid isPermaLink="false">80418cd99201747592f55223207f17d3ae3540070a574a215eecb7ceaeeef70f</guid>
-      <pubDate>Sat, 22 Nov 2025 21:49:43 GMT</pubDate>
-      <description><![CDATA[A practical, near-future exploration of how mortgages would evolve under a Bitcoin standard. This article explains why ultra-long loans collapse, why price discovery resets, how lenders protect themselves without inflation, how communities reclaim credit, and how home ownership becomes more attainable—not less—in a hard-money world.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sabbath Article (Nov. 22, 2025): Sabbath for the Sovereign: Resting From the World’s Rent-Extraction System</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5d6c89e754c000d03fc637fcd86c384b7695ac4f0b1a2309a9df5cca4db446f9</link>
-      <guid isPermaLink="false">5d6c89e754c000d03fc637fcd86c384b7695ac4f0b1a2309a9df5cca4db446f9</guid>
-      <pubDate>Sat, 22 Nov 2025 21:47:38 GMT</pubDate>
-      <description><![CDATA[A meditation on the Sabbath principle — not as a religious artifact, but as a universal pattern of rest, resistance, and sovereignty. This article explores why modern people have no economic Sabbath, how perpetual extraction has replaced rest, why Bitcoin functions as a Sabbath-technology, and how reclaiming rest becomes an act of freedom in an age built on debt, interest, and rent.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Can We Eliminate World Debt on a Bitcoin Standard?</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=095273686050b776a1c8e085f3e9d15146a65f2eedf2c4df55daa95cfcb9aa50</link>
-      <guid isPermaLink="false">095273686050b776a1c8e085f3e9d15146a65f2eedf2c4df55daa95cfcb9aa50</guid>
-      <pubDate>Sat, 22 Nov 2025 21:45:35 GMT</pubDate>
-      <description><![CDATA[This article explores whether it’s actually possible to eliminate national and global debt using a Bitcoin standard. It explains what “debt” really means, why our current system mathematically requires ever-growing obligations, and how a transition to hard money would force a restructuring of claims. The conclusion: yes, we can end the era of unpayable debt — but only through a combination of restructuring, partial defaults, and a reset onto honest money, not by magically honoring every fiat IOU.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Announcing Continuum Pro</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0796cf873fc293a8b944670d4dad7e0d3666c09f8a464c8f342db9f1521e5e13</link>
-      <guid isPermaLink="false">0796cf873fc293a8b944670d4dad7e0d3666c09f8a464c8f342db9f1521e5e13</guid>
-      <pubDate>Sat, 22 Nov 2025 03:53:20 GMT</pubDate>
-      <description><![CDATA[Akamaister shares a personal announcement about launching Continuum Pro after months of quiet work, framing it as a solution to the problem of preserving long-form Nostr posts with real permanence. The announcement focuses on sovereignty, archiving, and stability, while a separate teaser note (posted afterward) invites feedback from builders like Odell and fiatjaf. The post also highlights the managed archive, static viewer, and the perk that Pro members receive full access to all paid articles.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Introducing Continuum Pro: A Sovereign Archive for Nostr’s Builders</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a0233a5fa18deab6a920ec8365abe78d1c552c9bd833d71589b215b57f19ca08</link>
-      <guid isPermaLink="false">a0233a5fa18deab6a920ec8365abe78d1c552c9bd833d71589b215b57f19ca08</guid>
-      <pubDate>Sat, 22 Nov 2025 03:46:11 GMT</pubDate>
-      <description><![CDATA[This editorial introduces Continuum Pro as a sovereign archive layer for Nostr’s builders and writers. It explains why relays and clients are not true memory, and how Continuum Pro preserves long-form work in open, portable structures with a public viewer, per-npub library pages, and long-term stewardship for creators who want their work to outlive feeds and client churn.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
       <category>paid:false</category>
     </item>
   </channel>
