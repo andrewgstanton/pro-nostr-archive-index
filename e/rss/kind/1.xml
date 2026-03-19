@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 18 Mar 2026 17:25:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 20:25:52 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 54bb8c137d</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=54bb8c137dfa689419c2567037d4373f6ce4ea0e51b63b95e1b46371277d2ef6</link>
+      <guid isPermaLink="false">54bb8c137dfa689419c2567037d4373f6ce4ea0e51b63b95e1b46371277d2ef6</guid>
+      <pubDate>Wed, 18 Mar 2026 17:34:03 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 085601b1fc</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=085601b1fc204b9e6f037bb7037e4a6355f8aec760e16d820d50a169ce9b9c08</link>
@@ -4991,16 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=af46caaeb09952c11a7eca4d027b40323bccea0fd0f4206c70b040986c5ac61b</link>
       <guid isPermaLink="false">af46caaeb09952c11a7eca4d027b40323bccea0fd0f4206c70b040986c5ac61b</guid>
       <pubDate>Mon, 15 Sep 2025 15:45:09 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 16c4fbae0d</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=16c4fbae0d14df8068077f1509f14889690bdcdd5737245b672c0dbc4d4e313b</link>
-      <guid isPermaLink="false">16c4fbae0d14df8068077f1509f14889690bdcdd5737245b672c0dbc4d4e313b</guid>
-      <pubDate>Sun, 14 Sep 2025 21:05:04 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>

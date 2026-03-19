@@ -1,5 +1,52 @@
 [
   {
+    "slug": "builders-journal---march-18-2026--wednesday",
+    "event_id": "4234741f989369d8d5c57a6584d03b6729cf66b6499e46bf2dfd54c9d2d78817",
+    "created_at": 1773937407,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/4234741f989369d8d5c57a6584d03b6729cf66b6499e46bf2dfd54c9d2d78817.json",
+    "title": "Builder's Journal - March 18, 2026 — Wednesday",
+    "summary": "A mixed day of personal moments, logistical responsibilities, and mounting stress across multiple fronts — financial, household, and relational.",
+    "paid": false,
+    "published": false
+  },
+  {
+    "slug": "builders-journal---march-17-2026--st-patricks-day",
+    "event_id": "9adb706a0602879508cb2c3b9ab381192a5efb50ad65235718d99007c691f1fe",
+    "created_at": 1773937267,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/9adb706a0602879508cb2c3b9ab381192a5efb50ad65235718d99007c691f1fe.json",
+    "title": "Builder's Journal - March 17, 2026 — St. Patrick’s Day",
+    "summary": "A major milestone day. After months of writing, structuring, and refining, *Building Continuum* officially crossed into the publishing phase. This was not just another writing session — it marked the transition from private creation to public distribution.",
+    "paid": false,
+    "published": false
+  },
+  {
+    "slug": "steps-to-prepare-a-download-release-served-on-google-drive-folder-continuum-pro-test",
+    "event_id": "e45d114baa645ebf30e16d62d7350788e2fde5713d52e5d7ee09f2a9aaa8dfb3",
+    "created_at": 1773871425,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/e45d114baa645ebf30e16d62d7350788e2fde5713d52e5d7ee09f2a9aaa8dfb3.json",
+    "title": "Steps to Prepare a Download release (served on Google Drive folder \"continuum-pro-test\"",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
+    "slug": null,
+    "event_id": "54bb8c137dfa689419c2567037d4373f6ce4ea0e51b63b95e1b46371277d2ef6",
+    "created_at": 1773855243,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/54bb8c137dfa689419c2567037d4373f6ce4ea0e51b63b95e1b46371277d2ef6.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "quiet-completion-vs-public-validation",
     "event_id": "6d1e0a3b2e9d7a634f954bdcf02506760ae78f2bde9fd70eba9f336980a6576e",
     "created_at": 1773791806,

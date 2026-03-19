@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 18 Mar 2026 17:25:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 20:25:52 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 54bb8c137d</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=54bb8c137dfa689419c2567037d4373f6ce4ea0e51b63b95e1b46371277d2ef6</link>
+      <guid isPermaLink="false">54bb8c137dfa689419c2567037d4373f6ce4ea0e51b63b95e1b46371277d2ef6</guid>
+      <pubDate>Wed, 18 Mar 2026 17:34:03 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Quiet Completion vs Public Validation</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=6d1e0a3b2e9d7a634f954bdcf02506760ae78f2bde9fd70eba9f336980a6576e</link>
@@ -4991,16 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=55bb6bcb3a6d6fdc2d23e0b15fed8e6065492765e76b8f69ff53b6ffa4c03a20</link>
       <guid isPermaLink="false">55bb6bcb3a6d6fdc2d23e0b15fed8e6065492765e76b8f69ff53b6ffa4c03a20</guid>
       <pubDate>Mon, 19 Jan 2026 18:54:58 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>4️⃣ - 1/19/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9968e5c5f1946cb5db23c271373242b3fbb1c93564bf1c6ccb7c8252d86905a2</link>
-      <guid isPermaLink="false">9968e5c5f1946cb5db23c271373242b3fbb1c93564bf1c6ccb7c8252d86905a2</guid>
-      <pubDate>Mon, 19 Jan 2026 18:53:56 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
