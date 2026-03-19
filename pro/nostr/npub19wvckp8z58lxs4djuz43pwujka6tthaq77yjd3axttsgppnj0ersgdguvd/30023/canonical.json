@@ -2940,7 +2940,7 @@
     "latest_year": 2026
   },
   "steps-to-prepare-a-download-release-served-on-google-drive-folder-continuum-pro-test": {
-    "latest_event_id": "c727aa9d8d20a0331688931bc6c3b513396453861c3f7f6293c18b92c66080aa",
+    "latest_event_id": "e45d114baa645ebf30e16d62d7350788e2fde5713d52e5d7ee09f2a9aaa8dfb3",
     "latest_year": 2026,
     "published": false
   },
@@ -3211,5 +3211,15 @@
   "quiet-completion-vs-public-validation": {
     "latest_event_id": "6d1e0a3b2e9d7a634f954bdcf02506760ae78f2bde9fd70eba9f336980a6576e",
     "latest_year": 2026
+  },
+  "builders-journal---march-17-2026--st-patricks-day": {
+    "latest_event_id": "9adb706a0602879508cb2c3b9ab381192a5efb50ad65235718d99007c691f1fe",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---march-18-2026--wednesday": {
+    "latest_event_id": "4234741f989369d8d5c57a6584d03b6729cf66b6499e46bf2dfd54c9d2d78817",
+    "latest_year": 2026,
+    "published": false
   }
 }
