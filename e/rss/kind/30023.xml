@@ -5,7 +5,97 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 19 Mar 2026 20:25:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 21:56:37 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Book 2 - Building Local-First Systems - Chap. 9 - Separation of Authoring and Distribution</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a4486dd9b1bc2761144bb170977b6f559d407cc5755e38b31af23d4f58acff1b</link>
+      <guid isPermaLink="false">a4486dd9b1bc2761144bb170977b6f559d407cc5755e38b31af23d4f58acff1b</guid>
+      <pubDate>Sat, 21 Mar 2026 21:46:43 GMT</pubDate>
+      <description><![CDATA[Most systems tightly couple the act of creating content with the act of publishing it. This creates dependency on networks, platforms, and infrastructure at the moment of creation. Local-first systems must separate these concerns. This chapter defines the distinction between authoring and distribution and explains how decoupling them enables durability, flexibility, and true sovereignty.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Book 2 - Building Local-First Systems - Chap. 8 - Identity as a First-Class Primitive</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a858544ea17c4e5ee5a30b8fc5e4373bf0a3d3d00ca98f7887dc95060dad60ae</link>
+      <guid isPermaLink="false">a858544ea17c4e5ee5a30b8fc5e4373bf0a3d3d00ca98f7887dc95060dad60ae</guid>
+      <pubDate>Sat, 21 Mar 2026 21:46:25 GMT</pubDate>
+      <description><![CDATA[Most systems treat identity as an afterthought — something layered on top of functionality through accounts and authentication. Local-first systems cannot. Identity must be foundational, shaping how data is created, signed, verified, and distributed. This chapter defines identity as a first-class primitive and outlines the design implications of building systems around it.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Book 2 - Building Local-First Systems - Chap 7 - Determinism Over Dynamism</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4bab42d8f6a694b7b2d38203b5218f9169786b6ca572f61996451c4cefc70904</link>
+      <guid isPermaLink="false">4bab42d8f6a694b7b2d38203b5218f9169786b6ca572f61996451c4cefc70904</guid>
+      <pubDate>Sat, 21 Mar 2026 21:46:08 GMT</pubDate>
+      <description><![CDATA[Local-first systems prioritize determinism — predictable, reproducible behavior — over dynamic, server-driven state. This chapter explains why determinism is essential for trust, recoverability, and durability, and how it shapes system design choices around state, execution, and synchronization.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Book 2 - Building Local-First Systems - Chap 6 - Local Authority First</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e95a12b1414178990b861b980580c9c889b3ff0a58b0557b59e32ff898307ca0</link>
+      <guid isPermaLink="false">e95a12b1414178990b861b980580c9c889b3ff0a58b0557b59e32ff898307ca0</guid>
+      <pubDate>Sat, 21 Mar 2026 21:45:39 GMT</pubDate>
+      <description><![CDATA[A local-first system must treat the local environment as the primary source of truth. This is not a conceptual preference but a design constraint that shapes storage, identity, synchronization, and failure handling. This chapter defines what “local authority” means in concrete terms and how to implement it in practice.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Book 2 - Building Local-First Systems - Chap 5 - Why SaaS Became the Default</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=52687fd0b7b5552927cd236bf5f2c6b24bc81841cc2517d252b2c6d9819d706f</link>
+      <guid isPermaLink="false">52687fd0b7b5552927cd236bf5f2c6b24bc81841cc2517d252b2c6d9819d706f</guid>
+      <pubDate>Sat, 21 Mar 2026 04:48:24 GMT</pubDate>
+      <description><![CDATA[Software-as-a-Service did not become dominant because it was inherently better for users. It became the default because it aligned with the economic incentives of companies and the operational realities of the web. This chapter explores the forces that led to SaaS dominance and why those forces continue to shape modern software architecture.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Book 2 - Building Local-First Systems - Chap 4 - Data Ownership vs Data Access</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7e671baf2e9bcfe80784b8d617d01479ed7d30f5e8b72b97df1079b50e1b307d</link>
+      <guid isPermaLink="false">7e671baf2e9bcfe80784b8d617d01479ed7d30f5e8b72b97df1079b50e1b307d</guid>
+      <pubDate>Sat, 21 Mar 2026 04:27:31 GMT</pubDate>
+      <description><![CDATA[Ownership is often confused with visibility. Many systems allow users to see and interact with their data, but stop short of granting true control over it. This chapter clarifies the distinction between owning data and merely accessing it, and explains why local-first systems must prioritize ownership at the structural level.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Book 2 - Building Local-First Systems - Chap 3 Authority vs Access</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7d296518aee46a55096601ad1a4c431376b11ea6dbaf2f697b4ec98819e0f0f6</link>
+      <guid isPermaLink="false">7d296518aee46a55096601ad1a4c431376b11ea6dbaf2f697b4ec98819e0f0f6</guid>
+      <pubDate>Sat, 21 Mar 2026 04:12:28 GMT</pubDate>
+      <description><![CDATA[Modern software gives users access to data without granting authority over it. This distinction is subtle but foundational. This chapter explores how systems can feel usable and even empowering while still being controlled elsewhere — and why true local-first design requires shifting from access-based models to authority-based systems.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Book 2 - Building Local-First Systems - Chap 2 - The Illusion of 'Offline Support'</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=16682d3714fdc9aa088ac9be77814cebac6abf6de69e6cef21ec9703e99fb25e</link>
+      <guid isPermaLink="false">16682d3714fdc9aa088ac9be77814cebac6abf6de69e6cef21ec9703e99fb25e</guid>
+      <pubDate>Sat, 21 Mar 2026 04:03:24 GMT</pubDate>
+      <description><![CDATA[Many applications claim to support offline usage, but what they actually provide is temporary caching layered on top of a fundamentally network-dependent system. This chapter examines why most “offline modes” fail under real-world conditions and clarifies the difference between cache-based resilience and true local-first architecture.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Book 2 - Building Local-First Systems - Chap 1 - What Is Local-First, Really?</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1ad816faa4edbae90553c42308458ffd8403bdda8556d0a21ecd813778d12242</link>
+      <guid isPermaLink="false">1ad816faa4edbae90553c42308458ffd8403bdda8556d0a21ecd813778d12242</guid>
+      <pubDate>Sat, 21 Mar 2026 02:17:12 GMT</pubDate>
+      <description><![CDATA[Local-first is often reduced to “apps that work offline.” That definition is incomplete. Local-first is about authority — where the system of record lives, who controls it, and what persists when the network disappears. This chapter reframes local-first as a shift from access-based systems to authority-based systems.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Quiet Completion vs Public Validation</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=6d1e0a3b2e9d7a634f954bdcf02506760ae78f2bde9fd70eba9f336980a6576e</link>
@@ -4912,96 +5002,6 @@
       <guid isPermaLink="false">628bfedaa6ece4e759af1d9e4f4cdd383b207661626f99f1b8dbd9ec44377a89</guid>
       <pubDate>Sun, 30 Nov 2025 19:22:12 GMT</pubDate>
       <description><![CDATA[A team of frontier scientists and spiritual exiles test the first matter-transfer via entanglement bridge—an echo of the Mayflower crossing reimagined for interstellar space.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 29, 2025): The Bitcoin Chronicles - Book 0 — Epigraph</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9ffa04de6515f428de8cc28c8b67b4d6b44daea67ee3703fe7820e16c06798b9</link>
-      <guid isPermaLink="false">9ffa04de6515f428de8cc28c8b67b4d6b44daea67ee3703fe7820e16c06798b9</guid>
-      <pubDate>Sun, 30 Nov 2025 19:18:40 GMT</pubDate>
-      <description><![CDATA[A single-line epigraph that defines the entire metaphysical frame of *The Bitcoin Chronicles*: a universe saturated with glory, meaning, purpose, and sovereignty—hidden only because human perception is not yet large enough to grasp it.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 30, 2025): The Bitcoin Chronicles - Book 0 — Part III - The Physics of Creation</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f38bdebb352aa6aacb8496c8264931633ac468e8a50121e27def5b13199dfdf4</link>
-      <guid isPermaLink="false">f38bdebb352aa6aacb8496c8264931633ac468e8a50121e27def5b13199dfdf4</guid>
-      <pubDate>Sun, 30 Nov 2025 18:44:18 GMT</pubDate>
-      <description><![CDATA[A hard-science exposition showing how GR, quantum field theory, entropy, and cosmic expansion are not random mechanics but the structural reflections of an intentional universe. This integrates physics with sovereignty without reducing either.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sunday Article (Nov. 30, 2025): The Bitcoin Chronicles - Book 0 - Part IV - Human Destiny</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=27b93aedb5f71ad6009d5c3699317c30f6a92bdc0aa42a9d177b7ce86ef976c1</link>
-      <guid isPermaLink="false">27b93aedb5f71ad6009d5c3699317c30f6a92bdc0aa42a9d177b7ce86ef976c1</guid>
-      <pubDate>Sun, 30 Nov 2025 18:04:04 GMT</pubDate>
-      <description><![CDATA[Humanity emerges late in Earth’s long story — but precisely on time within the Sovereign architecture of the universe. Part IV explores why human beings, appearing after billions of years of cosmic preparation, stand at the center of purpose, creativity, and destiny in the Chronicles canon.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sabbath Article (Nov. 29, 2025): The Bitcoin Chronicles - Book 0  - Part I - The Creator's Pulse</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f6f3263c261269ed1296615b52b36c8b4c3d35c055cf28973a4ece1c28cf7670</link>
-      <guid isPermaLink="false">f6f3263c261269ed1296615b52b36c8b4c3d35c055cf28973a4ece1c28cf7670</guid>
-      <pubDate>Sun, 30 Nov 2025 05:10:06 GMT</pubDate>
-      <description><![CDATA[Before stars, before particles, before spacetime itself—there was the pulse of the Creator, the uncreated source of all being. This piece establishes the metaphysical foundation of the Chronicles: creation as an act of intentionality, resonance, and sovereign love.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 29, 2025): The Bitcoin Chronicles - Book 0 - Preface</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c6a02ca54624728560bcd393411a762a1ed0298c0a2204c5b0266e1d1618fab6</link>
-      <guid isPermaLink="false">c6a02ca54624728560bcd393411a762a1ed0298c0a2204c5b0266e1d1618fab6</guid>
-      <pubDate>Sun, 30 Nov 2025 05:03:42 GMT</pubDate>
-      <description><![CDATA[The Preface clarifies the nature of the Bitcoin Chronicles: a Christ-shaped hard-science cosmology, not a work of Christian genre fiction. Christ is not a character in this story but the deep structure of reality — the architecture beneath physics, sovereignty, and the laws of creation. This framing prepares the reader to understand Book 0 not as allegory or religious fiction, but as a sovereign, scientifically coherent universe rooted in true metaphysics.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 25, 2025): When Digital Sovereignty Feels Like Shouting Into the Wind</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=24fcb1d471a561956fc45fe64cea5c7f18eb87baf4de81a37a95e6f638fa800e</link>
-      <guid isPermaLink="false">24fcb1d471a561956fc45fe64cea5c7f18eb87baf4de81a37a95e6f638fa800e</guid>
-      <pubDate>Wed, 26 Nov 2025 00:20:48 GMT</pubDate>
-      <description><![CDATA[A meditation on the discouragement that comes from building faithfully with little recognition—and why perseverance produces a harvest even when the field looks empty.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 24, 2025): The Lighthouse at Mare Cimmerium</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b667a3e748e65e4f0f06f625a8b0af0de31145e29577e2f2365997464e12f1a5</link>
-      <guid isPermaLink="false">b667a3e748e65e4f0f06f625a8b0af0de31145e29577e2f2365997464e12f1a5</guid>
-      <pubDate>Mon, 24 Nov 2025 23:45:47 GMT</pubDate>
-      <description><![CDATA[On Mars, a lone engineer maintains an ancient Bitcoin node inside an old basalt tower. When a dust storm threatens to sever the colony from the interplanetary mesh, the Lighthouse becomes the only source of truth for a world drifting toward digital amnesia.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 24, 2025): The Bitcoin Chronicles: The Archivist of Luna Freeport</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=fa7fb348ef847689621f02fd70a878f73241836438835c689841b80295029c36</link>
-      <guid isPermaLink="false">fa7fb348ef847689621f02fd70a878f73241836438835c689841b80295029c36</guid>
-      <pubDate>Mon, 24 Nov 2025 23:43:47 GMT</pubDate>
-      <description><![CDATA[A quiet researcher on Luna Freeport uncovers an ancient cache of Earth-era financial logs showing how the Global Credit Order collapsed — and realizes the Freeport’s future depends on learning the right lesson: sovereignty can be maintained only when the truth is preserved, verifiably, forever.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Sept. 12, 2025): MLM and Web3: A comparison</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9b07435833c27a1da6e927b24018d4aeededbbe295375a12355280b037c5b70b</link>
-      <guid isPermaLink="false">9b07435833c27a1da6e927b24018d4aeededbbe295375a12355280b037c5b70b</guid>
-      <pubDate>Mon, 24 Nov 2025 02:46:07 GMT</pubDate>
-      <description><![CDATA[Both multi-level marketing (MLM) and Web3 projects sell the same dream: financial freedom, lifestyle independence, and passive income. My short stint inside World Financial Group in 2023–2024 helped me recognize the same structural flaws now playing out across Web3. The names and technology change. The math doesn’t.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

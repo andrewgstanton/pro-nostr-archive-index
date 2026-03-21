@@ -5,7 +5,97 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 19 Mar 2026 20:25:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 21:56:37 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Book 2 - Building Local-First Systems - Chap. 9 - Separation of Authoring and Distribution</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a4486dd9b1bc2761144bb170977b6f559d407cc5755e38b31af23d4f58acff1b</link>
+      <guid isPermaLink="false">a4486dd9b1bc2761144bb170977b6f559d407cc5755e38b31af23d4f58acff1b</guid>
+      <pubDate>Sat, 21 Mar 2026 21:46:43 GMT</pubDate>
+      <description><![CDATA[Most systems tightly couple the act of creating content with the act of publishing it. This creates dependency on networks, platforms, and infrastructure at the moment of creation. Local-first systems must separate these concerns. This chapter defines the distinction between authoring and distribution and explains how decoupling them enables durability, flexibility, and true sovereignty.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Book 2 - Building Local-First Systems - Chap. 8 - Identity as a First-Class Primitive</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a858544ea17c4e5ee5a30b8fc5e4373bf0a3d3d00ca98f7887dc95060dad60ae</link>
+      <guid isPermaLink="false">a858544ea17c4e5ee5a30b8fc5e4373bf0a3d3d00ca98f7887dc95060dad60ae</guid>
+      <pubDate>Sat, 21 Mar 2026 21:46:25 GMT</pubDate>
+      <description><![CDATA[Most systems treat identity as an afterthought — something layered on top of functionality through accounts and authentication. Local-first systems cannot. Identity must be foundational, shaping how data is created, signed, verified, and distributed. This chapter defines identity as a first-class primitive and outlines the design implications of building systems around it.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Book 2 - Building Local-First Systems - Chap 7 - Determinism Over Dynamism</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4bab42d8f6a694b7b2d38203b5218f9169786b6ca572f61996451c4cefc70904</link>
+      <guid isPermaLink="false">4bab42d8f6a694b7b2d38203b5218f9169786b6ca572f61996451c4cefc70904</guid>
+      <pubDate>Sat, 21 Mar 2026 21:46:08 GMT</pubDate>
+      <description><![CDATA[Local-first systems prioritize determinism — predictable, reproducible behavior — over dynamic, server-driven state. This chapter explains why determinism is essential for trust, recoverability, and durability, and how it shapes system design choices around state, execution, and synchronization.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Book 2 - Building Local-First Systems - Chap 6 - Local Authority First</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e95a12b1414178990b861b980580c9c889b3ff0a58b0557b59e32ff898307ca0</link>
+      <guid isPermaLink="false">e95a12b1414178990b861b980580c9c889b3ff0a58b0557b59e32ff898307ca0</guid>
+      <pubDate>Sat, 21 Mar 2026 21:45:39 GMT</pubDate>
+      <description><![CDATA[A local-first system must treat the local environment as the primary source of truth. This is not a conceptual preference but a design constraint that shapes storage, identity, synchronization, and failure handling. This chapter defines what “local authority” means in concrete terms and how to implement it in practice.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Book 2 - Building Local-First Systems - Chap 5 - Why SaaS Became the Default</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=52687fd0b7b5552927cd236bf5f2c6b24bc81841cc2517d252b2c6d9819d706f</link>
+      <guid isPermaLink="false">52687fd0b7b5552927cd236bf5f2c6b24bc81841cc2517d252b2c6d9819d706f</guid>
+      <pubDate>Sat, 21 Mar 2026 04:48:24 GMT</pubDate>
+      <description><![CDATA[Software-as-a-Service did not become dominant because it was inherently better for users. It became the default because it aligned with the economic incentives of companies and the operational realities of the web. This chapter explores the forces that led to SaaS dominance and why those forces continue to shape modern software architecture.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Book 2 - Building Local-First Systems - Chap 4 - Data Ownership vs Data Access</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7e671baf2e9bcfe80784b8d617d01479ed7d30f5e8b72b97df1079b50e1b307d</link>
+      <guid isPermaLink="false">7e671baf2e9bcfe80784b8d617d01479ed7d30f5e8b72b97df1079b50e1b307d</guid>
+      <pubDate>Sat, 21 Mar 2026 04:27:31 GMT</pubDate>
+      <description><![CDATA[Ownership is often confused with visibility. Many systems allow users to see and interact with their data, but stop short of granting true control over it. This chapter clarifies the distinction between owning data and merely accessing it, and explains why local-first systems must prioritize ownership at the structural level.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Book 2 - Building Local-First Systems - Chap 3 Authority vs Access</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7d296518aee46a55096601ad1a4c431376b11ea6dbaf2f697b4ec98819e0f0f6</link>
+      <guid isPermaLink="false">7d296518aee46a55096601ad1a4c431376b11ea6dbaf2f697b4ec98819e0f0f6</guid>
+      <pubDate>Sat, 21 Mar 2026 04:12:28 GMT</pubDate>
+      <description><![CDATA[Modern software gives users access to data without granting authority over it. This distinction is subtle but foundational. This chapter explores how systems can feel usable and even empowering while still being controlled elsewhere — and why true local-first design requires shifting from access-based models to authority-based systems.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Book 2 - Building Local-First Systems - Chap 2 - The Illusion of 'Offline Support'</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=16682d3714fdc9aa088ac9be77814cebac6abf6de69e6cef21ec9703e99fb25e</link>
+      <guid isPermaLink="false">16682d3714fdc9aa088ac9be77814cebac6abf6de69e6cef21ec9703e99fb25e</guid>
+      <pubDate>Sat, 21 Mar 2026 04:03:24 GMT</pubDate>
+      <description><![CDATA[Many applications claim to support offline usage, but what they actually provide is temporary caching layered on top of a fundamentally network-dependent system. This chapter examines why most “offline modes” fail under real-world conditions and clarifies the difference between cache-based resilience and true local-first architecture.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Book 2 - Building Local-First Systems - Chap 1 - What Is Local-First, Really?</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1ad816faa4edbae90553c42308458ffd8403bdda8556d0a21ecd813778d12242</link>
+      <guid isPermaLink="false">1ad816faa4edbae90553c42308458ffd8403bdda8556d0a21ecd813778d12242</guid>
+      <pubDate>Sat, 21 Mar 2026 02:17:12 GMT</pubDate>
+      <description><![CDATA[Local-first is often reduced to “apps that work offline.” That definition is incomplete. Local-first is about authority — where the system of record lives, who controls it, and what persists when the network disappears. This chapter reframes local-first as a shift from access-based systems to authority-based systems.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Quiet Completion vs Public Validation</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=6d1e0a3b2e9d7a634f954bdcf02506760ae78f2bde9fd70eba9f336980a6576e</link>
@@ -4912,96 +5002,6 @@
       <guid isPermaLink="false">c527dfe52d53e96f74646259312c0605d6c2af18de2af7a8fdb52d1b433aeddc</guid>
       <pubDate>Tue, 18 Nov 2025 18:01:21 GMT</pubDate>
       <description><![CDATA[Apple is now selling a $230 “iPhone pocket,” a luxury cloth pouch that perfectly captures the absurdity of late-fiat consumer psychology. This satirical meme-style piece explores how a branded sock became a symbol of economic decay, corporate incentives, and the theatre of prestige in a world losing touch with value.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 18, 2025): Walled Gardens, Dog Leashes, and the Price of Dependency</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b5fd1c034b1e3ea9cc18e244a5915bd12df671821a01de68928045ec95de127f</link>
-      <guid isPermaLink="false">b5fd1c034b1e3ea9cc18e244a5915bd12df671821a01de68928045ec95de127f</guid>
-      <pubDate>Tue, 18 Nov 2025 17:42:51 GMT</pubDate>
-      <description><![CDATA[A satirical but honest look at how modern platforms control the pace of our lives — from Rover’s 20% skim to Amazon’s non-clickable links — and why true sovereignty feels like trying to walk three dogs that refuse to agree on a speed.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 18, 2025): The Luxury of Exhaustion — And Why We Keep Building Anyway</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5eb8f89529869294737428be4c9cb75ad7b8ab2112d3477733cabe0036595b4f</link>
-      <guid isPermaLink="false">5eb8f89529869294737428be4c9cb75ad7b8ab2112d3477733cabe0036595b4f</guid>
-      <pubDate>Tue, 18 Nov 2025 17:40:39 GMT</pubDate>
-      <description><![CDATA[A reflection on physical exhaustion, quiet responsibilities, and the strange form of resilience required to build something sovereign in a world of platforms that want to drain every ounce of energy you have.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 17, 2025): What Patronage Really Buys</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ae49c4554d14d0f7d3066f4687e1f9d071480cd1f78f451795dc328cc72a2213</link>
-      <guid isPermaLink="false">ae49c4554d14d0f7d3066f4687e1f9d071480cd1f78f451795dc328cc72a2213</guid>
-      <pubDate>Tue, 18 Nov 2025 04:34:24 GMT</pubDate>
-      <description><![CDATA[Patronage isn’t just about “supporting a creator.” It buys time, resilience, and infrastructure so that real, sovereign tools can exist outside the VC treadmill. This is what your support actually does in my world.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 17, 2025): Three Hundred Stones in the Wall</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=86690139b8d48d61f3bfbcb4f8063a7366ed56a68994e29eaeadd7441fb075a6</link>
-      <guid isPermaLink="false">86690139b8d48d61f3bfbcb4f8063a7366ed56a68994e29eaeadd7441fb075a6</guid>
-      <pubDate>Tue, 18 Nov 2025 04:03:14 GMT</pubDate>
-      <description><![CDATA[Hitting 300 published essays isn’t an arrival point; it’s the moment you realize you’ve just finished pouring the foundation. This is a reflection on what has actually changed—and what hasn’t—after writing almost every day through one of the hardest years of my life.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Crossing 300: A Reflection on Continuity, Sovereignty, and Becoming</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=444174c48d522c7b946d2acc6f393d020687d50778c424968471828585cbc848</link>
-      <guid isPermaLink="false">444174c48d522c7b946d2acc6f393d020687d50778c424968471828585cbc848</guid>
-      <pubDate>Mon, 17 Nov 2025 05:17:46 GMT</pubDate>
-      <description><![CDATA[On November 16, after finishing the weekend set, I quietly crossed 300 published articles. This reflection explores what those first 300 meant — how they were written through fragility, how Continuum and the archive grew alongside me, and why this milestone marks the true beginning of a sovereign body of work.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sabbath Article (Nov. 15, 2025): The Day Continuum Became Permanent</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ed3f7d7bd3445f502150068a29c48fb3c18f98c643ad2d402a08151e44608348</link>
-      <guid isPermaLink="false">ed3f7d7bd3445f502150068a29c48fb3c18f98c643ad2d402a08151e44608348</guid>
-      <pubDate>Mon, 17 Nov 2025 04:44:26 GMT</pubDate>
-      <description><![CDATA[A deep, long-form reflection on the moment Continuum’s archive truly came alive — transforming the platform from a tool into a sovereign memory system. Saturday’s breakthrough becomes a lens for examining permanence, responsibility, and the emotional meaning of building something designed to outlast platforms and relays.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 15, 2025): When Sovereign Tools Suddenly Make Sense</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6dcccf0b4620bce5f2344f1861a7a21a8d65b41456f3daeda1fae56f20e71c6f</link>
-      <guid isPermaLink="false">6dcccf0b4620bce5f2344f1861a7a21a8d65b41456f3daeda1fae56f20e71c6f</guid>
-      <pubDate>Mon, 17 Nov 2025 04:41:46 GMT</pubDate>
-      <description><![CDATA[Sovereign systems always feel difficult, scattered, and uphill — until one breakthrough suddenly makes everything click. Today was that day for Continuum: the moment the archive started working and the friction finally aligned into clarity.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 15, 2025): The Day the Archive Came Alive</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e9abfbe9707eecc250fcf9497ecec02b47800862c49a71d64c1c0dd473414f99</link>
-      <guid isPermaLink="false">e9abfbe9707eecc250fcf9497ecec02b47800862c49a71d64c1c0dd473414f99</guid>
-      <pubDate>Mon, 17 Nov 2025 04:37:19 GMT</pubDate>
-      <description><![CDATA[After a night of discouragement and a failed rebroadcast attempt, Saturday brought the breakthrough: Continuum’s archive structure finally worked. Not perfectly, not fully polished — but real, sovereign, permanent.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sunday Article (Nov. 16, 2025): After Permanence: How Systems Change Their Makers</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=59fa73b68f74aec6aa668d320f4498c02845e0e59a1b33953f4c9af0fe2bc3b1</link>
-      <guid isPermaLink="false">59fa73b68f74aec6aa668d320f4498c02845e0e59a1b33953f4c9af0fe2bc3b1</guid>
-      <pubDate>Mon, 17 Nov 2025 04:29:11 GMT</pubDate>
-      <description><![CDATA[The moment a system becomes permanent, the creator changes too. This article reflects on what happens to a builder once the architecture finally holds — how permanence reshapes identity, decisions, and the future itself.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

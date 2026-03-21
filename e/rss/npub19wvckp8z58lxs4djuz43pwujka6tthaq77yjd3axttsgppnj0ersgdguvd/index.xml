@@ -5,7 +5,147 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 19 Mar 2026 20:25:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 21:56:37 GMT</lastBuildDate>
+    <item>
+      <title>🔒 Book 2 - Building Local-First Systems - Chap. 9 - Separation of Authoring and Distribution</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a4486dd9b1bc2761144bb170977b6f559d407cc5755e38b31af23d4f58acff1b</link>
+      <guid isPermaLink="false">a4486dd9b1bc2761144bb170977b6f559d407cc5755e38b31af23d4f58acff1b</guid>
+      <pubDate>Sat, 21 Mar 2026 21:46:43 GMT</pubDate>
+      <description><![CDATA[Most systems tightly couple the act of creating content with the act of publishing it. This creates dependency on networks, platforms, and infrastructure at the moment of creation. Local-first systems must separate these concerns. This chapter defines the distinction between authoring and distribution and explains how decoupling them enables durability, flexibility, and true sovereignty.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Book 2 - Building Local-First Systems - Chap. 8 - Identity as a First-Class Primitive</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a858544ea17c4e5ee5a30b8fc5e4373bf0a3d3d00ca98f7887dc95060dad60ae</link>
+      <guid isPermaLink="false">a858544ea17c4e5ee5a30b8fc5e4373bf0a3d3d00ca98f7887dc95060dad60ae</guid>
+      <pubDate>Sat, 21 Mar 2026 21:46:25 GMT</pubDate>
+      <description><![CDATA[Most systems treat identity as an afterthought — something layered on top of functionality through accounts and authentication. Local-first systems cannot. Identity must be foundational, shaping how data is created, signed, verified, and distributed. This chapter defines identity as a first-class primitive and outlines the design implications of building systems around it.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Book 2 - Building Local-First Systems - Chap 7 - Determinism Over Dynamism</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4bab42d8f6a694b7b2d38203b5218f9169786b6ca572f61996451c4cefc70904</link>
+      <guid isPermaLink="false">4bab42d8f6a694b7b2d38203b5218f9169786b6ca572f61996451c4cefc70904</guid>
+      <pubDate>Sat, 21 Mar 2026 21:46:08 GMT</pubDate>
+      <description><![CDATA[Local-first systems prioritize determinism — predictable, reproducible behavior — over dynamic, server-driven state. This chapter explains why determinism is essential for trust, recoverability, and durability, and how it shapes system design choices around state, execution, and synchronization.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Book 2 - Building Local-First Systems - Chap 6 - Local Authority First</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e95a12b1414178990b861b980580c9c889b3ff0a58b0557b59e32ff898307ca0</link>
+      <guid isPermaLink="false">e95a12b1414178990b861b980580c9c889b3ff0a58b0557b59e32ff898307ca0</guid>
+      <pubDate>Sat, 21 Mar 2026 21:45:39 GMT</pubDate>
+      <description><![CDATA[A local-first system must treat the local environment as the primary source of truth. This is not a conceptual preference but a design constraint that shapes storage, identity, synchronization, and failure handling. This chapter defines what “local authority” means in concrete terms and how to implement it in practice.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 57afb009b1</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=57afb009b1df7f60b3ab79b867a73b181666b0cf688a7735aad684745cb5deef</link>
+      <guid isPermaLink="false">57afb009b1df7f60b3ab79b867a73b181666b0cf688a7735aad684745cb5deef</guid>
+      <pubDate>Sat, 21 Mar 2026 18:09:17 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 a79ee17893</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a79ee1789351e430feede07941d8dd8702ae6546ecd49bbeb471aac2f59fd1a9</link>
+      <guid isPermaLink="false">a79ee1789351e430feede07941d8dd8702ae6546ecd49bbeb471aac2f59fd1a9</guid>
+      <pubDate>Sat, 21 Mar 2026 18:03:19 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 9355ad4cc4</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9355ad4cc465d27267a696176e77702ce4f6ad9150759ea5afdd4f3c5ac39822</link>
+      <guid isPermaLink="false">9355ad4cc465d27267a696176e77702ce4f6ad9150759ea5afdd4f3c5ac39822</guid>
+      <pubDate>Sat, 21 Mar 2026 15:00:30 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 bfe8b32a2a</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=bfe8b32a2a18c39dad5308e45c71b60084085f049bb22a9a62957a2d5dfee7c8</link>
+      <guid isPermaLink="false">bfe8b32a2a18c39dad5308e45c71b60084085f049bb22a9a62957a2d5dfee7c8</guid>
+      <pubDate>Sat, 21 Mar 2026 14:56:37 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Book 2 - Building Local-First Systems - Chap 5 - Why SaaS Became the Default</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=52687fd0b7b5552927cd236bf5f2c6b24bc81841cc2517d252b2c6d9819d706f</link>
+      <guid isPermaLink="false">52687fd0b7b5552927cd236bf5f2c6b24bc81841cc2517d252b2c6d9819d706f</guid>
+      <pubDate>Sat, 21 Mar 2026 04:48:24 GMT</pubDate>
+      <description><![CDATA[Software-as-a-Service did not become dominant because it was inherently better for users. It became the default because it aligned with the economic incentives of companies and the operational realities of the web. This chapter explores the forces that led to SaaS dominance and why those forces continue to shape modern software architecture.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Book 2 - Building Local-First Systems - Chap 4 - Data Ownership vs Data Access</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7e671baf2e9bcfe80784b8d617d01479ed7d30f5e8b72b97df1079b50e1b307d</link>
+      <guid isPermaLink="false">7e671baf2e9bcfe80784b8d617d01479ed7d30f5e8b72b97df1079b50e1b307d</guid>
+      <pubDate>Sat, 21 Mar 2026 04:27:31 GMT</pubDate>
+      <description><![CDATA[Ownership is often confused with visibility. Many systems allow users to see and interact with their data, but stop short of granting true control over it. This chapter clarifies the distinction between owning data and merely accessing it, and explains why local-first systems must prioritize ownership at the structural level.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Book 2 - Building Local-First Systems - Chap 3 Authority vs Access</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7d296518aee46a55096601ad1a4c431376b11ea6dbaf2f697b4ec98819e0f0f6</link>
+      <guid isPermaLink="false">7d296518aee46a55096601ad1a4c431376b11ea6dbaf2f697b4ec98819e0f0f6</guid>
+      <pubDate>Sat, 21 Mar 2026 04:12:28 GMT</pubDate>
+      <description><![CDATA[Modern software gives users access to data without granting authority over it. This distinction is subtle but foundational. This chapter explores how systems can feel usable and even empowering while still being controlled elsewhere — and why true local-first design requires shifting from access-based models to authority-based systems.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Book 2 - Building Local-First Systems - Chap 2 - The Illusion of 'Offline Support'</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=16682d3714fdc9aa088ac9be77814cebac6abf6de69e6cef21ec9703e99fb25e</link>
+      <guid isPermaLink="false">16682d3714fdc9aa088ac9be77814cebac6abf6de69e6cef21ec9703e99fb25e</guid>
+      <pubDate>Sat, 21 Mar 2026 04:03:24 GMT</pubDate>
+      <description><![CDATA[Many applications claim to support offline usage, but what they actually provide is temporary caching layered on top of a fundamentally network-dependent system. This chapter examines why most “offline modes” fail under real-world conditions and clarifies the difference between cache-based resilience and true local-first architecture.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>🔒 Book 2 - Building Local-First Systems - Chap 1 - What Is Local-First, Really?</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1ad816faa4edbae90553c42308458ffd8403bdda8556d0a21ecd813778d12242</link>
+      <guid isPermaLink="false">1ad816faa4edbae90553c42308458ffd8403bdda8556d0a21ecd813778d12242</guid>
+      <pubDate>Sat, 21 Mar 2026 02:17:12 GMT</pubDate>
+      <description><![CDATA[Local-first is often reduced to “apps that work offline.” That definition is incomplete. Local-first is about authority — where the system of record lives, who controls it, and what persists when the network disappears. This chapter reframes local-first as a shift from access-based systems to authority-based systems.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 2aff17c2e2</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2aff17c2e2e8cc75de168d05b4a972d7bfee060f197d0e0cc28ff79d23f9f8cb</link>
+      <guid isPermaLink="false">2aff17c2e2e8cc75de168d05b4a972d7bfee060f197d0e0cc28ff79d23f9f8cb</guid>
+      <pubDate>Fri, 20 Mar 2026 17:34:46 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 54bb8c137d</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=54bb8c137dfa689419c2567037d4373f6ce4ea0e51b63b95e1b46371277d2ef6</link>
@@ -4861,146 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=94cfab2a60919aa845d18aa0f9fe57526567789b1b45a616de723a5732619fb0</link>
       <guid isPermaLink="false">94cfab2a60919aa845d18aa0f9fe57526567789b1b45a616de723a5732619fb0</guid>
       <pubDate>Thu, 22 Jan 2026 00:56:28 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 2 - 1/21/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=70f3d948a44464e7aa35167f30c7b1edf7714045db9fbc8ad94f72f745f32e2a</link>
-      <guid isPermaLink="false">70f3d948a44464e7aa35167f30c7b1edf7714045db9fbc8ad94f72f745f32e2a</guid>
-      <pubDate>Thu, 22 Jan 2026 00:55:08 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 1 - 1/21/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=653d88077c02406a466b4bb79632e854ab5fe35d0da56bce26b751d310f28fc0</link>
-      <guid isPermaLink="false">653d88077c02406a466b4bb79632e854ab5fe35d0da56bce26b751d310f28fc0</guid>
-      <pubDate>Thu, 22 Jan 2026 00:54:00 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 5 - 1/20/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7dba5faafc6136bf1064726423849b6b81129923b9b09b8b988a3b5c864f92fc</link>
-      <guid isPermaLink="false">7dba5faafc6136bf1064726423849b6b81129923b9b09b8b988a3b5c864f92fc</guid>
-      <pubDate>Thu, 22 Jan 2026 00:48:33 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 4 - 1/20/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=10c73d38b619e70eafd49f871d37ca999c4704b05c46432b854e5a231c3a4ca5</link>
-      <guid isPermaLink="false">10c73d38b619e70eafd49f871d37ca999c4704b05c46432b854e5a231c3a4ca5</guid>
-      <pubDate>Thu, 22 Jan 2026 00:47:16 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 3 - 1/20/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=506660683b214bb7e267597d489df2c052ad760229bd3218ece3396707c16a95</link>
-      <guid isPermaLink="false">506660683b214bb7e267597d489df2c052ad760229bd3218ece3396707c16a95</guid>
-      <pubDate>Thu, 22 Jan 2026 00:45:27 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 2 - 1/20/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=204bd405f497e27d7913366c0b01234caf93536106be58f994c6bf56ccd24867</link>
-      <guid isPermaLink="false">204bd405f497e27d7913366c0b01234caf93536106be58f994c6bf56ccd24867</guid>
-      <pubDate>Thu, 22 Jan 2026 00:42:45 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 1 - 1/20/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=167a1ab50b3837f7acb41b246d97d0ae17ade5d9963ea48b55ed77e6e16b8e79</link>
-      <guid isPermaLink="false">167a1ab50b3837f7acb41b246d97d0ae17ade5d9963ea48b55ed77e6e16b8e79</guid>
-      <pubDate>Thu, 22 Jan 2026 00:40:14 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>RSS-Feed in meinem Archiv – 19.01.2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a920c849ba4ec99d3ef7788d34047bee107e8cb0695fb9063498cf6ec0cdd557</link>
-      <guid isPermaLink="false">a920c849ba4ec99d3ef7788d34047bee107e8cb0695fb9063498cf6ec0cdd557</guid>
-      <pubDate>Tue, 20 Jan 2026 19:40:29 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>RSS Feed in my archive - 1/19/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=06f739df26af0aaa816b6176404b96ca13334a6fb5b2c30688ba0ff0c7efce50</link>
-      <guid isPermaLink="false">06f739df26af0aaa816b6176404b96ca13334a6fb5b2c30688ba0ff0c7efce50</guid>
-      <pubDate>Tue, 20 Jan 2026 05:08:27 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.A.6.1 - The Day the Metrics Were Kind</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=585db450898c52cad5fba1712f8bc5bb994aa2350368a53512d5e0841fd20d48</link>
-      <guid isPermaLink="false">585db450898c52cad5fba1712f8bc5bb994aa2350368a53512d5e0841fd20d48</guid>
-      <pubDate>Mon, 19 Jan 2026 22:28:40 GMT</pubDate>
-      <description><![CDATA[Earth has not fallen. The trains run. The dashboards are green. Compliance feels reasonable. In this Chronicle, a mid-level systems analyst experiences an ordinary day inside a world that still functions — and begins to sense what has quietly departed it.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.A.6.2 - The Ones Who Never Left</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3f86de184ba1bdaf3e77a7bc8c793731f7907a77264f0441ac8ab7687953a77d</link>
-      <guid isPermaLink="false">3f86de184ba1bdaf3e77a7bc8c793731f7907a77264f0441ac8ab7687953a77d</guid>
-      <pubDate>Mon, 19 Jan 2026 22:27:55 GMT</pubDate>
-      <description><![CDATA[Not everyone leaves when sovereignty moves outward. Some stay — not because they believe, but because leaving is never an option. This Chronicle follows an Earthbound archivist tasked with preserving memory in a world that still functions but no longer leads.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - 1.F.4.1 - The Men Who Learned to Wait</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e4e3ad9bfa6303212b6eb2d9222d0b181f8739de0bf38c1e01f46cdd0915e8d2</link>
-      <guid isPermaLink="false">e4e3ad9bfa6303212b6eb2d9222d0b181f8739de0bf38c1e01f46cdd0915e8d2</guid>
-      <pubDate>Mon, 19 Jan 2026 22:26:44 GMT</pubDate>
-      <description><![CDATA[After the long silence settles across the outer settlements, a small group of engineers, archivists, and navigators confront a truth no charter prepared them for: sovereignty does not feel triumphant. It feels quiet. This Chronicle explores the inner lives of those who crossed the point of no return and discovered that freedom often arrives without witnesses.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Five Phases of Building Without Applause</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=438370db520f09055f601d737232316d7c5374d8f73f0741deb72c99148edc10</link>
-      <guid isPermaLink="false">438370db520f09055f601d737232316d7c5374d8f73f0741deb72c99148edc10</guid>
-      <pubDate>Mon, 19 Jan 2026 19:41:08 GMT</pubDate>
-      <description><![CDATA[Most builders assume progress looks like steady growth, rising visibility, and increasing affirmation. In reality, the most durable work follows a very different curve — one marked by silence, loneliness, and long stretches of invisible effort. This essay maps the five phases almost every sovereign builder passes through, explains why the middle is so painful, and names the comparison trap that causes many to quit too early. If you’re building without applause and wondering whether something is wrong, this is a map — not a diagnosis.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>5️⃣ -1/19/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=55bb6bcb3a6d6fdc2d23e0b15fed8e6065492765e76b8f69ff53b6ffa4c03a20</link>
-      <guid isPermaLink="false">55bb6bcb3a6d6fdc2d23e0b15fed8e6065492765e76b8f69ff53b6ffa4c03a20</guid>
-      <pubDate>Mon, 19 Jan 2026 18:54:58 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
