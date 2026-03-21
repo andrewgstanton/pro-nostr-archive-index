@@ -1886,5 +1886,68 @@
     "event_id": "4234741f989369d8d5c57a6584d03b6729cf66b6499e46bf2dfd54c9d2d78817",
     "created_at": 1773937407,
     "published": false
+  },
+  {
+    "slug": "building-continuum---manuscript-draft-march-15-2026",
+    "event_id": "dbb8cafadbfabb12a40cce3827c99546b121329c0ce3115207cda10c01ae2c11",
+    "created_at": 1773957531,
+    "published": false
+  },
+  {
+    "slug": "building-local-first-systems",
+    "event_id": "cdf6a12798af3418971fc702dd979b2ab2636a0a3b2c37be5fccce0f66c9776e",
+    "created_at": 1773962088,
+    "published": false
+  },
+  {
+    "slug": "continuum-content-state-model",
+    "event_id": "c04396dcd2d56561642b66f74edd593c3c9f8bba6a841f2c00e9420b83c1fd2a",
+    "created_at": 1773962713,
+    "published": false
+  },
+  {
+    "slug": "-book-2---building-local-first-systems---chap-1---what-is-local-first-really-2026-03-18",
+    "event_id": "1ad816faa4edbae90553c42308458ffd8403bdda8556d0a21ecd813778d12242",
+    "created_at": 1774059432
+  },
+  {
+    "slug": "book-2---building-local-first-systems---chap-2---the-illusion-of-offline-support-2026-03-18",
+    "event_id": "16682d3714fdc9aa088ac9be77814cebac6abf6de69e6cef21ec9703e99fb25e",
+    "created_at": 1774065804
+  },
+  {
+    "slug": "-book-2---building-local-first-systems---chap-3-authority-vs-access-2026-03-18",
+    "event_id": "7d296518aee46a55096601ad1a4c431376b11ea6dbaf2f697b4ec98819e0f0f6",
+    "created_at": 1774066348
+  },
+  {
+    "slug": "-book-2---building-local-first-systems---chap-4---data-ownership-vs-data-access-2026-03-19",
+    "event_id": "7e671baf2e9bcfe80784b8d617d01479ed7d30f5e8b72b97df1079b50e1b307d",
+    "created_at": 1774067251
+  },
+  {
+    "slug": "-book-2---building-local-first-systems---chap-5---why-saas-became-the-default-2026-03-19",
+    "event_id": "52687fd0b7b5552927cd236bf5f2c6b24bc81841cc2517d252b2c6d9819d706f",
+    "created_at": 1774068504
+  },
+  {
+    "slug": "-book-2---building-local-first-systems---chap-6---local-authority-first-2026-03-19",
+    "event_id": "e95a12b1414178990b861b980580c9c889b3ff0a58b0557b59e32ff898307ca0",
+    "created_at": 1774129539
+  },
+  {
+    "slug": "-book-2---building-local-first-systems---chap-7---determinism-over-dynamism-2026-03-20",
+    "event_id": "4bab42d8f6a694b7b2d38203b5218f9169786b6ca572f61996451c4cefc70904",
+    "created_at": 1774129568
+  },
+  {
+    "slug": "-book-2---building-local-first-systems---chap-8---identity-as-a-first-class-primitive-2026-03-20",
+    "event_id": "a858544ea17c4e5ee5a30b8fc5e4373bf0a3d3d00ca98f7887dc95060dad60ae",
+    "created_at": 1774129585
+  },
+  {
+    "slug": "-book-2---building-local-first-systems---chap-9---separation-of-authoring-and-distribution-2026-03-20",
+    "event_id": "a4486dd9b1bc2761144bb170977b6f559d407cc5755e38b31af23d4f58acff1b",
+    "created_at": 1774129603
   }
 ]
