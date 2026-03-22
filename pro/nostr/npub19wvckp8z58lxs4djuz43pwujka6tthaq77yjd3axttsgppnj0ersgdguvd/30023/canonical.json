@@ -3267,5 +3267,32 @@
   "-book-2---building-local-first-systems---chap-9---separation-of-authoring-and-distribution-2026-03-20": {
     "latest_event_id": "a4486dd9b1bc2761144bb170977b6f559d407cc5755e38b31af23d4f58acff1b",
     "latest_year": 2026
+  },
+  "i-dont-write-to-engage-i-write-to-clarify": {
+    "latest_event_id": "90f10962f860b4e8e3377350293ec493f4ca487769dfaadf5ea887ca63b89606",
+    "latest_year": 2026
+  },
+  "you-cannot-build-what-you-refuse-to-leave": {
+    "latest_event_id": "c07a13af597099228668b58cd97fac1b3be8669df1390013b7ddb720e99365b0",
+    "latest_year": 2026
+  },
+  "sabbath-is-not-a-break-its-alignment": {
+    "latest_event_id": "9a5a9a479a8602746ff1883bf45bd878843875ce7cafe21206c62a8a82c9c5e6",
+    "latest_year": 2026
+  },
+  "builders-jounal--march-19-2026": {
+    "latest_event_id": "20092f95d01871fefda5eac602ebe65cb89bfae25482cd377eda9e0c35e65f38",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal--march-21-saturday": {
+    "latest_event_id": "47e9c2a1e58ba91d54a8a1e3a348e36f9db46e0ace3f2cc93ad2140b55c47e6f",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal--march-20": {
+    "latest_event_id": "e2cbb0321d73ad078802ad67d8d3b180b91bc52b093546e1bbd2a70e4a2e280d",
+    "latest_year": 2026,
+    "published": false
   }
 }

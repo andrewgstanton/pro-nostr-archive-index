@@ -1932,6 +1932,11 @@
   },
   {
     "slug": "-book-2---building-local-first-systems---chap-6---local-authority-first-2026-03-19",
+    "event_id": "99d162072b6c035b878a7fe14612ab1e5c332af83d0b031e4240b68048c0e1e2",
+    "created_at": 1774127537
+  },
+  {
+    "slug": "-book-2---building-local-first-systems---chap-6---local-authority-first-2026-03-19",
     "event_id": "e95a12b1414178990b861b980580c9c889b3ff0a58b0557b59e32ff898307ca0",
     "created_at": 1774129539
   },
@@ -1949,5 +1954,43 @@
     "slug": "-book-2---building-local-first-systems---chap-9---separation-of-authoring-and-distribution-2026-03-20",
     "event_id": "a4486dd9b1bc2761144bb170977b6f559d407cc5755e38b31af23d4f58acff1b",
     "created_at": 1774129603
+  },
+  {
+    "slug": "i-dont-write-to-engage-i-write-to-clarify",
+    "event_id": "3d634fb61ad7e095c6f1ae081e453f94b11d5db0b69267c2e63966b3ef91cd50",
+    "created_at": 1774151947
+  },
+  {
+    "slug": "i-dont-write-to-engage-i-write-to-clarify",
+    "event_id": "90f10962f860b4e8e3377350293ec493f4ca487769dfaadf5ea887ca63b89606",
+    "created_at": 1774152055
+  },
+  {
+    "slug": "you-cannot-build-what-you-refuse-to-leave",
+    "event_id": "c07a13af597099228668b58cd97fac1b3be8669df1390013b7ddb720e99365b0",
+    "created_at": 1774152199
+  },
+  {
+    "slug": "sabbath-is-not-a-break-its-alignment",
+    "event_id": "9a5a9a479a8602746ff1883bf45bd878843875ce7cafe21206c62a8a82c9c5e6",
+    "created_at": 1774152338
+  },
+  {
+    "slug": "builders-jounal--march-19-2026",
+    "event_id": "20092f95d01871fefda5eac602ebe65cb89bfae25482cd377eda9e0c35e65f38",
+    "created_at": 1774155493,
+    "published": false
+  },
+  {
+    "slug": "builders-journal--march-21-saturday",
+    "event_id": "47e9c2a1e58ba91d54a8a1e3a348e36f9db46e0ace3f2cc93ad2140b55c47e6f",
+    "created_at": 1774155961,
+    "published": false
+  },
+  {
+    "slug": "builders-journal--march-20",
+    "event_id": "e2cbb0321d73ad078802ad67d8d3b180b91bc52b093546e1bbd2a70e4a2e280d",
+    "created_at": 1774156605,
+    "published": false
   }
 ]
