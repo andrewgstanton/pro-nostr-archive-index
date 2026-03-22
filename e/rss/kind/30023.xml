@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 21 Mar 2026 21:56:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 20:33:39 GMT</lastBuildDate>
+    <item>
+      <title>Sabbath Is Not a Break. It’s Alignment.</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9a5a9a479a8602746ff1883bf45bd878843875ce7cafe21206c62a8a82c9c5e6</link>
+      <guid isPermaLink="false">9a5a9a479a8602746ff1883bf45bd878843875ce7cafe21206c62a8a82c9c5e6</guid>
+      <pubDate>Sun, 22 Mar 2026 04:05:38 GMT</pubDate>
+      <description><![CDATA[Sabbath is not a recovery mechanism for exhaustion—it is a return to alignment with God as the true source. This article explores how rest reframes work, exposes hidden dependencies, and reshapes the way we build, write, and live.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>You Cannot Build What You Refuse to Leave</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c07a13af597099228668b58cd97fac1b3be8669df1390013b7ddb720e99365b0</link>
+      <guid isPermaLink="false">c07a13af597099228668b58cd97fac1b3be8669df1390013b7ddb720e99365b0</guid>
+      <pubDate>Sun, 22 Mar 2026 04:03:19 GMT</pubDate>
+      <description><![CDATA[Sabbath reveals whether we are building in trust or in control. This article explores how our attachment to work exposes hidden dependencies, and why true durability requires the ability to step away.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>I Don’t Write to Engage. I Write to Clarify.</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=90f10962f860b4e8e3377350293ec493f4ca487769dfaadf5ea887ca63b89606</link>
+      <guid isPermaLink="false">90f10962f860b4e8e3377350293ec493f4ca487769dfaadf5ea887ca63b89606</guid>
+      <pubDate>Sun, 22 Mar 2026 04:00:55 GMT</pubDate>
+      <description><![CDATA[Writing shaped by platforms drifts toward performance. This article explores a different approach—writing as a process of clarification, built through notes, refined over time, and aligned with durability rather than engagement.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>🔒 Book 2 - Building Local-First Systems - Chap. 9 - Separation of Authoring and Distribution</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=a4486dd9b1bc2761144bb170977b6f559d407cc5755e38b31af23d4f58acff1b</link>
@@ -4972,36 +5002,6 @@
       <guid isPermaLink="false">d4f4607905d94202c3cf5d8cd3dde4e51ebc3bd7e2b67a589a6b8fa1a737afbe</guid>
       <pubDate>Sun, 30 Nov 2025 19:28:03 GMT</pubDate>
       <description><![CDATA[A reflection on how New Lakota, New Bern, Luna Freeport, and the Belt Stations come together for the 500th anniversary of the Mayflower, marking the first unified Thanksgiving after the UEB Incident.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 26, 2025): The Bitcoin Chronicles: The 500th Crossing: How the Mayflower Memory Lives in Martian Sovereignties</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e05148e03abd02318b90a3dab7d9074807482f5f3961eadeb636a318e14b92df</link>
-      <guid isPermaLink="false">e05148e03abd02318b90a3dab7d9074807482f5f3961eadeb636a318e14b92df</guid>
-      <pubDate>Sun, 30 Nov 2025 19:25:34 GMT</pubDate>
-      <description><![CDATA[A meditation on why the 500th anniversary of the Mayflower resonates so deeply with New Lakota, New Bern, and the Belt enclaves, especially after the Martian referendum and UEB interference]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 27, 2025): The Bitcoin Chronicles: The Quiet Return of Thanksgiving</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=49d3bb05dd35b3fc3b8500850b5ec23b59a4180f8f53f5bd1b37f08be98fcbe9</link>
-      <guid isPermaLink="false">49d3bb05dd35b3fc3b8500850b5ec23b59a4180f8f53f5bd1b37f08be98fcbe9</guid>
-      <pubDate>Sun, 30 Nov 2025 19:23:54 GMT</pubDate>
-      <description><![CDATA[A reflection from the edge of Luna Freeport, where a small gathering of settlers rediscover an ancient Earth ritual—gratitude—across light-years and fractured histories.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 27, 2025): The Bitcoin Chronicles: The Entanglement Pilgrims</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=628bfedaa6ece4e759af1d9e4f4cdd383b207661626f99f1b8dbd9ec44377a89</link>
-      <guid isPermaLink="false">628bfedaa6ece4e759af1d9e4f4cdd383b207661626f99f1b8dbd9ec44377a89</guid>
-      <pubDate>Sun, 30 Nov 2025 19:22:12 GMT</pubDate>
-      <description><![CDATA[A team of frontier scientists and spiritual exiles test the first matter-transfer via entanglement bridge—an echo of the Mayflower crossing reimagined for interstellar space.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
