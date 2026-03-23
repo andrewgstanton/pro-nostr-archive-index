@@ -1,5 +1,160 @@
 [
   {
+    "slug": "builders-journal--march-22-2026",
+    "event_id": "b92851a813fe139d0498fa8b33e15411a251727fb92035f3b97c6a507f52de09",
+    "created_at": 1774245216,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/b92851a813fe139d0498fa8b33e15411a251727fb92035f3b97c6a507f52de09.json",
+    "title": "Builder’s Journal — March 22, 2026",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
+    "slug": null,
+    "event_id": "0574ad36222c1e15393b1e87733ebd1773d1a870b48c96b61c0a81bb752edacf",
+    "created_at": 1774244625,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/0574ad36222c1e15393b1e87733ebd1773d1a870b48c96b61c0a81bb752edacf.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "b93d5eececb079a4316ab0ab0391c0c6b001baed2adab077d97f54a0e989fd7b",
+    "created_at": 1774244539,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/b93d5eececb079a4316ab0ab0391c0c6b001baed2adab077d97f54a0e989fd7b.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "ba341d8731fb8ce4d933764e3b44d64fb1261d606b2b3695aae4346f959fe2b8",
+    "created_at": 1774244512,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/ba341d8731fb8ce4d933764e3b44d64fb1261d606b2b3695aae4346f959fe2b8.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "8fb45ed80af3ddebea02a57e4bc001de146e71668e4c9b3de85b6d763020e17e",
+    "created_at": 1774244476,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/8fb45ed80af3ddebea02a57e4bc001de146e71668e4c9b3de85b6d763020e17e.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "344bd1f7f30576a38ca05e621dd6514cde4b134e9e569000170618fe2d3ea9ea",
+    "created_at": 1774244454,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/344bd1f7f30576a38ca05e621dd6514cde4b134e9e569000170618fe2d3ea9ea.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "you-dont-rise-into-clarity-you-build-into-it",
+    "event_id": "52b67c3acc2a8b102ba9946a8f059842b0123dc61dfdc2790b007b85a7be140c",
+    "created_at": 1774244105,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/52b67c3acc2a8b102ba9946a8f059842b0123dc61dfdc2790b007b85a7be140c.json",
+    "title": "You Don’t Rise Into Clarity, You Build Into It",
+    "summary": "Clarity is not discovered in abstraction. It is formed through the act of building—over time, through resistance, iteration, and commitment.",
+    "paid": false
+  },
+  {
+    "slug": "building-without-applause",
+    "event_id": "37c953b7682df491f54c3b1f41a6d1e55db79a2b8b725d37a905f789ac55845d",
+    "created_at": 1774244083,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/37c953b7682df491f54c3b1f41a6d1e55db79a2b8b725d37a905f789ac55845d.json",
+    "title": "Building Without Applause",
+    "summary": "The absence of recognition is not a signal to stop. It is often the condition required to build something that lasts.",
+    "paid": false
+  },
+  {
+    "slug": "building-is-a-form-of-stewardship",
+    "event_id": "0f5cfd1b7657a931aeef76d9203a143da6aac8ed4f272f4aebabeeafb07aadc2",
+    "created_at": 1774244060,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/0f5cfd1b7657a931aeef76d9203a143da6aac8ed4f272f4aebabeeafb07aadc2.json",
+    "title": "Building Is a Form of Stewardship",
+    "summary": "Building is not just creation—it is stewardship. It reflects how we manage time, responsibility, and what has been entrusted to us.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "6a7c4906952cca231d7e7ec901cd64f25110663fe70ffd0e408a82007bc2d570",
+    "created_at": 1774225436,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/6a7c4906952cca231d7e7ec901cd64f25110663fe70ffd0e408a82007bc2d570.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "b66b286355cb0e9088a94aba921635c4610e0f2f2050dd4a337b92461e24ee3f",
+    "created_at": 1774225223,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/b66b286355cb0e9088a94aba921635c4610e0f2f2050dd4a337b92461e24ee3f.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "989802d87c714c5fc6b780fd90e34a0a650fc6304459530e57e71683d7794241",
+    "created_at": 1774223903,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/989802d87c714c5fc6b780fd90e34a0a650fc6304459530e57e71683d7794241.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "df0172c88bb338d8f8bf720559d9aa7be7ce1c14e64687843d3fa74af26df4b3",
+    "created_at": 1774220996,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/df0172c88bb338d8f8bf720559d9aa7be7ce1c14e64687843d3fa74af26df4b3.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "fb35f976ada68b2c96039b2c0a5216c722bc9c7b903ed6d845b10a1e02a55475",
+    "created_at": 1774220273,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/fb35f976ada68b2c96039b2c0a5216c722bc9c7b903ed6d845b10a1e02a55475.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": null,
     "event_id": "b2abcd45d69bc697e49aecbeeff47d16cbc8950bda928cd329557d179a696db3",
     "created_at": 1774211178,
@@ -2956,7 +3111,7 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 30023,
     "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/3c093b167987052c80443b7828f1066a794dab80ff857ba73a5286f006f5f123.json",
-    "title": "Simple Prep (15 Minutes, Max) - Kaiser Associates (Eric Hang)  - 3/9/2026",
+    "title": "",
     "summary": "",
     "paid": false,
     "published": false
@@ -9082,8 +9237,8 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 30023,
     "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/2cbb1ff1afbf37055c8f93e75723b57cefe218124030e70d752fc5e84a224fdd.json",
-    "title": "🔒The Bitcoin Chronicles - A.0 - Book 0.85 - The Day After Genesis",
-    "summary": "Nothing visibly changed the day after the Bitcoin Genesis Block. And yet, everything had already become different.",
+    "title": "",
+    "summary": "",
     "paid": false
   },
   {

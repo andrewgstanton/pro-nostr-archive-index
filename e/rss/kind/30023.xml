@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 22 Mar 2026 20:33:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 16:13:14 GMT</lastBuildDate>
+    <item>
+      <title>You Don’t Rise Into Clarity, You Build Into It</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=52b67c3acc2a8b102ba9946a8f059842b0123dc61dfdc2790b007b85a7be140c</link>
+      <guid isPermaLink="false">52b67c3acc2a8b102ba9946a8f059842b0123dc61dfdc2790b007b85a7be140c</guid>
+      <pubDate>Mon, 23 Mar 2026 05:35:05 GMT</pubDate>
+      <description><![CDATA[Clarity is not discovered in abstraction. It is formed through the act of building—over time, through resistance, iteration, and commitment.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Building Without Applause</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=37c953b7682df491f54c3b1f41a6d1e55db79a2b8b725d37a905f789ac55845d</link>
+      <guid isPermaLink="false">37c953b7682df491f54c3b1f41a6d1e55db79a2b8b725d37a905f789ac55845d</guid>
+      <pubDate>Mon, 23 Mar 2026 05:34:43 GMT</pubDate>
+      <description><![CDATA[The absence of recognition is not a signal to stop. It is often the condition required to build something that lasts.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Building Is a Form of Stewardship</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=0f5cfd1b7657a931aeef76d9203a143da6aac8ed4f272f4aebabeeafb07aadc2</link>
+      <guid isPermaLink="false">0f5cfd1b7657a931aeef76d9203a143da6aac8ed4f272f4aebabeeafb07aadc2</guid>
+      <pubDate>Mon, 23 Mar 2026 05:34:20 GMT</pubDate>
+      <description><![CDATA[Building is not just creation—it is stewardship. It reflects how we manage time, responsibility, and what has been entrusted to us.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Sabbath Is Not a Break. It’s Alignment.</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=9a5a9a479a8602746ff1883bf45bd878843875ce7cafe21206c62a8a82c9c5e6</link>
@@ -2537,11 +2567,11 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>🔒The Bitcoin Chronicles - A.0 - Book 0.85 - The Day After Genesis</title>
+      <title>kind:30023 2cbb1ff1af</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=2cbb1ff1afbf37055c8f93e75723b57cefe218124030e70d752fc5e84a224fdd</link>
       <guid isPermaLink="false">2cbb1ff1afbf37055c8f93e75723b57cefe218124030e70d752fc5e84a224fdd</guid>
       <pubDate>Fri, 02 Jan 2026 04:11:18 GMT</pubDate>
-      <description><![CDATA[Nothing visibly changed the day after the Bitcoin Genesis Block. And yet, everything had already become different.]]></description>
+      <description><![CDATA[]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
@@ -4972,36 +5002,6 @@
       <guid isPermaLink="false">fba158da264c6680db9ed51ecac9f143cb9cb67c1bbed30794cba4e3ff4c224d</guid>
       <pubDate>Tue, 02 Dec 2025 18:23:44 GMT</pubDate>
       <description><![CDATA[Book 0.5 explains why the Bitcoin Chronicles begin in the mid-21st century. Humanity has lived for millennia under the Babylonian Operating System — a misalignment born from the ancient fracture in human sovereignty described in Book 0. Only now, with the rediscovery of honest money, open protocols, and truth-aligned systems, does humanity begin to exit the Extractive Age and enter the first stage of sovereign civilization.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Dec. 1, 2025): The Bitcoin Chroniciles - Book 0 - Part V - The Sovereign Image Bearers</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=30b76611042284abb31e0030c70b008af151e7faefe1bacf51cd6eeb38d625a3</link>
-      <guid isPermaLink="false">30b76611042284abb31e0030c70b008af151e7faefe1bacf51cd6eeb38d625a3</guid>
-      <pubDate>Mon, 01 Dec 2025 17:48:18 GMT</pubDate>
-      <description><![CDATA[Part V explains sovereignty not as a political concept but as the deep identity of humanity. To bear the Creator’s image is to carry freedom, moral agency, creativity, and responsibility — the foundation for all later civilization in the Chronicles canon.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Magazine — Index</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7238ca9ae9eea14c6ff05b32f6015f5f69abd815ccb3f1e6821a641cee05f614</link>
-      <guid isPermaLink="false">7238ca9ae9eea14c6ff05b32f6015f5f69abd815ccb3f1e6821a641cee05f614</guid>
-      <pubDate>Sun, 30 Nov 2025 20:46:31 GMT</pubDate>
-      <description><![CDATA[Index of all Continuum Magazine Issues]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 26, 2025): The Bitcoin Chronicles: Thanksgiving on Mars: The Sovereign Network’s First Unified Celebration</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d4f4607905d94202c3cf5d8cd3dde4e51ebc3bd7e2b67a589a6b8fa1a737afbe</link>
-      <guid isPermaLink="false">d4f4607905d94202c3cf5d8cd3dde4e51ebc3bd7e2b67a589a6b8fa1a737afbe</guid>
-      <pubDate>Sun, 30 Nov 2025 19:28:03 GMT</pubDate>
-      <description><![CDATA[A reflection on how New Lakota, New Bern, Luna Freeport, and the Belt Stations come together for the 500th anniversary of the Mayflower, marking the first unified Thanksgiving after the UEB Incident.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
