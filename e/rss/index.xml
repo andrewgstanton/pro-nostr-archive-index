@@ -5,7 +5,97 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 23 Mar 2026 16:13:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 21:12:14 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 da10daccd6</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=da10daccd66c1f3ebd01c44758dab3be7fd75e51ace6102b540e57ffb4c4616c</link>
+      <guid isPermaLink="false">da10daccd66c1f3ebd01c44758dab3be7fd75e51ace6102b540e57ffb4c4616c</guid>
+      <pubDate>Tue, 24 Mar 2026 20:15:30 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 ede65d45ff</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ede65d45ff109be56d9d5658b9b5da50b28b850a951c87a35be2fd0adf06d381</link>
+      <guid isPermaLink="false">ede65d45ff109be56d9d5658b9b5da50b28b850a951c87a35be2fd0adf06d381</guid>
+      <pubDate>Tue, 24 Mar 2026 20:13:42 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 2f122301ec</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2f122301ec5e325d1dda863a8ee9fb7a447a09009e67876a4ae730c85c315d81</link>
+      <guid isPermaLink="false">2f122301ec5e325d1dda863a8ee9fb7a447a09009e67876a4ae730c85c315d81</guid>
+      <pubDate>Tue, 24 Mar 2026 20:11:03 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 c70d25045a</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c70d25045a98d6ac0bfb421161526d1ce044641aec4f3bdd8cec9d7c0add8d5c</link>
+      <guid isPermaLink="false">c70d25045a98d6ac0bfb421161526d1ce044641aec4f3bdd8cec9d7c0add8d5c</guid>
+      <pubDate>Tue, 24 Mar 2026 20:08:44 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 cb428ac7d0</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=cb428ac7d014653717910697bacc8233963f9877a718e104e8c47b3d24c1247a</link>
+      <guid isPermaLink="false">cb428ac7d014653717910697bacc8233963f9877a718e104e8c47b3d24c1247a</guid>
+      <pubDate>Tue, 24 Mar 2026 20:08:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>“Nostr Clients Are Enough”</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d56366d8992f01c36fe6c38d47e7756a62bdef7117c073ac0461ddc583916451</link>
+      <guid isPermaLink="false">d56366d8992f01c36fe6c38d47e7756a62bdef7117c073ac0461ddc583916451</guid>
+      <pubDate>Tue, 24 Mar 2026 18:05:08 GMT</pubDate>
+      <description><![CDATA[Nostr clients are powerful — especially for discovery and interaction. But they are not designed for ownership, authoring, or long-term control. This article explores why clients are essential, but not sufficient, and what changes when you separate discovery from creation.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Writing Isn’t Publishing</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=82df1c48da607ee4814faac6798d047ca21ca0b097d04501824c2239608e5c5b</link>
+      <guid isPermaLink="false">82df1c48da607ee4814faac6798d047ca21ca0b097d04501824c2239608e5c5b</guid>
+      <pubDate>Tue, 24 Mar 2026 17:44:42 GMT</pubDate>
+      <description><![CDATA[Most modern systems collapse writing and publishing into a single action. This creates hidden pressure and limits how ideas develop. This article explores why separating authoring from distribution matters — and how local-first systems restore a healthier way to think, write, and share.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>You Shouldn’t Need the Internet to Think</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=06cfdb7030aff51b3afe9a039d761a9a3fbf14bfeb5be945bf038d8d5899d945</link>
+      <guid isPermaLink="false">06cfdb7030aff51b3afe9a039d761a9a3fbf14bfeb5be945bf038d8d5899d945</guid>
+      <pubDate>Tue, 24 Mar 2026 17:26:33 GMT</pubDate>
+      <description><![CDATA[Most modern tools assume constant connectivity. If the network is down, the system stops working. This article explores how that assumption quietly reshapes how we create, think, and work — and why local-first systems restore something deeper than just offline access.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>You Don’t Own Your Account</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7c688ebf0c2a490524b29888582e58ded9cf8e28140baeba8527af38b5334f91</link>
+      <guid isPermaLink="false">7c688ebf0c2a490524b29888582e58ded9cf8e28140baeba8527af38b5334f91</guid>
+      <pubDate>Tue, 24 Mar 2026 17:19:52 GMT</pubDate>
+      <description><![CDATA[Most people believe they “own” their accounts, data, and identity online. In reality, they have access — not ownership. This article explores how small, everyday failures (like password resets and lockouts) reveal a deeper architectural problem, and why local-first systems change that foundation.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 0574ad3622</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=0574ad36222c1e15393b1e87733ebd1773d1a870b48c96b61c0a81bb752edacf</link>
@@ -4913,96 +5003,6 @@
       <pubDate>Mon, 26 Jan 2026 21:35:36 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 2 — Marketing (the line) - 1/25/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2c082b0df8c1d232c5bb10a0ad138e78916e41b9caed60c6b15dbd2a84ebf1fc</link>
-      <guid isPermaLink="false">2c082b0df8c1d232c5bb10a0ad138e78916e41b9caed60c6b15dbd2a84ebf1fc</guid>
-      <pubDate>Sun, 25 Jan 2026 18:21:47 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 3 — Growth (the qualifier) - 1/25/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0ec6f4f19d4c49237475b08a6be9c3ade17dea3a68f85a6527baaba4730c9b9b</link>
-      <guid isPermaLink="false">0ec6f4f19d4c49237475b08a6be9c3ade17dea3a68f85a6527baaba4730c9b9b</guid>
-      <pubDate>Sun, 25 Jan 2026 18:20:47 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 4 — Growth with rhythm - 1/25/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ac07c0d062c6c0aca268cf780c0290dbdc07cadc609bcc8404e7044c086b7a48</link>
-      <guid isPermaLink="false">ac07c0d062c6c0aca268cf780c0290dbdc07cadc609bcc8404e7044c086b7a48</guid>
-      <pubDate>Sun, 25 Jan 2026 18:20:02 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 5 — Durable building - 1/25/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=88346c88d9ce770a1f638bfe6024d1e66e0b8ab8eb5f6c38b2a5335845ba7cd2</link>
-      <guid isPermaLink="false">88346c88d9ce770a1f638bfe6024d1e66e0b8ab8eb5f6c38b2a5335845ba7cd2</guid>
-      <pubDate>Sun, 25 Jan 2026 18:19:10 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 1 — Marketing (why it matters) - 1/25/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2f71614b36953eaec0dc37c2986b28188734dcac8d69257aae0754c70e62953d</link>
-      <guid isPermaLink="false">2f71614b36953eaec0dc37c2986b28188734dcac8d69257aae0754c70e62953d</guid>
-      <pubDate>Sun, 25 Jan 2026 18:14:37 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Why God Builds Slowly (and Why That Terrifies Modern Builders)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0e4b77cd40b19d1439a389ccf732e717c40be97e7baa17b9e6d70ba6c5c2196c</link>
-      <guid isPermaLink="false">0e4b77cd40b19d1439a389ccf732e717c40be97e7baa17b9e6d70ba6c5c2196c</guid>
-      <pubDate>Sun, 25 Jan 2026 17:51:05 GMT</pubDate>
-      <description><![CDATA[Modern systems worship speed, scale, and visibility. Scripture does not. This essay explores why slowness is not a limitation in God’s design but a deliberate feature—one that forms people rather than extracting from them. The terror modern builders feel toward slow work reveals how deeply we have internalized metrics that mistake acceleration for progress.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Rest That Comes From Standing on Truth</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=76cf83141f3f6f9023a019488bc99a5b7db15d21ef978f8a54bde66cf5cb6f49</link>
-      <guid isPermaLink="false">76cf83141f3f6f9023a019488bc99a5b7db15d21ef978f8a54bde66cf5cb6f49</guid>
-      <pubDate>Sun, 25 Jan 2026 17:45:44 GMT</pubDate>
-      <description><![CDATA[Much of modern exhaustion does not come from effort alone, but from maintaining false narratives—about success, identity, and meaning. This essay explores how clarity produces rest, why alignment with truth reduces inner friction, and how peace emerges not from disengagement, but from no longer needing to uphold illusions.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Lie of “Recharge So You Can Go Back”</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6858aea0a1f484adb72769c486bbffefdb9062b40141ccaf3e9b8c0dbe5d5b90</link>
-      <guid isPermaLink="false">6858aea0a1f484adb72769c486bbffefdb9062b40141ccaf3e9b8c0dbe5d5b90</guid>
-      <pubDate>Sat, 24 Jan 2026 23:03:18 GMT</pubDate>
-      <description><![CDATA[Modern culture encourages rest only insofar as it enables people to return to the same extractive patterns that exhausted them in the first place. This essay examines the subtle lie embedded in “recharging,” the difference between pause and realignment, and why true rest does not prepare us to go back—but invites us to question where we are going at all.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Burnout Is Not a Personal Failure — It’s a Systems Signal</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=76b1da3ba6b0b4d55537e237ebda85aeeef55dbae32715c20dc97955b79dc383</link>
-      <guid isPermaLink="false">76b1da3ba6b0b4d55537e237ebda85aeeef55dbae32715c20dc97955b79dc383</guid>
-      <pubDate>Sat, 24 Jan 2026 23:01:27 GMT</pubDate>
-      <description><![CDATA[Burnout is often framed as a personal weakness or a failure to manage stress. In reality, burnout is a systems-level signal—especially among builders, writers, and conscientious people. This essay argues that burnout is not caused by doing too much, but by being forced to operate inside systems that extract meaning, punish integrity, and reward surface-level performance over truth.  ---]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>

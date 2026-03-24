@@ -5,7 +5,47 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 23 Mar 2026 16:13:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 21:12:14 GMT</lastBuildDate>
+    <item>
+      <title>“Nostr Clients Are Enough”</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d56366d8992f01c36fe6c38d47e7756a62bdef7117c073ac0461ddc583916451</link>
+      <guid isPermaLink="false">d56366d8992f01c36fe6c38d47e7756a62bdef7117c073ac0461ddc583916451</guid>
+      <pubDate>Tue, 24 Mar 2026 18:05:08 GMT</pubDate>
+      <description><![CDATA[Nostr clients are powerful — especially for discovery and interaction. But they are not designed for ownership, authoring, or long-term control. This article explores why clients are essential, but not sufficient, and what changes when you separate discovery from creation.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Writing Isn’t Publishing</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=82df1c48da607ee4814faac6798d047ca21ca0b097d04501824c2239608e5c5b</link>
+      <guid isPermaLink="false">82df1c48da607ee4814faac6798d047ca21ca0b097d04501824c2239608e5c5b</guid>
+      <pubDate>Tue, 24 Mar 2026 17:44:42 GMT</pubDate>
+      <description><![CDATA[Most modern systems collapse writing and publishing into a single action. This creates hidden pressure and limits how ideas develop. This article explores why separating authoring from distribution matters — and how local-first systems restore a healthier way to think, write, and share.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>You Shouldn’t Need the Internet to Think</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=06cfdb7030aff51b3afe9a039d761a9a3fbf14bfeb5be945bf038d8d5899d945</link>
+      <guid isPermaLink="false">06cfdb7030aff51b3afe9a039d761a9a3fbf14bfeb5be945bf038d8d5899d945</guid>
+      <pubDate>Tue, 24 Mar 2026 17:26:33 GMT</pubDate>
+      <description><![CDATA[Most modern tools assume constant connectivity. If the network is down, the system stops working. This article explores how that assumption quietly reshapes how we create, think, and work — and why local-first systems restore something deeper than just offline access.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>You Don’t Own Your Account</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7c688ebf0c2a490524b29888582e58ded9cf8e28140baeba8527af38b5334f91</link>
+      <guid isPermaLink="false">7c688ebf0c2a490524b29888582e58ded9cf8e28140baeba8527af38b5334f91</guid>
+      <pubDate>Tue, 24 Mar 2026 17:19:52 GMT</pubDate>
+      <description><![CDATA[Most people believe they “own” their accounts, data, and identity online. In reality, they have access — not ownership. This article explores how small, everyday failures (like password resets and lockouts) reveal a deeper architectural problem, and why local-first systems change that foundation.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>You Don’t Rise Into Clarity, You Build Into It</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=52b67c3acc2a8b102ba9946a8f059842b0123dc61dfdc2790b007b85a7be140c</link>
@@ -2567,11 +2607,11 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>kind:30023 2cbb1ff1af</title>
+      <title>🔒The Bitcoin Chronicles - A.0 - Book 0.85 - The Day After Genesis</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=2cbb1ff1afbf37055c8f93e75723b57cefe218124030e70d752fc5e84a224fdd</link>
       <guid isPermaLink="false">2cbb1ff1afbf37055c8f93e75723b57cefe218124030e70d752fc5e84a224fdd</guid>
       <pubDate>Fri, 02 Jan 2026 04:11:18 GMT</pubDate>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[Nothing visibly changed the day after the Bitcoin Genesis Block. And yet, everything had already become different.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
@@ -4962,46 +5002,6 @@
       <guid isPermaLink="false">721221c63912e73422d802c95ac43189301c462765872be5a91ef3f901034e56</guid>
       <pubDate>Wed, 03 Dec 2025 20:02:53 GMT</pubDate>
       <description><![CDATA[Years before the Last Free Launch and decades before the Exodus Waves, a single unauthorized rocket slipped through the cracks of an increasingly permissioned world. Small, improvised, almost forgotten—it became the mythic spark of a fracture Earth could never contain.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 28, 2025): The Bitcoin Chronicles: 1.B.1 - The Shackleton Accords</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=fc53cfc832928d1aa44b0f471bf2152c2c93a19ab52fc7cfac2237ea299504e7</link>
-      <guid isPermaLink="false">fc53cfc832928d1aa44b0f471bf2152c2c93a19ab52fc7cfac2237ea299504e7</guid>
-      <pubDate>Wed, 03 Dec 2025 00:44:54 GMT</pubDate>
-      <description><![CDATA[Lunar enclaves quickly discover that survival requires cooperation. Limited energy, ice, and habitable terrain force the creation of humanity’s first off-world political framework: the Shackleton Accords, a non-hierarchical governance model based on contribution, consensus, and transparent resource exchange.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Bitcoin Chronicles: Toward The Stars — Part 2 (1.B.0) : Lunar Nodes</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f1640ec8158d7d9fc5020ade7b607f54a9613d636b7f7c55d0278c14a7e4d7c5</link>
-      <guid isPermaLink="false">f1640ec8158d7d9fc5020ade7b607f54a9613d636b7f7c55d0278c14a7e4d7c5</guid>
-      <pubDate>Wed, 03 Dec 2025 00:26:19 GMT</pubDate>
-      <description><![CDATA[Part 2 of the Bitcoin Chronicles explores the Moon as the first off-world Bitcoin frontier, where low latency enables near-seamless participation in Earth’s network and the first taste of truly interplanetary sovereignty.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Dec. 2, 2025): The Bitcoin Chronicles - 1.A.0.1 - The Age of Compliance</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=242a492232149185bc0555322e1f31220eb9d0394120b098201d55ef8b6572d2</link>
-      <guid isPermaLink="false">242a492232149185bc0555322e1f31220eb9d0394120b098201d55ef8b6572d2</guid>
-      <pubDate>Tue, 02 Dec 2025 19:23:45 GMT</pubDate>
-      <description><![CDATA[Before the first sovereign launches, before the Atlas Uprising, and long before the Exodus Waves, Earth enters the Age of Compliance — a subtle but totalizing transformation. What begins as convenience becomes mandate. What begins as digital identity becomes destiny. This is the proto-era of the United Earth Bureau.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Dec. 2): The Bitcoin Chronicles - Book 0.5 - THE BABYLONIAN OS</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=fba158da264c6680db9ed51ecac9f143cb9cb67c1bbed30794cba4e3ff4c224d</link>
-      <guid isPermaLink="false">fba158da264c6680db9ed51ecac9f143cb9cb67c1bbed30794cba4e3ff4c224d</guid>
-      <pubDate>Tue, 02 Dec 2025 18:23:44 GMT</pubDate>
-      <description><![CDATA[Book 0.5 explains why the Bitcoin Chronicles begin in the mid-21st century. Humanity has lived for millennia under the Babylonian Operating System — a misalignment born from the ancient fracture in human sovereignty described in Book 0. Only now, with the rediscovery of honest money, open protocols, and truth-aligned systems, does humanity begin to exit the Extractive Age and enter the first stage of sovereign civilization.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

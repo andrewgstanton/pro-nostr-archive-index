@@ -5,7 +5,47 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 23 Mar 2026 16:13:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 21:12:14 GMT</lastBuildDate>
+    <item>
+      <title>“Nostr Clients Are Enough”</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d56366d8992f01c36fe6c38d47e7756a62bdef7117c073ac0461ddc583916451</link>
+      <guid isPermaLink="false">d56366d8992f01c36fe6c38d47e7756a62bdef7117c073ac0461ddc583916451</guid>
+      <pubDate>Tue, 24 Mar 2026 18:05:08 GMT</pubDate>
+      <description><![CDATA[Nostr clients are powerful — especially for discovery and interaction. But they are not designed for ownership, authoring, or long-term control. This article explores why clients are essential, but not sufficient, and what changes when you separate discovery from creation.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Writing Isn’t Publishing</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=82df1c48da607ee4814faac6798d047ca21ca0b097d04501824c2239608e5c5b</link>
+      <guid isPermaLink="false">82df1c48da607ee4814faac6798d047ca21ca0b097d04501824c2239608e5c5b</guid>
+      <pubDate>Tue, 24 Mar 2026 17:44:42 GMT</pubDate>
+      <description><![CDATA[Most modern systems collapse writing and publishing into a single action. This creates hidden pressure and limits how ideas develop. This article explores why separating authoring from distribution matters — and how local-first systems restore a healthier way to think, write, and share.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>You Shouldn’t Need the Internet to Think</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=06cfdb7030aff51b3afe9a039d761a9a3fbf14bfeb5be945bf038d8d5899d945</link>
+      <guid isPermaLink="false">06cfdb7030aff51b3afe9a039d761a9a3fbf14bfeb5be945bf038d8d5899d945</guid>
+      <pubDate>Tue, 24 Mar 2026 17:26:33 GMT</pubDate>
+      <description><![CDATA[Most modern tools assume constant connectivity. If the network is down, the system stops working. This article explores how that assumption quietly reshapes how we create, think, and work — and why local-first systems restore something deeper than just offline access.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>You Don’t Own Your Account</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7c688ebf0c2a490524b29888582e58ded9cf8e28140baeba8527af38b5334f91</link>
+      <guid isPermaLink="false">7c688ebf0c2a490524b29888582e58ded9cf8e28140baeba8527af38b5334f91</guid>
+      <pubDate>Tue, 24 Mar 2026 17:19:52 GMT</pubDate>
+      <description><![CDATA[Most people believe they “own” their accounts, data, and identity online. In reality, they have access — not ownership. This article explores how small, everyday failures (like password resets and lockouts) reveal a deeper architectural problem, and why local-first systems change that foundation.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>You Don’t Rise Into Clarity, You Build Into It</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=52b67c3acc2a8b102ba9946a8f059842b0123dc61dfdc2790b007b85a7be140c</link>
@@ -2497,11 +2537,11 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>kind:30023 2cbb1ff1af</title>
+      <title>🔒The Bitcoin Chronicles - A.0 - Book 0.85 - The Day After Genesis</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=2cbb1ff1afbf37055c8f93e75723b57cefe218124030e70d752fc5e84a224fdd</link>
       <guid isPermaLink="false">2cbb1ff1afbf37055c8f93e75723b57cefe218124030e70d752fc5e84a224fdd</guid>
       <pubDate>Fri, 02 Jan 2026 04:11:18 GMT</pubDate>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[Nothing visibly changed the day after the Bitcoin Genesis Block. And yet, everything had already become different.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
@@ -4962,46 +5002,6 @@
       <guid isPermaLink="false">5d6c89e754c000d03fc637fcd86c384b7695ac4f0b1a2309a9df5cca4db446f9</guid>
       <pubDate>Sat, 22 Nov 2025 21:47:38 GMT</pubDate>
       <description><![CDATA[A meditation on the Sabbath principle — not as a religious artifact, but as a universal pattern of rest, resistance, and sovereignty. This article explores why modern people have no economic Sabbath, how perpetual extraction has replaced rest, why Bitcoin functions as a Sabbath-technology, and how reclaiming rest becomes an act of freedom in an age built on debt, interest, and rent.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Can We Eliminate World Debt on a Bitcoin Standard?</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=095273686050b776a1c8e085f3e9d15146a65f2eedf2c4df55daa95cfcb9aa50</link>
-      <guid isPermaLink="false">095273686050b776a1c8e085f3e9d15146a65f2eedf2c4df55daa95cfcb9aa50</guid>
-      <pubDate>Sat, 22 Nov 2025 21:45:35 GMT</pubDate>
-      <description><![CDATA[This article explores whether it’s actually possible to eliminate national and global debt using a Bitcoin standard. It explains what “debt” really means, why our current system mathematically requires ever-growing obligations, and how a transition to hard money would force a restructuring of claims. The conclusion: yes, we can end the era of unpayable debt — but only through a combination of restructuring, partial defaults, and a reset onto honest money, not by magically honoring every fiat IOU.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Announcing Continuum Pro</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0796cf873fc293a8b944670d4dad7e0d3666c09f8a464c8f342db9f1521e5e13</link>
-      <guid isPermaLink="false">0796cf873fc293a8b944670d4dad7e0d3666c09f8a464c8f342db9f1521e5e13</guid>
-      <pubDate>Sat, 22 Nov 2025 03:53:20 GMT</pubDate>
-      <description><![CDATA[Akamaister shares a personal announcement about launching Continuum Pro after months of quiet work, framing it as a solution to the problem of preserving long-form Nostr posts with real permanence. The announcement focuses on sovereignty, archiving, and stability, while a separate teaser note (posted afterward) invites feedback from builders like Odell and fiatjaf. The post also highlights the managed archive, static viewer, and the perk that Pro members receive full access to all paid articles.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov 21, 2025): The Future of Publishing Is Local-First and Cloud-Mirrored</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a79672a5d9d8a3d659459a03c286d945aa789e26b88de9d96ffd0e92f5afc5c7</link>
-      <guid isPermaLink="false">a79672a5d9d8a3d659459a03c286d945aa789e26b88de9d96ffd0e92f5afc5c7</guid>
-      <pubDate>Sat, 22 Nov 2025 02:17:22 GMT</pubDate>
-      <description><![CDATA[The old model of publishing relied on centralized control. The new model must be local-first, with cloud infrastructure playing a supportive — not authoritative — role. Continuum Pro demonstrates what this future looks like.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 21, 2025): Why Sovereign Tools Need Their Own Milestones</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9c890f1feea919f2e3bfa26c7433b834db62a703e8394cc4e15e1b9481a86ac1</link>
-      <guid isPermaLink="false">9c890f1feea919f2e3bfa26c7433b834db62a703e8394cc4e15e1b9481a86ac1</guid>
-      <pubDate>Sat, 22 Nov 2025 02:13:59 GMT</pubDate>
-      <description><![CDATA[In a world dominated by centralized platforms, small victories in sovereign tech matter more than most people realize. This article reflects on why milestones like the launch of Continuum Pro are critical for building an alternative future.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
