@@ -5,7 +5,7 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 24 Mar 2026 21:12:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 23:20:51 GMT</lastBuildDate>
     <item>
       <title>“Nostr Clients Are Enough”</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=d56366d8992f01c36fe6c38d47e7756a62bdef7117c073ac0461ddc583916451</link>
@@ -302,6 +302,16 @@
       <guid isPermaLink="false">d98d1d7b3d8f9f454a9ed7b159445d2340611a848789dea0496c63388c65dd0f</guid>
       <pubDate>Sun, 15 Mar 2026 04:46:13 GMT</pubDate>
       <description><![CDATA[Throughout history, taxation has expanded alongside state power. From a libertarian perspective, much of modern taxation resembles a form of compelled labor. The biblical concept of Sabbath introduces a powerful counter-principle: human time ultimately belongs to God, not to political authorities.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>test article</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=312fa7bd25ce91cfae979f1ac4b0887ee0c5a6d09c4b4d6df1b4bac27eebd0c3</link>
+      <guid isPermaLink="false">312fa7bd25ce91cfae979f1ac4b0887ee0c5a6d09c4b4d6df1b4bac27eebd0c3</guid>
+      <pubDate>Sun, 15 Mar 2026 04:41:44 GMT</pubDate>
+      <description><![CDATA[this is a test]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">80418cd99201747592f55223207f17d3ae3540070a574a215eecb7ceaeeef70f</guid>
       <pubDate>Sat, 22 Nov 2025 21:49:43 GMT</pubDate>
       <description><![CDATA[A practical, near-future exploration of how mortgages would evolve under a Bitcoin standard. This article explains why ultra-long loans collapse, why price discovery resets, how lenders protect themselves without inflation, how communities reclaim credit, and how home ownership becomes more attainable—not less—in a hard-money world.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sabbath Article (Nov. 22, 2025): Sabbath for the Sovereign: Resting From the World’s Rent-Extraction System</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5d6c89e754c000d03fc637fcd86c384b7695ac4f0b1a2309a9df5cca4db446f9</link>
-      <guid isPermaLink="false">5d6c89e754c000d03fc637fcd86c384b7695ac4f0b1a2309a9df5cca4db446f9</guid>
-      <pubDate>Sat, 22 Nov 2025 21:47:38 GMT</pubDate>
-      <description><![CDATA[A meditation on the Sabbath principle — not as a religious artifact, but as a universal pattern of rest, resistance, and sovereignty. This article explores why modern people have no economic Sabbath, how perpetual extraction has replaced rest, why Bitcoin functions as a Sabbath-technology, and how reclaiming rest becomes an act of freedom in an age built on debt, interest, and rent.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

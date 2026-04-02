@@ -5,7 +5,7 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 24 Mar 2026 21:12:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 23:20:51 GMT</lastBuildDate>
     <item>
       <title>“Nostr Clients Are Enough”</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=d56366d8992f01c36fe6c38d47e7756a62bdef7117c073ac0461ddc583916451</link>
@@ -302,6 +302,16 @@
       <guid isPermaLink="false">d98d1d7b3d8f9f454a9ed7b159445d2340611a848789dea0496c63388c65dd0f</guid>
       <pubDate>Sun, 15 Mar 2026 04:46:13 GMT</pubDate>
       <description><![CDATA[Throughout history, taxation has expanded alongside state power. From a libertarian perspective, much of modern taxation resembles a form of compelled labor. The biblical concept of Sabbath introduces a powerful counter-principle: human time ultimately belongs to God, not to political authorities.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>test article</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=312fa7bd25ce91cfae979f1ac4b0887ee0c5a6d09c4b4d6df1b4bac27eebd0c3</link>
+      <guid isPermaLink="false">312fa7bd25ce91cfae979f1ac4b0887ee0c5a6d09c4b4d6df1b4bac27eebd0c3</guid>
+      <pubDate>Sun, 15 Mar 2026 04:41:44 GMT</pubDate>
+      <description><![CDATA[this is a test]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">05ecf1dc28d95b27d622052914b90fec39718b25477470b530708d6e9aba795b</guid>
       <pubDate>Wed, 03 Dec 2025 20:05:31 GMT</pubDate>
       <description><![CDATA[Before the Exodus Waves and long before the first Lunar Nodes, a small underground collective quietly shaped the trajectory of humanity. Not through violence or protest, but through conviction, foresight, and a refusal to accept the narrowing limits of Earth’s compliance regime. They called themselves **The Atlas Group**, and their quiet resistance became the philosophical backbone of humanity’s first great breakaway.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Dec. 3, 2025): The Bitcoin Chronicles - 1.A.0.3 - The Launch That Shouldn’t Have Happened</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=721221c63912e73422d802c95ac43189301c462765872be5a91ef3f901034e56</link>
-      <guid isPermaLink="false">721221c63912e73422d802c95ac43189301c462765872be5a91ef3f901034e56</guid>
-      <pubDate>Wed, 03 Dec 2025 20:02:53 GMT</pubDate>
-      <description><![CDATA[Years before the Last Free Launch and decades before the Exodus Waves, a single unauthorized rocket slipped through the cracks of an increasingly permissioned world. Small, improvised, almost forgotten—it became the mythic spark of a fracture Earth could never contain.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
