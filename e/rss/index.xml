@@ -5,7 +5,47 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 03 Apr 2026 02:22:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 23:12:21 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 577651b349</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=577651b34934e1f444dbf4c4ff862dc07a4cf8cd478ea4530197af25f01b5b6d</link>
+      <guid isPermaLink="false">577651b34934e1f444dbf4c4ff862dc07a4cf8cd478ea4530197af25f01b5b6d</guid>
+      <pubDate>Fri, 03 Apr 2026 22:39:09 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 40c6d84b1d</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=40c6d84b1de5568b040296163c9deccef8a49549659906e65f8597f0389acd27</link>
+      <guid isPermaLink="false">40c6d84b1de5568b040296163c9deccef8a49549659906e65f8597f0389acd27</guid>
+      <pubDate>Fri, 03 Apr 2026 03:00:01 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 13a8f9c4e0</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=13a8f9c4e0de4b99f9685d1999151465e000306e2bc4ed4dd27d3efe00d46305</link>
+      <guid isPermaLink="false">13a8f9c4e0de4b99f9685d1999151465e000306e2bc4ed4dd27d3efe00d46305</guid>
+      <pubDate>Fri, 03 Apr 2026 02:59:46 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 aefee33510</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=aefee33510d80aae07c106509b948dc1a1f473c89313ec33dafba880d4915db2</link>
+      <guid isPermaLink="false">aefee33510d80aae07c106509b948dc1a1f473c89313ec33dafba880d4915db2</guid>
+      <pubDate>Fri, 03 Apr 2026 02:59:31 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 85aca707ab</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=85aca707abb33a2ea6833c59c06ffeeb30ebd09211e8bda891150eec2dd80896</link>
@@ -4963,46 +5003,6 @@
       <pubDate>Thu, 29 Jan 2026 19:15:52 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 2 — Validation Is a Lagging Indicator - 1/29/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=cf651afb6533e338469ee0278c05bc5e7501244998af6d190f514317cca4c61e</link>
-      <guid isPermaLink="false">cf651afb6533e338469ee0278c05bc5e7501244998af6d190f514317cca4c61e</guid>
-      <pubDate>Thu, 29 Jan 2026 19:14:07 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 1 — Silence Is Not a Verdict - 1/29/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=8b128c8d7da8d4337068dea986b4401ad393f74a60a555156913e8b8eb4b3f92</link>
-      <guid isPermaLink="false">8b128c8d7da8d4337068dea986b4401ad393f74a60a555156913e8b8eb4b3f92</guid>
-      <pubDate>Thu, 29 Jan 2026 19:12:15 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Cost of Depending on Systems You Don’t Control</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=18232545418eb1c582d30f25b8c66f89543790f8c8849a39df4da171300429e1</link>
-      <guid isPermaLink="false">18232545418eb1c582d30f25b8c66f89543790f8c8849a39df4da171300429e1</guid>
-      <pubDate>Wed, 28 Jan 2026 19:45:37 GMT</pubDate>
-      <description><![CDATA[Convenience always has a price. This essay examines the hidden costs of outsourcing identity, memory, and agency to systems you do not control — and why reclaiming them is becoming less optional with time.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Why Quiet Builders Win in the End</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=403a2e0788815851508304fd8073c611164c5d304cdcb66c69bb4af45dd7c718</link>
-      <guid isPermaLink="false">403a2e0788815851508304fd8073c611164c5d304cdcb66c69bb4af45dd7c718</guid>
-      <pubDate>Wed, 28 Jan 2026 19:44:30 GMT</pubDate>
-      <description><![CDATA[In an economy obsessed with visibility and velocity, quiet builders are often dismissed as irrelevant. This piece argues the opposite: that those who build slowly, privately, and deliberately are the ones best positioned for durability when conditions tighten.]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>

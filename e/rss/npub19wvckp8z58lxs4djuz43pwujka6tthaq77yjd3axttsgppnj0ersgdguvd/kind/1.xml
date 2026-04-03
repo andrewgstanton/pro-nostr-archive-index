@@ -5,7 +5,47 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 03 Apr 2026 02:22:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 23:12:21 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 577651b349</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=577651b34934e1f444dbf4c4ff862dc07a4cf8cd478ea4530197af25f01b5b6d</link>
+      <guid isPermaLink="false">577651b34934e1f444dbf4c4ff862dc07a4cf8cd478ea4530197af25f01b5b6d</guid>
+      <pubDate>Fri, 03 Apr 2026 22:39:09 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 40c6d84b1d</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=40c6d84b1de5568b040296163c9deccef8a49549659906e65f8597f0389acd27</link>
+      <guid isPermaLink="false">40c6d84b1de5568b040296163c9deccef8a49549659906e65f8597f0389acd27</guid>
+      <pubDate>Fri, 03 Apr 2026 03:00:01 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 13a8f9c4e0</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=13a8f9c4e0de4b99f9685d1999151465e000306e2bc4ed4dd27d3efe00d46305</link>
+      <guid isPermaLink="false">13a8f9c4e0de4b99f9685d1999151465e000306e2bc4ed4dd27d3efe00d46305</guid>
+      <pubDate>Fri, 03 Apr 2026 02:59:46 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 aefee33510</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=aefee33510d80aae07c106509b948dc1a1f473c89313ec33dafba880d4915db2</link>
+      <guid isPermaLink="false">aefee33510d80aae07c106509b948dc1a1f473c89313ec33dafba880d4915db2</guid>
+      <pubDate>Fri, 03 Apr 2026 02:59:31 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 85aca707ab</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=85aca707abb33a2ea6833c59c06ffeeb30ebd09211e8bda891150eec2dd80896</link>
@@ -4961,46 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=db922f4df519434762bc3f71205ee2414ebb702cc338184de81252626cfbb755</link>
       <guid isPermaLink="false">db922f4df519434762bc3f71205ee2414ebb702cc338184de81252626cfbb755</guid>
       <pubDate>Sat, 20 Dec 2025 19:42:38 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Why I’m experimenting with monetization on Nostr (without vendor lock-in)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7744ff34c30f9dac5f27b9312d7a7d935213163fdd94cb4e805721cfa4713b40</link>
-      <guid isPermaLink="false">7744ff34c30f9dac5f27b9312d7a7d935213163fdd94cb4e805721cfa4713b40</guid>
-      <pubDate>Sat, 20 Dec 2025 19:39:43 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Why do I write articles instead of posting notes?</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=176d45ea909d1252fc8000a67e0752e5800bcdf7c9b6cbd01392d305232c2648</link>
-      <guid isPermaLink="false">176d45ea909d1252fc8000a67e0752e5800bcdf7c9b6cbd01392d305232c2648</guid>
-      <pubDate>Sat, 20 Dec 2025 19:32:55 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 d0814a2e39</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d0814a2e39b8e675645c646b0d490742f5714758afe86502bf15701799a2b39e</link>
-      <guid isPermaLink="false">d0814a2e39b8e675645c646b0d490742f5714758afe86502bf15701799a2b39e</guid>
-      <pubDate>Sat, 20 Dec 2025 19:10:25 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 9b8001d530</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9b8001d5307e36b03011fd233bb2140beaffe7bdb4697f2377a59346e57888b9</link>
-      <guid isPermaLink="false">9b8001d5307e36b03011fd233bb2140beaffe7bdb4697f2377a59346e57888b9</guid>
-      <pubDate>Fri, 19 Dec 2025 04:40:25 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>

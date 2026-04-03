@@ -1,5 +1,61 @@
 [
   {
+    "slug": null,
+    "event_id": "577651b34934e1f444dbf4c4ff862dc07a4cf8cd478ea4530197af25f01b5b6d",
+    "created_at": 1775255949,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/577651b34934e1f444dbf4c4ff862dc07a4cf8cd478ea4530197af25f01b5b6d.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "40c6d84b1de5568b040296163c9deccef8a49549659906e65f8597f0389acd27",
+    "created_at": 1775185201,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/40c6d84b1de5568b040296163c9deccef8a49549659906e65f8597f0389acd27.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "13a8f9c4e0de4b99f9685d1999151465e000306e2bc4ed4dd27d3efe00d46305",
+    "created_at": 1775185186,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/13a8f9c4e0de4b99f9685d1999151465e000306e2bc4ed4dd27d3efe00d46305.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "aefee33510d80aae07c106509b948dc1a1f473c89313ec33dafba880d4915db2",
+    "created_at": 1775185171,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/aefee33510d80aae07c106509b948dc1a1f473c89313ec33dafba880d4915db2.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "builders-journal---thursday-422026",
+    "event_id": "9cbe66e6d26b847f1a48e8a7db6c745029e71511f10051acc0772a3efe84046f",
+    "created_at": 1775183433,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/9cbe66e6d26b847f1a48e8a7db6c745029e71511f10051acc0772a3efe84046f.json",
+    "title": "Builder's Journal - Thursday, 4/2/2026",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
     "slug": "builders-journal---wednesday-412026",
     "event_id": "cbe7855f32ee39e0248cd78db882a13044a7dc656b641efc6ebbd903f20e441f",
     "created_at": 1775182189,
