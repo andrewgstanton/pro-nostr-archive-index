@@ -1,5 +1,17 @@
 [
   {
+    "slug": "builders-journal---wednesday-412026",
+    "event_id": "cbe7855f32ee39e0248cd78db882a13044a7dc656b641efc6ebbd903f20e441f",
+    "created_at": 1775182189,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/cbe7855f32ee39e0248cd78db882a13044a7dc656b641efc6ebbd903f20e441f.json",
+    "title": "Builder's Journal - Wednesday, 4/1/2026",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
     "slug": null,
     "event_id": "85aca707abb33a2ea6833c59c06ffeeb30ebd09211e8bda891150eec2dd80896",
     "created_at": 1775171515,
