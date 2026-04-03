@@ -3331,5 +3331,10 @@
   "nostr-clients-are-enough": {
     "latest_event_id": "d56366d8992f01c36fe6c38d47e7756a62bdef7117c073ac0461ddc583916451",
     "latest_year": 2026
+  },
+  "builders-journal---wednesday-412026": {
+    "latest_event_id": "cbe7855f32ee39e0248cd78db882a13044a7dc656b641efc6ebbd903f20e441f",
+    "latest_year": 2026,
+    "published": false
   }
 }
