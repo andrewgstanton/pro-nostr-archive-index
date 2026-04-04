@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 03 Apr 2026 23:12:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 22:48:29 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 1b193b1244</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1b193b12446199aaa3e90b2f26a5a164d91d19bf282e44404398c2b3204fa498</link>
+      <guid isPermaLink="false">1b193b12446199aaa3e90b2f26a5a164d91d19bf282e44404398c2b3204fa498</guid>
+      <pubDate>Sat, 04 Apr 2026 05:04:55 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 f436162ab9</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f436162ab988a635329b2d7109c0768c532b701673bb1406e4d9b286a8df2212</link>
+      <guid isPermaLink="false">f436162ab988a635329b2d7109c0768c532b701673bb1406e4d9b286a8df2212</guid>
+      <pubDate>Sat, 04 Apr 2026 05:03:14 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 bc17c41ba5</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=bc17c41ba526821b6d50f9c5b33c23c2963241c03ec445a21d27005509fabd7e</link>
+      <guid isPermaLink="false">bc17c41ba526821b6d50f9c5b33c23c2963241c03ec445a21d27005509fabd7e</guid>
+      <pubDate>Sat, 04 Apr 2026 05:01:47 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 577651b349</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=577651b34934e1f444dbf4c4ff862dc07a4cf8cd478ea4530197af25f01b5b6d</link>
@@ -4973,36 +5003,6 @@
       <pubDate>Thu, 29 Jan 2026 19:58:16 GMT</pubDate>
       <description><![CDATA[Continuum didn’t just become a tool I built — it became a place I live from. This piece reflects on how building a system, becoming a writer, and collaborating with tools (human and artificial) reshaped how I understand time, identity, authorship, and truth.]]></description>
       <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 5 — You’re Not Behind - 1/29/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=110a95dfd61a92c162d5bb3875ebc9b9e84a8c8777de015336d7691fe8850d30</link>
-      <guid isPermaLink="false">110a95dfd61a92c162d5bb3875ebc9b9e84a8c8777de015336d7691fe8850d30</guid>
-      <pubDate>Thu, 29 Jan 2026 19:18:34 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 4 — Obscurity Is a Forge - 1/29/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=576f6ccf6f2bd9bf18dd0f93a6c7a5a2c781eef6bd5e8b182e9170575f68a035</link>
-      <guid isPermaLink="false">576f6ccf6f2bd9bf18dd0f93a6c7a5a2c781eef6bd5e8b182e9170575f68a035</guid>
-      <pubDate>Thu, 29 Jan 2026 19:17:14 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 3 — Loneliness Is Often the Cost of Integrity - 1/29/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=14209b3a26d27e2605708d7263dee5642d80b66b3eeb5b2fdce408f348b443df</link>
-      <guid isPermaLink="false">14209b3a26d27e2605708d7263dee5642d80b66b3eeb5b2fdce408f348b443df</guid>
-      <pubDate>Thu, 29 Jan 2026 19:15:52 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
