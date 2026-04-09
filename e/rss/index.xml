@@ -5,7 +5,67 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 07 Apr 2026 02:04:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 18:15:05 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 4f4fd3a8f2</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4f4fd3a8f27c34206cbb6cb02a6d9ad159e66d57f3da7150d79fa941d2fcc8e3</link>
+      <guid isPermaLink="false">4f4fd3a8f27c34206cbb6cb02a6d9ad159e66d57f3da7150d79fa941d2fcc8e3</guid>
+      <pubDate>Wed, 08 Apr 2026 22:04:33 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 59733b3c5f</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=59733b3c5feb0f9e2550df4c0c12efbec3c91e1214730b76b1c46414a404dcfb</link>
+      <guid isPermaLink="false">59733b3c5feb0f9e2550df4c0c12efbec3c91e1214730b76b1c46414a404dcfb</guid>
+      <pubDate>Wed, 08 Apr 2026 16:25:57 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 24db6698fc</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=24db6698fc8f1fdf92a9166286c3c33d9253a122ba3a50d60e4896eb88c4463c</link>
+      <guid isPermaLink="false">24db6698fc8f1fdf92a9166286c3c33d9253a122ba3a50d60e4896eb88c4463c</guid>
+      <pubDate>Wed, 08 Apr 2026 07:29:04 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 d89f4f3110</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d89f4f311098ed507dd55fc2a6420b0cf4736cc4c5a716d31fbcefaae9005b04</link>
+      <guid isPermaLink="false">d89f4f311098ed507dd55fc2a6420b0cf4736cc4c5a716d31fbcefaae9005b04</guid>
+      <pubDate>Wed, 08 Apr 2026 06:56:05 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 c04e33d260</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c04e33d26050de3522cfafa37aea7abe1d851dc18f51ef308183e8f34d1e1392</link>
+      <guid isPermaLink="false">c04e33d26050de3522cfafa37aea7abe1d851dc18f51ef308183e8f34d1e1392</guid>
+      <pubDate>Wed, 08 Apr 2026 06:55:03 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 964f5ce658</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=964f5ce6588c5159a875cca29ff47c84264462a02656270cfc03d552fe432ac9</link>
+      <guid isPermaLink="false">964f5ce6588c5159a875cca29ff47c84264462a02656270cfc03d552fe432ac9</guid>
+      <pubDate>Wed, 08 Apr 2026 06:54:23 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 dddae876dd</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=dddae876ddff690a484be5b8b7f3c55967c1a1021ca706481a8337c424305a8e</link>
@@ -4943,66 +5003,6 @@
       <pubDate>Sat, 31 Jan 2026 20:10:59 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 5 - 1/31/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=da43c979dcf566a42597de332c42ed90d6815746f810abfb25a4de28bec2f1e5</link>
-      <guid isPermaLink="false">da43c979dcf566a42597de332c42ed90d6815746f810abfb25a4de28bec2f1e5</guid>
-      <pubDate>Sat, 31 Jan 2026 20:08:59 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum and the Work of Stewardship  -</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=1e25ff9c3ac24215138884158611e9822d8212457c006987de699675bdfb2dab</link>
-      <guid isPermaLink="false">1e25ff9c3ac24215138884158611e9822d8212457c006987de699675bdfb2dab</guid>
-      <pubDate>Sat, 31 Jan 2026 03:57:11 GMT</pubDate>
-      <description><![CDATA[Modern ministries rely heavily on platforms they do not control. Continuum offers a different approach: a local-first publishing foundation that prioritizes stewardship, integrity, and long-term faithfulness over reach, metrics, or convenience.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum: A Local-First Publishing System</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=58f0e84eb52523defa2d4c67a4912764733dfbd848ab6cf16a33b05e80da0c8d</link>
-      <guid isPermaLink="false">58f0e84eb52523defa2d4c67a4912764733dfbd848ab6cf16a33b05e80da0c8d</guid>
-      <pubDate>Sat, 31 Jan 2026 03:54:34 GMT</pubDate>
-      <description><![CDATA[Continuum is a local-first, Docker-based publishing system built on Nostr. It emphasizes explicit control, minimal trust surfaces, and optional archiving rather than automatic cloud dependence.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Why the Most Impressive Systems Don’t Try to Look Impressive</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=02c9a7203df20970dacecf4775a26d7b008e6dce14ee1f717bbcd035bd0c34b9</link>
-      <guid isPermaLink="false">02c9a7203df20970dacecf4775a26d7b008e6dce14ee1f717bbcd035bd0c34b9</guid>
-      <pubDate>Fri, 30 Jan 2026 23:49:24 GMT</pubDate>
-      <description><![CDATA[Some systems look impressive immediately. Others reveal their strength only after you understand what they refuse to do. This essay explores the difference between performative impressiveness and structural impressiveness — and why systems built to last often feel quiet, understated, or even boring until the moment everything else fails.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Freedom Is Not Convenience — It Is the Ability to Leave</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d1c3cb2a0d4c1cbbf071d1776db1ce27d4f4a6b62df78f14f22e428172ed80ce</link>
-      <guid isPermaLink="false">d1c3cb2a0d4c1cbbf071d1776db1ce27d4f4a6b62df78f14f22e428172ed80ce</guid>
-      <pubDate>Fri, 30 Jan 2026 23:37:30 GMT</pubDate>
-      <description><![CDATA[Convenience is often mistaken for freedom in digital systems. This article dismantles that confusion, arguing that freedom is not how easy a system is to use — but how little it costs to exit. True freedom appears only when leaving does not destroy what you’ve built.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 You Don’t Own Your Work If You Can’t Take It With You</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b259aa71b80bcf9c4642ff210c7f5c6f315ec998236760e5086209b76e59739c</link>
-      <guid isPermaLink="false">b259aa71b80bcf9c4642ff210c7f5c6f315ec998236760e5086209b76e59739c</guid>
-      <pubDate>Fri, 30 Jan 2026 23:29:39 GMT</pubDate>
-      <description><![CDATA[Most creators assume ownership because they can still log in. But access is not ownership, and convenience is not custody. This essay examines why true ownership only exists when your work can survive platforms, policies, accounts, and time — and why sovereignty begins the moment export stops being optional.]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>

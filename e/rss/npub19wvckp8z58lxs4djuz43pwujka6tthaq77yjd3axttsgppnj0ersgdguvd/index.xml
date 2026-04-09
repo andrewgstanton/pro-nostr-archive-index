@@ -5,7 +5,67 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 07 Apr 2026 02:04:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 18:15:06 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 4f4fd3a8f2</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4f4fd3a8f27c34206cbb6cb02a6d9ad159e66d57f3da7150d79fa941d2fcc8e3</link>
+      <guid isPermaLink="false">4f4fd3a8f27c34206cbb6cb02a6d9ad159e66d57f3da7150d79fa941d2fcc8e3</guid>
+      <pubDate>Wed, 08 Apr 2026 22:04:33 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 59733b3c5f</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=59733b3c5feb0f9e2550df4c0c12efbec3c91e1214730b76b1c46414a404dcfb</link>
+      <guid isPermaLink="false">59733b3c5feb0f9e2550df4c0c12efbec3c91e1214730b76b1c46414a404dcfb</guid>
+      <pubDate>Wed, 08 Apr 2026 16:25:57 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 24db6698fc</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=24db6698fc8f1fdf92a9166286c3c33d9253a122ba3a50d60e4896eb88c4463c</link>
+      <guid isPermaLink="false">24db6698fc8f1fdf92a9166286c3c33d9253a122ba3a50d60e4896eb88c4463c</guid>
+      <pubDate>Wed, 08 Apr 2026 07:29:04 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 d89f4f3110</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d89f4f311098ed507dd55fc2a6420b0cf4736cc4c5a716d31fbcefaae9005b04</link>
+      <guid isPermaLink="false">d89f4f311098ed507dd55fc2a6420b0cf4736cc4c5a716d31fbcefaae9005b04</guid>
+      <pubDate>Wed, 08 Apr 2026 06:56:05 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 c04e33d260</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c04e33d26050de3522cfafa37aea7abe1d851dc18f51ef308183e8f34d1e1392</link>
+      <guid isPermaLink="false">c04e33d26050de3522cfafa37aea7abe1d851dc18f51ef308183e8f34d1e1392</guid>
+      <pubDate>Wed, 08 Apr 2026 06:55:03 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 964f5ce658</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=964f5ce6588c5159a875cca29ff47c84264462a02656270cfc03d552fe432ac9</link>
+      <guid isPermaLink="false">964f5ce6588c5159a875cca29ff47c84264462a02656270cfc03d552fe432ac9</guid>
+      <pubDate>Wed, 08 Apr 2026 06:54:23 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 dddae876dd</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=dddae876ddff690a484be5b8b7f3c55967c1a1021ca706481a8337c424305a8e</link>
@@ -4943,66 +5003,6 @@
       <pubDate>Fri, 30 Jan 2026 20:44:35 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 3 - 1/30/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3c3ec7a3f30e085c27d07ef37f00bc3af952f6789704d608472607e651f8fd36</link>
-      <guid isPermaLink="false">3c3ec7a3f30e085c27d07ef37f00bc3af952f6789704d608472607e651f8fd36</guid>
-      <pubDate>Fri, 30 Jan 2026 20:42:48 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 2 - 1/30/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b8b2e30afbcdc64bccd3ce70cffeebbe1201c587bfeaaca7499d6890b8673a71</link>
-      <guid isPermaLink="false">b8b2e30afbcdc64bccd3ce70cffeebbe1201c587bfeaaca7499d6890b8673a71</guid>
-      <pubDate>Fri, 30 Jan 2026 20:40:18 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 1 - 1/30/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7b5a63b986d48e7cebbf92919b23e28ea4c088c19db11a439fca3f345e9e4914</link>
-      <guid isPermaLink="false">7b5a63b986d48e7cebbf92919b23e28ea4c088c19db11a439fca3f345e9e4914</guid>
-      <pubDate>Fri, 30 Jan 2026 20:39:03 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>A small but important change in Continuum.</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a22c803f455e71fe8bf14b131ff83668a9f639cc4ea815dc982681f29244bfbf</link>
-      <guid isPermaLink="false">a22c803f455e71fe8bf14b131ff83668a9f639cc4ea815dc982681f29244bfbf</guid>
-      <pubDate>Fri, 30 Jan 2026 03:28:57 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Why Long-Term Work Refuses to Justify Itself</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b69a4c5be86f5e842e0025db0141d23b6cc58602fdebab5237f1947d32713ef2</link>
-      <guid isPermaLink="false">b69a4c5be86f5e842e0025db0141d23b6cc58602fdebab5237f1947d32713ef2</guid>
-      <pubDate>Fri, 30 Jan 2026 00:19:17 GMT</pubDate>
-      <description><![CDATA[Long-term builders are often asked to explain themselves—why the work matters, why it takes so long, why it isn’t visible yet. This piece argues that durable work cannot be constantly justified without being compromised.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Building for the Long Term Means Accepting Invisibility</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ab3d11c4e3796434ebdfa9b6dd5c51e552dd55184ad371c55b97b101f942367b</link>
-      <guid isPermaLink="false">ab3d11c4e3796434ebdfa9b6dd5c51e552dd55184ad371c55b97b101f942367b</guid>
-      <pubDate>Fri, 30 Jan 2026 00:13:36 GMT</pubDate>
-      <description><![CDATA[Most meaningful systems are built in seasons where no one is watching. This piece explores why invisibility is not a failure mode but a prerequisite for durability—and why chasing early validation quietly destroys long-term work.]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
