@@ -3356,5 +3356,15 @@
     "latest_event_id": "d4e3a84359f8a9640f424156a385ce6315743d4adca6a381e7f3819f19621c8a",
     "latest_year": 2026,
     "published": false
+  },
+  "builders-journal---tuesday-april-7-2026": {
+    "latest_event_id": "417278e7c5d742700697c0ce0cf6107344a7859ed30d3ce65d0062690e2d4bcb",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal--monday-462026": {
+    "latest_event_id": "b00390a8d9ee15d754d55038ca94d5cbb6de8e3d2727d068c8ed19a6c5d07885",
+    "latest_year": 2026,
+    "published": false
   }
 }
