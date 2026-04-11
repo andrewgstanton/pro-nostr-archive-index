@@ -2086,5 +2086,53 @@
     "event_id": "b00390a8d9ee15d754d55038ca94d5cbb6de8e3d2727d068c8ed19a6c5d07885",
     "created_at": 1775630669,
     "published": false
+  },
+  {
+    "slug": "builders-journal---wednesday-april-8-2026",
+    "event_id": "a375ea9ab84b50aa549a870d133f0794139420229ab2e9726fb89b62782dc8c7",
+    "created_at": 1775774742,
+    "published": false
+  },
+  {
+    "slug": "sovereignty-and-ai",
+    "event_id": "ae366050491a66620a2c24bb6b7aec9341dfba16c84667dfc8450506a63cad04",
+    "created_at": 1775777881
+  },
+  {
+    "slug": "building-vs-writing",
+    "event_id": "a5b310317decd1411eea7aa803d6c38174747c40432d3a7622a67d411a3b01a5",
+    "created_at": 1775777926
+  },
+  {
+    "slug": "why-i-certified-the-mac-app",
+    "event_id": "7ac2e72a08de3121dc5b0d0876f6989d1c1f3eb5d649493a9dfa342679e03f25",
+    "created_at": 1775777961
+  },
+  {
+    "slug": "builders-journal---thursday-april-9-2026",
+    "event_id": "5a3acf4e1363d7733ce066d24eac0e19f13c06bfcba18cfbce41cb707817817b",
+    "created_at": 1775799149,
+    "published": false
+  },
+  {
+    "slug": "cross-platform-is-not-a-feature-its-a-threshold",
+    "event_id": "314cc0664c88984a95efeecb5644ad81af1f7d10069262373cad1f9bb818d14d",
+    "created_at": 1775882834
+  },
+  {
+    "slug": "my-first-sats-purchase-of-building-continuum",
+    "event_id": "75ea5d7565229da86dc21d6e8d77ad87cb505e12cbf348349b80a564d85cfde5",
+    "created_at": 1775883001
+  },
+  {
+    "slug": "the-book-and-the-software-are-finally-starting-to-meet",
+    "event_id": "6b18992c6a5e7ef71c44c10058e1cae882b6c2b15f2cd27f13a99c17c0172add",
+    "created_at": 1775883323
+  },
+  {
+    "slug": "builder-journal---april-10-2026",
+    "event_id": "0ebad3c836d9545cb97197183ba736008ab68aec19d2fdf17c794570e2ba8746",
+    "created_at": 1775885244,
+    "published": false
   }
 ]
