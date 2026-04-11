@@ -5,7 +5,67 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 09 Apr 2026 18:15:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 20:58:00 GMT</lastBuildDate>
+    <item>
+      <title>The software is beginning to catch up with the book</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6b18992c6a5e7ef71c44c10058e1cae882b6c2b15f2cd27f13a99c17c0172add</link>
+      <guid isPermaLink="false">6b18992c6a5e7ef71c44c10058e1cae882b6c2b15f2cd27f13a99c17c0172add</guid>
+      <pubDate>Sat, 11 Apr 2026 04:55:23 GMT</pubDate>
+      <description><![CDATA[A reflection on how the recent build, packaging, and distribution work is helping Continuum better embody the principles laid out in *Building Continuum: Local Authority in a Networked World*.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>My first sats purchase of "Building Continuum"</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=75ea5d7565229da86dc21d6e8d77ad87cb505e12cbf348349b80a564d85cfde5</link>
+      <guid isPermaLink="false">75ea5d7565229da86dc21d6e8d77ad87cb505e12cbf348349b80a564d85cfde5</guid>
+      <pubDate>Sat, 11 Apr 2026 04:50:01 GMT</pubDate>
+      <description><![CDATA[Today I received the first sats purchase of *Building Continuum: Local Authority in a Networked World*. More than the amount, it felt like the first real signal that the work is reaching people in a way that aligns with its core message.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Cross-platform support makes "Building Continuum" tangible</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=314cc0664c88984a95efeecb5644ad81af1f7d10069262373cad1f9bb818d14d</link>
+      <guid isPermaLink="false">314cc0664c88984a95efeecb5644ad81af1f7d10069262373cad1f9bb818d14d</guid>
+      <pubDate>Sat, 11 Apr 2026 04:47:14 GMT</pubDate>
+      <description><![CDATA[Today felt like a real threshold moment for Continuum. Cross-platform support across macOS, Windows, Docker, and local-host environments makes the ideas in *Building Continuum: Local Authority in a Networked World* far more tangible.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Why I Certified the Mac App</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7ac2e72a08de3121dc5b0d0876f6989d1c1f3eb5d649493a9dfa342679e03f25</link>
+      <guid isPermaLink="false">7ac2e72a08de3121dc5b0d0876f6989d1c1f3eb5d649493a9dfa342679e03f25</guid>
+      <pubDate>Thu, 09 Apr 2026 23:39:21 GMT</pubDate>
+      <description><![CDATA[A reflection on why signing and notarizing the native Mac application was a critical milestone for Continuum. This piece explores friction, trust, user onboarding, and why local-first software must feel as smooth and trustworthy as cloud-native products.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Building vs Writing</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a5b310317decd1411eea7aa803d6c38174747c40432d3a7622a67d411a3b01a5</link>
+      <guid isPermaLink="false">a5b310317decd1411eea7aa803d6c38174747c40432d3a7622a67d411a3b01a5</guid>
+      <pubDate>Thu, 09 Apr 2026 23:38:46 GMT</pubDate>
+      <description><![CDATA[A personal reflection on the past few weeks spent focused on native builds and release infrastructure, and why that did not represent a pause in creativity but a shift from writing into another form of authorship: building the vessel that carries the words.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Sovereignty and AI</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ae366050491a66620a2c24bb6b7aec9341dfba16c84667dfc8450506a63cad04</link>
+      <guid isPermaLink="false">ae366050491a66620a2c24bb6b7aec9341dfba16c84667dfc8450506a63cad04</guid>
+      <pubDate>Thu, 09 Apr 2026 23:38:01 GMT</pubDate>
+      <description><![CDATA[An exploration of how AI can serve as an amplifier for builders and writers without displacing human authority. This article argues for a sovereignty-first approach to AI, where ownership, authorship, and identity remain centered in the individual.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>“Nostr Clients Are Enough”</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=d56366d8992f01c36fe6c38d47e7756a62bdef7117c073ac0461ddc583916451</link>
@@ -4942,66 +5002,6 @@
       <guid isPermaLink="false">fa7fb348ef847689621f02fd70a878f73241836438835c689841b80295029c36</guid>
       <pubDate>Mon, 24 Nov 2025 23:43:47 GMT</pubDate>
       <description><![CDATA[A quiet researcher on Luna Freeport uncovers an ancient cache of Earth-era financial logs showing how the Global Credit Order collapsed — and realizes the Freeport’s future depends on learning the right lesson: sovereignty can be maintained only when the truth is preserved, verifiably, forever.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Sept. 12, 2025): MLM and Web3: A comparison</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9b07435833c27a1da6e927b24018d4aeededbbe295375a12355280b037c5b70b</link>
-      <guid isPermaLink="false">9b07435833c27a1da6e927b24018d4aeededbbe295375a12355280b037c5b70b</guid>
-      <pubDate>Mon, 24 Nov 2025 02:46:07 GMT</pubDate>
-      <description><![CDATA[Both multi-level marketing (MLM) and Web3 projects sell the same dream: financial freedom, lifestyle independence, and passive income. My short stint inside World Financial Group in 2023–2024 helped me recognize the same structural flaws now playing out across Web3. The names and technology change. The math doesn’t.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sunday Article (Nov. 23, 2025): The Resurrection of Ownership: How Bitcoin Rebuilds Credit, Trust, and Real Wealth</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=86279d58af5666db5f37377bc15d617c8cb0724f9caa4ff8639db554305eb703</link>
-      <guid isPermaLink="false">86279d58af5666db5f37377bc15d617c8cb0724f9caa4ff8639db554305eb703</guid>
-      <pubDate>Sat, 22 Nov 2025 21:57:14 GMT</pubDate>
-      <description><![CDATA[A Sunday reflection on renewal — how the pattern of resurrection illuminates the rebirth of ownership in a world shifting from fiat to Bitcoin. This piece explores why ownership has been hollowed out by inflation, debt, and extraction; how hard money restores foundations; how trust re-emerges in communities; and how a Bitcoin economy gives individuals, families, and nations the ability to rise again.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 23, 2025): The End of Forever-Debt: Why 50-Year Mortgages Cannot Exist in a Hard-Money Economy</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0f4298dc2a41c1fffd450de3e1fb249f15e397823c9217d6e4cff75882654a8f</link>
-      <guid isPermaLink="false">0f4298dc2a41c1fffd450de3e1fb249f15e397823c9217d6e4cff75882654a8f</guid>
-      <pubDate>Sat, 22 Nov 2025 21:55:15 GMT</pubDate>
-      <description><![CDATA[A clear, practical explanation of why ultra-long mortgages (40–50 years) are only possible in a fiat system where money can be endlessly created. This article breaks down how inflation subsidizes lenders, how credit distorts home prices, how risk is hidden in securitization, and why a Bitcoin standard forces mortgages to shrink back into reality — shorter, saner, and actually payable within a working lifetime.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 23, 2025): Credit Without Chains: How Trust Re-Forms on a Bitcoin Ledger</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=fca3bd6372e8ec6d4af04528fa004d78a7bd1f7644e369522bcaee0a7ed27c20</link>
-      <guid isPermaLink="false">fca3bd6372e8ec6d4af04528fa004d78a7bd1f7644e369522bcaee0a7ed27c20</guid>
-      <pubDate>Sat, 22 Nov 2025 21:53:40 GMT</pubDate>
-      <description><![CDATA[A practical exploration of how credit evolves in a Bitcoin-denominated economy. This article shows how trust becomes measurable, risks become transparent, lenders regain discipline, and communities regain agency. Instead of FICO scores, predatory interest, and unpayable liabilities, Bitcoin enables small, reputation-based, collateral-light credit systems that strengthen people rather than enslaving them.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 22, 2025): The Extraction Engine: Why Rent-Seeking Built the Modern World</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=515caf550f109a269fe611dac19e45c656fbf658c91448bf78e64a392705c707</link>
-      <guid isPermaLink="false">515caf550f109a269fe611dac19e45c656fbf658c91448bf78e64a392705c707</guid>
-      <pubDate>Sat, 22 Nov 2025 21:51:49 GMT</pubDate>
-      <description><![CDATA[A clear, near-future reflection on how rent-seeking—not production—became the hidden operating system of modern economies. This article examines property taxes, 50-year mortgages, debt spirals, artificial scarcity, and the illusion of ownership, then contrasts it with the emerging Bitcoin paradigm where extraction breaks down and sovereignty returns to individuals.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 22, 2025): Imagining Mortgages in a Bitcoin Standard</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=80418cd99201747592f55223207f17d3ae3540070a574a215eecb7ceaeeef70f</link>
-      <guid isPermaLink="false">80418cd99201747592f55223207f17d3ae3540070a574a215eecb7ceaeeef70f</guid>
-      <pubDate>Sat, 22 Nov 2025 21:49:43 GMT</pubDate>
-      <description><![CDATA[A practical, near-future exploration of how mortgages would evolve under a Bitcoin standard. This article explains why ultra-long loans collapse, why price discovery resets, how lenders protect themselves without inflation, how communities reclaim credit, and how home ownership becomes more attainable—not less—in a hard-money world.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

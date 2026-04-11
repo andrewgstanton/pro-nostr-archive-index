@@ -5,7 +5,67 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 09 Apr 2026 18:15:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 20:58:00 GMT</lastBuildDate>
+    <item>
+      <title>The software is beginning to catch up with the book</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6b18992c6a5e7ef71c44c10058e1cae882b6c2b15f2cd27f13a99c17c0172add</link>
+      <guid isPermaLink="false">6b18992c6a5e7ef71c44c10058e1cae882b6c2b15f2cd27f13a99c17c0172add</guid>
+      <pubDate>Sat, 11 Apr 2026 04:55:23 GMT</pubDate>
+      <description><![CDATA[A reflection on how the recent build, packaging, and distribution work is helping Continuum better embody the principles laid out in *Building Continuum: Local Authority in a Networked World*.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>My first sats purchase of "Building Continuum"</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=75ea5d7565229da86dc21d6e8d77ad87cb505e12cbf348349b80a564d85cfde5</link>
+      <guid isPermaLink="false">75ea5d7565229da86dc21d6e8d77ad87cb505e12cbf348349b80a564d85cfde5</guid>
+      <pubDate>Sat, 11 Apr 2026 04:50:01 GMT</pubDate>
+      <description><![CDATA[Today I received the first sats purchase of *Building Continuum: Local Authority in a Networked World*. More than the amount, it felt like the first real signal that the work is reaching people in a way that aligns with its core message.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Cross-platform support makes "Building Continuum" tangible</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=314cc0664c88984a95efeecb5644ad81af1f7d10069262373cad1f9bb818d14d</link>
+      <guid isPermaLink="false">314cc0664c88984a95efeecb5644ad81af1f7d10069262373cad1f9bb818d14d</guid>
+      <pubDate>Sat, 11 Apr 2026 04:47:14 GMT</pubDate>
+      <description><![CDATA[Today felt like a real threshold moment for Continuum. Cross-platform support across macOS, Windows, Docker, and local-host environments makes the ideas in *Building Continuum: Local Authority in a Networked World* far more tangible.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Why I Certified the Mac App</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7ac2e72a08de3121dc5b0d0876f6989d1c1f3eb5d649493a9dfa342679e03f25</link>
+      <guid isPermaLink="false">7ac2e72a08de3121dc5b0d0876f6989d1c1f3eb5d649493a9dfa342679e03f25</guid>
+      <pubDate>Thu, 09 Apr 2026 23:39:21 GMT</pubDate>
+      <description><![CDATA[A reflection on why signing and notarizing the native Mac application was a critical milestone for Continuum. This piece explores friction, trust, user onboarding, and why local-first software must feel as smooth and trustworthy as cloud-native products.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Building vs Writing</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a5b310317decd1411eea7aa803d6c38174747c40432d3a7622a67d411a3b01a5</link>
+      <guid isPermaLink="false">a5b310317decd1411eea7aa803d6c38174747c40432d3a7622a67d411a3b01a5</guid>
+      <pubDate>Thu, 09 Apr 2026 23:38:46 GMT</pubDate>
+      <description><![CDATA[A personal reflection on the past few weeks spent focused on native builds and release infrastructure, and why that did not represent a pause in creativity but a shift from writing into another form of authorship: building the vessel that carries the words.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Sovereignty and AI</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ae366050491a66620a2c24bb6b7aec9341dfba16c84667dfc8450506a63cad04</link>
+      <guid isPermaLink="false">ae366050491a66620a2c24bb6b7aec9341dfba16c84667dfc8450506a63cad04</guid>
+      <pubDate>Thu, 09 Apr 2026 23:38:01 GMT</pubDate>
+      <description><![CDATA[An exploration of how AI can serve as an amplifier for builders and writers without displacing human authority. This article argues for a sovereignty-first approach to AI, where ownership, authorship, and identity remain centered in the individual.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>“Nostr Clients Are Enough”</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=d56366d8992f01c36fe6c38d47e7756a62bdef7117c073ac0461ddc583916451</link>
@@ -4942,66 +5002,6 @@
       <guid isPermaLink="false">317d6fe2f455f704ad28db129267bdfc7375edfae87ec7ca7868de589da1de37</guid>
       <pubDate>Fri, 05 Dec 2025 05:47:57 GMT</pubDate>
       <description><![CDATA[A forgotten lunar tunnel becomes humanity’s first neutral off-world commons, the birthplace of the Archivists, and the cultural and economic heart of the sovereign lunar diaspora.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Patron Support Continuum</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c655a38b36597b32656a0f93a5a03a2c88e291234d92778af420a0652d5dc724</link>
-      <guid isPermaLink="false">c655a38b36597b32656a0f93a5a03a2c88e291234d92778af420a0652d5dc724</guid>
-      <pubDate>Thu, 04 Dec 2025 06:28:11 GMT</pubDate>
-      <description><![CDATA[A personal invitation to support the ongoing development of Continuum — a sovereign publishing platform, multi-identity Nostr client, and creative engine behind the Bitcoin Chronicles. Patron support helps keep the work independent, aligned with first principles, and free from corporate or institutional control.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Bitcoin Chronicles: Toward The Stars — Part 3 (1.C.0) : Martian Bitcoin (Expanded Edition)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=cb5f94e853c4e530406e087554be2a56740d0e4fdb63cb1cbfded3116ccbe7fc</link>
-      <guid isPermaLink="false">cb5f94e853c4e530406e087554be2a56740d0e4fdb63cb1cbfded3116ccbe7fc</guid>
-      <pubDate>Thu, 04 Dec 2025 02:05:46 GMT</pubDate>
-      <description><![CDATA[Part 3 of the Bitcoin Chronicles explores Mars, where latency makes Earth-level consensus impossible. Martian Bitcoin becomes locally sovereign but globally anchored, ensuring freedom from Earth’s monetary control while remaining tied to the same 21M cap.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Tithing and the New Covenant: What Scripture Actually Teaches</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=46cb05b85c8ed330d20baefd3399c28322cb485dbadfbf897923012054d4768d</link>
-      <guid isPermaLink="false">46cb05b85c8ed330d20baefd3399c28322cb485dbadfbf897923012054d4768d</guid>
-      <pubDate>Wed, 03 Dec 2025 22:54:47 GMT</pubDate>
-      <description><![CDATA[A clear, biblical examination of tithing in the Old and New Testaments. The tithe was an Old Covenant agricultural system tied to ancient Israel—not a binding command for Christians. The New Covenant calls us to something greater: Spirit-led generosity grounded in the truth that God owns everything, not just a percentage.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Bitcoin Chronicles - Sovereignty as a Fundamental Physical Principle</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ed702d6adbb01c92127ad6f5e8df2d755e0cf2bace194a4ff373611715cd93a4</link>
-      <guid isPermaLink="false">ed702d6adbb01c92127ad6f5e8df2d755e0cf2bace194a4ff373611715cd93a4</guid>
-      <pubDate>Wed, 03 Dec 2025 22:18:56 GMT</pubDate>
-      <description><![CDATA[A foundational principle of the Bitcoin Chronicles universe, Sovereignty is defined not as politics or preference but as a fundamental physical law woven into creation—on the same level as causality, entropy, and quantum mechanics. By aligning with this law, systems become antifragile; by violating it, they decay. This truth underlies Bitcoin, the Exodus Era, and humanity’s expansion across the stars.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Bitcoin Chronicles: Toward The Stars — Part 1 (1.A.0) : Earthbound Origins (Expanded Edition)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d041211fd430f49085f20a666582e8f1649e5869b9a5a83c0e04a8e7bfd04447</link>
-      <guid isPermaLink="false">d041211fd430f49085f20a666582e8f1649e5869b9a5a83c0e04a8e7bfd04447</guid>
-      <pubDate>Wed, 03 Dec 2025 21:47:52 GMT</pubDate>
-      <description><![CDATA[Part 1 of the Bitcoin Chronicles introduces Bitcoin’s Earthbound origins: why it is not just decentralized, but sovereign, and how Earth has served as the testing ground for its resilience.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Dec. 3, 2025): The Bitcoin Chronicles - 1.A.2 - The Atlas Uprising</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=05ecf1dc28d95b27d622052914b90fec39718b25477470b530708d6e9aba795b</link>
-      <guid isPermaLink="false">05ecf1dc28d95b27d622052914b90fec39718b25477470b530708d6e9aba795b</guid>
-      <pubDate>Wed, 03 Dec 2025 20:05:31 GMT</pubDate>
-      <description><![CDATA[Before the Exodus Waves and long before the first Lunar Nodes, a small underground collective quietly shaped the trajectory of humanity. Not through violence or protest, but through conviction, foresight, and a refusal to accept the narrowing limits of Earth’s compliance regime. They called themselves **The Atlas Group**, and their quiet resistance became the philosophical backbone of humanity’s first great breakaway.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
