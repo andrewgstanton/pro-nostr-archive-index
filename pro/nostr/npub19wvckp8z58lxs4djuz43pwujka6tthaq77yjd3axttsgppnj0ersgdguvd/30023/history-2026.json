@@ -2134,5 +2134,23 @@
     "event_id": "0ebad3c836d9545cb97197183ba736008ab68aec19d2fdf17c794570e2ba8746",
     "created_at": 1775885244,
     "published": false
+  },
+  {
+    "slug": "builder-journal---saturday-april-11-2025",
+    "event_id": "71caa940b9881b4737cf3d14e407581bff57685fa8ca23492243f3b3e4250fc7",
+    "created_at": 1776138290,
+    "published": false
+  },
+  {
+    "slug": "builder-journal---sunday-april-12-2026",
+    "event_id": "1d201b413411f735f397efa9affd98f97cd6555f07f08e72e7567b713701ac6d",
+    "created_at": 1776138636,
+    "published": false
+  },
+  {
+    "slug": "builder-journal---monday-april-13-2026",
+    "event_id": "6d0d0e6dd9bc02d748405aea6cbd2c4cc608c75898289c2145baa532e930cbce",
+    "created_at": 1776138941,
+    "published": false
   }
 ]
