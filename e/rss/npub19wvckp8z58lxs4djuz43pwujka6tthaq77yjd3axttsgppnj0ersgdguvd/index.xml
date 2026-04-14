@@ -5,7 +5,27 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 11 Apr 2026 20:58:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 16:55:46 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 e1a6581ff5</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e1a6581ff551e12bea3907e7b37b9116f298819a9edf25fd88ecb89293fdd6eb</link>
+      <guid isPermaLink="false">e1a6581ff551e12bea3907e7b37b9116f298819a9edf25fd88ecb89293fdd6eb</guid>
+      <pubDate>Tue, 14 Apr 2026 01:09:22 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 8b856475d9</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=8b856475d935d9bd403ebc8e962723a687e8517aa4b69927784652729bd3a1a1</link>
+      <guid isPermaLink="false">8b856475d935d9bd403ebc8e962723a687e8517aa4b69927784652729bd3a1a1</guid>
+      <pubDate>Mon, 13 Apr 2026 06:48:20 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 e9a26f6794</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=e9a26f67948780d382ce8f589f3012aea38ff383151018e60f6dcf2bf85aeab5</link>
@@ -4981,26 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=cefa9892da7189dec38eb702a085f95747785540847b1d49718c53f23c56dda9</link>
       <guid isPermaLink="false">cefa9892da7189dec38eb702a085f95747785540847b1d49718c53f23c56dda9</guid>
       <pubDate>Sat, 31 Jan 2026 23:49:26 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Publishing cadence (FYI) - 1/31/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=4468c7e429e11e9e4074770acb63cf262535ddf0393ee34adabced58065ef2e9</link>
-      <guid isPermaLink="false">4468c7e429e11e9e4074770acb63cf262535ddf0393ee34adabced58065ef2e9</guid>
-      <pubDate>Sat, 31 Jan 2026 22:53:24 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Reading Paid Articles - 1/31/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=4df3ee0d790acca5d48875f5e45860ad2caf52c3a135ae0de5f272a2814af528</link>
-      <guid isPermaLink="false">4df3ee0d790acca5d48875f5e45860ad2caf52c3a135ae0de5f272a2814af528</guid>
-      <pubDate>Sat, 31 Jan 2026 22:38:44 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
