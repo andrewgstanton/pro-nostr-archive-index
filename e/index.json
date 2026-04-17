@@ -1,5 +1,41 @@
 [
   {
+    "slug": "builder-journal---tuesday-april-14-2026",
+    "event_id": "7e4c474447025d8543828e292a80574928440934456d54b4e19bf320ace188db",
+    "created_at": 1776449102,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/7e4c474447025d8543828e292a80574928440934456d54b4e19bf320ace188db.json",
+    "title": "Builder Journal - Tuesday, April 14, 2026",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
+    "slug": "builder-journal---thursday-april-16-2026",
+    "event_id": "0b5947fa6eafa6cb2d802fb6f582876138003e34125df001fe035111bf066a10",
+    "created_at": 1776449076,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/0b5947fa6eafa6cb2d802fb6f582876138003e34125df001fe035111bf066a10.json",
+    "title": "Builder Journal - Thursday, April 16, 2026",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
+    "slug": "builder-journal---wednesday-april-15-2026",
+    "event_id": "9383344b0a2942ee01667c1a613b1cdf4d44c95e1a5ba749ba89e31422c8a1d8",
+    "created_at": 1776449047,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/9383344b0a2942ee01667c1a613b1cdf4d44c95e1a5ba749ba89e31422c8a1d8.json",
+    "title": "Builder Journal - Wednesday, April 15, 2026",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
     "slug": null,
     "event_id": "3a8b14bb49da909f4efcbde7bd8800a9b9e16cf3371d69a2e8bdb86b2dbb7f64",
     "created_at": 1776442550,
@@ -6875,7 +6911,7 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/ca91cad3125876d8b1665f868d3ed7984135ed7ea6d0177c93be7561676116f2.json",
-    "title": "README index — Continuum bounty -2/3/2026",
+    "title": "",
     "summary": "",
     "paid": false
   },
