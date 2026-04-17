@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 14 Apr 2026 16:55:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 17:20:28 GMT</lastBuildDate>
+    <item>
+      <title>Sovereignty and AI</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=0efd9ac51f94f7cf7146ae9dadeccf40a860f06613db73819c8546a9f7745032</link>
+      <guid isPermaLink="false">0efd9ac51f94f7cf7146ae9dadeccf40a860f06613db73819c8546a9f7745032</guid>
+      <pubDate>Wed, 15 Apr 2026 18:39:19 GMT</pubDate>
+      <description><![CDATA[An exploration of how AI can serve as an amplifier for builders and writers without displacing human authority. This article argues for a sovereignty-first approach to AI, where ownership, authorship, and identity remain centered in the individual.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>The software is beginning to catch up with the book</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=6b18992c6a5e7ef71c44c10058e1cae882b6c2b15f2cd27f13a99c17c0172add</link>
@@ -52,16 +62,6 @@
       <guid isPermaLink="false">a5b310317decd1411eea7aa803d6c38174747c40432d3a7622a67d411a3b01a5</guid>
       <pubDate>Thu, 09 Apr 2026 23:38:46 GMT</pubDate>
       <description><![CDATA[A personal reflection on the past few weeks spent focused on native builds and release infrastructure, and why that did not represent a pause in creativity but a shift from writing into another form of authorship: building the vessel that carries the words.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sovereignty and AI</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ae366050491a66620a2c24bb6b7aec9341dfba16c84667dfc8450506a63cad04</link>
-      <guid isPermaLink="false">ae366050491a66620a2c24bb6b7aec9341dfba16c84667dfc8450506a63cad04</guid>
-      <pubDate>Thu, 09 Apr 2026 23:38:01 GMT</pubDate>
-      <description><![CDATA[An exploration of how AI can serve as an amplifier for builders and writers without displacing human authority. This article argues for a sovereignty-first approach to AI, where ownership, authorship, and identity remain centered in the individual.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

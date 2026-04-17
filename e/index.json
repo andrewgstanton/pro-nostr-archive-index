@@ -1,5 +1,27 @@
 [
   {
+    "slug": null,
+    "event_id": "3a8b14bb49da909f4efcbde7bd8800a9b9e16cf3371d69a2e8bdb86b2dbb7f64",
+    "created_at": 1776442550,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/3a8b14bb49da909f4efcbde7bd8800a9b9e16cf3371d69a2e8bdb86b2dbb7f64.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "sovereignty-and-ai",
+    "event_id": "0efd9ac51f94f7cf7146ae9dadeccf40a860f06613db73819c8546a9f7745032",
+    "created_at": 1776278359,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/0efd9ac51f94f7cf7146ae9dadeccf40a860f06613db73819c8546a9f7745032.json",
+    "title": "Sovereignty and AI",
+    "summary": "An exploration of how AI can serve as an amplifier for builders and writers without displacing human authority. This article argues for a sovereignty-first approach to AI, where ownership, authorship, and identity remain centered in the individual.",
+    "paid": false
+  },
+  {
     "slug": "builder-journal---monday-april-13-2026",
     "event_id": "6d0d0e6dd9bc02d748405aea6cbd2c4cc608c75898289c2145baa532e930cbce",
     "created_at": 1776138941,
