@@ -3420,5 +3420,20 @@
     "latest_event_id": "6d0d0e6dd9bc02d748405aea6cbd2c4cc608c75898289c2145baa532e930cbce",
     "latest_year": 2026,
     "published": false
+  },
+  "builder-journal---wednesday-april-15-2026": {
+    "latest_event_id": "9383344b0a2942ee01667c1a613b1cdf4d44c95e1a5ba749ba89e31422c8a1d8",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builder-journal---thursday-april-16-2026": {
+    "latest_event_id": "0b5947fa6eafa6cb2d802fb6f582876138003e34125df001fe035111bf066a10",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builder-journal---tuesday-april-14-2026": {
+    "latest_event_id": "7e4c474447025d8543828e292a80574928440934456d54b4e19bf320ace188db",
+    "latest_year": 2026,
+    "published": false
   }
 }
