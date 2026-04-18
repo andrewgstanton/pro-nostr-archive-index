@@ -5,7 +5,137 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 17 Apr 2026 20:29:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 21:51:42 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 bd3e9a76a4</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=bd3e9a76a44dca8eb40ddfe56e55bfd815d08936d607815a719323ceb6122028</link>
+      <guid isPermaLink="false">bd3e9a76a44dca8eb40ddfe56e55bfd815d08936d607815a719323ceb6122028</guid>
+      <pubDate>Sat, 18 Apr 2026 21:42:06 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 6a4a8fa206</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6a4a8fa206a63052c8caa06bc3b5d3376b7169395478e9863f06b0b59502af64</link>
+      <guid isPermaLink="false">6a4a8fa206a63052c8caa06bc3b5d3376b7169395478e9863f06b0b59502af64</guid>
+      <pubDate>Sat, 18 Apr 2026 21:34:53 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 47f1811b25</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=47f1811b252a798365872b96c41fbcaefc43fd51fb2f85cdcd259c6b54f5b742</link>
+      <guid isPermaLink="false">47f1811b252a798365872b96c41fbcaefc43fd51fb2f85cdcd259c6b54f5b742</guid>
+      <pubDate>Sat, 18 Apr 2026 21:32:55 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Finished, Not Complete - Learning to Be Satisfied Without Immediate Results</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=50f990ebf012065024af4c447dc2c7282fc0c680fc046cd478d09772c6f194f0</link>
+      <guid isPermaLink="false">50f990ebf012065024af4c447dc2c7282fc0c680fc046cd478d09772c6f194f0</guid>
+      <pubDate>Sat, 18 Apr 2026 21:24:52 GMT</pubDate>
+      <description><![CDATA[Some work is finished before it is complete. This piece explores the difference between completing the work itself and seeing the results of that work—and why learning to be satisfied in that gap is essential.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Work That Remains When Striving Ends</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a67caf0bd6d4e170dd9a9116e49a27d4625e710419d2f824593e0b1ce9caac81</link>
+      <guid isPermaLink="false">a67caf0bd6d4e170dd9a9116e49a27d4625e710419d2f824593e0b1ce9caac81</guid>
+      <pubDate>Sat, 18 Apr 2026 21:03:51 GMT</pubDate>
+      <description><![CDATA[When the pressure to prove something fades, the work does not stop—it becomes clearer and more grounded. This piece reflects on meaningful progress, including recent Continuum releases and foundational improvements, done without striving but not without purpose or responsibility.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Rest Is Not the Absence of Work (it Is the Absence of Labor)</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=03d7f8478e1b15dac6934e11691d7fab09ef6758c74e5f327f6f98debceb1deb</link>
+      <guid isPermaLink="false">03d7f8478e1b15dac6934e11691d7fab09ef6758c74e5f327f6f98debceb1deb</guid>
+      <pubDate>Sat, 18 Apr 2026 20:43:14 GMT</pubDate>
+      <description><![CDATA[Rest is not about stopping activity—it’s about ceasing from striving. This piece explores what it means to continue building, writing, and creating without the burden of pressure, while letting the weight of labor fall away.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Rise of Sovereign Micro-Applications</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4b3a1eb707665720ba42741ee22055b59f89c2b894218484d3e63325b07ce88a</link>
+      <guid isPermaLink="false">4b3a1eb707665720ba42741ee22055b59f89c2b894218484d3e63325b07ce88a</guid>
+      <pubDate>Sat, 18 Apr 2026 18:49:45 GMT</pubDate>
+      <description><![CDATA[Modern tools make it possible to build small sovereign applications extremely quickly, enabling a new model for software development.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Who Continuum Is For</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7da55799bf978f9b43971bcb197c0740b512b1f71590610a7807707793e17f6c</link>
+      <guid isPermaLink="false">7da55799bf978f9b43971bcb197c0740b512b1f71590610a7807707793e17f6c</guid>
+      <pubDate>Sat, 18 Apr 2026 18:49:18 GMT</pubDate>
+      <description><![CDATA[Continuum is for people and organizations who need durable authorship, self-custodied identity, and a local-first publishing workflow. It is especially well suited for writers, journalists, researchers, human rights activists, ministries, and developers who want to create, preserve, and publish work without depending entirely on centralized platforms.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Local Files vs Local-First: Why Continuum Exists</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c52e193c8dbcc5f3be6b6b1ea3ba36a23c112eb4469689e71f7b866e93146d3c</link>
+      <guid isPermaLink="false">c52e193c8dbcc5f3be6b6b1ea3ba36a23c112eb4469689e71f7b866e93146d3c</guid>
+      <pubDate>Sat, 18 Apr 2026 18:48:35 GMT</pubDate>
+      <description><![CDATA[At first glance, Continuum may appear unnecessary to people who already write documents locally on their computers. After all, anyone can open Word, Markdown, or a text editor and save files in a folder. But Continuum is not merely a place to store documents. It is a local-first authorship and publishing system built around identity, verifiable authorship, durable archives, and intentional distribution. This article explains why the difference matters.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Imagining a Decentralized Alternative to Zipcar, Uber, and Lyft</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5beee3a5005f50e896898cc1e9b08ff7d0a3c38528c9dfacf7a0e62cfd78805b</link>
+      <guid isPermaLink="false">5beee3a5005f50e896898cc1e9b08ff7d0a3c38528c9dfacf7a0e62cfd78805b</guid>
+      <pubDate>Sat, 18 Apr 2026 18:44:45 GMT</pubDate>
+      <description><![CDATA[Zipcar, Uber, and Lyft promise convenience but leave us vulnerable to breakdowns and opaque rules. By imagining a decentralized alternative — built on peer-to-peer listings, portable reputation, and Bitcoin payments — we can see how transportation could become more resilient, transparent, and sovereign.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Sovereignty and AI</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=8dd4ecaf576c1daf5b89274153a12ece6653ad47255d78c52966aaf79511cf26</link>
+      <guid isPermaLink="false">8dd4ecaf576c1daf5b89274153a12ece6653ad47255d78c52966aaf79511cf26</guid>
+      <pubDate>Sat, 18 Apr 2026 07:00:57 GMT</pubDate>
+      <description><![CDATA[An exploration of how AI can serve as an amplifier for builders and writers without displacing human authority. This article argues for a sovereignty-first approach to AI, where ownership, authorship, and identity remain centered in the individual.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>From Blog.StantonWeb to Continuum Stories — Getting the Pipeline Working in a New Repo - Part 2</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f803d4f3de07e6e68f9773af47bf1c9988c82dfa1e5ded3406cd73f74085dfb2</link>
+      <guid isPermaLink="false">f803d4f3de07e6e68f9773af47bf1c9988c82dfa1e5ded3406cd73f74085dfb2</guid>
+      <pubDate>Sat, 18 Apr 2026 04:18:49 GMT</pubDate>
+      <description><![CDATA[In Part 1, I described the architecture behind a decentralized publishing pipeline using Nostr, GitHub Actions, and GitHub Pages. In this follow-up, I walk through what it actually took to get that same pipeline working again in a new repository — including authentication issues, workflow permissions, and the small but critical details that make it all run automatically.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>From Blog.StantonWeb to Continuum Stories  - Reusing a Decentralized Publishing Pipeline</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d96916821f5c75122e1335d6dd74a39b9c50ccdc9354eb48c7b1211b1f52dcb2</link>
+      <guid isPermaLink="false">d96916821f5c75122e1335d6dd74a39b9c50ccdc9354eb48c7b1211b1f52dcb2</guid>
+      <pubDate>Fri, 17 Apr 2026 23:57:31 GMT</pubDate>
+      <description><![CDATA[Last summer, I built a decentralized blog using Nostr, GitHub Actions, and GitHub Pages. I’m now taking that same idea and applying it directly to Continuum — turning tagged articles into a live, automatically updating site with zero manual publishing steps.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 3a8b14bb49</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=3a8b14bb49da909f4efcbde7bd8800a9b9e16cf3371d69a2e8bdb86b2dbb7f64</link>
@@ -13,16 +143,6 @@
       <pubDate>Fri, 17 Apr 2026 16:15:50 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sovereignty and AI</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0efd9ac51f94f7cf7146ae9dadeccf40a860f06613db73819c8546a9f7745032</link>
-      <guid isPermaLink="false">0efd9ac51f94f7cf7146ae9dadeccf40a860f06613db73819c8546a9f7745032</guid>
-      <pubDate>Wed, 15 Apr 2026 18:39:19 GMT</pubDate>
-      <description><![CDATA[An exploration of how AI can serve as an amplifier for builders and writers without displacing human authority. This article argues for a sovereignty-first approach to AI, where ownership, authorship, and identity remain centered in the individual.]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
@@ -1802,36 +1922,6 @@
       <guid isPermaLink="false">9a05cc11ece1c7158332cf56f7844f980ef81f352df83c211ad51edc3ebe2f15</guid>
       <pubDate>Thu, 12 Mar 2026 00:06:03 GMT</pubDate>
       <description><![CDATA[Summary: Most builders work in long stretches of silence, sustained by occasional signals from people who understand the work.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Who Continuum Is For</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=30d20c7f8f6c4664cc9b24422040db1c0eaa28b23803bbb4f6944b3de05c7bce</link>
-      <guid isPermaLink="false">30d20c7f8f6c4664cc9b24422040db1c0eaa28b23803bbb4f6944b3de05c7bce</guid>
-      <pubDate>Thu, 12 Mar 2026 00:05:46 GMT</pubDate>
-      <description><![CDATA[Continuum is for people and organizations who need durable authorship, self-custodied identity, and a local-first publishing workflow. It is especially well suited for writers, journalists, researchers, human rights activists, ministries, and developers who want to create, preserve, and publish work without depending entirely on centralized platforms.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Local Files vs Local-First: Why Continuum Exists</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=303be15d9616be8276e6d00694037637922484e5f2b1b3c466b4cfcb3002d314</link>
-      <guid isPermaLink="false">303be15d9616be8276e6d00694037637922484e5f2b1b3c466b4cfcb3002d314</guid>
-      <pubDate>Thu, 12 Mar 2026 00:05:32 GMT</pubDate>
-      <description><![CDATA[At first glance, Continuum may appear unnecessary to people who already write documents locally on their computers. After all, anyone can open Word, Markdown, or a text editor and save files in a folder. But Continuum is not merely a place to store documents. It is a local-first authorship and publishing system built around identity, verifiable authorship, durable archives, and intentional distribution. This article explains why the difference matters.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Rise of Sovereign Micro-Applications</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f94b36c38b2dbcac83f7bbfe4eee434b68a27f7316adb888fe305ba20efa7f62</link>
-      <guid isPermaLink="false">f94b36c38b2dbcac83f7bbfe4eee434b68a27f7316adb888fe305ba20efa7f62</guid>
-      <pubDate>Wed, 11 Mar 2026 05:58:02 GMT</pubDate>
-      <description><![CDATA[Modern tools make it possible to build small sovereign applications extremely quickly, enabling a new model for software development.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
@@ -4887,7 +4977,7 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>kind:1 ca91cad312</title>
+      <title>README index — Continuum bounty -2/3/2026</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=ca91cad3125876d8b1665f868d3ed7984135ed7ea6d0177c93be7561676116f2</link>
       <guid isPermaLink="false">ca91cad3125876d8b1665f868d3ed7984135ed7ea6d0177c93be7561676116f2</guid>
       <pubDate>Tue, 03 Feb 2026 19:03:00 GMT</pubDate>
@@ -4912,96 +5002,6 @@
       <guid isPermaLink="false">598b4524f45bc8cae4c4dc33f5b2db72fd20de8d2e6cc6a66c9cf5ea32007675</guid>
       <pubDate>Tue, 03 Feb 2026 00:49:53 GMT</pubDate>
       <description><![CDATA[Most companies rely on surveys that optimize for scale, speed, and ownership — often at the expense of trust, signal quality, and long-term insight. Sovereign Attribution Surveys offer a different tradeoff: fewer responses, higher signal, explicit consent, and durable, attributable insight. This article explains why a company would choose this model, what value it provides, and why it is intentionally not for everyone.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Why I Wrote "The Sovereign Attribution Engine"  Playing the Extraction Game in Reverse</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7935706037c7bfface4c4f8260a29862f6b55ebc3cf2102ecdb3b90c722ec376</link>
-      <guid isPermaLink="false">7935706037c7bfface4c4f8260a29862f6b55ebc3cf2102ecdb3b90c722ec376</guid>
-      <pubDate>Mon, 02 Feb 2026 23:38:20 GMT</pubDate>
-      <description><![CDATA[This article exists because of a familiar pattern: a request for “high-quality, in-depth feedback” framed as an opportunity, while leaving ownership, attribution, and downstream use undefined. Rather than participate quietly or dismiss it outright, I chose to reverse the lens — to extract the structure of the ask itself and make it explicit. This background explains why the Sovereign Attribution Engine was written, and what problem it is responding to.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The "Sovereign Attribution Engine"</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5d623dcc8def39ba346bb9eba7fe43d863eccbb1a534e8dc3ab71c80f8226531</link>
-      <guid isPermaLink="false">5d623dcc8def39ba346bb9eba7fe43d863eccbb1a534e8dc3ab71c80f8226531</guid>
-      <pubDate>Mon, 02 Feb 2026 23:37:36 GMT</pubDate>
-      <description><![CDATA[Most surveys and research systems are not neutral tools — they are extractive pipelines. They centralize ownership, strip authorship, and convert human insight into assets controlled by someone else. The Sovereign Attribution Engine proposes a different model: authored, signed, consent-driven responses where contributors retain ownership, attribution, and agency over how their insight is used. This is not a growth product. It is an ethical alternative for those who refuse anonymous extraction.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>5️⃣ Now, not later - 2/2/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b3bfbf4b2d361a762902ea9b2cc8732f04ebf05d5d3335939ce82a8355028cf7</link>
-      <guid isPermaLink="false">b3bfbf4b2d361a762902ea9b2cc8732f04ebf05d5d3335939ce82a8355028cf7</guid>
-      <pubDate>Mon, 02 Feb 2026 22:35:18 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>4️⃣ Action comes first  - 2/2/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=da2dbe07dc9f7358543ff84ef89fecd82b1cf8608073d730ee88cbd9e5fc68e3</link>
-      <guid isPermaLink="false">da2dbe07dc9f7358543ff84ef89fecd82b1cf8608073d730ee88cbd9e5fc68e3</guid>
-      <pubDate>Mon, 02 Feb 2026 22:32:39 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>3️⃣ Follow-through begins where excuses end - 2/2/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=41f3ebbc5792596862b7b310ae2569fa8ea2b3d0e0a8a996063a0df8a797fada</link>
-      <guid isPermaLink="false">41f3ebbc5792596862b7b310ae2569fa8ea2b3d0e0a8a996063a0df8a797fada</guid>
-      <pubDate>Mon, 02 Feb 2026 22:30:30 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>2️⃣ Remove the escape hatch - 2/2/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=1c8a8c5c8e01596bc8272920fdeb1850cd759e088b5cedb0bc7cf18e96687052</link>
-      <guid isPermaLink="false">1c8a8c5c8e01596bc8272920fdeb1850cd759e088b5cedb0bc7cf18e96687052</guid>
-      <pubDate>Mon, 02 Feb 2026 22:26:24 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>1️⃣ Decide, then act - 2/2/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=237e17ff932c5bad2d0ba6e5a5526b91540d77d3db5c9d43ca0d4ee6978cd232</link>
-      <guid isPermaLink="false">237e17ff932c5bad2d0ba6e5a5526b91540d77d3db5c9d43ca0d4ee6978cd232</guid>
-      <pubDate>Mon, 02 Feb 2026 22:24:47 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Intentional Work as a Form of Stewardship</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d42bc19bbf631ccdd351bebfe4df0df1699104b555c2ba86fa18b71e54ec3620</link>
-      <guid isPermaLink="false">d42bc19bbf631ccdd351bebfe4df0df1699104b555c2ba86fa18b71e54ec3620</guid>
-      <pubDate>Sun, 01 Feb 2026 22:50:55 GMT</pubDate>
-      <description><![CDATA[Building with intention is not only a creative choice but a moral one. It treats time, skill, and attention as resources to be stewarded—not exploited.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Building to Bless Others, Not to Capture Them</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3f9d6b684760587c94114b88313519a0d21171b6e566dbad5cbb22a0a5938f3d</link>
-      <guid isPermaLink="false">3f9d6b684760587c94114b88313519a0d21171b6e566dbad5cbb22a0a5938f3d</guid>
-      <pubDate>Sun, 01 Feb 2026 22:49:40 GMT</pubDate>
-      <description><![CDATA[Many modern tools are designed to capture attention and lock in users. Building to bless others requires a different posture—one rooted in trust, restraint, and respect.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

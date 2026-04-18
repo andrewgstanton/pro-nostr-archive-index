@@ -5,13 +5,103 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 17 Apr 2026 20:29:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 21:51:42 GMT</lastBuildDate>
+    <item>
+      <title>Finished, Not Complete - Learning to Be Satisfied Without Immediate Results</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=50f990ebf012065024af4c447dc2c7282fc0c680fc046cd478d09772c6f194f0</link>
+      <guid isPermaLink="false">50f990ebf012065024af4c447dc2c7282fc0c680fc046cd478d09772c6f194f0</guid>
+      <pubDate>Sat, 18 Apr 2026 21:24:52 GMT</pubDate>
+      <description><![CDATA[Some work is finished before it is complete. This piece explores the difference between completing the work itself and seeing the results of that work—and why learning to be satisfied in that gap is essential.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Work That Remains When Striving Ends</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a67caf0bd6d4e170dd9a9116e49a27d4625e710419d2f824593e0b1ce9caac81</link>
+      <guid isPermaLink="false">a67caf0bd6d4e170dd9a9116e49a27d4625e710419d2f824593e0b1ce9caac81</guid>
+      <pubDate>Sat, 18 Apr 2026 21:03:51 GMT</pubDate>
+      <description><![CDATA[When the pressure to prove something fades, the work does not stop—it becomes clearer and more grounded. This piece reflects on meaningful progress, including recent Continuum releases and foundational improvements, done without striving but not without purpose or responsibility.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Rest Is Not the Absence of Work (it Is the Absence of Labor)</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=03d7f8478e1b15dac6934e11691d7fab09ef6758c74e5f327f6f98debceb1deb</link>
+      <guid isPermaLink="false">03d7f8478e1b15dac6934e11691d7fab09ef6758c74e5f327f6f98debceb1deb</guid>
+      <pubDate>Sat, 18 Apr 2026 20:43:14 GMT</pubDate>
+      <description><![CDATA[Rest is not about stopping activity—it’s about ceasing from striving. This piece explores what it means to continue building, writing, and creating without the burden of pressure, while letting the weight of labor fall away.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Rise of Sovereign Micro-Applications</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4b3a1eb707665720ba42741ee22055b59f89c2b894218484d3e63325b07ce88a</link>
+      <guid isPermaLink="false">4b3a1eb707665720ba42741ee22055b59f89c2b894218484d3e63325b07ce88a</guid>
+      <pubDate>Sat, 18 Apr 2026 18:49:45 GMT</pubDate>
+      <description><![CDATA[Modern tools make it possible to build small sovereign applications extremely quickly, enabling a new model for software development.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Who Continuum Is For</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7da55799bf978f9b43971bcb197c0740b512b1f71590610a7807707793e17f6c</link>
+      <guid isPermaLink="false">7da55799bf978f9b43971bcb197c0740b512b1f71590610a7807707793e17f6c</guid>
+      <pubDate>Sat, 18 Apr 2026 18:49:18 GMT</pubDate>
+      <description><![CDATA[Continuum is for people and organizations who need durable authorship, self-custodied identity, and a local-first publishing workflow. It is especially well suited for writers, journalists, researchers, human rights activists, ministries, and developers who want to create, preserve, and publish work without depending entirely on centralized platforms.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Local Files vs Local-First: Why Continuum Exists</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c52e193c8dbcc5f3be6b6b1ea3ba36a23c112eb4469689e71f7b866e93146d3c</link>
+      <guid isPermaLink="false">c52e193c8dbcc5f3be6b6b1ea3ba36a23c112eb4469689e71f7b866e93146d3c</guid>
+      <pubDate>Sat, 18 Apr 2026 18:48:35 GMT</pubDate>
+      <description><![CDATA[At first glance, Continuum may appear unnecessary to people who already write documents locally on their computers. After all, anyone can open Word, Markdown, or a text editor and save files in a folder. But Continuum is not merely a place to store documents. It is a local-first authorship and publishing system built around identity, verifiable authorship, durable archives, and intentional distribution. This article explains why the difference matters.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Imagining a Decentralized Alternative to Zipcar, Uber, and Lyft</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5beee3a5005f50e896898cc1e9b08ff7d0a3c38528c9dfacf7a0e62cfd78805b</link>
+      <guid isPermaLink="false">5beee3a5005f50e896898cc1e9b08ff7d0a3c38528c9dfacf7a0e62cfd78805b</guid>
+      <pubDate>Sat, 18 Apr 2026 18:44:45 GMT</pubDate>
+      <description><![CDATA[Zipcar, Uber, and Lyft promise convenience but leave us vulnerable to breakdowns and opaque rules. By imagining a decentralized alternative — built on peer-to-peer listings, portable reputation, and Bitcoin payments — we can see how transportation could become more resilient, transparent, and sovereign.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Sovereignty and AI</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0efd9ac51f94f7cf7146ae9dadeccf40a860f06613db73819c8546a9f7745032</link>
-      <guid isPermaLink="false">0efd9ac51f94f7cf7146ae9dadeccf40a860f06613db73819c8546a9f7745032</guid>
-      <pubDate>Wed, 15 Apr 2026 18:39:19 GMT</pubDate>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=8dd4ecaf576c1daf5b89274153a12ece6653ad47255d78c52966aaf79511cf26</link>
+      <guid isPermaLink="false">8dd4ecaf576c1daf5b89274153a12ece6653ad47255d78c52966aaf79511cf26</guid>
+      <pubDate>Sat, 18 Apr 2026 07:00:57 GMT</pubDate>
       <description><![CDATA[An exploration of how AI can serve as an amplifier for builders and writers without displacing human authority. This article argues for a sovereignty-first approach to AI, where ownership, authorship, and identity remain centered in the individual.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>From Blog.StantonWeb to Continuum Stories — Getting the Pipeline Working in a New Repo - Part 2</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f803d4f3de07e6e68f9773af47bf1c9988c82dfa1e5ded3406cd73f74085dfb2</link>
+      <guid isPermaLink="false">f803d4f3de07e6e68f9773af47bf1c9988c82dfa1e5ded3406cd73f74085dfb2</guid>
+      <pubDate>Sat, 18 Apr 2026 04:18:49 GMT</pubDate>
+      <description><![CDATA[In Part 1, I described the architecture behind a decentralized publishing pipeline using Nostr, GitHub Actions, and GitHub Pages. In this follow-up, I walk through what it actually took to get that same pipeline working again in a new repository — including authentication issues, workflow permissions, and the small but critical details that make it all run automatically.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>From Blog.StantonWeb to Continuum Stories  - Reusing a Decentralized Publishing Pipeline</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d96916821f5c75122e1335d6dd74a39b9c50ccdc9354eb48c7b1211b1f52dcb2</link>
+      <guid isPermaLink="false">d96916821f5c75122e1335d6dd74a39b9c50ccdc9354eb48c7b1211b1f52dcb2</guid>
+      <pubDate>Fri, 17 Apr 2026 23:57:31 GMT</pubDate>
+      <description><![CDATA[Last summer, I built a decentralized blog using Nostr, GitHub Actions, and GitHub Pages. I’m now taking that same idea and applying it directly to Continuum — turning tagged articles into a live, automatically updating site with zero manual publishing steps.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
@@ -462,36 +552,6 @@
       <guid isPermaLink="false">9a05cc11ece1c7158332cf56f7844f980ef81f352df83c211ad51edc3ebe2f15</guid>
       <pubDate>Thu, 12 Mar 2026 00:06:03 GMT</pubDate>
       <description><![CDATA[Summary: Most builders work in long stretches of silence, sustained by occasional signals from people who understand the work.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Who Continuum Is For</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=30d20c7f8f6c4664cc9b24422040db1c0eaa28b23803bbb4f6944b3de05c7bce</link>
-      <guid isPermaLink="false">30d20c7f8f6c4664cc9b24422040db1c0eaa28b23803bbb4f6944b3de05c7bce</guid>
-      <pubDate>Thu, 12 Mar 2026 00:05:46 GMT</pubDate>
-      <description><![CDATA[Continuum is for people and organizations who need durable authorship, self-custodied identity, and a local-first publishing workflow. It is especially well suited for writers, journalists, researchers, human rights activists, ministries, and developers who want to create, preserve, and publish work without depending entirely on centralized platforms.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Local Files vs Local-First: Why Continuum Exists</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=303be15d9616be8276e6d00694037637922484e5f2b1b3c466b4cfcb3002d314</link>
-      <guid isPermaLink="false">303be15d9616be8276e6d00694037637922484e5f2b1b3c466b4cfcb3002d314</guid>
-      <pubDate>Thu, 12 Mar 2026 00:05:32 GMT</pubDate>
-      <description><![CDATA[At first glance, Continuum may appear unnecessary to people who already write documents locally on their computers. After all, anyone can open Word, Markdown, or a text editor and save files in a folder. But Continuum is not merely a place to store documents. It is a local-first authorship and publishing system built around identity, verifiable authorship, durable archives, and intentional distribution. This article explains why the difference matters.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Rise of Sovereign Micro-Applications</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f94b36c38b2dbcac83f7bbfe4eee434b68a27f7316adb888fe305ba20efa7f62</link>
-      <guid isPermaLink="false">f94b36c38b2dbcac83f7bbfe4eee434b68a27f7316adb888fe305ba20efa7f62</guid>
-      <pubDate>Wed, 11 Mar 2026 05:58:02 GMT</pubDate>
-      <description><![CDATA[Modern tools make it possible to build small sovereign applications extremely quickly, enabling a new model for software development.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
@@ -4942,66 +5002,6 @@
       <guid isPermaLink="false">f38bdebb352aa6aacb8496c8264931633ac468e8a50121e27def5b13199dfdf4</guid>
       <pubDate>Sun, 30 Nov 2025 18:44:18 GMT</pubDate>
       <description><![CDATA[A hard-science exposition showing how GR, quantum field theory, entropy, and cosmic expansion are not random mechanics but the structural reflections of an intentional universe. This integrates physics with sovereignty without reducing either.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sunday Article (Nov. 30, 2025): The Bitcoin Chronicles - Book 0 - Part IV - Human Destiny</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=27b93aedb5f71ad6009d5c3699317c30f6a92bdc0aa42a9d177b7ce86ef976c1</link>
-      <guid isPermaLink="false">27b93aedb5f71ad6009d5c3699317c30f6a92bdc0aa42a9d177b7ce86ef976c1</guid>
-      <pubDate>Sun, 30 Nov 2025 18:04:04 GMT</pubDate>
-      <description><![CDATA[Humanity emerges late in Earth’s long story — but precisely on time within the Sovereign architecture of the universe. Part IV explores why human beings, appearing after billions of years of cosmic preparation, stand at the center of purpose, creativity, and destiny in the Chronicles canon.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sabbath Article (Nov. 29, 2025): The Bitcoin Chronicles - Book 0  - Part I - The Creator's Pulse</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f6f3263c261269ed1296615b52b36c8b4c3d35c055cf28973a4ece1c28cf7670</link>
-      <guid isPermaLink="false">f6f3263c261269ed1296615b52b36c8b4c3d35c055cf28973a4ece1c28cf7670</guid>
-      <pubDate>Sun, 30 Nov 2025 05:10:06 GMT</pubDate>
-      <description><![CDATA[Before stars, before particles, before spacetime itself—there was the pulse of the Creator, the uncreated source of all being. This piece establishes the metaphysical foundation of the Chronicles: creation as an act of intentionality, resonance, and sovereign love.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 29, 2025): The Bitcoin Chronicles - Book 0 - Preface</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c6a02ca54624728560bcd393411a762a1ed0298c0a2204c5b0266e1d1618fab6</link>
-      <guid isPermaLink="false">c6a02ca54624728560bcd393411a762a1ed0298c0a2204c5b0266e1d1618fab6</guid>
-      <pubDate>Sun, 30 Nov 2025 05:03:42 GMT</pubDate>
-      <description><![CDATA[The Preface clarifies the nature of the Bitcoin Chronicles: a Christ-shaped hard-science cosmology, not a work of Christian genre fiction. Christ is not a character in this story but the deep structure of reality — the architecture beneath physics, sovereignty, and the laws of creation. This framing prepares the reader to understand Book 0 not as allegory or religious fiction, but as a sovereign, scientifically coherent universe rooted in true metaphysics.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 25, 2025): When Digital Sovereignty Feels Like Shouting Into the Wind</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=24fcb1d471a561956fc45fe64cea5c7f18eb87baf4de81a37a95e6f638fa800e</link>
-      <guid isPermaLink="false">24fcb1d471a561956fc45fe64cea5c7f18eb87baf4de81a37a95e6f638fa800e</guid>
-      <pubDate>Wed, 26 Nov 2025 00:20:48 GMT</pubDate>
-      <description><![CDATA[A meditation on the discouragement that comes from building faithfully with little recognition—and why perseverance produces a harvest even when the field looks empty.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 24, 2025): The Lighthouse at Mare Cimmerium</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b667a3e748e65e4f0f06f625a8b0af0de31145e29577e2f2365997464e12f1a5</link>
-      <guid isPermaLink="false">b667a3e748e65e4f0f06f625a8b0af0de31145e29577e2f2365997464e12f1a5</guid>
-      <pubDate>Mon, 24 Nov 2025 23:45:47 GMT</pubDate>
-      <description><![CDATA[On Mars, a lone engineer maintains an ancient Bitcoin node inside an old basalt tower. When a dust storm threatens to sever the colony from the interplanetary mesh, the Lighthouse becomes the only source of truth for a world drifting toward digital amnesia.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 24, 2025): The Bitcoin Chronicles: The Archivist of Luna Freeport</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=fa7fb348ef847689621f02fd70a878f73241836438835c689841b80295029c36</link>
-      <guid isPermaLink="false">fa7fb348ef847689621f02fd70a878f73241836438835c689841b80295029c36</guid>
-      <pubDate>Mon, 24 Nov 2025 23:43:47 GMT</pubDate>
-      <description><![CDATA[A quiet researcher on Luna Freeport uncovers an ancient cache of Earth-era financial logs showing how the Global Credit Order collapsed — and realizes the Freeport’s future depends on learning the right lesson: sovereignty can be maintained only when the truth is preserved, verifiably, forever.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
