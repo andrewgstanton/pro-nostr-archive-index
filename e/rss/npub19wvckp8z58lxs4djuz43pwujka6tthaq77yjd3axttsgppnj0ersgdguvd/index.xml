@@ -5,7 +5,27 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 18 Apr 2026 21:51:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 19:06:43 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 b8aae46028</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b8aae460282e1dedb51fe7ab5d23f805236fb146cd7d98c19c9676b653b06d45</link>
+      <guid isPermaLink="false">b8aae460282e1dedb51fe7ab5d23f805236fb146cd7d98c19c9676b653b06d45</guid>
+      <pubDate>Sun, 19 Apr 2026 06:41:12 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 5814f1a1f1</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5814f1a1f151f9c925765224d365e2ef29439e15b09f0993764a26e346f8ed93</link>
+      <guid isPermaLink="false">5814f1a1f151f9c925765224d365e2ef29439e15b09f0993764a26e346f8ed93</guid>
+      <pubDate>Sun, 19 Apr 2026 01:34:32 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 bd3e9a76a4</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=bd3e9a76a44dca8eb40ddfe56e55bfd815d08936d607815a719323ceb6122028</link>
@@ -4983,26 +5003,6 @@
       <pubDate>Mon, 02 Feb 2026 22:24:47 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Intentional Work as a Form of Stewardship</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d42bc19bbf631ccdd351bebfe4df0df1699104b555c2ba86fa18b71e54ec3620</link>
-      <guid isPermaLink="false">d42bc19bbf631ccdd351bebfe4df0df1699104b555c2ba86fa18b71e54ec3620</guid>
-      <pubDate>Sun, 01 Feb 2026 22:50:55 GMT</pubDate>
-      <description><![CDATA[Building with intention is not only a creative choice but a moral one. It treats time, skill, and attention as resources to be stewarded—not exploited.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Building to Bless Others, Not to Capture Them</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3f9d6b684760587c94114b88313519a0d21171b6e566dbad5cbb22a0a5938f3d</link>
-      <guid isPermaLink="false">3f9d6b684760587c94114b88313519a0d21171b6e566dbad5cbb22a0a5938f3d</guid>
-      <pubDate>Sun, 01 Feb 2026 22:49:40 GMT</pubDate>
-      <description><![CDATA[Many modern tools are designed to capture attention and lock in users. Building to bless others requires a different posture—one rooted in trust, restraint, and respect.]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>

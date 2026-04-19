@@ -5,7 +5,27 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 18 Apr 2026 21:51:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 19:06:43 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 b8aae46028</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b8aae460282e1dedb51fe7ab5d23f805236fb146cd7d98c19c9676b653b06d45</link>
+      <guid isPermaLink="false">b8aae460282e1dedb51fe7ab5d23f805236fb146cd7d98c19c9676b653b06d45</guid>
+      <pubDate>Sun, 19 Apr 2026 06:41:12 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 5814f1a1f1</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5814f1a1f151f9c925765224d365e2ef29439e15b09f0993764a26e346f8ed93</link>
+      <guid isPermaLink="false">5814f1a1f151f9c925765224d365e2ef29439e15b09f0993764a26e346f8ed93</guid>
+      <pubDate>Sun, 19 Apr 2026 01:34:32 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 bd3e9a76a4</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=bd3e9a76a44dca8eb40ddfe56e55bfd815d08936d607815a719323ceb6122028</link>
@@ -4983,26 +5003,6 @@
       <pubDate>Tue, 03 Feb 2026 19:03:00 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 1 — Clarification - 2/3/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2a230006b70775ad82b960aee6bf8ca4f388e52a4ff99ebb6a0cdb163329bb59</link>
-      <guid isPermaLink="false">2a230006b70775ad82b960aee6bf8ca4f388e52a4ff99ebb6a0cdb163329bb59</guid>
-      <pubDate>Tue, 03 Feb 2026 18:56:10 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Why Companies Should Use Sovereign Attribution Surveys</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=598b4524f45bc8cae4c4dc33f5b2db72fd20de8d2e6cc6a66c9cf5ea32007675</link>
-      <guid isPermaLink="false">598b4524f45bc8cae4c4dc33f5b2db72fd20de8d2e6cc6a66c9cf5ea32007675</guid>
-      <pubDate>Tue, 03 Feb 2026 00:49:53 GMT</pubDate>
-      <description><![CDATA[Most companies rely on surveys that optimize for scale, speed, and ownership — often at the expense of trust, signal quality, and long-term insight. Sovereign Attribution Surveys offer a different tradeoff: fewer responses, higher signal, explicit consent, and durable, attributable insight. This article explains why a company would choose this model, what value it provides, and why it is intentionally not for everyone.]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
