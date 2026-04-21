@@ -5,7 +5,117 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 19 Apr 2026 19:06:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 19:43:12 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 f6010929ca</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f6010929cac3910e1810d03d7af80c4b8e36ce17254629061bd667a30f0b025d</link>
+      <guid isPermaLink="false">f6010929cac3910e1810d03d7af80c4b8e36ce17254629061bd667a30f0b025d</guid>
+      <pubDate>Tue, 21 Apr 2026 19:34:42 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 2422579017</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=24225790173f657dc3d25b1c175a0267036961aacada12c64d38b275e9e92eb6</link>
+      <guid isPermaLink="false">24225790173f657dc3d25b1c175a0267036961aacada12c64d38b275e9e92eb6</guid>
+      <pubDate>Tue, 21 Apr 2026 19:33:33 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 c0030fece2</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c0030fece285445fe77e1e0d5b7dd528ce50c8cf730b68b8a238a25c4f50e5a1</link>
+      <guid isPermaLink="false">c0030fece285445fe77e1e0d5b7dd528ce50c8cf730b68b8a238a25c4f50e5a1</guid>
+      <pubDate>Tue, 21 Apr 2026 19:32:53 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Why Open Source Still Matters</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=29c19d2944756464fd6b59e63f32e3b4542ef987735f2179dce6674cdc899930</link>
+      <guid isPermaLink="false">29c19d2944756464fd6b59e63f32e3b4542ef987735f2179dce6674cdc899930</guid>
+      <pubDate>Tue, 21 Apr 2026 04:10:18 GMT</pubDate>
+      <description><![CDATA[Summary: Open source is fundamentally about visibility—the ability to inspect, run, and verify how a system works. In an increasingly opaque software landscape, that transparency matters more than ever. Continuum aligns with these principles, but openness must be introduced at the right time, when the system is coherent and understandable. The goal is not just to expose code, but to make the system truly knowable and trustworthy.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Direct, Not Intermediated</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=eaa1f3bfa71d895346e2a92f5c9d508485b9483d8973593f0c42eea6da11a676</link>
+      <guid isPermaLink="false">eaa1f3bfa71d895346e2a92f5c9d508485b9483d8973593f0c42eea6da11a676</guid>
+      <pubDate>Tue, 21 Apr 2026 04:02:50 GMT</pubDate>
+      <description><![CDATA[Summary: Setting up direct book purchases is not about replacing platforms like Amazon, but about restoring direct relationships between author and reader. Platforms optimize for efficiency but abstract the interaction. Direct purchase introduces a small amount of friction, but creates a more intentional and transparent exchange. It reflects a broader principle behind Continuum: ownership and connection should not be fully intermediated.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>A Place for the Work to Live</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ba489ec6ee79ac5ab83d1603e607da164057bf2d31026186299ccbd9025de651</link>
+      <guid isPermaLink="false">ba489ec6ee79ac5ab83d1603e607da164057bf2d31026186299ccbd9025de651</guid>
+      <pubDate>Tue, 21 Apr 2026 03:48:36 GMT</pubDate>
+      <description><![CDATA[Summary: Adding a Books section to mycontinuum.xyz is a small structural change, but an important one. It creates a place for the ideas behind Continuum—sovereignty, authorship, and ownership—to live alongside the software itself. Code shows what is possible. Writing explains why it matters. Both are necessary, and bringing them together marks a shift from a project to a growing body of work.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 d4f4529198</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d4f45291985cc2f14d0704c0adfb52642d75005f62cac96823c0347af1f770ab</link>
+      <guid isPermaLink="false">d4f45291985cc2f14d0704c0adfb52642d75005f62cac96823c0347af1f770ab</guid>
+      <pubDate>Tue, 21 Apr 2026 03:01:04 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 b6bc83e1f8</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b6bc83e1f8eb7afa984e889c26014e6b3e09fee53a308c2ed73ce28905d11e95</link>
+      <guid isPermaLink="false">b6bc83e1f8eb7afa984e889c26014e6b3e09fee53a308c2ed73ce28905d11e95</guid>
+      <pubDate>Tue, 21 Apr 2026 02:59:48 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 adbd5c64a7</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=adbd5c64a762c84ab29755944eeae4fdddbbfa14d3259dc518b471718184e677</link>
+      <guid isPermaLink="false">adbd5c64a762c84ab29755944eeae4fdddbbfa14d3259dc518b471718184e677</guid>
+      <pubDate>Tue, 21 Apr 2026 02:58:56 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Sovereign Small-App Pattern</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=327d5a6ee3034134b4ad8679c6cae0405dcbee009e92e3cbcf91c3dbf9385949</link>
+      <guid isPermaLink="false">327d5a6ee3034134b4ad8679c6cae0405dcbee009e92e3cbcf91c3dbf9385949</guid>
+      <pubDate>Tue, 21 Apr 2026 01:30:34 GMT</pubDate>
+      <description><![CDATA[A 1 1/2 hour experiment building a tiny admin tool for Kiki’s Kitchen Table revealed a repeatable architectural pattern for sovereign business applications: local editing, deterministic data, template rendering, and static deployment.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Write Anywhere. Publish Anywhere.</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1dd78ec444bcda87fd81008e624152018f1cae5db510ecab5e158ff90e44eb69</link>
+      <guid isPermaLink="false">1dd78ec444bcda87fd81008e624152018f1cae5db510ecab5e158ff90e44eb69</guid>
+      <pubDate>Mon, 20 Apr 2026 21:24:38 GMT</pubDate>
+      <description><![CDATA[On April 19, 2026, I ran a simple but revealing experiment: create and sign a note offline on one machine, move it physically, and publish it from another. No cloud. No sync service. No account login. What happened wasn’t just a workflow—it was proof of a different model for authorship.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 b8aae46028</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=b8aae460282e1dedb51fe7ab5d23f805236fb146cd7d98c19c9676b653b06d45</link>
@@ -4891,116 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=6293006a1664de8b51c698ef9db28d8ca4235eeba805bda801f40bfeb98c9b0e</link>
       <guid isPermaLink="false">6293006a1664de8b51c698ef9db28d8ca4235eeba805bda801f40bfeb98c9b0e</guid>
       <pubDate>Wed, 04 Feb 2026 01:23:17 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 4 - 2/3/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=80fc1f87a2a6262209ee847eb075eef195311e14de4322ca00592ffab0dbe759</link>
-      <guid isPermaLink="false">80fc1f87a2a6262209ee847eb075eef195311e14de4322ca00592ffab0dbe759</guid>
-      <pubDate>Wed, 04 Feb 2026 01:21:52 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 3 - 2/3/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6eaec14149d96539806a8a28362cf8abbad701dea50d9a3190dcfbae65385d83</link>
-      <guid isPermaLink="false">6eaec14149d96539806a8a28362cf8abbad701dea50d9a3190dcfbae65385d83</guid>
-      <pubDate>Wed, 04 Feb 2026 01:20:34 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 2 - 2/3/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ee24208af0930c2eb91c3015a2ae4e03ab3906004c999a4e8a17ffe07af4ff0a</link>
-      <guid isPermaLink="false">ee24208af0930c2eb91c3015a2ae4e03ab3906004c999a4e8a17ffe07af4ff0a</guid>
-      <pubDate>Wed, 04 Feb 2026 01:19:10 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 1 - 2/3/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ca6106753d23c8c7c5cc8015d79aa08e6f0303ae0768fbe097d24b71143a7380</link>
-      <guid isPermaLink="false">ca6106753d23c8c7c5cc8015d79aa08e6f0303ae0768fbe097d24b71143a7380</guid>
-      <pubDate>Wed, 04 Feb 2026 01:17:54 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 f2a446f30a</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f2a446f30abfc3708b860c324488f60b4df307426c05a7574fbf2758369627df</link>
-      <guid isPermaLink="false">f2a446f30abfc3708b860c324488f60b4df307426c05a7574fbf2758369627df</guid>
-      <pubDate>Wed, 04 Feb 2026 00:17:48 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sovereign Attribution Survey - Continuum</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=99c14f067aebd8fbc9ad3d0a93a2208d090945b369770bd7aee424911f4f8d02</link>
-      <guid isPermaLink="false">99c14f067aebd8fbc9ad3d0a93a2208d090945b369770bd7aee424911f4f8d02</guid>
-      <pubDate>Tue, 03 Feb 2026 22:07:36 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Testing the Sovereign Attribution Engine</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ec6645fad115d84f73fc15259e13cc5830a786090877024a996370d417df76f9</link>
-      <guid isPermaLink="false">ec6645fad115d84f73fc15259e13cc5830a786090877024a996370d417df76f9</guid>
-      <pubDate>Tue, 03 Feb 2026 22:03:08 GMT</pubDate>
-      <description><![CDATA[This article introduces the "Sovereign Attribution Engine (SAE)"—an experiment in requesting and receiving thoughtful, signed, attributable responses without feed dynamics, extraction, or performative engagement. It invites participants to author a real response to a concrete prompt about local-first tooling (Continuum), with clear rules, attribution, and a modest symbolic acknowledgment.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>README_FIRST_MAC.md - Continuum Bounty</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2c027b46753c3e06764781b2234872486c9e290f9c07367fc8ba4cd085ad434f</link>
-      <guid isPermaLink="false">2c027b46753c3e06764781b2234872486c9e290f9c07367fc8ba4cd085ad434f</guid>
-      <pubDate>Tue, 03 Feb 2026 19:36:28 GMT</pubDate>
-      <description><![CDATA[Step by step instructions for running and testing Continuum on your Mac]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>README_FIRST_WINDOWS.md - Continuum Bounty</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=4b4d04b5f57701f07d90c79e4eac0f8b8dab84050b5dff474cefebf6ad185d15</link>
-      <guid isPermaLink="false">4b4d04b5f57701f07d90c79e4eac0f8b8dab84050b5dff474cefebf6ad185d15</guid>
-      <pubDate>Tue, 03 Feb 2026 19:14:17 GMT</pubDate>
-      <description><![CDATA[Step by step instructions for running and testing Continuum on your Mac]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>README_FIRST.md - Continuum Bounty. - 2/3/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=4af4a39ba1223edc3a18a1489ce889c443d6b2088fb8544a5e9ca8b8ab1b3e4c</link>
-      <guid isPermaLink="false">4af4a39ba1223edc3a18a1489ce889c443d6b2088fb8544a5e9ca8b8ab1b3e4c</guid>
-      <pubDate>Tue, 03 Feb 2026 19:04:19 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>README index — Continuum bounty -2/3/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ca91cad3125876d8b1665f868d3ed7984135ed7ea6d0177c93be7561676116f2</link>
-      <guid isPermaLink="false">ca91cad3125876d8b1665f868d3ed7984135ed7ea6d0177c93be7561676116f2</guid>
-      <pubDate>Tue, 03 Feb 2026 19:03:00 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>

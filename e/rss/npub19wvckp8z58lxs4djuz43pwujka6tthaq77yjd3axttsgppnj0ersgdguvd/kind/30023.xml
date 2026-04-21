@@ -5,7 +5,57 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 19 Apr 2026 19:06:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 19:43:12 GMT</lastBuildDate>
+    <item>
+      <title>Why Open Source Still Matters</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=29c19d2944756464fd6b59e63f32e3b4542ef987735f2179dce6674cdc899930</link>
+      <guid isPermaLink="false">29c19d2944756464fd6b59e63f32e3b4542ef987735f2179dce6674cdc899930</guid>
+      <pubDate>Tue, 21 Apr 2026 04:10:18 GMT</pubDate>
+      <description><![CDATA[Summary: Open source is fundamentally about visibility—the ability to inspect, run, and verify how a system works. In an increasingly opaque software landscape, that transparency matters more than ever. Continuum aligns with these principles, but openness must be introduced at the right time, when the system is coherent and understandable. The goal is not just to expose code, but to make the system truly knowable and trustworthy.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Direct, Not Intermediated</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=eaa1f3bfa71d895346e2a92f5c9d508485b9483d8973593f0c42eea6da11a676</link>
+      <guid isPermaLink="false">eaa1f3bfa71d895346e2a92f5c9d508485b9483d8973593f0c42eea6da11a676</guid>
+      <pubDate>Tue, 21 Apr 2026 04:02:50 GMT</pubDate>
+      <description><![CDATA[Summary: Setting up direct book purchases is not about replacing platforms like Amazon, but about restoring direct relationships between author and reader. Platforms optimize for efficiency but abstract the interaction. Direct purchase introduces a small amount of friction, but creates a more intentional and transparent exchange. It reflects a broader principle behind Continuum: ownership and connection should not be fully intermediated.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>A Place for the Work to Live</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ba489ec6ee79ac5ab83d1603e607da164057bf2d31026186299ccbd9025de651</link>
+      <guid isPermaLink="false">ba489ec6ee79ac5ab83d1603e607da164057bf2d31026186299ccbd9025de651</guid>
+      <pubDate>Tue, 21 Apr 2026 03:48:36 GMT</pubDate>
+      <description><![CDATA[Summary: Adding a Books section to mycontinuum.xyz is a small structural change, but an important one. It creates a place for the ideas behind Continuum—sovereignty, authorship, and ownership—to live alongside the software itself. Code shows what is possible. Writing explains why it matters. Both are necessary, and bringing them together marks a shift from a project to a growing body of work.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Sovereign Small-App Pattern</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=327d5a6ee3034134b4ad8679c6cae0405dcbee009e92e3cbcf91c3dbf9385949</link>
+      <guid isPermaLink="false">327d5a6ee3034134b4ad8679c6cae0405dcbee009e92e3cbcf91c3dbf9385949</guid>
+      <pubDate>Tue, 21 Apr 2026 01:30:34 GMT</pubDate>
+      <description><![CDATA[A 1 1/2 hour experiment building a tiny admin tool for Kiki’s Kitchen Table revealed a repeatable architectural pattern for sovereign business applications: local editing, deterministic data, template rendering, and static deployment.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Write Anywhere. Publish Anywhere.</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1dd78ec444bcda87fd81008e624152018f1cae5db510ecab5e158ff90e44eb69</link>
+      <guid isPermaLink="false">1dd78ec444bcda87fd81008e624152018f1cae5db510ecab5e158ff90e44eb69</guid>
+      <pubDate>Mon, 20 Apr 2026 21:24:38 GMT</pubDate>
+      <description><![CDATA[On April 19, 2026, I ran a simple but revealing experiment: create and sign a note offline on one machine, move it physically, and publish it from another. No cloud. No sync service. No account login. What happened wasn’t just a workflow—it was proof of a different model for authorship.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Finished, Not Complete - Learning to Be Satisfied Without Immediate Results</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=50f990ebf012065024af4c447dc2c7282fc0c680fc046cd478d09772c6f194f0</link>
@@ -4952,56 +5002,6 @@
       <guid isPermaLink="false">d4f4607905d94202c3cf5d8cd3dde4e51ebc3bd7e2b67a589a6b8fa1a737afbe</guid>
       <pubDate>Sun, 30 Nov 2025 19:28:03 GMT</pubDate>
       <description><![CDATA[A reflection on how New Lakota, New Bern, Luna Freeport, and the Belt Stations come together for the 500th anniversary of the Mayflower, marking the first unified Thanksgiving after the UEB Incident.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 26, 2025): The Bitcoin Chronicles: The 500th Crossing: How the Mayflower Memory Lives in Martian Sovereignties</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e05148e03abd02318b90a3dab7d9074807482f5f3961eadeb636a318e14b92df</link>
-      <guid isPermaLink="false">e05148e03abd02318b90a3dab7d9074807482f5f3961eadeb636a318e14b92df</guid>
-      <pubDate>Sun, 30 Nov 2025 19:25:34 GMT</pubDate>
-      <description><![CDATA[A meditation on why the 500th anniversary of the Mayflower resonates so deeply with New Lakota, New Bern, and the Belt enclaves, especially after the Martian referendum and UEB interference]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 27, 2025): The Bitcoin Chronicles: The Quiet Return of Thanksgiving</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=49d3bb05dd35b3fc3b8500850b5ec23b59a4180f8f53f5bd1b37f08be98fcbe9</link>
-      <guid isPermaLink="false">49d3bb05dd35b3fc3b8500850b5ec23b59a4180f8f53f5bd1b37f08be98fcbe9</guid>
-      <pubDate>Sun, 30 Nov 2025 19:23:54 GMT</pubDate>
-      <description><![CDATA[A reflection from the edge of Luna Freeport, where a small gathering of settlers rediscover an ancient Earth ritual—gratitude—across light-years and fractured histories.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 27, 2025): The Bitcoin Chronicles: The Entanglement Pilgrims</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=628bfedaa6ece4e759af1d9e4f4cdd383b207661626f99f1b8dbd9ec44377a89</link>
-      <guid isPermaLink="false">628bfedaa6ece4e759af1d9e4f4cdd383b207661626f99f1b8dbd9ec44377a89</guid>
-      <pubDate>Sun, 30 Nov 2025 19:22:12 GMT</pubDate>
-      <description><![CDATA[A team of frontier scientists and spiritual exiles test the first matter-transfer via entanglement bridge—an echo of the Mayflower crossing reimagined for interstellar space.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 29, 2025): The Bitcoin Chronicles - Book 0 — Epigraph</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9ffa04de6515f428de8cc28c8b67b4d6b44daea67ee3703fe7820e16c06798b9</link>
-      <guid isPermaLink="false">9ffa04de6515f428de8cc28c8b67b4d6b44daea67ee3703fe7820e16c06798b9</guid>
-      <pubDate>Sun, 30 Nov 2025 19:18:40 GMT</pubDate>
-      <description><![CDATA[A single-line epigraph that defines the entire metaphysical frame of *The Bitcoin Chronicles*: a universe saturated with glory, meaning, purpose, and sovereignty—hidden only because human perception is not yet large enough to grasp it.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 30, 2025): The Bitcoin Chronicles - Book 0 — Part III - The Physics of Creation</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f38bdebb352aa6aacb8496c8264931633ac468e8a50121e27def5b13199dfdf4</link>
-      <guid isPermaLink="false">f38bdebb352aa6aacb8496c8264931633ac468e8a50121e27def5b13199dfdf4</guid>
-      <pubDate>Sun, 30 Nov 2025 18:44:18 GMT</pubDate>
-      <description><![CDATA[A hard-science exposition showing how GR, quantum field theory, entropy, and cosmic expansion are not random mechanics but the structural reflections of an intentional universe. This integrates physics with sovereignty without reducing either.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
