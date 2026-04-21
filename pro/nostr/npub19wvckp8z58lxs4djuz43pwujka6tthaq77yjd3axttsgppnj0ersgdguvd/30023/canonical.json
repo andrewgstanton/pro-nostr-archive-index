@@ -3066,9 +3066,8 @@
     "published": false
   },
   "the-sovereign-small-app-pattern": {
-    "latest_event_id": "2af654b2cc1731bbac2e3e0dbbf5dca8e78365a37ac8774ece2bbd120e9db58c",
-    "latest_year": 2026,
-    "published": false
+    "latest_event_id": "327d5a6ee3034134b4ad8679c6cae0405dcbee009e92e3cbcf91c3dbf9385949",
+    "latest_year": 2026
   },
   "builders-log--march-9-2026": {
     "latest_event_id": "c52a61cdf033cff3a96300eb92e6f2a765455df47da730a97eef972b41a45d43",
@@ -3460,5 +3459,36 @@
   "finished-not-complete---learning-to-be-satisfied-without-immediate-results": {
     "latest_event_id": "50f990ebf012065024af4c447dc2c7282fc0c680fc046cd478d09772c6f194f0",
     "latest_year": 2026
+  },
+  "builders-journal---saturday-april-18-2026": {
+    "latest_event_id": "c7e980a6b0698b186ca395445ebad362a1284f4e233d205544535d561206e0d7",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builder-jounal---sunday-april-19-2026": {
+    "latest_event_id": "f44ac439ecc301c076b8bbf2a37b76ffd12693ed9f6d81331fb54e952c15245a",
+    "latest_year": 2026,
+    "published": false
+  },
+  "write-anywhere-publish-anywhere": {
+    "latest_event_id": "1dd78ec444bcda87fd81008e624152018f1cae5db510ecab5e158ff90e44eb69",
+    "latest_year": 2026
+  },
+  "a-place-for-the-work-to-live": {
+    "latest_event_id": "ba489ec6ee79ac5ab83d1603e607da164057bf2d31026186299ccbd9025de651",
+    "latest_year": 2026
+  },
+  "direct-not-intermediated": {
+    "latest_event_id": "eaa1f3bfa71d895346e2a92f5c9d508485b9483d8973593f0c42eea6da11a676",
+    "latest_year": 2026
+  },
+  "why-open-source-still-matters": {
+    "latest_event_id": "29c19d2944756464fd6b59e63f32e3b4542ef987735f2179dce6674cdc899930",
+    "latest_year": 2026
+  },
+  "builders-journal---monday-april-20-2026": {
+    "latest_event_id": "84614b187febea639a668dd0f579abca9a3ba86d59ef028120a8634616ac7cc9",
+    "latest_year": 2026,
+    "published": false
   }
 }
