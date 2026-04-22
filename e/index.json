@@ -1,5 +1,50 @@
 [
   {
+    "slug": "builder-journal---tuesday-april-21-2026",
+    "event_id": "0af6d9faac75f8046e2519c6130942907fc450c34603f7777f0e5def97d6265a",
+    "created_at": 1776835085,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/0af6d9faac75f8046e2519c6130942907fc450c34603f7777f0e5def97d6265a.json",
+    "title": "Builder Journal - Tuesday, April 21, 2026",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
+    "slug": "how-a-circular-economy-actually-forms---bitcoin-circular-economy-part-3",
+    "event_id": "ffc440e8ab492100b5d5070a02fd6b5f2447970a95556fc3b11ae72864e8e2e6",
+    "created_at": 1776811997,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/ffc440e8ab492100b5d5070a02fd6b5f2447970a95556fc3b11ae72864e8e2e6.json",
+    "title": "How a Circular Economy Actually Forms - Bitcoin Circular Economy, Part 3",
+    "summary": "A circular economy forms when value continues moving between participants instead of exiting the system. The key is not adoption alone, but the persistence of exchange within the network.",
+    "paid": false
+  },
+  {
+    "slug": "why-token-economies-arent-real-economies---bitcoin-circular-economy-part-2",
+    "event_id": "3308b455d778144d9dc3b95af8838622b239c5ee4491cbabf2dbb61b0803e309",
+    "created_at": 1776805035,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/3308b455d778144d9dc3b95af8838622b239c5ee4491cbabf2dbb61b0803e309.json",
+    "title": "Why Token “Economies” Aren’t  Real Economies - Bitcoin Circular Economy,  Part 2",
+    "summary": "Many systems labeled as “economies” are driven by incentives and token speculation rather than real exchange. A true economy is built on the exchange of goods and services, not the circulation of a token.",
+    "paid": false
+  },
+  {
+    "slug": "stop-converting-back---bitcoin-circular-economy-part-1",
+    "event_id": "7d070afe8e5dc1de1d8a532ce0c6bd55541665c04abc6012bc652f518bd35824",
+    "created_at": 1776804999,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/7d070afe8e5dc1de1d8a532ce0c6bd55541665c04abc6012bc652f518bd35824.json",
+    "title": "Stop Converting Back - Bitcoin Circular Economy, Part 1",
+    "summary": "A circular economy doesn’t require new infrastructure. It starts when individuals stop immediately converting sats back to fiat and allow value to continue moving between participants.",
+    "paid": false
+  },
+  {
     "slug": null,
     "event_id": "f6010929cac3910e1810d03d7af80c4b8e36ce17254629061bd667a30f0b025d",
     "created_at": 1776800082,

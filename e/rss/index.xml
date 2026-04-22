@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 21 Apr 2026 19:43:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 16:50:35 GMT</lastBuildDate>
+    <item>
+      <title>How a Circular Economy Actually Forms - Bitcoin Circular Economy, Part 3</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ffc440e8ab492100b5d5070a02fd6b5f2447970a95556fc3b11ae72864e8e2e6</link>
+      <guid isPermaLink="false">ffc440e8ab492100b5d5070a02fd6b5f2447970a95556fc3b11ae72864e8e2e6</guid>
+      <pubDate>Tue, 21 Apr 2026 22:53:17 GMT</pubDate>
+      <description><![CDATA[A circular economy forms when value continues moving between participants instead of exiting the system. The key is not adoption alone, but the persistence of exchange within the network.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Why Token “Economies” Aren’t  Real Economies - Bitcoin Circular Economy,  Part 2</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3308b455d778144d9dc3b95af8838622b239c5ee4491cbabf2dbb61b0803e309</link>
+      <guid isPermaLink="false">3308b455d778144d9dc3b95af8838622b239c5ee4491cbabf2dbb61b0803e309</guid>
+      <pubDate>Tue, 21 Apr 2026 20:57:15 GMT</pubDate>
+      <description><![CDATA[Many systems labeled as “economies” are driven by incentives and token speculation rather than real exchange. A true economy is built on the exchange of goods and services, not the circulation of a token.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Stop Converting Back - Bitcoin Circular Economy, Part 1</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7d070afe8e5dc1de1d8a532ce0c6bd55541665c04abc6012bc652f518bd35824</link>
+      <guid isPermaLink="false">7d070afe8e5dc1de1d8a532ce0c6bd55541665c04abc6012bc652f518bd35824</guid>
+      <pubDate>Tue, 21 Apr 2026 20:56:39 GMT</pubDate>
+      <description><![CDATA[A circular economy doesn’t require new infrastructure. It starts when individuals stop immediately converting sats back to fiat and allow value to continue moving between participants.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 f6010929ca</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=f6010929cac3910e1810d03d7af80c4b8e36ce17254629061bd667a30f0b025d</link>
@@ -4971,36 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=5955c992dfa9b9369eb2d8c9bd62beeffa34f508a6bc6087b14d10373934d064</link>
       <guid isPermaLink="false">5955c992dfa9b9369eb2d8c9bd62beeffa34f508a6bc6087b14d10373934d064</guid>
       <pubDate>Wed, 04 Feb 2026 17:27:41 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum - Local First Publishing Clarification</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0b601720a53b4278bf919d93ea7ea7878dabaf7cbfc1c7a86c7d810b3ed5d985</link>
-      <guid isPermaLink="false">0b601720a53b4278bf919d93ea7ea7878dabaf7cbfc1c7a86c7d810b3ed5d985</guid>
-      <pubDate>Wed, 04 Feb 2026 07:42:58 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum  - Local First Publishing - 2/3/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b483976072a0d1093e3b0da9ba17bee4426b921dc20288af49796fdeade3b56f</link>
-      <guid isPermaLink="false">b483976072a0d1093e3b0da9ba17bee4426b921dc20288af49796fdeade3b56f</guid>
-      <pubDate>Wed, 04 Feb 2026 06:51:55 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 5 - 2/3/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6293006a1664de8b51c698ef9db28d8ca4235eeba805bda801f40bfeb98c9b0e</link>
-      <guid isPermaLink="false">6293006a1664de8b51c698ef9db28d8ca4235eeba805bda801f40bfeb98c9b0e</guid>
-      <pubDate>Wed, 04 Feb 2026 01:23:17 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>

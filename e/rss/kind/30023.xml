@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 21 Apr 2026 19:43:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 16:50:35 GMT</lastBuildDate>
+    <item>
+      <title>How a Circular Economy Actually Forms - Bitcoin Circular Economy, Part 3</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ffc440e8ab492100b5d5070a02fd6b5f2447970a95556fc3b11ae72864e8e2e6</link>
+      <guid isPermaLink="false">ffc440e8ab492100b5d5070a02fd6b5f2447970a95556fc3b11ae72864e8e2e6</guid>
+      <pubDate>Tue, 21 Apr 2026 22:53:17 GMT</pubDate>
+      <description><![CDATA[A circular economy forms when value continues moving between participants instead of exiting the system. The key is not adoption alone, but the persistence of exchange within the network.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Why Token “Economies” Aren’t  Real Economies - Bitcoin Circular Economy,  Part 2</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3308b455d778144d9dc3b95af8838622b239c5ee4491cbabf2dbb61b0803e309</link>
+      <guid isPermaLink="false">3308b455d778144d9dc3b95af8838622b239c5ee4491cbabf2dbb61b0803e309</guid>
+      <pubDate>Tue, 21 Apr 2026 20:57:15 GMT</pubDate>
+      <description><![CDATA[Many systems labeled as “economies” are driven by incentives and token speculation rather than real exchange. A true economy is built on the exchange of goods and services, not the circulation of a token.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Stop Converting Back - Bitcoin Circular Economy, Part 1</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7d070afe8e5dc1de1d8a532ce0c6bd55541665c04abc6012bc652f518bd35824</link>
+      <guid isPermaLink="false">7d070afe8e5dc1de1d8a532ce0c6bd55541665c04abc6012bc652f518bd35824</guid>
+      <pubDate>Tue, 21 Apr 2026 20:56:39 GMT</pubDate>
+      <description><![CDATA[A circular economy doesn’t require new infrastructure. It starts when individuals stop immediately converting sats back to fiat and allow value to continue moving between participants.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Why Open Source Still Matters</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=29c19d2944756464fd6b59e63f32e3b4542ef987735f2179dce6674cdc899930</link>
@@ -4972,36 +5002,6 @@
       <guid isPermaLink="false">ced6220635074611b4bd4ae8d45f1ffcf2af63bfb05c9dcbcc7076398fc9257b</guid>
       <pubDate>Tue, 09 Dec 2025 00:58:03 GMT</pubDate>
       <description><![CDATA[Why I denominate wealth in Bitcoin instead of chasing endless fiat gains — and why treasury design, not trading skill, defines sovereignty.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Two Faces of Babylon: Amoral Power, Immoral Consequences</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=65298e0f3e7b1076aa73692ede13e66534c406ff1ed0289308215728b4df484a</link>
-      <guid isPermaLink="false">65298e0f3e7b1076aa73692ede13e66534c406ff1ed0289308215728b4df484a</guid>
-      <pubDate>Mon, 08 Dec 2025 17:22:41 GMT</pubDate>
-      <description><![CDATA[Babylon is not a conspiracy or a cabal—it is a system whose amoral logic produces profoundly immoral outcomes. Its power lies not in overt oppression but in the subtle ways it rewards compliance, punishes sovereignty, and shapes identity. This essay explains why good, decent people—including those closest to us—remain within Babylon without realizing the cost.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Dec. 7, 2025): the Bitcoin Chronicles - 1.B.9 - The Great Archive Migration</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c5489b0fb248b486c852bb668656a3f4b6ba1108197b648f0439b57cd721ba3c</link>
-      <guid isPermaLink="false">c5489b0fb248b486c852bb668656a3f4b6ba1108197b648f0439b57cd721ba3c</guid>
-      <pubDate>Mon, 08 Dec 2025 05:49:11 GMT</pubDate>
-      <description><![CDATA[When Earth began rewriting history after the Exodus Protocol leak, Luna Freeport responded with one of the most ambitious cultural projects in human history: relocating, preserving, and expanding the entire Sovereign Archive into a vast, subterranean knowledge sanctuary beneath the Shackleton region.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Dec. 4, 2025): The Bitcoin Chronicles -  1.C.1 - Terraformers Of The Ledger</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0ce9aafd475feba03f485c3bba331f34588003d3f8c5ced9296a871d299cd0ce</link>
-      <guid isPermaLink="false">0ce9aafd475feba03f485c3bba331f34588003d3f8c5ced9296a871d299cd0ce</guid>
-      <pubDate>Mon, 08 Dec 2025 05:46:06 GMT</pubDate>
-      <description><![CDATA[While engineers and botanists shaped the soil of early Mars, a parallel group shaped something equally important — the economic soil. This is the story of the first Martian “ledger architects,” who learned that sovereignty wasn’t only physical, but cryptographic.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

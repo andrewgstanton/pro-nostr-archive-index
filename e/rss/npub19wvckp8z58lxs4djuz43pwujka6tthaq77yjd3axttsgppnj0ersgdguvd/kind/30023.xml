@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 21 Apr 2026 19:43:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 16:50:35 GMT</lastBuildDate>
+    <item>
+      <title>How a Circular Economy Actually Forms - Bitcoin Circular Economy, Part 3</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ffc440e8ab492100b5d5070a02fd6b5f2447970a95556fc3b11ae72864e8e2e6</link>
+      <guid isPermaLink="false">ffc440e8ab492100b5d5070a02fd6b5f2447970a95556fc3b11ae72864e8e2e6</guid>
+      <pubDate>Tue, 21 Apr 2026 22:53:17 GMT</pubDate>
+      <description><![CDATA[A circular economy forms when value continues moving between participants instead of exiting the system. The key is not adoption alone, but the persistence of exchange within the network.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Why Token “Economies” Aren’t  Real Economies - Bitcoin Circular Economy,  Part 2</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3308b455d778144d9dc3b95af8838622b239c5ee4491cbabf2dbb61b0803e309</link>
+      <guid isPermaLink="false">3308b455d778144d9dc3b95af8838622b239c5ee4491cbabf2dbb61b0803e309</guid>
+      <pubDate>Tue, 21 Apr 2026 20:57:15 GMT</pubDate>
+      <description><![CDATA[Many systems labeled as “economies” are driven by incentives and token speculation rather than real exchange. A true economy is built on the exchange of goods and services, not the circulation of a token.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Stop Converting Back - Bitcoin Circular Economy, Part 1</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7d070afe8e5dc1de1d8a532ce0c6bd55541665c04abc6012bc652f518bd35824</link>
+      <guid isPermaLink="false">7d070afe8e5dc1de1d8a532ce0c6bd55541665c04abc6012bc652f518bd35824</guid>
+      <pubDate>Tue, 21 Apr 2026 20:56:39 GMT</pubDate>
+      <description><![CDATA[A circular economy doesn’t require new infrastructure. It starts when individuals stop immediately converting sats back to fiat and allow value to continue moving between participants.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Why Open Source Still Matters</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=29c19d2944756464fd6b59e63f32e3b4542ef987735f2179dce6674cdc899930</link>
@@ -4972,36 +5002,6 @@
       <guid isPermaLink="false">242a492232149185bc0555322e1f31220eb9d0394120b098201d55ef8b6572d2</guid>
       <pubDate>Tue, 02 Dec 2025 19:23:45 GMT</pubDate>
       <description><![CDATA[Before the first sovereign launches, before the Atlas Uprising, and long before the Exodus Waves, Earth enters the Age of Compliance — a subtle but totalizing transformation. What begins as convenience becomes mandate. What begins as digital identity becomes destiny. This is the proto-era of the United Earth Bureau.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Dec. 2): The Bitcoin Chronicles - Book 0.5 - THE BABYLONIAN OS</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=fba158da264c6680db9ed51ecac9f143cb9cb67c1bbed30794cba4e3ff4c224d</link>
-      <guid isPermaLink="false">fba158da264c6680db9ed51ecac9f143cb9cb67c1bbed30794cba4e3ff4c224d</guid>
-      <pubDate>Tue, 02 Dec 2025 18:23:44 GMT</pubDate>
-      <description><![CDATA[Book 0.5 explains why the Bitcoin Chronicles begin in the mid-21st century. Humanity has lived for millennia under the Babylonian Operating System — a misalignment born from the ancient fracture in human sovereignty described in Book 0. Only now, with the rediscovery of honest money, open protocols, and truth-aligned systems, does humanity begin to exit the Extractive Age and enter the first stage of sovereign civilization.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Dec. 1, 2025): The Bitcoin Chroniciles - Book 0 - Part V - The Sovereign Image Bearers</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=30b76611042284abb31e0030c70b008af151e7faefe1bacf51cd6eeb38d625a3</link>
-      <guid isPermaLink="false">30b76611042284abb31e0030c70b008af151e7faefe1bacf51cd6eeb38d625a3</guid>
-      <pubDate>Mon, 01 Dec 2025 17:48:18 GMT</pubDate>
-      <description><![CDATA[Part V explains sovereignty not as a political concept but as the deep identity of humanity. To bear the Creator’s image is to carry freedom, moral agency, creativity, and responsibility — the foundation for all later civilization in the Chronicles canon.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Nov. 26, 2025): The Bitcoin Chronicles: Thanksgiving on Mars: The Sovereign Network’s First Unified Celebration</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d4f4607905d94202c3cf5d8cd3dde4e51ebc3bd7e2b67a589a6b8fa1a737afbe</link>
-      <guid isPermaLink="false">d4f4607905d94202c3cf5d8cd3dde4e51ebc3bd7e2b67a589a6b8fa1a737afbe</guid>
-      <pubDate>Sun, 30 Nov 2025 19:28:03 GMT</pubDate>
-      <description><![CDATA[A reflection on how New Lakota, New Bern, Luna Freeport, and the Belt Stations come together for the 500th anniversary of the Mayflower, marking the first unified Thanksgiving after the UEB Incident.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
