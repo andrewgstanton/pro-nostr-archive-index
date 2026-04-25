@@ -5,7 +5,107 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 22 Apr 2026 16:50:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 18:53:04 GMT</lastBuildDate>
+    <item>
+      <title>Week of April 19–25 — Quiet Progress That Actually Matters</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e75c09a24dbec4d6bef16f4c9c1cb77568e2465a7a81e842160b7467af4c3e8d</link>
+      <guid isPermaLink="false">e75c09a24dbec4d6bef16f4c9c1cb77568e2465a7a81e842160b7467af4c3e8d</guid>
+      <pubDate>Sat, 25 Apr 2026 18:44:09 GMT</pubDate>
+      <description><![CDATA[This week wasn’t about big new features. It was about clarity — tightening the message, improving the sites, and getting back into a real writing rhythm. Not flashy, but necessary.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>“Not a Panacea” — And Not Trying to Be</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=78926477ec11ab5a276b6679952dd4422707ad9a99078ca1deadb3522d6afeeb</link>
+      <guid isPermaLink="false">78926477ec11ab5a276b6679952dd4422707ad9a99078ca1deadb3522d6afeeb</guid>
+      <pubDate>Sat, 25 Apr 2026 03:22:36 GMT</pubDate>
+      <description><![CDATA[Reflecting on the statement “Bitcoin is not a panacea” and clarifying what Bitcoin is—and is not—designed to solve.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Two Models of Money</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f0312eb823d19b6692ec4bc7b0b20d128eae1050fe1abd030e4ac6ef3b566080</link>
+      <guid isPermaLink="false">f0312eb823d19b6692ec4bc7b0b20d128eae1050fe1abd030e4ac6ef3b566080</guid>
+      <pubDate>Sat, 25 Apr 2026 02:51:52 GMT</pubDate>
+      <description><![CDATA[An exploration of two fundamentally different approaches to money: deterministic systems governed by fixed rules, and managed systems governed by human decision-making.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>A Brief Conversation on Bitcoin</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e6270978928072458c25cfb9fd8b8b0d770a8a74b04dae06e5ba34a1cb69caff</link>
+      <guid isPermaLink="false">e6270978928072458c25cfb9fd8b8b0d770a8a74b04dae06e5ba34a1cb69caff</guid>
+      <pubDate>Sat, 25 Apr 2026 02:42:01 GMT</pubDate>
+      <description><![CDATA[A short reflection on a brief, informal conversation with a Federal Reserve professional—highlighting a few key perspectives on Bitcoin, including the institutional framing around Distributed Ledger Technology (DLT).]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Write Once… Render Everywhere?</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=cf5d8ac3e9b248890c6b009471ad37511dc99f49eedea97a4553204295274ba5</link>
+      <guid isPermaLink="false">cf5d8ac3e9b248890c6b009471ad37511dc99f49eedea97a4553204295274ba5</guid>
+      <pubDate>Sat, 25 Apr 2026 00:09:18 GMT</pubDate>
+      <description><![CDATA[Nostr promises “write once, publish everywhere.” And at the protocol level, that’s mostly true. But in practice, how your content *renders* depends heavily on the client. Primal favors Markdown images but ignores HTML. Coracle supports HTML but doesn’t fully render Markdown image syntax. The result: the same post can look completely different depending on where it’s viewed. Continuum takes a different approach—supporting both formats and separating authorship from rendering.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Who Owns Your Identity?</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=dece231fdd07c93113c44cf725ceeee5420717c2fcb9010c7ad2748c2f79e33c</link>
+      <guid isPermaLink="false">dece231fdd07c93113c44cf725ceeee5420717c2fcb9010c7ad2748c2f79e33c</guid>
+      <pubDate>Fri, 24 Apr 2026 23:30:53 GMT</pubDate>
+      <description><![CDATA[California’s digital ID in Apple Wallet is sleek, fast, and convenient—but it reveals a deeper shift: identity is moving from something you *possess* to something a system must *verify*. This article contrasts that model with a self-sovereign approach—where you control your identity and present verifiable proofs when needed. The difference isn’t just technical. It’s foundational.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>I Object</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=fc400b19e967941e2af6512c3d488b2c2f28293c6b28cd8ea74a5f06a1d9de1b</link>
+      <guid isPermaLink="false">fc400b19e967941e2af6512c3d488b2c2f28293c6b28cd8ea74a5f06a1d9de1b</guid>
+      <pubDate>Fri, 24 Apr 2026 19:44:23 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Local-First Isn’t the Hard Part</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=acbb8ff12446e06f970a67da23efef2e55a9115966afe4908316ee728dde78d6</link>
+      <guid isPermaLink="false">acbb8ff12446e06f970a67da23efef2e55a9115966afe4908316ee728dde78d6</guid>
+      <pubDate>Thu, 23 Apr 2026 01:25:58 GMT</pubDate>
+      <description><![CDATA[I built Continuum with ownership and control at the center. Over time, I’ve realized that the real challenge isn’t the local-first model itself—it’s designing something that is just as simple and intuitive as the alternatives without giving up those principles.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Convenience Matters — But Not at the Cost of Freedom</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6aa4733a23bc7dd5701875f0595c5cdf731125d6a15daf1ec31fd3bb0c1e8417</link>
+      <guid isPermaLink="false">6aa4733a23bc7dd5701875f0595c5cdf731125d6a15daf1ec31fd3bb0c1e8417</guid>
+      <pubDate>Thu, 23 Apr 2026 00:41:38 GMT</pubDate>
+      <description><![CDATA[Convenience is not the problem. It’s the reason most tools get adopted. But when convenience is built on top of systems that remove control from the user, the tradeoff becomes invisible—until it isn’t. This piece explores that tension and why it’s worth solving, not rejecting.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>The Tradeoff Most People Never See</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=0bdfa34c993243c1c5b48c60708f7f6db3c73e2cb1bfa800c5e01348f072e6c1</link>
+      <guid isPermaLink="false">0bdfa34c993243c1c5b48c60708f7f6db3c73e2cb1bfa800c5e01348f072e6c1</guid>
+      <pubDate>Thu, 23 Apr 2026 00:26:18 GMT</pubDate>
+      <description><![CDATA[Most people aren’t choosing convenience over control consciously. The tradeoff is rarely visible at the moment of decision. This piece explores why that happens and what it means.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>How a Circular Economy Actually Forms - Bitcoin Circular Economy, Part 3</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=ffc440e8ab492100b5d5070a02fd6b5f2447970a95556fc3b11ae72864e8e2e6</link>
@@ -4902,106 +5002,6 @@
       <guid isPermaLink="false">f977b507788df99114680eacf064208950177df12c09f48b6efbdbf95bd6c32f</guid>
       <pubDate>Fri, 05 Dec 2025 23:25:40 GMT</pubDate>
       <description><![CDATA[Long before Luna Freeport emerged as a sovereign lunar city-state, a sequence of open-access launches known as the Pilgrim Program quietly reshaped the destiny of humanity. Pilgrim-1 through Pilgrim-8 seeded the lunar frontier and formed the cultural roots of Luna Freeport. Pilgrim-9, the final mission, carried the sovereignty movement outward—toward Mars—and became the genesis of Pilgrim-9 Colony and Martian Bitcoin culture.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Dec. 4, 2025): The Bitcoin Chronicles - 1.B.3 - Luna Freeport</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=317d6fe2f455f704ad28db129267bdfc7375edfae87ec7ca7868de589da1de37</link>
-      <guid isPermaLink="false">317d6fe2f455f704ad28db129267bdfc7375edfae87ec7ca7868de589da1de37</guid>
-      <pubDate>Fri, 05 Dec 2025 05:47:57 GMT</pubDate>
-      <description><![CDATA[A forgotten lunar tunnel becomes humanity’s first neutral off-world commons, the birthplace of the Archivists, and the cultural and economic heart of the sovereign lunar diaspora.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Bitcoin Chronicles: Toward The Stars — Part 3 (1.C.0) : Martian Bitcoin (Expanded Edition)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=cb5f94e853c4e530406e087554be2a56740d0e4fdb63cb1cbfded3116ccbe7fc</link>
-      <guid isPermaLink="false">cb5f94e853c4e530406e087554be2a56740d0e4fdb63cb1cbfded3116ccbe7fc</guid>
-      <pubDate>Thu, 04 Dec 2025 02:05:46 GMT</pubDate>
-      <description><![CDATA[Part 3 of the Bitcoin Chronicles explores Mars, where latency makes Earth-level consensus impossible. Martian Bitcoin becomes locally sovereign but globally anchored, ensuring freedom from Earth’s monetary control while remaining tied to the same 21M cap.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Tithing and the New Covenant: What Scripture Actually Teaches</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=46cb05b85c8ed330d20baefd3399c28322cb485dbadfbf897923012054d4768d</link>
-      <guid isPermaLink="false">46cb05b85c8ed330d20baefd3399c28322cb485dbadfbf897923012054d4768d</guid>
-      <pubDate>Wed, 03 Dec 2025 22:54:47 GMT</pubDate>
-      <description><![CDATA[A clear, biblical examination of tithing in the Old and New Testaments. The tithe was an Old Covenant agricultural system tied to ancient Israel—not a binding command for Christians. The New Covenant calls us to something greater: Spirit-led generosity grounded in the truth that God owns everything, not just a percentage.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Bitcoin Chronicles - Sovereignty as a Fundamental Physical Principle</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ed702d6adbb01c92127ad6f5e8df2d755e0cf2bace194a4ff373611715cd93a4</link>
-      <guid isPermaLink="false">ed702d6adbb01c92127ad6f5e8df2d755e0cf2bace194a4ff373611715cd93a4</guid>
-      <pubDate>Wed, 03 Dec 2025 22:18:56 GMT</pubDate>
-      <description><![CDATA[A foundational principle of the Bitcoin Chronicles universe, Sovereignty is defined not as politics or preference but as a fundamental physical law woven into creation—on the same level as causality, entropy, and quantum mechanics. By aligning with this law, systems become antifragile; by violating it, they decay. This truth underlies Bitcoin, the Exodus Era, and humanity’s expansion across the stars.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Bitcoin Chronicles: Toward The Stars — Part 1 (1.A.0) : Earthbound Origins (Expanded Edition)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d041211fd430f49085f20a666582e8f1649e5869b9a5a83c0e04a8e7bfd04447</link>
-      <guid isPermaLink="false">d041211fd430f49085f20a666582e8f1649e5869b9a5a83c0e04a8e7bfd04447</guid>
-      <pubDate>Wed, 03 Dec 2025 21:47:52 GMT</pubDate>
-      <description><![CDATA[Part 1 of the Bitcoin Chronicles introduces Bitcoin’s Earthbound origins: why it is not just decentralized, but sovereign, and how Earth has served as the testing ground for its resilience.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Dec. 3, 2025): The Bitcoin Chronicles - 1.A.2 - The Atlas Uprising</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=05ecf1dc28d95b27d622052914b90fec39718b25477470b530708d6e9aba795b</link>
-      <guid isPermaLink="false">05ecf1dc28d95b27d622052914b90fec39718b25477470b530708d6e9aba795b</guid>
-      <pubDate>Wed, 03 Dec 2025 20:05:31 GMT</pubDate>
-      <description><![CDATA[Before the Exodus Waves and long before the first Lunar Nodes, a small underground collective quietly shaped the trajectory of humanity. Not through violence or protest, but through conviction, foresight, and a refusal to accept the narrowing limits of Earth’s compliance regime. They called themselves **The Atlas Group**, and their quiet resistance became the philosophical backbone of humanity’s first great breakaway.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Dec. 3, 2025): The Bitcoin Chronicles - 1.A.0.3 - The Launch That Shouldn’t Have Happened</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=721221c63912e73422d802c95ac43189301c462765872be5a91ef3f901034e56</link>
-      <guid isPermaLink="false">721221c63912e73422d802c95ac43189301c462765872be5a91ef3f901034e56</guid>
-      <pubDate>Wed, 03 Dec 2025 20:02:53 GMT</pubDate>
-      <description><![CDATA[Years before the Last Free Launch and decades before the Exodus Waves, a single unauthorized rocket slipped through the cracks of an increasingly permissioned world. Small, improvised, almost forgotten—it became the mythic spark of a fracture Earth could never contain.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Nov. 28, 2025): The Bitcoin Chronicles: 1.B.1 - The Shackleton Accords</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=fc53cfc832928d1aa44b0f471bf2152c2c93a19ab52fc7cfac2237ea299504e7</link>
-      <guid isPermaLink="false">fc53cfc832928d1aa44b0f471bf2152c2c93a19ab52fc7cfac2237ea299504e7</guid>
-      <pubDate>Wed, 03 Dec 2025 00:44:54 GMT</pubDate>
-      <description><![CDATA[Lunar enclaves quickly discover that survival requires cooperation. Limited energy, ice, and habitable terrain force the creation of humanity’s first off-world political framework: the Shackleton Accords, a non-hierarchical governance model based on contribution, consensus, and transparent resource exchange.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Bitcoin Chronicles: Toward The Stars — Part 2 (1.B.0) : Lunar Nodes</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f1640ec8158d7d9fc5020ade7b607f54a9613d636b7f7c55d0278c14a7e4d7c5</link>
-      <guid isPermaLink="false">f1640ec8158d7d9fc5020ade7b607f54a9613d636b7f7c55d0278c14a7e4d7c5</guid>
-      <pubDate>Wed, 03 Dec 2025 00:26:19 GMT</pubDate>
-      <description><![CDATA[Part 2 of the Bitcoin Chronicles explores the Moon as the first off-world Bitcoin frontier, where low latency enables near-seamless participation in Earth’s network and the first taste of truly interplanetary sovereignty.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Dec. 2, 2025): The Bitcoin Chronicles - 1.A.0.1 - The Age of Compliance</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=242a492232149185bc0555322e1f31220eb9d0394120b098201d55ef8b6572d2</link>
-      <guid isPermaLink="false">242a492232149185bc0555322e1f31220eb9d0394120b098201d55ef8b6572d2</guid>
-      <pubDate>Tue, 02 Dec 2025 19:23:45 GMT</pubDate>
-      <description><![CDATA[Before the first sovereign launches, before the Atlas Uprising, and long before the Exodus Waves, Earth enters the Age of Compliance — a subtle but totalizing transformation. What begins as convenience becomes mandate. What begins as digital identity becomes destiny. This is the proto-era of the United Earth Bureau.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
