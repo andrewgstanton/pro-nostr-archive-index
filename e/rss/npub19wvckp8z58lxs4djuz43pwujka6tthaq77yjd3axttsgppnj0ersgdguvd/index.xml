@@ -5,7 +5,67 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 25 Apr 2026 18:53:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 20:27:51 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 48f887fb64</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=48f887fb6471489fa25c74064b00e15977300e5d61991d3a57122448ae020d97</link>
+      <guid isPermaLink="false">48f887fb6471489fa25c74064b00e15977300e5d61991d3a57122448ae020d97</guid>
+      <pubDate>Sun, 26 Apr 2026 01:01:52 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 170b198e76</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=170b198e76bc0e4970dcbda1b6ab2a441f51ac1fc4f343e0cfc48fde57f0c47b</link>
+      <guid isPermaLink="false">170b198e76bc0e4970dcbda1b6ab2a441f51ac1fc4f343e0cfc48fde57f0c47b</guid>
+      <pubDate>Sun, 26 Apr 2026 00:40:24 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 6920d438e1</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6920d438e12527f2aa1720ecf696e3dea5f31f72561298ab1c3c605cab1c6a5e</link>
+      <guid isPermaLink="false">6920d438e12527f2aa1720ecf696e3dea5f31f72561298ab1c3c605cab1c6a5e</guid>
+      <pubDate>Sat, 25 Apr 2026 20:57:18 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 f6ca0190f1</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f6ca0190f1753fc4278eb8985463238740f94f213d217b8122f559825ed4cfc5</link>
+      <guid isPermaLink="false">f6ca0190f1753fc4278eb8985463238740f94f213d217b8122f559825ed4cfc5</guid>
+      <pubDate>Sat, 25 Apr 2026 20:47:25 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Sabbath Is Not About Doing Nothing</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=8f34f50de835c58b09533b2ad71e829d16a2cd644338592fdccf39e36a9a0f88</link>
+      <guid isPermaLink="false">8f34f50de835c58b09533b2ad71e829d16a2cd644338592fdccf39e36a9a0f88</guid>
+      <pubDate>Sat, 25 Apr 2026 20:45:05 GMT</pubDate>
+      <description><![CDATA[I’ve been rethinking Sabbath — not as stopping work, but as stepping out of the pressure behind it.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Unfinished Work Is Not Failure</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=fde403467277b7a73f8bb20177ad99e3f15222ff20631fedb707c1104306b72a</link>
+      <guid isPermaLink="false">fde403467277b7a73f8bb20177ad99e3f15222ff20631fedb707c1104306b72a</guid>
+      <pubDate>Sat, 25 Apr 2026 20:39:36 GMT</pubDate>
+      <description><![CDATA[It’s harder to rest when things are left unfinished. But maybe that’s exactly the point — learning to step away without needing everything to be resolved.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Week of April 19–25 — Quiet Progress That Actually Matters</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=e75c09a24dbec4d6bef16f4c9c1cb77568e2465a7a81e842160b7467af4c3e8d</link>
@@ -4943,66 +5003,6 @@
       <pubDate>Thu, 05 Feb 2026 18:38:42 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 5 — Agency Beats Engagement - 2/5/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=81274d0d8f6224cb26a0304dd01e61b9b149a310ffb113ffdbef9e92eac49ed1</link>
-      <guid isPermaLink="false">81274d0d8f6224cb26a0304dd01e61b9b149a310ffb113ffdbef9e92eac49ed1</guid>
-      <pubDate>Thu, 05 Feb 2026 18:33:40 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 4 — Algorithms Are Editorials - 2/5/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=efec3bef3b56c8cf3e3ff51598f038f213528637eada8bbd1081394b93988f53</link>
-      <guid isPermaLink="false">efec3bef3b56c8cf3e3ff51598f038f213528637eada8bbd1081394b93988f53</guid>
-      <pubDate>Thu, 05 Feb 2026 18:31:54 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 3 — Sovereignty Is a UX Constraint - 2/5/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3c92848074d7d3aa4c38c02db934aefca9afc3ffaad1f3e209145f31fd12c9c3</link>
-      <guid isPermaLink="false">3c92848074d7d3aa4c38c02db934aefca9afc3ffaad1f3e209145f31fd12c9c3</guid>
-      <pubDate>Thu, 05 Feb 2026 18:30:44 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 2 — Lenses Are Fine. Hidden Lenses Are Not - 2/5/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b03e72fee1ca20a6b7be813b1eab2c6341152806953361d39cf1b3baf570b6f5</link>
-      <guid isPermaLink="false">b03e72fee1ca20a6b7be813b1eab2c6341152806953361d39cf1b3baf570b6f5</guid>
-      <pubDate>Thu, 05 Feb 2026 18:29:26 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 1 — Chronology Is Not Neutral, It’s Honest -2/5/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c2bf6b45eeefc60b778131c00981920558b24a611a3dea82cd4201a7fe086a39</link>
-      <guid isPermaLink="false">c2bf6b45eeefc60b778131c00981920558b24a611a3dea82cd4201a7fe086a39</guid>
-      <pubDate>Thu, 05 Feb 2026 18:28:09 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>What Does Sovereignty Really Mean?</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=797e490b6d87019c24f0163164754671ef1a79390795f55f2202fdb34da5fe68</link>
-      <guid isPermaLink="false">797e490b6d87019c24f0163164754671ef1a79390795f55f2202fdb34da5fe68</guid>
-      <pubDate>Thu, 05 Feb 2026 05:54:24 GMT</pubDate>
-      <description><![CDATA[Sovereignty is one of the most overused words in technology, politics, and finance — and one of the least examined. This essay does not offer a definition to consume, but an invitation to decide what role you want to play: spectator, participant, or co-builder. It introduces sovereignty not as an identity or slogan, but as a posture that carries consequences.]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>

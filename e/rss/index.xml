@@ -5,7 +5,67 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 25 Apr 2026 18:53:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 20:27:51 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 48f887fb64</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=48f887fb6471489fa25c74064b00e15977300e5d61991d3a57122448ae020d97</link>
+      <guid isPermaLink="false">48f887fb6471489fa25c74064b00e15977300e5d61991d3a57122448ae020d97</guid>
+      <pubDate>Sun, 26 Apr 2026 01:01:52 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 170b198e76</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=170b198e76bc0e4970dcbda1b6ab2a441f51ac1fc4f343e0cfc48fde57f0c47b</link>
+      <guid isPermaLink="false">170b198e76bc0e4970dcbda1b6ab2a441f51ac1fc4f343e0cfc48fde57f0c47b</guid>
+      <pubDate>Sun, 26 Apr 2026 00:40:24 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 6920d438e1</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6920d438e12527f2aa1720ecf696e3dea5f31f72561298ab1c3c605cab1c6a5e</link>
+      <guid isPermaLink="false">6920d438e12527f2aa1720ecf696e3dea5f31f72561298ab1c3c605cab1c6a5e</guid>
+      <pubDate>Sat, 25 Apr 2026 20:57:18 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 f6ca0190f1</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f6ca0190f1753fc4278eb8985463238740f94f213d217b8122f559825ed4cfc5</link>
+      <guid isPermaLink="false">f6ca0190f1753fc4278eb8985463238740f94f213d217b8122f559825ed4cfc5</guid>
+      <pubDate>Sat, 25 Apr 2026 20:47:25 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Sabbath Is Not About Doing Nothing</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=8f34f50de835c58b09533b2ad71e829d16a2cd644338592fdccf39e36a9a0f88</link>
+      <guid isPermaLink="false">8f34f50de835c58b09533b2ad71e829d16a2cd644338592fdccf39e36a9a0f88</guid>
+      <pubDate>Sat, 25 Apr 2026 20:45:05 GMT</pubDate>
+      <description><![CDATA[I’ve been rethinking Sabbath — not as stopping work, but as stepping out of the pressure behind it.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Unfinished Work Is Not Failure</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=fde403467277b7a73f8bb20177ad99e3f15222ff20631fedb707c1104306b72a</link>
+      <guid isPermaLink="false">fde403467277b7a73f8bb20177ad99e3f15222ff20631fedb707c1104306b72a</guid>
+      <pubDate>Sat, 25 Apr 2026 20:39:36 GMT</pubDate>
+      <description><![CDATA[It’s harder to rest when things are left unfinished. But maybe that’s exactly the point — learning to step away without needing everything to be resolved.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Week of April 19–25 — Quiet Progress That Actually Matters</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=e75c09a24dbec4d6bef16f4c9c1cb77568e2465a7a81e842160b7467af4c3e8d</link>
@@ -4944,66 +5004,6 @@
       <description><![CDATA[]]></description>
       <category>kind:0</category>
       <category>npub:npub1u3cvn76jvlpfw92ux6d886daq073kjzcwc3j73m5p22h32thlztq8x7agh</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Turned off WiFi - Continuum kept working</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=dc7c20c61fe64e83a56a2a8c81751ca37ff33fc14938fd268e50bbc87103d48c</link>
-      <guid isPermaLink="false">dc7c20c61fe64e83a56a2a8c81751ca37ff33fc14938fd268e50bbc87103d48c</guid>
-      <pubDate>Fri, 06 Feb 2026 01:00:35 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Milestone - Continuum Running Elsewhere</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3cf201820597df0a2aa8cfe2dbc65d57aa1bde31d1571369eb787c0282ecc96a</link>
-      <guid isPermaLink="false">3cf201820597df0a2aa8cfe2dbc65d57aa1bde31d1571369eb787c0282ecc96a</guid>
-      <pubDate>Fri, 06 Feb 2026 00:39:50 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Kevin's Article</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=95f75d3a77b8eaaae8f273d8998039a4cebc6a6c3ba2671698fe5f9a9e133a5e</link>
-      <guid isPermaLink="false">95f75d3a77b8eaaae8f273d8998039a4cebc6a6c3ba2671698fe5f9a9e133a5e</guid>
-      <pubDate>Thu, 05 Feb 2026 23:53:45 GMT</pubDate>
-      <description><![CDATA[HSD is a miracle to grow startups]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub1u3cvn76jvlpfw92ux6d886daq073kjzcwc3j73m5p22h32thlztq8x7agh</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Why I Chose to Build and Write This Way — Even When It’s Lonely</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2d6626cf2506be7cb9959d0a3583b8f99f69d78667d7ecc0e4d851e29d4b830c</link>
-      <guid isPermaLink="false">2d6626cf2506be7cb9959d0a3583b8f99f69d78667d7ecc0e4d851e29d4b830c</guid>
-      <pubDate>Thu, 05 Feb 2026 22:53:26 GMT</pubDate>
-      <description><![CDATA[I didn’t choose this way of writing and building because it was efficient, popular, or socially rewarding. I chose it because it was honest — and because once I saw that honesty was possible, I couldn’t unsee it. This is a reflection on why I keep going despite loneliness, slow adoption, and setbacks — and why I do so with real hope.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Writing That Costs the Writer</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b52be59d20213b215cbfe371748ae8b0791e799ecafd0ee33342a8e6c8d37733</link>
-      <guid isPermaLink="false">b52be59d20213b215cbfe371748ae8b0791e799ecafd0ee33342a8e6c8d37733</guid>
-      <pubDate>Thu, 05 Feb 2026 22:33:12 GMT</pubDate>
-      <description><![CDATA[Some writing is designed to persuade, some to perform, and some to provoke. This essay is about a different category: writing that costs the writer — emotionally, socially, and internally — and why that cost is often the clearest signal that the work is honest.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Why Neutral Systems Still Feel Like Judgment</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6d0260200bd43302e2399d09cb9ef1fd46ce5f792a476dc5054c4de783cebb75</link>
-      <guid isPermaLink="false">6d0260200bd43302e2399d09cb9ef1fd46ce5f792a476dc5054c4de783cebb75</guid>
-      <pubDate>Thu, 05 Feb 2026 22:27:55 GMT</pubDate>
-      <description><![CDATA[Even when systems are technically neutral, people often experience them as judgmental. This essay examines why neutral, explicit, sovereign systems feel confrontational — and why that discomfort reveals more about us than about the system itself.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
   </channel>

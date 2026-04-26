@@ -1,5 +1,95 @@
 [
   {
+    "slug": "builders-journal---friday-april-24-2026",
+    "event_id": "4460bd77fff82987f728c06feaab0a4b373bd9905dd3d62391d041b049b63e37",
+    "created_at": 1777233014,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/4460bd77fff82987f728c06feaab0a4b373bd9905dd3d62391d041b049b63e37.json",
+    "title": "Builder's Journal - Friday, April 24, 2026",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
+    "slug": "builders-journal---saturday-april-25-2026",
+    "event_id": "a51bb607307a9342a17593ac689f1b9798ccb05bbe721286afa5bddc5407296e",
+    "created_at": 1777232167,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/a51bb607307a9342a17593ac689f1b9798ccb05bbe721286afa5bddc5407296e.json",
+    "title": "Builder's Journal - Saturday, April 25, 2026",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
+    "slug": null,
+    "event_id": "48f887fb6471489fa25c74064b00e15977300e5d61991d3a57122448ae020d97",
+    "created_at": 1777165312,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/48f887fb6471489fa25c74064b00e15977300e5d61991d3a57122448ae020d97.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "170b198e76bc0e4970dcbda1b6ab2a441f51ac1fc4f343e0cfc48fde57f0c47b",
+    "created_at": 1777164024,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/170b198e76bc0e4970dcbda1b6ab2a441f51ac1fc4f343e0cfc48fde57f0c47b.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "6920d438e12527f2aa1720ecf696e3dea5f31f72561298ab1c3c605cab1c6a5e",
+    "created_at": 1777150638,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/6920d438e12527f2aa1720ecf696e3dea5f31f72561298ab1c3c605cab1c6a5e.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "f6ca0190f1753fc4278eb8985463238740f94f213d217b8122f559825ed4cfc5",
+    "created_at": 1777150045,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/f6ca0190f1753fc4278eb8985463238740f94f213d217b8122f559825ed4cfc5.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "sabbath-is-not-about-doing-nothing",
+    "event_id": "8f34f50de835c58b09533b2ad71e829d16a2cd644338592fdccf39e36a9a0f88",
+    "created_at": 1777149905,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/8f34f50de835c58b09533b2ad71e829d16a2cd644338592fdccf39e36a9a0f88.json",
+    "title": "Sabbath Is Not About Doing Nothing",
+    "summary": "I’ve been rethinking Sabbath — not as stopping work, but as stepping out of the pressure behind it.",
+    "paid": false
+  },
+  {
+    "slug": "unfinished-work-is-not-failure",
+    "event_id": "fde403467277b7a73f8bb20177ad99e3f15222ff20631fedb707c1104306b72a",
+    "created_at": 1777149576,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/fde403467277b7a73f8bb20177ad99e3f15222ff20631fedb707c1104306b72a.json",
+    "title": "Unfinished Work Is Not Failure",
+    "summary": "It’s harder to rest when things are left unfinished. But maybe that’s exactly the point — learning to step away without needing everything to be resolved.",
+    "paid": false
+  },
+  {
     "slug": "week-of-april-1925--quiet-progress-that-actually-matters",
     "event_id": "e75c09a24dbec4d6bef16f4c9c1cb77568e2465a7a81e842160b7467af4c3e8d",
     "created_at": 1777142649,

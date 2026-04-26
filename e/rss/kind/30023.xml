@@ -5,7 +5,27 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 25 Apr 2026 18:53:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 20:27:51 GMT</lastBuildDate>
+    <item>
+      <title>Sabbath Is Not About Doing Nothing</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=8f34f50de835c58b09533b2ad71e829d16a2cd644338592fdccf39e36a9a0f88</link>
+      <guid isPermaLink="false">8f34f50de835c58b09533b2ad71e829d16a2cd644338592fdccf39e36a9a0f88</guid>
+      <pubDate>Sat, 25 Apr 2026 20:45:05 GMT</pubDate>
+      <description><![CDATA[I’ve been rethinking Sabbath — not as stopping work, but as stepping out of the pressure behind it.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Unfinished Work Is Not Failure</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=fde403467277b7a73f8bb20177ad99e3f15222ff20631fedb707c1104306b72a</link>
+      <guid isPermaLink="false">fde403467277b7a73f8bb20177ad99e3f15222ff20631fedb707c1104306b72a</guid>
+      <pubDate>Sat, 25 Apr 2026 20:39:36 GMT</pubDate>
+      <description><![CDATA[It’s harder to rest when things are left unfinished. But maybe that’s exactly the point — learning to step away without needing everything to be resolved.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Week of April 19–25 — Quiet Progress That Actually Matters</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=e75c09a24dbec4d6bef16f4c9c1cb77568e2465a7a81e842160b7467af4c3e8d</link>
@@ -4982,26 +5002,6 @@
       <guid isPermaLink="false">4ac79df92d9959c5af8b7ffe3d73f6eedfc17c91e3b701888be13c664a352642</guid>
       <pubDate>Fri, 12 Dec 2025 03:22:49 GMT</pubDate>
       <description><![CDATA[This deep dive explores covenantal ownership, jurisdictional sovereignty, and how Sovereign Land Titles could replace the perpetual leasing and trust systems that keep communities in dependency—restoring real ownership to individuals and real sovereignty to tribes.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 2 (Dec. 11, 2025): The Bitcoin Chronicles - The First Pilgrim Charter</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6206ff47c810d547636b41f2fb21dd7139276e26a20e3a42a65e311bce5bd9a9</link>
-      <guid isPermaLink="false">6206ff47c810d547636b41f2fb21dd7139276e26a20e3a42a65e311bce5bd9a9</guid>
-      <pubDate>Thu, 11 Dec 2025 20:41:53 GMT</pubDate>
-      <description><![CDATA[A lore fragment from the early expansion era of *The Bitcoin Chronicles* — the foundational charter that launched humanity’s first sovereign mission beyond Earth.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Dec. 11, 2025): Sovereignty Is Learned in Small Steps</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9322cc359cf203720a6172064e91dad886b527999e8d61755ffbd38f21a01bc1</link>
-      <guid isPermaLink="false">9322cc359cf203720a6172064e91dad886b527999e8d61755ffbd38f21a01bc1</guid>
-      <pubDate>Thu, 11 Dec 2025 20:33:51 GMT</pubDate>
-      <description><![CDATA[Sovereignty isn't a dramatic breakthrough — it is a practiced rhythm of small decisions made daily. We become sovereign by training sovereignty.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
