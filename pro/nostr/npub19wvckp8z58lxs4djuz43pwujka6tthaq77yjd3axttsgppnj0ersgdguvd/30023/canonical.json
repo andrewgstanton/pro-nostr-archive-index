@@ -3575,5 +3575,170 @@
     "latest_event_id": "4460bd77fff82987f728c06feaab0a4b373bd9905dd3d62391d041b049b63e37",
     "latest_year": 2026,
     "published": false
+  },
+  "builders-journal---sunday-april-26-2026": {
+    "latest_event_id": "bd6b6219622ea500a958fff9b5d95b1f9b2d420adaba674be216d654f6304d93",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---monday-april-27-2026": {
+    "latest_event_id": "e4c8206c800a5c4747602869703aaa6971fdfb1c6fe97d14db386d8a824460d3",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal--tuesday-april-28-2026": {
+    "latest_event_id": "1c7e70369745b088dcd638330c61ffec18fbf78537f338fec865dfb658e84453",
+    "latest_year": 2026,
+    "published": false
+  },
+  "bitcoin-2026---day-1-april-28-2026": {
+    "latest_event_id": "871be1bf9d1bf77bfac11670092c59beae94d62c25f75750104577cd33bffa08",
+    "latest_year": 2026,
+    "published": false
+  },
+  "bitcoin-2026---day-2---april-29-2026": {
+    "latest_event_id": "e922dcec92e0a0e13af08418a9208aaaef28780eb1d7fb1b80406f2d64269baf",
+    "latest_year": 2026,
+    "published": false
+  },
+  "bitcoin-2026---day-2-april-29-2026": {
+    "latest_event_id": "c2f1edb100f632d7798720137ed60f7125d5472ed7e009dd4eea2fbb301708e5",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---thursday-april-30-2026": {
+    "latest_event_id": "e9a1b52a4ed7020535393a1d0511f9a6f47e842eaddc41a82bf2a3cd7f25ecbd",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---friday-may-1-2026": {
+    "latest_event_id": "831c736eafe57b2a3f6223244fb3f37e8cfa2692b8eca903c11ca7dbbdab093b",
+    "latest_year": 2026,
+    "published": false
+  },
+  "week-of-april-26may-2--showing-up-even-when-its-not-clean": {
+    "latest_event_id": "11ebe2d0364f51eea697780cd07f6c14d71f47de33109cd97f4a3be4bbfe6cca",
+    "latest_year": 2026
+  },
+  "builders-journal---saturday-may-2-2026": {
+    "latest_event_id": "1a878128653426519163e1e58fda20db411dcf07fbdd82c9672971f04ead8b9e",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---may-3-2026": {
+    "latest_event_id": "2ba0f127efed161d34b30ed0ae4d3e140196f3b550415e36828504acc6a9c671",
+    "latest_year": 2026,
+    "published": false
+  },
+  "portable-artifact-attestations-with-pgp-bitcoin-and--nostr": {
+    "latest_event_id": "da3023008d15e650e75fb86539d3aca4e280536fd1225180eb172d27528a8af5",
+    "latest_year": 2026
+  },
+  "sovereign-signing-identities--detached-signatures-sovereign-identity-and-continuum": {
+    "latest_event_id": "7f384e3137ee1834da815d593a1766d6676a8420a4d65fdb09b86c66a4c14ee3",
+    "latest_year": 2026
+  },
+  "beyond-events-using-nostr-keys-as-general-signing-identities": {
+    "latest_event_id": "4a52ab9ee223134d5da51f7f53befcb63ced80254737f2962c57e9fe0762a03b",
+    "latest_year": 2026
+  },
+  "portable-cryptographic-authorship-and-multi-proof-artifact-bundles": {
+    "latest_event_id": "ea37ff07483f6df9f37289ab15f099b02bbb866085c6a815e4a1586c9e000d3c",
+    "latest_year": 2026
+  },
+  "weekly-recap-sunday-may-3--saturday-may-9-2026": {
+    "latest_event_id": "16731b7090584188f04ce8a051d993d2de98b025d911c902becc79f5384c8265",
+    "latest_year": 2026
+  },
+  "builders-journal---sunday-may-10-2026": {
+    "latest_event_id": "c34fae4bfec33e01c3a39bb188a722de777a71a74d5e962d2e12789f6ce92152",
+    "latest_year": 2026,
+    "published": false
+  },
+  "buildlers-journal---monday-may-4-2026": {
+    "latest_event_id": "a6e8a3a0b181b7787082c093da30595a4eb3429974243478b241b1eae21aeb73",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---tuesday-may-5-2026": {
+    "latest_event_id": "74c3208c0ac96244b1fefd3bfec6f26d1d6236b65c49ad23a462f84be4b2e78d",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---wednesday-may-6-2026": {
+    "latest_event_id": "f748f75448a7031b3a96698e42b193ad024a424fd7a6e8f1fd104749344ea550",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---friday-may-8-2026": {
+    "latest_event_id": "b60b7eb76295695568ca87701274ce12bc92653b73d8d7ae4057aba442eed6d3",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---thursday-may-7-2026": {
+    "latest_event_id": "77764c75e85dfaac07d3d677091c05e596fc4c9016146ad502784e0102c0c31c",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---saturday-may-9-2026": {
+    "latest_event_id": "52091200bef2cffa9850e80eac54a6233ffba849b9796e4c4817512ee3ff88cd",
+    "latest_year": 2026,
+    "published": false
+  },
+  "continuum-vault---v1---monday-may-11-2026": {
+    "latest_event_id": "f98060a2a752773278b0655eb778997d1a8b158c1da2aa395f351837785cda08",
+    "latest_year": 2026
+  },
+  "why-local-first-software-may-matter-more-in-the-ai-era": {
+    "latest_event_id": "5435d8bb7a96d44d2e154999d030caeb2c728c72c58f94fe6227e5f90dfdf332",
+    "latest_year": 2026
+  },
+  "continuum-is-quietly-becoming-something-larger": {
+    "latest_event_id": "eb82d992aba77c8be3051c949f6e80333052eb8e877e0d0707f2782720736381",
+    "latest_year": 2026
+  },
+  "builders-journal---monday-may-11-2026": {
+    "latest_event_id": "7e93ac6539bd04fd7bbc3adff63daf714b230acf93d3f539afa5461d8ead0eaf",
+    "latest_year": 2026,
+    "published": false
+  },
+  "how-to-leave-the-matrix": {
+    "latest_event_id": "5999b8c0d28d9b0b2e3ac21536c1baf17c20c87b80b8d40bb99879e98d186f22",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---tuesday-may-12-2026": {
+    "latest_event_id": "209f8daf65613c7ff7c043db7f0c31b20685267c9c478a2be592d953e7f0c845",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---wednesday-may-13-2026": {
+    "latest_event_id": "70eae3820df2d7e144873861d9be541719d1817ec198148979df7fdedceba2d2",
+    "latest_year": 2026,
+    "published": false
+  },
+  "weekly-recap-sunday-may-10--saturday-may-16-2026": {
+    "latest_event_id": "9111685100d1eb506209b46992b8678e18b613e430dcdd1f3745800d9e3d39d3",
+    "latest_year": 2026
+  },
+  "builders-journal---thursday-may-14-2026": {
+    "latest_event_id": "c4b3cf14e6340ecb45be7d3c7509e96ad7d2106ad42e2a7a7363b8331fcb7ecc",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---friday-may-15-2026": {
+    "latest_event_id": "9ad580329fcf97cb51c0ac5179d8cae412792535f648545080f8702442f67ba6",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---saturday-may-16-2026": {
+    "latest_event_id": "738df596c233293707da6971f1e6b5d73aa2695d1369e66d7603592d7c5a58be",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---sunday-may-17-2026": {
+    "latest_event_id": "c9b940db2e1815ddb47fc286f0cfbf85a829f767a055d5f43a2d354d5d933abc",
+    "latest_year": 2026,
+    "published": false
   }
 }
