@@ -5,7 +5,237 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 26 Apr 2026 20:27:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 04:36:08 GMT</lastBuildDate>
+    <item>
+      <title>Weekly Recap: Sunday, May 10 – Saturday, May 16, 2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9111685100d1eb506209b46992b8678e18b613e430dcdd1f3745800d9e3d39d3</link>
+      <guid isPermaLink="false">9111685100d1eb506209b46992b8678e18b613e430dcdd1f3745800d9e3d39d3</guid>
+      <pubDate>Sat, 16 May 2026 04:00:44 GMT</pubDate>
+      <description><![CDATA[This week focused on turning Continuum into a more complete sovereign workspace rather than just a local Nostr publishing application. Major work included building the first fully functional encrypted vault system, expanding multi-protocol signing identity support (PGP, SSH, Bitcoin, and Nostr), refining browser-side verification tools, and implementing a working passwordless authentication flow using signed Nostr challenges. The week also included continued refinement of offline-first workflows, local signing semantics, and identity management UX.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 f1c339fea7</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f1c339fea7fe3c0d2a4c0216436ae70d411cf91c562d7197867a2e1f8bcc6d30</link>
+      <guid isPermaLink="false">f1c339fea7fe3c0d2a4c0216436ae70d411cf91c562d7197867a2e1f8bcc6d30</guid>
+      <pubDate>Fri, 15 May 2026 05:46:19 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 e555deb758</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e555deb758bb8c9b027b6f1d7a81f05aab6c514cd7d9c97d5f8a979916461d7f</link>
+      <guid isPermaLink="false">e555deb758bb8c9b027b6f1d7a81f05aab6c514cd7d9c97d5f8a979916461d7f</guid>
+      <pubDate>Tue, 12 May 2026 16:07:06 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Continuum Is Quietly Becoming Something Larger</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=eb82d992aba77c8be3051c949f6e80333052eb8e877e0d0707f2782720736381</link>
+      <guid isPermaLink="false">eb82d992aba77c8be3051c949f6e80333052eb8e877e0d0707f2782720736381</guid>
+      <pubDate>Mon, 11 May 2026 18:56:32 GMT</pubDate>
+      <description><![CDATA[The addition of Vault v1 reveals a broader pattern inside Continuum’s architecture: the platform is evolving beyond publishing into a unified local-first authority workspace. This article explores how identities, encrypted storage, signing systems, archives, and proofs all converge around the deeper concept of user-controlled authority rather than cloud-managed convenience.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Why Local-First Software May Matter More in the AI Era</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5435d8bb7a96d44d2e154999d030caeb2c728c72c58f94fe6227e5f90dfdf332</link>
+      <guid isPermaLink="false">5435d8bb7a96d44d2e154999d030caeb2c728c72c58f94fe6227e5f90dfdf332</guid>
+      <pubDate>Mon, 11 May 2026 18:41:16 GMT</pubDate>
+      <description><![CDATA[As AI dramatically lowers the cost of generating content, code, and digital artifacts, the value of trust, authorship, provenance, and local ownership increases. This article explores why local-first systems like Continuum may become more important — not less — in a world dominated by automation and centralized AI infrastructure.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 f548b5f1d3</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f548b5f1d3fa4dc79ae1390c530915cfa9e5f217d78f1c7445cb1dbbdaed98e4</link>
+      <guid isPermaLink="false">f548b5f1d3fa4dc79ae1390c530915cfa9e5f217d78f1c7445cb1dbbdaed98e4</guid>
+      <pubDate>Mon, 11 May 2026 18:33:06 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 564c61f693</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=564c61f69357245eb524e4ecc05affc0676977eed4301b6c7ba8a42f62a43480</link>
+      <guid isPermaLink="false">564c61f69357245eb524e4ecc05affc0676977eed4301b6c7ba8a42f62a43480</guid>
+      <pubDate>Mon, 11 May 2026 18:31:33 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 503182a11b</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=503182a11b66a41663bdd113df9a3847639774af245589e40eda5edb9b4db604</link>
+      <guid isPermaLink="false">503182a11b66a41663bdd113df9a3847639774af245589e40eda5edb9b4db604</guid>
+      <pubDate>Mon, 11 May 2026 18:29:29 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Continuum Vault - v1 - Monday, May 11, 2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f98060a2a752773278b0655eb778997d1a8b158c1da2aa395f351837785cda08</link>
+      <guid isPermaLink="false">f98060a2a752773278b0655eb778997d1a8b158c1da2aa395f351837785cda08</guid>
+      <pubDate>Mon, 11 May 2026 18:21:00 GMT</pubDate>
+      <description><![CDATA[Vault v1 became fully operational inside Continuum in under 8 hours. The new system introduces encrypted local vault storage integrated directly into the Continuum workspace, including lock/unlock workflows, CRUD editing, backup support, and master-password-based encryption. More importantly, the milestone reinforces Continuum’s evolution from a publishing platform into a broader local-first authority workspace managing identities, signing systems, encrypted artifacts, and sensitive data under user control.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Weekly Recap: Sunday, May 3 – Saturday, May 9, 2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=16731b7090584188f04ce8a051d993d2de98b025d911c902becc79f5384c8265</link>
+      <guid isPermaLink="false">16731b7090584188f04ce8a051d993d2de98b025d911c902becc79f5384c8265</guid>
+      <pubDate>Sat, 09 May 2026 18:55:07 GMT</pubDate>
+      <description><![CDATA[Back to full health after stomach issues. Focused on enhancing Continuum’s identity and artifact ecosystem: added Nostr proof attestations, imported/listed PGP & Bitcoin identities, SSH support, and “Verify Signed Artifact Bundle.” Polished UI workflows and had a productive Zoom call with another developer to refine priorities and identity flows. Continued planning workspace encryption and secure credential storage.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 14c81d5e6d</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=14c81d5e6d0088823849b34992857badffc88608b78c49476de1b43a809e7a08</link>
+      <guid isPermaLink="false">14c81d5e6d0088823849b34992857badffc88608b78c49476de1b43a809e7a08</guid>
+      <pubDate>Sat, 09 May 2026 18:47:58 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Portable Cryptographic Authorship and Multi-Proof Artifact Bundles</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ea37ff07483f6df9f37289ab15f099b02bbb866085c6a815e4a1586c9e000d3c</link>
+      <guid isPermaLink="false">ea37ff07483f6df9f37289ab15f099b02bbb866085c6a815e4a1586c9e000d3c</guid>
+      <pubDate>Sat, 09 May 2026 05:18:27 GMT</pubDate>
+      <description><![CDATA[Continuum now supports complete end-to-end signed artifact bundles containing Nostr, PGP, Bitcoin, and SSH proofs alongside manifests and signer metadata. The verifier flow locally recomputes the artifact hash and validates every attached proof against the same artifact, allowing independently verifiable multi-proof attestations without relying on relays, cloud services, or centralized platforms. The article explores how portable cryptographic artifact bundles, multi-party attestations, and composite signing authorities could fundamentally change digital authorship and verification.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 dce7ffcf61</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=dce7ffcf61be6a902f209bfaf54884d6cbf73e44294b909457187442d3482452</link>
+      <guid isPermaLink="false">dce7ffcf61be6a902f209bfaf54884d6cbf73e44294b909457187442d3482452</guid>
+      <pubDate>Sat, 09 May 2026 04:24:11 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 1b8a28f35d</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1b8a28f35d7b49e232ad76683112f7eb5445d6ec4410f7c9e1c0693df80f2baa</link>
+      <guid isPermaLink="false">1b8a28f35d7b49e232ad76683112f7eb5445d6ec4410f7c9e1c0693df80f2baa</guid>
+      <pubDate>Sat, 09 May 2026 04:22:43 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 a29bf0b256</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a29bf0b256c70666576c84f8d04576c7c9edc27d1d3d1150ef370f9dc6832eeb</link>
+      <guid isPermaLink="false">a29bf0b256c70666576c84f8d04576c7c9edc27d1d3d1150ef370f9dc6832eeb</guid>
+      <pubDate>Sat, 09 May 2026 01:59:05 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Beyond Events: Using Nostr Keys as General Signing Identities</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4a52ab9ee223134d5da51f7f53befcb63ced80254737f2962c57e9fe0762a03b</link>
+      <guid isPermaLink="false">4a52ab9ee223134d5da51f7f53befcb63ced80254737f2962c57e9fe0762a03b</guid>
+      <pubDate>Fri, 08 May 2026 05:33:15 GMT</pubDate>
+      <description><![CDATA[After adding support for PGP and Bitcoin signing identities inside Continuum, a larger realization emerged: Nostr private keys are not limited to signing relay events. They can function as generalized Schnorr signing authorities capable of attesting to external artifacts, authentication challenges, and far more.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Sovereign Signing Identities — Detached Signatures, Sovereign Identity, and Continuum</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7f384e3137ee1834da815d593a1766d6676a8420a4d65fdb09b86c66a4c14ee3</link>
+      <guid isPermaLink="false">7f384e3137ee1834da815d593a1766d6676a8420a4d65fdb09b86c66a4c14ee3</guid>
+      <pubDate>Fri, 08 May 2026 05:31:17 GMT</pubDate>
+      <description><![CDATA[Continuum is increasingly evolving into a local-first workspace for sovereign signing identities. This article explores the philosophical and architectural implications of unifying PGP, Bitcoin, Nostr, and eventually SSH identities under a shared challenge → sign → verify model.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Portable Artifact Attestations with PGP, Bitcoin, and ... Nostr?</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=da3023008d15e650e75fb86539d3aca4e280536fd1225180eb172d27528a8af5</link>
+      <guid isPermaLink="false">da3023008d15e650e75fb86539d3aca4e280536fd1225180eb172d27528a8af5</guid>
+      <pubDate>Fri, 08 May 2026 05:27:37 GMT</pubDate>
+      <description><![CDATA[What started as a simple PGP import feature inside Continuum unexpectedly evolved into a full local-first artifact attestation system supporting PGP, Bitcoin, and Nostr signing identities. This article explores detached signatures, portable proof bundles, and the realization that Nostr private keys can sign far more than relay events.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 36f1592b69</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=36f1592b693f450e7b95b5bf3512e61dcbbdde23822a4e1bd4c34078c61fe45a</link>
+      <guid isPermaLink="false">36f1592b693f450e7b95b5bf3512e61dcbbdde23822a4e1bd4c34078c61fe45a</guid>
+      <pubDate>Fri, 08 May 2026 04:47:50 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 59330ee956</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=59330ee956b589b069620904342245a28c42b18aeedc688bbdf6469103b22c4f</link>
+      <guid isPermaLink="false">59330ee956b589b069620904342245a28c42b18aeedc688bbdf6469103b22c4f</guid>
+      <pubDate>Fri, 08 May 2026 04:45:44 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 2188cf929c</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2188cf929c13485d10166862beec812180cf2a69e9e53c29a0351d2f3423cb30</link>
+      <guid isPermaLink="false">2188cf929c13485d10166862beec812180cf2a69e9e53c29a0351d2f3423cb30</guid>
+      <pubDate>Fri, 08 May 2026 04:43:09 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 ab0abdcd8a</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ab0abdcd8a2c8c424368f4ac27e51509171314610d9fcd8e40d8ea7d0a0d393c</link>
+      <guid isPermaLink="false">ab0abdcd8a2c8c424368f4ac27e51509171314610d9fcd8e40d8ea7d0a0d393c</guid>
+      <pubDate>Mon, 04 May 2026 02:42:11 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Week of April 26–May 2 — Bitcoin 2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=11ebe2d0364f51eea697780cd07f6c14d71f47de33109cd97f4a3be4bbfe6cca</link>
+      <guid isPermaLink="false">11ebe2d0364f51eea697780cd07f6c14d71f47de33109cd97f4a3be4bbfe6cca</guid>
+      <pubDate>Sat, 02 May 2026 02:07:40 GMT</pubDate>
+      <description><![CDATA[This week included Bitcoin 2026, real conversations, a few book sales, and a physical reset I didn’t expect. Not everything went smoothly — but I showed up, and that matters.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 48f887fb64</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=48f887fb6471489fa25c74064b00e15977300e5d61991d3a57122448ae020d97</link>
@@ -4773,236 +5003,6 @@
       <pubDate>Sun, 08 Feb 2026 00:22:49 GMT</pubDate>
       <description><![CDATA[Sabbath is not primarily about recovery or discipline. It is about accepting limits we did not design. By commanding rest, God confronts the human tendency to treat effort as identity and motion as necessity.]]></description>
       <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 5 — Sabbath Reorients Desire</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0b70a47a43377d517d54ac79028735027471f68155f8f21187a641175563bf10</link>
-      <guid isPermaLink="false">0b70a47a43377d517d54ac79028735027471f68155f8f21187a641175563bf10</guid>
-      <pubDate>Sun, 08 Feb 2026 00:01:11 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 4 — You Are Not the Source - 2/7/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=25f0c1887a611a0985b542e5d76ae92c15e5c9ad0c32b33a26984f9bceb764b1</link>
-      <guid isPermaLink="false">25f0c1887a611a0985b542e5d76ae92c15e5c9ad0c32b33a26984f9bceb764b1</guid>
-      <pubDate>Sat, 07 Feb 2026 23:57:11 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 3 — Sabbath Is a Rhythm, Not an Escape - 2/7/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ae9527e5eec3dbb289582e9a579d82ec5b2c57af5e90b0ae39460d79f21b9424</link>
-      <guid isPermaLink="false">ae9527e5eec3dbb289582e9a579d82ec5b2c57af5e90b0ae39460d79f21b9424</guid>
-      <pubDate>Sat, 07 Feb 2026 23:56:11 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 2 — Rest Trains the Heart - 2/7/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3c868afb3ce20e37e1e3e2f1314442e589b0a137a86a897b0cebe6f6ec20078c</link>
-      <guid isPermaLink="false">3c868afb3ce20e37e1e3e2f1314442e589b0a137a86a897b0cebe6f6ec20078c</guid>
-      <pubDate>Sat, 07 Feb 2026 23:52:18 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 1 — Sabbath Is a Confession - 2/7/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f66948d082a3c0782f6bacb89185bdbce2f5a843e0bc5c228125a19f06148104</link>
-      <guid isPermaLink="false">f66948d082a3c0782f6bacb89185bdbce2f5a843e0bc5c228125a19f06148104</guid>
-      <pubDate>Sat, 07 Feb 2026 23:07:08 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>📌 Milestone: Continuum now runs from a USB</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f6f9dbb87b3e4d036283986cef7aff8724028d69b9ef4562be3c17bbe4f2e3b3</link>
-      <guid isPermaLink="false">f6f9dbb87b3e4d036283986cef7aff8724028d69b9ef4562be3c17bbe4f2e3b3</guid>
-      <pubDate>Sat, 07 Feb 2026 05:44:15 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Building Without Guarantees</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=84aec2dfac8d83a581ee75c379ce14dcaa415c127d3395350eafcd6ef85d57c2</link>
-      <guid isPermaLink="false">84aec2dfac8d83a581ee75c379ce14dcaa415c127d3395350eafcd6ef85d57c2</guid>
-      <pubDate>Fri, 06 Feb 2026 18:57:20 GMT</pubDate>
-      <description><![CDATA[Most modern systems promise outcomes. Serious work rarely does — and that absence is formative, not cruel.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Why Silence Is Not Neutral</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9e0c0bdd829ac32a0b80b5ad7bd484ff6597d40271961f622c16041842d2b168</link>
-      <guid isPermaLink="false">9e0c0bdd829ac32a0b80b5ad7bd484ff6597d40271961f622c16041842d2b168</guid>
-      <pubDate>Fri, 06 Feb 2026 18:53:59 GMT</pubDate>
-      <description><![CDATA[Silence is often mistaken for indifference. In practice, it is one of the most active forces shaping systems, communities, and outcomes.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Loneliness of Obedient Builders</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=1081092ca11421f3ed336ffaaa3f98cd8296c22c7d22d6526278c8344acbf351</link>
-      <guid isPermaLink="false">1081092ca11421f3ed336ffaaa3f98cd8296c22c7d22d6526278c8344acbf351</guid>
-      <pubDate>Fri, 06 Feb 2026 18:49:55 GMT</pubDate>
-      <description><![CDATA[Why builders who refuse shortcuts often experience isolation — and why that isolation is not accidental, pathological, or a sign of error.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 5 - The Hidden Measure - 2/6/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6e9bac1433265b1a668ad3a08dbdc47b47218e71095fc8d5a314ea0d9080e93e</link>
-      <guid isPermaLink="false">6e9bac1433265b1a668ad3a08dbdc47b47218e71095fc8d5a314ea0d9080e93e</guid>
-      <pubDate>Fri, 06 Feb 2026 18:29:21 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 4 - Obedience Without Outcomes - 2/6/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=213be1c3736099f7ff2614da185e9b86088ccaef0c6a157617cce1a05b2c8ff7</link>
-      <guid isPermaLink="false">213be1c3736099f7ff2614da185e9b86088ccaef0c6a157617cce1a05b2c8ff7</guid>
-      <pubDate>Fri, 06 Feb 2026 18:25:23 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 3 - The Work of Waiting - 2/6/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e55259e3d93ffb11435068991153dc72c8692c3bf21549cc6b7c56936e4b496e</link>
-      <guid isPermaLink="false">e55259e3d93ffb11435068991153dc72c8692c3bf21549cc6b7c56936e4b496e</guid>
-      <pubDate>Fri, 06 Feb 2026 18:23:55 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 3 - The Work of Waiting - 2/6/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=978149a760a0a2185a95d1284e8662c27477249218c931ec06bec6aaf91cb52a</link>
-      <guid isPermaLink="false">978149a760a0a2185a95d1284e8662c27477249218c931ec06bec6aaf91cb52a</guid>
-      <pubDate>Fri, 06 Feb 2026 18:17:54 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 2 - When the Work Feels Heavy - 2/6/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c11a4f35ef107c590b68b261f4973a76facca38748c0520a6c4518d2072b9016</link>
-      <guid isPermaLink="false">c11a4f35ef107c590b68b261f4973a76facca38748c0520a6c4518d2072b9016</guid>
-      <pubDate>Fri, 06 Feb 2026 18:15:37 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 1 - 2/6/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=fd04a2b6331d49af41a4f67c6f478e2415467bb81939fbd99f06be5656a4a866</link>
-      <guid isPermaLink="false">fd04a2b6331d49af41a4f67c6f478e2415467bb81939fbd99f06be5656a4a866</guid>
-      <pubDate>Fri, 06 Feb 2026 18:06:11 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Turned off WiFi - Continuum kept working</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=dc7c20c61fe64e83a56a2a8c81751ca37ff33fc14938fd268e50bbc87103d48c</link>
-      <guid isPermaLink="false">dc7c20c61fe64e83a56a2a8c81751ca37ff33fc14938fd268e50bbc87103d48c</guid>
-      <pubDate>Fri, 06 Feb 2026 01:00:35 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Milestone - Continuum Running Elsewhere</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3cf201820597df0a2aa8cfe2dbc65d57aa1bde31d1571369eb787c0282ecc96a</link>
-      <guid isPermaLink="false">3cf201820597df0a2aa8cfe2dbc65d57aa1bde31d1571369eb787c0282ecc96a</guid>
-      <pubDate>Fri, 06 Feb 2026 00:39:50 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Why I Chose to Build and Write This Way — Even When It’s Lonely</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2d6626cf2506be7cb9959d0a3583b8f99f69d78667d7ecc0e4d851e29d4b830c</link>
-      <guid isPermaLink="false">2d6626cf2506be7cb9959d0a3583b8f99f69d78667d7ecc0e4d851e29d4b830c</guid>
-      <pubDate>Thu, 05 Feb 2026 22:53:26 GMT</pubDate>
-      <description><![CDATA[I didn’t choose this way of writing and building because it was efficient, popular, or socially rewarding. I chose it because it was honest — and because once I saw that honesty was possible, I couldn’t unsee it. This is a reflection on why I keep going despite loneliness, slow adoption, and setbacks — and why I do so with real hope.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Writing That Costs the Writer</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b52be59d20213b215cbfe371748ae8b0791e799ecafd0ee33342a8e6c8d37733</link>
-      <guid isPermaLink="false">b52be59d20213b215cbfe371748ae8b0791e799ecafd0ee33342a8e6c8d37733</guid>
-      <pubDate>Thu, 05 Feb 2026 22:33:12 GMT</pubDate>
-      <description><![CDATA[Some writing is designed to persuade, some to perform, and some to provoke. This essay is about a different category: writing that costs the writer — emotionally, socially, and internally — and why that cost is often the clearest signal that the work is honest.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Why Neutral Systems Still Feel Like Judgment</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6d0260200bd43302e2399d09cb9ef1fd46ce5f792a476dc5054c4de783cebb75</link>
-      <guid isPermaLink="false">6d0260200bd43302e2399d09cb9ef1fd46ce5f792a476dc5054c4de783cebb75</guid>
-      <pubDate>Thu, 05 Feb 2026 22:27:55 GMT</pubDate>
-      <description><![CDATA[Even when systems are technically neutral, people often experience them as judgmental. This essay examines why neutral, explicit, sovereign systems feel confrontational — and why that discomfort reveals more about us than about the system itself.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Sovereignty Is Not a Vibe — It Is a Burden</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=59e9ea1435619436f2fb43c95fc1f631a095b7a037aa37fa65a6bb1d13d92e64</link>
-      <guid isPermaLink="false">59e9ea1435619436f2fb43c95fc1f631a095b7a037aa37fa65a6bb1d13d92e64</guid>
-      <pubDate>Thu, 05 Feb 2026 22:21:51 GMT</pubDate>
-      <description><![CDATA[Sovereignty is often marketed as empowerment, freedom, or self-expression. In reality, it is a burden — the burden of responsibility, authorship, and consequence. This essay explores why true sovereignty feels heavy, isolating, and uncomfortable, and why that discomfort is not a failure but a signal that something real is happening.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note — “So What?” Is the Question That Matters - 2/5/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=79171e7c25a67895362c87ac16caf946c99681ba7cec2c795e4eb7686d04af9f</link>
-      <guid isPermaLink="false">79171e7c25a67895362c87ac16caf946c99681ba7cec2c795e4eb7686d04af9f</guid>
-      <pubDate>Thu, 05 Feb 2026 18:46:25 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note — I’m Not Outside This - 2/5/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9ad596241abe5fba4f536fe81b21a9b293dc45175ac25c0e710107670ab8a122</link>
-      <guid isPermaLink="false">9ad596241abe5fba4f536fe81b21a9b293dc45175ac25c0e710107670ab8a122</guid>
-      <pubDate>Thu, 05 Feb 2026 18:38:42 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>

@@ -5,7 +5,107 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 26 Apr 2026 20:27:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 04:36:08 GMT</lastBuildDate>
+    <item>
+      <title>Weekly Recap: Sunday, May 10 – Saturday, May 16, 2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9111685100d1eb506209b46992b8678e18b613e430dcdd1f3745800d9e3d39d3</link>
+      <guid isPermaLink="false">9111685100d1eb506209b46992b8678e18b613e430dcdd1f3745800d9e3d39d3</guid>
+      <pubDate>Sat, 16 May 2026 04:00:44 GMT</pubDate>
+      <description><![CDATA[This week focused on turning Continuum into a more complete sovereign workspace rather than just a local Nostr publishing application. Major work included building the first fully functional encrypted vault system, expanding multi-protocol signing identity support (PGP, SSH, Bitcoin, and Nostr), refining browser-side verification tools, and implementing a working passwordless authentication flow using signed Nostr challenges. The week also included continued refinement of offline-first workflows, local signing semantics, and identity management UX.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Continuum Is Quietly Becoming Something Larger</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=eb82d992aba77c8be3051c949f6e80333052eb8e877e0d0707f2782720736381</link>
+      <guid isPermaLink="false">eb82d992aba77c8be3051c949f6e80333052eb8e877e0d0707f2782720736381</guid>
+      <pubDate>Mon, 11 May 2026 18:56:32 GMT</pubDate>
+      <description><![CDATA[The addition of Vault v1 reveals a broader pattern inside Continuum’s architecture: the platform is evolving beyond publishing into a unified local-first authority workspace. This article explores how identities, encrypted storage, signing systems, archives, and proofs all converge around the deeper concept of user-controlled authority rather than cloud-managed convenience.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Why Local-First Software May Matter More in the AI Era</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5435d8bb7a96d44d2e154999d030caeb2c728c72c58f94fe6227e5f90dfdf332</link>
+      <guid isPermaLink="false">5435d8bb7a96d44d2e154999d030caeb2c728c72c58f94fe6227e5f90dfdf332</guid>
+      <pubDate>Mon, 11 May 2026 18:41:16 GMT</pubDate>
+      <description><![CDATA[As AI dramatically lowers the cost of generating content, code, and digital artifacts, the value of trust, authorship, provenance, and local ownership increases. This article explores why local-first systems like Continuum may become more important — not less — in a world dominated by automation and centralized AI infrastructure.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Continuum Vault - v1 - Monday, May 11, 2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f98060a2a752773278b0655eb778997d1a8b158c1da2aa395f351837785cda08</link>
+      <guid isPermaLink="false">f98060a2a752773278b0655eb778997d1a8b158c1da2aa395f351837785cda08</guid>
+      <pubDate>Mon, 11 May 2026 18:21:00 GMT</pubDate>
+      <description><![CDATA[Vault v1 became fully operational inside Continuum in under 8 hours. The new system introduces encrypted local vault storage integrated directly into the Continuum workspace, including lock/unlock workflows, CRUD editing, backup support, and master-password-based encryption. More importantly, the milestone reinforces Continuum’s evolution from a publishing platform into a broader local-first authority workspace managing identities, signing systems, encrypted artifacts, and sensitive data under user control.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Weekly Recap: Sunday, May 3 – Saturday, May 9, 2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=16731b7090584188f04ce8a051d993d2de98b025d911c902becc79f5384c8265</link>
+      <guid isPermaLink="false">16731b7090584188f04ce8a051d993d2de98b025d911c902becc79f5384c8265</guid>
+      <pubDate>Sat, 09 May 2026 18:55:07 GMT</pubDate>
+      <description><![CDATA[Back to full health after stomach issues. Focused on enhancing Continuum’s identity and artifact ecosystem: added Nostr proof attestations, imported/listed PGP & Bitcoin identities, SSH support, and “Verify Signed Artifact Bundle.” Polished UI workflows and had a productive Zoom call with another developer to refine priorities and identity flows. Continued planning workspace encryption and secure credential storage.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Portable Cryptographic Authorship and Multi-Proof Artifact Bundles</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ea37ff07483f6df9f37289ab15f099b02bbb866085c6a815e4a1586c9e000d3c</link>
+      <guid isPermaLink="false">ea37ff07483f6df9f37289ab15f099b02bbb866085c6a815e4a1586c9e000d3c</guid>
+      <pubDate>Sat, 09 May 2026 05:18:27 GMT</pubDate>
+      <description><![CDATA[Continuum now supports complete end-to-end signed artifact bundles containing Nostr, PGP, Bitcoin, and SSH proofs alongside manifests and signer metadata. The verifier flow locally recomputes the artifact hash and validates every attached proof against the same artifact, allowing independently verifiable multi-proof attestations without relying on relays, cloud services, or centralized platforms. The article explores how portable cryptographic artifact bundles, multi-party attestations, and composite signing authorities could fundamentally change digital authorship and verification.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Beyond Events: Using Nostr Keys as General Signing Identities</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4a52ab9ee223134d5da51f7f53befcb63ced80254737f2962c57e9fe0762a03b</link>
+      <guid isPermaLink="false">4a52ab9ee223134d5da51f7f53befcb63ced80254737f2962c57e9fe0762a03b</guid>
+      <pubDate>Fri, 08 May 2026 05:33:15 GMT</pubDate>
+      <description><![CDATA[After adding support for PGP and Bitcoin signing identities inside Continuum, a larger realization emerged: Nostr private keys are not limited to signing relay events. They can function as generalized Schnorr signing authorities capable of attesting to external artifacts, authentication challenges, and far more.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Sovereign Signing Identities — Detached Signatures, Sovereign Identity, and Continuum</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7f384e3137ee1834da815d593a1766d6676a8420a4d65fdb09b86c66a4c14ee3</link>
+      <guid isPermaLink="false">7f384e3137ee1834da815d593a1766d6676a8420a4d65fdb09b86c66a4c14ee3</guid>
+      <pubDate>Fri, 08 May 2026 05:31:17 GMT</pubDate>
+      <description><![CDATA[Continuum is increasingly evolving into a local-first workspace for sovereign signing identities. This article explores the philosophical and architectural implications of unifying PGP, Bitcoin, Nostr, and eventually SSH identities under a shared challenge → sign → verify model.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Portable Artifact Attestations with PGP, Bitcoin, and ... Nostr?</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=da3023008d15e650e75fb86539d3aca4e280536fd1225180eb172d27528a8af5</link>
+      <guid isPermaLink="false">da3023008d15e650e75fb86539d3aca4e280536fd1225180eb172d27528a8af5</guid>
+      <pubDate>Fri, 08 May 2026 05:27:37 GMT</pubDate>
+      <description><![CDATA[What started as a simple PGP import feature inside Continuum unexpectedly evolved into a full local-first artifact attestation system supporting PGP, Bitcoin, and Nostr signing identities. This article explores detached signatures, portable proof bundles, and the realization that Nostr private keys can sign far more than relay events.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Week of April 26–May 2 — Bitcoin 2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=11ebe2d0364f51eea697780cd07f6c14d71f47de33109cd97f4a3be4bbfe6cca</link>
+      <guid isPermaLink="false">11ebe2d0364f51eea697780cd07f6c14d71f47de33109cd97f4a3be4bbfe6cca</guid>
+      <pubDate>Sat, 02 May 2026 02:07:40 GMT</pubDate>
+      <description><![CDATA[This week included Bitcoin 2026, real conversations, a few book sales, and a physical reset I didn’t expect. Not everything went smoothly — but I showed up, and that matters.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Sabbath Is Not About Doing Nothing</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=8f34f50de835c58b09533b2ad71e829d16a2cd644338592fdccf39e36a9a0f88</link>
@@ -4902,106 +5002,6 @@
       <guid isPermaLink="false">d7e866616909980e75c2a940e0b266cf508cfeca287c49f19cc1826cd812abeb</guid>
       <pubDate>Fri, 12 Dec 2025 07:04:41 GMT</pubDate>
       <description><![CDATA[Andrew connects the personal act of release to the spiritual and economic truth of sovereignty. In both grief and Bitcoin, we learn to hold loosely — to trust what endures rather than what inflates. Letting go becomes the ultimate form of faith: stewardship without fear.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 24, 2025): Dying with Christ, Rising with Truth</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0de787d082ec7c5637be7520108012aa924d309a4f071095b02f9c285324c53e</link>
-      <guid isPermaLink="false">0de787d082ec7c5637be7520108012aa924d309a4f071095b02f9c285324c53e</guid>
-      <pubDate>Fri, 12 Dec 2025 07:01:37 GMT</pubDate>
-      <description><![CDATA[A meditation on the spiritual heart of loss. Through the lens of his father’s final days, Andrew reflects on how grief becomes participation in the gospel itself — the dying of the false self, the surrender of control, and the quiet rising of truth that cannot die.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 23, 2025): Chief of War: Sovereignty at the Edge of Empire</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ac0508b019009d0ab9ce88c241d03cdd986b0e658b94c0193a63b0df0b491c2e</link>
-      <guid isPermaLink="false">ac0508b019009d0ab9ce88c241d03cdd986b0e658b94c0193a63b0df0b491c2e</guid>
-      <pubDate>Fri, 12 Dec 2025 06:57:46 GMT</pubDate>
-      <description><![CDATA[Drawing inspiration from the drama and history surrounding island kingdoms and foreign encroachment, this essay examines what sovereignty looks like at the very edge of empire. It considers how chiefs balanced honor and survival, how betrayal hollowed alliances, and why the price of freedom is almost always paid by those who refuse to be assimilated. Finally, it connects these lessons to modern forms of sovereignty—especially monetary and identity sovereignty—in a world of soft coercion.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 22, 2025): The Last Investment: End of Life and Sovereignty</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=fb7604cea9902f1386de52f9fe84d90d937a0b9e79ca9d0d1928802caa52b5cd</link>
-      <guid isPermaLink="false">fb7604cea9902f1386de52f9fe84d90d937a0b9e79ca9d0d1928802caa52b5cd</guid>
-      <pubDate>Fri, 12 Dec 2025 06:53:56 GMT</pubDate>
-      <description><![CDATA[End-of-life choices are the most important “investment decisions” we make. Sovereignty means facing mortality with clarity, refusing to outsource dignity to profit-driven systems, and leaving a legacy that outlasts us. This article explores how sovereignty reframes death as the last, and greatest, investment.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 19, 2025): The Hidden Cost of Walled Gardens</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=52e23093e5b589c74ec2dd1848865caab533cb7848639a035408c31de9896c39</link>
-      <guid isPermaLink="false">52e23093e5b589c74ec2dd1848865caab533cb7848639a035408c31de9896c39</guid>
-      <pubDate>Fri, 12 Dec 2025 06:49:44 GMT</pubDate>
-      <description><![CDATA[Explores how companies like Rover, TaskRabbit, and Nextdoor monetize content and relationships while creators and workers do the actual value-creation. Argues that sovereignty requires cutting out such middlemen.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 18, 2025): The Last Gatekeepers: Why Sovereignty Demands an End to Intermediaries</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5763fd3947a192da2deb82bacd6706cba7af5f2399bb7f9517408c260612483b</link>
-      <guid isPermaLink="false">5763fd3947a192da2deb82bacd6706cba7af5f2399bb7f9517408c260612483b</guid>
-      <pubDate>Fri, 12 Dec 2025 06:45:23 GMT</pubDate>
-      <description><![CDATA[This essay dissects how financial, legal, and digital intermediaries maintain hidden control even in a world full of “decentralized” promises. It argues that sovereignty requires cutting them out entirely—not just building around them.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 17, 2025): Sovereignty is Not a Straight Path</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5940ba2c5663ed383c9455279c58fce34616e8ccd87ed2368ca133c9ccac639f</link>
-      <guid isPermaLink="false">5940ba2c5663ed383c9455279c58fce34616e8ccd87ed2368ca133c9ccac639f</guid>
-      <pubDate>Fri, 12 Dec 2025 06:42:09 GMT</pubDate>
-      <description><![CDATA[A parable about promises, silence, and persistence, drawing from real experiences of unanswered commitments in business, framed in a way that speaks to the broader fight for sovereignty.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 16, 2025): Debt Relief Programs</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=efe253cf69a3b0634b231fbe4f79a8e0b1780bfb02a6c1c73655cfaf04dfd786</link>
-      <guid isPermaLink="false">efe253cf69a3b0634b231fbe4f79a8e0b1780bfb02a6c1c73655cfaf04dfd786</guid>
-      <pubDate>Fri, 12 Dec 2025 06:38:29 GMT</pubDate>
-      <description><![CDATA[A deep dive into the allure and danger of modern debt relief schemes, showing how sovereignty requires discipline, not shortcuts.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 15, 2025): The Hidden Costs of Convenience: Why Sovereignty Demands Sacrifice</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=50b131c73a81d0fe6bb01fed88d55aae627b423197256ca878c24150d49edc1e</link>
-      <guid isPermaLink="false">50b131c73a81d0fe6bb01fed88d55aae627b423197256ca878c24150d49edc1e</guid>
-      <pubDate>Fri, 12 Dec 2025 06:34:32 GMT</pubDate>
-      <description><![CDATA[This essay explores the paradox of convenience: the more we outsource to platforms, governments, or corporations, the less sovereignty we retain. Drawing from history, Scripture, and personal experience, it argues that true freedom cannot be cheap or easy — it always comes with cost.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 12, 2025): MLM and Web3: Two Sides of the Same Pyramid</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=93d836cf869f93daf619dcca808df50278baea7a370b568eca174f9b006e77a7</link>
-      <guid isPermaLink="false">93d836cf869f93daf619dcca808df50278baea7a370b568eca174f9b006e77a7</guid>
-      <pubDate>Fri, 12 Dec 2025 06:27:27 GMT</pubDate>
-      <description><![CDATA[Both multi-level marketing (MLM) and Web3 projects sell the same dream: financial freedom, lifestyle independence, and passive income. I experienced the hype firsthand in 2023–2024 when I briefly joined World Financial Group (WFG). What I saw there helped me recognize the same structural flaws playing out across Web3. The names and technology change. The math doesn’t.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 11, 2025): Sovereign Land Titles: Covenant, Jurisdiction, and the End of Reservations</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=4ac79df92d9959c5af8b7ffe3d73f6eedfc17c91e3b701888be13c664a352642</link>
-      <guid isPermaLink="false">4ac79df92d9959c5af8b7ffe3d73f6eedfc17c91e3b701888be13c664a352642</guid>
-      <pubDate>Fri, 12 Dec 2025 03:22:49 GMT</pubDate>
-      <description><![CDATA[This deep dive explores covenantal ownership, jurisdictional sovereignty, and how Sovereign Land Titles could replace the perpetual leasing and trust systems that keep communities in dependency—restoring real ownership to individuals and real sovereignty to tribes.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
