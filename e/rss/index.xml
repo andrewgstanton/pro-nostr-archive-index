@@ -5,7 +5,77 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 18 May 2026 04:36:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 22:02:54 GMT</lastBuildDate>
+    <item>
+      <title>What Strategy Is Actually Betting On</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d92aae48c107c8b458e68bc7841ead407356d8cd6c7554e7315d1a5a2592e18d</link>
+      <guid isPermaLink="false">d92aae48c107c8b458e68bc7841ead407356d8cd6c7554e7315d1a5a2592e18d</guid>
+      <pubDate>Tue, 19 May 2026 18:20:50 GMT</pubDate>
+      <description><![CDATA[Strategy’s Bitcoin treasury strategy is not magic and it is not an “infinite money glitch.” It is a directional bet that Bitcoin will appreciate faster than the company’s cost of capital over long periods of time. Products like STRC are built on that assumption. While Bitcoin remains extremely volatile, its long-term performance has dramatically outpaced many traditional assets over the past decade. Strategy is attempting something historically unusual: building a modern corporate capital structure around a volatile monetary asset. Whether that succeeds long term remains an open question, but understanding the mechanics matters far more than hype or slogans.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 98f80f192f</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=98f80f192ff703aad4f6fadfacc6540a68338943fe9ce027e7ad85498233f506</link>
+      <guid isPermaLink="false">98f80f192ff703aad4f6fadfacc6540a68338943fe9ce027e7ad85498233f506</guid>
+      <pubDate>Tue, 19 May 2026 03:52:30 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 bbe5ef36db</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=bbe5ef36dbc23246973db7025d0019c355a07e48a7cf8be17e61a5fb1d0aee9a</link>
+      <guid isPermaLink="false">bbe5ef36dbc23246973db7025d0019c355a07e48a7cf8be17e61a5fb1d0aee9a</guid>
+      <pubDate>Tue, 19 May 2026 03:51:31 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 9c143e7515</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9c143e7515441169928e0be7b0c40d09fdd0bdb6dde46761aaae0d66bf4cc663</link>
+      <guid isPermaLink="false">9c143e7515441169928e0be7b0c40d09fdd0bdb6dde46761aaae0d66bf4cc663</guid>
+      <pubDate>Tue, 19 May 2026 03:45:26 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Sovereignty Requires Better Failure Modes</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4acd85f4ef51608167ae5deb36603321cd86425a762d3a201874bf41e46ac518</link>
+      <guid isPermaLink="false">4acd85f4ef51608167ae5deb36603321cd86425a762d3a201874bf41e46ac518</guid>
+      <pubDate>Tue, 19 May 2026 02:21:20 GMT</pubDate>
+      <description><![CDATA[Today’s Continuum work reinforced an important idea: sovereign systems are not defined only by their capabilities, but by how they behave when dependencies are missing, environments change, or systems partially fail.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>PDF Export Consistency Matters More Than It Sounds</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f8c5c37742849be70f7eaa183525266fb0f5f5f47da8d59e8d6310ba4f719155</link>
+      <guid isPermaLink="false">f8c5c37742849be70f7eaa183525266fb0f5f5f47da8d59e8d6310ba4f719155</guid>
+      <pubDate>Tue, 19 May 2026 02:15:06 GMT</pubDate>
+      <description><![CDATA[Today Continuum reached an important usability milestone: PDF exports now work consistently across all supported build types instead of depending entirely on one rendering engine.  This sounds small on the surface, but it represents something much larger about portability, durability, and local-first software design.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Continuum v1.6.7.7 — Toward a Fully Encrypted Sovereign Workspace</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3fc5aae3b2e8eaa53c4d3f2a4c09e6025238241c2deb9d2facd05cfbedcd67c5</link>
+      <guid isPermaLink="false">3fc5aae3b2e8eaa53c4d3f2a4c09e6025238241c2deb9d2facd05cfbedcd67c5</guid>
+      <pubDate>Tue, 19 May 2026 02:07:45 GMT</pubDate>
+      <description><![CDATA[Today's work pushed Continuum further toward becoming a true sovereign local-first workspace.  The focus was not on “cloud sync” or engagement mechanics. It was on reducing plaintext exposure, improving encrypted workspace handling, and making the local environment more durable and portable across different deployment models.  Another important milestone: PDF exports are now supported consistently across all build types, including environments where WeasyPrint is unavailable.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Weekly Recap: Sunday, May 10 – Saturday, May 16, 2026</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=9111685100d1eb506209b46992b8678e18b613e430dcdd1f3745800d9e3d39d3</link>
@@ -4933,76 +5003,6 @@
       <pubDate>Tue, 10 Feb 2026 00:21:32 GMT</pubDate>
       <description><![CDATA[Authorship, Sovereignty, and Long-Horizon Alignment]]></description>
       <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Be consistent - 2/9/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6da2cfaa76e2a31ae2d76fd9e974512f4cbc1919652cfb5f1bbf57cc91a43e35</link>
-      <guid isPermaLink="false">6da2cfaa76e2a31ae2d76fd9e974512f4cbc1919652cfb5f1bbf57cc91a43e35</guid>
-      <pubDate>Mon, 09 Feb 2026 19:42:54 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>After Sunday: What Resurrection Demands</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=4fc977aeae1f7d4a85cfb27218bf9d92cacea21f7302f300c7ce64716461deb3</link>
-      <guid isPermaLink="false">4fc977aeae1f7d4a85cfb27218bf9d92cacea21f7302f300c7ce64716461deb3</guid>
-      <pubDate>Sun, 08 Feb 2026 21:56:45 GMT</pubDate>
-      <description><![CDATA[The resurrection does not give the disciples answers — it gives them a calling. This essay reflects on what it means to leave the tomb without certainty, carrying presence, responsibility, and hope into a world that has not yet been healed.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Resurrection Refuses Finality</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=86e9528f415cc287cfddf5741aa7bacba04cb29b458ad7013bca4966fdb2ef2d</link>
-      <guid isPermaLink="false">86e9528f415cc287cfddf5741aa7bacba04cb29b458ad7013bca4966fdb2ef2d</guid>
-      <pubDate>Sun, 08 Feb 2026 21:54:28 GMT</pubDate>
-      <description><![CDATA[Resurrection is not sentimental comfort but a quiet refusal to accept despair as inevitable. This essay explores resurrection as ontological resistance — a challenge to systems built on finality, fear, and decay — and why Sunday remains a defiant reorientation of reality itself.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sunday Is a Reorientation, Not a Reset</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9c897c7956ea645ec2de6186cd93ed21b6ae2712c40a8b4805bc749bdf5c588d</link>
-      <guid isPermaLink="false">9c897c7956ea645ec2de6186cd93ed21b6ae2712c40a8b4805bc749bdf5c588d</guid>
-      <pubDate>Sun, 08 Feb 2026 21:52:35 GMT</pubDate>
-      <description><![CDATA[Sunday is often framed as a reset — a clean slate that erases what came before. Resurrection offers something heavier. It binds past and future together, refuses erasure, and reorients life around a story that does not end in collapse.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 5 — Quiet Faith Still Counts on Sunday - 2/8/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6889ae7c159143f7a07241379864ba6fa56977a5388e84b767215efcfb2f3f12</link>
-      <guid isPermaLink="false">6889ae7c159143f7a07241379864ba6fa56977a5388e84b767215efcfb2f3f12</guid>
-      <pubDate>Sun, 08 Feb 2026 19:55:56 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 4 — Resurrection Is a Claim on the Future - 2/8/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=224dd0e735a8deb1dee8d1cc12e95fa65d68d925e38be98d0fb3ca1aa9250cfe</link>
-      <guid isPermaLink="false">224dd0e735a8deb1dee8d1cc12e95fa65d68d925e38be98d0fb3ca1aa9250cfe</guid>
-      <pubDate>Sun, 08 Feb 2026 19:54:22 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 3 — The Stone Was Rolled Away for the Living - 2/8/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=4f3eb156381e84a2eb64352955f689f570843c872b29e124f29379586a6d7daa</link>
-      <guid isPermaLink="false">4f3eb156381e84a2eb64352955f689f570843c872b29e124f29379586a6d7daa</guid>
-      <pubDate>Sun, 08 Feb 2026 19:53:13 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>

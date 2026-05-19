@@ -5,7 +5,47 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 18 May 2026 04:36:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 22:02:54 GMT</lastBuildDate>
+    <item>
+      <title>What Strategy Is Actually Betting On</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d92aae48c107c8b458e68bc7841ead407356d8cd6c7554e7315d1a5a2592e18d</link>
+      <guid isPermaLink="false">d92aae48c107c8b458e68bc7841ead407356d8cd6c7554e7315d1a5a2592e18d</guid>
+      <pubDate>Tue, 19 May 2026 18:20:50 GMT</pubDate>
+      <description><![CDATA[Strategy’s Bitcoin treasury strategy is not magic and it is not an “infinite money glitch.” It is a directional bet that Bitcoin will appreciate faster than the company’s cost of capital over long periods of time. Products like STRC are built on that assumption. While Bitcoin remains extremely volatile, its long-term performance has dramatically outpaced many traditional assets over the past decade. Strategy is attempting something historically unusual: building a modern corporate capital structure around a volatile monetary asset. Whether that succeeds long term remains an open question, but understanding the mechanics matters far more than hype or slogans.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Sovereignty Requires Better Failure Modes</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4acd85f4ef51608167ae5deb36603321cd86425a762d3a201874bf41e46ac518</link>
+      <guid isPermaLink="false">4acd85f4ef51608167ae5deb36603321cd86425a762d3a201874bf41e46ac518</guid>
+      <pubDate>Tue, 19 May 2026 02:21:20 GMT</pubDate>
+      <description><![CDATA[Today’s Continuum work reinforced an important idea: sovereign systems are not defined only by their capabilities, but by how they behave when dependencies are missing, environments change, or systems partially fail.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>PDF Export Consistency Matters More Than It Sounds</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f8c5c37742849be70f7eaa183525266fb0f5f5f47da8d59e8d6310ba4f719155</link>
+      <guid isPermaLink="false">f8c5c37742849be70f7eaa183525266fb0f5f5f47da8d59e8d6310ba4f719155</guid>
+      <pubDate>Tue, 19 May 2026 02:15:06 GMT</pubDate>
+      <description><![CDATA[Today Continuum reached an important usability milestone: PDF exports now work consistently across all supported build types instead of depending entirely on one rendering engine.  This sounds small on the surface, but it represents something much larger about portability, durability, and local-first software design.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Continuum v1.6.7.7 — Toward a Fully Encrypted Sovereign Workspace</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3fc5aae3b2e8eaa53c4d3f2a4c09e6025238241c2deb9d2facd05cfbedcd67c5</link>
+      <guid isPermaLink="false">3fc5aae3b2e8eaa53c4d3f2a4c09e6025238241c2deb9d2facd05cfbedcd67c5</guid>
+      <pubDate>Tue, 19 May 2026 02:07:45 GMT</pubDate>
+      <description><![CDATA[Today's work pushed Continuum further toward becoming a true sovereign local-first workspace.  The focus was not on “cloud sync” or engagement mechanics. It was on reducing plaintext exposure, improving encrypted workspace handling, and making the local environment more durable and portable across different deployment models.  Another important milestone: PDF exports are now supported consistently across all build types, including environments where WeasyPrint is unavailable.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Weekly Recap: Sunday, May 10 – Saturday, May 16, 2026</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=9111685100d1eb506209b46992b8678e18b613e430dcdd1f3745800d9e3d39d3</link>
@@ -4962,46 +5002,6 @@
       <guid isPermaLink="false">0d80bee682c3a7cc45b8bc67aa565765f81902a658e174e08e0f6ccb359d5e69</guid>
       <pubDate>Tue, 09 Dec 2025 02:40:57 GMT</pubDate>
       <description><![CDATA[Mars won’t run on credit cards or central banks — settlers will build a Bitcoin-based economy where Lightning powers daily life and Earth-mainnet ensures long-term settlement.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Day 4 - Aug. 27, 2025) : The Bitcoin Chronicles : The First Lunar Economy: Life on Sats in a Moon Colony</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7d13b0455e573dceab7098b3638bb21ad0ce71bbc02299d85293310059637fe5</link>
-      <guid isPermaLink="false">7d13b0455e573dceab7098b3638bb21ad0ce71bbc02299d85293310059637fe5</guid>
-      <pubDate>Tue, 09 Dec 2025 02:29:25 GMT</pubDate>
-      <description><![CDATA[A day in the life of living in a moon colony, where transactions are denominated in sats]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Day 3 – Aug. 26, 2025): Identity: Why npubs Beat Usernames</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5d1c243f5a5789a495b0ad633fda2b78cc7fa93977cae9f456240f69f6e7d60d</link>
-      <guid isPermaLink="false">5d1c243f5a5789a495b0ad633fda2b78cc7fa93977cae9f456240f69f6e7d60d</guid>
-      <pubDate>Tue, 09 Dec 2025 01:26:59 GMT</pubDate>
-      <description><![CDATA[Owning your identity vs. renting it from platforms — and why npubs are passports, not costumes.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Bitcoin as Treasury, Not Trade</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ced6220635074611b4bd4ae8d45f1ffcf2af63bfb05c9dcbcc7076398fc9257b</link>
-      <guid isPermaLink="false">ced6220635074611b4bd4ae8d45f1ffcf2af63bfb05c9dcbcc7076398fc9257b</guid>
-      <pubDate>Tue, 09 Dec 2025 00:58:03 GMT</pubDate>
-      <description><![CDATA[Why I denominate wealth in Bitcoin instead of chasing endless fiat gains — and why treasury design, not trading skill, defines sovereignty.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Two Faces of Babylon: Amoral Power, Immoral Consequences</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=65298e0f3e7b1076aa73692ede13e66534c406ff1ed0289308215728b4df484a</link>
-      <guid isPermaLink="false">65298e0f3e7b1076aa73692ede13e66534c406ff1ed0289308215728b4df484a</guid>
-      <pubDate>Mon, 08 Dec 2025 17:22:41 GMT</pubDate>
-      <description><![CDATA[Babylon is not a conspiracy or a cabal—it is a system whose amoral logic produces profoundly immoral outcomes. Its power lies not in overt oppression but in the subtle ways it rewards compliance, punishes sovereignty, and shapes identity. This essay explains why good, decent people—including those closest to us—remain within Babylon without realizing the cost.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

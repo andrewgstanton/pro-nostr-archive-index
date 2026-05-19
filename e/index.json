@@ -1,5 +1,94 @@
 [
   {
+    "slug": "what-strategy-is-actually-betting-on",
+    "event_id": "d92aae48c107c8b458e68bc7841ead407356d8cd6c7554e7315d1a5a2592e18d",
+    "created_at": 1779214850,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/d92aae48c107c8b458e68bc7841ead407356d8cd6c7554e7315d1a5a2592e18d.json",
+    "title": "What Strategy Is Actually Betting On",
+    "summary": "Strategy’s Bitcoin treasury strategy is not magic and it is not an “infinite money glitch.” It is a directional bet that Bitcoin will appreciate faster than the company’s cost of capital over long periods of time. Products like STRC are built on that assumption. While Bitcoin remains extremely volatile, its long-term performance has dramatically outpaced many traditional assets over the past decade. Strategy is attempting something historically unusual: building a modern corporate capital structure around a volatile monetary asset. Whether that succeeds long term remains an open question, but understanding the mechanics matters far more than hype or slogans.",
+    "paid": false
+  },
+  {
+    "slug": "builders-journal---monday-may-18-2026",
+    "event_id": "9fa018c848b3ea6c0a60ffe2217cf12a5df63c92c8a68a4a885e5e050eb84c62",
+    "created_at": 1779163441,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/9fa018c848b3ea6c0a60ffe2217cf12a5df63c92c8a68a4a885e5e050eb84c62.json",
+    "title": "Builder's Journal -  Monday, May 18, 2026",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
+    "slug": null,
+    "event_id": "98f80f192ff703aad4f6fadfacc6540a68338943fe9ce027e7ad85498233f506",
+    "created_at": 1779162750,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/98f80f192ff703aad4f6fadfacc6540a68338943fe9ce027e7ad85498233f506.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "bbe5ef36dbc23246973db7025d0019c355a07e48a7cf8be17e61a5fb1d0aee9a",
+    "created_at": 1779162691,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/bbe5ef36dbc23246973db7025d0019c355a07e48a7cf8be17e61a5fb1d0aee9a.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "9c143e7515441169928e0be7b0c40d09fdd0bdb6dde46761aaae0d66bf4cc663",
+    "created_at": 1779162326,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/9c143e7515441169928e0be7b0c40d09fdd0bdb6dde46761aaae0d66bf4cc663.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "sovereignty-requires-better-failure-modes",
+    "event_id": "4acd85f4ef51608167ae5deb36603321cd86425a762d3a201874bf41e46ac518",
+    "created_at": 1779157280,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/4acd85f4ef51608167ae5deb36603321cd86425a762d3a201874bf41e46ac518.json",
+    "title": "Sovereignty Requires Better Failure Modes",
+    "summary": "Today’s Continuum work reinforced an important idea: sovereign systems are not defined only by their capabilities, but by how they behave when dependencies are missing, environments change, or systems partially fail.",
+    "paid": false
+  },
+  {
+    "slug": "pdf-export-consistency-matters-more-than-it-sounds",
+    "event_id": "f8c5c37742849be70f7eaa183525266fb0f5f5f47da8d59e8d6310ba4f719155",
+    "created_at": 1779156906,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/f8c5c37742849be70f7eaa183525266fb0f5f5f47da8d59e8d6310ba4f719155.json",
+    "title": "PDF Export Consistency Matters More Than It Sounds",
+    "summary": "Today Continuum reached an important usability milestone: PDF exports now work consistently across all supported build types instead of depending entirely on one rendering engine.  This sounds small on the surface, but it represents something much larger about portability, durability, and local-first software design.",
+    "paid": false
+  },
+  {
+    "slug": "continuum-v1677--toward-a-fully-encrypted-sovereign-workspace",
+    "event_id": "3fc5aae3b2e8eaa53c4d3f2a4c09e6025238241c2deb9d2facd05cfbedcd67c5",
+    "created_at": 1779156465,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/3fc5aae3b2e8eaa53c4d3f2a4c09e6025238241c2deb9d2facd05cfbedcd67c5.json",
+    "title": "Continuum v1.6.7.7 — Toward a Fully Encrypted Sovereign Workspace",
+    "summary": "Today's work pushed Continuum further toward becoming a true sovereign local-first workspace.  The focus was not on “cloud sync” or engagement mechanics. It was on reducing plaintext exposure, improving encrypted workspace handling, and making the local environment more durable and portable across different deployment models.  Another important milestone: PDF exports are now supported consistently across all build types, including environments where WeasyPrint is unavailable.",
+    "paid": false
+  },
+  {
     "slug": "builders-journal---sunday-may-17-2026",
     "event_id": "c9b940db2e1815ddb47fc286f0cfbf85a829f767a055d5f43a2d354d5d933abc",
     "created_at": 1779076595,

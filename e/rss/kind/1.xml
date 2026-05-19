@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 18 May 2026 04:36:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 22:02:54 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 98f80f192f</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=98f80f192ff703aad4f6fadfacc6540a68338943fe9ce027e7ad85498233f506</link>
+      <guid isPermaLink="false">98f80f192ff703aad4f6fadfacc6540a68338943fe9ce027e7ad85498233f506</guid>
+      <pubDate>Tue, 19 May 2026 03:52:30 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 bbe5ef36db</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=bbe5ef36dbc23246973db7025d0019c355a07e48a7cf8be17e61a5fb1d0aee9a</link>
+      <guid isPermaLink="false">bbe5ef36dbc23246973db7025d0019c355a07e48a7cf8be17e61a5fb1d0aee9a</guid>
+      <pubDate>Tue, 19 May 2026 03:51:31 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 9c143e7515</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9c143e7515441169928e0be7b0c40d09fdd0bdb6dde46761aaae0d66bf4cc663</link>
+      <guid isPermaLink="false">9c143e7515441169928e0be7b0c40d09fdd0bdb6dde46761aaae0d66bf4cc663</guid>
+      <pubDate>Tue, 19 May 2026 03:45:26 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 f1c339fea7</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=f1c339fea7fe3c0d2a4c0216436ae70d411cf91c562d7197867a2e1f8bcc6d30</link>
@@ -4971,36 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=a6a7d61f9e1b9144ae34e5099fa45d398b14801dde4fa0f15b6359c70e0aa06c</link>
       <guid isPermaLink="false">a6a7d61f9e1b9144ae34e5099fa45d398b14801dde4fa0f15b6359c70e0aa06c</guid>
       <pubDate>Fri, 09 Jan 2026 00:30:00 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Martian Money - 1/8/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f0919cde0a3579bc1f46a83f9d3080431556f2e2de1f8fd6220cbce14278e2fe</link>
-      <guid isPermaLink="false">f0919cde0a3579bc1f46a83f9d3080431556f2e2de1f8fd6220cbce14278e2fe</guid>
-      <pubDate>Fri, 09 Jan 2026 00:28:50 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sovereignty isn’t proven in crisis - 1/8/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=cf311a164c7d0cb8dd1280c8bcd7b368a44eeb5ce31342dc8dd1abf251bb49b2</link>
-      <guid isPermaLink="false">cf311a164c7d0cb8dd1280c8bcd7b368a44eeb5ce31342dc8dd1abf251bb49b2</guid>
-      <pubDate>Fri, 09 Jan 2026 00:28:00 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Mercy without truth - 1/8/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ae05c371f92f98bb48614dd94ba61bb92edb5e94a0d90dd6a8a6a02f8d98f669</link>
-      <guid isPermaLink="false">ae05c371f92f98bb48614dd94ba61bb92edb5e94a0d90dd6a8a6a02f8d98f669</guid>
-      <pubDate>Fri, 09 Jan 2026 00:26:54 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
