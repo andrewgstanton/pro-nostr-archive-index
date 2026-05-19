@@ -3740,5 +3740,26 @@
     "latest_event_id": "c9b940db2e1815ddb47fc286f0cfbf85a829f767a055d5f43a2d354d5d933abc",
     "latest_year": 2026,
     "published": false
+  },
+  "continuum-v1677--toward-a-fully-encrypted-sovereign-workspace": {
+    "latest_event_id": "3fc5aae3b2e8eaa53c4d3f2a4c09e6025238241c2deb9d2facd05cfbedcd67c5",
+    "latest_year": 2026
+  },
+  "pdf-export-consistency-matters-more-than-it-sounds": {
+    "latest_event_id": "f8c5c37742849be70f7eaa183525266fb0f5f5f47da8d59e8d6310ba4f719155",
+    "latest_year": 2026
+  },
+  "sovereignty-requires-better-failure-modes": {
+    "latest_event_id": "4acd85f4ef51608167ae5deb36603321cd86425a762d3a201874bf41e46ac518",
+    "latest_year": 2026
+  },
+  "builders-journal---monday-may-18-2026": {
+    "latest_event_id": "9fa018c848b3ea6c0a60ffe2217cf12a5df63c92c8a68a4a885e5e050eb84c62",
+    "latest_year": 2026,
+    "published": false
+  },
+  "what-strategy-is-actually-betting-on": {
+    "latest_event_id": "d92aae48c107c8b458e68bc7841ead407356d8cd6c7554e7315d1a5a2592e18d",
+    "latest_year": 2026
   }
 }
