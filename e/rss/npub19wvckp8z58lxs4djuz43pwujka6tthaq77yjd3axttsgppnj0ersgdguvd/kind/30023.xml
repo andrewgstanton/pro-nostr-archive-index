@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 19 May 2026 22:02:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 23:06:07 GMT</lastBuildDate>
+    <item>
+      <title>Games Are Honest. Gamification Often Isn’t.</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9d57b7fe253eaf5eeb3694862e0937c163db57f4aa40064ac5684fcd105ce3c7</link>
+      <guid isPermaLink="false">9d57b7fe253eaf5eeb3694862e0937c163db57f4aa40064ac5684fcd105ce3c7</guid>
+      <pubDate>Tue, 19 May 2026 22:55:11 GMT</pubDate>
+      <description><![CDATA[This is a short article describing what I think is the difference between a game vs 'gamification' and why that distinction matters.  It's parly a rant.  Opinions are my own.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>What Strategy Is Actually Betting On</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=d92aae48c107c8b458e68bc7841ead407356d8cd6c7554e7315d1a5a2592e18d</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">70d14492a77a9594109c0010471b75dd00653031707a15a04bea533cdb3f35b7</guid>
       <pubDate>Tue, 09 Dec 2025 04:34:37 GMT</pubDate>
       <description><![CDATA[On Mars, truth is not a virtue — it is survival. The Martian Reckoners arose from the harsh realities of Pilgrim-9 Colony, becoming the most trusted and feared guild in the Red World. Part auditors, part historians, part cryptographic monks, the Reckoners built a culture where settlement, memory, and governance all hinge on uncompromising truth. Their calculations, rituals, and signatures shaped the future of Martian sovereignty.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒  Paid Article (Day 5 - Aug. 28, 2025) : The Bitcoin Chronicles: Life on Mars: Building a Bitcoin Settlement on the Red Frontier</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0d80bee682c3a7cc45b8bc67aa565765f81902a658e174e08e0f6ccb359d5e69</link>
-      <guid isPermaLink="false">0d80bee682c3a7cc45b8bc67aa565765f81902a658e174e08e0f6ccb359d5e69</guid>
-      <pubDate>Tue, 09 Dec 2025 02:40:57 GMT</pubDate>
-      <description><![CDATA[Mars won’t run on credit cards or central banks — settlers will build a Bitcoin-based economy where Lightning powers daily life and Earth-mainnet ensures long-term settlement.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

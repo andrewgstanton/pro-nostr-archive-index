@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 19 May 2026 22:02:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 23:06:07 GMT</lastBuildDate>
+    <item>
+      <title>Games Are Honest. Gamification Often Isn’t.</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9d57b7fe253eaf5eeb3694862e0937c163db57f4aa40064ac5684fcd105ce3c7</link>
+      <guid isPermaLink="false">9d57b7fe253eaf5eeb3694862e0937c163db57f4aa40064ac5684fcd105ce3c7</guid>
+      <pubDate>Tue, 19 May 2026 22:55:11 GMT</pubDate>
+      <description><![CDATA[This is a short article describing what I think is the difference between a game vs 'gamification' and why that distinction matters.  It's parly a rant.  Opinions are my own.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>What Strategy Is Actually Betting On</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=d92aae48c107c8b458e68bc7841ead407356d8cd6c7554e7315d1a5a2592e18d</link>
@@ -4993,16 +5003,6 @@
       <pubDate>Tue, 10 Feb 2026 01:36:05 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum: Design Principles for Durable Infrastructure</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f1a15601a85b849af7ad3a8f975f53ef310e58318259a330186fa9e12d65161d</link>
-      <guid isPermaLink="false">f1a15601a85b849af7ad3a8f975f53ef310e58318259a330186fa9e12d65161d</guid>
-      <pubDate>Tue, 10 Feb 2026 00:21:32 GMT</pubDate>
-      <description><![CDATA[Authorship, Sovereignty, and Long-Horizon Alignment]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>

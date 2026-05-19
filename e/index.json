@@ -1,5 +1,16 @@
 [
   {
+    "slug": "games-are-honest-gamification-often-isnt",
+    "event_id": "9d57b7fe253eaf5eeb3694862e0937c163db57f4aa40064ac5684fcd105ce3c7",
+    "created_at": 1779231311,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/9d57b7fe253eaf5eeb3694862e0937c163db57f4aa40064ac5684fcd105ce3c7.json",
+    "title": "Games Are Honest. Gamification Often Isn’t.",
+    "summary": "This is a short article describing what I think is the difference between a game vs 'gamification' and why that distinction matters.  It's parly a rant.  Opinions are my own.",
+    "paid": false
+  },
+  {
     "slug": "what-strategy-is-actually-betting-on",
     "event_id": "d92aae48c107c8b458e68bc7841ead407356d8cd6c7554e7315d1a5a2592e18d",
     "created_at": 1779214850,

@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 19 May 2026 22:02:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 23:06:07 GMT</lastBuildDate>
+    <item>
+      <title>Games Are Honest. Gamification Often Isn’t.</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9d57b7fe253eaf5eeb3694862e0937c163db57f4aa40064ac5684fcd105ce3c7</link>
+      <guid isPermaLink="false">9d57b7fe253eaf5eeb3694862e0937c163db57f4aa40064ac5684fcd105ce3c7</guid>
+      <pubDate>Tue, 19 May 2026 22:55:11 GMT</pubDate>
+      <description><![CDATA[This is a short article describing what I think is the difference between a game vs 'gamification' and why that distinction matters.  It's parly a rant.  Opinions are my own.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>What Strategy Is Actually Betting On</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=d92aae48c107c8b458e68bc7841ead407356d8cd6c7554e7315d1a5a2592e18d</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">eb037b920c91fc3b0763a6877199291774b938f06feadf3c45d389f1c834e0b8</guid>
       <pubDate>Fri, 12 Dec 2025 19:34:04 GMT</pubDate>
       <description><![CDATA[This essay explores renewal after endings—whether personal loss, social upheaval, or economic collapse. It considers how sovereignty is exercised not only in saying goodbye but in saying *yes* to what comes next. Drawing from metaphors of seasons, Scripture, and open protocols like Bitcoin and Nostr, it shows how continuity and innovation can coexist, and how beginnings are authored with courage rather than drift.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Oct. 1, 2025): The Ledger Beyond Death: Bitcoin, Legacy, and the Final Goodbye</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b2beae3c8b70ff8a82fa79ca33c3eb8227b447d2551d77afc693d5b1c3d2a1f2</link>
-      <guid isPermaLink="false">b2beae3c8b70ff8a82fa79ca33c3eb8227b447d2551d77afc693d5b1c3d2a1f2</guid>
-      <pubDate>Fri, 12 Dec 2025 19:30:21 GMT</pubDate>
-      <description><![CDATA[This essay explores the meaning of legacy in the face of mortality, weaving together personal grief, the sovereignty of saying goodbye, and the incorruptible permanence of Bitcoin. It considers both the practical dimensions of inheritance and the philosophical parallels to the “Book of Life,” contrasting man‑made ledgers with incorruptible ones. Through reflections on family, property, and faith, it reframes farewell as one of the most sovereign acts of all.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
