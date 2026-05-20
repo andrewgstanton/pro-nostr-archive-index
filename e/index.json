@@ -1,5 +1,16 @@
 [
   {
+    "slug": "ai-as-assistant-vs-ai-slop",
+    "event_id": "7e0957158bcd3f547fa2baea7e97bc277845ece24623b8e19470a0218ef3679c",
+    "created_at": 1779238359,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/7e0957158bcd3f547fa2baea7e97bc277845ece24623b8e19470a0218ef3679c.json",
+    "title": "AI As Assistant vs AI Slop",
+    "summary": "There is a massive difference between using AI as a thinking and writing assistant versus generating endless streams of low-effort “AI slop.” I increasingly think people intuitively recognize the distinction immediately. One feels authored, refined, and connected to a real human perspective. The other feels synthetic, generic, emotionally hollow, and mass-produced. The important question is not “Was AI involved?” but rather: “Was a human actually thinking?”",
+    "paid": false
+  },
+  {
     "slug": "games-are-honest-gamification-often-isnt",
     "event_id": "9d57b7fe253eaf5eeb3694862e0937c163db57f4aa40064ac5684fcd105ce3c7",
     "created_at": 1779231311,
@@ -24502,7 +24513,7 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 30023,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/abf7a742fed23064a66741bca1f6f0523a8084ea601e83cc550106d1a2fccaf3.json",
-    "title": "Why I Left Web3 for Proof of Work – Part 5: Building Again",
+    "title": "",
     "summary": "",
     "paid": false
   },

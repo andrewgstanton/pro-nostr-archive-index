@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 19 May 2026 23:06:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 01:03:53 GMT</lastBuildDate>
+    <item>
+      <title>AI As Assistant vs AI Slop</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7e0957158bcd3f547fa2baea7e97bc277845ece24623b8e19470a0218ef3679c</link>
+      <guid isPermaLink="false">7e0957158bcd3f547fa2baea7e97bc277845ece24623b8e19470a0218ef3679c</guid>
+      <pubDate>Wed, 20 May 2026 00:52:39 GMT</pubDate>
+      <description><![CDATA[There is a massive difference between using AI as a thinking and writing assistant versus generating endless streams of low-effort “AI slop.” I increasingly think people intuitively recognize the distinction immediately. One feels authored, refined, and connected to a real human perspective. The other feels synthetic, generic, emotionally hollow, and mass-produced. The important question is not “Was AI involved?” but rather: “Was a human actually thinking?”]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Games Are Honest. Gamification Often Isn’t.</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=9d57b7fe253eaf5eeb3694862e0937c163db57f4aa40064ac5684fcd105ce3c7</link>
@@ -4993,16 +5003,6 @@
       <pubDate>Sun, 08 Feb 2026 21:52:35 GMT</pubDate>
       <description><![CDATA[Sunday is often framed as a reset — a clean slate that erases what came before. Resurrection offers something heavier. It binds past and future together, refuses erasure, and reorients life around a story that does not end in collapse.]]></description>
       <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 5 — Quiet Faith Still Counts on Sunday - 2/8/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6889ae7c159143f7a07241379864ba6fa56977a5388e84b767215efcfb2f3f12</link>
-      <guid isPermaLink="false">6889ae7c159143f7a07241379864ba6fa56977a5388e84b767215efcfb2f3f12</guid>
-      <pubDate>Sun, 08 Feb 2026 19:55:56 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>

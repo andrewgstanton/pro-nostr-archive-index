@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 19 May 2026 23:06:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 01:03:53 GMT</lastBuildDate>
+    <item>
+      <title>AI As Assistant vs AI Slop</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7e0957158bcd3f547fa2baea7e97bc277845ece24623b8e19470a0218ef3679c</link>
+      <guid isPermaLink="false">7e0957158bcd3f547fa2baea7e97bc277845ece24623b8e19470a0218ef3679c</guid>
+      <pubDate>Wed, 20 May 2026 00:52:39 GMT</pubDate>
+      <description><![CDATA[There is a massive difference between using AI as a thinking and writing assistant versus generating endless streams of low-effort “AI slop.” I increasingly think people intuitively recognize the distinction immediately. One feels authored, refined, and connected to a real human perspective. The other feels synthetic, generic, emotionally hollow, and mass-produced. The important question is not “Was AI involved?” but rather: “Was a human actually thinking?”]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Games Are Honest. Gamification Often Isn’t.</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=9d57b7fe253eaf5eeb3694862e0937c163db57f4aa40064ac5684fcd105ce3c7</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">1305129771cb244e4817dc8e128de060d3c706b6cb03ba8c0862b09dd5c12930</guid>
       <pubDate>Fri, 12 Dec 2025 20:20:32 GMT</pubDate>
       <description><![CDATA[In 1944, as world leaders gathered to design the postwar economic order, one unsanctioned economist carried a warning no one would hear. His discarded letter becomes one of the earliest seeds of the sovereign awakening that will one day culminate in the Pilgrim missions.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Oct. 2, 2025): The Next Chapter: Renewal, Sovereignty, and the Future We Build</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=eb037b920c91fc3b0763a6877199291774b938f06feadf3c45d389f1c834e0b8</link>
-      <guid isPermaLink="false">eb037b920c91fc3b0763a6877199291774b938f06feadf3c45d389f1c834e0b8</guid>
-      <pubDate>Fri, 12 Dec 2025 19:34:04 GMT</pubDate>
-      <description><![CDATA[This essay explores renewal after endings—whether personal loss, social upheaval, or economic collapse. It considers how sovereignty is exercised not only in saying goodbye but in saying *yes* to what comes next. Drawing from metaphors of seasons, Scripture, and open protocols like Bitcoin and Nostr, it shows how continuity and innovation can coexist, and how beginnings are authored with courage rather than drift.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
