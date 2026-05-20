@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 20 May 2026 01:03:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 21:05:05 GMT</lastBuildDate>
+    <item>
+      <title>My First Real Day (On Stacker News)</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c864743c3760a2179b215278f349b3f8a0664e495c98c79c618236e451e08a4e</link>
+      <guid isPermaLink="false">c864743c3760a2179b215278f349b3f8a0664e495c98c79c618236e451e08a4e</guid>
+      <pubDate>Wed, 20 May 2026 15:20:17 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>AI As Assistant vs AI Slop</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=7e0957158bcd3f547fa2baea7e97bc277845ece24623b8e19470a0218ef3679c</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">180a30f1d8db3a15b1361a04a1b7be7e9afd364cab98984c071630fe411a4fbf</guid>
       <pubDate>Fri, 12 Dec 2025 21:02:16 GMT</pubDate>
       <description><![CDATA[This long essay explores how families, teams, and communities rebuild after endings—death, betrayal, disaster, inflation. It argues that trust is not sentiment but structure, describing practices and architectures that embed trust into daily life. It also shows how Bitcoin and Nostr offer trustworthy blueprints for money and speech in the rebuild, enabling collaboration without gatekeepers.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Free Article 1 (Dec. 12, 2025): The Bitcoin Chronicles - 1.A.0.0.0 - The Letter That Never Reached Bretton Woods</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=1305129771cb244e4817dc8e128de060d3c706b6cb03ba8c0862b09dd5c12930</link>
-      <guid isPermaLink="false">1305129771cb244e4817dc8e128de060d3c706b6cb03ba8c0862b09dd5c12930</guid>
-      <pubDate>Fri, 12 Dec 2025 20:20:32 GMT</pubDate>
-      <description><![CDATA[In 1944, as world leaders gathered to design the postwar economic order, one unsanctioned economist carried a warning no one would hear. His discarded letter becomes one of the earliest seeds of the sovereign awakening that will one day culminate in the Pilgrim missions.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

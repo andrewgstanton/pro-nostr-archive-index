@@ -1,5 +1,27 @@
 [
   {
+    "slug": "my-first-real-day-on-stacker-news",
+    "event_id": "c864743c3760a2179b215278f349b3f8a0664e495c98c79c618236e451e08a4e",
+    "created_at": 1779290417,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/c864743c3760a2179b215278f349b3f8a0664e495c98c79c618236e451e08a4e.json",
+    "title": "My First Real Day (On Stacker News)",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "7532b4c47365197aa1ae2ab4a4b19d8dd9c2d4521261f176f4a774a34add7045",
+    "created_at": 1779287905,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/7532b4c47365197aa1ae2ab4a4b19d8dd9c2d4521261f176f4a774a34add7045.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "ai-as-assistant-vs-ai-slop",
     "event_id": "7e0957158bcd3f547fa2baea7e97bc277845ece24623b8e19470a0218ef3679c",
     "created_at": 1779238359,
@@ -24513,7 +24535,7 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 30023,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/abf7a742fed23064a66741bca1f6f0523a8084ea601e83cc550106d1a2fccaf3.json",
-    "title": "",
+    "title": "Why I Left Web3 for Proof of Work – Part 5: Building Again",
     "summary": "",
     "paid": false
   },

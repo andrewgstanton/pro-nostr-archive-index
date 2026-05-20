@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 20 May 2026 01:03:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 21:05:05 GMT</lastBuildDate>
+    <item>
+      <title>My First Real Day (On Stacker News)</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c864743c3760a2179b215278f349b3f8a0664e495c98c79c618236e451e08a4e</link>
+      <guid isPermaLink="false">c864743c3760a2179b215278f349b3f8a0664e495c98c79c618236e451e08a4e</guid>
+      <pubDate>Wed, 20 May 2026 15:20:17 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>AI As Assistant vs AI Slop</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=7e0957158bcd3f547fa2baea7e97bc277845ece24623b8e19470a0218ef3679c</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">b493428c87a234cd338852c227676646b49b6e17f80c5ed6edfd36521ab0f5bb</guid>
       <pubDate>Wed, 10 Dec 2025 00:49:35 GMT</pubDate>
       <description><![CDATA[The dawn of interplanetary commerce begins as Mars miners export metals to Earth, Earth sends biotech back, and the Moon emerges as a free-trade hub. Only Bitcoin, not fiat, can bridge the distrust across worlds.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Day 6 - Aug. 29, 2025) : The Archive Beneath the Ash</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=4f7a532b051ada95b711dcf28f0f4de6d74cbd94b3bc634e812c0e258343e35b</link>
-      <guid isPermaLink="false">4f7a532b051ada95b711dcf28f0f4de6d74cbd94b3bc634e812c0e258343e35b</guid>
-      <pubDate>Wed, 10 Dec 2025 00:45:31 GMT</pubDate>
-      <description><![CDATA[In a world of silence and collapse, survivors uncover Bitcoin’s ledger as an incorruptible scripture — each block a psalm, each transaction a witness. As tyrants rise with false ledgers, archivists keep the flame of truth alive, proving that collapse cannot erase what is incorruptible.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

@@ -5,7 +5,27 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 20 May 2026 01:03:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 21:05:05 GMT</lastBuildDate>
+    <item>
+      <title>My First Real Day (On Stacker News)</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c864743c3760a2179b215278f349b3f8a0664e495c98c79c618236e451e08a4e</link>
+      <guid isPermaLink="false">c864743c3760a2179b215278f349b3f8a0664e495c98c79c618236e451e08a4e</guid>
+      <pubDate>Wed, 20 May 2026 15:20:17 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 7532b4c473</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7532b4c47365197aa1ae2ab4a4b19d8dd9c2d4521261f176f4a774a34add7045</link>
+      <guid isPermaLink="false">7532b4c47365197aa1ae2ab4a4b19d8dd9c2d4521261f176f4a774a34add7045</guid>
+      <pubDate>Wed, 20 May 2026 14:38:25 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>AI As Assistant vs AI Slop</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=7e0957158bcd3f547fa2baea7e97bc277845ece24623b8e19470a0218ef3679c</link>
@@ -4981,26 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=db502cdbea77b9080d17821f1babd1ff25d7e7cc8610ba878ef148d0faf4c3f8</link>
       <guid isPermaLink="false">db502cdbea77b9080d17821f1babd1ff25d7e7cc8610ba878ef148d0faf4c3f8</guid>
       <pubDate>Tue, 10 Feb 2026 01:44:13 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 3 — Building Without Permission - 2/9/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f4370f1ba3745e769627603c774e60823cdfb1c10479b3006fc548bf36738495</link>
-      <guid isPermaLink="false">f4370f1ba3745e769627603c774e60823cdfb1c10479b3006fc548bf36738495</guid>
-      <pubDate>Tue, 10 Feb 2026 01:42:44 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 2 — Continuing Is a Skill - 2/9/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d3b05f3460334ac8b965121f940e5773fbc978a7a37ea0c5bed507bdb4e2c8d5</link>
-      <guid isPermaLink="false">d3b05f3460334ac8b965121f940e5773fbc978a7a37ea0c5bed507bdb4e2c8d5</guid>
-      <pubDate>Tue, 10 Feb 2026 01:37:05 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>

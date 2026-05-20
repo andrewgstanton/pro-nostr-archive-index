@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 20 May 2026 01:03:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 21:05:05 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 7532b4c473</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7532b4c47365197aa1ae2ab4a4b19d8dd9c2d4521261f176f4a774a34add7045</link>
+      <guid isPermaLink="false">7532b4c47365197aa1ae2ab4a4b19d8dd9c2d4521261f176f4a774a34add7045</guid>
+      <pubDate>Wed, 20 May 2026 14:38:25 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 98f80f192f</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=98f80f192ff703aad4f6fadfacc6540a68338943fe9ce027e7ad85498233f506</link>
@@ -4991,16 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=ae05c371f92f98bb48614dd94ba61bb92edb5e94a0d90dd6a8a6a02f8d98f669</link>
       <guid isPermaLink="false">ae05c371f92f98bb48614dd94ba61bb92edb5e94a0d90dd6a8a6a02f8d98f669</guid>
       <pubDate>Fri, 09 Jan 2026 00:26:54 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sound Money, Smart Children - 1/8/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=79b4850da3b5f774def2cbfeecbf8737285dd64eb9bf3c6bdc9456fc08082e64</link>
-      <guid isPermaLink="false">79b4850da3b5f774def2cbfeecbf8737285dd64eb9bf3c6bdc9456fc08082e64</guid>
-      <pubDate>Fri, 09 Jan 2026 00:25:21 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
