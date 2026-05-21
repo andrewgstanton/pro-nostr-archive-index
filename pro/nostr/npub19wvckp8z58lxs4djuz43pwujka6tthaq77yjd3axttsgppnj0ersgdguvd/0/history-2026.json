@@ -58,5 +58,10 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "event_id": "c7f242366654175da41ffcf38b757e39dbf30c1767a08f7d20b8dc5e68ee0e9e",
     "created_at": 1773170240
+  },
+  {
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "event_id": "b79ca5995964a032dc7dce3c1bfe54e68830f9b6cb5c01ec4dfbbb9fc1793b37",
+    "created_at": 1779407746
   }
 ]
