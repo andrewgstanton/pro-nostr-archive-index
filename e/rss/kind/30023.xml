@@ -5,7 +5,7 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 22 May 2026 02:49:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 03:04:53 GMT</lastBuildDate>
     <item>
       <title>Syncing Events to Archive</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=346fe64979da2d535f11de19b0f602dd3ce9dbf63ab7ff000aeda8baa4c56fae</link>
