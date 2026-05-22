@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 20 May 2026 21:05:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 00:38:37 GMT</lastBuildDate>
+    <item>
+      <title>Syncing Events to Archive</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=346fe64979da2d535f11de19b0f602dd3ce9dbf63ab7ff000aeda8baa4c56fae</link>
+      <guid isPermaLink="false">346fe64979da2d535f11de19b0f602dd3ce9dbf63ab7ff000aeda8baa4c56fae</guid>
+      <pubDate>Fri, 22 May 2026 00:26:46 GMT</pubDate>
+      <description><![CDATA[Continuum’s archive sync work is moving from shell-driven Docker workflows into the application runtime itself. Step 1 proved that kind:1 notes can be persisted into the archive. Step 2 extends the same flow to kind:30023 long-form articles.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>My First Real Day (On Stacker News)</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=c864743c3760a2179b215278f349b3f8a0664e495c98c79c618236e451e08a4e</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">1b88b50e74fd7d12675f05997570dfbc9a8bcce13fa27b93e02e40973ece5af3</guid>
       <pubDate>Wed, 10 Dec 2025 01:14:51 GMT</pubDate>
       <description><![CDATA[A Bitcoin Magazine–worthy essay showing how fiat systems steal human time and dignity through inflation and debt, while Bitcoin restores both by respecting scarcity and responsibility. Argues that Bitcoin is not just money, but an architecture of hope grounded in time and human flourishing.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Day 7 - Aug. 30, 2025) : The Bitcoin Chronicles : The First Interplanetary Trade Routes</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b493428c87a234cd338852c227676646b49b6e17f80c5ed6edfd36521ab0f5bb</link>
-      <guid isPermaLink="false">b493428c87a234cd338852c227676646b49b6e17f80c5ed6edfd36521ab0f5bb</guid>
-      <pubDate>Wed, 10 Dec 2025 00:49:35 GMT</pubDate>
-      <description><![CDATA[The dawn of interplanetary commerce begins as Mars miners export metals to Earth, Earth sends biotech back, and the Moon emerges as a free-trade hub. Only Bitcoin, not fiat, can bridge the distrust across worlds.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

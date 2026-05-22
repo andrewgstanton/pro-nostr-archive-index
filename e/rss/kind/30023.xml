@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 20 May 2026 21:05:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 00:38:37 GMT</lastBuildDate>
+    <item>
+      <title>Syncing Events to Archive</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=346fe64979da2d535f11de19b0f602dd3ce9dbf63ab7ff000aeda8baa4c56fae</link>
+      <guid isPermaLink="false">346fe64979da2d535f11de19b0f602dd3ce9dbf63ab7ff000aeda8baa4c56fae</guid>
+      <pubDate>Fri, 22 May 2026 00:26:46 GMT</pubDate>
+      <description><![CDATA[Continuum’s archive sync work is moving from shell-driven Docker workflows into the application runtime itself. Step 1 proved that kind:1 notes can be persisted into the archive. Step 2 extends the same flow to kind:30023 long-form articles.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>My First Real Day (On Stacker News)</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=c864743c3760a2179b215278f349b3f8a0664e495c98c79c618236e451e08a4e</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">318597f9404ad111540bcd590ded06cec775b357e959068a9b7a54d8ad20ce15</guid>
       <pubDate>Fri, 12 Dec 2025 21:29:30 GMT</pubDate>
       <description><![CDATA[Peace isn’t a feeling. It’s a state of alignment — the soul resting in truth rather than illusion. Sovereign peace begins when control ends, when faith becomes trust, and when the heart learns that surrender is the truest form of strength.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Oct. 3, 2025): Blueprints of Trust: Rebuilding After Collapse</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=180a30f1d8db3a15b1361a04a1b7be7e9afd364cab98984c071630fe411a4fbf</link>
-      <guid isPermaLink="false">180a30f1d8db3a15b1361a04a1b7be7e9afd364cab98984c071630fe411a4fbf</guid>
-      <pubDate>Fri, 12 Dec 2025 21:02:16 GMT</pubDate>
-      <description><![CDATA[This long essay explores how families, teams, and communities rebuild after endings—death, betrayal, disaster, inflation. It argues that trust is not sentiment but structure, describing practices and architectures that embed trust into daily life. It also shows how Bitcoin and Nostr offer trustworthy blueprints for money and speech in the rebuild, enabling collaboration without gatekeepers.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

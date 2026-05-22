@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 20 May 2026 21:05:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 00:38:37 GMT</lastBuildDate>
+    <item>
+      <title>Syncing Events to Archive</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=346fe64979da2d535f11de19b0f602dd3ce9dbf63ab7ff000aeda8baa4c56fae</link>
+      <guid isPermaLink="false">346fe64979da2d535f11de19b0f602dd3ce9dbf63ab7ff000aeda8baa4c56fae</guid>
+      <pubDate>Fri, 22 May 2026 00:26:46 GMT</pubDate>
+      <description><![CDATA[Continuum’s archive sync work is moving from shell-driven Docker workflows into the application runtime itself. Step 1 proved that kind:1 notes can be persisted into the archive. Step 2 extends the same flow to kind:30023 long-form articles.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:0 b79ca59959</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b79ca5995964a032dc7dce3c1bfe54e68830f9b6cb5c01ec4dfbbb9fc1793b37</link>
+      <guid isPermaLink="false">b79ca5995964a032dc7dce3c1bfe54e68830f9b6cb5c01ec4dfbbb9fc1793b37</guid>
+      <pubDate>Thu, 21 May 2026 23:55:46 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:0</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 65de203ead</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=65de203ead40e4f6fe2f91b80021184628658087180bcd0dde00c2e4b3bc4d55</link>
+      <guid isPermaLink="false">65de203ead40e4f6fe2f91b80021184628658087180bcd0dde00c2e4b3bc4d55</guid>
+      <pubDate>Thu, 21 May 2026 23:22:10 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>My First Real Day (On Stacker News)</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=c864743c3760a2179b215278f349b3f8a0664e495c98c79c618236e451e08a4e</link>
@@ -2767,16 +2797,6 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>kind:0 c7f2423666</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c7f242366654175da41ffcf38b757e39dbf30c1767a08f7d20b8dc5e68ee0e9e</link>
-      <guid isPermaLink="false">c7f242366654175da41ffcf38b757e39dbf30c1767a08f7d20b8dc5e68ee0e9e</guid>
-      <pubDate>Tue, 10 Mar 2026 19:17:20 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:0</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
       <title>Building a Local Publishing Scheduler</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=12e078accb418a5acf85eb709e9ce24977c8104447e3fe89c11cd27fa0911c7e</link>
       <guid isPermaLink="false">12e078accb418a5acf85eb709e9ce24977c8104447e3fe89c11cd27fa0911c7e</guid>
@@ -4982,26 +5002,6 @@
       <guid isPermaLink="false">f1a15601a85b849af7ad3a8f975f53ef310e58318259a330186fa9e12d65161d</guid>
       <pubDate>Tue, 10 Feb 2026 00:21:32 GMT</pubDate>
       <description><![CDATA[Authorship, Sovereignty, and Long-Horizon Alignment]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Be consistent - 2/9/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6da2cfaa76e2a31ae2d76fd9e974512f4cbc1919652cfb5f1bbf57cc91a43e35</link>
-      <guid isPermaLink="false">6da2cfaa76e2a31ae2d76fd9e974512f4cbc1919652cfb5f1bbf57cc91a43e35</guid>
-      <pubDate>Mon, 09 Feb 2026 19:42:54 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>After Sunday: What Resurrection Demands</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=4fc977aeae1f7d4a85cfb27218bf9d92cacea21f7302f300c7ce64716461deb3</link>
-      <guid isPermaLink="false">4fc977aeae1f7d4a85cfb27218bf9d92cacea21f7302f300c7ce64716461deb3</guid>
-      <pubDate>Sun, 08 Feb 2026 21:56:45 GMT</pubDate>
-      <description><![CDATA[The resurrection does not give the disciples answers — it gives them a calling. This essay reflects on what it means to leave the tomb without certainty, carrying presence, responsibility, and hope into a world that has not yet been healed.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 20 May 2026 21:05:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 00:38:37 GMT</lastBuildDate>
+    <item>
+      <title>Syncing Events to Archive</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=346fe64979da2d535f11de19b0f602dd3ce9dbf63ab7ff000aeda8baa4c56fae</link>
+      <guid isPermaLink="false">346fe64979da2d535f11de19b0f602dd3ce9dbf63ab7ff000aeda8baa4c56fae</guid>
+      <pubDate>Fri, 22 May 2026 00:26:46 GMT</pubDate>
+      <description><![CDATA[Continuum’s archive sync work is moving from shell-driven Docker workflows into the application runtime itself. Step 1 proved that kind:1 notes can be persisted into the archive. Step 2 extends the same flow to kind:30023 long-form articles.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:0 b79ca59959</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b79ca5995964a032dc7dce3c1bfe54e68830f9b6cb5c01ec4dfbbb9fc1793b37</link>
+      <guid isPermaLink="false">b79ca5995964a032dc7dce3c1bfe54e68830f9b6cb5c01ec4dfbbb9fc1793b37</guid>
+      <pubDate>Thu, 21 May 2026 23:55:46 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:0</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 65de203ead</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=65de203ead40e4f6fe2f91b80021184628658087180bcd0dde00c2e4b3bc4d55</link>
+      <guid isPermaLink="false">65de203ead40e4f6fe2f91b80021184628658087180bcd0dde00c2e4b3bc4d55</guid>
+      <pubDate>Thu, 21 May 2026 23:22:10 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>My First Real Day (On Stacker News)</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=c864743c3760a2179b215278f349b3f8a0664e495c98c79c618236e451e08a4e</link>
@@ -2767,16 +2797,6 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>kind:0 c7f2423666</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c7f242366654175da41ffcf38b757e39dbf30c1767a08f7d20b8dc5e68ee0e9e</link>
-      <guid isPermaLink="false">c7f242366654175da41ffcf38b757e39dbf30c1767a08f7d20b8dc5e68ee0e9e</guid>
-      <pubDate>Tue, 10 Mar 2026 19:17:20 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:0</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
       <title>Building a Local Publishing Scheduler</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=12e078accb418a5acf85eb709e9ce24977c8104447e3fe89c11cd27fa0911c7e</link>
       <guid isPermaLink="false">12e078accb418a5acf85eb709e9ce24977c8104447e3fe89c11cd27fa0911c7e</guid>
@@ -4983,26 +5003,6 @@
       <pubDate>Tue, 10 Feb 2026 01:57:54 GMT</pubDate>
       <description><![CDATA[Most people underestimate how much spiritual and architectural discipline is required not to start, but to continue. This piece explores why continuation is the real test of faithfulness—both in work and in life—and why systems fail when builders confuse momentum with obedience.]]></description>
       <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 5 — Continuing Anyway - 2/9/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0377ff1544c234727bd13e5bbbb27091d7a72a7066f9d92afa7815bb2b6d3f1e</link>
-      <guid isPermaLink="false">0377ff1544c234727bd13e5bbbb27091d7a72a7066f9d92afa7815bb2b6d3f1e</guid>
-      <pubDate>Tue, 10 Feb 2026 01:45:58 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 4 — Building as Refusal - 2/9/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=db502cdbea77b9080d17821f1babd1ff25d7e7cc8610ba878ef148d0faf4c3f8</link>
-      <guid isPermaLink="false">db502cdbea77b9080d17821f1babd1ff25d7e7cc8610ba878ef148d0faf4c3f8</guid>
-      <pubDate>Tue, 10 Feb 2026 01:44:13 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
