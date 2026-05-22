@@ -3773,5 +3773,19 @@
   "my-first-real-day-on-stacker-news": {
     "latest_event_id": "c864743c3760a2179b215278f349b3f8a0664e495c98c79c618236e451e08a4e",
     "latest_year": 2026
+  },
+  "builders-journal---tuesday-may-19-2026": {
+    "latest_event_id": "59584d2b494d6c20745ea091191b2c163293a5de3a1629060e5ec3c7a7e777d4",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---wednesday-may-20-2026": {
+    "latest_event_id": "f1a972541feacdf2f343d24d33aca3ceec6247d960076e7defe7008e43c08180",
+    "latest_year": 2026,
+    "published": false
+  },
+  "syncing-events-to-archive": {
+    "latest_event_id": "4e84f79b8e31404881d681761c12b578ba6d9f4cf26a086906c37b6801d27d4a",
+    "latest_year": 2026
   }
 }
