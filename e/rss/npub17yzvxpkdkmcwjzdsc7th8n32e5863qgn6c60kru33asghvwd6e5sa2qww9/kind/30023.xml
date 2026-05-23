@@ -5,6 +5,16 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub17yzvxpkdkmcwjzdsc7th8n32e5863qgn6c60kru33asghvwd6e5sa2qww9 filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub17yzvxpkdkmcwjzdsc7th8n32e5863qgn6c60kru33asghvwd6e5sa2qww9/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 05 Mar 2026 18:16:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 05:07:17 GMT</lastBuildDate>
+    <item>
+      <title>test article</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b7ef722b8bba5d60c9f8a4ea8241ea3bba15927f0e2489cae125d76f079f21dc</link>
+      <guid isPermaLink="false">b7ef722b8bba5d60c9f8a4ea8241ea3bba15927f0e2489cae125d76f079f21dc</guid>
+      <pubDate>Sat, 23 May 2026 04:45:56 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub17yzvxpkdkmcwjzdsc7th8n32e5863qgn6c60kru33asghvwd6e5sa2qww9</category>
+      <category>paid:false</category>
+    </item>
   </channel>
 </rss>

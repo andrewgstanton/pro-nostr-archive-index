@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to profiles (kind:0), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/0.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 22 May 2026 03:04:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 05:07:17 GMT</lastBuildDate>
+    <item>
+      <title>kind:0 1dbc288528</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1dbc288528e8d91b41fda7f9adcdba0eb2b191396817eba1954041bdde828316</link>
+      <guid isPermaLink="false">1dbc288528e8d91b41fda7f9adcdba0eb2b191396817eba1954041bdde828316</guid>
+      <pubDate>Sat, 23 May 2026 04:44:54 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:0</category>
+      <category>npub:npub17yzvxpkdkmcwjzdsc7th8n32e5863qgn6c60kru33asghvwd6e5sa2qww9</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:0 b79ca59959</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=b79ca5995964a032dc7dce3c1bfe54e68830f9b6cb5c01ec4dfbbb9fc1793b37</link>
