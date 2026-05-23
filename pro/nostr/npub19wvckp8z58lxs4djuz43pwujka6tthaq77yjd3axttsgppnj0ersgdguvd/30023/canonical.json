@@ -3787,5 +3787,13 @@
   "syncing-events-to-archive": {
     "latest_event_id": "346fe64979da2d535f11de19b0f602dd3ce9dbf63ab7ff000aeda8baa4c56fae",
     "latest_year": 2026
+  },
+  "builders-journal---thursday-may-21-2026": {
+    "latest_event_id": "14198d6093906adbc876b1f14415835c27cbd0da5962d0ea85fecc3f8c510bc5",
+    "latest_year": 2026
+  },
+  "builders-journal---friday-may-22-2026": {
+    "latest_event_id": "dce1d5b18d230a88c12c77eb3cd7033f874ae98c062193c3c5f1a565dd35525b",
+    "latest_year": 2026
   }
 }
