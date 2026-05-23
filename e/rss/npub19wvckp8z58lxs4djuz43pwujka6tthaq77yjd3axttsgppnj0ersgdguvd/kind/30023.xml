@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 23 May 2026 19:32:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 22:48:47 GMT</lastBuildDate>
+    <item>
+      <title>Queue-Driven Archive Persistence in Continuum</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=dda9d1e5336a0a50f98e6197dde787809f1465e27bc0a8040670bb94f1eebbaa</link>
+      <guid isPermaLink="false">dda9d1e5336a0a50f98e6197dde787809f1465e27bc0a8040670bb94f1eebbaa</guid>
+      <pubDate>Sat, 23 May 2026 20:42:04 GMT</pubDate>
+      <description><![CDATA[Continuum’s archive system has now shifted from a simple “export current DB state” model to a queue-driven archival pipeline that preserves full event history over time. Events are queued as immutable raw snapshots, committed into Git-backed archive repositories, and later used to rebuild a global archive index independently from the live SQLite database. This architecture now supports durable version preservation, retry-safe archival processing, and long-term reconstruction of archive state entirely from committed history.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Builder's Journal - Friday, May 22, 2026</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=dce1d5b18d230a88c12c77eb3cd7033f874ae98c062193c3c5f1a565dd35525b</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">e193f0992b810c984745d09a7ccfb5e9467a37b9f19b9bcddc7f0dd6aac46cf0</guid>
       <pubDate>Wed, 10 Dec 2025 05:18:39 GMT</pubDate>
       <description><![CDATA[This article explores how Rome’s monetary collapse led to moral and institutional decline, and why Bitcoin offers a way out of repeating history.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 9, 2025) : The Nostr Manifesto</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=44c28f4c4943c4c0e19a45bd5c100e79875e5ecfa512a07912067deb0776217b</link>
-      <guid isPermaLink="false">44c28f4c4943c4c0e19a45bd5c100e79875e5ecfa512a07912067deb0776217b</guid>
-      <pubDate>Wed, 10 Dec 2025 02:09:27 GMT</pubDate>
-      <description><![CDATA[This article lays out the case for Nostr as a manifesto: why it matters, what it protects, and how it redefines digital identity and communication.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

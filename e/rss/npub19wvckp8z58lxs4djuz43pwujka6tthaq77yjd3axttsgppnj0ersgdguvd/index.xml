@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 23 May 2026 19:32:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 22:48:47 GMT</lastBuildDate>
+    <item>
+      <title>kind:0 6938015b36</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6938015b36df0fc737b97d6f460eecfb1fad79d27031e95cc0e84bacd62ebf3c</link>
+      <guid isPermaLink="false">6938015b36df0fc737b97d6f460eecfb1fad79d27031e95cc0e84bacd62ebf3c</guid>
+      <pubDate>Sat, 23 May 2026 22:37:54 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:0</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 969d51cee4</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=969d51cee4e270936c2d7f77f930ea21d90ef2c448e5c96deb5af4c4dd1bb1f0</link>
+      <guid isPermaLink="false">969d51cee4e270936c2d7f77f930ea21d90ef2c448e5c96deb5af4c4dd1bb1f0</guid>
+      <pubDate>Sat, 23 May 2026 22:35:51 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Queue-Driven Archive Persistence in Continuum</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=dda9d1e5336a0a50f98e6197dde787809f1465e27bc0a8040670bb94f1eebbaa</link>
+      <guid isPermaLink="false">dda9d1e5336a0a50f98e6197dde787809f1465e27bc0a8040670bb94f1eebbaa</guid>
+      <pubDate>Sat, 23 May 2026 20:42:04 GMT</pubDate>
+      <description><![CDATA[Continuum’s archive system has now shifted from a simple “export current DB state” model to a queue-driven archival pipeline that preserves full event history over time. Events are queued as immutable raw snapshots, committed into Git-backed archive repositories, and later used to rebuild a global archive index independently from the live SQLite database. This architecture now supports durable version preservation, retry-safe archival processing, and long-term reconstruction of archive state entirely from committed history.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Builder's Journal - Friday, May 22, 2026</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=dce1d5b18d230a88c12c77eb3cd7033f874ae98c062193c3c5f1a565dd35525b</link>
@@ -33,16 +63,6 @@
       <pubDate>Fri, 22 May 2026 00:26:46 GMT</pubDate>
       <description><![CDATA[Continuum’s archive sync work is moving from shell-driven Docker workflows into the application runtime itself. Step 1 proved that kind:1 notes can be persisted into the archive. Step 2 extends the same flow to kind:30023 long-form articles.]]></description>
       <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:0 b79ca59959</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b79ca5995964a032dc7dce3c1bfe54e68830f9b6cb5c01ec4dfbbb9fc1793b37</link>
-      <guid isPermaLink="false">b79ca5995964a032dc7dce3c1bfe54e68830f9b6cb5c01ec4dfbbb9fc1793b37</guid>
-      <pubDate>Thu, 21 May 2026 23:55:46 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:0</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
@@ -4981,26 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=f4370f1ba3745e769627603c774e60823cdfb1c10479b3006fc548bf36738495</link>
       <guid isPermaLink="false">f4370f1ba3745e769627603c774e60823cdfb1c10479b3006fc548bf36738495</guid>
       <pubDate>Tue, 10 Feb 2026 01:42:44 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 2 — Continuing Is a Skill - 2/9/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d3b05f3460334ac8b965121f940e5773fbc978a7a37ea0c5bed507bdb4e2c8d5</link>
-      <guid isPermaLink="false">d3b05f3460334ac8b965121f940e5773fbc978a7a37ea0c5bed507bdb4e2c8d5</guid>
-      <pubDate>Tue, 10 Feb 2026 01:37:05 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 1 — Building When It’s Quiet - 2/9/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5c63bebb334f8160b1fb2bc2aca8ad5be96ab113f338204a4dc88610762650c7</link>
-      <guid isPermaLink="false">5c63bebb334f8160b1fb2bc2aca8ad5be96ab113f338204a4dc88610762650c7</guid>
-      <pubDate>Tue, 10 Feb 2026 01:36:05 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>

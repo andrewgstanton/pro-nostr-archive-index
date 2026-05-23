@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 23 May 2026 19:32:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 22:48:46 GMT</lastBuildDate>
+    <item>
+      <title>Queue-Driven Archive Persistence in Continuum</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=dda9d1e5336a0a50f98e6197dde787809f1465e27bc0a8040670bb94f1eebbaa</link>
+      <guid isPermaLink="false">dda9d1e5336a0a50f98e6197dde787809f1465e27bc0a8040670bb94f1eebbaa</guid>
+      <pubDate>Sat, 23 May 2026 20:42:04 GMT</pubDate>
+      <description><![CDATA[Continuum’s archive system has now shifted from a simple “export current DB state” model to a queue-driven archival pipeline that preserves full event history over time. Events are queued as immutable raw snapshots, committed into Git-backed archive repositories, and later used to rebuild a global archive index independently from the live SQLite database. This architecture now supports durable version preservation, retry-safe archival processing, and long-term reconstruction of archive state entirely from committed history.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Builder's Journal - Friday, May 22, 2026</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=dce1d5b18d230a88c12c77eb3cd7033f874ae98c062193c3c5f1a565dd35525b</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">043955382f05eaaa26bf3997b6929d5bebb9682bfd08a577d601e37a59c9f37b</guid>
       <pubDate>Fri, 12 Dec 2025 22:52:12 GMT</pubDate>
       <description><![CDATA[Bitcoin is not an investment class; it is a moral reformation.  To exit fiat is to renounce false weights and measures, to step back into a covenantal economy rooted in truth.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Oct. 14, 2025): Sovereignty vs Speculation</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=bc7a7d3a3151383c88b079aae77047dd2d3b4644383e56cd512852f876592bdf</link>
-      <guid isPermaLink="false">bc7a7d3a3151383c88b079aae77047dd2d3b4644383e56cd512852f876592bdf</guid>
-      <pubDate>Fri, 12 Dec 2025 22:46:39 GMT</pubDate>
-      <description><![CDATA[The mechanics of profit can dull the meaning of purpose. This essay wrestles with what it means to trade faithfully—to keep agency when success feels automatic and wins taste like dust.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

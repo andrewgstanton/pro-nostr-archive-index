@@ -1,5 +1,38 @@
 [
   {
+    "slug": null,
+    "event_id": "6938015b36df0fc737b97d6f460eecfb1fad79d27031e95cc0e84bacd62ebf3c",
+    "created_at": 1779575874,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 0,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/0/6938015b36df0fc737b97d6f460eecfb1fad79d27031e95cc0e84bacd62ebf3c.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "969d51cee4e270936c2d7f77f930ea21d90ef2c448e5c96deb5af4c4dd1bb1f0",
+    "created_at": 1779575751,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/969d51cee4e270936c2d7f77f930ea21d90ef2c448e5c96deb5af4c4dd1bb1f0.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "queue-driven-archive-persistence-in-continuum",
+    "event_id": "dda9d1e5336a0a50f98e6197dde787809f1465e27bc0a8040670bb94f1eebbaa",
+    "created_at": 1779568924,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/dda9d1e5336a0a50f98e6197dde787809f1465e27bc0a8040670bb94f1eebbaa.json",
+    "title": "Queue-Driven Archive Persistence in Continuum",
+    "summary": "Continuum’s archive system has now shifted from a simple “export current DB state” model to a queue-driven archival pipeline that preserves full event history over time. Events are queued as immutable raw snapshots, committed into Git-backed archive repositories, and later used to rebuild a global archive index independently from the live SQLite database. This architecture now supports durable version preservation, retry-safe archival processing, and long-term reconstruction of archive state entirely from committed history.",
+    "paid": false
+  },
+  {
     "slug": "builders-journal---friday-may-22-2026",
     "event_id": "dce1d5b18d230a88c12c77eb3cd7033f874ae98c062193c3c5f1a565dd35525b",
     "created_at": 1779563262,
