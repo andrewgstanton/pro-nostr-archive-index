@@ -5,7 +5,27 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 23 May 2026 05:07:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 19:23:36 GMT</lastBuildDate>
+    <item>
+      <title>Builder's Journal - Friday, May 22, 2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=dce1d5b18d230a88c12c77eb3cd7033f874ae98c062193c3c5f1a565dd35525b</link>
+      <guid isPermaLink="false">dce1d5b18d230a88c12c77eb3cd7033f874ae98c062193c3c5f1a565dd35525b</guid>
+      <pubDate>Sat, 23 May 2026 19:07:42 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Builder's Journal - Thursday, May 21, 2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=14198d6093906adbc876b1f14415835c27cbd0da5962d0ea85fecc3f8c510bc5</link>
+      <guid isPermaLink="false">14198d6093906adbc876b1f14415835c27cbd0da5962d0ea85fecc3f8c510bc5</guid>
+      <pubDate>Sat, 23 May 2026 18:58:57 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>test article</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=b7ef722b8bba5d60c9f8a4ea8241ea3bba15927f0e2489cae125d76f079f21dc</link>
@@ -4982,26 +5002,6 @@
       <guid isPermaLink="false">e2e75fe4e2e824c5b9cb73c5bb7614390d1c3b91d08c026e7d5d898f00f49ef3</guid>
       <pubDate>Thu, 12 Feb 2026 00:29:28 GMT</pubDate>
       <description><![CDATA[Once entanglement bridges were physically seeded across worlds, settlement and verification became effectively instantaneous between connected systems. Bitcoin provided neutral finality. Sovereign nodes distributed participation. But simultaneity carried a cost. This installment explores the psychological, ethical, and political strain of living in a civilization where truth and settlement arrive faster than institutions — or humans — can metabolize.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles — Arc 2.F.2 -  When the System Needed Saving Again</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9e332166325ae5b9a3a60a4f86ad1e4296e0ad53d37a0be66b7d2e4cd9cf2abe</link>
-      <guid isPermaLink="false">9e332166325ae5b9a3a60a4f86ad1e4296e0ad53d37a0be66b7d2e4cd9cf2abe</guid>
-      <pubDate>Thu, 12 Feb 2026 00:28:48 GMT</pubDate>
-      <description><![CDATA[In the early Entangled Era, as experimental simultaneity networks begin collapsing communication delay between worlds, legacy coordination authorities attempt to preserve their relevance. Elias Walker witnesses another familiar pattern: when latency collapses, power structures built upon it require rescue.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chroncles - Arc 2.F.1 - The Custodians of Delay</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=18d0fc1559eab80f170e13f03f868851264495ae8bb3e278422d38d526277f30</link>
-      <guid isPermaLink="false">18d0fc1559eab80f170e13f03f868851264495ae8bb3e278422d38d526277f30</guid>
-      <pubDate>Thu, 12 Feb 2026 00:26:59 GMT</pubDate>
-      <description><![CDATA[Entanglement did not eliminate distance — it eliminated delay once infrastructure was seeded. After sub-light pioneers carried the first entangled bridges outward, simultaneity became operational between worlds. But institutions built on latency began to resist. This installment explores how delay once structured power, why instant settlement destabilizes hierarchy, and how the struggle over finality reshapes interplanetary sovereignty.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

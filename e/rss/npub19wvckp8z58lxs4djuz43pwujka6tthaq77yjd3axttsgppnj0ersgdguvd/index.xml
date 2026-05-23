@@ -5,7 +5,27 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 22 May 2026 03:04:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 19:23:36 GMT</lastBuildDate>
+    <item>
+      <title>Builder's Journal - Friday, May 22, 2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=dce1d5b18d230a88c12c77eb3cd7033f874ae98c062193c3c5f1a565dd35525b</link>
+      <guid isPermaLink="false">dce1d5b18d230a88c12c77eb3cd7033f874ae98c062193c3c5f1a565dd35525b</guid>
+      <pubDate>Sat, 23 May 2026 19:07:42 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Builder's Journal - Thursday, May 21, 2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=14198d6093906adbc876b1f14415835c27cbd0da5962d0ea85fecc3f8c510bc5</link>
+      <guid isPermaLink="false">14198d6093906adbc876b1f14415835c27cbd0da5962d0ea85fecc3f8c510bc5</guid>
+      <pubDate>Sat, 23 May 2026 18:58:57 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Syncing Events to Archive</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=346fe64979da2d535f11de19b0f602dd3ce9dbf63ab7ff000aeda8baa4c56fae</link>
@@ -2352,16 +2372,6 @@
       <guid isPermaLink="false">d98d1d7b3d8f9f454a9ed7b159445d2340611a848789dea0496c63388c65dd0f</guid>
       <pubDate>Sun, 15 Mar 2026 04:46:13 GMT</pubDate>
       <description><![CDATA[Throughout history, taxation has expanded alongside state power. From a libertarian perspective, much of modern taxation resembles a form of compelled labor. The biblical concept of Sabbath introduces a powerful counter-principle: human time ultimately belongs to God, not to political authorities.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>test article</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=312fa7bd25ce91cfae979f1ac4b0887ee0c5a6d09c4b4d6df1b4bac27eebd0c3</link>
-      <guid isPermaLink="false">312fa7bd25ce91cfae979f1ac4b0887ee0c5a6d09c4b4d6df1b4bac27eebd0c3</guid>
-      <pubDate>Sun, 15 Mar 2026 04:41:44 GMT</pubDate>
-      <description><![CDATA[this is a test]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
@@ -4993,16 +5003,6 @@
       <pubDate>Tue, 10 Feb 2026 01:36:05 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum: Design Principles for Durable Infrastructure</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f1a15601a85b849af7ad3a8f975f53ef310e58318259a330186fa9e12d65161d</link>
-      <guid isPermaLink="false">f1a15601a85b849af7ad3a8f975f53ef310e58318259a330186fa9e12d65161d</guid>
-      <pubDate>Tue, 10 Feb 2026 00:21:32 GMT</pubDate>
-      <description><![CDATA[Authorship, Sovereignty, and Long-Horizon Alignment]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
