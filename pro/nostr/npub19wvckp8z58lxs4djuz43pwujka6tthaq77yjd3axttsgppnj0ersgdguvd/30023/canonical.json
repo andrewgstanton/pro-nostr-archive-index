@@ -3795,5 +3795,9 @@
   "builders-journal---friday-may-22-2026": {
     "latest_event_id": "dce1d5b18d230a88c12c77eb3cd7033f874ae98c062193c3c5f1a565dd35525b",
     "latest_year": 2026
+  },
+  "queue-driven-archive-persistence-in-continuum": {
+    "latest_event_id": "dda9d1e5336a0a50f98e6197dde787809f1465e27bc0a8040670bb94f1eebbaa",
+    "latest_year": 2026
   }
 }
