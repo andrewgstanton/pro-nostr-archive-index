@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 24 May 2026 04:16:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 04:55:36 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 afc518e56d</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=afc518e56d622c938c2f5d69c7eb18073640cd3a04f3c2f19f298cd08f760868</link>
+      <guid isPermaLink="false">afc518e56d622c938c2f5d69c7eb18073640cd3a04f3c2f19f298cd08f760868</guid>
+      <pubDate>Sun, 24 May 2026 04:47:10 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 969d51cee4</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=969d51cee4e270936c2d7f77f930ea21d90ef2c448e5c96deb5af4c4dd1bb1f0</link>
@@ -4991,16 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=a6a7d61f9e1b9144ae34e5099fa45d398b14801dde4fa0f15b6359c70e0aa06c</link>
       <guid isPermaLink="false">a6a7d61f9e1b9144ae34e5099fa45d398b14801dde4fa0f15b6359c70e0aa06c</guid>
       <pubDate>Fri, 09 Jan 2026 00:30:00 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Martian Money - 1/8/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f0919cde0a3579bc1f46a83f9d3080431556f2e2de1f8fd6220cbce14278e2fe</link>
-      <guid isPermaLink="false">f0919cde0a3579bc1f46a83f9d3080431556f2e2de1f8fd6220cbce14278e2fe</guid>
-      <pubDate>Fri, 09 Jan 2026 00:28:50 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
