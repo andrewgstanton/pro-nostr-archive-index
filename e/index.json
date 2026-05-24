@@ -1,5 +1,41 @@
 [
   {
+    "slug": "builders-journal---friday-may-22-2026",
+    "event_id": "503924a3abf3a9c53429262fa9ec46081837b82f77791e60d666b1f2dabf572e",
+    "created_at": 1779654195,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/503924a3abf3a9c53429262fa9ec46081837b82f77791e60d666b1f2dabf572e.json",
+    "title": "Builder's Journal - Friday, May 22, 2026",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
+    "slug": "builders-journal---thursday-may-21-2026",
+    "event_id": "dfd71d3643a661fa137a5107e3b39804e519d2bec3a4c66e505bfa852804e570",
+    "created_at": 1779654177,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/dfd71d3643a661fa137a5107e3b39804e519d2bec3a4c66e505bfa852804e570.json",
+    "title": "Builder's Journal - Thursday, May 21, 2026",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
+    "slug": "builder-jounel---saturday-may-23-2026",
+    "event_id": "6c198721a57860eb768b8b59746965040ad329b496a5b3dee3d689725639b074",
+    "created_at": 1779654118,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/6c198721a57860eb768b8b59746965040ad329b496a5b3dee3d689725639b074.json",
+    "title": "Builder Journal - Saturday, May 23, 2026",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
     "slug": null,
     "event_id": "7a7d3c51fa4e3f07ea1a02bb474acd3b7a14a35437385abd847209112040e70c",
     "created_at": 1779653156,
