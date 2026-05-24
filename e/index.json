@@ -1,5 +1,16 @@
 [
   {
+    "slug": "builder-jounel---saturday-may-23-2026",
+    "event_id": "d0214b4646a67d4a82ce8ef1548cf86fee58406ba3db476a33ff8258a98ce09d",
+    "created_at": 1779588091,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/d0214b4646a67d4a82ce8ef1548cf86fee58406ba3db476a33ff8258a98ce09d.json",
+    "title": "Builder Jounel - Saturday, May 23, 2026",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": null,
     "event_id": "6938015b36df0fc737b97d6f460eecfb1fad79d27031e95cc0e84bacd62ebf3c",
     "created_at": 1779575874,

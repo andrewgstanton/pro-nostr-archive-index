@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 23 May 2026 22:48:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 02:09:46 GMT</lastBuildDate>
+    <item>
+      <title>Builder Jounel - Saturday, May 23, 2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d0214b4646a67d4a82ce8ef1548cf86fee58406ba3db476a33ff8258a98ce09d</link>
+      <guid isPermaLink="false">d0214b4646a67d4a82ce8ef1548cf86fee58406ba3db476a33ff8258a98ce09d</guid>
+      <pubDate>Sun, 24 May 2026 02:01:31 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Queue-Driven Archive Persistence in Continuum</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=dda9d1e5336a0a50f98e6197dde787809f1465e27bc0a8040670bb94f1eebbaa</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">9322cc359cf203720a6172064e91dad886b527999e8d61755ffbd38f21a01bc1</guid>
       <pubDate>Thu, 11 Dec 2025 20:33:51 GMT</pubDate>
       <description><![CDATA[Sovereignty isn't a dramatic breakthrough — it is a practiced rhythm of small decisions made daily. We become sovereign by training sovereignty.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 10, 2025): Debasement and Decline: Rome’s Warning for Today</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e193f0992b810c984745d09a7ccfb5e9467a37b9f19b9bcddc7f0dd6aac46cf0</link>
-      <guid isPermaLink="false">e193f0992b810c984745d09a7ccfb5e9467a37b9f19b9bcddc7f0dd6aac46cf0</guid>
-      <pubDate>Wed, 10 Dec 2025 05:18:39 GMT</pubDate>
-      <description><![CDATA[This article explores how Rome’s monetary collapse led to moral and institutional decline, and why Bitcoin offers a way out of repeating history.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 23 May 2026 22:48:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 02:09:46 GMT</lastBuildDate>
+    <item>
+      <title>Builder Jounel - Saturday, May 23, 2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d0214b4646a67d4a82ce8ef1548cf86fee58406ba3db476a33ff8258a98ce09d</link>
+      <guid isPermaLink="false">d0214b4646a67d4a82ce8ef1548cf86fee58406ba3db476a33ff8258a98ce09d</guid>
+      <pubDate>Sun, 24 May 2026 02:01:31 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:0 6938015b36</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=6938015b36df0fc737b97d6f460eecfb1fad79d27031e95cc0e84bacd62ebf3c</link>
@@ -4991,16 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=db502cdbea77b9080d17821f1babd1ff25d7e7cc8610ba878ef148d0faf4c3f8</link>
       <guid isPermaLink="false">db502cdbea77b9080d17821f1babd1ff25d7e7cc8610ba878ef148d0faf4c3f8</guid>
       <pubDate>Tue, 10 Feb 2026 01:44:13 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 3 — Building Without Permission - 2/9/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f4370f1ba3745e769627603c774e60823cdfb1c10479b3006fc548bf36738495</link>
-      <guid isPermaLink="false">f4370f1ba3745e769627603c774e60823cdfb1c10479b3006fc548bf36738495</guid>
-      <pubDate>Tue, 10 Feb 2026 01:42:44 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>

@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 23 May 2026 22:48:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 02:09:46 GMT</lastBuildDate>
+    <item>
+      <title>Builder Jounel - Saturday, May 23, 2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d0214b4646a67d4a82ce8ef1548cf86fee58406ba3db476a33ff8258a98ce09d</link>
+      <guid isPermaLink="false">d0214b4646a67d4a82ce8ef1548cf86fee58406ba3db476a33ff8258a98ce09d</guid>
+      <pubDate>Sun, 24 May 2026 02:01:31 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Queue-Driven Archive Persistence in Continuum</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=dda9d1e5336a0a50f98e6197dde787809f1465e27bc0a8040670bb94f1eebbaa</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">7f8833297899a3e9dc1773ad74c1e211f3f969f1d433c24e59cb728b4dd80cbb</guid>
       <pubDate>Fri, 12 Dec 2025 22:53:44 GMT</pubDate>
       <description><![CDATA[Every revolution of the word is also a revolution of spirit.  This essay envisions a new age of free expression built on open protocols, where truth is not hosted but inhabited.  T]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Oct. 8, 2025): The Kingdom Ledger: Exiting Fiat, Entering Freedom</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=043955382f05eaaa26bf3997b6929d5bebb9682bfd08a577d601e37a59c9f37b</link>
-      <guid isPermaLink="false">043955382f05eaaa26bf3997b6929d5bebb9682bfd08a577d601e37a59c9f37b</guid>
-      <pubDate>Fri, 12 Dec 2025 22:52:12 GMT</pubDate>
-      <description><![CDATA[Bitcoin is not an investment class; it is a moral reformation.  To exit fiat is to renounce false weights and measures, to step back into a covenantal economy rooted in truth.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

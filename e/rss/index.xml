@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 23 May 2026 22:48:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 02:09:46 GMT</lastBuildDate>
+    <item>
+      <title>Builder Jounel - Saturday, May 23, 2026</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d0214b4646a67d4a82ce8ef1548cf86fee58406ba3db476a33ff8258a98ce09d</link>
+      <guid isPermaLink="false">d0214b4646a67d4a82ce8ef1548cf86fee58406ba3db476a33ff8258a98ce09d</guid>
+      <pubDate>Sun, 24 May 2026 02:01:31 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:0 6938015b36</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=6938015b36df0fc737b97d6f460eecfb1fad79d27031e95cc0e84bacd62ebf3c</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">eed0117e10969ef52aa4872810495be66817554d5a020b1703d9a5b6d3064204</guid>
       <pubDate>Thu, 12 Feb 2026 00:45:59 GMT</pubDate>
       <description><![CDATA[As entangled networks remove delay from interworld coordination, a subtler consequence emerges: psychological compression. Elias Walker begins to sense that living inside instant verification alters not only governance, but the human nervous system itself.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles — Arc 2.G.2 - The Discipline of Distributed Authority</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=122afb31229d4a974cce0932c3a9a8c142ad9556b9fc4b4e8ae9481bfade4158</link>
-      <guid isPermaLink="false">122afb31229d4a974cce0932c3a9a8c142ad9556b9fc4b4e8ae9481bfade4158</guid>
-      <pubDate>Thu, 12 Feb 2026 00:45:20 GMT</pubDate>
-      <description><![CDATA[As entangled coordination spreads beyond Luna’s experimental corridors, sovereign worlds confront a deeper question: if authority no longer depends on delay, who carries responsibility? Elias Walker begins to understand that distributed systems demand more maturity, not less.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
