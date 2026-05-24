@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 24 May 2026 18:14:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 19:38:42 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 ef1a989277</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ef1a989277c40b7b061f7ba37dee4d82d07684062585582f9ef1c73d66d5d6f1</link>
+      <guid isPermaLink="false">ef1a989277c40b7b061f7ba37dee4d82d07684062585582f9ef1c73d66d5d6f1</guid>
+      <pubDate>Sun, 24 May 2026 19:28:33 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 550ae74b9c</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=550ae74b9c7de17fc7935666f2d9f7bef57cea45e4599fb6ae8a36af1e2948f9</link>
@@ -4991,16 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=726b5102d7c6d43c9ba9bd03658e42113f27bed433ff091437294123fa559931</link>
       <guid isPermaLink="false">726b5102d7c6d43c9ba9bd03658e42113f27bed433ff091437294123fa559931</guid>
       <pubDate>Fri, 09 Jan 2026 00:39:07 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Build what still matters when the noise fades 1/7/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6a662e8a4e6e95c1dbc8be4d8c2321c151f68de7476c3d011b69b31109a8dadb</link>
-      <guid isPermaLink="false">6a662e8a4e6e95c1dbc8be4d8c2321c151f68de7476c3d011b69b31109a8dadb</guid>
-      <pubDate>Fri, 09 Jan 2026 00:37:28 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>

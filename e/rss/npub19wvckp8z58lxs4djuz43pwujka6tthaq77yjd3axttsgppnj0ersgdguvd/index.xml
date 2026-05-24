@@ -5,7 +5,27 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 24 May 2026 18:14:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 19:38:42 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 ef1a989277</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ef1a989277c40b7b061f7ba37dee4d82d07684062585582f9ef1c73d66d5d6f1</link>
+      <guid isPermaLink="false">ef1a989277c40b7b061f7ba37dee4d82d07684062585582f9ef1c73d66d5d6f1</guid>
+      <pubDate>Sun, 24 May 2026 19:28:33 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:0 5e33f1a7f2</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5e33f1a7f24b49b35c37e5242137d28a085d3044c8c0f0f106da7406665caa3f</link>
+      <guid isPermaLink="false">5e33f1a7f24b49b35c37e5242137d28a085d3044c8c0f0f106da7406665caa3f</guid>
+      <pubDate>Sun, 24 May 2026 19:27:27 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:0</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 550ae74b9c</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=550ae74b9c7de17fc7935666f2d9f7bef57cea45e4599fb6ae8a36af1e2948f9</link>
@@ -33,16 +53,6 @@
       <pubDate>Sun, 24 May 2026 04:07:57 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:0 6938015b36</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6938015b36df0fc737b97d6f460eecfb1fad79d27031e95cc0e84bacd62ebf3c</link>
-      <guid isPermaLink="false">6938015b36df0fc737b97d6f460eecfb1fad79d27031e95cc0e84bacd62ebf3c</guid>
-      <pubDate>Sat, 23 May 2026 22:37:54 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:0</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">4bcf72752c426e80c6da9e4f5a7f9fcc875b819186effdeb8d484081b72578e8</guid>
       <pubDate>Tue, 10 Feb 2026 02:01:16 GMT</pubDate>
       <description><![CDATA[Constraint is not the enemy of creativity or faithfulness. It is the environment in which both are refined. This essay explores why constraint is necessary for durable building—and why systems built without it inevitably collapse.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Discipline of Continuing</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6b03bc465a97e30ce81896c634fbe21d34495e8cab7b152a91283fcb666d20b7</link>
-      <guid isPermaLink="false">6b03bc465a97e30ce81896c634fbe21d34495e8cab7b152a91283fcb666d20b7</guid>
-      <pubDate>Tue, 10 Feb 2026 01:57:54 GMT</pubDate>
-      <description><![CDATA[Most people underestimate how much spiritual and architectural discipline is required not to start, but to continue. This piece explores why continuation is the real test of faithfulness—both in work and in life—and why systems fail when builders confuse momentum with obedience.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
