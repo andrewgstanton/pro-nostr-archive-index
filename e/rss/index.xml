@@ -5,7 +5,7 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 24 May 2026 18:05:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 18:14:15 GMT</lastBuildDate>
     <item>
       <title>kind:1 49553a66c7</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=49553a66c7adf784753c64649e6838c0553416439f6b5a8fc111d06e287bf6e0</link>
