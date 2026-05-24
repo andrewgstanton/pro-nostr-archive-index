@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 24 May 2026 19:38:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 20:15:22 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 fd3bc3d25c</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=fd3bc3d25ce72598678dab6b4b0ef12986268532feb568aab3c3771dd0391262</link>
+      <guid isPermaLink="false">fd3bc3d25ce72598678dab6b4b0ef12986268532feb568aab3c3771dd0391262</guid>
+      <pubDate>Sun, 24 May 2026 19:48:58 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 ef1a989277</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=ef1a989277c40b7b061f7ba37dee4d82d07684062585582f9ef1c73d66d5d6f1</link>
@@ -4991,16 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=ad8f157410e66cfe16c2c57cd4e84a0adc8073293c111c9f465673592a4691c6</link>
       <guid isPermaLink="false">ad8f157410e66cfe16c2c57cd4e84a0adc8073293c111c9f465673592a4691c6</guid>
       <pubDate>Fri, 09 Jan 2026 00:39:54 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Most systems reward compliance 1/7/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=726b5102d7c6d43c9ba9bd03658e42113f27bed433ff091437294123fa559931</link>
-      <guid isPermaLink="false">726b5102d7c6d43c9ba9bd03658e42113f27bed433ff091437294123fa559931</guid>
-      <pubDate>Fri, 09 Jan 2026 00:39:07 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>

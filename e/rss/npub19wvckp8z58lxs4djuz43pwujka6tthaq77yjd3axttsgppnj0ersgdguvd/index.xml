@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 24 May 2026 19:38:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 20:15:22 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 fd3bc3d25c</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=fd3bc3d25ce72598678dab6b4b0ef12986268532feb568aab3c3771dd0391262</link>
+      <guid isPermaLink="false">fd3bc3d25ce72598678dab6b4b0ef12986268532feb568aab3c3771dd0391262</guid>
+      <pubDate>Sun, 24 May 2026 19:48:58 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 ef1a989277</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=ef1a989277c40b7b061f7ba37dee4d82d07684062585582f9ef1c73d66d5d6f1</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">9e38e4335751a7f0d96304e4b01dd6484e6b7b827f6403facdecf3ae8d92f4ac</guid>
       <pubDate>Tue, 10 Feb 2026 02:03:44 GMT</pubDate>
       <description><![CDATA[This piece addresses one of the hardest realities for builders: doing faithful work without visible confirmation. Drawing from Scripture, it explores why validation is a poor compass—and why God often withholds it until the work is complete.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Building Under Constraint</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=4bcf72752c426e80c6da9e4f5a7f9fcc875b819186effdeb8d484081b72578e8</link>
-      <guid isPermaLink="false">4bcf72752c426e80c6da9e4f5a7f9fcc875b819186effdeb8d484081b72578e8</guid>
-      <pubDate>Tue, 10 Feb 2026 02:01:16 GMT</pubDate>
-      <description><![CDATA[Constraint is not the enemy of creativity or faithfulness. It is the environment in which both are refined. This essay explores why constraint is necessary for durable building—and why systems built without it inevitably collapse.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
