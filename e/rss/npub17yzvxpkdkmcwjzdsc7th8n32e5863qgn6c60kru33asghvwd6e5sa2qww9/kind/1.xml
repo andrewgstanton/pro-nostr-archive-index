@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub17yzvxpkdkmcwjzdsc7th8n32e5863qgn6c60kru33asghvwd6e5sa2qww9 filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub17yzvxpkdkmcwjzdsc7th8n32e5863qgn6c60kru33asghvwd6e5sa2qww9/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 23 May 2026 05:07:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 18:05:30 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 49553a66c7</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=49553a66c7adf784753c64649e6838c0553416439f6b5a8fc111d06e287bf6e0</link>
+      <guid isPermaLink="false">49553a66c7adf784753c64649e6838c0553416439f6b5a8fc111d06e287bf6e0</guid>
+      <pubDate>Sun, 24 May 2026 17:37:11 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub17yzvxpkdkmcwjzdsc7th8n32e5863qgn6c60kru33asghvwd6e5sa2qww9</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 18dc373afd</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=18dc373afd04d2370424d655a9118f60f6987463208ec8aba5b0363db0bac0a4</link>
