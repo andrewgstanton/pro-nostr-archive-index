@@ -3810,5 +3810,10 @@
   "where-is-your-center-of-gravity-": {
     "latest_event_id": "49b1b819b80fe51406c5665fb5835b00553febf92c028bee0fbd0ba531c77bc7",
     "latest_year": 2026
+  },
+  "builders-journal---sunday-may-24-2026": {
+    "latest_event_id": "6497ae82a57c7b2f2b98238fde2b11e9290ae6043257c980718069ac1e8a7d51",
+    "latest_year": 2026,
+    "published": false
   }
 }
