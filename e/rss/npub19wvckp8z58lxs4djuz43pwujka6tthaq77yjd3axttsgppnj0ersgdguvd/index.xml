@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 24 May 2026 20:31:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 03:08:23 GMT</lastBuildDate>
+    <item>
+      <title>Where is Your Center of Gravity ?</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=49b1b819b80fe51406c5665fb5835b00553febf92c028bee0fbd0ba531c77bc7</link>
+      <guid isPermaLink="false">49b1b819b80fe51406c5665fb5835b00553febf92c028bee0fbd0ba531c77bc7</guid>
+      <pubDate>Mon, 25 May 2026 02:59:40 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 fd3bc3d25c</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=fd3bc3d25ce72598678dab6b4b0ef12986268532feb568aab3c3771dd0391262</link>
@@ -4993,16 +5003,6 @@
       <pubDate>Wed, 11 Feb 2026 01:12:09 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Faithful Work Without Immediate Validation</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9e38e4335751a7f0d96304e4b01dd6484e6b7b827f6403facdecf3ae8d92f4ac</link>
-      <guid isPermaLink="false">9e38e4335751a7f0d96304e4b01dd6484e6b7b827f6403facdecf3ae8d92f4ac</guid>
-      <pubDate>Tue, 10 Feb 2026 02:03:44 GMT</pubDate>
-      <description><![CDATA[This piece addresses one of the hardest realities for builders: doing faithful work without visible confirmation. Drawing from Scripture, it explores why validation is a poor compass—and why God often withholds it until the work is complete.]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>

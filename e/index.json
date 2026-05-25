@@ -1,5 +1,27 @@
 [
   {
+    "slug": "where-is-your-center-of-gravity-",
+    "event_id": "49b1b819b80fe51406c5665fb5835b00553febf92c028bee0fbd0ba531c77bc7",
+    "created_at": 1779677980,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/49b1b819b80fe51406c5665fb5835b00553febf92c028bee0fbd0ba531c77bc7.json",
+    "title": "Where is Your Center of Gravity ?",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "where-is-your-center-of-gravity-",
+    "event_id": "5a203bda3c5b0f63bc66705b27cbcb2dfd35f5761abfa2b51a59b65cab2101c2",
+    "created_at": 1779677861,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/5a203bda3c5b0f63bc66705b27cbcb2dfd35f5761abfa2b51a59b65cab2101c2.json",
+    "title": "Where is Your Center of Gravity ?",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "builders-journal---friday-may-22-2026",
     "event_id": "503924a3abf3a9c53429262fa9ec46081837b82f77791e60d666b1f2dabf572e",
     "created_at": 1779654195,
