@@ -12,6 +12,17 @@
     "published": false
   },
   {
+    "slug": null,
+    "event_id": "e6b2d31e7fd98b536f98599ca5195a1e2e903c99224c230c0bc459df96e01916",
+    "created_at": 1779692070,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/e6b2d31e7fd98b536f98599ca5195a1e2e903c99224c230c0bc459df96e01916.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "where-is-your-center-of-gravity-",
     "event_id": "49b1b819b80fe51406c5665fb5835b00553febf92c028bee0fbd0ba531c77bc7",
     "created_at": 1779677980,

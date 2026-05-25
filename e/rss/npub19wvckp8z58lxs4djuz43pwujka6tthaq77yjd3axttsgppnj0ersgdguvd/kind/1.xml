@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 25 May 2026 19:47:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 20:35:54 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 e6b2d31e7f</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e6b2d31e7fd98b536f98599ca5195a1e2e903c99224c230c0bc459df96e01916</link>
+      <guid isPermaLink="false">e6b2d31e7fd98b536f98599ca5195a1e2e903c99224c230c0bc459df96e01916</guid>
+      <pubDate>Mon, 25 May 2026 06:54:30 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 fd3bc3d25c</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=fd3bc3d25ce72598678dab6b4b0ef12986268532feb568aab3c3771dd0391262</link>
@@ -4991,16 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=ea36e8c2ce029e7d4003590d97aff99459c0806fb61a57fe8df0359bd557ebae</link>
       <guid isPermaLink="false">ea36e8c2ce029e7d4003590d97aff99459c0806fb61a57fe8df0359bd557ebae</guid>
       <pubDate>Fri, 09 Jan 2026 00:40:52 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sovereignty isn’t isolation. 1/7/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ad8f157410e66cfe16c2c57cd4e84a0adc8073293c111c9f465673592a4691c6</link>
-      <guid isPermaLink="false">ad8f157410e66cfe16c2c57cd4e84a0adc8073293c111c9f465673592a4691c6</guid>
-      <pubDate>Fri, 09 Jan 2026 00:39:54 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
