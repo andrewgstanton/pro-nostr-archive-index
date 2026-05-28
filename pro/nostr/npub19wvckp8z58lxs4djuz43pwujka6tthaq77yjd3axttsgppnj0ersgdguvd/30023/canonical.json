@@ -3825,5 +3825,10 @@
     "latest_event_id": "65666606f79d57c6b231a058a38ab8fa3e69363fab3c10a7b08f1eeb59e5c663",
     "latest_year": 2026,
     "published": false
+  },
+  "builders-journal---wednesday-may-27-2026": {
+    "latest_event_id": "b92dd0403477c6bdac7f9df9d1320e891b0e8a99ae239a1e6f67d441e4b305ec",
+    "latest_year": 2026,
+    "published": false
   }
 }
