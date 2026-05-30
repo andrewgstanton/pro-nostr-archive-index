@@ -5,7 +5,7 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 30 May 2026 19:19:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 20:15:14 GMT</lastBuildDate>
     <item>
       <title>kind:1 be017641ec</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=be017641ecf723b80ac90216c3d67e8123c7729e5ebf14afd9955d35c367bbc3</link>
@@ -2547,6 +2547,16 @@
       <category>paid:false</category>
     </item>
     <item>
+      <title>kind:1 39852fb19f</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=39852fb19f9545651b3359118df20176fdd3f12d291eb6dfce5c3f1ec17b5b89</link>
+      <guid isPermaLink="false">39852fb19f9545651b3359118df20176fdd3f12d291eb6dfce5c3f1ec17b5b89</guid>
+      <pubDate>Sun, 15 Mar 2026 08:00:13 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
       <title>Sabbath and the Promise of the New Creation</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=8d215e561adeaf90524c5a8aadef132d6c89689ef41a1f1712de0b3514e36a5e</link>
       <guid isPermaLink="false">8d215e561adeaf90524c5a8aadef132d6c89689ef41a1f1712de0b3514e36a5e</guid>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">3a44d5052d2131aa8a7d89bf378165999013a882d43ae448b72807191aea8967</guid>
       <pubDate>Fri, 13 Feb 2026 19:17:03 GMT</pubDate>
       <description><![CDATA[This chapter explains why Continuum began — not as a startup idea, but as a quiet response to friction. What began as a few signed notes on Nostr evolved into a deeper realization about authorship, ownership, dependency, and local-first infrastructure. “Why I Started” is not about ambition; it is about coherence.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Sovereign Archive: The Canonical Bitcoin Chronicles Index</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=107b3983847e366d8b55871aacaa1eabcd23b2681f46a0bb75900069a713f3b8</link>
-      <guid isPermaLink="false">107b3983847e366d8b55871aacaa1eabcd23b2681f46a0bb75900069a713f3b8</guid>
-      <pubDate>Fri, 13 Feb 2026 01:34:20 GMT</pubDate>
-      <description><![CDATA[This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

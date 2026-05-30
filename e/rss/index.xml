@@ -5,7 +5,7 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 30 May 2026 19:19:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 20:15:14 GMT</lastBuildDate>
     <item>
       <title>kind:1 be017641ec</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=be017641ecf723b80ac90216c3d67e8123c7729e5ebf14afd9955d35c367bbc3</link>
@@ -2707,6 +2707,16 @@
       <category>paid:false</category>
     </item>
     <item>
+      <title>kind:1 39852fb19f</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=39852fb19f9545651b3359118df20176fdd3f12d291eb6dfce5c3f1ec17b5b89</link>
+      <guid isPermaLink="false">39852fb19f9545651b3359118df20176fdd3f12d291eb6dfce5c3f1ec17b5b89</guid>
+      <pubDate>Sun, 15 Mar 2026 08:00:13 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
       <title>Sabbath and the Promise of the New Creation</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=8d215e561adeaf90524c5a8aadef132d6c89689ef41a1f1712de0b3514e36a5e</link>
       <guid isPermaLink="false">8d215e561adeaf90524c5a8aadef132d6c89689ef41a1f1712de0b3514e36a5e</guid>
@@ -4991,16 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=0e7b6aa74084402077bb4d7b902072570d4f50cbb3b0c7f7558d2b8d89175743</link>
       <guid isPermaLink="false">0e7b6aa74084402077bb4d7b902072570d4f50cbb3b0c7f7558d2b8d89175743</guid>
       <pubDate>Mon, 16 Feb 2026 21:23:20 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>4. Small Circles Are Stronger - 2/14/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=530b57dc72b190f46ba242fa65884d73068597ec6cdc29770c2a5ab1aa456b9c</link>
-      <guid isPermaLink="false">530b57dc72b190f46ba242fa65884d73068597ec6cdc29770c2a5ab1aa456b9c</guid>
-      <pubDate>Mon, 16 Feb 2026 21:21:06 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
