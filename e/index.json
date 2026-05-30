@@ -1,5 +1,16 @@
 [
   {
+    "slug": null,
+    "event_id": "be017641ecf723b80ac90216c3d67e8123c7729e5ebf14afd9955d35c367bbc3",
+    "created_at": 1780019598,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/be017641ecf723b80ac90216c3d67e8123c7729e5ebf14afd9955d35c367bbc3.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "cotinuum-consulting---short-architecture--risk-reviews",
     "event_id": "29c50b20ac9fc53ed6f89641a8d2dcf49f32400344f95a3a554c31e008f36036",
     "created_at": 1780008776,

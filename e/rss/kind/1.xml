@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 28 May 2026 23:16:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 05:52:35 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 be017641ec</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=be017641ecf723b80ac90216c3d67e8123c7729e5ebf14afd9955d35c367bbc3</link>
+      <guid isPermaLink="false">be017641ecf723b80ac90216c3d67e8123c7729e5ebf14afd9955d35c367bbc3</guid>
+      <pubDate>Fri, 29 May 2026 01:53:18 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 7cabe73401</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=7cabe73401b7cebf0554a009eccfc94a6b93c04fa04b3216b50d884a264c13dd</link>
@@ -4991,16 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=d1c5be313ad5ebc0a29ffd0ec3b4e2f4d0d2f8ce6bc3c8ea6a4115deaef051a9</link>
       <guid isPermaLink="false">d1c5be313ad5ebc0a29ffd0ec3b4e2f4d0d2f8ce6bc3c8ea6a4115deaef051a9</guid>
       <pubDate>Thu, 22 Jan 2026 19:24:50 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 5 - 1/22/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=836f7ea63f7aea57c80914d75a4de3da8dfda03543f2004079baa0c13abc621d</link>
-      <guid isPermaLink="false">836f7ea63f7aea57c80914d75a4de3da8dfda03543f2004079baa0c13abc621d</guid>
-      <pubDate>Thu, 22 Jan 2026 18:21:34 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>

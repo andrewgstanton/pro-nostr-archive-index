@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 28 May 2026 23:16:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 05:52:35 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 be017641ec</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=be017641ecf723b80ac90216c3d67e8123c7729e5ebf14afd9955d35c367bbc3</link>
+      <guid isPermaLink="false">be017641ecf723b80ac90216c3d67e8123c7729e5ebf14afd9955d35c367bbc3</guid>
+      <pubDate>Fri, 29 May 2026 01:53:18 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 7cabe73401</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=7cabe73401b7cebf0554a009eccfc94a6b93c04fa04b3216b50d884a264c13dd</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">107b3983847e366d8b55871aacaa1eabcd23b2681f46a0bb75900069a713f3b8</guid>
       <pubDate>Fri, 13 Feb 2026 01:34:20 GMT</pubDate>
       <description><![CDATA[This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 The Bitcoin Chronicles - Arc 2.F.3 - The Surrender of Delay</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e52d6bf30564408f0725292bfa86a049211e213bb0401eecb21b5f53b80d3d13</link>
-      <guid isPermaLink="false">e52d6bf30564408f0725292bfa86a049211e213bb0401eecb21b5f53b80d3d13</guid>
-      <pubDate>Fri, 13 Feb 2026 01:31:13 GMT</pubDate>
-      <description><![CDATA[As the Entanglement Bridge matures, institutions built on delay confront their final choice: cling to procedural time or surrender to instant settlement. This chapter follows the moment when delay ceases to be defensible and becomes optional — and what happens when power built on friction must either transform or dissolve.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
