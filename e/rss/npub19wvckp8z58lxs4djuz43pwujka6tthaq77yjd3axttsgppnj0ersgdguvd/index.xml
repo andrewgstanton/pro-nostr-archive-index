@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 31 May 2026 04:27:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 05:35:01 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 e277ba542f</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e277ba542fdb3a70c5d9a26ed5fab8cc484574e648ce38973d1e8aa0e306b276</link>
+      <guid isPermaLink="false">e277ba542fdb3a70c5d9a26ed5fab8cc484574e648ce38973d1e8aa0e306b276</guid>
+      <pubDate>Sun, 31 May 2026 05:24:45 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 da80b888a4</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=da80b888a434c814f90a47f69295d463646dd4a54742f07881d93f7f81c834eb</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">c6f7650743512ddebf8669baeeb2796dc42acbc0426ee51a6babc9d1d0855346</guid>
       <pubDate>Wed, 25 Feb 2026 19:31:28 GMT</pubDate>
       <description><![CDATA[Obscurity tests conviction. Growth tests clarity. In this chapter, I explore what would happen if Continuum scaled faster than expected. The real danger would not be failure. It would be drift—convenience pressure, feature accumulation, and the quiet erosion of simplicity. If Continuum grows, it must remain understandable, constrained, and structurally coherent.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Building Continuum - Chapter 28 — The Road Ahead</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=186003a789ea991d7c40b52e90693b16fbbe16522130819bca8bfcf3ad814ae2</link>
-      <guid isPermaLink="false">186003a789ea991d7c40b52e90693b16fbbe16522130819bca8bfcf3ad814ae2</guid>
-      <pubDate>Wed, 25 Feb 2026 19:28:50 GMT</pubDate>
-      <description><![CDATA[Continuum is not finished. Some elements remain incomplete—relay management per identity, targeted publishing, offline signing, mirrored dashboards, large encrypted attachments, and a sovereign marketplace layer. But incompleteness is not incoherence. This chapter reflects on what Continuum might become, what happens if it fails, and how building it fundamentally transformed the builder. The system may evolve. The shift does not reverse. Freedom is worth building for.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

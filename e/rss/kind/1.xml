@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 31 May 2026 04:27:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 05:35:01 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 e277ba542f</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e277ba542fdb3a70c5d9a26ed5fab8cc484574e648ce38973d1e8aa0e306b276</link>
+      <guid isPermaLink="false">e277ba542fdb3a70c5d9a26ed5fab8cc484574e648ce38973d1e8aa0e306b276</guid>
+      <pubDate>Sun, 31 May 2026 05:24:45 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 da80b888a4</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=da80b888a434c814f90a47f69295d463646dd4a54742f07881d93f7f81c834eb</link>
@@ -4991,16 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=efec3bef3b56c8cf3e3ff51598f038f213528637eada8bbd1081394b93988f53</link>
       <guid isPermaLink="false">efec3bef3b56c8cf3e3ff51598f038f213528637eada8bbd1081394b93988f53</guid>
       <pubDate>Thu, 05 Feb 2026 18:31:54 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 3 — Sovereignty Is a UX Constraint - 2/5/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3c92848074d7d3aa4c38c02db934aefca9afc3ffaad1f3e209145f31fd12c9c3</link>
-      <guid isPermaLink="false">3c92848074d7d3aa4c38c02db934aefca9afc3ffaad1f3e209145f31fd12c9c3</guid>
-      <pubDate>Thu, 05 Feb 2026 18:30:44 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
