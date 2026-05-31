@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 31 May 2026 05:35:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 06:55:43 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 9eafe9fd32</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9eafe9fd32ab7b5b9462c0cfbd06b3fa509d57d52e37284585f5647bbb016078</link>
+      <guid isPermaLink="false">9eafe9fd32ab7b5b9462c0cfbd06b3fa509d57d52e37284585f5647bbb016078</guid>
+      <pubDate>Sun, 31 May 2026 06:44:30 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 e277ba542f</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=e277ba542fdb3a70c5d9a26ed5fab8cc484574e648ce38973d1e8aa0e306b276</link>
@@ -4991,16 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=ee24208af0930c2eb91c3015a2ae4e03ab3906004c999a4e8a17ffe07af4ff0a</link>
       <guid isPermaLink="false">ee24208af0930c2eb91c3015a2ae4e03ab3906004c999a4e8a17ffe07af4ff0a</guid>
       <pubDate>Wed, 04 Feb 2026 01:19:10 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 1 - 2/3/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ca6106753d23c8c7c5cc8015d79aa08e6f0303ae0768fbe097d24b71143a7380</link>
-      <guid isPermaLink="false">ca6106753d23c8c7c5cc8015d79aa08e6f0303ae0768fbe097d24b71143a7380</guid>
-      <pubDate>Wed, 04 Feb 2026 01:17:54 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>

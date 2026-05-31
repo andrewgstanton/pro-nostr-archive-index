@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 31 May 2026 05:35:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 06:55:43 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 9eafe9fd32</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9eafe9fd32ab7b5b9462c0cfbd06b3fa509d57d52e37284585f5647bbb016078</link>
+      <guid isPermaLink="false">9eafe9fd32ab7b5b9462c0cfbd06b3fa509d57d52e37284585f5647bbb016078</guid>
+      <pubDate>Sun, 31 May 2026 06:44:30 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 e277ba542f</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=e277ba542fdb3a70c5d9a26ed5fab8cc484574e648ce38973d1e8aa0e306b276</link>
@@ -4993,16 +5003,6 @@
       <pubDate>Wed, 25 Feb 2026 19:39:37 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Building Continuum - Chapter 27 — If It Scales Unexpectedly</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c6f7650743512ddebf8669baeeb2796dc42acbc0426ee51a6babc9d1d0855346</link>
-      <guid isPermaLink="false">c6f7650743512ddebf8669baeeb2796dc42acbc0426ee51a6babc9d1d0855346</guid>
-      <pubDate>Wed, 25 Feb 2026 19:31:28 GMT</pubDate>
-      <description><![CDATA[Obscurity tests conviction. Growth tests clarity. In this chapter, I explore what would happen if Continuum scaled faster than expected. The real danger would not be failure. It would be drift—convenience pressure, feature accumulation, and the quiet erosion of simplicity. If Continuum grows, it must remain understandable, constrained, and structurally coherent.]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
