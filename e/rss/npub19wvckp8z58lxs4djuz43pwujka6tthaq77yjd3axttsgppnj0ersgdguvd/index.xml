@@ -5,7 +5,27 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 30 May 2026 21:42:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 04:01:48 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 da80b888a4</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=da80b888a434c814f90a47f69295d463646dd4a54742f07881d93f7f81c834eb</link>
+      <guid isPermaLink="false">da80b888a434c814f90a47f69295d463646dd4a54742f07881d93f7f81c834eb</guid>
+      <pubDate>Sun, 31 May 2026 02:49:13 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 63baf8dd0f</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=63baf8dd0fcebe884579d8bea63dcc041d76e91d7cbf0ce7f56235de53780795</link>
+      <guid isPermaLink="false">63baf8dd0fcebe884579d8bea63dcc041d76e91d7cbf0ce7f56235de53780795</guid>
+      <pubDate>Sun, 31 May 2026 00:45:46 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 be017641ec</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=be017641ecf723b80ac90216c3d67e8123c7729e5ebf14afd9955d35c367bbc3</link>
@@ -4982,26 +5002,6 @@
       <guid isPermaLink="false">186003a789ea991d7c40b52e90693b16fbbe16522130819bca8bfcf3ad814ae2</guid>
       <pubDate>Wed, 25 Feb 2026 19:28:50 GMT</pubDate>
       <description><![CDATA[Continuum is not finished. Some elements remain incomplete—relay management per identity, targeted publishing, offline signing, mirrored dashboards, large encrypted attachments, and a sovereign marketplace layer. But incompleteness is not incoherence. This chapter reflects on what Continuum might become, what happens if it fails, and how building it fundamentally transformed the builder. The system may evolve. The shift does not reverse. Freedom is worth building for.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Local-First Is Not a Feature. It Is Freedom.</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=cf3378c3cc2584358ed8a694fcaa9d6222231aef27f3c84732f2942df1242c65</link>
-      <guid isPermaLink="false">cf3378c3cc2584358ed8a694fcaa9d6222231aef27f3c84732f2942df1242c65</guid>
-      <pubDate>Wed, 25 Feb 2026 19:26:53 GMT</pubDate>
-      <description><![CDATA[I’ve been writing about freedom lately — and noticed how naturally I drifted into Scripture. That wasn’t accidental. The freedom I feel building and publishing locally-first isn’t just technical. It’s structural. And it mirrors deeper truths about custody, authority, and release from silent masters.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>I Thought I Was Being Ignored. Then I Realized I Was Free.</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f45a702634a94f761392dce173df0f7a1fb32809a1d6cd226fe5e3476088614d</link>
-      <guid isPermaLink="false">f45a702634a94f761392dce173df0f7a1fb32809a1d6cd226fe5e3476088614d</guid>
-      <pubDate>Wed, 25 Feb 2026 19:26:21 GMT</pubDate>
-      <description><![CDATA[There are days when it feels like everyone else is being seen — more replies, more likes, more engagement — while my work drifts quietly past. I felt that. Deeply. But then something shifted. I realized: even if no one reacts, I am still free. And that realization pulled me back from despair.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
