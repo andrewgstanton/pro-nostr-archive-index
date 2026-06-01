@@ -2753,5 +2753,17 @@
     "event_id": "d77734901826b2c5c9c823525b61c348e124ca4895b0480aaf392f12aec779de",
     "created_at": 1780168204,
     "published": false
+  },
+  {
+    "slug": "builders-journal---saturday-may-30-2026",
+    "event_id": "fb09d326f9d54e1aac55e72c3beb5d2619b14efb27fcc0dd54cc851e58783159",
+    "created_at": 1780334668,
+    "published": false
+  },
+  {
+    "slug": "builders-journal---sunday-may-31-2026",
+    "event_id": "233d6909a7eaa54b0a56dd694972a6da3ce92032d2a4f4256a8eac00e933eefe",
+    "created_at": 1780334813,
+    "published": false
   }
 ]
