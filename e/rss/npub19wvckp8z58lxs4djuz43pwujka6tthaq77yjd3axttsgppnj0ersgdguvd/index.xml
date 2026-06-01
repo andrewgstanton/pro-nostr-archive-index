@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 31 May 2026 06:55:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 17:40:04 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 b9cc50ba05</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b9cc50ba05afd01b6ebbbde6b0733380a11d24c3b4fddd4e2f6e1a5ae9b46d9b</link>
+      <guid isPermaLink="false">b9cc50ba05afd01b6ebbbde6b0733380a11d24c3b4fddd4e2f6e1a5ae9b46d9b</guid>
+      <pubDate>Sun, 31 May 2026 21:58:30 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 9eafe9fd32</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=9eafe9fd32ab7b5b9462c0cfbd06b3fa509d57d52e37284585f5647bbb016078</link>
@@ -4993,16 +5003,6 @@
       <pubDate>Wed, 25 Feb 2026 19:47:45 GMT</pubDate>
       <description><![CDATA[Growth is welcome. But growth that fractures trust boundaries is corrosion. In this chapter, I confront the real temptation behind slow adoption—the shortcut of central hosting—and explain why Continuum rests on seven rules that do not bend. These rules are not aesthetic preferences; they are structural constraints designed to prevent leverage, inconsistency, and quiet self-betrayal. Ease is welcome. Dilution is not.]]></description>
       <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 bdc6131e02</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=bdc6131e02da2d97f6224ea6577fc20f0d0e013aa24082b96b3883f72aa715bb</link>
-      <guid isPermaLink="false">bdc6131e02da2d97f6224ea6577fc20f0d0e013aa24082b96b3883f72aa715bb</guid>
-      <pubDate>Wed, 25 Feb 2026 19:39:37 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>

@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 31 May 2026 06:55:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 17:40:04 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 b9cc50ba05</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b9cc50ba05afd01b6ebbbde6b0733380a11d24c3b4fddd4e2f6e1a5ae9b46d9b</link>
+      <guid isPermaLink="false">b9cc50ba05afd01b6ebbbde6b0733380a11d24c3b4fddd4e2f6e1a5ae9b46d9b</guid>
+      <pubDate>Sun, 31 May 2026 21:58:30 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 9eafe9fd32</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=9eafe9fd32ab7b5b9462c0cfbd06b3fa509d57d52e37284585f5647bbb016078</link>
@@ -4991,16 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=9ad596241abe5fba4f536fe81b21a9b293dc45175ac25c0e710107670ab8a122</link>
       <guid isPermaLink="false">9ad596241abe5fba4f536fe81b21a9b293dc45175ac25c0e710107670ab8a122</guid>
       <pubDate>Thu, 05 Feb 2026 18:38:42 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 5 — Agency Beats Engagement - 2/5/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=81274d0d8f6224cb26a0304dd01e61b9b149a310ffb113ffdbef9e92eac49ed1</link>
-      <guid isPermaLink="false">81274d0d8f6224cb26a0304dd01e61b9b149a310ffb113ffdbef9e92eac49ed1</guid>
-      <pubDate>Thu, 05 Feb 2026 18:33:40 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
