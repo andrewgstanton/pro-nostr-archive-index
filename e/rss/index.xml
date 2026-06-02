@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 01 Jun 2026 17:40:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 02:17:28 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 d8a474a4a9</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d8a474a4a9b69c0451a4dfdfce9032908fcaf5fa02eef317539ad7a076e4b315</link>
+      <guid isPermaLink="false">d8a474a4a9b69c0451a4dfdfce9032908fcaf5fa02eef317539ad7a076e4b315</guid>
+      <pubDate>Tue, 02 Jun 2026 02:04:56 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 b9cc50ba05</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=b9cc50ba05afd01b6ebbbde6b0733380a11d24c3b4fddd4e2f6e1a5ae9b46d9b</link>
@@ -4993,16 +5003,6 @@
       <pubDate>Tue, 03 Mar 2026 02:55:58 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Victorious Grace and the End of Fear</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=4d63f8a2926819d2ca48bcbd2900040ad628c4e2847129121abc857acdedd46f</link>
-      <guid isPermaLink="false">4d63f8a2926819d2ca48bcbd2900040ad628c4e2847129121abc857acdedd46f</guid>
-      <pubDate>Sun, 01 Mar 2026 20:08:10 GMT</pubDate>
-      <description><![CDATA[Fear is the hidden operating system of fallen structures. The victorious gospel removes fear at its root. If Christ is truly risen, then death, scarcity, and exclusion are not ultimate authorities.]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>

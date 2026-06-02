@@ -1,5 +1,16 @@
 [
   {
+    "slug": null,
+    "event_id": "d8a474a4a9b69c0451a4dfdfce9032908fcaf5fa02eef317539ad7a076e4b315",
+    "created_at": 1780365896,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/d8a474a4a9b69c0451a4dfdfce9032908fcaf5fa02eef317539ad7a076e4b315.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "builders-journal---sunday-may-31-2026",
     "event_id": "233d6909a7eaa54b0a56dd694972a6da3ce92032d2a4f4256a8eac00e933eefe",
     "created_at": 1780334813,

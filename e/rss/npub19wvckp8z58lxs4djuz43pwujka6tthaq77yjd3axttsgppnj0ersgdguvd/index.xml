@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 01 Jun 2026 17:40:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 02:17:28 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 d8a474a4a9</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d8a474a4a9b69c0451a4dfdfce9032908fcaf5fa02eef317539ad7a076e4b315</link>
+      <guid isPermaLink="false">d8a474a4a9b69c0451a4dfdfce9032908fcaf5fa02eef317539ad7a076e4b315</guid>
+      <pubDate>Tue, 02 Jun 2026 02:04:56 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 b9cc50ba05</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=b9cc50ba05afd01b6ebbbde6b0733380a11d24c3b4fddd4e2f6e1a5ae9b46d9b</link>
@@ -4993,16 +5003,6 @@
       <pubDate>Thu, 26 Feb 2026 01:46:44 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Buidling Continuum - Chap. 26 - Rules That Do Not Bend</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d546ac2b13b0f655419b9acc7cf717d7cb269777ec646687b36c5536488427e8</link>
-      <guid isPermaLink="false">d546ac2b13b0f655419b9acc7cf717d7cb269777ec646687b36c5536488427e8</guid>
-      <pubDate>Wed, 25 Feb 2026 19:47:45 GMT</pubDate>
-      <description><![CDATA[Growth is welcome. But growth that fractures trust boundaries is corrosion. In this chapter, I confront the real temptation behind slow adoption—the shortcut of central hosting—and explain why Continuum rests on seven rules that do not bend. These rules are not aesthetic preferences; they are structural constraints designed to prevent leverage, inconsistency, and quiet self-betrayal. Ease is welcome. Dilution is not.]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
