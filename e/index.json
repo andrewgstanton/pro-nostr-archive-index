@@ -1,6 +1,17 @@
 [
   {
     "slug": null,
+    "event_id": "b1968316cba85947874c953e5a781f76363b38a1afa342f68c52df90d7f188bc",
+    "created_at": 1780366303,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/b1968316cba85947874c953e5a781f76363b38a1afa342f68c52df90d7f188bc.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
     "event_id": "d8a474a4a9b69c0451a4dfdfce9032908fcaf5fa02eef317539ad7a076e4b315",
     "created_at": 1780365896,
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
@@ -13717,8 +13728,8 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 30023,
     "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/1c7a6261ac580fb93091f4a30985d60b3831b9d999ed7ae5ed8d1c8c709cf014.json",
-    "title": "🔒 The Bitcoin Chronicles - 1.F.5 - Rumors of Simultaneity",
-    "summary": "Long before simultaneity became operational, it existed as rumor—circulating through sealed labs, cautious grants, and private unease. This essay traces how the possibility of shared time unsettled a civilization shaped by delay.",
+    "title": "",
+    "summary": "",
     "paid": false
   },
   {
