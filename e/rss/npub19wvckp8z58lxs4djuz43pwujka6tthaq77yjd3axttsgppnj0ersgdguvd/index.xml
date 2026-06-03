@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 03 Jun 2026 02:31:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 02:47:01 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 bf0d9a64cb</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=bf0d9a64cbdab12cb58da8891f9890bbbe3523c7a7282cda6b5131a1bb7af77a</link>
+      <guid isPermaLink="false">bf0d9a64cbdab12cb58da8891f9890bbbe3523c7a7282cda6b5131a1bb7af77a</guid>
+      <pubDate>Wed, 03 Jun 2026 02:37:08 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 097f1835ae</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=097f1835ae705184b24b9da1e7388b8629a819b36e0fc6a2a8ec868732fc06b5</link>
@@ -4993,16 +5003,6 @@
       <pubDate>Thu, 26 Feb 2026 04:43:11 GMT</pubDate>
       <description><![CDATA[Exit is often misunderstood as disloyalty or rebellion. In architectural terms, exit is the proof of voluntary participation. Systems that allow full data export, identity portability, and independent archival demonstrate confidence. Systems that complicate departure reveal dependency. This chapter explores exit as structural dignity — not hostility — and why portability must be embedded in design rather than promised in policy.]]></description>
       <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 d467a07c09</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d467a07c095739d0625f8d1f8e74baf7008890dd83c533e7a48b31a0ffec3f69</link>
-      <guid isPermaLink="false">d467a07c095739d0625f8d1f8e74baf7008890dd83c533e7a48b31a0ffec3f69</guid>
-      <pubDate>Thu, 26 Feb 2026 01:51:54 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>

@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 03 Jun 2026 02:31:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 02:47:01 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 bf0d9a64cb</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=bf0d9a64cbdab12cb58da8891f9890bbbe3523c7a7282cda6b5131a1bb7af77a</link>
+      <guid isPermaLink="false">bf0d9a64cbdab12cb58da8891f9890bbbe3523c7a7282cda6b5131a1bb7af77a</guid>
+      <pubDate>Wed, 03 Jun 2026 02:37:08 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 097f1835ae</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=097f1835ae705184b24b9da1e7388b8629a819b36e0fc6a2a8ec868732fc06b5</link>
@@ -4991,16 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=a0c85dbcd206f53276905a8a1c5822b14a22a60a298cc697109c3802937228ee</link>
       <guid isPermaLink="false">a0c85dbcd206f53276905a8a1c5822b14a22a60a298cc697109c3802937228ee</guid>
       <pubDate>Wed, 04 Feb 2026 15:54:13 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum - Local First Publishing Clarification</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0b601720a53b4278bf919d93ea7ea7878dabaf7cbfc1c7a86c7d810b3ed5d985</link>
-      <guid isPermaLink="false">0b601720a53b4278bf919d93ea7ea7878dabaf7cbfc1c7a86c7d810b3ed5d985</guid>
-      <pubDate>Wed, 04 Feb 2026 07:42:58 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
