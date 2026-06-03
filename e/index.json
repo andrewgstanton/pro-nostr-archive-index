@@ -1,6 +1,28 @@
 [
   {
     "slug": null,
+    "event_id": "097f1835ae705184b24b9da1e7388b8629a819b36e0fc6a2a8ec868732fc06b5",
+    "created_at": 1780452687,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/097f1835ae705184b24b9da1e7388b8629a819b36e0fc6a2a8ec868732fc06b5.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "bc7ae1dc940216a732ace68c85a019271a44141e5f9c76b69750ed5cac794d46",
+    "created_at": 1780451463,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/bc7ae1dc940216a732ace68c85a019271a44141e5f9c76b69750ed5cac794d46.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
     "event_id": "39ccee791cfea97246acc3902781eecefb81b1aef6b4b81043278801bf2e9501",
     "created_at": 1780447417,
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
@@ -23815,8 +23837,8 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 30023,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/c52ca93e9209d9c6a6572fd9f4e368312f1f168413e7a7fdc204ae2538be64d6.json",
-    "title": "",
-    "summary": "",
+    "title": "Free Article 1 (Sept. 22, 2025): Building What You Won’t See",
+    "summary": "Low time preference means building cathedrals, code, and communities we will never personally use. This article explores the humility and hope of creating legacies beyond our lifetime.",
     "paid": false
   },
   {

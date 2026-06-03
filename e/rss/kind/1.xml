@@ -5,7 +5,27 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 03 Jun 2026 00:53:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 02:31:25 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 097f1835ae</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=097f1835ae705184b24b9da1e7388b8629a819b36e0fc6a2a8ec868732fc06b5</link>
+      <guid isPermaLink="false">097f1835ae705184b24b9da1e7388b8629a819b36e0fc6a2a8ec868732fc06b5</guid>
+      <pubDate>Wed, 03 Jun 2026 02:11:27 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 bc7ae1dc94</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=bc7ae1dc940216a732ace68c85a019271a44141e5f9c76b69750ed5cac794d46</link>
+      <guid isPermaLink="false">bc7ae1dc940216a732ace68c85a019271a44141e5f9c76b69750ed5cac794d46</guid>
+      <pubDate>Wed, 03 Jun 2026 01:51:03 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 39ccee791c</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=39ccee791cfea97246acc3902781eecefb81b1aef6b4b81043278801bf2e9501</link>
@@ -4981,26 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=c11a4f35ef107c590b68b261f4973a76facca38748c0520a6c4518d2072b9016</link>
       <guid isPermaLink="false">c11a4f35ef107c590b68b261f4973a76facca38748c0520a6c4518d2072b9016</guid>
       <pubDate>Fri, 06 Feb 2026 18:15:37 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 1 - 2/6/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=fd04a2b6331d49af41a4f67c6f478e2415467bb81939fbd99f06be5656a4a866</link>
-      <guid isPermaLink="false">fd04a2b6331d49af41a4f67c6f478e2415467bb81939fbd99f06be5656a4a866</guid>
-      <pubDate>Fri, 06 Feb 2026 18:06:11 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Turned off WiFi - Continuum kept working</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=dc7c20c61fe64e83a56a2a8c81751ca37ff33fc14938fd268e50bbc87103d48c</link>
-      <guid isPermaLink="false">dc7c20c61fe64e83a56a2a8c81751ca37ff33fc14938fd268e50bbc87103d48c</guid>
-      <pubDate>Fri, 06 Feb 2026 01:00:35 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
