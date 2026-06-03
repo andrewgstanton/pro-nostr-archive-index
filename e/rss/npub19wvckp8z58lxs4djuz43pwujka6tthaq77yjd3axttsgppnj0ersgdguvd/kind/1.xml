@@ -5,7 +5,67 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 03 Jun 2026 02:47:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 04:39:35 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 4310edd407</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4310edd4076f958aba648dbfc15330fbf7e8d3e4c6d1b819467bcab818041082</link>
+      <guid isPermaLink="false">4310edd4076f958aba648dbfc15330fbf7e8d3e4c6d1b819467bcab818041082</guid>
+      <pubDate>Wed, 03 Jun 2026 04:27:19 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 30673e9530</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=30673e953090a9b1256f76e69d0be564a7dafac91ec3779992a364d00d4d51a4</link>
+      <guid isPermaLink="false">30673e953090a9b1256f76e69d0be564a7dafac91ec3779992a364d00d4d51a4</guid>
+      <pubDate>Wed, 03 Jun 2026 03:59:43 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 0fb09127f4</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=0fb09127f4271cc021f68a3717b1537ddd615ba2a97ab78c943fcc3f2bce9ad8</link>
+      <guid isPermaLink="false">0fb09127f4271cc021f68a3717b1537ddd615ba2a97ab78c943fcc3f2bce9ad8</guid>
+      <pubDate>Wed, 03 Jun 2026 03:50:36 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 509d1645e6</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=509d1645e6cc713b31f444b2208a98458b9af30098be4abeea72fdf7dd346bba</link>
+      <guid isPermaLink="false">509d1645e6cc713b31f444b2208a98458b9af30098be4abeea72fdf7dd346bba</guid>
+      <pubDate>Wed, 03 Jun 2026 03:44:42 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 e3ebdfee4a</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e3ebdfee4a9f80e4c3e2b4a19c48b0fd4751db14649d06315931641e5d46907c</link>
+      <guid isPermaLink="false">e3ebdfee4a9f80e4c3e2b4a19c48b0fd4751db14649d06315931641e5d46907c</guid>
+      <pubDate>Wed, 03 Jun 2026 03:34:28 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 ad7854d6fb</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ad7854d6fbd1f87c1fc02f7586f0b7f44c496f7a0a85fdbbb63a4c348d6e7f7f</link>
+      <guid isPermaLink="false">ad7854d6fbd1f87c1fc02f7586f0b7f44c496f7a0a85fdbbb63a4c348d6e7f7f</guid>
+      <pubDate>Wed, 03 Jun 2026 03:18:32 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 bf0d9a64cb</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=bf0d9a64cbdab12cb58da8891f9890bbbe3523c7a7282cda6b5131a1bb7af77a</link>
@@ -4941,66 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=fe36fb5f46dd748a2a1a0a13fd7d9ef13963f3055ef17626104741e491847f62</link>
       <guid isPermaLink="false">fe36fb5f46dd748a2a1a0a13fd7d9ef13963f3055ef17626104741e491847f62</guid>
       <pubDate>Wed, 04 Feb 2026 18:25:33 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 4 - 2/4/2026 - Silence Is Still Feedback</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=146b43096497c1ee3d6848ececb9fafaee8a7184b8f1ba05945ff7bd8198b9d5</link>
-      <guid isPermaLink="false">146b43096497c1ee3d6848ececb9fafaee8a7184b8f1ba05945ff7bd8198b9d5</guid>
-      <pubDate>Wed, 04 Feb 2026 18:24:02 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 3 - 2/4/2026 - Durability Is an Ethical Choice</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=85240098882fa1ee4d7c1b1a48c48ce8192ad478ab6767134ec4b3457e2177ee</link>
-      <guid isPermaLink="false">85240098882fa1ee4d7c1b1a48c48ce8192ad478ab6767134ec4b3457e2177ee</guid>
-      <pubDate>Wed, 04 Feb 2026 18:22:06 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 2 - 2/4/2026 - Most Software Optimizes for Avoidance</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=4e21df4a8012177b6a6c671a8ca62047e2e9efc5e66491a1aa38a6bfcdacee04</link>
-      <guid isPermaLink="false">4e21df4a8012177b6a6c671a8ca62047e2e9efc5e66491a1aa38a6bfcdacee04</guid>
-      <pubDate>Wed, 04 Feb 2026 18:19:46 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 1 - 2/4/2026 - Sovereignty Is a Discipline, Not a Feature</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=db51bd8c8a47ad213f70f7f7893cfafd328dc703471b0ba1d1b828564a0cbc06</link>
-      <guid isPermaLink="false">db51bd8c8a47ad213f70f7f7893cfafd328dc703471b0ba1d1b828564a0cbc06</guid>
-      <pubDate>Wed, 04 Feb 2026 18:17:23 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 5955c992df</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5955c992dfa9b9369eb2d8c9bd62beeffa34f508a6bc6087b14d10373934d064</link>
-      <guid isPermaLink="false">5955c992dfa9b9369eb2d8c9bd62beeffa34f508a6bc6087b14d10373934d064</guid>
-      <pubDate>Wed, 04 Feb 2026 17:27:41 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 a0c85dbcd2</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a0c85dbcd206f53276905a8a1c5822b14a22a60a298cc697109c3802937228ee</link>
-      <guid isPermaLink="false">a0c85dbcd206f53276905a8a1c5822b14a22a60a298cc697109c3802937228ee</guid>
-      <pubDate>Wed, 04 Feb 2026 15:54:13 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>

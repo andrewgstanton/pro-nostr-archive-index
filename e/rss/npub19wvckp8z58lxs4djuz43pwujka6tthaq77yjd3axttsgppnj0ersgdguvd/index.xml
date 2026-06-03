@@ -5,7 +5,67 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 03 Jun 2026 02:47:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 04:39:35 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 4310edd407</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4310edd4076f958aba648dbfc15330fbf7e8d3e4c6d1b819467bcab818041082</link>
+      <guid isPermaLink="false">4310edd4076f958aba648dbfc15330fbf7e8d3e4c6d1b819467bcab818041082</guid>
+      <pubDate>Wed, 03 Jun 2026 04:27:19 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 30673e9530</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=30673e953090a9b1256f76e69d0be564a7dafac91ec3779992a364d00d4d51a4</link>
+      <guid isPermaLink="false">30673e953090a9b1256f76e69d0be564a7dafac91ec3779992a364d00d4d51a4</guid>
+      <pubDate>Wed, 03 Jun 2026 03:59:43 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 0fb09127f4</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=0fb09127f4271cc021f68a3717b1537ddd615ba2a97ab78c943fcc3f2bce9ad8</link>
+      <guid isPermaLink="false">0fb09127f4271cc021f68a3717b1537ddd615ba2a97ab78c943fcc3f2bce9ad8</guid>
+      <pubDate>Wed, 03 Jun 2026 03:50:36 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 509d1645e6</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=509d1645e6cc713b31f444b2208a98458b9af30098be4abeea72fdf7dd346bba</link>
+      <guid isPermaLink="false">509d1645e6cc713b31f444b2208a98458b9af30098be4abeea72fdf7dd346bba</guid>
+      <pubDate>Wed, 03 Jun 2026 03:44:42 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 e3ebdfee4a</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e3ebdfee4a9f80e4c3e2b4a19c48b0fd4751db14649d06315931641e5d46907c</link>
+      <guid isPermaLink="false">e3ebdfee4a9f80e4c3e2b4a19c48b0fd4751db14649d06315931641e5d46907c</guid>
+      <pubDate>Wed, 03 Jun 2026 03:34:28 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 ad7854d6fb</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ad7854d6fbd1f87c1fc02f7586f0b7f44c496f7a0a85fdbbb63a4c348d6e7f7f</link>
+      <guid isPermaLink="false">ad7854d6fbd1f87c1fc02f7586f0b7f44c496f7a0a85fdbbb63a4c348d6e7f7f</guid>
+      <pubDate>Wed, 03 Jun 2026 03:18:32 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 bf0d9a64cb</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=bf0d9a64cbdab12cb58da8891f9890bbbe3523c7a7282cda6b5131a1bb7af77a</link>
@@ -4943,66 +5003,6 @@
       <pubDate>Sat, 28 Feb 2026 19:47:41 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 784408aa6b</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=784408aa6b2909c206d22d1aa141a3149160861af216a4902b4a4b22510d5f31</link>
-      <guid isPermaLink="false">784408aa6b2909c206d22d1aa141a3149160861af216a4902b4a4b22510d5f31</guid>
-      <pubDate>Sat, 28 Feb 2026 19:46:21 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 7d68b0ef0e</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7d68b0ef0eafe4fc9b556cad78eaa3a0758087cae732b6a0a34f2bf33e9fb330</link>
-      <guid isPermaLink="false">7d68b0ef0eafe4fc9b556cad78eaa3a0758087cae732b6a0a34f2bf33e9fb330</guid>
-      <pubDate>Sat, 28 Feb 2026 19:45:27 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 baff7b7516</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=baff7b7516bc08891e2b544c988504bd9a15b4c122fe98a93cba7461da89a9de</link>
-      <guid isPermaLink="false">baff7b7516bc08891e2b544c988504bd9a15b4c122fe98a93cba7461da89a9de</guid>
-      <pubDate>Sat, 28 Feb 2026 19:44:13 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Building Continuum - Chapter 23 — Local-First as Moral Constraint</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=dcc0d7bc4bf73037bfd81e6ffa729e676c4178e635af55edd42404d0a91f4048</link>
-      <guid isPermaLink="false">dcc0d7bc4bf73037bfd81e6ffa729e676c4178e635af55edd42404d0a91f4048</guid>
-      <pubDate>Thu, 26 Feb 2026 04:45:13 GMT</pubDate>
-      <description><![CDATA[Local-first architecture introduces friction by design. It limits seamlessness, slows certain workflows, and requires user awareness. These limitations are not regressions. They are constraints. This chapter explores how constraint functions as formative structure, why convenience culture erodes agency over time, and how local-first systems preserve dignity by requiring participation rather than passive tenancy.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Building Continuum - Chapter 24 — Power, Custody, and Authority</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=8db04cf9eb2865686928ac6aa8e2140ee33beefd38488f52ac070129c1b68934</link>
-      <guid isPermaLink="false">8db04cf9eb2865686928ac6aa8e2140ee33beefd38488f52ac070129c1b68934</guid>
-      <pubDate>Thu, 26 Feb 2026 04:44:19 GMT</pubDate>
-      <description><![CDATA[Every digital system encodes an answer to a quiet question: who ultimately decides? Decisions about access, identity, publication, and record permanence are often treated as policy issues, but they are architectural first. This chapter explores how authority is embedded in infrastructure, how moderation and account systems concentrate control, and why custody redistributes baseline power without collapsing social order. Sovereignty here is defined not as isolation, but as structural dignity.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Building Continuum - Chapter 25 — Exit as Structural Right</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3856c25aabfe605bf277b67142d9dd199ababfabf61b83c1178fdba898b8d6cd</link>
-      <guid isPermaLink="false">3856c25aabfe605bf277b67142d9dd199ababfabf61b83c1178fdba898b8d6cd</guid>
-      <pubDate>Thu, 26 Feb 2026 04:43:11 GMT</pubDate>
-      <description><![CDATA[Exit is often misunderstood as disloyalty or rebellion. In architectural terms, exit is the proof of voluntary participation. Systems that allow full data export, identity portability, and independent archival demonstrate confidence. Systems that complicate departure reveal dependency. This chapter explores exit as structural dignity — not hostility — and why portability must be embedded in design rather than promised in policy.]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
