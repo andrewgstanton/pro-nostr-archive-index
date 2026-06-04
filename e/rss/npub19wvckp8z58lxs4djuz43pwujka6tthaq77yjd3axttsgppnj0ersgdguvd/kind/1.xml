@@ -5,7 +5,27 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 04 Jun 2026 02:52:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 16:45:56 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 c1878e846c</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c1878e846c85449a0c60518a55040f2729e74f84562d454dd98e8cdf0c521bc3</link>
+      <guid isPermaLink="false">c1878e846c85449a0c60518a55040f2729e74f84562d454dd98e8cdf0c521bc3</guid>
+      <pubDate>Thu, 04 Jun 2026 15:44:23 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 1feddf207b</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1feddf207b0251fe1dacc722811261a61afc30aded2e20ab0aeed57361b252c8</link>
+      <guid isPermaLink="false">1feddf207b0251fe1dacc722811261a61afc30aded2e20ab0aeed57361b252c8</guid>
+      <pubDate>Thu, 04 Jun 2026 04:30:41 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 a7add8d42d</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=a7add8d42da4f86e46e30ada8ef41e5bfd0494a15cba38ddfb6254c1872f76eb</link>
@@ -4981,26 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=3c92848074d7d3aa4c38c02db934aefca9afc3ffaad1f3e209145f31fd12c9c3</link>
       <guid isPermaLink="false">3c92848074d7d3aa4c38c02db934aefca9afc3ffaad1f3e209145f31fd12c9c3</guid>
       <pubDate>Thu, 05 Feb 2026 18:30:44 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 2 — Lenses Are Fine. Hidden Lenses Are Not - 2/5/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b03e72fee1ca20a6b7be813b1eab2c6341152806953361d39cf1b3baf570b6f5</link>
-      <guid isPermaLink="false">b03e72fee1ca20a6b7be813b1eab2c6341152806953361d39cf1b3baf570b6f5</guid>
-      <pubDate>Thu, 05 Feb 2026 18:29:26 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 1 — Chronology Is Not Neutral, It’s Honest -2/5/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c2bf6b45eeefc60b778131c00981920558b24a611a3dea82cd4201a7fe086a39</link>
-      <guid isPermaLink="false">c2bf6b45eeefc60b778131c00981920558b24a611a3dea82cd4201a7fe086a39</guid>
-      <pubDate>Thu, 05 Feb 2026 18:28:09 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
