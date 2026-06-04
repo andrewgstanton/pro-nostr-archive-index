@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 03 Jun 2026 04:39:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 02:39:06 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 a7add8d42d</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a7add8d42da4f86e46e30ada8ef41e5bfd0494a15cba38ddfb6254c1872f76eb</link>
+      <guid isPermaLink="false">a7add8d42da4f86e46e30ada8ef41e5bfd0494a15cba38ddfb6254c1872f76eb</guid>
+      <pubDate>Thu, 04 Jun 2026 01:18:32 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 4310edd407</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=4310edd4076f958aba648dbfc15330fbf7e8d3e4c6d1b819467bcab818041082</link>
@@ -4991,16 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=c2bf6b45eeefc60b778131c00981920558b24a611a3dea82cd4201a7fe086a39</link>
       <guid isPermaLink="false">c2bf6b45eeefc60b778131c00981920558b24a611a3dea82cd4201a7fe086a39</guid>
       <pubDate>Thu, 05 Feb 2026 18:28:09 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 5 - 2/4/2026 - Not Everything That Scales Is Good</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=fe36fb5f46dd748a2a1a0a13fd7d9ef13963f3055ef17626104741e491847f62</link>
-      <guid isPermaLink="false">fe36fb5f46dd748a2a1a0a13fd7d9ef13963f3055ef17626104741e491847f62</guid>
-      <pubDate>Wed, 04 Feb 2026 18:25:33 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
