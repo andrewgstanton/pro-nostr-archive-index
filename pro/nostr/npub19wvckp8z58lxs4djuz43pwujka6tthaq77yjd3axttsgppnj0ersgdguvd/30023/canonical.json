@@ -3860,5 +3860,10 @@
     "latest_event_id": "8ea6bedb5f8b8da9bd0483a9deb0026d17f21d9aa591de45e1fb08f1dfb80369",
     "latest_year": 2026,
     "published": false
+  },
+  "builders-journal---tuesday-june-2-2026": {
+    "latest_event_id": "758da3b40305194ea325da03c5b43c610632537a3827f9dc3c058b2dadc094ef",
+    "latest_year": 2026,
+    "published": false
   }
 }
