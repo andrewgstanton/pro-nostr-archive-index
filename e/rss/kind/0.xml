@@ -5,12 +5,12 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to profiles (kind:0), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/0.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 04 Jun 2026 16:45:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 00:12:31 GMT</lastBuildDate>
     <item>
-      <title>kind:0 5e33f1a7f2</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5e33f1a7f24b49b35c37e5242137d28a085d3044c8c0f0f106da7406665caa3f</link>
-      <guid isPermaLink="false">5e33f1a7f24b49b35c37e5242137d28a085d3044c8c0f0f106da7406665caa3f</guid>
-      <pubDate>Sun, 24 May 2026 19:27:27 GMT</pubDate>
+      <title>kind:0 e09177a693</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e09177a693db1f93b65e799fe8f9010b6c525ee7969282e7cc7e1358e9c4c752</link>
+      <guid isPermaLink="false">e09177a693db1f93b65e799fe8f9010b6c525ee7969282e7cc7e1358e9c4c752</guid>
+      <pubDate>Thu, 04 Jun 2026 22:55:12 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:0</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>

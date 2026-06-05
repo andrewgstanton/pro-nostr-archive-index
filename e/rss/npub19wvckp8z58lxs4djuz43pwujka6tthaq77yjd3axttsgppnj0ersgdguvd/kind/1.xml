@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 04 Jun 2026 16:45:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 00:12:31 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 14822c1e90</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=14822c1e907754dd2fb2176825f9afd723ba2759228cee7102a5249ebe61f5ae</link>
+      <guid isPermaLink="false">14822c1e907754dd2fb2176825f9afd723ba2759228cee7102a5249ebe61f5ae</guid>
+      <pubDate>Fri, 05 Jun 2026 00:01:53 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 c1878e846c</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=c1878e846c85449a0c60518a55040f2729e74f84562d454dd98e8cdf0c521bc3</link>
@@ -4991,16 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=efec3bef3b56c8cf3e3ff51598f038f213528637eada8bbd1081394b93988f53</link>
       <guid isPermaLink="false">efec3bef3b56c8cf3e3ff51598f038f213528637eada8bbd1081394b93988f53</guid>
       <pubDate>Thu, 05 Feb 2026 18:31:54 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 3 — Sovereignty Is a UX Constraint - 2/5/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3c92848074d7d3aa4c38c02db934aefca9afc3ffaad1f3e209145f31fd12c9c3</link>
-      <guid isPermaLink="false">3c92848074d7d3aa4c38c02db934aefca9afc3ffaad1f3e209145f31fd12c9c3</guid>
-      <pubDate>Thu, 05 Feb 2026 18:30:44 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>

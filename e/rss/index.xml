@@ -5,7 +5,27 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 04 Jun 2026 16:45:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 00:12:31 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 14822c1e90</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=14822c1e907754dd2fb2176825f9afd723ba2759228cee7102a5249ebe61f5ae</link>
+      <guid isPermaLink="false">14822c1e907754dd2fb2176825f9afd723ba2759228cee7102a5249ebe61f5ae</guid>
+      <pubDate>Fri, 05 Jun 2026 00:01:53 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:0 e09177a693</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e09177a693db1f93b65e799fe8f9010b6c525ee7969282e7cc7e1358e9c4c752</link>
+      <guid isPermaLink="false">e09177a693db1f93b65e799fe8f9010b6c525ee7969282e7cc7e1358e9c4c752</guid>
+      <pubDate>Thu, 04 Jun 2026 22:55:12 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:0</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 c1878e846c</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=c1878e846c85449a0c60518a55040f2729e74f84562d454dd98e8cdf0c521bc3</link>
@@ -263,16 +283,6 @@
       <pubDate>Sun, 24 May 2026 19:28:33 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:0 5e33f1a7f2</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5e33f1a7f24b49b35c37e5242137d28a085d3044c8c0f0f106da7406665caa3f</link>
-      <guid isPermaLink="false">5e33f1a7f24b49b35c37e5242137d28a085d3044c8c0f0f106da7406665caa3f</guid>
-      <pubDate>Sun, 24 May 2026 19:27:27 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:0</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
@@ -4993,16 +5003,6 @@
       <pubDate>Wed, 04 Mar 2026 18:26:03 GMT</pubDate>
       <description><![CDATA[Nostr authentication is not merely a philosophical alternative to email/password systems. It is a structural shift that opens practical consulting pathways. This article outlines how cryptographic identity, when implemented correctly, becomes a revenue-generating architecture for businesses that want lower friction, stronger security, and long-term digital sovereignty.]]></description>
       <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 ff0e1b3f0c</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ff0e1b3f0ce356a9bca999a0821a446408a3c3c3613aaa6fb67b2eb50efd8c79</link>
-      <guid isPermaLink="false">ff0e1b3f0ce356a9bca999a0821a446408a3c3c3613aaa6fb67b2eb50efd8c79</guid>
-      <pubDate>Wed, 04 Mar 2026 18:22:30 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
