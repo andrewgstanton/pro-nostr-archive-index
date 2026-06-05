@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 05 Jun 2026 22:58:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 23:42:55 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 3a1eb0fd12</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3a1eb0fd12efff521767cc0d1c5b314c6f2f19f2713155773a596904eaff7ee8</link>
+      <guid isPermaLink="false">3a1eb0fd12efff521767cc0d1c5b314c6f2f19f2713155773a596904eaff7ee8</guid>
+      <pubDate>Fri, 05 Jun 2026 23:23:23 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 96a4a1d096</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=96a4a1d09612aea69f958f767d63338630c486cdd24466af4f4bc1e36b5da902</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">1ce46206cbf9e24da909e61053c9c2f6f4b49b44e6dee243f56d94d5e4251a5e</guid>
       <pubDate>Sun, 01 Mar 2026 19:36:02 GMT</pubDate>
       <description><![CDATA[Some are called to strengthen tribes. Others are called to build bridges. Bridge-builders often feel displaced. But integrity across domains requires articulation that refuses simplification.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Kingdom That Cannot Be Engineered</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=28e6553e55911f6eaabbb777851ba6e9751172f262e9341f9abf8166ffdf32e6</link>
-      <guid isPermaLink="false">28e6553e55911f6eaabbb777851ba6e9751172f262e9341f9abf8166ffdf32e6</guid>
-      <pubDate>Sun, 01 Mar 2026 19:23:48 GMT</pubDate>
-      <description><![CDATA[Human systems gravitate toward control. The Kingdom of God does not. Where we attempt to engineer outcomes through leverage, the gospel reveals a structure rooted in surrender. Bitcoin, at the monetary layer, exposes the limits of manipulation. The gospel, at the human layer, exposes the limits of self-salvation.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
