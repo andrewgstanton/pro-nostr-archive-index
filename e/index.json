@@ -1,6 +1,17 @@
 [
   {
     "slug": null,
+    "event_id": "96a4a1d09612aea69f958f767d63338630c486cdd24466af4f4bc1e36b5da902",
+    "created_at": 1780637364,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/96a4a1d09612aea69f958f767d63338630c486cdd24466af4f4bc1e36b5da902.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
     "event_id": "14822c1e907754dd2fb2176825f9afd723ba2759228cee7102a5249ebe61f5ae",
     "created_at": 1780617713,
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
@@ -15523,7 +15534,7 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 1,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/150da81e4b7fd4e2ed8defc4704f597e6ae7b8db5accc50d5a1fbbdbbafe8161.json",
-    "title": "",
+    "title": "Growth",
     "summary": "",
     "paid": false
   },

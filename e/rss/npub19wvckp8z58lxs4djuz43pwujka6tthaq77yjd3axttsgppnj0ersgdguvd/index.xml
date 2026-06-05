@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 05 Jun 2026 00:12:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 22:58:42 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 96a4a1d096</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=96a4a1d09612aea69f958f767d63338630c486cdd24466af4f4bc1e36b5da902</link>
+      <guid isPermaLink="false">96a4a1d09612aea69f958f767d63338630c486cdd24466af4f4bc1e36b5da902</guid>
+      <pubDate>Fri, 05 Jun 2026 05:29:24 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 14822c1e90</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=14822c1e907754dd2fb2176825f9afd723ba2759228cee7102a5249ebe61f5ae</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">28e6553e55911f6eaabbb777851ba6e9751172f262e9341f9abf8166ffdf32e6</guid>
       <pubDate>Sun, 01 Mar 2026 19:23:48 GMT</pubDate>
       <description><![CDATA[Human systems gravitate toward control. The Kingdom of God does not. Where we attempt to engineer outcomes through leverage, the gospel reveals a structure rooted in surrender. Bitcoin, at the monetary layer, exposes the limits of manipulation. The gospel, at the human layer, exposes the limits of self-salvation.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Freedom Requires Rhythm</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=97f4ed4b474ae620b437db45064aacf7a3fa33168c7661bb602cd9395b333ee7</link>
-      <guid isPermaLink="false">97f4ed4b474ae620b437db45064aacf7a3fa33168c7661bb602cd9395b333ee7</guid>
-      <pubDate>Sat, 28 Feb 2026 19:50:44 GMT</pubDate>
-      <description><![CDATA[Total freedom without rhythm becomes chaos. Sabbath is the rhythm that preserves strength, clarity, and long-term impact.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

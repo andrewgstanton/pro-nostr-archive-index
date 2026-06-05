@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 05 Jun 2026 00:12:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 22:58:42 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 96a4a1d096</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=96a4a1d09612aea69f958f767d63338630c486cdd24466af4f4bc1e36b5da902</link>
+      <guid isPermaLink="false">96a4a1d09612aea69f958f767d63338630c486cdd24466af4f4bc1e36b5da902</guid>
+      <pubDate>Fri, 05 Jun 2026 05:29:24 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 14822c1e90</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=14822c1e907754dd2fb2176825f9afd723ba2759228cee7102a5249ebe61f5ae</link>
@@ -4991,16 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=81274d0d8f6224cb26a0304dd01e61b9b149a310ffb113ffdbef9e92eac49ed1</link>
       <guid isPermaLink="false">81274d0d8f6224cb26a0304dd01e61b9b149a310ffb113ffdbef9e92eac49ed1</guid>
       <pubDate>Thu, 05 Feb 2026 18:33:40 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 4 — Algorithms Are Editorials - 2/5/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=efec3bef3b56c8cf3e3ff51598f038f213528637eada8bbd1081394b93988f53</link>
-      <guid isPermaLink="false">efec3bef3b56c8cf3e3ff51598f038f213528637eada8bbd1081394b93988f53</guid>
-      <pubDate>Thu, 05 Feb 2026 18:31:54 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>

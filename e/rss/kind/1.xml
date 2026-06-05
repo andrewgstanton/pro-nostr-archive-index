@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 05 Jun 2026 00:12:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 22:58:42 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 96a4a1d096</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=96a4a1d09612aea69f958f767d63338630c486cdd24466af4f4bc1e36b5da902</link>
+      <guid isPermaLink="false">96a4a1d09612aea69f958f767d63338630c486cdd24466af4f4bc1e36b5da902</guid>
+      <pubDate>Fri, 05 Jun 2026 05:29:24 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 14822c1e90</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=14822c1e907754dd2fb2176825f9afd723ba2759228cee7102a5249ebe61f5ae</link>
@@ -4991,16 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=25f0c1887a611a0985b542e5d76ae92c15e5c9ad0c32b33a26984f9bceb764b1</link>
       <guid isPermaLink="false">25f0c1887a611a0985b542e5d76ae92c15e5c9ad0c32b33a26984f9bceb764b1</guid>
       <pubDate>Sat, 07 Feb 2026 23:57:11 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 3 — Sabbath Is a Rhythm, Not an Escape - 2/7/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ae9527e5eec3dbb289582e9a579d82ec5b2c57af5e90b0ae39460d79f21b9424</link>
-      <guid isPermaLink="false">ae9527e5eec3dbb289582e9a579d82ec5b2c57af5e90b0ae39460d79f21b9424</guid>
-      <pubDate>Sat, 07 Feb 2026 23:56:11 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>

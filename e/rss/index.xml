@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 05 Jun 2026 00:12:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 22:58:42 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 96a4a1d096</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=96a4a1d09612aea69f958f767d63338630c486cdd24466af4f4bc1e36b5da902</link>
+      <guid isPermaLink="false">96a4a1d09612aea69f958f767d63338630c486cdd24466af4f4bc1e36b5da902</guid>
+      <pubDate>Fri, 05 Jun 2026 05:29:24 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 14822c1e90</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=14822c1e907754dd2fb2176825f9afd723ba2759228cee7102a5249ebe61f5ae</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">310b68066f02a54b1d845877d575f8092bed56ed6e4c793b10d6846b4daa45e8</guid>
       <pubDate>Wed, 04 Mar 2026 18:29:55 GMT</pubDate>
       <description><![CDATA[Account-based platforms create dependency. Sovereign identity dissolves that dependency by separating identity from platform. This article explores the structural implications of portable cryptographic identity and why this changes how software businesses should think about user relationships.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Consulting Layer: How Nostr Authentication Becomes Revenue</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=1ac8b0cc44a0f9b520c8d9866c46ff2e0a47dbb19ed8f2b3cdd0fe930f5b07cf</link>
-      <guid isPermaLink="false">1ac8b0cc44a0f9b520c8d9866c46ff2e0a47dbb19ed8f2b3cdd0fe930f5b07cf</guid>
-      <pubDate>Wed, 04 Mar 2026 18:26:03 GMT</pubDate>
-      <description><![CDATA[Nostr authentication is not merely a philosophical alternative to email/password systems. It is a structural shift that opens practical consulting pathways. This article outlines how cryptographic identity, when implemented correctly, becomes a revenue-generating architecture for businesses that want lower friction, stronger security, and long-term digital sovereignty.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
