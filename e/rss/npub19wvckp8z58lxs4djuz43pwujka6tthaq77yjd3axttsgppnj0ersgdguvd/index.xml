@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 05 Jun 2026 23:42:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 00:51:00 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 124289cbbe</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=124289cbbeec2acaad9eb936b277c1c7e4b6c3d04fbff90983f1fb51e8bcbbcb</link>
+      <guid isPermaLink="false">124289cbbeec2acaad9eb936b277c1c7e4b6c3d04fbff90983f1fb51e8bcbbcb</guid>
+      <pubDate>Sat, 06 Jun 2026 00:40:30 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 3a1eb0fd12</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=3a1eb0fd12efff521767cc0d1c5b314c6f2f19f2713155773a596904eaff7ee8</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">4d63f8a2926819d2ca48bcbd2900040ad628c4e2847129121abc857acdedd46f</guid>
       <pubDate>Sun, 01 Mar 2026 20:08:10 GMT</pubDate>
       <description><![CDATA[Fear is the hidden operating system of fallen structures. The victorious gospel removes fear at its root. If Christ is truly risen, then death, scarcity, and exclusion are not ultimate authorities.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Between Tribes: Building Bridges Without Compromise</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=1ce46206cbf9e24da909e61053c9c2f6f4b49b44e6dee243f56d94d5e4251a5e</link>
-      <guid isPermaLink="false">1ce46206cbf9e24da909e61053c9c2f6f4b49b44e6dee243f56d94d5e4251a5e</guid>
-      <pubDate>Sun, 01 Mar 2026 19:36:02 GMT</pubDate>
-      <description><![CDATA[Some are called to strengthen tribes. Others are called to build bridges. Bridge-builders often feel displaced. But integrity across domains requires articulation that refuses simplification.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

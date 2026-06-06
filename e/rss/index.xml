@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 05 Jun 2026 23:42:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 00:51:00 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 124289cbbe</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=124289cbbeec2acaad9eb936b277c1c7e4b6c3d04fbff90983f1fb51e8bcbbcb</link>
+      <guid isPermaLink="false">124289cbbeec2acaad9eb936b277c1c7e4b6c3d04fbff90983f1fb51e8bcbbcb</guid>
+      <pubDate>Sat, 06 Jun 2026 00:40:30 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 3a1eb0fd12</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=3a1eb0fd12efff521767cc0d1c5b314c6f2f19f2713155773a596904eaff7ee8</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">e6f762d902ccb4bd7903a033cdb43a5f8d1f214e89b3c4582a55a8a90428dfdd</guid>
       <pubDate>Thu, 05 Mar 2026 00:22:00 GMT</pubDate>
       <description><![CDATA[Identity is quietly becoming the most important infrastructure layer of the internet. Password systems and platform-controlled identity models have reached structural limits. Cryptographic identity — especially systems like Nostr — introduces a fundamentally different approach where users control keys and services verify signatures rather than storing credentials.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Building With Keys: A Practical Roadmap for Sovereign Systems</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3b911e28c8e55fe337af208302fb111e260f5ad8742da65a7dfe3c64d0f10b07</link>
-      <guid isPermaLink="false">3b911e28c8e55fe337af208302fb111e260f5ad8742da65a7dfe3c64d0f10b07</guid>
-      <pubDate>Wed, 04 Mar 2026 18:34:18 GMT</pubDate>
-      <description><![CDATA[A practical guide for founders, consultants, and technologists who want to implement cryptographic identity into real-world systems without rebuilding everything from scratch.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

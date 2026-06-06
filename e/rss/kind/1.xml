@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 05 Jun 2026 23:42:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 00:51:00 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 124289cbbe</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=124289cbbeec2acaad9eb936b277c1c7e4b6c3d04fbff90983f1fb51e8bcbbcb</link>
+      <guid isPermaLink="false">124289cbbeec2acaad9eb936b277c1c7e4b6c3d04fbff90983f1fb51e8bcbbcb</guid>
+      <pubDate>Sat, 06 Jun 2026 00:40:30 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 3a1eb0fd12</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=3a1eb0fd12efff521767cc0d1c5b314c6f2f19f2713155773a596904eaff7ee8</link>
@@ -4991,16 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=d46988f5fccac6d040c7f9f549ed606d935511e9be4239658c0bfe56c25b5f01</link>
       <guid isPermaLink="false">d46988f5fccac6d040c7f9f549ed606d935511e9be4239658c0bfe56c25b5f01</guid>
       <pubDate>Sun, 08 Feb 2026 00:32:25 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 5 — Sabbath Reorients Desire</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0b70a47a43377d517d54ac79028735027471f68155f8f21187a641175563bf10</link>
-      <guid isPermaLink="false">0b70a47a43377d517d54ac79028735027471f68155f8f21187a641175563bf10</guid>
-      <pubDate>Sun, 08 Feb 2026 00:01:11 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
