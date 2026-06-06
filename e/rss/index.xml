@@ -5,7 +5,67 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 06 Jun 2026 00:51:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 22:10:54 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 2286e065ef</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2286e065efba1ef716fa67636752434d75a98998228e5488b319ebe703f47f24</link>
+      <guid isPermaLink="false">2286e065efba1ef716fa67636752434d75a98998228e5488b319ebe703f47f24</guid>
+      <pubDate>Sat, 06 Jun 2026 21:59:57 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 f3135ed869</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f3135ed869b479c0a2473c9d2910a07190a12459a6eeb224826372c220f44cbc</link>
+      <guid isPermaLink="false">f3135ed869b479c0a2473c9d2910a07190a12459a6eeb224826372c220f44cbc</guid>
+      <pubDate>Sat, 06 Jun 2026 21:59:00 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 44c6391d45</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=44c6391d4530d806784c3a777e2ef94ee193c4770e594807f92e1ad850f82758</link>
+      <guid isPermaLink="false">44c6391d4530d806784c3a777e2ef94ee193c4770e594807f92e1ad850f82758</guid>
+      <pubDate>Sat, 06 Jun 2026 06:20:06 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 8d7a78e2c5</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=8d7a78e2c52eb48bcd00bc40547f514cb6a6666e5e57a8eeb9e76147fc5d1c94</link>
+      <guid isPermaLink="false">8d7a78e2c52eb48bcd00bc40547f514cb6a6666e5e57a8eeb9e76147fc5d1c94</guid>
+      <pubDate>Sat, 06 Jun 2026 05:42:23 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 b8a80e2e47</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b8a80e2e47b8ddcce22d6d9858aae7991fcc613dee516fdc02b71fcbdad9a3dc</link>
+      <guid isPermaLink="false">b8a80e2e47b8ddcce22d6d9858aae7991fcc613dee516fdc02b71fcbdad9a3dc</guid>
+      <pubDate>Sat, 06 Jun 2026 05:42:10 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 ff583e61b7</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ff583e61b73209d51c5839df67adbc6ce3baa130f274a62ab0136b659c60313e</link>
+      <guid isPermaLink="false">ff583e61b73209d51c5839df67adbc6ce3baa130f274a62ab0136b659c60313e</guid>
+      <pubDate>Sat, 06 Jun 2026 02:37:39 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 124289cbbe</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=124289cbbeec2acaad9eb936b277c1c7e4b6c3d04fbff90983f1fb51e8bcbbcb</link>
@@ -4943,66 +5003,6 @@
       <pubDate>Thu, 05 Mar 2026 00:33:28 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 9dfd9841d4</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9dfd9841d4dcca3df860d92cf55cabf3ac054e23ad93ae180f91777c10c9a902</link>
-      <guid isPermaLink="false">9dfd9841d4dcca3df860d92cf55cabf3ac054e23ad93ae180f91777c10c9a902</guid>
-      <pubDate>Thu, 05 Mar 2026 00:32:12 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 57453041de</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=57453041de3936d296bc3d933d68a7bfc71b8cee492d16b90c45f220afce91d9</link>
-      <guid isPermaLink="false">57453041de3936d296bc3d933d68a7bfc71b8cee492d16b90c45f220afce91d9</guid>
-      <pubDate>Thu, 05 Mar 2026 00:31:20 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 1e28afab5b</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=1e28afab5b6f60b2eaeda2ad43950119d446ef72e2350d97b1f31d1501756865</link>
-      <guid isPermaLink="false">1e28afab5b6f60b2eaeda2ad43950119d446ef72e2350d97b1f31d1501756865</guid>
-      <pubDate>Thu, 05 Mar 2026 00:30:28 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Nostr Authentication Is Simpler Than OAuth</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=1b7fb231cd720a929fbd0cf38cd6511fc40061a103018ba0ff3eddcbeb5f84c7</link>
-      <guid isPermaLink="false">1b7fb231cd720a929fbd0cf38cd6511fc40061a103018ba0ff3eddcbeb5f84c7</guid>
-      <pubDate>Thu, 05 Mar 2026 00:29:30 GMT</pubDate>
-      <description><![CDATA[Modern authentication systems have become extremely complex. Nostr-based authentication offers a radically simpler approach built on cryptographic signatures.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Building Continuum</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=939fc17f94718f7be4540b482666ccf7a5ced0be26b8c70ed30cda69ed632fa3</link>
-      <guid isPermaLink="false">939fc17f94718f7be4540b482666ccf7a5ced0be26b8c70ed30cda69ed632fa3</guid>
-      <pubDate>Thu, 05 Mar 2026 00:25:36 GMT</pubDate>
-      <description><![CDATA[Continuum explores a local-first environment for managing Nostr identities, signing events, and preserving durable authorship.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Identity Layer Is the Next Infrastructure War</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e6f762d902ccb4bd7903a033cdb43a5f8d1f214e89b3c4582a55a8a90428dfdd</link>
-      <guid isPermaLink="false">e6f762d902ccb4bd7903a033cdb43a5f8d1f214e89b3c4582a55a8a90428dfdd</guid>
-      <pubDate>Thu, 05 Mar 2026 00:22:00 GMT</pubDate>
-      <description><![CDATA[Identity is quietly becoming the most important infrastructure layer of the internet. Password systems and platform-controlled identity models have reached structural limits. Cryptographic identity — especially systems like Nostr — introduces a fundamentally different approach where users control keys and services verify signatures rather than storing credentials.]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
