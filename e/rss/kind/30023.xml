@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 06 Jun 2026 22:10:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 21:03:12 GMT</lastBuildDate>
+    <item>
+      <title>Continuum Browser Signing Test</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=144c45e68d5665f91cdfdc33b1b40601267a1807b4634ea82adbaf9387ad7b06</link>
+      <guid isPermaLink="false">144c45e68d5665f91cdfdc33b1b40601267a1807b4634ea82adbaf9387ad7b06</guid>
+      <pubDate>Sun, 07 Jun 2026 02:33:17 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Where is Your Center of Gravity ?</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=49b1b819b80fe51406c5665fb5835b00553febf92c028bee0fbd0ba531c77bc7</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">b622bf8082b0424c133bbf93716447dee2a0334f7996d66dc51c7820b34ff552</guid>
       <pubDate>Fri, 12 Dec 2025 22:58:59 GMT</pubDate>
       <description><![CDATA[In 1963, beneath the limestone hills of western Pennsylvania, a classified government archive quietly destroys research deemed incompatible with administrative stability. One archivist’s decision to preserve forbidden equations ensures that sovereign mathematics survives long enough to inspire the Pilgrim generation.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Dec. 11, 2025): Why Sovereign Tools Must Outlast Their Creators</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2c764b4a3aa40ff503217440c26defafb87875fa46af7f45d589f73696324b29</link>
-      <guid isPermaLink="false">2c764b4a3aa40ff503217440c26defafb87875fa46af7f45d589f73696324b29</guid>
-      <pubDate>Fri, 12 Dec 2025 22:56:31 GMT</pubDate>
-      <description><![CDATA[A deep exploration of why Continuum — and all sovereign systems — must be built to endure beyond their founders. Sovereign tools are cathedrals, not startups.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
