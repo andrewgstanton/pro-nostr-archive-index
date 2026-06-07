@@ -5,7 +5,27 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 07 Jun 2026 21:03:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 21:16:36 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 f1af34735b</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f1af34735b74dfdcc8ca59e60094bf5512b3e3e9a08fe42f312f7db6c3e7e560</link>
+      <guid isPermaLink="false">f1af34735b74dfdcc8ca59e60094bf5512b3e3e9a08fe42f312f7db6c3e7e560</guid>
+      <pubDate>Sun, 07 Jun 2026 18:53:37 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 13c4f6bc72</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=13c4f6bc72ea9332a7482820c1877c07a9627fd2d9e3a15e32bd42487690b26c</link>
+      <guid isPermaLink="false">13c4f6bc72ea9332a7482820c1877c07a9627fd2d9e3a15e32bd42487690b26c</guid>
+      <pubDate>Sun, 07 Jun 2026 15:40:03 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 065cf4ff46</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=065cf4ff464642d6e7ff365b968464e49e5cac9049b95b837a6ebb27a2092b48</link>
@@ -4983,26 +5003,6 @@
       <pubDate>Wed, 04 Mar 2026 18:29:55 GMT</pubDate>
       <description><![CDATA[Account-based platforms create dependency. Sovereign identity dissolves that dependency by separating identity from platform. This article explores the structural implications of portable cryptographic identity and why this changes how software businesses should think about user relationships.]]></description>
       <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Consulting Layer: How Nostr Authentication Becomes Revenue</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=1ac8b0cc44a0f9b520c8d9866c46ff2e0a47dbb19ed8f2b3cdd0fe930f5b07cf</link>
-      <guid isPermaLink="false">1ac8b0cc44a0f9b520c8d9866c46ff2e0a47dbb19ed8f2b3cdd0fe930f5b07cf</guid>
-      <pubDate>Wed, 04 Mar 2026 18:26:03 GMT</pubDate>
-      <description><![CDATA[Nostr authentication is not merely a philosophical alternative to email/password systems. It is a structural shift that opens practical consulting pathways. This article outlines how cryptographic identity, when implemented correctly, becomes a revenue-generating architecture for businesses that want lower friction, stronger security, and long-term digital sovereignty.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 ff0e1b3f0c</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ff0e1b3f0ce356a9bca999a0821a446408a3c3c3613aaa6fb67b2eb50efd8c79</link>
-      <guid isPermaLink="false">ff0e1b3f0ce356a9bca999a0821a446408a3c3c3613aaa6fb67b2eb50efd8c79</guid>
-      <pubDate>Wed, 04 Mar 2026 18:22:30 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>

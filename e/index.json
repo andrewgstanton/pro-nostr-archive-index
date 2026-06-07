@@ -1,6 +1,28 @@
 [
   {
     "slug": null,
+    "event_id": "f1af34735b74dfdcc8ca59e60094bf5512b3e3e9a08fe42f312f7db6c3e7e560",
+    "created_at": 1780858417,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/f1af34735b74dfdcc8ca59e60094bf5512b3e3e9a08fe42f312f7db6c3e7e560.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "13c4f6bc72ea9332a7482820c1877c07a9627fd2d9e3a15e32bd42487690b26c",
+    "created_at": 1780846803,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/13c4f6bc72ea9332a7482820c1877c07a9627fd2d9e3a15e32bd42487690b26c.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
     "event_id": "065cf4ff464642d6e7ff365b968464e49e5cac9049b95b837a6ebb27a2092b48",
     "created_at": 1780813175,
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
