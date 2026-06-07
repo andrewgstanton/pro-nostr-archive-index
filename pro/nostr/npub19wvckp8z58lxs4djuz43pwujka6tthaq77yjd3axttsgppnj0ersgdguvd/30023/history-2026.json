@@ -2777,5 +2777,10 @@
     "event_id": "758da3b40305194ea325da03c5b43c610632537a3827f9dc3c058b2dadc094ef",
     "created_at": 1780540934,
     "published": false
+  },
+  {
+    "slug": "continuum-browser-signing-test",
+    "event_id": "144c45e68d5665f91cdfdc33b1b40601267a1807b4634ea82adbaf9387ad7b06",
+    "created_at": 1780799597
   }
 ]
