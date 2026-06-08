@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 07 Jun 2026 21:16:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 02:02:40 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 848a65b5ac</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=848a65b5ac67f8d707d456c7232d2e72402108fe7cbb3d197b739ad4ca7020f4</link>
+      <guid isPermaLink="false">848a65b5ac67f8d707d456c7232d2e72402108fe7cbb3d197b739ad4ca7020f4</guid>
+      <pubDate>Sun, 07 Jun 2026 21:20:50 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 f1af34735b</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=f1af34735b74dfdcc8ca59e60094bf5512b3e3e9a08fe42f312f7db6c3e7e560</link>
@@ -4991,16 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=c83d1cf979909252ebfa0a051c6acafe7190a3de53519a1eb08fd4234cef58ea</link>
       <guid isPermaLink="false">c83d1cf979909252ebfa0a051c6acafe7190a3de53519a1eb08fd4234cef58ea</guid>
       <pubDate>Wed, 11 Feb 2026 01:12:09 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 5 — Continuing Anyway - 2/9/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0377ff1544c234727bd13e5bbbb27091d7a72a7066f9d92afa7815bb2b6d3f1e</link>
-      <guid isPermaLink="false">0377ff1544c234727bd13e5bbbb27091d7a72a7066f9d92afa7815bb2b6d3f1e</guid>
-      <pubDate>Tue, 10 Feb 2026 01:45:58 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
