@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 08 Jun 2026 02:02:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 22:21:46 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 28c9ebee67</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=28c9ebee672b127278f9d6a4c52525a2807c3601aebb11dbd1ac8d4ef098bf1c</link>
+      <guid isPermaLink="false">28c9ebee672b127278f9d6a4c52525a2807c3601aebb11dbd1ac8d4ef098bf1c</guid>
+      <pubDate>Mon, 08 Jun 2026 01:31:57 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 848a65b5ac</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=848a65b5ac67f8d707d456c7232d2e72402108fe7cbb3d197b739ad4ca7020f4</link>
@@ -4991,16 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=d46988f5fccac6d040c7f9f549ed606d935511e9be4239658c0bfe56c25b5f01</link>
       <guid isPermaLink="false">d46988f5fccac6d040c7f9f549ed606d935511e9be4239658c0bfe56c25b5f01</guid>
       <pubDate>Sun, 08 Feb 2026 00:32:25 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 5 — Sabbath Reorients Desire</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0b70a47a43377d517d54ac79028735027471f68155f8f21187a641175563bf10</link>
-      <guid isPermaLink="false">0b70a47a43377d517d54ac79028735027471f68155f8f21187a641175563bf10</guid>
-      <pubDate>Sun, 08 Feb 2026 00:01:11 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
