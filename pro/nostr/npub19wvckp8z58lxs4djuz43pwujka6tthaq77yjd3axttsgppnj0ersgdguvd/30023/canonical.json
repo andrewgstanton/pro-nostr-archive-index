@@ -3869,5 +3869,35 @@
   "continuum-browser-signing-test": {
     "latest_event_id": "144c45e68d5665f91cdfdc33b1b40601267a1807b4634ea82adbaf9387ad7b06",
     "latest_year": 2026
+  },
+  "builders-journal---monday-june-8-2026": {
+    "latest_event_id": "ab07154142eb8db6aa666ff060bda28f7bd2c4e63546b8aacc0c35c364b99248",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---wednesday-june-3-2026": {
+    "latest_event_id": "4703999cf3678adf9b57fedfbc5079999cbe3fbae03ee88a395abe96ae867dfd",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---thursday-june-4-2026": {
+    "latest_event_id": "01f751c39157cccde1febda777706ec60624bc5fefcc487a367817fde8be80ae",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---friday-june-5-2026": {
+    "latest_event_id": "c5dcec4adf4add93751ffda5a1bb65d57f453132a47152faab348e7ba9e512d8",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---saturday-june-6-2026": {
+    "latest_event_id": "391f6363f29c1ad079d6fbe112427761145fd63f7124935f19d816b7ba98f649",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---sunday-june-7-2026": {
+    "latest_event_id": "9baebee1fa313d893c784794f4a414b3c3ebdf2d6445e07d105f16145d241694",
+    "latest_year": 2026,
+    "published": false
   }
 }
