@@ -3899,5 +3899,25 @@
     "latest_event_id": "9baebee1fa313d893c784794f4a414b3c3ebdf2d6445e07d105f16145d241694",
     "latest_year": 2026,
     "published": false
+  },
+  "builders-journal---tuesday-june-9-2026": {
+    "latest_event_id": "90bf5c979b914e8da81864ba5fecbd793e22d0f0d511892d938b0219d1e3549a",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---wednesday-june-10-2026": {
+    "latest_event_id": "3dca111620837a1e6ce3bad5bb51e46b38ed06b6c9eddd61977ec108efab33b9",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---thursday-june-11-2026": {
+    "latest_event_id": "ceed6ceebdee5212bab55de9ad1f72065e527789c66109784aae2c003ce7287c",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---friday-june-12-2026": {
+    "latest_event_id": "4d777584ee36e670efd952277e09445fe89b2e624753e890010a537d14eccf67",
+    "latest_year": 2026,
+    "published": false
   }
 }
