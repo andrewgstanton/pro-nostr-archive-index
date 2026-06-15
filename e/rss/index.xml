@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 15 Jun 2026 02:32:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 03:54:17 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 78df68a0a4</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=78df68a0a40434cd916b9bd19f594402c2df2f488a356229df3cc125fb78744c</link>
+      <guid isPermaLink="false">78df68a0a40434cd916b9bd19f594402c2df2f488a356229df3cc125fb78744c</guid>
+      <pubDate>Mon, 15 Jun 2026 03:21:23 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 870a16c2bf</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=870a16c2bf3d2818e1afaede031940e8818fc320c6536494f8a61d1415a1e2c6</link>
@@ -4991,16 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=a1fdd56c14d2fb13d8fcaa8379ac4f0ffa0635544cb6a92704ee88c0f5c03355</link>
       <guid isPermaLink="false">a1fdd56c14d2fb13d8fcaa8379ac4f0ffa0635544cb6a92704ee88c0f5c03355</guid>
       <pubDate>Sun, 08 Mar 2026 00:27:49 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 4587f067f5</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=4587f067f55aa540e5d438c5bbf029179f78792614009c7c9c633486ba6887ab</link>
-      <guid isPermaLink="false">4587f067f55aa540e5d438c5bbf029179f78792614009c7c9c633486ba6887ab</guid>
-      <pubDate>Sun, 08 Mar 2026 00:24:03 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>

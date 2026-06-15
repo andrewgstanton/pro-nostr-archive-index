@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 15 Jun 2026 02:32:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 03:54:17 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 78df68a0a4</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=78df68a0a40434cd916b9bd19f594402c2df2f488a356229df3cc125fb78744c</link>
+      <guid isPermaLink="false">78df68a0a40434cd916b9bd19f594402c2df2f488a356229df3cc125fb78744c</guid>
+      <pubDate>Mon, 15 Jun 2026 03:21:23 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 870a16c2bf</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=870a16c2bf3d2818e1afaede031940e8818fc320c6536494f8a61d1415a1e2c6</link>
@@ -4993,16 +5003,6 @@
       <pubDate>Sat, 07 Mar 2026 03:07:16 GMT</pubDate>
       <description><![CDATA[Durable technology rarely arrives through hype cycles. The most important infrastructure is often quiet, simple, and built for long-term reliability rather than spectacle.]]></description>
       <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 ab480477fd</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ab480477fd65bd067b3b2f217ebdbb9a4b1d88ed86d24b920a8fe6ae8c90bd57</link>
-      <guid isPermaLink="false">ab480477fd65bd067b3b2f217ebdbb9a4b1d88ed86d24b920a8fe6ae8c90bd57</guid>
-      <pubDate>Fri, 06 Mar 2026 06:10:36 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>

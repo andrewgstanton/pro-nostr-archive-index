@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 15 Jun 2026 02:32:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 03:54:17 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 78df68a0a4</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=78df68a0a40434cd916b9bd19f594402c2df2f488a356229df3cc125fb78744c</link>
+      <guid isPermaLink="false">78df68a0a40434cd916b9bd19f594402c2df2f488a356229df3cc125fb78744c</guid>
+      <pubDate>Mon, 15 Jun 2026 03:21:23 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 870a16c2bf</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=870a16c2bf3d2818e1afaede031940e8818fc320c6536494f8a61d1415a1e2c6</link>
@@ -4991,16 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=c653eb48fca86081db0e5e5ab432f84eab646696109df61d10def3b8ef882d08</link>
       <guid isPermaLink="false">c653eb48fca86081db0e5e5ab432f84eab646696109df61d10def3b8ef882d08</guid>
       <pubDate>Wed, 11 Feb 2026 05:55:24 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 1 — Build What Endures - 2/10/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ee9422f627861ea6408c738068ce5d72ca1b021fc9895850a089b72f1e8ac237</link>
-      <guid isPermaLink="false">ee9422f627861ea6408c738068ce5d72ca1b021fc9895850a089b72f1e8ac237</guid>
-      <pubDate>Wed, 11 Feb 2026 05:53:55 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
