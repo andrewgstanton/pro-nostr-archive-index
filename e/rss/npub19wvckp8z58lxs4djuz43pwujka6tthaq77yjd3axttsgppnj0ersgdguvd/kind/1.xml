@@ -5,7 +5,27 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 13 Jun 2026 21:41:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 02:32:07 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 870a16c2bf</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=870a16c2bf3d2818e1afaede031940e8818fc320c6536494f8a61d1415a1e2c6</link>
+      <guid isPermaLink="false">870a16c2bf3d2818e1afaede031940e8818fc320c6536494f8a61d1415a1e2c6</guid>
+      <pubDate>Sat, 13 Jun 2026 21:32:26 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 1d660c46fe</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1d660c46fed76e465fc08cbb1d7f070d963a5aef2049543eca5b245555bca758</link>
+      <guid isPermaLink="false">1d660c46fed76e465fc08cbb1d7f070d963a5aef2049543eca5b245555bca758</guid>
+      <pubDate>Sat, 13 Jun 2026 21:24:19 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 f19faed9d6</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=f19faed9d6c3ed62753e8eea87de84147666634ad76da5dcbfa22ddac9d64686</link>
@@ -4981,26 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=ee9422f627861ea6408c738068ce5d72ca1b021fc9895850a089b72f1e8ac237</link>
       <guid isPermaLink="false">ee9422f627861ea6408c738068ce5d72ca1b021fc9895850a089b72f1e8ac237</guid>
       <pubDate>Wed, 11 Feb 2026 05:53:55 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Short Architecture &amp; Risk Reviews</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c83d1cf979909252ebfa0a051c6acafe7190a3de53519a1eb08fd4234cef58ea</link>
-      <guid isPermaLink="false">c83d1cf979909252ebfa0a051c6acafe7190a3de53519a1eb08fd4234cef58ea</guid>
-      <pubDate>Wed, 11 Feb 2026 01:12:09 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 5 — Continuing Anyway - 2/9/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0377ff1544c234727bd13e5bbbb27091d7a72a7066f9d92afa7815bb2b6d3f1e</link>
-      <guid isPermaLink="false">0377ff1544c234727bd13e5bbbb27091d7a72a7066f9d92afa7815bb2b6d3f1e</guid>
-      <pubDate>Tue, 10 Feb 2026 01:45:58 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
