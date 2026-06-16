@@ -5,7 +5,27 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 15 Jun 2026 03:54:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 03:31:55 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 7b54a43f77</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7b54a43f77ef92c5fd06666e8102577d788c5c9abfabb15b9ee872004943fb04</link>
+      <guid isPermaLink="false">7b54a43f77ef92c5fd06666e8102577d788c5c9abfabb15b9ee872004943fb04</guid>
+      <pubDate>Mon, 15 Jun 2026 05:20:24 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 f3180e1cf4</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f3180e1cf4002a1c180853bcb98ea5e956ee3e8dfa449693becbffd03e7338c1</link>
+      <guid isPermaLink="false">f3180e1cf4002a1c180853bcb98ea5e956ee3e8dfa449693becbffd03e7338c1</guid>
+      <pubDate>Mon, 15 Jun 2026 04:36:03 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 78df68a0a4</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=78df68a0a40434cd916b9bd19f594402c2df2f488a356229df3cc125fb78744c</link>
@@ -4981,26 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=d163e3f341d8517312c5e1ff8ff8ce7048d526c5de46e1d03cecfc3ea68e8b06</link>
       <guid isPermaLink="false">d163e3f341d8517312c5e1ff8ff8ce7048d526c5de46e1d03cecfc3ea68e8b06</guid>
       <pubDate>Wed, 11 Feb 2026 05:58:45 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 3 — Speed Is Not the Same as Strength - 2/10/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=67b255b6742a6f2400c142395b81f6630372fbb853367a495cd00e3a14a27a79</link>
-      <guid isPermaLink="false">67b255b6742a6f2400c142395b81f6630372fbb853367a495cd00e3a14a27a79</guid>
-      <pubDate>Wed, 11 Feb 2026 05:57:27 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Note 2 — Quiet Work Still Counts - 2/10/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c653eb48fca86081db0e5e5ab432f84eab646696109df61d10def3b8ef882d08</link>
-      <guid isPermaLink="false">c653eb48fca86081db0e5e5ab432f84eab646696109df61d10def3b8ef882d08</guid>
-      <pubDate>Wed, 11 Feb 2026 05:55:24 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>

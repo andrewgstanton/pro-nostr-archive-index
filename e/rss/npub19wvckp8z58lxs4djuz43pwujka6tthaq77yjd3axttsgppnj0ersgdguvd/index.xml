@@ -5,7 +5,27 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 15 Jun 2026 03:54:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 03:31:55 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 7b54a43f77</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7b54a43f77ef92c5fd06666e8102577d788c5c9abfabb15b9ee872004943fb04</link>
+      <guid isPermaLink="false">7b54a43f77ef92c5fd06666e8102577d788c5c9abfabb15b9ee872004943fb04</guid>
+      <pubDate>Mon, 15 Jun 2026 05:20:24 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 f3180e1cf4</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f3180e1cf4002a1c180853bcb98ea5e956ee3e8dfa449693becbffd03e7338c1</link>
+      <guid isPermaLink="false">f3180e1cf4002a1c180853bcb98ea5e956ee3e8dfa449693becbffd03e7338c1</guid>
+      <pubDate>Mon, 15 Jun 2026 04:36:03 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 78df68a0a4</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=78df68a0a40434cd916b9bd19f594402c2df2f488a356229df3cc125fb78744c</link>
@@ -4982,26 +5002,6 @@
       <guid isPermaLink="false">637b32bf97dda7bc53fb065f1df58774af1e55748d4f586163fc3d044e2259fa</guid>
       <pubDate>Sat, 07 Mar 2026 03:12:40 GMT</pubDate>
       <description><![CDATA[Platform accounts have dominated the internet for decades. Cryptographic identity offers a fundamentally different model where individuals control their own digital identity.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Return of Personal Computing</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2bb143a8935def3f0820530651b6a3cb17251fa4e55f8de5f9233b817cb60be6</link>
-      <guid isPermaLink="false">2bb143a8935def3f0820530651b6a3cb17251fa4e55f8de5f9233b817cb60be6</guid>
-      <pubDate>Sat, 07 Mar 2026 03:10:21 GMT</pubDate>
-      <description><![CDATA[Modern software has gradually shifted control away from users toward platforms. Local-first architecture and cryptographic identity may represent a return to the original promise of personal computing.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Quiet Infrastructure Wins</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=4db3df26a5d6602ce010a53eef50f6c493db7e19c8f01ee80dcfe69b3244ef5a</link>
-      <guid isPermaLink="false">4db3df26a5d6602ce010a53eef50f6c493db7e19c8f01ee80dcfe69b3244ef5a</guid>
-      <pubDate>Sat, 07 Mar 2026 03:07:16 GMT</pubDate>
-      <description><![CDATA[Durable technology rarely arrives through hype cycles. The most important infrastructure is often quiet, simple, and built for long-term reliability rather than spectacle.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
