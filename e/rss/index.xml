@@ -5,7 +5,57 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 16 Jun 2026 03:31:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 22:22:25 GMT</lastBuildDate>
+    <item>
+      <title>kind:0 8b64391f9b</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=8b64391f9b6405f5459fcedc4e5f0e19c1b75d4ed008bd933ac0186c9e8f4fb1</link>
+      <guid isPermaLink="false">8b64391f9b6405f5459fcedc4e5f0e19c1b75d4ed008bd933ac0186c9e8f4fb1</guid>
+      <pubDate>Fri, 19 Jun 2026 00:51:12 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:0</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 06fd80c624</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=06fd80c624d38b7078a64efc4ad0f2eb74c5ac42e1bedea1bd04eb29516b6145</link>
+      <guid isPermaLink="false">06fd80c624d38b7078a64efc4ad0f2eb74c5ac42e1bedea1bd04eb29516b6145</guid>
+      <pubDate>Thu, 18 Jun 2026 22:23:38 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 b4f42211c2</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b4f42211c23b008c50586fb9b2707377b81043eebbb31073668976981ff5b929</link>
+      <guid isPermaLink="false">b4f42211c23b008c50586fb9b2707377b81043eebbb31073668976981ff5b929</guid>
+      <pubDate>Wed, 17 Jun 2026 06:09:59 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 689ad54f6c</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=689ad54f6cc423c72dab98dfaadbe235af91dbf778bcdf29953999b7bc3e595b</link>
+      <guid isPermaLink="false">689ad54f6cc423c72dab98dfaadbe235af91dbf778bcdf29953999b7bc3e595b</guid>
+      <pubDate>Wed, 17 Jun 2026 06:06:24 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 6ba1305ef2</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6ba1305ef2cb43b4e75027d0797e318152edf2835d7e04819e87678a6885977c</link>
+      <guid isPermaLink="false">6ba1305ef2cb43b4e75027d0797e318152edf2835d7e04819e87678a6885977c</guid>
+      <pubDate>Wed, 17 Jun 2026 06:04:19 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 7b54a43f77</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=7b54a43f77ef92c5fd06666e8102577d788c5c9abfabb15b9ee872004943fb04</link>
@@ -423,16 +473,6 @@
       <pubDate>Fri, 05 Jun 2026 00:01:53 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:0 e09177a693</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e09177a693db1f93b65e799fe8f9010b6c525ee7969282e7cc7e1358e9c4c752</link>
-      <guid isPermaLink="false">e09177a693db1f93b65e799fe8f9010b6c525ee7969282e7cc7e1358e9c4c752</guid>
-      <pubDate>Thu, 04 Jun 2026 22:55:12 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:0</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
@@ -4963,46 +5003,6 @@
       <pubDate>Sun, 08 Mar 2026 04:49:23 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 d890abe2b5</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d890abe2b5137e6d4997ed2df4ed414a0b107247381b2995dbe989bb7d7e20de</link>
-      <guid isPermaLink="false">d890abe2b5137e6d4997ed2df4ed414a0b107247381b2995dbe989bb7d7e20de</guid>
-      <pubDate>Sun, 08 Mar 2026 04:24:57 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>A Good Day of Building</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=182405a1b8e3dfba73f77bd4013954274e65e8a507d3c9313d9d4ba223b767ed</link>
-      <guid isPermaLink="false">182405a1b8e3dfba73f77bd4013954274e65e8a507d3c9313d9d4ba223b767ed</guid>
-      <pubDate>Sun, 08 Mar 2026 00:55:29 GMT</pubDate>
-      <description><![CDATA[Reflecting on a day of calm progress, small improvements, and the quiet satisfaction of building something meaningful.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Local-First Software and the Rhythm of Rest</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f06a8c40fc6f0756a2f909b515fead7b8d09d1edbf5b796c8bf29db6b81f5209</link>
-      <guid isPermaLink="false">f06a8c40fc6f0756a2f909b515fead7b8d09d1edbf5b796c8bf29db6b81f5209</guid>
-      <pubDate>Sun, 08 Mar 2026 00:50:40 GMT</pubDate>
-      <description><![CDATA[Exploring how local-first architecture reflects deeper principles about independence, resilience, and rest.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Sabbath and the Joy of Building</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=eeb712eea59a4398f9f001fcea95a1a5bbedcd7c72d2b31f16b7aab9e230571e</link>
-      <guid isPermaLink="false">eeb712eea59a4398f9f001fcea95a1a5bbedcd7c72d2b31f16b7aab9e230571e</guid>
-      <pubDate>Sun, 08 Mar 2026 00:44:36 GMT</pubDate>
-      <description><![CDATA[Reflecting on how meaningful work can sometimes feel like rest when it aligns with purpose and calling.]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
