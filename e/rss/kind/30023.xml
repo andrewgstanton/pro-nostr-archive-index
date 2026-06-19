@@ -5,7 +5,7 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 19 Jun 2026 22:22:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 22:37:55 GMT</lastBuildDate>
     <item>
       <title>Continuum Browser Signing Test</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=144c45e68d5665f91cdfdc33b1b40601267a1807b4634ea82adbaf9387ad7b06</link>
@@ -1718,12 +1718,12 @@
     </item>
     <item>
       <title>The Sovereign Archive: The Canonical Bitcoin Chronicles Index</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=107b3983847e366d8b55871aacaa1eabcd23b2681f46a0bb75900069a713f3b8</link>
-      <guid isPermaLink="false">107b3983847e366d8b55871aacaa1eabcd23b2681f46a0bb75900069a713f3b8</guid>
-      <pubDate>Fri, 13 Feb 2026 01:34:20 GMT</pubDate>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6843b2357ec974d2b806cd04b1582a537522041a166152c96bf8f418be09d9fb</link>
+      <guid isPermaLink="false">6843b2357ec974d2b806cd04b1582a537522041a166152c96bf8f418be09d9fb</guid>
+      <pubDate>Fri, 13 Feb 2026 05:45:18 GMT</pubDate>
       <description><![CDATA[This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.]]></description>
       <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
       <category>paid:false</category>
     </item>
     <item>

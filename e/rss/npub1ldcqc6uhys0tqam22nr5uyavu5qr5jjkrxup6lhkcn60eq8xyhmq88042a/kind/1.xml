@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Continuum Archive Index — npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a (Notes)</title>
+    <link>https://nostr.mycontinuum.xyz/e/list.html</link>
+    <description>Index for npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a filtered to notes (kind:1), newest 500.</description>
+    <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a/kind/1.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Jun 2026 22:37:55 GMT</lastBuildDate>
+    <item>
+      <title>New paid essay:  “Why Sovereign Tools Must Outlast Their Creators”</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4074a8fb42c42c98175e7448ed4f3b7802d5a5cb259afeb95fa1e1a0f0f6a030</link>
+      <guid isPermaLink="false">4074a8fb42c42c98175e7448ed4f3b7802d5a5cb259afeb95fa1e1a0f0f6a030</guid>
+      <pubDate>Thu, 11 Dec 2025 21:53:29 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>New piece today:  “Sovereignty Is Learned in Small Steps”</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=305523ef66783ce0f72ab577d37720c704350c39222b4e6d5353200fd9b5daac</link>
+      <guid isPermaLink="false">305523ef66783ce0f72ab577d37720c704350c39222b4e6d5353200fd9b5daac</guid>
+      <pubDate>Thu, 11 Dec 2025 21:13:26 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Bitcoin Chronicles lore drop:  “The First Pilgrim Charter”</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=aa4718af337e9dd730d9fd8ba122b60989c5e33cabcb361ad374f0625eedff69</link>
+      <guid isPermaLink="false">aa4718af337e9dd730d9fd8ba122b60989c5e33cabcb361ad374f0625eedff69</guid>
+      <pubDate>Thu, 11 Dec 2025 21:11:38 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Continuum Magazine — Issue #1 (Sept 1–7, 2025)</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=8c59f2c0e3926e26ac53e29d21f92d903d9b83c6a58b789c8e7213bd6ded1b0b</link>
+      <guid isPermaLink="false">8c59f2c0e3926e26ac53e29d21f92d903d9b83c6a58b789c8e7213bd6ded1b0b</guid>
+      <pubDate>Fri, 12 Sep 2025 21:03:37 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a</category>
+      <category>paid:false</category>
+    </item>
+  </channel>
+</rss>
