@@ -5,7 +5,57 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 20 Jun 2026 06:10:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 00:54:41 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 cf67bc59a3</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=cf67bc59a3bd72196df1e09cc6783e5604ec3078f71de9da35df0d44c9c37375</link>
+      <guid isPermaLink="false">cf67bc59a3bd72196df1e09cc6783e5604ec3078f71de9da35df0d44c9c37375</guid>
+      <pubDate>Sat, 20 Jun 2026 18:56:38 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 4c336df516</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4c336df516a0a40e62009d4d19c628f0b1a15e583784bc83766623dd89e077c0</link>
+      <guid isPermaLink="false">4c336df516a0a40e62009d4d19c628f0b1a15e583784bc83766623dd89e077c0</guid>
+      <pubDate>Sat, 20 Jun 2026 18:52:04 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 64cfd033b2</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=64cfd033b2e4757071aaccf6ef852f4f7e5a4eea112b86dcdcf77c0838da3b83</link>
+      <guid isPermaLink="false">64cfd033b2e4757071aaccf6ef852f4f7e5a4eea112b86dcdcf77c0838da3b83</guid>
+      <pubDate>Sat, 20 Jun 2026 18:31:05 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 65ea764b69</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=65ea764b69eceacd203fae3b54af149aea5a7921cda940577e15e13c92ab7b6f</link>
+      <guid isPermaLink="false">65ea764b69eceacd203fae3b54af149aea5a7921cda940577e15e13c92ab7b6f</guid>
+      <pubDate>Sat, 20 Jun 2026 18:25:50 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 02fb787a9c</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=02fb787a9c908f32a196cee8312c54cdcd779b6d79a8d0aa87991a13401c8a9b</link>
+      <guid isPermaLink="false">02fb787a9c908f32a196cee8312c54cdcd779b6d79a8d0aa87991a13401c8a9b</guid>
+      <pubDate>Sat, 20 Jun 2026 18:23:31 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:0 8b64391f9b</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=8b64391f9b6405f5459fcedc4e5f0e19c1b75d4ed008bd933ac0186c9e8f4fb1</link>
@@ -4953,56 +5003,6 @@
       <pubDate>Thu, 12 Mar 2026 04:16:13 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 40503ffbf5</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=40503ffbf592e1e9abf5c301797b2f46bd2731498d95d154453246f6970328fe</link>
-      <guid isPermaLink="false">40503ffbf592e1e9abf5c301797b2f46bd2731498d95d154453246f6970328fe</guid>
-      <pubDate>Thu, 12 Mar 2026 04:15:26 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 abac8ee3bb</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=abac8ee3bb24e50c102c882609b8b5d0e9acd024cb442aa0bfe19a518e713574</link>
-      <guid isPermaLink="false">abac8ee3bb24e50c102c882609b8b5d0e9acd024cb442aa0bfe19a518e713574</guid>
-      <pubDate>Thu, 12 Mar 2026 04:13:46 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Quiet Signals That Keep Builders Going</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9a05cc11ece1c7158332cf56f7844f980ef81f352df83c211ad51edc3ebe2f15</link>
-      <guid isPermaLink="false">9a05cc11ece1c7158332cf56f7844f980ef81f352df83c211ad51edc3ebe2f15</guid>
-      <pubDate>Thu, 12 Mar 2026 00:06:03 GMT</pubDate>
-      <description><![CDATA[Summary: Most builders work in long stretches of silence, sustained by occasional signals from people who understand the work.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 6f5d96fbc3</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6f5d96fbc387c62657a6b35102a53493e022d8f03860b5c8ac927cb99bd1cf4b</link>
-      <guid isPermaLink="false">6f5d96fbc387c62657a6b35102a53493e022d8f03860b5c8ac927cb99bd1cf4b</guid>
-      <pubDate>Wed, 11 Mar 2026 14:56:55 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Reclaiming Digital Identity: Why I Published My OpenPGP Key</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=17a43001d112cd1977d16b72b768ba5abc2e17cbebf17c6559e133246c2b08c0</link>
-      <guid isPermaLink="false">17a43001d112cd1977d16b72b768ba5abc2e17cbebf17c6559e133246c2b08c0</guid>
-      <pubDate>Wed, 11 Mar 2026 05:54:15 GMT</pubDate>
-      <description><![CDATA[Publishing my OpenPGP key alongside my Nostr identity is part of a broader effort to restore verifiable identity on the internet.]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>

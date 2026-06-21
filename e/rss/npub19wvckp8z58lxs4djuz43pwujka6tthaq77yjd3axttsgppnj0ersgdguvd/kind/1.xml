@@ -5,7 +5,57 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 20 Jun 2026 06:10:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 00:54:41 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 cf67bc59a3</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=cf67bc59a3bd72196df1e09cc6783e5604ec3078f71de9da35df0d44c9c37375</link>
+      <guid isPermaLink="false">cf67bc59a3bd72196df1e09cc6783e5604ec3078f71de9da35df0d44c9c37375</guid>
+      <pubDate>Sat, 20 Jun 2026 18:56:38 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 4c336df516</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4c336df516a0a40e62009d4d19c628f0b1a15e583784bc83766623dd89e077c0</link>
+      <guid isPermaLink="false">4c336df516a0a40e62009d4d19c628f0b1a15e583784bc83766623dd89e077c0</guid>
+      <pubDate>Sat, 20 Jun 2026 18:52:04 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 64cfd033b2</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=64cfd033b2e4757071aaccf6ef852f4f7e5a4eea112b86dcdcf77c0838da3b83</link>
+      <guid isPermaLink="false">64cfd033b2e4757071aaccf6ef852f4f7e5a4eea112b86dcdcf77c0838da3b83</guid>
+      <pubDate>Sat, 20 Jun 2026 18:31:05 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 65ea764b69</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=65ea764b69eceacd203fae3b54af149aea5a7921cda940577e15e13c92ab7b6f</link>
+      <guid isPermaLink="false">65ea764b69eceacd203fae3b54af149aea5a7921cda940577e15e13c92ab7b6f</guid>
+      <pubDate>Sat, 20 Jun 2026 18:25:50 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 02fb787a9c</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=02fb787a9c908f32a196cee8312c54cdcd779b6d79a8d0aa87991a13401c8a9b</link>
+      <guid isPermaLink="false">02fb787a9c908f32a196cee8312c54cdcd779b6d79a8d0aa87991a13401c8a9b</guid>
+      <pubDate>Sat, 20 Jun 2026 18:23:31 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 06fd80c624</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=06fd80c624d38b7078a64efc4ad0f2eb74c5ac42e1bedea1bd04eb29516b6145</link>
@@ -4951,56 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=df4cf8726588d4de5ec037c69f61ecb0305815e9e29d2195721fd755e031bc67</link>
       <guid isPermaLink="false">df4cf8726588d4de5ec037c69f61ecb0305815e9e29d2195721fd755e031bc67</guid>
       <pubDate>Tue, 17 Feb 2026 04:10:41 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>5. Hope Moves - 2/16/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d9443be09c3b30d23fd046aeaf0b241361cde876c90eb06c97a649c95f5fe2b0</link>
-      <guid isPermaLink="false">d9443be09c3b30d23fd046aeaf0b241361cde876c90eb06c97a649c95f5fe2b0</guid>
-      <pubDate>Mon, 16 Feb 2026 21:37:17 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>4. Direction Is Chosen - 2/16/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=fdac792c095c66fdc5463c511ad85bf1db2974cd198526a6c392d21be9c53ec4</link>
-      <guid isPermaLink="false">fdac792c095c66fdc5463c511ad85bf1db2974cd198526a6c392d21be9c53ec4</guid>
-      <pubDate>Mon, 16 Feb 2026 21:35:12 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>3. Progress Is Often Invisible - 2/16/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6cdcd3b7c8345854bbe1e0ee8b2f908fd8250f72092f9c0432bc9bd29349b09c</link>
-      <guid isPermaLink="false">6cdcd3b7c8345854bbe1e0ee8b2f908fd8250f72092f9c0432bc9bd29349b09c</guid>
-      <pubDate>Mon, 16 Feb 2026 21:31:36 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>2. Alignment Over Applause - 2/16/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=56b4abe7e7e47e122d17af1d9acea5f3a3e38c5491b8f2eee4cdcdc8537d060c</link>
-      <guid isPermaLink="false">56b4abe7e7e47e122d17af1d9acea5f3a3e38c5491b8f2eee4cdcdc8537d060c</guid>
-      <pubDate>Mon, 16 Feb 2026 21:30:29 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>1. I Move When It’s Time - 2/16/2026</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d41194a0ec96a59f63462739b2b5088ff0dd11fb58540dbb84be41dee09a843a</link>
-      <guid isPermaLink="false">d41194a0ec96a59f63462739b2b5088ff0dd11fb58540dbb84be41dee09a843a</guid>
-      <pubDate>Mon, 16 Feb 2026 21:29:55 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
