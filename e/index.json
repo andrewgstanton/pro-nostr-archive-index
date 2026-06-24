@@ -28753,6 +28753,17 @@
     "paid": false
   },
   {
+    "slug": "test4",
+    "event_id": "77304147b987fd178d7071e0d44a3507eca02178d853970fa096c7baf84d4b47",
+    "created_at": 1751945470,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/77304147b987fd178d7071e0d44a3507eca02178d853970fa096c7baf84d4b47.json",
+    "title": "test4",
+    "summary": "test4",
+    "paid": false
+  },
+  {
     "slug": null,
     "event_id": "598e5ff275acd36434730e943fbdad4c114eb45f458e0c35c4165964b99f441f",
     "created_at": 1751945344,
