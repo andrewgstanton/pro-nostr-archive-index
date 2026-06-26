@@ -5,7 +5,47 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 24 Jun 2026 03:13:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 05:01:11 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 ba79359ba5</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ba79359ba59da0909d8314f126e784b65102b274b756f332c6ba4a7af3d6a5ea</link>
+      <guid isPermaLink="false">ba79359ba59da0909d8314f126e784b65102b274b756f332c6ba4a7af3d6a5ea</guid>
+      <pubDate>Thu, 25 Jun 2026 04:11:12 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 7033528506</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=703352850649061e21e1f2518aa7c23a81b7e54d3c7b2ec7b4f7577272cc662e</link>
+      <guid isPermaLink="false">703352850649061e21e1f2518aa7c23a81b7e54d3c7b2ec7b4f7577272cc662e</guid>
+      <pubDate>Thu, 25 Jun 2026 01:37:34 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 dcedd9c18e</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=dcedd9c18e9949801b05a522aa6ea8d557003b5c7354259037b0b3614e2c6e07</link>
+      <guid isPermaLink="false">dcedd9c18e9949801b05a522aa6ea8d557003b5c7354259037b0b3614e2c6e07</guid>
+      <pubDate>Thu, 25 Jun 2026 01:05:26 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 818dc911af</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=818dc911af87e44ce98db99446160e047face6e0ae75133f5f580f5afd1c5c76</link>
+      <guid isPermaLink="false">818dc911af87e44ce98db99446160e047face6e0ae75133f5f580f5afd1c5c76</guid>
+      <pubDate>Wed, 24 Jun 2026 04:58:07 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 1ccf0820cd</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=1ccf0820cd6c5723c99f7246b6733072aa725daa7bc12e1e7870cac376315a4a</link>
@@ -4961,46 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=2c901ad34b3826ab5dcfa5353fe52f766882d1cadfd800f83975f446c844766c</link>
       <guid isPermaLink="false">2c901ad34b3826ab5dcfa5353fe52f766882d1cadfd800f83975f446c844766c</guid>
       <pubDate>Fri, 13 Mar 2026 04:01:47 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 bb6fae49a4</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=bb6fae49a418a5d189e1fe5256624821492664ff969fbd9817ecaefcafd7a9ac</link>
-      <guid isPermaLink="false">bb6fae49a418a5d189e1fe5256624821492664ff969fbd9817ecaefcafd7a9ac</guid>
-      <pubDate>Fri, 13 Mar 2026 04:00:45 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 abd221a3b2</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=abd221a3b21deadd595014ab6010c456d992e0c365ef83cf7b2d952bd54bb3c6</link>
-      <guid isPermaLink="false">abd221a3b21deadd595014ab6010c456d992e0c365ef83cf7b2d952bd54bb3c6</guid>
-      <pubDate>Fri, 13 Mar 2026 03:58:28 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Why a Local Relay Changes the Game for Nostr Builders</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ffb5c545e4bf0e20be174f0f3b3aaaad9aeabb64c15e629e4bec0503e750e23b</link>
-      <guid isPermaLink="false">ffb5c545e4bf0e20be174f0f3b3aaaad9aeabb64c15e629e4bec0503e750e23b</guid>
-      <pubDate>Thu, 12 Mar 2026 04:24:54 GMT</pubDate>
-      <description><![CDATA[Running a local Nostr relay might seem unnecessary at first. After all, the Nostr network already provides dozens of public relays capable of storing and distributing events.  But for builders — especially those working on tools like Continuum — a local relay can fundamentally change the development experience.  It turns the network into something predictable, testable, and much easier to reason about.  Today I began exploring what it would mean to treat a local relay not just as a debugging tool, but as a permanent part of the architecture.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 46bf465f20</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=46bf465f20392268cc5c93656b365bb90715769fd4d83c2de06332b95d00cf9d</link>
-      <guid isPermaLink="false">46bf465f20392268cc5c93656b365bb90715769fd4d83c2de06332b95d00cf9d</guid>
-      <pubDate>Thu, 12 Mar 2026 04:18:01 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
