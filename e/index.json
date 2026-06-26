@@ -1,5 +1,29 @@
 [
   {
+    "slug": "builders-journal---thursday-june-25-2026",
+    "event_id": "a4730cb56b123880390ab07d1ea760492a99a31447106aff550f3697d1c8e48f",
+    "created_at": 1782449323,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/a4730cb56b123880390ab07d1ea760492a99a31447106aff550f3697d1c8e48f.json",
+    "title": "Builder's Journal - Thursday, June 25, 2026",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
+    "slug": "builders-journal---wednesday-june-24-2026",
+    "event_id": "a4d64eec80d825d192c3b0584740921bfd5fefacd650bfe95206ff100c90a6dc",
+    "created_at": 1782363358,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/a4d64eec80d825d192c3b0584740921bfd5fefacd650bfe95206ff100c90a6dc.json",
+    "title": "Builder's Journal - Wednesday, June 24, 2026",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
     "slug": null,
     "event_id": "ba79359ba59da0909d8314f126e784b65102b274b756f332c6ba4a7af3d6a5ea",
     "created_at": 1782360672,
@@ -33,6 +57,42 @@
     "paid": false
   },
   {
+    "slug": "builders-journal---sunday-june-14-2026",
+    "event_id": "db914fe9f1842109032b72ba00bb3ee95380b934f7da87ebade3a8aef8f8556a",
+    "created_at": 1782279154,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/db914fe9f1842109032b72ba00bb3ee95380b934f7da87ebade3a8aef8f8556a.json",
+    "title": "Builder's Journal - Sunday, June 14, 2026",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
+    "slug": "builders-journal---saturday-june-13-2026",
+    "event_id": "a56b0c14bb51f89eeca54852cff581d136ff63d62c1f52171dc98615e5188ad6",
+    "created_at": 1782278961,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/a56b0c14bb51f89eeca54852cff581d136ff63d62c1f52171dc98615e5188ad6.json",
+    "title": "Builder's Journal - Saturday, June 13, 2026",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
+    "slug": "builders-journal---tuesday-june-23-2026",
+    "event_id": "d719f249335bc21f38372c9d0e7aee1fc86c6ec5286203c9b8205a77577e61f5",
+    "created_at": 1782278765,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/d719f249335bc21f38372c9d0e7aee1fc86c6ec5286203c9b8205a77577e61f5.json",
+    "title": "Builder's Journal - Tuesday, June 23, 2026",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
     "slug": null,
     "event_id": "818dc911af87e44ce98db99446160e047face6e0ae75133f5f580f5afd1c5c76",
     "created_at": 1782277087,
@@ -42,6 +102,18 @@
     "title": "",
     "summary": "",
     "paid": false
+  },
+  {
+    "slug": "builders-journal---tuesday-june-23-2026",
+    "event_id": "85aedd6e07a58c58d17d4bf507fa95f5629e1b618980b70d8914cb3373b05915",
+    "created_at": 1782269472,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/85aedd6e07a58c58d17d4bf507fa95f5629e1b618980b70d8914cb3373b05915.json",
+    "title": "Builder's Journal - Tuesday, June 23, 2026",
+    "summary": "",
+    "paid": false,
+    "published": false
   },
   {
     "slug": null,
