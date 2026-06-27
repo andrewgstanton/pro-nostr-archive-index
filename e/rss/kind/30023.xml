@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 26 Jun 2026 06:13:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 16:16:15 GMT</lastBuildDate>
+    <item>
+      <title>Continuum Vault: Rethinking Digital Identity</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=550cb69122b8aba3bc06d5364a0dfd72242819c4c6199260c733d64b8e08418e</link>
+      <guid isPermaLink="false">550cb69122b8aba3bc06d5364a0dfd72242819c4c6199260c733d64b8e08418e</guid>
+      <pubDate>Sat, 27 Jun 2026 05:53:02 GMT</pubDate>
+      <description><![CDATA[This document outlines the current architectural direction for Continuum Vault. It communicates the long-term vision and guiding principles rather than every implementation detail. As Continuum evolves, this document will evolve alongside it.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Continuum Browser Signing Test</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=144c45e68d5665f91cdfdc33b1b40601267a1807b4634ea82adbaf9387ad7b06</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">0f29a545b7fe17f0951514944371d12c8c5ef7f3574e7e2238d13259011cdfc9</guid>
       <pubDate>Fri, 12 Dec 2025 23:01:17 GMT</pubDate>
       <description><![CDATA[Most visions of the future cut history short. Left Behind puts prophecy in decades, Terminator makes AI the end of everything. This essay sketches a longer arc: the Unifier, the Turning, and the Threshold — the great transitions of the next 2000 years, with Bitcoin as the incorruptible pillar carrying sovereignty until eternity.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Dec. 12, 2025): The Bitcoin Chronicles - 1.A.0.0.2 - The Library of Silent Equations</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b622bf8082b0424c133bbf93716447dee2a0334f7996d66dc51c7820b34ff552</link>
-      <guid isPermaLink="false">b622bf8082b0424c133bbf93716447dee2a0334f7996d66dc51c7820b34ff552</guid>
-      <pubDate>Fri, 12 Dec 2025 22:58:59 GMT</pubDate>
-      <description><![CDATA[In 1963, beneath the limestone hills of western Pennsylvania, a classified government archive quietly destroys research deemed incompatible with administrative stability. One archivist’s decision to preserve forbidden equations ensures that sovereign mathematics survives long enough to inspire the Pilgrim generation.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
