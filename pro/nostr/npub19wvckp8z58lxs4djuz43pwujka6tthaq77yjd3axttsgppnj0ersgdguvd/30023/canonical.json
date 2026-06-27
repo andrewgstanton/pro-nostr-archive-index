@@ -3953,5 +3953,9 @@
     "latest_event_id": "a4730cb56b123880390ab07d1ea760492a99a31447106aff550f3697d1c8e48f",
     "latest_year": 2026,
     "published": false
+  },
+  "continuum-vault": {
+    "latest_event_id": "550cb69122b8aba3bc06d5364a0dfd72242819c4c6199260c733d64b8e08418e",
+    "latest_year": 2026
   }
 }
