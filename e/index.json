@@ -1,6 +1,182 @@
 [
   {
     "slug": null,
+    "event_id": "e5c3689e093653e53961667ab2fab00fda3ac64ad1f2a0bc0434877844c0aa42",
+    "created_at": 1782587081,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/e5c3689e093653e53961667ab2fab00fda3ac64ad1f2a0bc0434877844c0aa42.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "c4545f6ca52fdc9b4687cc5a14954ab0ba1191e331aa82f2c19de2d37493129b",
+    "created_at": 1782586929,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/c4545f6ca52fdc9b4687cc5a14954ab0ba1191e331aa82f2c19de2d37493129b.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "a75ce7a0277ba8d1cd269de536dafa6cffdbd1a747a703da7b19307e37a0c766",
+    "created_at": 1782586474,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/a75ce7a0277ba8d1cd269de536dafa6cffdbd1a747a703da7b19307e37a0c766.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "e2b0542ec649dd5caae5206f7cf34939283df14de08f0f6441e409a305533ef0",
+    "created_at": 1782584307,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/e2b0542ec649dd5caae5206f7cf34939283df14de08f0f6441e409a305533ef0.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "c342324f72c3855f475f2c34d5d39b48f74deacf5056a3ccdd3f82753250efb4",
+    "created_at": 1782583981,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/c342324f72c3855f475f2c34d5d39b48f74deacf5056a3ccdd3f82753250efb4.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "d0fd1fa9b0fb86c0753ee291c654cd01ae3de80cd2f32e2110b7db3352aefd2c",
+    "created_at": 1782581950,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/d0fd1fa9b0fb86c0753ee291c654cd01ae3de80cd2f32e2110b7db3352aefd2c.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "2ab25796f99f4f5afe31989c0221b1a3144cb05f98e9ae76afd1499a371d2bd2",
+    "created_at": 1782581536,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/2ab25796f99f4f5afe31989c0221b1a3144cb05f98e9ae76afd1499a371d2bd2.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "f7e5a11a9b5415c244c7190382f02daccb5aa5854392a7a93ffdb5ed8397dfdb",
+    "created_at": 1782581084,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/f7e5a11a9b5415c244c7190382f02daccb5aa5854392a7a93ffdb5ed8397dfdb.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "ab09a7523935b410f79295803fb9f38770d023024150c60c832a6949ed0649e9",
+    "created_at": 1782580897,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/ab09a7523935b410f79295803fb9f38770d023024150c60c832a6949ed0649e9.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "3d5537f6e0380046fd9d0645522f11e7a198872af01b620a94c6316d7e94ad1a",
+    "created_at": 1782580544,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/3d5537f6e0380046fd9d0645522f11e7a198872af01b620a94c6316d7e94ad1a.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "my-first-article-on-poster-place-rlynp",
+    "event_id": "59ab3de7a1d0b6e910de0e6f86c0ce3b49b5addef8f00ddded3bd065db460d23",
+    "created_at": 1782580170,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/59ab3de7a1d0b6e910de0e6f86c0ce3b49b5addef8f00ddded3bd065db460d23.json",
+    "title": "My first article on Poster.Place",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "c69b08639c3bf38bd3006adc8ca401b4c2a2921aa005e73469b86b0d476a0e92",
+    "created_at": 1782579989,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/c69b08639c3bf38bd3006adc8ca401b4c2a2921aa005e73469b86b0d476a0e92.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "1e724e42aa5ef3aaed92aafe7e842073fd8e3971edaab24dce1d4331d0d1e672",
+    "created_at": 1782579393,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/1e724e42aa5ef3aaed92aafe7e842073fd8e3971edaab24dce1d4331d0d1e672.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "664866d851087acaa0ab806b6bca22ebb0a7639802a1b027c74edda1b5b39ac0",
+    "created_at": 1782579091,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/664866d851087acaa0ab806b6bca22ebb0a7639802a1b027c74edda1b5b39ac0.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "f4fbd1fb3ac9b288d36c6cf2fa37bd8ef3a3f830ca3e4ecdfa4033508c93a4ce",
+    "created_at": 1782578769,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/f4fbd1fb3ac9b288d36c6cf2fa37bd8ef3a3f830ca3e4ecdfa4033508c93a4ce.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "118671b1f396b4fcf2aec11fe683d4c53cd63d45e6295d58bf45e9e125cd8670",
+    "created_at": 1782578588,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/118671b1f396b4fcf2aec11fe683d4c53cd63d45e6295d58bf45e9e125cd8670.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
     "event_id": "86cdd6c1dccca9b298b3b822ac04a41fa66543fb5a7ee7cf2f38f28d2ce220d6",
     "created_at": 1782544138,
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
@@ -23986,8 +24162,8 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 30023,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/92fc47be5cc79dae2ef3577d3069abe5bfe403b571393ee143977f83a9baf067.json",
-    "title": "",
-    "summary": "",
+    "title": "Sabbath Article (Nov. 8, 2025): The Sabbath Firewall",
+    "summary": "Even builders of open systems need rest. The Sabbath isn’t withdrawal from creation; it’s its completion — the security patch for the soul.",
     "paid": false
   },
   {

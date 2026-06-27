@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 27 Jun 2026 16:16:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 21:42:58 GMT</lastBuildDate>
+    <item>
+      <title>My first article on Poster.Place</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=59ab3de7a1d0b6e910de0e6f86c0ce3b49b5addef8f00ddded3bd065db460d23</link>
+      <guid isPermaLink="false">59ab3de7a1d0b6e910de0e6f86c0ce3b49b5addef8f00ddded3bd065db460d23</guid>
+      <pubDate>Sat, 27 Jun 2026 17:09:30 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Continuum Vault: Rethinking Digital Identity</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=550cb69122b8aba3bc06d5364a0dfd72242819c4c6199260c733d64b8e08418e</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">93d836cf869f93daf619dcca808df50278baea7a370b568eca174f9b006e77a7</guid>
       <pubDate>Fri, 12 Dec 2025 06:27:27 GMT</pubDate>
       <description><![CDATA[Both multi-level marketing (MLM) and Web3 projects sell the same dream: financial freedom, lifestyle independence, and passive income. I experienced the hype firsthand in 2023–2024 when I briefly joined World Financial Group (WFG). What I saw there helped me recognize the same structural flaws playing out across Web3. The names and technology change. The math doesn’t.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 11, 2025): Sovereign Land Titles: Covenant, Jurisdiction, and the End of Reservations</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=4ac79df92d9959c5af8b7ffe3d73f6eedfc17c91e3b701888be13c664a352642</link>
-      <guid isPermaLink="false">4ac79df92d9959c5af8b7ffe3d73f6eedfc17c91e3b701888be13c664a352642</guid>
-      <pubDate>Fri, 12 Dec 2025 03:22:49 GMT</pubDate>
-      <description><![CDATA[This deep dive explores covenantal ownership, jurisdictional sovereignty, and how Sovereign Land Titles could replace the perpetual leasing and trust systems that keep communities in dependency—restoring real ownership to individuals and real sovereignty to tribes.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

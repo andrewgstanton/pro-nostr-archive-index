@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 27 Jun 2026 16:16:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 21:42:58 GMT</lastBuildDate>
+    <item>
+      <title>My first article on Poster.Place</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=59ab3de7a1d0b6e910de0e6f86c0ce3b49b5addef8f00ddded3bd065db460d23</link>
+      <guid isPermaLink="false">59ab3de7a1d0b6e910de0e6f86c0ce3b49b5addef8f00ddded3bd065db460d23</guid>
+      <pubDate>Sat, 27 Jun 2026 17:09:30 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Continuum Vault: Rethinking Digital Identity</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=550cb69122b8aba3bc06d5364a0dfd72242819c4c6199260c733d64b8e08418e</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">78f0fc4883d89ee6e1a7842032d60cf02c7495e4543c2a7a8418194eb9a2ea91</guid>
       <pubDate>Fri, 12 Dec 2025 23:03:11 GMT</pubDate>
       <description><![CDATA[A Bitcoin Magazine–worthy essay arguing that fiat systems erode trust through inflation, bailouts, and opacity, while Bitcoin restores trust by anchoring it in transparency and mathematics. It shows how Bitcoin redeems human relationships and responsibility, offering hope for honest cooperation.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 8, 2025): The Unifier, The Turning, and The Threshold: Bitcoin and the Long Arc of Prophecy</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0f29a545b7fe17f0951514944371d12c8c5ef7f3574e7e2238d13259011cdfc9</link>
-      <guid isPermaLink="false">0f29a545b7fe17f0951514944371d12c8c5ef7f3574e7e2238d13259011cdfc9</guid>
-      <pubDate>Fri, 12 Dec 2025 23:01:17 GMT</pubDate>
-      <description><![CDATA[Most visions of the future cut history short. Left Behind puts prophecy in decades, Terminator makes AI the end of everything. This essay sketches a longer arc: the Unifier, the Turning, and the Threshold — the great transitions of the next 2000 years, with Bitcoin as the incorruptible pillar carrying sovereignty until eternity.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
