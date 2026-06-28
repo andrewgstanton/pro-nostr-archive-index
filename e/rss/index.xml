@@ -5,7 +5,47 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 27 Jun 2026 21:42:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 00:12:08 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 4f98b88c98</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4f98b88c98be48e2b71b33bf77c1c778fa16e56ce052749b506c8e8bc30c777f</link>
+      <guid isPermaLink="false">4f98b88c98be48e2b71b33bf77c1c778fa16e56ce052749b506c8e8bc30c777f</guid>
+      <pubDate>Sat, 27 Jun 2026 23:57:35 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 17625775f0</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=17625775f090782540ad93b3bb439f6f94efcdfb4640a3aed48eacabab4a4498</link>
+      <guid isPermaLink="false">17625775f090782540ad93b3bb439f6f94efcdfb4640a3aed48eacabab4a4498</guid>
+      <pubDate>Sat, 27 Jun 2026 23:55:24 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 1171a40645</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1171a40645698dc2e89cf5465cdb18ac108759c6579aa7a238327b541d4600fc</link>
+      <guid isPermaLink="false">1171a40645698dc2e89cf5465cdb18ac108759c6579aa7a238327b541d4600fc</guid>
+      <pubDate>Sat, 27 Jun 2026 23:03:04 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 0f714c2392</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=0f714c2392d009ff9bda93518674f7e26246d80b1ecd4e783849b150a95b5909</link>
+      <guid isPermaLink="false">0f714c2392d009ff9bda93518674f7e26246d80b1ecd4e783849b150a95b5909</guid>
+      <pubDate>Sat, 27 Jun 2026 22:01:54 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 e5c3689e09</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=e5c3689e093653e53961667ab2fab00fda3ac64ad1f2a0bc0434877844c0aa42</link>
@@ -4963,46 +5003,6 @@
       <pubDate>Sun, 15 Mar 2026 08:08:36 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 39852fb19f</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=39852fb19f9545651b3359118df20176fdd3f12d291eb6dfce5c3f1ec17b5b89</link>
-      <guid isPermaLink="false">39852fb19f9545651b3359118df20176fdd3f12d291eb6dfce5c3f1ec17b5b89</guid>
-      <pubDate>Sun, 15 Mar 2026 08:00:13 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sabbath and the Promise of the New Creation</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=8d215e561adeaf90524c5a8aadef132d6c89689ef41a1f1712de0b3514e36a5e</link>
-      <guid isPermaLink="false">8d215e561adeaf90524c5a8aadef132d6c89689ef41a1f1712de0b3514e36a5e</guid>
-      <pubDate>Sun, 15 Mar 2026 05:06:43 GMT</pubDate>
-      <description><![CDATA[The Sabbath is not only a command about rest; it is a sign pointing toward the future restoration of all things. Each Sabbath serves as a small foretaste of the New Creation, when the broken rhythms of the present world will finally be healed.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Taxes, Labor, and the Limits of the State</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d98d1d7b3d8f9f454a9ed7b159445d2340611a848789dea0496c63388c65dd0f</link>
-      <guid isPermaLink="false">d98d1d7b3d8f9f454a9ed7b159445d2340611a848789dea0496c63388c65dd0f</guid>
-      <pubDate>Sun, 15 Mar 2026 04:46:13 GMT</pubDate>
-      <description><![CDATA[Throughout history, taxation has expanded alongside state power. From a libertarian perspective, much of modern taxation resembles a form of compelled labor. The biblical concept of Sabbath introduces a powerful counter-principle: human time ultimately belongs to God, not to political authorities.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Fiat Money and the Acceleration of Time</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a618f91e91df209bcec7dc4aae7880c8fc301baec5f3711ee3402897c327352a</link>
-      <guid isPermaLink="false">a618f91e91df209bcec7dc4aae7880c8fc301baec5f3711ee3402897c327352a</guid>
-      <pubDate>Sun, 15 Mar 2026 03:41:33 GMT</pubDate>
-      <description><![CDATA[Monetary systems influence how societies perceive time. Inflationary fiat systems encourage acceleration and short-term thinking, while the Sabbath rhythm introduces a counter-pattern that restores patience and perspective.]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>

@@ -5,7 +5,7 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 27 Jun 2026 21:42:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 00:12:08 GMT</lastBuildDate>
     <item>
       <title>My first article on Poster.Place</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=59ab3de7a1d0b6e910de0e6f86c0ce3b49b5addef8f00ddded3bd065db460d23</link>
@@ -4157,11 +4157,11 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>🔒 Paid Article (Nov. 18, 2025): Choosing the Harder Road — The Discipline of Sovereign Building</title>
+      <title>kind:30023 eb87d1d7dc</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=eb87d1d7dcfa94262f0ac3648770b67e5191bef257185ca59d7b76b10d7319c1</link>
       <guid isPermaLink="false">eb87d1d7dcfa94262f0ac3648770b67e5191bef257185ca59d7b76b10d7319c1</guid>
       <pubDate>Sat, 13 Dec 2025 05:50:51 GMT</pubDate>
-      <description><![CDATA[A deeper, more intimate look at what it actually costs — emotionally, physically, spiritually — to build something sovereign in a world that rewards dependency. This piece explores the tension between exhaustion and purpose, and why choosing the harder road is sometimes the only path that leads anywhere meaningful.]]></description>
+      <description><![CDATA[]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
