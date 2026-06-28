@@ -220,6 +220,18 @@
     "paid": false
   },
   {
+    "slug": "builders-journal---friday-june-26-2026",
+    "event_id": "a3c0acf69641ba4a71c1e71994de8f9d1c0059e0e51d7db4878367f43615bea7",
+    "created_at": 1782576734,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/a3c0acf69641ba4a71c1e71994de8f9d1c0059e0e51d7db4878367f43615bea7.json",
+    "title": "Builder's Journal - Friday, June 26, 2026",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
     "slug": null,
     "event_id": "86cdd6c1dccca9b298b3b822ac04a41fa66543fb5a7ee7cf2f38f28d2ce220d6",
     "created_at": 1782544138,
@@ -19421,8 +19433,8 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 30023,
     "json_url": "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/eb87d1d7dcfa94262f0ac3648770b67e5191bef257185ca59d7b76b10d7319c1.json",
-    "title": "",
-    "summary": "",
+    "title": "🔒 Paid Article (Nov. 18, 2025): Choosing the Harder Road — The Discipline of Sovereign Building",
+    "summary": "A deeper, more intimate look at what it actually costs — emotionally, physically, spiritually — to build something sovereign in a world that rewards dependency. This piece explores the tension between exhaustion and purpose, and why choosing the harder road is sometimes the only path that leads anywhere meaningful.",
     "paid": false
   },
   {
