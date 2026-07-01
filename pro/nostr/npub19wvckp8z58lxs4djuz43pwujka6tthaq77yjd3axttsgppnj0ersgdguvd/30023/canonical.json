@@ -3966,5 +3966,10 @@
   "my-first-article-on-poster-place-rlynp": {
     "latest_event_id": "59ab3de7a1d0b6e910de0e6f86c0ce3b49b5addef8f00ddded3bd065db460d23",
     "latest_year": 2026
+  },
+  "builder-journal---saturday-june-27-2026": {
+    "latest_event_id": "38c3c26f0ac98b27ace43d6590bb683a9997d57afa70ad92fcd6608791e4ab9d",
+    "latest_year": 2026,
+    "published": false
   }
 }
