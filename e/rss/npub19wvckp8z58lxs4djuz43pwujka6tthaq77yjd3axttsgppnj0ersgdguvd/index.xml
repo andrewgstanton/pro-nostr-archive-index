@@ -5,7 +5,47 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 01 Jul 2026 01:46:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 20:58:30 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 aa8221ae3f</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=aa8221ae3fa954e9fe1da68d35567e3a488dfca73771deecf36000fd5f09c61f</link>
+      <guid isPermaLink="false">aa8221ae3fa954e9fe1da68d35567e3a488dfca73771deecf36000fd5f09c61f</guid>
+      <pubDate>Fri, 03 Jul 2026 20:39:43 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Building Continuum — The Wardrobe</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6c9ed4a8271de79c840f4d138779338d715c71937435b771d2e2b53c8d052102</link>
+      <guid isPermaLink="false">6c9ed4a8271de79c840f4d138779338d715c71937435b771d2e2b53c8d052102</guid>
+      <pubDate>Fri, 03 Jul 2026 20:32:05 GMT</pubDate>
+      <description><![CDATA[For years, my digital life was scattered across Facebook, LinkedIn, X, WhatsApp, Nostr, and countless other services. Each knew a different part of me, but none ever felt like home. This is the story of the question that ultimately became Continuum.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 5165953f7b</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5165953f7ba7071bcf38c74c4246cd1fe609af76b4ae3a910b8a1786e1dcec21</link>
+      <guid isPermaLink="false">5165953f7ba7071bcf38c74c4246cd1fe609af76b4ae3a910b8a1786e1dcec21</guid>
+      <pubDate>Wed, 01 Jul 2026 03:17:40 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 3fe53c5596</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=3fe53c55964068cfb7d70b69982a3b78fb35fc89f2c682615b9958f61510143b</link>
+      <guid isPermaLink="false">3fe53c55964068cfb7d70b69982a3b78fb35fc89f2c682615b9958f61510143b</guid>
+      <pubDate>Wed, 01 Jul 2026 02:45:33 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 2320f3fdf1</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=2320f3fdf14642e36a4af3e7f6d1d654a5259b094c7bbb8688da40baac34b129</link>
@@ -4962,46 +5002,6 @@
       <guid isPermaLink="false">8d215e561adeaf90524c5a8aadef132d6c89689ef41a1f1712de0b3514e36a5e</guid>
       <pubDate>Sun, 15 Mar 2026 05:06:43 GMT</pubDate>
       <description><![CDATA[The Sabbath is not only a command about rest; it is a sign pointing toward the future restoration of all things. Each Sabbath serves as a small foretaste of the New Creation, when the broken rhythms of the present world will finally be healed.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Taxes, Labor, and the Limits of the State</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d98d1d7b3d8f9f454a9ed7b159445d2340611a848789dea0496c63388c65dd0f</link>
-      <guid isPermaLink="false">d98d1d7b3d8f9f454a9ed7b159445d2340611a848789dea0496c63388c65dd0f</guid>
-      <pubDate>Sun, 15 Mar 2026 04:46:13 GMT</pubDate>
-      <description><![CDATA[Throughout history, taxation has expanded alongside state power. From a libertarian perspective, much of modern taxation resembles a form of compelled labor. The biblical concept of Sabbath introduces a powerful counter-principle: human time ultimately belongs to God, not to political authorities.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Fiat Money and the Acceleration of Time</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a618f91e91df209bcec7dc4aae7880c8fc301baec5f3711ee3402897c327352a</link>
-      <guid isPermaLink="false">a618f91e91df209bcec7dc4aae7880c8fc301baec5f3711ee3402897c327352a</guid>
-      <pubDate>Sun, 15 Mar 2026 03:41:33 GMT</pubDate>
-      <description><![CDATA[Monetary systems influence how societies perceive time. Inflationary fiat systems encourage acceleration and short-term thinking, while the Sabbath rhythm introduces a counter-pattern that restores patience and perspective.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 a81b9813c6</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a81b9813c605bc70a643d3fd0138e4706af719aef456ca342efcfae0b7cff048</link>
-      <guid isPermaLink="false">a81b9813c605bc70a643d3fd0138e4706af719aef456ca342efcfae0b7cff048</guid>
-      <pubDate>Sun, 15 Mar 2026 02:48:32 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sabbath in an Inflationary World</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=3e3630bc33f51504cd21a08f4f5de073cd6c6b1ea3c2ac183426d2abc7b2f4c9</link>
-      <guid isPermaLink="false">3e3630bc33f51504cd21a08f4f5de073cd6c6b1ea3c2ac183426d2abc7b2f4c9</guid>
-      <pubDate>Sun, 15 Mar 2026 02:23:41 GMT</pubDate>
-      <description><![CDATA[Inflation reshapes how people think about time, labor, and security. When money loses value, the system quietly pressures individuals toward constant activity and acceleration. The biblical rhythm of Sabbath interrupts that pressure by reminding us that provision does not ultimately come from endless economic striving.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 01 Jul 2026 01:46:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 20:58:30 GMT</lastBuildDate>
+    <item>
+      <title>Building Continuum — The Wardrobe</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6c9ed4a8271de79c840f4d138779338d715c71937435b771d2e2b53c8d052102</link>
+      <guid isPermaLink="false">6c9ed4a8271de79c840f4d138779338d715c71937435b771d2e2b53c8d052102</guid>
+      <pubDate>Fri, 03 Jul 2026 20:32:05 GMT</pubDate>
+      <description><![CDATA[For years, my digital life was scattered across Facebook, LinkedIn, X, WhatsApp, Nostr, and countless other services. Each knew a different part of me, but none ever felt like home. This is the story of the question that ultimately became Continuum.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>My first article on Poster.Place</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=59ab3de7a1d0b6e910de0e6f86c0ce3b49b5addef8f00ddded3bd065db460d23</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">6659f44f55f26e4655715dd0c2d08b6388490eb07e58294b40dcb6d802d8112c</guid>
       <pubDate>Fri, 12 Dec 2025 23:34:39 GMT</pubDate>
       <description><![CDATA[A hopeful essay contrasting today’s closed digital “walled gardens” with Bitcoin as an open, flourishing ecosystem. Argues that Bitcoin’s scarcity enables abundance, and that sovereignty is not isolation but a path to human flourishing.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 4, 2024): The Currency of Trust: How Bitcoin Restores What Fiat Has Stolen</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=78f0fc4883d89ee6e1a7842032d60cf02c7495e4543c2a7a8418194eb9a2ea91</link>
-      <guid isPermaLink="false">78f0fc4883d89ee6e1a7842032d60cf02c7495e4543c2a7a8418194eb9a2ea91</guid>
-      <pubDate>Fri, 12 Dec 2025 23:03:11 GMT</pubDate>
-      <description><![CDATA[A Bitcoin Magazine–worthy essay arguing that fiat systems erode trust through inflation, bailouts, and opacity, while Bitcoin restores trust by anchoring it in transparency and mathematics. It shows how Bitcoin redeems human relationships and responsibility, offering hope for honest cooperation.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
