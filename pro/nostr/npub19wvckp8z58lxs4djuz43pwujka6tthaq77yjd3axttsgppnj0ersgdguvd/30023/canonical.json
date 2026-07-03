@@ -3971,5 +3971,29 @@
     "latest_event_id": "38c3c26f0ac98b27ace43d6590bb683a9997d57afa70ad92fcd6608791e4ab9d",
     "latest_year": 2026,
     "published": false
+  },
+  "builders-journal---sunday-june-28-2026": {
+    "latest_event_id": "f552382ac64c15228192636533bae71de52dc150ad829d4fe6c51102112bdca0",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---monday-june-29-2026": {
+    "latest_event_id": "949bc8af0f6b4561afca492fa6af2270ba176b3c46f62166433138ee5c5d064b",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---tuesday-june-30-2026": {
+    "latest_event_id": "a7c706fffc5b6097d702bc7f85c4d2b5836f3cc0f8ad580b31af014ee9621660",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---wednesday-july-1-2026": {
+    "latest_event_id": "e8dd8ff67480252609e48cecbb6d706ec43ca80e3de198899e914b4385157495",
+    "latest_year": 2026,
+    "published": false
+  },
+  "building-continuum--the-wardrobe": {
+    "latest_event_id": "6c9ed4a8271de79c840f4d138779338d715c71937435b771d2e2b53c8d052102",
+    "latest_year": 2026
   }
 }
