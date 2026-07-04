@@ -3955,7 +3955,7 @@
     "published": false
   },
   "continuum-vault": {
-    "latest_event_id": "550cb69122b8aba3bc06d5364a0dfd72242819c4c6199260c733d64b8e08418e",
+    "latest_event_id": "84c8f52c2f3fd28819a523ca309f58eeda77a8302d049583cbdb0eaa9b9b04c2",
     "latest_year": 2026
   },
   "builders-journal---friday-june-26-2026": {
@@ -3993,7 +3993,15 @@
     "published": false
   },
   "building-continuum--the-wardrobe": {
-    "latest_event_id": "c702c7bf799a91a000be510873453565e4a39f50a41e07f378d20e66da5da814",
+    "latest_event_id": "890b01abaf54d02f850e33e40ed222144e99cd92d227a2ca6b6463dfd154f370",
+    "latest_year": 2026
+  },
+  "sovereignty-isnt-really-about-self-hosting": {
+    "latest_event_id": "5baa81f700434179387a3c6488eeca61c288a5fbec443d613d07c16960e68937",
+    "latest_year": 2026
+  },
+  "continuum-media-owning-your-images-without-owning-the-infrastructure": {
+    "latest_event_id": "8b4be02a14601ff7e2fadb4b78f1251794d1656e566219995e6fb92b90a79972",
     "latest_year": 2026
   }
 }
