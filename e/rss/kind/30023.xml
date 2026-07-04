@@ -5,12 +5,42 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 04 Jul 2026 00:03:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 19:29:32 GMT</lastBuildDate>
+    <item>
+      <title>Continuum Media: Owning Your Images without Owning the Infrastructure</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=8b4be02a14601ff7e2fadb4b78f1251794d1656e566219995e6fb92b90a79972</link>
+      <guid isPermaLink="false">8b4be02a14601ff7e2fadb4b78f1251794d1656e566219995e6fb92b90a79972</guid>
+      <pubDate>Sat, 04 Jul 2026 07:12:01 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Sovereignty Isn't  Really About Self-Hosting</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5baa81f700434179387a3c6488eeca61c288a5fbec443d613d07c16960e68937</link>
+      <guid isPermaLink="false">5baa81f700434179387a3c6488eeca61c288a5fbec443d613d07c16960e68937</guid>
+      <pubDate>Sat, 04 Jul 2026 06:55:17 GMT</pubDate>
+      <description><![CDATA[Software sovereignty isn't just about self-hosting—it's about preserving the freedom to change infrastructure without rewriting your application. Using Continuum's migration from GitHub Pages to Cloudflare Pages as a real-world example, this article explores why interchangeable services matter more than any single provider and argues that true ownership comes from controlling your namespace and your ability to move your data.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Continuum Vault: Rethinking Digital Identity</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=84c8f52c2f3fd28819a523ca309f58eeda77a8302d049583cbdb0eaa9b9b04c2</link>
+      <guid isPermaLink="false">84c8f52c2f3fd28819a523ca309f58eeda77a8302d049583cbdb0eaa9b9b04c2</guid>
+      <pubDate>Sat, 04 Jul 2026 03:50:59 GMT</pubDate>
+      <description><![CDATA[This document outlines the current architectural direction for Continuum Vault. It communicates the long-term vision and guiding principles rather than every implementation detail. As Continuum evolves, this document will evolve alongside it.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Building Continuum — The Wardrobe</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c702c7bf799a91a000be510873453565e4a39f50a41e07f378d20e66da5da814</link>
-      <guid isPermaLink="false">c702c7bf799a91a000be510873453565e4a39f50a41e07f378d20e66da5da814</guid>
-      <pubDate>Fri, 03 Jul 2026 23:46:12 GMT</pubDate>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=890b01abaf54d02f850e33e40ed222144e99cd92d227a2ca6b6463dfd154f370</link>
+      <guid isPermaLink="false">890b01abaf54d02f850e33e40ed222144e99cd92d227a2ca6b6463dfd154f370</guid>
+      <pubDate>Sat, 04 Jul 2026 01:06:29 GMT</pubDate>
       <description><![CDATA[For years, my digital life was scattered across Facebook, LinkedIn, X, WhatsApp, Nostr, and countless other services. Each knew a different part of me, but none ever felt like home. This is the story of the question that ultimately became Continuum.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
@@ -22,16 +52,6 @@
       <guid isPermaLink="false">59ab3de7a1d0b6e910de0e6f86c0ce3b49b5addef8f00ddded3bd065db460d23</guid>
       <pubDate>Sat, 27 Jun 2026 17:09:30 GMT</pubDate>
       <description><![CDATA[]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Vault: Rethinking Digital Identity</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=550cb69122b8aba3bc06d5364a0dfd72242819c4c6199260c733d64b8e08418e</link>
-      <guid isPermaLink="false">550cb69122b8aba3bc06d5364a0dfd72242819c4c6199260c733d64b8e08418e</guid>
-      <pubDate>Sat, 27 Jun 2026 05:53:02 GMT</pubDate>
-      <description><![CDATA[This document outlines the current architectural direction for Continuum Vault. It communicates the long-term vision and guiding principles rather than every implementation detail. As Continuum evolves, this document will evolve alongside it.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
@@ -4982,26 +5002,6 @@
       <guid isPermaLink="false">910273729e9705b09897a210561f4705594f7db23cd4e545dd5677f09a649626</guid>
       <pubDate>Fri, 12 Dec 2025 23:40:21 GMT</pubDate>
       <description><![CDATA[On this Labor Day, I trace the arc of sovereign labor across centuries: from Earth’s fiat chains to Bitcoin-native colonies, from the Cathedral of New Lakota to the Chain Among the Stars. A master timeline of the Bitcoin Chronicles universe, spanning 2025–3100s.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 2, 2025): Cathedrals or Casinos — Bitcoin and the End of Disposable Tech</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a0b1f998b758e67ce8b9d0f545db000b58fab3b992dcc22ca86b7cb3a113203b</link>
-      <guid isPermaLink="false">a0b1f998b758e67ce8b9d0f545db000b58fab3b992dcc22ca86b7cb3a113203b</guid>
-      <pubDate>Fri, 12 Dec 2025 23:38:24 GMT</pubDate>
-      <description><![CDATA[From MySpace to Terra/LUNA, most platforms and tokens are disposable. They promise ownership but vanish with the hype, leaving creators and workers with nothing. Bitcoin is different. It is cathedral-building: slow, covenantal, sovereign, built to last for centuries. This article contrasts disposability with endurance, calling readers to build cathedrals, not art deco houses.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 3, 2025) : The Garden Without Walls: How Bitcoin Opens the Way to Human Flourishing</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6659f44f55f26e4655715dd0c2d08b6388490eb07e58294b40dcb6d802d8112c</link>
-      <guid isPermaLink="false">6659f44f55f26e4655715dd0c2d08b6388490eb07e58294b40dcb6d802d8112c</guid>
-      <pubDate>Fri, 12 Dec 2025 23:34:39 GMT</pubDate>
-      <description><![CDATA[A hopeful essay contrasting today’s closed digital “walled gardens” with Bitcoin as an open, flourishing ecosystem. Argues that Bitcoin’s scarcity enables abundance, and that sovereignty is not isolation but a path to human flourishing.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

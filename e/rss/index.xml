@@ -5,12 +5,82 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 04 Jul 2026 00:03:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 19:29:32 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 f926e548a8</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f926e548a8324665960ed7c99bb1448473399fd33126d1876168fa8696dc337f</link>
+      <guid isPermaLink="false">f926e548a8324665960ed7c99bb1448473399fd33126d1876168fa8696dc337f</guid>
+      <pubDate>Sat, 04 Jul 2026 18:39:41 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Continuum Media: Owning Your Images without Owning the Infrastructure</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=8b4be02a14601ff7e2fadb4b78f1251794d1656e566219995e6fb92b90a79972</link>
+      <guid isPermaLink="false">8b4be02a14601ff7e2fadb4b78f1251794d1656e566219995e6fb92b90a79972</guid>
+      <pubDate>Sat, 04 Jul 2026 07:12:01 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Sovereignty Isn't  Really About Self-Hosting</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5baa81f700434179387a3c6488eeca61c288a5fbec443d613d07c16960e68937</link>
+      <guid isPermaLink="false">5baa81f700434179387a3c6488eeca61c288a5fbec443d613d07c16960e68937</guid>
+      <pubDate>Sat, 04 Jul 2026 06:55:17 GMT</pubDate>
+      <description><![CDATA[Software sovereignty isn't just about self-hosting—it's about preserving the freedom to change infrastructure without rewriting your application. Using Continuum's migration from GitHub Pages to Cloudflare Pages as a real-world example, this article explores why interchangeable services matter more than any single provider and argues that true ownership comes from controlling your namespace and your ability to move your data.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 18d93de37e</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=18d93de37e7ede6f64ad54cbc496080965feb83a737fdd2cc8905f5f29dd37a1</link>
+      <guid isPermaLink="false">18d93de37e7ede6f64ad54cbc496080965feb83a737fdd2cc8905f5f29dd37a1</guid>
+      <pubDate>Sat, 04 Jul 2026 06:12:43 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 9c7d2bc3ac</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9c7d2bc3acaf5961a5030131cc948986911765c8852d6216f23777832f56816a</link>
+      <guid isPermaLink="false">9c7d2bc3acaf5961a5030131cc948986911765c8852d6216f23777832f56816a</guid>
+      <pubDate>Sat, 04 Jul 2026 06:01:06 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 020079d601</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=020079d601e0bdbebc0cd47c14b75e791706f0cee0268d245c9be0977b9a03ed</link>
+      <guid isPermaLink="false">020079d601e0bdbebc0cd47c14b75e791706f0cee0268d245c9be0977b9a03ed</guid>
+      <pubDate>Sat, 04 Jul 2026 05:56:01 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Continuum Vault: Rethinking Digital Identity</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=84c8f52c2f3fd28819a523ca309f58eeda77a8302d049583cbdb0eaa9b9b04c2</link>
+      <guid isPermaLink="false">84c8f52c2f3fd28819a523ca309f58eeda77a8302d049583cbdb0eaa9b9b04c2</guid>
+      <pubDate>Sat, 04 Jul 2026 03:50:59 GMT</pubDate>
+      <description><![CDATA[This document outlines the current architectural direction for Continuum Vault. It communicates the long-term vision and guiding principles rather than every implementation detail. As Continuum evolves, this document will evolve alongside it.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Building Continuum — The Wardrobe</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c702c7bf799a91a000be510873453565e4a39f50a41e07f378d20e66da5da814</link>
-      <guid isPermaLink="false">c702c7bf799a91a000be510873453565e4a39f50a41e07f378d20e66da5da814</guid>
-      <pubDate>Fri, 03 Jul 2026 23:46:12 GMT</pubDate>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=890b01abaf54d02f850e33e40ed222144e99cd92d227a2ca6b6463dfd154f370</link>
+      <guid isPermaLink="false">890b01abaf54d02f850e33e40ed222144e99cd92d227a2ca6b6463dfd154f370</guid>
+      <pubDate>Sat, 04 Jul 2026 01:06:29 GMT</pubDate>
       <description><![CDATA[For years, my digital life was scattered across Facebook, LinkedIn, X, WhatsApp, Nostr, and countless other services. Each knew a different part of me, but none ever felt like home. This is the story of the question that ultimately became Continuum.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
@@ -343,16 +413,6 @@
       <pubDate>Sat, 27 Jun 2026 16:43:08 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Continuum Vault: Rethinking Digital Identity</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=550cb69122b8aba3bc06d5364a0dfd72242819c4c6199260c733d64b8e08418e</link>
-      <guid isPermaLink="false">550cb69122b8aba3bc06d5364a0dfd72242819c4c6199260c733d64b8e08418e</guid>
-      <pubDate>Sat, 27 Jun 2026 05:53:02 GMT</pubDate>
-      <description><![CDATA[This document outlines the current architectural direction for Continuum Vault. It communicates the long-term vision and guiding principles rather than every implementation detail. As Continuum evolves, this document will evolve alongside it.]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
@@ -4941,66 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=914d859a641f8b7af425e01999c6b9491ad5c380551da7b3f1930093cea5b7d3</link>
       <guid isPermaLink="false">914d859a641f8b7af425e01999c6b9491ad5c380551da7b3f1930093cea5b7d3</guid>
       <pubDate>Tue, 17 Mar 2026 23:19:17 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 fc128e68c9</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=fc128e68c9d605946169fe44e8a3dce4fb554242a9775347f628a9cb27650ce6</link>
-      <guid isPermaLink="false">fc128e68c9d605946169fe44e8a3dce4fb554242a9775347f628a9cb27650ce6</guid>
-      <pubDate>Tue, 17 Mar 2026 23:17:47 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 5939ecebfb</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5939ecebfbde5b3c7ce8ec14ba727e3731896246f61c5ce4871c3c76f99ae12d</link>
-      <guid isPermaLink="false">5939ecebfbde5b3c7ce8ec14ba727e3731896246f61c5ce4871c3c76f99ae12d</guid>
-      <pubDate>Tue, 17 Mar 2026 23:17:01 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 a5eee38da9</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a5eee38da994491f51e32f8fdfab107800b22520b996a7d0f2eabe3572e8cbd7</link>
-      <guid isPermaLink="false">a5eee38da994491f51e32f8fdfab107800b22520b996a7d0f2eabe3572e8cbd7</guid>
-      <pubDate>Tue, 17 Mar 2026 15:03:51 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 af2fd0483d</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=af2fd0483d1a07adc0de798f3c25a3f8ad2f7d8f5ab5a3ee0ec886873ff2d1e0</link>
-      <guid isPermaLink="false">af2fd0483d1a07adc0de798f3c25a3f8ad2f7d8f5ab5a3ee0ec886873ff2d1e0</guid>
-      <pubDate>Tue, 17 Mar 2026 07:25:13 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 f44ec1cd16</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f44ec1cd168120beb5d0550fdd5b16993bad2f5e684a4b589af75c0a39053726</link>
-      <guid isPermaLink="false">f44ec1cd168120beb5d0550fdd5b16993bad2f5e684a4b589af75c0a39053726</guid>
-      <pubDate>Tue, 17 Mar 2026 07:24:57 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 be82d46716</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=be82d467168604aa052aa56ce26016596c4f2528f44af574bb2d51637aba61c5</link>
-      <guid isPermaLink="false">be82d467168604aa052aa56ce26016596c4f2528f44af574bb2d51637aba61c5</guid>
-      <pubDate>Tue, 17 Mar 2026 07:24:39 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
