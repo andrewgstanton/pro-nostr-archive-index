@@ -5,12 +5,12 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 03 Jul 2026 21:55:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 00:03:50 GMT</lastBuildDate>
     <item>
       <title>Building Continuum — The Wardrobe</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6c9ed4a8271de79c840f4d138779338d715c71937435b771d2e2b53c8d052102</link>
-      <guid isPermaLink="false">6c9ed4a8271de79c840f4d138779338d715c71937435b771d2e2b53c8d052102</guid>
-      <pubDate>Fri, 03 Jul 2026 20:32:05 GMT</pubDate>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c702c7bf799a91a000be510873453565e4a39f50a41e07f378d20e66da5da814</link>
+      <guid isPermaLink="false">c702c7bf799a91a000be510873453565e4a39f50a41e07f378d20e66da5da814</guid>
+      <pubDate>Fri, 03 Jul 2026 23:46:12 GMT</pubDate>
       <description><![CDATA[For years, my digital life was scattered across Facebook, LinkedIn, X, WhatsApp, Nostr, and countless other services. Each knew a different part of me, but none ever felt like home. This is the story of the question that ultimately became Continuum.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
