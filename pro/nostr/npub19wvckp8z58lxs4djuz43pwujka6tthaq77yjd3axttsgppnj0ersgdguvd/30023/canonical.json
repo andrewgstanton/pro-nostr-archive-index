@@ -3988,7 +3988,7 @@
     "published": false
   },
   "builders-journal---wednesday-july-1-2026": {
-    "latest_event_id": "e8dd8ff67480252609e48cecbb6d706ec43ca80e3de198899e914b4385157495",
+    "latest_event_id": "5ba1f6353973d693c53fd6567a78338ef716a65416fd8f25b242d62690022bc4",
     "latest_year": 2026,
     "published": false
   },
@@ -4003,5 +4003,42 @@
   "continuum-media-owning-your-images-without-owning-the-infrastructure": {
     "latest_event_id": "8b4be02a14601ff7e2fadb4b78f1251794d1656e566219995e6fb92b90a79972",
     "latest_year": 2026
+  },
+  "relational-memory": {
+    "latest_event_id": "f83f26f2841f1f329733441815713cab245434d0ffe1b05fcc38ef5d9d393683",
+    "latest_year": 2026
+  },
+  "digital-independence-day": {
+    "latest_event_id": "42212a5a7b76954483177283983aefe9418bb5caaa49b329e8ae293be87191f5",
+    "latest_year": 2026
+  },
+  "beyond-the-timeline---a-vision-for-your-continuum": {
+    "latest_event_id": "70be11b72a1e0adc5dda8659be070c8f83ff1d09537b2fe7357b84f1354db720",
+    "latest_year": 2026
+  },
+  "how-do-we-build-digital-lives-that-we-actually-own": {
+    "latest_event_id": "f2eab69496ff76f684abb0612bd57d0430c4225d035a65383336a59558260464",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---thursday-july-2-2026": {
+    "latest_event_id": "35db25db435f7bef051e270f6fe3e529703356115bb1733d84f2b4d8e9f5705a",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---friday-july-3-2026": {
+    "latest_event_id": "f28d9f85df118d78a64d37df2c5b7a0e6c3ea5b1c3309e88315d1b704c660cf4",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---saturday-july-4-2026": {
+    "latest_event_id": "45a2845882fb3a77fb57903ce33688a210d4ef83696bfdd18b295b95891141d3",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---sunday-july-5-2026": {
+    "latest_event_id": "8932acfd2619cc999f82c4e2152ae8e9a050faac48b6fe9476cd209580692cf2",
+    "latest_year": 2026,
+    "published": false
   }
 }
