@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 04 Jul 2026 19:29:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 05:39:41 GMT</lastBuildDate>
+    <item>
+      <title>Beyond the Timeline - A Vision for YOUR Continuum</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=70be11b72a1e0adc5dda8659be070c8f83ff1d09537b2fe7357b84f1354db720</link>
+      <guid isPermaLink="false">70be11b72a1e0adc5dda8659be070c8f83ff1d09537b2fe7357b84f1354db720</guid>
+      <pubDate>Sun, 05 Jul 2026 04:41:29 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Relational Memory</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f83f26f2841f1f329733441815713cab245434d0ffe1b05fcc38ef5d9d393683</link>
+      <guid isPermaLink="false">f83f26f2841f1f329733441815713cab245434d0ffe1b05fcc38ef5d9d393683</guid>
+      <pubDate>Sun, 05 Jul 2026 04:17:01 GMT</pubDate>
+      <description><![CDATA[Continuum's media library has taken a step beyond simple file management. By tracking where each image is used across articles, notes, and profile metadata, it can protect published content, prevent accidental deletions, and surface relationships that would otherwise be hidden. This is the beginning of what I call relational memory—software that remembers not just what you've created, but how everything you've created fits together.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Digital Independence Day</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=42212a5a7b76954483177283983aefe9418bb5caaa49b329e8ae293be87191f5</link>
+      <guid isPermaLink="false">42212a5a7b76954483177283983aefe9418bb5caaa49b329e8ae293be87191f5</guid>
+      <pubDate>Sun, 05 Jul 2026 04:16:33 GMT</pubDate>
+      <description><![CDATA[What does independence mean in the digital age? Reflecting on America's 250th birthday and recent changes to Continuum, this article explores why true software sovereignty comes from owning the architecture rather than becoming dependent on any single provider or platform.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Continuum Media: Owning Your Images without Owning the Infrastructure</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=8b4be02a14601ff7e2fadb4b78f1251794d1656e566219995e6fb92b90a79972</link>
@@ -4972,36 +5002,6 @@
       <guid isPermaLink="false">fb7604cea9902f1386de52f9fe84d90d937a0b9e79ca9d0d1928802caa52b5cd</guid>
       <pubDate>Fri, 12 Dec 2025 06:53:56 GMT</pubDate>
       <description><![CDATA[End-of-life choices are the most important “investment decisions” we make. Sovereignty means facing mortality with clarity, refusing to outsource dignity to profit-driven systems, and leaving a legacy that outlasts us. This article explores how sovereignty reframes death as the last, and greatest, investment.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 19, 2025): The Hidden Cost of Walled Gardens</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=52e23093e5b589c74ec2dd1848865caab533cb7848639a035408c31de9896c39</link>
-      <guid isPermaLink="false">52e23093e5b589c74ec2dd1848865caab533cb7848639a035408c31de9896c39</guid>
-      <pubDate>Fri, 12 Dec 2025 06:49:44 GMT</pubDate>
-      <description><![CDATA[Explores how companies like Rover, TaskRabbit, and Nextdoor monetize content and relationships while creators and workers do the actual value-creation. Argues that sovereignty requires cutting out such middlemen.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 18, 2025): The Last Gatekeepers: Why Sovereignty Demands an End to Intermediaries</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5763fd3947a192da2deb82bacd6706cba7af5f2399bb7f9517408c260612483b</link>
-      <guid isPermaLink="false">5763fd3947a192da2deb82bacd6706cba7af5f2399bb7f9517408c260612483b</guid>
-      <pubDate>Fri, 12 Dec 2025 06:45:23 GMT</pubDate>
-      <description><![CDATA[This essay dissects how financial, legal, and digital intermediaries maintain hidden control even in a world full of “decentralized” promises. It argues that sovereignty requires cutting them out entirely—not just building around them.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 17, 2025): Sovereignty is Not a Straight Path</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=5940ba2c5663ed383c9455279c58fce34616e8ccd87ed2368ca133c9ccac639f</link>
-      <guid isPermaLink="false">5940ba2c5663ed383c9455279c58fce34616e8ccd87ed2368ca133c9ccac639f</guid>
-      <pubDate>Fri, 12 Dec 2025 06:42:09 GMT</pubDate>
-      <description><![CDATA[A parable about promises, silence, and persistence, drawing from real experiences of unanswered commitments in business, framed in a way that speaks to the broader fight for sovereignty.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

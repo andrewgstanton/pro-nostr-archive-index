@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 04 Jul 2026 19:29:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 05:39:41 GMT</lastBuildDate>
+    <item>
+      <title>Beyond the Timeline - A Vision for YOUR Continuum</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=70be11b72a1e0adc5dda8659be070c8f83ff1d09537b2fe7357b84f1354db720</link>
+      <guid isPermaLink="false">70be11b72a1e0adc5dda8659be070c8f83ff1d09537b2fe7357b84f1354db720</guid>
+      <pubDate>Sun, 05 Jul 2026 04:41:29 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Relational Memory</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=f83f26f2841f1f329733441815713cab245434d0ffe1b05fcc38ef5d9d393683</link>
+      <guid isPermaLink="false">f83f26f2841f1f329733441815713cab245434d0ffe1b05fcc38ef5d9d393683</guid>
+      <pubDate>Sun, 05 Jul 2026 04:17:01 GMT</pubDate>
+      <description><![CDATA[Continuum's media library has taken a step beyond simple file management. By tracking where each image is used across articles, notes, and profile metadata, it can protect published content, prevent accidental deletions, and surface relationships that would otherwise be hidden. This is the beginning of what I call relational memory—software that remembers not just what you've created, but how everything you've created fits together.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>Digital Independence Day</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=42212a5a7b76954483177283983aefe9418bb5caaa49b329e8ae293be87191f5</link>
+      <guid isPermaLink="false">42212a5a7b76954483177283983aefe9418bb5caaa49b329e8ae293be87191f5</guid>
+      <pubDate>Sun, 05 Jul 2026 04:16:33 GMT</pubDate>
+      <description><![CDATA[What does independence mean in the digital age? Reflecting on America's 250th birthday and recent changes to Continuum, this article explores why true software sovereignty comes from owning the architecture rather than becoming dependent on any single provider or platform.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Continuum Media: Owning Your Images without Owning the Infrastructure</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=8b4be02a14601ff7e2fadb4b78f1251794d1656e566219995e6fb92b90a79972</link>
@@ -4972,36 +5002,6 @@
       <guid isPermaLink="false">10b05742b4054b4d2570866fdc080e2b50b3bca816d259298ca9a3a5400788cc</guid>
       <pubDate>Sat, 13 Dec 2025 00:02:25 GMT</pubDate>
       <description><![CDATA[Beyond the headlines, today’s Election Day marks a turning point in how America redraws, realigns, and redefines power. From California’s redistricting gambit to pivotal governorships, the true stakes lie not in who wins tonight — but in who shapes the playing field for the decade ahead.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Sovereign ≠ Decentralized (Full Article)</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2380fdb63cd0b02c4d2fd7f937b62cf27bd5eb56ff85e618aa91fa4d81ac2c30</link>
-      <guid isPermaLink="false">2380fdb63cd0b02c4d2fd7f937b62cf27bd5eb56ff85e618aa91fa4d81ac2c30</guid>
-      <pubDate>Fri, 12 Dec 2025 23:59:09 GMT</pubDate>
-      <description><![CDATA[A short essay highlighting the difference between sovereign vs decentralized technologies]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>The Bitcoin Chronicles - 7.A.1 - Archivist Note: On Divergent Timekeeping Systems</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7b115894c880cfbe3ed1374fecc1daf12dab16899d16f637904129ba3813db20</link>
-      <guid isPermaLink="false">7b115894c880cfbe3ed1374fecc1daf12dab16899d16f637904129ba3813db20</guid>
-      <pubDate>Fri, 12 Dec 2025 23:48:28 GMT</pubDate>
-      <description><![CDATA[An archival clarification describing the continued use of Gregorian dates by centralized authorities alongside the adoption of ledger-based and epochal time by sovereign colonies after the Pilgrim era.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 1, 2025): The Bitcoin Chronicles: Master Timeline of the Bitcoin Chronicles Universe (2025–3100s): A Timeline of Sovereign Labor: From Fiat Chains to the Chain Among the Stars</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=910273729e9705b09897a210561f4705594f7db23cd4e545dd5677f09a649626</link>
-      <guid isPermaLink="false">910273729e9705b09897a210561f4705594f7db23cd4e545dd5677f09a649626</guid>
-      <pubDate>Fri, 12 Dec 2025 23:40:21 GMT</pubDate>
-      <description><![CDATA[On this Labor Day, I trace the arc of sovereign labor across centuries: from Earth’s fiat chains to Bitcoin-native colonies, from the Cathedral of New Lakota to the Chain Among the Stars. A master timeline of the Bitcoin Chronicles universe, spanning 2025–3100s.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
