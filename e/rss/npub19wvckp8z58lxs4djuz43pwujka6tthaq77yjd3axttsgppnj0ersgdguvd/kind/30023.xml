@@ -5,13 +5,23 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 06 Jul 2026 05:39:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 04:03:00 GMT</lastBuildDate>
     <item>
       <title>Beyond the Timeline - A Vision for YOUR Continuum</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=70be11b72a1e0adc5dda8659be070c8f83ff1d09537b2fe7357b84f1354db720</link>
-      <guid isPermaLink="false">70be11b72a1e0adc5dda8659be070c8f83ff1d09537b2fe7357b84f1354db720</guid>
-      <pubDate>Sun, 05 Jul 2026 04:41:29 GMT</pubDate>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ce985ba914f0fa9db13d830915d17f5e1a2f11ce62b1fa2a373a8fba585b16d0</link>
+      <guid isPermaLink="false">ce985ba914f0fa9db13d830915d17f5e1a2f11ce62b1fa2a373a8fba585b16d0</guid>
+      <pubDate>Sun, 12 Jul 2026 02:55:44 GMT</pubDate>
       <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>How Do We Build Digital Lives That We Actually Own?</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5a116c418827099d140f30cc3468b5c09ddc9ab82102389740f3cd08fc815792</link>
+      <guid isPermaLink="false">5a116c418827099d140f30cc3468b5c09ddc9ab82102389740f3cd08fc815792</guid>
+      <pubDate>Sat, 11 Jul 2026 22:23:38 GMT</pubDate>
+      <description><![CDATA[Bitcoin taught us to think differently about money. This article explores what happens when we apply that same principle to the rest of our digital lives. From Nostr and local-first software to relationship memory and AI, I argue that our writing, conversations, and digital history should begin with us—not with a platform.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">ac0508b019009d0ab9ce88c241d03cdd986b0e658b94c0193a63b0df0b491c2e</guid>
       <pubDate>Fri, 12 Dec 2025 06:57:46 GMT</pubDate>
       <description><![CDATA[Drawing inspiration from the drama and history surrounding island kingdoms and foreign encroachment, this essay examines what sovereignty looks like at the very edge of empire. It considers how chiefs balanced honor and survival, how betrayal hollowed alliances, and why the price of freedom is almost always paid by those who refuse to be assimilated. Finally, it connects these lessons to modern forms of sovereignty—especially monetary and identity sovereignty—in a world of soft coercion.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 22, 2025): The Last Investment: End of Life and Sovereignty</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=fb7604cea9902f1386de52f9fe84d90d937a0b9e79ca9d0d1928802caa52b5cd</link>
-      <guid isPermaLink="false">fb7604cea9902f1386de52f9fe84d90d937a0b9e79ca9d0d1928802caa52b5cd</guid>
-      <pubDate>Fri, 12 Dec 2025 06:53:56 GMT</pubDate>
-      <description><![CDATA[End-of-life choices are the most important “investment decisions” we make. Sovereignty means facing mortality with clarity, refusing to outsource dignity to profit-driven systems, and leaving a legacy that outlasts us. This article explores how sovereignty reframes death as the last, and greatest, investment.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

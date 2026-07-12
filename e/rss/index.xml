@@ -5,7 +5,137 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 06 Jul 2026 05:39:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 04:03:00 GMT</lastBuildDate>
+    <item>
+      <title>Beyond the Timeline - A Vision for YOUR Continuum</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ce985ba914f0fa9db13d830915d17f5e1a2f11ce62b1fa2a373a8fba585b16d0</link>
+      <guid isPermaLink="false">ce985ba914f0fa9db13d830915d17f5e1a2f11ce62b1fa2a373a8fba585b16d0</guid>
+      <pubDate>Sun, 12 Jul 2026 02:55:44 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 ec08c37222</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ec08c37222133acab79d5e445e05d8280388852cf6c95d45a76b24411c46b573</link>
+      <guid isPermaLink="false">ec08c37222133acab79d5e445e05d8280388852cf6c95d45a76b24411c46b573</guid>
+      <pubDate>Sun, 12 Jul 2026 02:42:59 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>How Do We Build Digital Lives That We Actually Own?</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5a116c418827099d140f30cc3468b5c09ddc9ab82102389740f3cd08fc815792</link>
+      <guid isPermaLink="false">5a116c418827099d140f30cc3468b5c09ddc9ab82102389740f3cd08fc815792</guid>
+      <pubDate>Sat, 11 Jul 2026 22:23:38 GMT</pubDate>
+      <description><![CDATA[Bitcoin taught us to think differently about money. This article explores what happens when we apply that same principle to the rest of our digital lives. From Nostr and local-first software to relationship memory and AI, I argue that our writing, conversations, and digital history should begin with us—not with a platform.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 cdd69ec37b</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=cdd69ec37b4b3051aaa03f08856e54d13756dc3470e3ffe4aa0bfe4460e2410d</link>
+      <guid isPermaLink="false">cdd69ec37b4b3051aaa03f08856e54d13756dc3470e3ffe4aa0bfe4460e2410d</guid>
+      <pubDate>Wed, 08 Jul 2026 04:57:09 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 d51d0d61a1</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d51d0d61a1e7431249834424b766659a7ea84b7b4b27c754e155943b31728a75</link>
+      <guid isPermaLink="false">d51d0d61a1e7431249834424b766659a7ea84b7b4b27c754e155943b31728a75</guid>
+      <pubDate>Wed, 08 Jul 2026 04:47:15 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 42aea91262</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=42aea91262ae54b4e805e005be9a4d8a2bc406608de3fb479b256570248a91d7</link>
+      <guid isPermaLink="false">42aea91262ae54b4e805e005be9a4d8a2bc406608de3fb479b256570248a91d7</guid>
+      <pubDate>Tue, 07 Jul 2026 06:02:47 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 0012308a4f</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=0012308a4f67748e05ad9d67c80fe05124ac16423ab8ef38e8b669d8dbb56bc5</link>
+      <guid isPermaLink="false">0012308a4f67748e05ad9d67c80fe05124ac16423ab8ef38e8b669d8dbb56bc5</guid>
+      <pubDate>Tue, 07 Jul 2026 03:41:35 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 1ba6fdb039</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1ba6fdb0398f26627f95790bc159b265919e7b18355644bf0d0dfd907fb0f7a4</link>
+      <guid isPermaLink="false">1ba6fdb0398f26627f95790bc159b265919e7b18355644bf0d0dfd907fb0f7a4</guid>
+      <pubDate>Tue, 07 Jul 2026 03:09:19 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:0 bcca4108f2</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=bcca4108f2a8b8ef76a8a863557d920568bc58c20c1ba47338b3806319bdfa89</link>
+      <guid isPermaLink="false">bcca4108f2a8b8ef76a8a863557d920568bc58c20c1ba47338b3806319bdfa89</guid>
+      <pubDate>Tue, 07 Jul 2026 00:17:04 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:0</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 da3988317a</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=da3988317a1696216c36d6b16188c52c66d2c81b63836ccd371f2e9d03392015</link>
+      <guid isPermaLink="false">da3988317a1696216c36d6b16188c52c66d2c81b63836ccd371f2e9d03392015</guid>
+      <pubDate>Mon, 06 Jul 2026 07:01:34 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 4e7c09cbb6</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=4e7c09cbb633f9cc92cf5e3b11e0dec878885a565632bfe872c72b212101f13d</link>
+      <guid isPermaLink="false">4e7c09cbb633f9cc92cf5e3b11e0dec878885a565632bfe872c72b212101f13d</guid>
+      <pubDate>Mon, 06 Jul 2026 06:51:13 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 d5d98ce6c7</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d5d98ce6c78b0410115aa242a94fbe32a02809ea1152fcd13885e54395448bdd</link>
+      <guid isPermaLink="false">d5d98ce6c78b0410115aa242a94fbe32a02809ea1152fcd13885e54395448bdd</guid>
+      <pubDate>Mon, 06 Jul 2026 06:42:20 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 b0c03a27af</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b0c03a27af16a49a5973160b1de5617fd7784c7ff6d595b467703eb52e62c5ec</link>
+      <guid isPermaLink="false">b0c03a27af16a49a5973160b1de5617fd7784c7ff6d595b467703eb52e62c5ec</guid>
+      <pubDate>Mon, 06 Jul 2026 00:36:46 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 e9e452d925</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=e9e452d925657dfa0002944fdd9caf40c35647eeeb05a83d45b4d863bbbc91ed</link>
@@ -23,26 +153,6 @@
       <pubDate>Sun, 05 Jul 2026 20:23:13 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:0 b91fc7080b</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=b91fc7080b9be0ccaf30f2828d79bfc4d4d4e5bc68c0f47170709adf22a8c6ba</link>
-      <guid isPermaLink="false">b91fc7080b9be0ccaf30f2828d79bfc4d4d4e5bc68c0f47170709adf22a8c6ba</guid>
-      <pubDate>Sun, 05 Jul 2026 19:57:52 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:0</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Beyond the Timeline - A Vision for YOUR Continuum</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=70be11b72a1e0adc5dda8659be070c8f83ff1d09537b2fe7357b84f1354db720</link>
-      <guid isPermaLink="false">70be11b72a1e0adc5dda8659be070c8f83ff1d09537b2fe7357b84f1354db720</guid>
-      <pubDate>Sun, 05 Jul 2026 04:41:29 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
@@ -4892,116 +5002,6 @@
       <guid isPermaLink="false">16682d3714fdc9aa088ac9be77814cebac6abf6de69e6cef21ec9703e99fb25e</guid>
       <pubDate>Sat, 21 Mar 2026 04:03:24 GMT</pubDate>
       <description><![CDATA[Many applications claim to support offline usage, but what they actually provide is temporary caching layered on top of a fundamentally network-dependent system. This chapter examines why most “offline modes” fail under real-world conditions and clarifies the difference between cache-based resilience and true local-first architecture.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Book 2 - Building Local-First Systems - Chap 1 - What Is Local-First, Really?</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=1ad816faa4edbae90553c42308458ffd8403bdda8556d0a21ecd813778d12242</link>
-      <guid isPermaLink="false">1ad816faa4edbae90553c42308458ffd8403bdda8556d0a21ecd813778d12242</guid>
-      <pubDate>Sat, 21 Mar 2026 02:17:12 GMT</pubDate>
-      <description><![CDATA[Local-first is often reduced to “apps that work offline.” That definition is incomplete. Local-first is about authority — where the system of record lives, who controls it, and what persists when the network disappears. This chapter reframes local-first as a shift from access-based systems to authority-based systems.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 2aff17c2e2</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2aff17c2e2e8cc75de168d05b4a972d7bfee060f197d0e0cc28ff79d23f9f8cb</link>
-      <guid isPermaLink="false">2aff17c2e2e8cc75de168d05b4a972d7bfee060f197d0e0cc28ff79d23f9f8cb</guid>
-      <pubDate>Fri, 20 Mar 2026 17:34:46 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 8215f32684</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=8215f32684690f1a7d0b6093eefddb5b0d45efac56d6bfa15954d8ed4aaa1445</link>
-      <guid isPermaLink="false">8215f32684690f1a7d0b6093eefddb5b0d45efac56d6bfa15954d8ed4aaa1445</guid>
-      <pubDate>Thu, 19 Mar 2026 15:06:10 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 54bb8c137d</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=54bb8c137dfa689419c2567037d4373f6ce4ea0e51b63b95e1b46371277d2ef6</link>
-      <guid isPermaLink="false">54bb8c137dfa689419c2567037d4373f6ce4ea0e51b63b95e1b46371277d2ef6</guid>
-      <pubDate>Wed, 18 Mar 2026 17:34:03 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 899532cc00</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=899532cc006d5057f6f502155c2b5193d2fb1b6169ae154f27e656a5e757adee</link>
-      <guid isPermaLink="false">899532cc006d5057f6f502155c2b5193d2fb1b6169ae154f27e656a5e757adee</guid>
-      <pubDate>Wed, 18 Mar 2026 00:45:12 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 ca51365100</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=ca51365100084a4f83412a20f107af50454bc2303a49f4d69e61e99524c38f40</link>
-      <guid isPermaLink="false">ca51365100084a4f83412a20f107af50454bc2303a49f4d69e61e99524c38f40</guid>
-      <pubDate>Wed, 18 Mar 2026 00:43:04 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Quiet Completion vs Public Validation</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6d1e0a3b2e9d7a634f954bdcf02506760ae78f2bde9fd70eba9f336980a6576e</link>
-      <guid isPermaLink="false">6d1e0a3b2e9d7a634f954bdcf02506760ae78f2bde9fd70eba9f336980a6576e</guid>
-      <pubDate>Tue, 17 Mar 2026 23:56:46 GMT</pubDate>
-      <description><![CDATA[This piece contrasts the internal act of finishing meaningful work with the external desire for validation, and why the former must come first.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Systems That Outlast Attention</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a0e9457fb744a55feaabe03b52d77348a50512957792854dc9e231289aefbb32</link>
-      <guid isPermaLink="false">a0e9457fb744a55feaabe03b52d77348a50512957792854dc9e231289aefbb32</guid>
-      <pubDate>Tue, 17 Mar 2026 23:56:13 GMT</pubDate>
-      <description><![CDATA[Attention is fleeting, but systems endure. This article reflects on the difference between producing content for visibility and building structures that persist beyond the moment.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Finishing Without Applause</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=cebb2e9d593e402c3aa19c67e3c389d7b5d4084e75953d0a0131d3f92ba0f177</link>
-      <guid isPermaLink="false">cebb2e9d593e402c3aa19c67e3c389d7b5d4084e75953d0a0131d3f92ba0f177</guid>
-      <pubDate>Tue, 17 Mar 2026 23:55:43 GMT</pubDate>
-      <description><![CDATA[What does it mean to complete something without recognition? This piece explores the discipline of finishing work in silence, where validation is absent and conviction becomes the only guide.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>When the Work Becomes Cohesive</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=593adec2b8b45941fe723e7f86194017badb22738153c259b802f045844ff144</link>
-      <guid isPermaLink="false">593adec2b8b45941fe723e7f86194017badb22738153c259b802f045844ff144</guid>
-      <pubDate>Tue, 17 Mar 2026 23:53:22 GMT</pubDate>
-      <description><![CDATA[There is a point where scattered efforts begin to form a unified whole. This article explores the transition from fragmented output to cohesive structure.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Clearing Space to Continue</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d39ec2332177182464eda302cc71c07a9fc364209683a114c205f47fe4be6a32</link>
-      <guid isPermaLink="false">d39ec2332177182464eda302cc71c07a9fc364209683a114c205f47fe4be6a32</guid>
-      <pubDate>Tue, 17 Mar 2026 23:48:42 GMT</pubDate>
-      <description><![CDATA[Sometimes progress requires removing friction rather than adding effort. This article reflects on clearing space—physically and mentally—to enable forward movement.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

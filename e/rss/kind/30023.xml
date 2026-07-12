@@ -5,13 +5,23 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 06 Jul 2026 05:39:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 04:03:00 GMT</lastBuildDate>
     <item>
       <title>Beyond the Timeline - A Vision for YOUR Continuum</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=70be11b72a1e0adc5dda8659be070c8f83ff1d09537b2fe7357b84f1354db720</link>
-      <guid isPermaLink="false">70be11b72a1e0adc5dda8659be070c8f83ff1d09537b2fe7357b84f1354db720</guid>
-      <pubDate>Sun, 05 Jul 2026 04:41:29 GMT</pubDate>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ce985ba914f0fa9db13d830915d17f5e1a2f11ce62b1fa2a373a8fba585b16d0</link>
+      <guid isPermaLink="false">ce985ba914f0fa9db13d830915d17f5e1a2f11ce62b1fa2a373a8fba585b16d0</guid>
+      <pubDate>Sun, 12 Jul 2026 02:55:44 GMT</pubDate>
       <description><![CDATA[]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>How Do We Build Digital Lives That We Actually Own?</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=5a116c418827099d140f30cc3468b5c09ddc9ab82102389740f3cd08fc815792</link>
+      <guid isPermaLink="false">5a116c418827099d140f30cc3468b5c09ddc9ab82102389740f3cd08fc815792</guid>
+      <pubDate>Sat, 11 Jul 2026 22:23:38 GMT</pubDate>
+      <description><![CDATA[Bitcoin taught us to think differently about money. This article explores what happens when we apply that same principle to the rest of our digital lives. From Nostr and local-first software to relationship memory and AI, I argue that our writing, conversations, and digital history should begin with us—not with a platform.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">6726e6e741bd14eca9f7ffa84f463d390434552eec74c55546d889dc04049e63</guid>
       <pubDate>Sat, 13 Dec 2025 00:04:46 GMT</pubDate>
       <description><![CDATA[The dream of the open creator economy isn’t about rejecting every platform—it’s about refusing dependency. Here’s how open protocols turn creators from tenants into owners, and why the future belongs to those willing to build in open spaces.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Nov. 4, 2025): Under the Hood of Election Day 2025: Redistricting, State Power, and the Shifting Map of American Politics</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=10b05742b4054b4d2570866fdc080e2b50b3bca816d259298ca9a3a5400788cc</link>
-      <guid isPermaLink="false">10b05742b4054b4d2570866fdc080e2b50b3bca816d259298ca9a3a5400788cc</guid>
-      <pubDate>Sat, 13 Dec 2025 00:02:25 GMT</pubDate>
-      <description><![CDATA[Beyond the headlines, today’s Election Day marks a turning point in how America redraws, realigns, and redefines power. From California’s redistricting gambit to pivotal governorships, the true stakes lie not in who wins tonight — but in who shapes the playing field for the decade ahead.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
