@@ -5,12 +5,42 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 17 Jul 2026 01:06:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 22:44:34 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 30d60f208c</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=30d60f208c34897d885a4ce8b2571848ad7b6dff3bdb3f8547be39627172ec65</link>
+      <guid isPermaLink="false">30d60f208c34897d885a4ce8b2571848ad7b6dff3bdb3f8547be39627172ec65</guid>
+      <pubDate>Fri, 17 Jul 2026 07:23:51 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 1ee70a182b</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1ee70a182b2ea5f086bce97d71dd4e3002c1f3eaa824af688bc618257586aca1</link>
+      <guid isPermaLink="false">1ee70a182b2ea5f086bce97d71dd4e3002c1f3eaa824af688bc618257586aca1</guid>
+      <pubDate>Fri, 17 Jul 2026 07:20:39 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 c74ab529fa</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c74ab529fa6dece332e03beb79d017ebc8182fb454ef5ebb9760a4535bbbbb9f</link>
+      <guid isPermaLink="false">c74ab529fa6dece332e03beb79d017ebc8182fb454ef5ebb9760a4535bbbbb9f</guid>
+      <pubDate>Fri, 17 Jul 2026 07:19:06 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Why Trading Still Matters — And What Most People Get Wrong</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c50d4993f3faa4f2505ad03c441997efba286114f01c266e4aac15919b28d258</link>
-      <guid isPermaLink="false">c50d4993f3faa4f2505ad03c441997efba286114f01c266e4aac15919b28d258</guid>
-      <pubDate>Fri, 17 Jul 2026 00:23:27 GMT</pubDate>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6b4d1c50732044334c9d109387ecccb9d86d21147c18e738f5b21017f5e4bee8</link>
+      <guid isPermaLink="false">6b4d1c50732044334c9d109387ecccb9d86d21147c18e738f5b21017f5e4bee8</guid>
+      <pubDate>Fri, 17 Jul 2026 07:16:19 GMT</pubDate>
       <description><![CDATA[Short-term trading is often dismissed as a zero-sum game, driven by hype and luck. But for those who approach it with discipline and conviction, trading can be a meaningful craft — a way to fund deeper work, align with values, and sharpen focus. In this piece, I share why I only trade equities (not crypto or forex), how I avoid signal-following hype, and why consistent, small gains often matter more than chasing spikes. This isn’t gambling — it’s Proof of Work.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
@@ -4971,36 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=57afb009b1df7f60b3ab79b867a73b181666b0cf688a7735aad684745cb5deef</link>
       <guid isPermaLink="false">57afb009b1df7f60b3ab79b867a73b181666b0cf688a7735aad684745cb5deef</guid>
       <pubDate>Sat, 21 Mar 2026 18:09:17 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 19c20de277</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=19c20de2771be5639b4a8fdea1bfb01b9241c2e843927502769120687b931ab3</link>
-      <guid isPermaLink="false">19c20de2771be5639b4a8fdea1bfb01b9241c2e843927502769120687b931ab3</guid>
-      <pubDate>Sat, 21 Mar 2026 18:03:54 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 a79ee17893</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a79ee1789351e430feede07941d8dd8702ae6546ecd49bbeb471aac2f59fd1a9</link>
-      <guid isPermaLink="false">a79ee1789351e430feede07941d8dd8702ae6546ecd49bbeb471aac2f59fd1a9</guid>
-      <pubDate>Sat, 21 Mar 2026 18:03:19 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 04dba25566</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=04dba25566f8584bbebc1f847095a78e2da5daa2ab4b430024c7fb846aaaea82</link>
-      <guid isPermaLink="false">04dba25566f8584bbebc1f847095a78e2da5daa2ab4b430024c7fb846aaaea82</guid>
-      <pubDate>Sat, 21 Mar 2026 15:53:59 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>

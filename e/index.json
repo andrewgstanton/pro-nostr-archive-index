@@ -1,5 +1,93 @@
 [
   {
+    "slug": null,
+    "event_id": "30d60f208c34897d885a4ce8b2571848ad7b6dff3bdb3f8547be39627172ec65",
+    "created_at": 1784273031,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/30d60f208c34897d885a4ce8b2571848ad7b6dff3bdb3f8547be39627172ec65.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "1ee70a182b2ea5f086bce97d71dd4e3002c1f3eaa824af688bc618257586aca1",
+    "created_at": 1784272839,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/1ee70a182b2ea5f086bce97d71dd4e3002c1f3eaa824af688bc618257586aca1.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "c74ab529fa6dece332e03beb79d017ebc8182fb454ef5ebb9760a4535bbbbb9f",
+    "created_at": 1784272746,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/c74ab529fa6dece332e03beb79d017ebc8182fb454ef5ebb9760a4535bbbbb9f.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "why-trading-still-matters-—-and-what-most-people-get-wrong",
+    "event_id": "6b4d1c50732044334c9d109387ecccb9d86d21147c18e738f5b21017f5e4bee8",
+    "created_at": 1784272579,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/6b4d1c50732044334c9d109387ecccb9d86d21147c18e738f5b21017f5e4bee8.json",
+    "title": "Why Trading Still Matters — And What Most People Get Wrong",
+    "summary": "Short-term trading is often dismissed as a zero-sum game, driven by hype and luck. But for those who approach it with discipline and conviction, trading can be a meaningful craft — a way to fund deeper work, align with values, and sharpen focus. In this piece, I share why I only trade equities (not crypto or forex), how I avoid signal-following hype, and why consistent, small gains often matter more than chasing spikes. This isn’t gambling — it’s Proof of Work.",
+    "paid": false
+  },
+  {
+    "slug": "why-trading-still-matters-—-and-what-most-people-get-wrong",
+    "event_id": "8aac22ee1746804c0d30e5d3a5acd12d464c98b8ce07807799142ab79767be2b",
+    "created_at": 1784272498,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/8aac22ee1746804c0d30e5d3a5acd12d464c98b8ce07807799142ab79767be2b.json",
+    "title": "Why Trading Still Matters — And What Most People Get Wrong",
+    "summary": "Short-term trading is often dismissed as a zero-sum game, driven by hype and luck. But for those who approach it with discipline and conviction, trading can be a meaningful craft — a way to fund deeper work, align with values, and sharpen focus. In this piece, I share why I only trade equities (not crypto or forex), how I avoid signal-following hype, and why consistent, small gains often matter more than chasing spikes. This isn’t gambling — it’s Proof of Work.",
+    "paid": false
+  },
+  {
+    "slug": "why-trading-still-matters-—-and-what-most-people-get-wrong",
+    "event_id": "6f9f011a4ed5e7f1989e3af20563a5834a96bba0e6a7eabf67323401a95e6794",
+    "created_at": 1784271603,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/6f9f011a4ed5e7f1989e3af20563a5834a96bba0e6a7eabf67323401a95e6794.json",
+    "title": "Why Trading Still Matters — And What Most People Get Wrong",
+    "summary": "Short-term trading is often dismissed as a zero-sum game, driven by hype and luck. But for those who approach it with discipline and conviction, trading can be a meaningful craft — a way to fund deeper work, align with values, and sharpen focus. In this piece, I share why I only trade equities (not crypto or forex), how I avoid signal-following hype, and why consistent, small gains often matter more than chasing spikes. This isn’t gambling — it’s Proof of Work.",
+    "paid": false
+  },
+  {
+    "slug": "why-trading-still-matters-—-and-what-most-people-get-wrong",
+    "event_id": "9c2e78bf0d50c72cea4239a19d4fc1b1c0f976ab8b0720cc4a5d4bf30fa72d8f",
+    "created_at": 1784271175,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/9c2e78bf0d50c72cea4239a19d4fc1b1c0f976ab8b0720cc4a5d4bf30fa72d8f.json",
+    "title": "Why Trading Still Matters — And What Most People Get Wrong",
+    "summary": "Short-term trading is often dismissed as a zero-sum game, driven by hype and luck. But for those who approach it with discipline and conviction, trading can be a meaningful craft — a way to fund deeper work, align with values, and sharpen focus. In this piece, I share why I only trade equities (not crypto or forex), how I avoid signal-following hype, and why consistent, small gains often matter more than chasing spikes. This isn’t gambling — it’s Proof of Work.",
+    "paid": false
+  },
+  {
+    "slug": "why-trading-still-matters-—-and-what-most-people-get-wrong",
+    "event_id": "c7441773d700e6dc67ede92bb85c2ec523a6bc8a6eee0e0978cc63c2c94935a7",
+    "created_at": 1784253100,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/c7441773d700e6dc67ede92bb85c2ec523a6bc8a6eee0e0978cc63c2c94935a7.json",
+    "title": "Why Trading Still Matters — And What Most People Get Wrong",
+    "summary": "Short-term trading is often dismissed as a zero-sum game, driven by hype and luck. But for those who approach it with discipline and conviction, trading can be a meaningful craft — a way to fund deeper work, align with values, and sharpen focus. In this piece, I share why I only trade equities (not crypto or forex), how I avoid signal-following hype, and why consistent, small gains often matter more than chasing spikes. This isn’t gambling — it’s Proof of Work.",
+    "paid": false
+  },
+  {
     "slug": "why-trading-still-matters-—-and-what-most-people-get-wrong",
     "event_id": "c50d4993f3faa4f2505ad03c441997efba286114f01c266e4aac15919b28d258",
     "created_at": 1784247807,
