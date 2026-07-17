@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 12 Jul 2026 04:03:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 01:06:04 GMT</lastBuildDate>
+    <item>
+      <title>Why Trading Still Matters — And What Most People Get Wrong</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c50d4993f3faa4f2505ad03c441997efba286114f01c266e4aac15919b28d258</link>
+      <guid isPermaLink="false">c50d4993f3faa4f2505ad03c441997efba286114f01c266e4aac15919b28d258</guid>
+      <pubDate>Fri, 17 Jul 2026 00:23:27 GMT</pubDate>
+      <description><![CDATA[Short-term trading is often dismissed as a zero-sum game, driven by hype and luck. But for those who approach it with discipline and conviction, trading can be a meaningful craft — a way to fund deeper work, align with values, and sharpen focus. In this piece, I share why I only trade equities (not crypto or forex), how I avoid signal-following hype, and why consistent, small gains often matter more than chasing spikes. This isn’t gambling — it’s Proof of Work.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Beyond the Timeline - A Vision for YOUR Continuum</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=ce985ba914f0fa9db13d830915d17f5e1a2f11ce62b1fa2a373a8fba585b16d0</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">9d98aa3ba4f4d8327496384772f82418687600bdabf1c61d14938acaaeb1b293</guid>
       <pubDate>Sat, 13 Dec 2025 00:09:21 GMT</pubDate>
       <description><![CDATA[An extended meditation on what it means to build lasting systems in an age of collapse. the author draws parallels between medieval cathedral-building and modern open-source civilization, arguing that sovereignty, transparency, and truth are the enduring foundations of human freedom.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Nov. 5, 2025): Beyond the Walls: Building in Open Spaces</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=6726e6e741bd14eca9f7ffa84f463d390434552eec74c55546d889dc04049e63</link>
-      <guid isPermaLink="false">6726e6e741bd14eca9f7ffa84f463d390434552eec74c55546d889dc04049e63</guid>
-      <pubDate>Sat, 13 Dec 2025 00:04:46 GMT</pubDate>
-      <description><![CDATA[The dream of the open creator economy isn’t about rejecting every platform—it’s about refusing dependency. Here’s how open protocols turn creators from tenants into owners, and why the future belongs to those willing to build in open spaces.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

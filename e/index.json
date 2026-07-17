@@ -1,5 +1,82 @@
 [
   {
+    "slug": "why-trading-still-matters-—-and-what-most-people-get-wrong",
+    "event_id": "c50d4993f3faa4f2505ad03c441997efba286114f01c266e4aac15919b28d258",
+    "created_at": 1784247807,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/c50d4993f3faa4f2505ad03c441997efba286114f01c266e4aac15919b28d258.json",
+    "title": "Why Trading Still Matters — And What Most People Get Wrong",
+    "summary": "Short-term trading is often dismissed as a zero-sum game, driven by hype and luck. But for those who approach it with discipline and conviction, trading can be a meaningful craft — a way to fund deeper work, align with values, and sharpen focus. In this piece, I share why I only trade equities (not crypto or forex), how I avoid signal-following hype, and why consistent, small gains often matter more than chasing spikes. This isn’t gambling — it’s Proof of Work.",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "a49db7d254a26c3bd31ccb7340cf6d3102ddd8da0c808098e5383188a7c765b9",
+    "created_at": 1784234115,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/a49db7d254a26c3bd31ccb7340cf6d3102ddd8da0c808098e5383188a7c765b9.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "15d88ba1bea9ee90ebc8574d6c0bf838dcf99c3477df412d963749e9c8c5a424",
+    "created_at": 1784184509,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/15d88ba1bea9ee90ebc8574d6c0bf838dcf99c3477df412d963749e9c8c5a424.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "044fa814acf8561928254815dd919ca656a9a4c2b807dceab161fb3275c2976d",
+    "created_at": 1784072338,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/044fa814acf8561928254815dd919ca656a9a4c2b807dceab161fb3275c2976d.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "97c7e9ebb82458d74903661fe5164aefebb7f166bccc0d071c058cd8e9318455",
+    "created_at": 1784011827,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/97c7e9ebb82458d74903661fe5164aefebb7f166bccc0d071c058cd8e9318455.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "6eaea08cce7ef88167678c2b494e87eac7bf42d1b5552db3d6990fdf9a1c7ff2",
+    "created_at": 1783877528,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/6eaea08cce7ef88167678c2b494e87eac7bf42d1b5552db3d6990fdf9a1c7ff2.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "982d199a7eea7bc3f54a6d9114c50f9497e6bb8d2f50693add7607e4d4927319",
+    "created_at": 1783826765,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/982d199a7eea7bc3f54a6d9114c50f9497e6bb8d2f50693add7607e4d4927319.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "beyond-the-timeline---a-vision-for-your-continuum",
     "event_id": "ce985ba914f0fa9db13d830915d17f5e1a2f11ce62b1fa2a373a8fba585b16d0",
     "created_at": 1783824944,

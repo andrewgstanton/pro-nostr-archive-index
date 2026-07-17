@@ -5,7 +5,77 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 12 Jul 2026 04:03:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 01:06:04 GMT</lastBuildDate>
+    <item>
+      <title>Why Trading Still Matters — And What Most People Get Wrong</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c50d4993f3faa4f2505ad03c441997efba286114f01c266e4aac15919b28d258</link>
+      <guid isPermaLink="false">c50d4993f3faa4f2505ad03c441997efba286114f01c266e4aac15919b28d258</guid>
+      <pubDate>Fri, 17 Jul 2026 00:23:27 GMT</pubDate>
+      <description><![CDATA[Short-term trading is often dismissed as a zero-sum game, driven by hype and luck. But for those who approach it with discipline and conviction, trading can be a meaningful craft — a way to fund deeper work, align with values, and sharpen focus. In this piece, I share why I only trade equities (not crypto or forex), how I avoid signal-following hype, and why consistent, small gains often matter more than chasing spikes. This isn’t gambling — it’s Proof of Work.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 a49db7d254</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=a49db7d254a26c3bd31ccb7340cf6d3102ddd8da0c808098e5383188a7c765b9</link>
+      <guid isPermaLink="false">a49db7d254a26c3bd31ccb7340cf6d3102ddd8da0c808098e5383188a7c765b9</guid>
+      <pubDate>Thu, 16 Jul 2026 20:35:15 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 15d88ba1be</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=15d88ba1bea9ee90ebc8574d6c0bf838dcf99c3477df412d963749e9c8c5a424</link>
+      <guid isPermaLink="false">15d88ba1bea9ee90ebc8574d6c0bf838dcf99c3477df412d963749e9c8c5a424</guid>
+      <pubDate>Thu, 16 Jul 2026 06:48:29 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 044fa814ac</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=044fa814acf8561928254815dd919ca656a9a4c2b807dceab161fb3275c2976d</link>
+      <guid isPermaLink="false">044fa814acf8561928254815dd919ca656a9a4c2b807dceab161fb3275c2976d</guid>
+      <pubDate>Tue, 14 Jul 2026 23:38:58 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 97c7e9ebb8</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=97c7e9ebb82458d74903661fe5164aefebb7f166bccc0d071c058cd8e9318455</link>
+      <guid isPermaLink="false">97c7e9ebb82458d74903661fe5164aefebb7f166bccc0d071c058cd8e9318455</guid>
+      <pubDate>Tue, 14 Jul 2026 06:50:27 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 6eaea08cce</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=6eaea08cce7ef88167678c2b494e87eac7bf42d1b5552db3d6990fdf9a1c7ff2</link>
+      <guid isPermaLink="false">6eaea08cce7ef88167678c2b494e87eac7bf42d1b5552db3d6990fdf9a1c7ff2</guid>
+      <pubDate>Sun, 12 Jul 2026 17:32:08 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 982d199a7e</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=982d199a7eea7bc3f54a6d9114c50f9497e6bb8d2f50693add7607e4d4927319</link>
+      <guid isPermaLink="false">982d199a7eea7bc3f54a6d9114c50f9497e6bb8d2f50693add7607e4d4927319</guid>
+      <pubDate>Sun, 12 Jul 2026 03:26:05 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Beyond the Timeline - A Vision for YOUR Continuum</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=ce985ba914f0fa9db13d830915d17f5e1a2f11ce62b1fa2a373a8fba585b16d0</link>
@@ -4933,76 +5003,6 @@
       <pubDate>Sat, 21 Mar 2026 15:53:59 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 9355ad4cc4</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9355ad4cc465d27267a696176e77702ce4f6ad9150759ea5afdd4f3c5ac39822</link>
-      <guid isPermaLink="false">9355ad4cc465d27267a696176e77702ce4f6ad9150759ea5afdd4f3c5ac39822</guid>
-      <pubDate>Sat, 21 Mar 2026 15:00:30 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 bfe8b32a2a</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=bfe8b32a2a18c39dad5308e45c71b60084085f049bb22a9a62957a2d5dfee7c8</link>
-      <guid isPermaLink="false">bfe8b32a2a18c39dad5308e45c71b60084085f049bb22a9a62957a2d5dfee7c8</guid>
-      <pubDate>Sat, 21 Mar 2026 14:56:37 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 d7b2963695</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d7b29636957db7da7a09935f2da603655ff55cd8358746b6aba414790fa57c84</link>
-      <guid isPermaLink="false">d7b29636957db7da7a09935f2da603655ff55cd8358746b6aba414790fa57c84</guid>
-      <pubDate>Sat, 21 Mar 2026 05:50:15 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Book 2 - Building Local-First Systems - Chap 5 - Why SaaS Became the Default</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=52687fd0b7b5552927cd236bf5f2c6b24bc81841cc2517d252b2c6d9819d706f</link>
-      <guid isPermaLink="false">52687fd0b7b5552927cd236bf5f2c6b24bc81841cc2517d252b2c6d9819d706f</guid>
-      <pubDate>Sat, 21 Mar 2026 04:48:24 GMT</pubDate>
-      <description><![CDATA[Software-as-a-Service did not become dominant because it was inherently better for users. It became the default because it aligned with the economic incentives of companies and the operational realities of the web. This chapter explores the forces that led to SaaS dominance and why those forces continue to shape modern software architecture.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Book 2 - Building Local-First Systems - Chap 4 - Data Ownership vs Data Access</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7e671baf2e9bcfe80784b8d617d01479ed7d30f5e8b72b97df1079b50e1b307d</link>
-      <guid isPermaLink="false">7e671baf2e9bcfe80784b8d617d01479ed7d30f5e8b72b97df1079b50e1b307d</guid>
-      <pubDate>Sat, 21 Mar 2026 04:27:31 GMT</pubDate>
-      <description><![CDATA[Ownership is often confused with visibility. Many systems allow users to see and interact with their data, but stop short of granting true control over it. This chapter clarifies the distinction between owning data and merely accessing it, and explains why local-first systems must prioritize ownership at the structural level.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Book 2 - Building Local-First Systems - Chap 3 Authority vs Access</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=7d296518aee46a55096601ad1a4c431376b11ea6dbaf2f697b4ec98819e0f0f6</link>
-      <guid isPermaLink="false">7d296518aee46a55096601ad1a4c431376b11ea6dbaf2f697b4ec98819e0f0f6</guid>
-      <pubDate>Sat, 21 Mar 2026 04:12:28 GMT</pubDate>
-      <description><![CDATA[Modern software gives users access to data without granting authority over it. This distinction is subtle but foundational. This chapter explores how systems can feel usable and even empowering while still being controlled elsewhere — and why true local-first design requires shifting from access-based models to authority-based systems.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Book 2 - Building Local-First Systems - Chap 2 - The Illusion of 'Offline Support'</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=16682d3714fdc9aa088ac9be77814cebac6abf6de69e6cef21ec9703e99fb25e</link>
-      <guid isPermaLink="false">16682d3714fdc9aa088ac9be77814cebac6abf6de69e6cef21ec9703e99fb25e</guid>
-      <pubDate>Sat, 21 Mar 2026 04:03:24 GMT</pubDate>
-      <description><![CDATA[Many applications claim to support offline usage, but what they actually provide is temporary caching layered on top of a fundamentally network-dependent system. This chapter examines why most “offline modes” fail under real-world conditions and clarifies the difference between cache-based resilience and true local-first architecture.]]></description>
-      <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
