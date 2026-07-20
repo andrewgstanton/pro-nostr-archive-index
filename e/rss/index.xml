@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 20 Jul 2026 02:38:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 22:02:18 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 c2644864b6</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c2644864b6bec6c98cf0356cc064a6bff311f6dcd512f0bcb51f2a64de9abaea</link>
+      <guid isPermaLink="false">c2644864b6bec6c98cf0356cc064a6bff311f6dcd512f0bcb51f2a64de9abaea</guid>
+      <pubDate>Mon, 20 Jul 2026 05:24:02 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 9c3d561cf0</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9c3d561cf088fecfc6835cd9df47402796104fece34049f26503349cfaad2a07</link>
+      <guid isPermaLink="false">9c3d561cf088fecfc6835cd9df47402796104fece34049f26503349cfaad2a07</guid>
+      <pubDate>Mon, 20 Jul 2026 04:58:22 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 d60865d4de</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d60865d4de70f0e2cb101e069c4fddb9d3348b37b5ad2901c0bd3afe221a020d</link>
+      <guid isPermaLink="false">d60865d4de70f0e2cb101e069c4fddb9d3348b37b5ad2901c0bd3afe221a020d</guid>
+      <pubDate>Mon, 20 Jul 2026 04:56:36 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 db52daf57e</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=db52daf57e5457140d2e17251e5bc3828d6857479936b35250630c491d58e888</link>
@@ -4972,36 +5002,6 @@
       <guid isPermaLink="false">a4486dd9b1bc2761144bb170977b6f559d407cc5755e38b31af23d4f58acff1b</guid>
       <pubDate>Sat, 21 Mar 2026 21:46:43 GMT</pubDate>
       <description><![CDATA[Most systems tightly couple the act of creating content with the act of publishing it. This creates dependency on networks, platforms, and infrastructure at the moment of creation. Local-first systems must separate these concerns. This chapter defines the distinction between authoring and distribution and explains how decoupling them enables durability, flexibility, and true sovereignty.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Book 2 - Building Local-First Systems - Chap. 8 - Identity as a First-Class Primitive</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a858544ea17c4e5ee5a30b8fc5e4373bf0a3d3d00ca98f7887dc95060dad60ae</link>
-      <guid isPermaLink="false">a858544ea17c4e5ee5a30b8fc5e4373bf0a3d3d00ca98f7887dc95060dad60ae</guid>
-      <pubDate>Sat, 21 Mar 2026 21:46:25 GMT</pubDate>
-      <description><![CDATA[Most systems treat identity as an afterthought — something layered on top of functionality through accounts and authentication. Local-first systems cannot. Identity must be foundational, shaping how data is created, signed, verified, and distributed. This chapter defines identity as a first-class primitive and outlines the design implications of building systems around it.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Book 2 - Building Local-First Systems - Chap 7 - Determinism Over Dynamism</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=4bab42d8f6a694b7b2d38203b5218f9169786b6ca572f61996451c4cefc70904</link>
-      <guid isPermaLink="false">4bab42d8f6a694b7b2d38203b5218f9169786b6ca572f61996451c4cefc70904</guid>
-      <pubDate>Sat, 21 Mar 2026 21:46:08 GMT</pubDate>
-      <description><![CDATA[Local-first systems prioritize determinism — predictable, reproducible behavior — over dynamic, server-driven state. This chapter explains why determinism is essential for trust, recoverability, and durability, and how it shapes system design choices around state, execution, and synchronization.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Book 2 - Building Local-First Systems - Chap 6 - Local Authority First</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e95a12b1414178990b861b980580c9c889b3ff0a58b0557b59e32ff898307ca0</link>
-      <guid isPermaLink="false">e95a12b1414178990b861b980580c9c889b3ff0a58b0557b59e32ff898307ca0</guid>
-      <pubDate>Sat, 21 Mar 2026 21:45:39 GMT</pubDate>
-      <description><![CDATA[A local-first system must treat the local environment as the primary source of truth. This is not a conceptual preference but a design constraint that shapes storage, identity, synchronization, and failure handling. This chapter defines what “local authority” means in concrete terms and how to implement it in practice.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>

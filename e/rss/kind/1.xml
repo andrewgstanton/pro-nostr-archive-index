@@ -5,7 +5,37 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to notes (kind:1), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/1.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 20 Jul 2026 02:38:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 22:02:18 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 c2644864b6</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c2644864b6bec6c98cf0356cc064a6bff311f6dcd512f0bcb51f2a64de9abaea</link>
+      <guid isPermaLink="false">c2644864b6bec6c98cf0356cc064a6bff311f6dcd512f0bcb51f2a64de9abaea</guid>
+      <pubDate>Mon, 20 Jul 2026 05:24:02 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 9c3d561cf0</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=9c3d561cf088fecfc6835cd9df47402796104fece34049f26503349cfaad2a07</link>
+      <guid isPermaLink="false">9c3d561cf088fecfc6835cd9df47402796104fece34049f26503349cfaad2a07</guid>
+      <pubDate>Mon, 20 Jul 2026 04:58:22 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 d60865d4de</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=d60865d4de70f0e2cb101e069c4fddb9d3348b37b5ad2901c0bd3afe221a020d</link>
+      <guid isPermaLink="false">d60865d4de70f0e2cb101e069c4fddb9d3348b37b5ad2901c0bd3afe221a020d</guid>
+      <pubDate>Mon, 20 Jul 2026 04:56:36 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 db52daf57e</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=db52daf57e5457140d2e17251e5bc3828d6857479936b35250630c491d58e888</link>
@@ -4971,36 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=ed06f13573fa0a6cd35ba6abbefb2034349da051fbfa218ea8c95f719461d8e8</link>
       <guid isPermaLink="false">ed06f13573fa0a6cd35ba6abbefb2034349da051fbfa218ea8c95f719461d8e8</guid>
       <pubDate>Wed, 11 Mar 2026 05:18:24 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 d0256370b0</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=d0256370b0dbcb4edcfd0f56e86fcf1af816588f772c3b91c98e5efb3eecd301</link>
-      <guid isPermaLink="false">d0256370b0dbcb4edcfd0f56e86fcf1af816588f772c3b91c98e5efb3eecd301</guid>
-      <pubDate>Wed, 11 Mar 2026 01:32:12 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 87427e4a15</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=87427e4a1592b575457cb3a2874fa2376aeaa56e8c4a3f9bdbeb95dc8d24b1f6</link>
-      <guid isPermaLink="false">87427e4a1592b575457cb3a2874fa2376aeaa56e8c4a3f9bdbeb95dc8d24b1f6</guid>
-      <pubDate>Tue, 10 Mar 2026 04:31:22 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 03a1c3f121</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=03a1c3f121963e0d7f6b73fce2fc1e6a5d3346f9f9fbd09845dc3ccce65e04c2</link>
-      <guid isPermaLink="false">03a1c3f121963e0d7f6b73fce2fc1e6a5d3346f9f9fbd09845dc3ccce65e04c2</guid>
-      <pubDate>Tue, 10 Mar 2026 02:30:35 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>

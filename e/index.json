@@ -1,5 +1,50 @@
 [
   {
+    "slug": "builders-journal---monday-july-20-2026",
+    "event_id": "c21eb7182e26e042a12ec747e69762b0bb6c61155f156d31cd5768d76e33061d",
+    "created_at": 1784583153,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/c21eb7182e26e042a12ec747e69762b0bb6c61155f156d31cd5768d76e33061d.json",
+    "title": "Builder's Journal - Monday, July 20, 2026",
+    "summary": "",
+    "paid": false,
+    "published": false
+  },
+  {
+    "slug": null,
+    "event_id": "c2644864b6bec6c98cf0356cc064a6bff311f6dcd512f0bcb51f2a64de9abaea",
+    "created_at": 1784525042,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/c2644864b6bec6c98cf0356cc064a6bff311f6dcd512f0bcb51f2a64de9abaea.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "9c3d561cf088fecfc6835cd9df47402796104fece34049f26503349cfaad2a07",
+    "created_at": 1784523502,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/9c3d561cf088fecfc6835cd9df47402796104fece34049f26503349cfaad2a07.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "d60865d4de70f0e2cb101e069c4fddb9d3348b37b5ad2901c0bd3afe221a020d",
+    "created_at": 1784523396,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/d60865d4de70f0e2cb101e069c4fddb9d3348b37b5ad2901c0bd3afe221a020d.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
     "slug": "builders-journal---sunday-july-19-2026",
     "event_id": "209284e27bace0433f2de5ca4dce0baf8bf979165f035450297fec14dda4d29e",
     "created_at": 1784497857,
