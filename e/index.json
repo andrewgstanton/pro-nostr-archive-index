@@ -13,6 +13,17 @@
   },
   {
     "slug": null,
+    "event_id": "663d710ea297906c780f4ee4fd5be20d3ce73d3c64e32aa9b138fc51caf9dce9",
+    "created_at": 1784526064,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/663d710ea297906c780f4ee4fd5be20d3ce73d3c64e32aa9b138fc51caf9dce9.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
     "event_id": "c2644864b6bec6c98cf0356cc064a6bff311f6dcd512f0bcb51f2a64de9abaea",
     "created_at": 1784525042,
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",

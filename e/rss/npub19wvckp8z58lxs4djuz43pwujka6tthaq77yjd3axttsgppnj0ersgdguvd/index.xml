@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 20 Jul 2026 22:02:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 22:50:43 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 663d710ea2</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=663d710ea297906c780f4ee4fd5be20d3ce73d3c64e32aa9b138fc51caf9dce9</link>
+      <guid isPermaLink="false">663d710ea297906c780f4ee4fd5be20d3ce73d3c64e32aa9b138fc51caf9dce9</guid>
+      <pubDate>Mon, 20 Jul 2026 05:41:04 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 c2644864b6</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=c2644864b6bec6c98cf0356cc064a6bff311f6dcd512f0bcb51f2a64de9abaea</link>
@@ -4993,16 +5003,6 @@
       <pubDate>Sat, 21 Mar 2026 02:17:12 GMT</pubDate>
       <description><![CDATA[Local-first is often reduced to “apps that work offline.” That definition is incomplete. Local-first is about authority — where the system of record lives, who controls it, and what persists when the network disappears. This chapter reframes local-first as a shift from access-based systems to authority-based systems.]]></description>
       <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 2aff17c2e2</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=2aff17c2e2e8cc75de168d05b4a972d7bfee060f197d0e0cc28ff79d23f9f8cb</link>
-      <guid isPermaLink="false">2aff17c2e2e8cc75de168d05b4a972d7bfee060f197d0e0cc28ff79d23f9f8cb</guid>
-      <pubDate>Fri, 20 Mar 2026 17:34:46 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>

@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 20 Jul 2026 22:02:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 22:50:43 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 663d710ea2</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=663d710ea297906c780f4ee4fd5be20d3ce73d3c64e32aa9b138fc51caf9dce9</link>
+      <guid isPermaLink="false">663d710ea297906c780f4ee4fd5be20d3ce73d3c64e32aa9b138fc51caf9dce9</guid>
+      <pubDate>Mon, 20 Jul 2026 05:41:04 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 c2644864b6</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=c2644864b6bec6c98cf0356cc064a6bff311f6dcd512f0bcb51f2a64de9abaea</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">90f10962f860b4e8e3377350293ec493f4ca487769dfaadf5ea887ca63b89606</guid>
       <pubDate>Sun, 22 Mar 2026 04:00:55 GMT</pubDate>
       <description><![CDATA[Writing shaped by platforms drifts toward performance. This article explores a different approach—writing as a process of clarification, built through notes, refined over time, and aligned with durability rather than engagement.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Book 2 - Building Local-First Systems - Chap. 9 - Separation of Authoring and Distribution</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a4486dd9b1bc2761144bb170977b6f559d407cc5755e38b31af23d4f58acff1b</link>
-      <guid isPermaLink="false">a4486dd9b1bc2761144bb170977b6f559d407cc5755e38b31af23d4f58acff1b</guid>
-      <pubDate>Sat, 21 Mar 2026 21:46:43 GMT</pubDate>
-      <description><![CDATA[Most systems tightly couple the act of creating content with the act of publishing it. This creates dependency on networks, platforms, and infrastructure at the moment of creation. Local-first systems must separate these concerns. This chapter defines the distinction between authoring and distribution and explains how decoupling them enables durability, flexibility, and true sovereignty.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
