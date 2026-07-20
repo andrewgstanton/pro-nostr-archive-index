@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 18 Jul 2026 19:08:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 02:38:59 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 db52daf57e</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=db52daf57e5457140d2e17251e5bc3828d6857479936b35250630c491d58e888</link>
+      <guid isPermaLink="false">db52daf57e5457140d2e17251e5bc3828d6857479936b35250630c491d58e888</guid>
+      <pubDate>Sat, 18 Jul 2026 03:09:57 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 30d60f208c</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=30d60f208c34897d885a4ce8b2571848ad7b6dff3bdb3f8547be39627172ec65</link>
@@ -4993,16 +5003,6 @@
       <pubDate>Sat, 21 Mar 2026 21:45:39 GMT</pubDate>
       <description><![CDATA[A local-first system must treat the local environment as the primary source of truth. This is not a conceptual preference but a design constraint that shapes storage, identity, synchronization, and failure handling. This chapter defines what “local authority” means in concrete terms and how to implement it in practice.]]></description>
       <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 57afb009b1</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=57afb009b1df7f60b3ab79b867a73b181666b0cf688a7735aad684745cb5deef</link>
-      <guid isPermaLink="false">57afb009b1df7f60b3ab79b867a73b181666b0cf688a7735aad684745cb5deef</guid>
-      <pubDate>Sat, 21 Mar 2026 18:09:17 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
     </item>
