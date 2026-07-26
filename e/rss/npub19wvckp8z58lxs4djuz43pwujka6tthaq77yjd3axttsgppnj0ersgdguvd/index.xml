@@ -5,7 +5,127 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 24 Jul 2026 04:03:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 02:45:40 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 05dc3495f1</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=05dc3495f1bf7766ca7a6e02f843ed67076f496cbfbd2b8d4e4738a7f2a79603</link>
+      <guid isPermaLink="false">05dc3495f1bf7766ca7a6e02f843ed67076f496cbfbd2b8d4e4738a7f2a79603</guid>
+      <pubDate>Sat, 25 Jul 2026 23:39:13 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 46cf9cb0ef</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=46cf9cb0ef537cc7f124ca2c19f1d30dc02f393f0861587cd20de62547af0763</link>
+      <guid isPermaLink="false">46cf9cb0ef537cc7f124ca2c19f1d30dc02f393f0861587cd20de62547af0763</guid>
+      <pubDate>Sat, 25 Jul 2026 23:19:43 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 02b6f7b395</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=02b6f7b395984a572c2aa82287bad3745c57d87cff3e39142d47716acc67d59b</link>
+      <guid isPermaLink="false">02b6f7b395984a572c2aa82287bad3745c57d87cff3e39142d47716acc67d59b</guid>
+      <pubDate>Sat, 25 Jul 2026 20:51:14 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 1e25ae2142</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=1e25ae2142ce4d74bb493e3ba20203102e4a48ea256df78f3b82f9bf79f34879</link>
+      <guid isPermaLink="false">1e25ae2142ce4d74bb493e3ba20203102e4a48ea256df78f3b82f9bf79f34879</guid>
+      <pubDate>Sat, 25 Jul 2026 17:43:14 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 df5c052010</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=df5c052010318ca65ba67a1d43562cd44018f5080dfae07a5842787e67fcf343</link>
+      <guid isPermaLink="false">df5c052010318ca65ba67a1d43562cd44018f5080dfae07a5842787e67fcf343</guid>
+      <pubDate>Fri, 24 Jul 2026 17:38:39 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 7a6c78248c</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=7a6c78248ca2ba084ca00f961223625a382a9f1deb18b849dfec63542f73b7eb</link>
+      <guid isPermaLink="false">7a6c78248ca2ba084ca00f961223625a382a9f1deb18b849dfec63542f73b7eb</guid>
+      <pubDate>Fri, 24 Jul 2026 06:39:34 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 066b6bf1d2</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=066b6bf1d2191c07df60e9c9480ca9b779a3b148ce8ff0a666da43136ed02cd4</link>
+      <guid isPermaLink="false">066b6bf1d2191c07df60e9c9480ca9b779a3b148ce8ff0a666da43136ed02cd4</guid>
+      <pubDate>Fri, 24 Jul 2026 06:34:43 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 ab9910f151</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ab9910f1517a04fb9b6e77b1615bd2062f746c724297e45a8dbb18b8935091e6</link>
+      <guid isPermaLink="false">ab9910f1517a04fb9b6e77b1615bd2062f746c724297e45a8dbb18b8935091e6</guid>
+      <pubDate>Fri, 24 Jul 2026 06:33:54 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 e736a0719c</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=e736a0719c288518735a6977a0c7be9c1171903c472247e42a3fd17661c6046e</link>
+      <guid isPermaLink="false">e736a0719c288518735a6977a0c7be9c1171903c472247e42a3fd17661c6046e</guid>
+      <pubDate>Fri, 24 Jul 2026 06:21:20 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 006f986553</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=006f986553c1d2975634aa85a74184fe1fb1ff32b46737f2a0e40ca16bd867e0</link>
+      <guid isPermaLink="false">006f986553c1d2975634aa85a74184fe1fb1ff32b46737f2a0e40ca16bd867e0</guid>
+      <pubDate>Fri, 24 Jul 2026 06:21:11 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 b5e9ebd57c</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=b5e9ebd57c9dcdcb64074ddc7d84417e95bf8e46f060da6e491091875ddfdb92</link>
+      <guid isPermaLink="false">b5e9ebd57c9dcdcb64074ddc7d84417e95bf8e46f060da6e491091875ddfdb92</guid>
+      <pubDate>Fri, 24 Jul 2026 04:41:38 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 88e3430d57</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=88e3430d57fcd49d5e1c222748094332193ffa696f2e4d099a9e494c6caffe6d</link>
+      <guid isPermaLink="false">88e3430d57fcd49d5e1c222748094332193ffa696f2e4d099a9e494c6caffe6d</guid>
+      <pubDate>Fri, 24 Jul 2026 04:35:35 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 4e1e334eff</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=4e1e334eff1d718ed0208ba81b9f2c5f3d82dd4abc5690da9472774c4f6b1224</link>
@@ -4881,126 +5001,6 @@
       <link>https://nostr.mycontinuum.xyz/e/?event_id=212d9cc8643980bccca43f77d593c415493d56ba56f784aebc3fc7434fe8b52b</link>
       <guid isPermaLink="false">212d9cc8643980bccca43f77d593c415493d56ba56f784aebc3fc7434fe8b52b</guid>
       <pubDate>Sun, 22 Mar 2026 04:43:37 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 e4ebc8a9c1</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e4ebc8a9c1bc441d6edc89ad21b156ac203d7edf0a8054d51f9147adf13c17b3</link>
-      <guid isPermaLink="false">e4ebc8a9c1bc441d6edc89ad21b156ac203d7edf0a8054d51f9147adf13c17b3</guid>
-      <pubDate>Sun, 22 Mar 2026 04:43:11 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 0d89c9c1eb</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0d89c9c1eb3f0ee962999b13941402249042b02c287243a890d6bcd69a6e3135</link>
-      <guid isPermaLink="false">0d89c9c1eb3f0ee962999b13941402249042b02c287243a890d6bcd69a6e3135</guid>
-      <pubDate>Sun, 22 Mar 2026 04:42:32 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 61ef9d32de</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=61ef9d32defa3377e271134a4cad9739cfec858130e164c1503e81ee6e01fd06</link>
-      <guid isPermaLink="false">61ef9d32defa3377e271134a4cad9739cfec858130e164c1503e81ee6e01fd06</guid>
-      <pubDate>Sun, 22 Mar 2026 04:42:11 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>Sabbath Is Not a Break. It’s Alignment.</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9a5a9a479a8602746ff1883bf45bd878843875ce7cafe21206c62a8a82c9c5e6</link>
-      <guid isPermaLink="false">9a5a9a479a8602746ff1883bf45bd878843875ce7cafe21206c62a8a82c9c5e6</guid>
-      <pubDate>Sun, 22 Mar 2026 04:05:38 GMT</pubDate>
-      <description><![CDATA[Sabbath is not a recovery mechanism for exhaustion—it is a return to alignment with God as the true source. This article explores how rest reframes work, exposes hidden dependencies, and reshapes the way we build, write, and live.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>You Cannot Build What You Refuse to Leave</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=c07a13af597099228668b58cd97fac1b3be8669df1390013b7ddb720e99365b0</link>
-      <guid isPermaLink="false">c07a13af597099228668b58cd97fac1b3be8669df1390013b7ddb720e99365b0</guid>
-      <pubDate>Sun, 22 Mar 2026 04:03:19 GMT</pubDate>
-      <description><![CDATA[Sabbath reveals whether we are building in trust or in control. This article explores how our attachment to work exposes hidden dependencies, and why true durability requires the ability to step away.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>I Don’t Write to Engage. I Write to Clarify.</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=90f10962f860b4e8e3377350293ec493f4ca487769dfaadf5ea887ca63b89606</link>
-      <guid isPermaLink="false">90f10962f860b4e8e3377350293ec493f4ca487769dfaadf5ea887ca63b89606</guid>
-      <pubDate>Sun, 22 Mar 2026 04:00:55 GMT</pubDate>
-      <description><![CDATA[Writing shaped by platforms drifts toward performance. This article explores a different approach—writing as a process of clarification, built through notes, refined over time, and aligned with durability rather than engagement.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Book 2 - Building Local-First Systems - Chap. 9 - Separation of Authoring and Distribution</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a4486dd9b1bc2761144bb170977b6f559d407cc5755e38b31af23d4f58acff1b</link>
-      <guid isPermaLink="false">a4486dd9b1bc2761144bb170977b6f559d407cc5755e38b31af23d4f58acff1b</guid>
-      <pubDate>Sat, 21 Mar 2026 21:46:43 GMT</pubDate>
-      <description><![CDATA[Most systems tightly couple the act of creating content with the act of publishing it. This creates dependency on networks, platforms, and infrastructure at the moment of creation. Local-first systems must separate these concerns. This chapter defines the distinction between authoring and distribution and explains how decoupling them enables durability, flexibility, and true sovereignty.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Book 2 - Building Local-First Systems - Chap. 8 - Identity as a First-Class Primitive</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=a858544ea17c4e5ee5a30b8fc5e4373bf0a3d3d00ca98f7887dc95060dad60ae</link>
-      <guid isPermaLink="false">a858544ea17c4e5ee5a30b8fc5e4373bf0a3d3d00ca98f7887dc95060dad60ae</guid>
-      <pubDate>Sat, 21 Mar 2026 21:46:25 GMT</pubDate>
-      <description><![CDATA[Most systems treat identity as an afterthought — something layered on top of functionality through accounts and authentication. Local-first systems cannot. Identity must be foundational, shaping how data is created, signed, verified, and distributed. This chapter defines identity as a first-class primitive and outlines the design implications of building systems around it.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Book 2 - Building Local-First Systems - Chap 7 - Determinism Over Dynamism</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=4bab42d8f6a694b7b2d38203b5218f9169786b6ca572f61996451c4cefc70904</link>
-      <guid isPermaLink="false">4bab42d8f6a694b7b2d38203b5218f9169786b6ca572f61996451c4cefc70904</guid>
-      <pubDate>Sat, 21 Mar 2026 21:46:08 GMT</pubDate>
-      <description><![CDATA[Local-first systems prioritize determinism — predictable, reproducible behavior — over dynamic, server-driven state. This chapter explains why determinism is essential for trust, recoverability, and durability, and how it shapes system design choices around state, execution, and synchronization.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Book 2 - Building Local-First Systems - Chap 6 - Local Authority First</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=e95a12b1414178990b861b980580c9c889b3ff0a58b0557b59e32ff898307ca0</link>
-      <guid isPermaLink="false">e95a12b1414178990b861b980580c9c889b3ff0a58b0557b59e32ff898307ca0</guid>
-      <pubDate>Sat, 21 Mar 2026 21:45:39 GMT</pubDate>
-      <description><![CDATA[A local-first system must treat the local environment as the primary source of truth. This is not a conceptual preference but a design constraint that shapes storage, identity, synchronization, and failure handling. This chapter defines what “local authority” means in concrete terms and how to implement it in practice.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 57afb009b1</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=57afb009b1df7f60b3ab79b867a73b181666b0cf688a7735aad684745cb5deef</link>
-      <guid isPermaLink="false">57afb009b1df7f60b3ab79b867a73b181666b0cf688a7735aad684745cb5deef</guid>
-      <pubDate>Sat, 21 Mar 2026 18:09:17 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:1</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:1 19c20de277</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=19c20de2771be5639b4a8fdea1bfb01b9241c2e843927502769120687b931ab3</link>
-      <guid isPermaLink="false">19c20de2771be5639b4a8fdea1bfb01b9241c2e843927502769120687b931ab3</guid>
-      <pubDate>Sat, 21 Mar 2026 18:03:54 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
