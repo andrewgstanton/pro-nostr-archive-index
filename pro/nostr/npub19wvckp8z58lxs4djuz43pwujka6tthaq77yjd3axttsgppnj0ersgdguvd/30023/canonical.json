@@ -4144,5 +4144,10 @@
     "latest_event_id": "d8a60e791e2e779c07392801f48e8c92080a8ba9a1b792aa83ec989aaa248686",
     "latest_year": 2026,
     "published": false
+  },
+  "builders-journal---friday-july-24-2026": {
+    "latest_event_id": "359e769a5b3e74104da978adc61fa975d6dae3f7a064297e6a4fd5b15f5ec112",
+    "latest_year": 2026,
+    "published": false
   }
 }
