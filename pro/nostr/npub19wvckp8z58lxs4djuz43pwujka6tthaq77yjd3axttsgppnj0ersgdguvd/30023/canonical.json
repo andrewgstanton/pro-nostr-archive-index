@@ -4204,5 +4204,10 @@
     "latest_event_id": "cfe8282a85cccdc0fb63baf76c0807695b370aed42fe0fa3825e878c3e93f18e",
     "latest_year": 2026,
     "published": false
+  },
+  "builders-journal---saturday-august-22-2026": {
+    "latest_event_id": "5206879f23ad827f49b98fd92168760588cc1d74ff9b642cf85ba2265901672a",
+    "latest_year": 2026,
+    "published": false
   }
 }
