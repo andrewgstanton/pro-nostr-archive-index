@@ -3949,5 +3949,83 @@
     "event_id": "18c70a19e4810aa2fffd7533fad0f552a8e1ca3deef68bba85bf444e64ce2498",
     "created_at": 1786294390,
     "published": false
+  },
+  {
+    "slug": "monday-august-10-2026",
+    "event_id": "1ea7182a67a16638b0613de3ad3b6e2f5b8f15ab6fc2e9bfefa84f0ec8910163",
+    "created_at": 1786504078,
+    "published": false
+  },
+  {
+    "slug": "builders-journal---tuesday-august-11-2026",
+    "event_id": "b840962010516739ccc940ba66350240510756e50e8b2345a0f0b2d26fb356f6",
+    "created_at": 1786504472,
+    "published": false
+  },
+  {
+    "slug": "builders-journal---friday-august-14-2026",
+    "event_id": "e956ffc55d5a52bc777c88e05522f0822ef1bf425a5d7a0604c64a8e513308cb",
+    "created_at": 1786767738,
+    "published": false
+  },
+  {
+    "slug": "builders-journal---thursday-august-13-2026",
+    "event_id": "1e35aa09cd1da93a19ca7f1f80830ca3be9b8ebd016beb86cad2bcfe8764ada5",
+    "created_at": 1786767873,
+    "published": false
+  },
+  {
+    "slug": "builders-journal---wednesday-august-12-2026",
+    "event_id": "4c7724bc937aaf17cc5b4d9a9bcaf3d439a5a6ab9de8a53fa147fd55c5e06929",
+    "created_at": 1786768321,
+    "published": false
+  },
+  {
+    "slug": "monday-august-10-2026",
+    "event_id": "d6a8f2b9f078bc11cab23d5e0c083ab8dc2eab1241283b35aca2b480e58b45de",
+    "created_at": 1786768358,
+    "published": false
+  },
+  {
+    "slug": "saturday-august-8-2026",
+    "event_id": "e36166658932ec6ce33bb21359a62bf7509777b1a0aefd7dda4d7710aae97ace",
+    "created_at": 1786768392,
+    "published": false
+  },
+  {
+    "slug": "sunday-august-9-2026",
+    "event_id": "88e906dda36bd875727a58fff022991cbc1ab83a86f34c8095c345d0ced3a51d",
+    "created_at": 1786768418,
+    "published": false
+  },
+  {
+    "slug": "saturday-august-15-2026",
+    "event_id": "73913d0a31bab4489ba4e804d00936c2e79129cc105e578768720300dbdb3fb4",
+    "created_at": 1786850118,
+    "published": false
+  },
+  {
+    "slug": "saturday-august-15-2026",
+    "event_id": "2dd0eb212c23f3c3cebdee2dd29f53c6eb98a66457f09773a7a796fd3773912e",
+    "created_at": 1786850288,
+    "published": false
+  },
+  {
+    "slug": "builders-journal---thursday-august-20-2026",
+    "event_id": "b32f91d6b2e6b6b13f6b5cda63beeb454abb361e724a0de94597ba0fa0477b6c",
+    "created_at": 1787288593,
+    "published": false
+  },
+  {
+    "slug": "builders-journal---friday-august-21-2026",
+    "event_id": "144f8131330d04fee1c335edbfd50d7eeb64ce38e67e36c6f203a075f105d92b",
+    "created_at": 1787374198,
+    "published": false
+  },
+  {
+    "slug": "builders-journal---friday-august-21-2026",
+    "event_id": "cfe8282a85cccdc0fb63baf76c0807695b370aed42fe0fa3825e878c3e93f18e",
+    "created_at": 1787375919,
+    "published": false
   }
 ]

@@ -4156,12 +4156,52 @@
     "published": false
   },
   "saturday-august-8-2026": {
-    "latest_event_id": "c65156428f290344c63a002fddd75de2999bb92e0555092a706bf6e351801770",
+    "latest_event_id": "e36166658932ec6ce33bb21359a62bf7509777b1a0aefd7dda4d7710aae97ace",
     "latest_year": 2026,
     "published": false
   },
   "sunday-august-9-2026": {
-    "latest_event_id": "18c70a19e4810aa2fffd7533fad0f552a8e1ca3deef68bba85bf444e64ce2498",
+    "latest_event_id": "88e906dda36bd875727a58fff022991cbc1ab83a86f34c8095c345d0ced3a51d",
+    "latest_year": 2026,
+    "published": false
+  },
+  "monday-august-10-2026": {
+    "latest_event_id": "d6a8f2b9f078bc11cab23d5e0c083ab8dc2eab1241283b35aca2b480e58b45de",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---tuesday-august-11-2026": {
+    "latest_event_id": "b840962010516739ccc940ba66350240510756e50e8b2345a0f0b2d26fb356f6",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---friday-august-14-2026": {
+    "latest_event_id": "e956ffc55d5a52bc777c88e05522f0822ef1bf425a5d7a0604c64a8e513308cb",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---thursday-august-13-2026": {
+    "latest_event_id": "1e35aa09cd1da93a19ca7f1f80830ca3be9b8ebd016beb86cad2bcfe8764ada5",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---wednesday-august-12-2026": {
+    "latest_event_id": "4c7724bc937aaf17cc5b4d9a9bcaf3d439a5a6ab9de8a53fa147fd55c5e06929",
+    "latest_year": 2026,
+    "published": false
+  },
+  "saturday-august-15-2026": {
+    "latest_event_id": "2dd0eb212c23f3c3cebdee2dd29f53c6eb98a66457f09773a7a796fd3773912e",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---thursday-august-20-2026": {
+    "latest_event_id": "b32f91d6b2e6b6b13f6b5cda63beeb454abb361e724a0de94597ba0fa0477b6c",
+    "latest_year": 2026,
+    "published": false
+  },
+  "builders-journal---friday-august-21-2026": {
+    "latest_event_id": "cfe8282a85cccdc0fb63baf76c0807695b370aed42fe0fa3825e878c3e93f18e",
     "latest_year": 2026,
     "published": false
   }
