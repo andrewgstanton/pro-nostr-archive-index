@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Index for npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 12 Oct 2026 04:47:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 02:28:50 GMT</lastBuildDate>
+    <item>
+      <title>The Sovereign Archive: The Canonical Bitcoin Chronicles Index</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=bff01979110faa6c7da22701783f3a935d1f997b8c1fd0bf5b268be64cb16be8</link>
+      <guid isPermaLink="false">bff01979110faa6c7da22701783f3a935d1f997b8c1fd0bf5b268be64cb16be8</guid>
+      <pubDate>Mon, 12 Oct 2026 09:42:57 GMT</pubDate>
+      <description><![CDATA[This index presents the canonical, chronologically ordered, arc-based structure of the Bitcoin Chronicles Universe — a continuity map spanning early Earthbound origins, interplanetary expansion, philosophical eras, sovereign colonies, far-future civilizations, and the later return to practical sovereignty. As the universe grows, this index will remain the authoritative guide for narrative placement across arcs, eras, and worlds.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>Why Trading Still Matters — And What Most People Get Wrong</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=6b4d1c50732044334c9d109387ecccb9d86d21147c18e738f5b21017f5e4bee8</link>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">d7e866616909980e75c2a940e0b266cf508cfeca287c49f19cc1826cd812abeb</guid>
       <pubDate>Fri, 12 Dec 2025 07:04:41 GMT</pubDate>
       <description><![CDATA[Andrew connects the personal act of release to the spiritual and economic truth of sovereignty. In both grief and Bitcoin, we learn to hold loosely — to trust what endures rather than what inflates. Letting go becomes the ultimate form of faith: stewardship without fear.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Sept. 24, 2025): Dying with Christ, Rising with Truth</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=0de787d082ec7c5637be7520108012aa924d309a4f071095b02f9c285324c53e</link>
-      <guid isPermaLink="false">0de787d082ec7c5637be7520108012aa924d309a4f071095b02f9c285324c53e</guid>
-      <pubDate>Fri, 12 Dec 2025 07:01:37 GMT</pubDate>
-      <description><![CDATA[A meditation on the spiritual heart of loss. Through the lens of his father’s final days, Andrew reflects on how grief becomes participation in the gospel itself — the dying of the false self, the surrender of control, and the quiet rising of truth that cannot die.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
