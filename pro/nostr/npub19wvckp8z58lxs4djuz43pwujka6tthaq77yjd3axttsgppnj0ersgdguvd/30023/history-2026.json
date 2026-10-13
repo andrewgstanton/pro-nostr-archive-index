@@ -3919,5 +3919,10 @@
     "event_id": "359e769a5b3e74104da978adc61fa975d6dae3f7a064297e6a4fd5b15f5ec112",
     "created_at": 1784940070,
     "published": false
+  },
+  {
+    "slug": "the-sovereign-archive-the-canonical-bitcoin-chronicles-index",
+    "event_id": "bff01979110faa6c7da22701783f3a935d1f997b8c1fd0bf5b268be64cb16be8",
+    "created_at": 1791798177
   }
 ]
