@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Continuum Archive Index — npub1pzjf5ju2zv2z4rjj4323exa5g3vph37yujgwlektexskccaxyk4sa3l8c3 (Profiles)</title>
+    <link>https://nostr.mycontinuum.xyz/e/list.html</link>
+    <description>Index for npub1pzjf5ju2zv2z4rjj4323exa5g3vph37yujgwlektexskccaxyk4sa3l8c3 filtered to profiles (kind:0), newest 500.</description>
+    <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub1pzjf5ju2zv2z4rjj4323exa5g3vph37yujgwlektexskccaxyk4sa3l8c3/kind/0.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Oct 2026 21:02:53 GMT</lastBuildDate>
+    <item>
+      <title>kind:0 ccb84fa66f</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=ccb84fa66f0908abf838723a99026a6ca85b7afc32440356047e44bcf6ee2713</link>
+      <guid isPermaLink="false">ccb84fa66f0908abf838723a99026a6ca85b7afc32440356047e44bcf6ee2713</guid>
+      <pubDate>Mon, 12 Oct 2026 00:42:51 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:0</category>
+      <category>npub:npub1pzjf5ju2zv2z4rjj4323exa5g3vph37yujgwlektexskccaxyk4sa3l8c3</category>
+      <category>paid:false</category>
+    </item>
+  </channel>
+</rss>
