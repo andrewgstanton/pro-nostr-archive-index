@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Continuum Archive Index — npub1vldyjwvsn84whhgxe5c35n05c7f9km8uf84v2pz2mn44vzm5qkwqt8gmjy</title>
+    <link>https://nostr.mycontinuum.xyz/e/list.html</link>
+    <description>Canonical chronological index for npub1vldyjwvsn84whhgxe5c35n05c7f9km8uf84v2pz2mn44vzm5qkwqt8gmjy (newest 500).</description>
+    <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub1vldyjwvsn84whhgxe5c35n05c7f9km8uf84v2pz2mn44vzm5qkwqt8gmjy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Oct 2026 22:41:25 GMT</lastBuildDate>
+    <item>
+      <title>kind:1 accaa09659</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=accaa09659473ebb3dacedbb720689303e77e90f6e7d7ad29b9c45219d9bab92</link>
+      <guid isPermaLink="false">accaa09659473ebb3dacedbb720689303e77e90f6e7d7ad29b9c45219d9bab92</guid>
+      <pubDate>Sun, 25 Oct 2026 21:52:18 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub1vldyjwvsn84whhgxe5c35n05c7f9km8uf84v2pz2mn44vzm5qkwqt8gmjy</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:0 73fa884c0c</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=73fa884c0ca6f1af10c6de558805a3475e6351e2aea3a577ac10d52285c47a13</link>
+      <guid isPermaLink="false">73fa884c0ca6f1af10c6de558805a3475e6351e2aea3a577ac10d52285c47a13</guid>
+      <pubDate>Sun, 25 Oct 2026 21:49:48 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:0</category>
+      <category>npub:npub1vldyjwvsn84whhgxe5c35n05c7f9km8uf84v2pz2mn44vzm5qkwqt8gmjy</category>
+      <category>paid:false</category>
+    </item>
+    <item>
+      <title>kind:1 c34dedd44f</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=c34dedd44f8d0fb1b0d7365ad8fa16d0d780fd39e036bbd815e55e28facb7a7b</link>
+      <guid isPermaLink="false">c34dedd44f8d0fb1b0d7365ad8fa16d0d780fd39e036bbd815e55e28facb7a7b</guid>
+      <pubDate>Tue, 13 May 2025 04:20:19 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:1</category>
+      <category>npub:npub1vldyjwvsn84whhgxe5c35n05c7f9km8uf84v2pz2mn44vzm5qkwqt8gmjy</category>
+      <category>paid:false</category>
+    </item>
+  </channel>
+</rss>

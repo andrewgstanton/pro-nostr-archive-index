@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to profiles (kind:0), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/0.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 18 Oct 2026 21:02:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 22:41:24 GMT</lastBuildDate>
+    <item>
+      <title>kind:0 73fa884c0c</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=73fa884c0ca6f1af10c6de558805a3475e6351e2aea3a577ac10d52285c47a13</link>
+      <guid isPermaLink="false">73fa884c0ca6f1af10c6de558805a3475e6351e2aea3a577ac10d52285c47a13</guid>
+      <pubDate>Sun, 25 Oct 2026 21:49:48 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:0</category>
+      <category>npub:npub1vldyjwvsn84whhgxe5c35n05c7f9km8uf84v2pz2mn44vzm5qkwqt8gmjy</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:0 ccb84fa66f</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=ccb84fa66f0908abf838723a99026a6ca85b7afc32440356047e44bcf6ee2713</link>
@@ -84,16 +94,6 @@
       <description><![CDATA[]]></description>
       <category>kind:0</category>
       <category>npub:npub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:0 f6f370f407</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=f6f370f407c74cc36fe51c234d150c00775f502ac51ca610c50423dad32bb673</link>
-      <guid isPermaLink="false">f6f370f407c74cc36fe51c234d150c00775f502ac51ca610c50423dad32bb673</guid>
-      <pubDate>Tue, 19 Aug 2025 03:21:24 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:0</category>
-      <category>npub:npub1vldyjwvsn84whhgxe5c35n05c7f9km8uf84v2pz2mn44vzm5qkwqt8gmjy</category>
       <category>paid:false</category>
     </item>
     <item>

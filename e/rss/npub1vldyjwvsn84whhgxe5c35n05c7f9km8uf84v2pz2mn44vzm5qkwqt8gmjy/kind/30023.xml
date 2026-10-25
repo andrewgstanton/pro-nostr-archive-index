@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Continuum Archive Index — npub1vldyjwvsn84whhgxe5c35n05c7f9km8uf84v2pz2mn44vzm5qkwqt8gmjy (Articles)</title>
+    <link>https://nostr.mycontinuum.xyz/e/list.html</link>
+    <description>Index for npub1vldyjwvsn84whhgxe5c35n05c7f9km8uf84v2pz2mn44vzm5qkwqt8gmjy filtered to articles (kind:30023), newest 500.</description>
+    <atom:link href="https://nostr.mycontinuum.xyz/e/rss/npub1vldyjwvsn84whhgxe5c35n05c7f9km8uf84v2pz2mn44vzm5qkwqt8gmjy/kind/30023.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Oct 2026 22:41:25 GMT</lastBuildDate>
+  </channel>
+</rss>
