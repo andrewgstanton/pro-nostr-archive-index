@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Canonical chronological index of published works (newest 500).</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/index.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 25 Oct 2026 22:41:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 21:49:14 GMT</lastBuildDate>
+    <item>
+      <title>kind:0 9539435294</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=953943529492424fb840fc868207bbf79126c9837b264770558980578ceed7dd</link>
+      <guid isPermaLink="false">953943529492424fb840fc868207bbf79126c9837b264770558980578ceed7dd</guid>
+      <pubDate>Mon, 26 Oct 2026 23:33:39 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>kind:0</category>
+      <category>npub:npub1vldyjwvsn84whhgxe5c35n05c7f9km8uf84v2pz2mn44vzm5qkwqt8gmjy</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>kind:1 accaa09659</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=accaa09659473ebb3dacedbb720689303e77e90f6e7d7ad29b9c45219d9bab92</link>
@@ -13,16 +23,6 @@
       <pubDate>Sun, 25 Oct 2026 21:52:18 GMT</pubDate>
       <description><![CDATA[]]></description>
       <category>kind:1</category>
-      <category>npub:npub1vldyjwvsn84whhgxe5c35n05c7f9km8uf84v2pz2mn44vzm5qkwqt8gmjy</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>kind:0 73fa884c0c</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=73fa884c0ca6f1af10c6de558805a3475e6351e2aea3a577ac10d52285c47a13</link>
-      <guid isPermaLink="false">73fa884c0ca6f1af10c6de558805a3475e6351e2aea3a577ac10d52285c47a13</guid>
-      <pubDate>Sun, 25 Oct 2026 21:49:48 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>kind:0</category>
       <category>npub:npub1vldyjwvsn84whhgxe5c35n05c7f9km8uf84v2pz2mn44vzm5qkwqt8gmjy</category>
       <category>paid:false</category>
     </item>
@@ -2507,11 +2507,11 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>Syncing Events to Archive</title>
+      <title>kind:30023 346fe64979</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=346fe64979da2d535f11de19b0f602dd3ce9dbf63ab7ff000aeda8baa4c56fae</link>
       <guid isPermaLink="false">346fe64979da2d535f11de19b0f602dd3ce9dbf63ab7ff000aeda8baa4c56fae</guid>
       <pubDate>Fri, 22 May 2026 00:26:46 GMT</pubDate>
-      <description><![CDATA[Continuum’s archive sync work is moving from shell-driven Docker workflows into the application runtime itself. Step 1 proved that kind:1 notes can be persisted into the archive. Step 2 extends the same flow to kind:30023 long-form articles.]]></description>
+      <description><![CDATA[]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
