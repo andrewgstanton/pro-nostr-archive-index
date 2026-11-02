@@ -1,6 +1,50 @@
 [
   {
     "slug": null,
+    "event_id": "fff1ad28f181eb8be4860a1e5400a430d299ed1052994e6cd5704aa8e84ae4cb",
+    "created_at": 1793468137,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/fff1ad28f181eb8be4860a1e5400a430d299ed1052994e6cd5704aa8e84ae4cb.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "f042d9336955419d27d0f53ceb558f1ed3b248b4c11f84a34d14a774b2302317",
+    "created_at": 1793468072,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/f042d9336955419d27d0f53ceb558f1ed3b248b4c11f84a34d14a774b2302317.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "65d5e8bdbe44606549890b7a7472ef57743986efd97398c4334ccac0f0d2e9a3",
+    "created_at": 1793463468,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/65d5e8bdbe44606549890b7a7472ef57743986efd97398c4334ccac0f0d2e9a3.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": "beyond-digital-bitcoin-why-a-bitcoin-standard-may-still-need-paper-money",
+    "event_id": "2583391088cd23f21a2497e8a739e1163d64a44fb09298f8c5e0750ac7717fcb",
+    "created_at": 1793423713,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 30023,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/2583391088cd23f21a2497e8a739e1163d64a44fb09298f8c5e0750ac7717fcb.json",
+    "title": "Beyond Digital Bitcoin: Why a Bitcoin Standard May Still Need Paper Money",
+    "summary": "Bitcoin offers a new foundation for sound money. But a resilient monetary system must work not only when digital infrastructure is functioning, but also when it fails—and when the currencies people depend on begin losing their value.",
+    "paid": false
+  },
+  {
+    "slug": null,
     "event_id": "953943529492424fb840fc868207bbf79126c9837b264770558980578ceed7dd",
     "created_at": 1793057619,
     "npub": "npub1vldyjwvsn84whhgxe5c35n05c7f9km8uf84v2pz2mn44vzm5qkwqt8gmjy",
@@ -259,6 +303,83 @@
     "npub": "npub1pzjf5ju2zv2z4rjj4323exa5g3vph37yujgwlektexskccaxyk4sa3l8c3",
     "kind": 1,
     "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub1pzjf5ju2zv2z4rjj4323exa5g3vph37yujgwlektexskccaxyk4sa3l8c3/1/a04aae5e7c1a45a2c6d390293c43964fae1e5bb30d40c243fbcdbc5eb260ed4f.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "9f166fbb85aedd3b592c334901b08b060a6f689fe9120d28ef071030a27795a8",
+    "created_at": 1792294147,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/9f166fbb85aedd3b592c334901b08b060a6f689fe9120d28ef071030a27795a8.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "1d612eb1b32689ddec51817e523e6568720e61e9538021ab245b1314b1f14c32",
+    "created_at": 1791953198,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/1d612eb1b32689ddec51817e523e6568720e61e9538021ab245b1314b1f14c32.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "2b67aa0899743dfffce274e07444757554a087f16152c4930be4105d4f027f34",
+    "created_at": 1791924273,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/2b67aa0899743dfffce274e07444757554a087f16152c4930be4105d4f027f34.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "9a841bddd5d0cd9fb1c75a2115ab6e5ab3ab9c24a9982ede5c5f458e845a344f",
+    "created_at": 1791879680,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/9a841bddd5d0cd9fb1c75a2115ab6e5ab3ab9c24a9982ede5c5f458e845a344f.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "0a0c60351688d30dae8f1a9e3fea338ae36c29b0626889114fbcfd1a20e3b270",
+    "created_at": 1791878561,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/0a0c60351688d30dae8f1a9e3fea338ae36c29b0626889114fbcfd1a20e3b270.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "04889a651011fca14fbc0f531be12ba1692ae514f4f561e2af576e1dbac38909",
+    "created_at": 1791878356,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/04889a651011fca14fbc0f531be12ba1692ae514f4f561e2af576e1dbac38909.json",
+    "title": "",
+    "summary": "",
+    "paid": false
+  },
+  {
+    "slug": null,
+    "event_id": "c5fbb93be54d2957ef2043dd34093cf199368fb41c6501ae59c4ee10f4b28282",
+    "created_at": 1791876835,
+    "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
+    "kind": 1,
+    "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/1/c5fbb93be54d2957ef2043dd34093cf199368fb41c6501ae59c4ee10f4b28282.json",
     "title": "",
     "summary": "",
     "paid": false
@@ -5674,8 +5795,8 @@
     "npub": "npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd",
     "kind": 30023,
     "json_url": "https://2026.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/30023/346fe64979da2d535f11de19b0f602dd3ce9dbf63ab7ff000aeda8baa4c56fae.json",
-    "title": "",
-    "summary": "",
+    "title": "Syncing Events to Archive",
+    "summary": "Continuum’s archive sync work is moving from shell-driven Docker workflows into the application runtime itself. Step 1 proved that kind:1 notes can be persisted into the archive. Step 2 extends the same flow to kind:30023 long-form articles.",
     "paid": false
   },
   {

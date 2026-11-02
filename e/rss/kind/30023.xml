@@ -5,7 +5,17 @@
     <link>https://nostr.mycontinuum.xyz/e/list.html</link>
     <description>Global index filtered to articles (kind:30023), newest 500.</description>
     <atom:link href="https://nostr.mycontinuum.xyz/e/rss/kind/30023.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 27 Oct 2026 21:49:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 05:01:16 GMT</lastBuildDate>
+    <item>
+      <title>Beyond Digital Bitcoin: Why a Bitcoin Standard May Still Need Paper Money</title>
+      <link>https://nostr.mycontinuum.xyz/e/?event_id=2583391088cd23f21a2497e8a739e1163d64a44fb09298f8c5e0750ac7717fcb</link>
+      <guid isPermaLink="false">2583391088cd23f21a2497e8a739e1163d64a44fb09298f8c5e0750ac7717fcb</guid>
+      <pubDate>Sat, 31 Oct 2026 05:15:13 GMT</pubDate>
+      <description><![CDATA[Bitcoin offers a new foundation for sound money. But a resilient monetary system must work not only when digital infrastructure is functioning, but also when it fails—and when the currencies people depend on begin losing their value.]]></description>
+      <category>kind:30023</category>
+      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
+      <category>paid:false</category>
+    </item>
     <item>
       <title>The Sovereign Archive: The Canonical Bitcoin Chronicles Index</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=bff01979110faa6c7da22701783f3a935d1f997b8c1fd0bf5b268be64cb16be8</link>
@@ -187,11 +197,11 @@
       <category>paid:false</category>
     </item>
     <item>
-      <title>kind:30023 346fe64979</title>
+      <title>Syncing Events to Archive</title>
       <link>https://nostr.mycontinuum.xyz/e/?event_id=346fe64979da2d535f11de19b0f602dd3ce9dbf63ab7ff000aeda8baa4c56fae</link>
       <guid isPermaLink="false">346fe64979da2d535f11de19b0f602dd3ce9dbf63ab7ff000aeda8baa4c56fae</guid>
       <pubDate>Fri, 22 May 2026 00:26:46 GMT</pubDate>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[Continuum’s archive sync work is moving from shell-driven Docker workflows into the application runtime itself. Step 1 proved that kind:1 notes can be persisted into the archive. Step 2 extends the same flow to kind:30023 long-form articles.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
@@ -4992,16 +5002,6 @@
       <guid isPermaLink="false">175ccbc638f411e625e63f41c242d8c0eeebd2b461c0094f2fb4cf96ac868c99</guid>
       <pubDate>Sat, 13 Dec 2025 00:15:27 GMT</pubDate>
       <description><![CDATA[While fiat civilization endures on Earth, the Genesis Block crew carries Bitcoin’s covenant to Alpha Centauri — founding the first fully sovereign interstellar colony bound by proof, not politics.]]></description>
-      <category>kind:30023</category>
-      <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
-      <category>paid:false</category>
-    </item>
-    <item>
-      <title>🔒 Paid Article (Oct. 15, 2025): Cathedrals of Freedom — Building What Endures</title>
-      <link>https://nostr.mycontinuum.xyz/e/?event_id=9d98aa3ba4f4d8327496384772f82418687600bdabf1c61d14938acaaeb1b293</link>
-      <guid isPermaLink="false">9d98aa3ba4f4d8327496384772f82418687600bdabf1c61d14938acaaeb1b293</guid>
-      <pubDate>Sat, 13 Dec 2025 00:09:21 GMT</pubDate>
-      <description><![CDATA[An extended meditation on what it means to build lasting systems in an age of collapse. the author draws parallels between medieval cathedral-building and modern open-source civilization, arguing that sovereignty, transparency, and truth are the enduring foundations of human freedom.]]></description>
       <category>kind:30023</category>
       <category>npub:npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd</category>
       <category>paid:false</category>
